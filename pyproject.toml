@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "amendmerge"
+version = "0.1.0"
+description = ""
+authors = ["Maximilian Haag <>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+eucy = {git = "https://github.com/ghxm/euCy"}
+spacy = "^3.6.1"
+pandas = "^2.0.3"
+bs4 = "^0.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
