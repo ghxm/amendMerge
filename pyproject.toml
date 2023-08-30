@@ -13,6 +13,10 @@ pandas = "^2.0.3"
 bs4 = "^0.0.1"
 
 
+[tool.poetry.group.tests.dependencies]
+pandas = "^2.0.3"
+pytest = "^7.4.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
