@@ -1,4 +1,6 @@
-from bs4 import BeautifulSoup, element
+import warnings
+
+from bs4 import BeautifulSoup, element, Tag
 import os
 import re
 from collections import OrderedDict
@@ -183,3 +185,51 @@ def combine_consecutive_tags(bs_or_list, tag_name, match_attributes = [], find_a
         return bs_or_list
 
 
+def determine_ep_report_html_subformat(source):
+    subformat = ''
+
+    if isinstance(source, str):
+        bs = BeautifulSoup(source, html_parser())
+    elif isinstance(source, Tag):
+        bs = source
+    else:
+        raise ValueError('source must be a string or bs4.Tag')
+
+    # get list of all ids
+    ids = set([x.get('id') for x in bs.findAll()])
+
+    # check if any match _section format
+    section_ids = [x for x in ids if hasattr(x, 'startswith') and x.startswith('_section')]
+
+    if len(section_ids) > 0:
+        subformat += '202305'
+
+        # check if it's an older case or a newer by looking for classes starting with 'red'
+        red_classes = bs.findAll('div', {'class': (lambda x: x and x.startswith('red'))})
+
+        if red_classes is not None and len(red_classes) > 0:
+            # new cases in new layout
+            subformat += '-new'
+        else:
+            # old cases in old layout
+            subformat += '-old'
+
+    else:
+        warnings.warn('Could not determine subformat')
+
+    return subformat
+
+def html_parser(order=['lxml', 'html.parser']):
+
+    # check if installed and return the first one that is
+    for parser in order:
+        try:
+            bs = BeautifulSoup('', parser)
+
+            if parser != 'lxml':
+
+                warnings.warn('Using {} as html parser. Install lxml for better performance.'.format(parser))
+
+            return parser
+        except:
+            pass

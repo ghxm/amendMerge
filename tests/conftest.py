@@ -2,6 +2,7 @@ import pytest
 import pandas as pd
 import os
 from bs4 import BeautifulSoup
+from amendmerge.ep_report.html import HtmlEpReport
 
 ep_report_request_id = lambda request: request.node.callspec.params['ep_report_html']
 
@@ -13,14 +14,13 @@ def ep_report_result_by_id(id, results=None):
     if results is None:
         results = ep_reports_results()
 
-    result = results[results['report_id'].str.contains(id)]
+    # subset to cases where report_id is a substring of id
+    result = results[results['report_id'].apply(lambda x: x in id)]
 
     assert len(result) == 1, "more than one result for id {}".format(
         id)
 
-    res = result.to_dict()
-
-    return res
+    return result
 
 
 @pytest.fixture
@@ -38,7 +38,7 @@ ep_reports_html_filenames = [f for f in os.listdir('tests/data/ep_reports_html')
 def ep_report_html(request):
     """ EP reports in html format """
 
-    with open('tests/data/ep_reports_html' + request.param + '.html', 'r') as f:
+    with open('tests/data/ep_reports_html/' + request.param, 'r') as f:
         report_html = f.read()
 
     return report_html
@@ -51,4 +51,10 @@ def ep_report_bs(ep_report_html):
 
     return report_bs
 
-# TODO DataSource (report) objects ficture
+@pytest.fixture
+def ep_report(ep_report_bs):
+    """ EP reports in amendMerge format """
+
+    report = HtmlEpReport.create(source=ep_report_bs)
+
+    return report

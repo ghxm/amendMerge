@@ -6,10 +6,10 @@ procedure_id,report_id,report_type_sentence,report_type,amendments_heading,amend
 ",,INI
 2016_74,A-8-2017-0381,1. Adopts its position at first reading hereinafter set out;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,181,
 2017_143,A-8-2018-0278,1. Adopts its position at first reading hereinafter set out;,amendments_text,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
-2004_240,A-6-2005-0410,1. Approves the Commission proposal as amended,taking_over_com_proposal,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
+2004_240,A-6-2005-0410,1. Approves the Commission proposal as amended,amendments_text,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,no amendments or amended proposal attached
 2000_182,A-5-2003-0149,1. Approves the Commission proposal as amended;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,1,
 2010_298,A-7-2011-0246,1. Adopts its position at first reading hereinafter set out,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,25,
-2000_212,A-5-2001-0364,1. Approves the Commission proposal as amended,taking_over_com_proposal,DRAFT LEGISLATIVE RESOLUTION,,
+2000_212,A-5-2001-0364,1. Approves the Commission proposal as amended,amendments_table,DRAFT LEGISLATIVE RESOLUTION,,above_resolution
 1998_284,A-4-1999-0087,"1. Approves the Commission proposal, subject to Parliament's amendments;",amendments_table,A LEGISLATIVE PROPOSAL - DRAFT LEGISLATIVE RESOLUTION,3,above_resolution
 1998_158,A-4-1999-0075,"1. Approves the Commission proposal, subject to Parliament's amendments;",amendments_table,A.I LEGISLATIVE PROPOSAL - DRAFT LEGISLATIVE RESOLUTION,4,above_resolution
 2021_191,A-9-2022-0156,1. Adopts its position at first reading hereinafter set out;,amendments_text,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
@@ -31,7 +31,7 @@ procedure_id,report_id,report_type_sentence,report_type,amendments_heading,amend
 2016_397,A-8-2018-0386,1. Adopts its position at first reading hereinafter set out;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,167,from 58 text of proposal not the same as proposal text in draft
 2015_128,A-8-2016-0010,"1. Adopts its position at first reading, taking over the Commission proposal and taking account of the recommendations of the Consultative Working Party of the legal services of the European Parliament, the Council and the Commission;",taking_over_com_proposal,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
 2012_42,A-7-2012-0317,1. Adopts its position at first reading hereinafter set out;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,74,
-2001_77,A-5-2002-0077,1. Approves the Commission proposal as amended;,taking_over_com_proposal,DRAFT LEGISLATIVE RESOLUTION,,
+2001_77,A-5-2002-0077,1. Approves the Commission proposal as amended;,amendments_table,DRAFT LEGISLATIVE RESOLUTION,,
 2006_294,A-6-2007-0342,1. Approves the Commission proposal as amended;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,17,
 1998_303,A-4-1999-0139,"1. Approves the Commission proposal, subject to Parliament's amendments;",amendments_table,A LEGISLATIVE PROPOSAL - DRAFT LEGISLATIVE RESOLUTION,59,above_resolution
 2010_214,A-7-2010-0316,"1. Adopts its position at first reading, taking over the Commission proposal;",taking_over_com_proposal,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
@@ -60,7 +60,7 @@ procedure_id,report_id,report_type_sentence,report_type,amendments_heading,amend
 2019_254,A-9-2020-0101,1. Adopts its position at first reading hereinafter set out;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,122,from 65 onwards text of proposal not the same as proposal text in draft
 2014_287,A-8-2014-0056,"1. Adopts its position at first reading, taking over the Commission proposal;",taking_over_com_proposal,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
 2013_103,A-7-2014-0053,1. Adopts its position at first reading hereinafter set out;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,ammendment 16 - 21 not same 
-2014_256,A-8-2016-0035,1. Approves the Council draft;,taking_over_com_proposal,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
+2014_256,A-8-2016-0035,1.  Adopts its position at first reading hereinafter set out;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
 2010_210,A-7-2013-0428,1. Adopts its position at first reading hereinafter set out;,amendments_text,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
 2003_172,A-5-2004-0171,1. Approves the Commission proposal as amended;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,73,
 2005_167,A-6-2007-0339,1. Approves the Commission proposal as amended;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,73,
@@ -82,7 +82,7 @@ procedure_id,report_id,report_type_sentence,report_type,amendments_heading,amend
 1994_299,A-4-1996-0146,"1. Approves the Commission proposal, subject to Parliament's amendments;",amendments_table,A LEGISLATIVE PROPOSAL - DRAFT LEGISLATIVE RESOLUTION,27,
 2011_209,A-7-2011-0405,"1. Adopts its position at first reading, hereinafter set out;",amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,6,
 1997_193,A-4-1998-0435,"1. Approves the Commission proposal, subject to Parliament's amendments;",amendments_table,A LEGISLATIVE PROPOSAL - DRAFT LEGISLATIVE RESOLUTION,8,above_resolution
-2000_178,A-5-2002-0129,1. Approves the Commission proposal as amended;,amendments_table,EGISLATIVE PROPOSAL,102,above_resolution
+2000_178,A-5-2002-0129,1. Approves the Commission proposal as amended;,amendments_table,LEGISLATIVE PROPOSAL,102,above_resolution
 2010_80,A-7-2011-0017,1. Adopts its position at first reading hereinafter set out;,amendments_table,,,INI
 2016_407,A-8-2017-0348,1. Adopts its position at first reading hereinafter set out;,amendments_table,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,42,
 2020_145,A-9-2021-0202,"1. Adopts its position at first reading, taking over the Commission proposal as adapted to the recommendations of the Consultative Working Party of the legal services of the European Parliament, the Council and the Commission;",taking_over_com_proposal,DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION,,
