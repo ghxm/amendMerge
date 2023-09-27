@@ -1,4 +1,5 @@
 from amendmerge import DataSource
+import warnings
 
 class Resolution(DataSource):
 
@@ -19,6 +20,22 @@ class Resolution(DataSource):
 
     def get_type(self):
         return 'resolution'
+
+    def get_amendment_num(self):
+        if self.amendment_type == 'amendments_table':
+            if self.amendment_table is not None and isinstance(self.amendment_table.amendments, list):
+                return len(self.amendment_table.amendments)
+            else:
+                return None
+
+        elif self.amendment_type == 'amendments_text':
+
+            # TODO return number of amendments in amended text
+            warnings.warn("Amendment number for type amendments_text not implemented yet.")
+            return None
+        else:
+            warnings.warn("Amendment number not available for amendment type " + self.amendment_type)
+            return None
 
     def parse(self):
 

@@ -1,8 +1,9 @@
 import re
 from bs4 import BeautifulSoup
 import copy
-from amendmerge.utils import determine_ep_report_html_subformat, html_parser
+from amendmerge.utils import html_parser
 from amendmerge.resolution import Resolution
+from amendmerge.amendment_table.html import HtmlAmendmentTable
 from amendmerge import Html, DataSource
 import warnings
 import inspect
@@ -24,9 +25,12 @@ class HtmlResolution(Resolution, Html):
     @classmethod
     def create(cls, *args, **kwargs):
 
+        from amendmerge.ep_report.html import determine_ep_report_html_subformat
+
         source = kwargs.get('source') or args[0]
 
         assert source is not None, "Need to specify source."
+
 
         if kwargs.get('subformat') is None:
             kwargs['subformat'] = determine_ep_report_html_subformat(source)
@@ -342,4 +346,4 @@ class HtmlResolution202305(HtmlResolution):
                 amendment_table = None
 
         # TODO instatiate amendment table object
-        self.amendment_table = amendment_table
+        self.amendment_table = HtmlAmendmentTable.create(amendment_table, report=self, subformat=self.subformat)

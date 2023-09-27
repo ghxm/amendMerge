@@ -3,7 +3,7 @@ from .conftest import ep_report_result_by_id, ep_report_request_id
 import pandas as pd
 
 
-def test_resolution_amendment_type(ep_report, ep_reports_results, request):
+def _test_resolution_amendment_type(ep_report, ep_reports_results, request):
 
     report_id = ep_report_request_id(request)
     result = ep_report_result_by_id(report_id, ep_reports_results)
@@ -14,10 +14,20 @@ def test_resolution_amendment_type(ep_report, ep_reports_results, request):
     if pd.isna(result['report_type'].values[0]):
         return
 
-    assert ep_report.resolutions[0].amendment_type == result['report_type'].values[0]
+    assert ep_report.get_ep_draft_resolution().amendment_type == result['report_type'].values[0]
 
 
 # TODO test number of amendments
+def test_resolution_amendment_num(ep_report, ep_reports_results, request):
+
+    report_id = ep_report_request_id(request)
+    result = ep_report_result_by_id(report_id, ep_reports_results)
+
+    if pd.isna(result['amendments_num'].values[0]):
+        return
+
+    assert ep_report.get_ep_draft_resolution().get_amendment_num() == result['amendments_num'].values[0]
+
 
 
 

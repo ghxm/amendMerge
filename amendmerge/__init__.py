@@ -148,12 +148,20 @@ class DataSource:
 
     def read_html(self):
 
-        assert isinstance(self.source_raw, str)
+        from bs4 import Tag
 
-        from bs4 import BeautifulSoup
-        bs = BeautifulSoup(self.source_raw, html_parser())
+        if isinstance(self.source_raw, str):
 
-        return bs
+            from bs4 import BeautifulSoup
+            bs = BeautifulSoup(self.source_raw, html_parser())
+
+            return bs
+
+        elif isinstance(self.source_raw, Tag):
+            return self.source_raw
+
+        else:
+            raise ValueError('source_raw must be a string or a BeautifulSoup object')
 
     def read_doc(self):
         raise NotImplementedError

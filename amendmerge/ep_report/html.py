@@ -1,12 +1,12 @@
 import re
 
-from amendmerge import DataSource
+from amendmerge import DataSource, html_parser
 from amendmerge.ep_report import EpReport
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 import warnings
 
 from amendmerge.resolution.html import HtmlResolution
-from amendmerge.utils import determine_ep_report_html_subformat, html_parser
+from amendmerge.utils import html_parser
 from amendmerge import Html
 
 
@@ -127,4 +127,36 @@ class HtmlEpReport202305(HtmlEpReportSubFormat):
                 self.resolutions = [HtmlResolution.create(BeautifulSoup('<div>' + content + '</div>', html_parser()), report=self, subformat=self.subformat) for i, content in enumerate(contents_strings) if len(content) > 0 and i == 0]
 
 
+def determine_ep_report_html_subformat(source):
+    subformat = ''
 
+    if isinstance(source, str):
+        bs = BeautifulSoup(source, html_parser())
+    elif isinstance(source, Tag):
+        bs = source
+    else:
+        raise ValueError('source must be a string or bs4.Tag')
+
+    # get list of all ids
+    ids = set([x.get('id') for x in bs.findAll()])
+
+    # check if any match _section format
+    section_ids = [x for x in ids if hasattr(x, 'startswith') and x.startswith('_section')]
+
+    if len(section_ids) > 0:
+        subformat += '202305'
+
+        # check if it's an older case or a newer by looking for classes starting with 'red'
+        red_classes = bs.findAll('div', {'class': (lambda x: x and x.startswith('red'))})
+
+        if red_classes is not None and len(red_classes) > 0:
+            # new cases in new layout
+            subformat += '-new'
+        else:
+            # old cases in old layout
+            subformat += '-old'
+
+    else:
+        warnings.warn('Could not determine subformat')
+
+    return subformat

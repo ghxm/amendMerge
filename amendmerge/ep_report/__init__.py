@@ -43,6 +43,16 @@ class EpReport(DataSource):
 
         raise NotImplementedError("This method must be implemented in a subclass")
 
+    def get_ep_draft_resolution(self):
+
+        """Function to identify and return the EP draft resolution from the report.
+        Currently defaults to the first resolution in the list."""
+
+        try:
+            return self.resolutions[0]
+        except (IndexError, AttributeError):
+            return None
+
     def sanity_check_resolutions(self):
 
         assert isinstance(self.resolutions, list), "Resolutions must be a list."
