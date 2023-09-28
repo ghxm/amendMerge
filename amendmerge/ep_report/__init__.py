@@ -71,11 +71,13 @@ class EpReport(DataSource):
 
             if resolution.amendment_type.startswith('amendment'):
 
-                if resolution.amendment_type == 'amendments_table' and resolution.has_no_amendment_table() and not resolution.has_no_amended_text():
+                if (resolution.amendment_type == 'amendments_table' and not resolution.has_no_amendment_table()) or \
+                        (resolution.amendment_type == 'amendments_text' and not resolution.has_no_amended_text()):
+                    continue
+                elif resolution.amendment_type == 'amendments_table' and resolution.has_no_amendment_table() and not resolution.has_no_amended_text():
                     resolution.amendment_type = 'amendments_text'
                 elif resolution.amendment_type == 'amendments_text' and resolution.has_no_amended_text() and not resolution.has_no_amendment_table():
                     resolution.amendment_type = 'amendments_table'
-
                 else:
 
                     if len(self.resolutions) == 1:

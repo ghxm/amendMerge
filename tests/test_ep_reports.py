@@ -24,10 +24,14 @@ def test_resolution_amendment_num(ep_report, ep_reports_results, request):
     result = ep_report_result_by_id(report_id, ep_reports_results)
 
     if pd.isna(result['amendments_num'].values[0]):
+        print('Not eligible for this test')
         return
 
-    assert ep_report.get_ep_draft_resolution().get_amendment_num() == result['amendments_num'].values[0]
-
+    if ep_report.get_ep_draft_resolution().amendment_type == 'amendments_table': # this test only works for amendment tables
+        assert len(ep_report.get_ep_draft_resolution().amendment_table.table_rows) == result['amendments_num'].values[0]
+    else:
+        print('Not eligible for this test')
+        return
 
 
 

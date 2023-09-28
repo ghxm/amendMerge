@@ -1,6 +1,9 @@
 from amendmerge import DataSource
 import warnings
 
+from amendmerge.amendment_table import AmendmentTable
+
+
 class Resolution(DataSource):
 
     def __init__(self,*args, amendment_type = None, parse_amendment_table = True, **kwargs):
@@ -87,9 +90,10 @@ class Resolution(DataSource):
         if am_tab is None:
             return True
         else:
-            if hasattr(am_tab, 'get_text'):
-                am_tab = am_tab.get_text(strip=True)
-            return am_tab is None
+            if isinstance(am_tab, AmendmentTable):
+                return False
+            else:
+                return True
 
     def has_no_amended_text(self):
 
