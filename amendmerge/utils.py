@@ -199,3 +199,23 @@ def html_parser(order=['lxml', 'html.parser']):
             return parser
         except:
             pass
+
+
+def bs_set(elements):
+
+    if not isinstance(elements, list) and not isinstance(elements, element.ResultSet):
+        raise ValueError('elements must be either a list or a bs4.element.ResultSet')
+
+    elements_unique = []
+    for el in elements:
+        if el.get('seen'):
+            continue
+        # give each element a seen attribute
+        el['seen'] = True
+        elements_unique.append(el)
+
+    # remove seen attribute to not interfere with other functions
+    for el in elements:
+        del el['seen']
+
+    return elements_unique

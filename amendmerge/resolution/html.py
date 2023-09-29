@@ -1,12 +1,12 @@
 import re
 from bs4 import BeautifulSoup
 import copy
-from amendmerge.utils import html_parser
+from amendmerge.utils import html_parser, bs_set
 from amendmerge.resolution import Resolution
 from amendmerge.amendment_table.html import HtmlAmendmentTable
 from amendmerge import Html, DataSource
 import warnings
-import inspect
+from collections import OrderedDict
 
 
 
@@ -318,18 +318,36 @@ class HtmlResolution202305(HtmlResolution):
                 # there are cases (e.g. A6-0080/2007) where a single table is actually contained in multiple tables
                 # so we need to find all tables
                 tables = bs.find_all('div', {'class': (lambda x: x and 'table-responsive' in x)})
-                trs = [table.find_all('tr') for table in tables]
+                trs = [table.find_all('tr', recursive=True) for table in tables]
+
+                # also get elements in between tables in correct position
+                for i, table in enumerate(tables):
+                    if i == len(tables) - 1:
+                        break
+                    for tag in table.find_next_siblings():
+                        if tag.name == 'table' or (tag.name == 'div' and 'table-responsive' in tag.get('class', [])):
+                            break
+                        else:
+                            # insert it at the beginning of the next table
+                            trs[i + 1].insert(0, tag)
+
+                # flatten list but don't include dupliate trs
+                #trs = list(OrderedDict.fromkeys([tr for sublist in trs for tr in sublist]))
 
                 # flatten list
                 trs = [tr for sublist in trs for tr in sublist]
 
-                amendment_table = BeautifulSoup('<table id = "thetable" class="202305-old">' + '\n'.join([str(tr) for tr in trs]) + '</table>', html_parser()).find('table', {'id': 'thetable'})
+                trs = [tr for tr in trs if not tr.find('tr')] # keep only lowest level trs
+
+                trs = bs_set(trs)
+
+                amendment_table = BeautifulSoup('<table id = "thetable" class="202305-old">' + '\n'.join([str(tr) if tr.name=='tr' else '<tr>' + str(tr) + '</tr>' for tr in trs ]) + '</table>', html_parser()).find('table', {'id': 'thetable'})
 
             except:
                 amendment_table = None
         else:
             try:
-                first_row = bs.find('div', {'class': 'table-responsive'})
+                first_row = bs.find('div',  {'class': (lambda x: x and 'table-responsive' in x)}) # bs.find('div', {'class': 'table-responsive'})
 
                 for p in first_row.findAllPrevious('p'):
                     if 'amendment' in p.text.strip().lower():
@@ -346,4 +364,8 @@ class HtmlResolution202305(HtmlResolution):
                 amendment_table = None
 
         # TODO instatiate amendment table object
-        self.amendment_table = HtmlAmendmentTable.create(amendment_table, report=self, subformat=self.subformat)
+        if amendment_table is not None:
+            self.amendment_table = HtmlAmendmentTable.create(amendment_table, report=self, subformat=self.subformat)
+        else:
+            warnings.warn("No amendment table found for resolution.")
+            self.amendment_table = None

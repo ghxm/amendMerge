@@ -2,10 +2,11 @@ import warnings
 import re
 from bs4 import BeautifulSoup, Tag
 import pandas as pd
+from collections import OrderedDict
 
 from amendmerge import Html, html_parser
 from amendmerge.amendment_table import AmendmentTable
-from amendmerge.utils import is_numeric, dict_nth, dict_roman
+from amendmerge.utils import is_numeric, dict_nth, dict_roman, bs_set
 
 
 
@@ -27,6 +28,8 @@ class HtmlAmendmentTable(AmendmentTable, Html):
                 return HtmlAmendmentTable202305Old(*args, **kwargs)
             elif kwargs['subformat'].endswith('-new'):
                 source = HtmlAmendmentTable202305Old.new_to_old(source)
+                # adjust subformat to match corrected table
+                kwargs['subformat'] = '202305-new-old'
 
                 if 'source' in kwargs:
                     kwargs['source'] = source
@@ -69,11 +72,13 @@ class HtmlAmendmentTable202305Old(HtmlAmendmentTable):
 
         p_list = []
 
+        # loop over all tags to find paragraphs and tables
         for i, tag in enumerate(tags):
             if tag.name == 'p':
                 p_list.append(tag)
-                # check if next tag is a div (table)
-                if i < len(tags) - 1 and tags[i + 1].name == 'div':
+                # check if next tag is a div (table) again or the start of a new amendment
+                if (i < len(tags) - 1) and (tags[i + 1].name == 'div' or \
+                        re.search('^.{,2}\s*(Ame*nd.{,1}ment\s*.{0,2}[0-9])', tags[i+1].get_text(' ', strip=True), re.IGNORECASE|re.MULTILINE)):
                     table_html += '''
                     <tr>
                         <td colspan="2" class="text-center">
@@ -95,13 +100,17 @@ class HtmlAmendmentTable202305Old(HtmlAmendmentTable):
             classes = bs.find('div', {'id': 'thetable'}).get('class')
 
         # add new classes
-        [classes.append(x) for x in ['table-responsive', 'table-fixed'] if x not in classes]
+        [classes.append(x) for x in ['table-responsive', 'table-fixed', '202305-new-old'] if x not in classes]
+
+        # remove old classes
+        classes = [x for x in classes if x not in ['202305-new']]
 
         return BeautifulSoup(
             '<div id = "thetable" class="' + ' '.join(classes) + '">' + table_html + '</div>',
             'lxml').find('div', {'id': 'thetable'})
 
     def parse(self):
+
 
         try:
             parsed_table = HtmlAmendmentTable202305OldParser(self)
@@ -207,12 +216,17 @@ class HtmlAmendmentTable202305OldParser:
 
     def _get_previous(self, type='tr'):
         if type == 'tr':
-            return self._get_previous(type='row')[-1]
+            prev_row = self._get_previous(type='row')
+            if prev_row:
+                return prev_row[-1]
+            else:
+                return None
         elif type == 'row':
             # get last non-empty row
             for row in reversed(self.rows):
                 if len(row) > 0:
                     return row
+            return None
         else:
             raise ValueError('type must be tr or row')
 
@@ -223,10 +237,13 @@ class HtmlAmendmentTable202305OldParser:
 
         if tr_type in ['header', 'col_header', 'header_pos']:
             # if we already saw an amendment in the current row, then this is probably the start of a new row
-            if any([x in ['amendment', 'other'] for x in [x['type'] for x in current_row]]):
+            if any([x in ['amendment', 'other', 'empty_img'] for x in [x['type'] for x in current_row]]):
                 return True
         else:
             return False
+
+    def _td_count(self, tr):
+        return len(tr.find_all('td'))
 
     def parse(self):
 
@@ -239,6 +256,13 @@ class HtmlAmendmentTable202305OldParser:
             raise ValueError('source must be a table or div')
 
         trs = bs.find_all('tr', recursive=self.determine_tr_search_recursiveness())
+
+        # remove duplicate trs
+        #trs = list(OrderedDict.fromkeys(trs))
+
+        trs = [tr for tr in trs if not tr.find('tr')]  # keep only lowest level trs
+
+        trs = bs_set(trs)
 
         self.rows = [[]] # initialize rows with empty list of lists
 
@@ -279,24 +303,31 @@ class HtmlAmendmentTable202305OldParser:
             tr_text = tr.get_text(strip=True)
 
         if tr_text == '':
-            return 'empty'
-        elif re.search('^Amendment\s*[0-9]', tr_text) is not None:
+            if tr.find('img') is not None:
+                return 'empty_img'
+            else:
+                return 'empty'
+        elif re.search('^.{,2}\s*(Ame*nd.{,1}ment\s*.{0,2}[0-9])', tr_text.strip(), re.IGNORECASE) is not None:
             return 'header'
-        elif re.search(r'^.{,2}recital|citation|article|paragraph|point|title|annex|section', tr_text.lower().strip()) is not None:
-            return 'header_pos'
-        elif re.search(r'Amendment(s\s*by\s*Parliament)*$', tr_text) is not None:
-            return "col_header"
+        elif re.search(r'(?:^.{,2}(?:Text\s*proposed\s*by)|(?:Proposed\s*text))|(?:Amendment[s]*(s\s*by\s*Parliament)*$)', tr_text.strip(), re.IGNORECASE) is not None:
+            # check if it might be a single column col header (tex proposed and amendment in separate rows)
+            if sum([re.search(r'(?:^.{,2}(?:Text\s*proposed\s*by)|(?:Proposed\s*text))', tr_text.strip(), re.IGNORECASE) is not None, re.search(r'(?:Amendment[s]*(s\s*by\s*Parliament)*$)', tr_text.strip(), re.IGNORECASE) is not None]) == 1:
+                return "col_header_single"
+            else:
+                return "col_header"
         elif re.search(r'Justification', tr_text) is not None:
             return "header_justification"
-        elif (self._get_previous(type='tr')['type'] == "header_justification") or (
-                self._get_previous(type='tr')['type'] == "justification" and int(tr.td['colspan']) == 3):
+        elif self._get_previous() and ((self._get_previous(type='tr')['type'] == "header_justification") or (
+                self._get_previous(type='tr')['type'] == "justification" and (self._td_count(tr) > 0 and int(tr.td['colspan']) >= 2))):
             return "justification"
-        elif (self._get_previous(type='tr')['type'] == "col_header") or (
-                self._get_previous(type='tr')['type'] in ['header', 'header_pos']): # EXPERIMENTAL removed and re.search(r'(^Present)|(^Text proposed)', tr_text) check
+        elif self._get_previous() and  (self._get_previous(type='tr')['type'] and (self._get_previous(type='tr')['type'].startswith("col_header")) or (
+                self._get_previous(type='tr')['type'] in ['header', 'header_pos']) or self._td_count(tr)>1): # EXPERIMENTAL removed and re.search(r'(^Present)|(^Text proposed)', tr_text) check
             return "amendment"
-        elif self._get_previous(type='tr')['type'] == "amendment" or self._get_previous(type='tr')['type'] == "amendment_add":
+        elif  self._get_previous() and (self._get_previous(type='tr')['type'] == "amendment" or self._get_previous(type='tr')['type'] == "amendment_add"):
             return "amendment_add"
-        elif (self._get_previous(type='tr')['type'] == "pos") or (self._get_previous(type='tr')['type'] == "amm_raw"):
+        elif re.search(r'^[^"\'`´“"]{,2}(recital|citation|article|paragraph|point|title|annex|section)', tr_text.lower().strip(), re.MULTILINE) is not None:
+            return 'header_pos'
+        elif  self._get_previous() and ((self._get_previous(type='tr')['type'] == "pos") or (self._get_previous(type='tr')['type'] == "amm_raw")):
             return "other"
         else:
             warnings.warn('Could not determine type of tr: ' + tr_text)
