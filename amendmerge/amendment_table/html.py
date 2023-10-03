@@ -4,9 +4,10 @@ from bs4 import BeautifulSoup, Tag
 import pandas as pd
 from collections import OrderedDict
 
-from amendmerge import Html, html_parser
+from amendmerge import Html, html_parser, regex as amre
+from amendmerge.amendment import Amendment, Position
 from amendmerge.amendment_table import AmendmentTable
-from amendmerge.utils import is_numeric, dict_nth, dict_roman, bs_set
+from amendmerge.utils import is_numeric, dict_nth, dict_roman, bs_set, to_numeric
 
 
 
@@ -111,9 +112,9 @@ class HtmlAmendmentTable202305Old(HtmlAmendmentTable):
 
     def parse(self):
 
+        parsed_table = HtmlAmendmentTable202305OldParser(self)
 
         try:
-            parsed_table = HtmlAmendmentTable202305OldParser(self)
             self.amendments = parsed_table.amendments
             self.table_rows = parsed_table.rows
         except Exception as e:
@@ -151,8 +152,219 @@ def determine_amendment_table_html_subformat(source):
 
     return subformat
 
+class HtmlAmendmentTableParser:
 
-class HtmlAmendmentTable202305OldParser:
+    def _parse_rows(self):
+
+        """Make sense of the rows and determine the amendments."""
+
+        amendments = []
+
+        # make sure each of the rows has at least a position and an amendment
+        for i, row in enumerate(self.rows):
+            try:
+                amendments.append(self._parse_row(row))
+            except ValueError as e:
+                warnings.warn('Could not parse row: ' + str(e))
+
+        #amendments = [row for row in amendments if row is not None]
+
+        return amendments
+
+
+    def _parse_row(self, row):
+
+        """Make sense of the row and determine the amendment.
+
+        Parameters
+        ----------
+        row : list
+            List of bs4.Tag objects representing the <tr> elements of the row.
+
+        Returns
+        -------
+        An Amendment object.
+
+        """
+
+
+        if len(row) < 2:
+            raise ValueError('Row must have at least two elements.')
+
+        # check if there's are position rows
+        header_pos_trs = [tr for tr in row if tr['type'] in ['header_pos', 'header']]
+
+        # amm_trs = [tr for tr in row if tr['type'] == 'amendment' or tr['type'] == 'amendment_add']
+
+        # justification_trs = [tr for tr in row if 'justification' in tr['type']]
+
+        # other_trs = [tr for tr in row if tr['type'] in ['other', None]]
+
+
+        # POSITION
+        positions = []
+
+        for pos_tr in header_pos_trs:
+
+            tr_text = pos_tr.get_text(' ', strip=True)
+
+            # cut off amendment number
+            tr_text = re.sub(r'^.{,2}\s*(Ame*nd.{,1}ment\s*.{0,2}[0-9]+)', '', tr_text, flags=re.IGNORECASE|re.MULTILINE)
+
+            pos = self._parse_position(tr_text)
+
+            # TODO check for any indication that the pos refers to an amended text (within an amending act)
+
+            if pos is not None:
+                positions.append(pos)
+
+        # combine position dicts in to a single dict without overwriting
+        position_dict = {}
+
+        for pos in positions:
+            position_dict = dict(list(position_dict.items()) + list(pos.items()))
+
+        # TODO parse AMENDMENT
+
+        return position_dict # TODO debugging only, remove this
+        # return Amendment(position = Position(**position_dict))
+
+
+
+
+    def _parse_position(self, text):
+
+        """Match a position (e.g. article 1, paragraph 2, point 3, etc.) using regex and return a dict with Position object-style arguments."""
+
+        matches = self._match_position_full(text, allow_multiple=True)
+        position_dict = {}
+
+        # TODO handle annexes specifically
+
+        for m in matches:
+
+            position_num = None
+
+            # inspect group 1
+            num_pre = m.group('num_pre')
+
+            # inspect group 2
+            element = m.group('element')
+
+            num_post = m.group('num_post')
+
+            if element is not None:
+                element_type = self._match_position_element_type(element)
+            else:
+                element_type = None
+
+            if element_type and element_type == 'title':
+                num_pre = None
+                num_post = 0
+
+            if all([num_pre, num_post]):
+                warnings.warn('Both pre and post number are given for position: ' + text)
+            elif num_pre is None and num_post is None:
+                warnings.warn('Neither pre nor post number are given for position, skipping: ' + text)
+            else:
+                if num_pre is not None:
+                    position_num = num_pre
+                elif num_post is not None:
+                    position_num = num_post
+
+            if position_num is not None:
+                # TODO handle cases like 'Recital 9 a (new)'
+                #  possibly in Position class by providing a 'new' attribute
+                position_num = to_numeric(position_num)
+
+            if element_type is not None:
+                position_dict[element_type] = position_num
+
+        return position_dict
+
+
+
+
+
+    def _match_position_full(self, text, allow_multiple = False):
+
+        """Match a full position (e.g. article 1, paragraph 2, point 3, etc.) using regex and return the match."""
+
+        matches = []
+
+        for key, regex in amre.position_elements_numbers.items():
+            match = re.search(regex, text, re.IGNORECASE)
+            if match is not None:
+                if not allow_multiple:
+                    return match
+                else:
+                    matches.append(match)
+
+        if allow_multiple:
+            return matches
+        else:
+            return None
+
+
+    def _match_position_element_type(self, text, allow_multiple = False):
+
+        """Match a position type (e.g. article, paragraph, point, recital, etc.) to a regex."""
+
+        keys = []
+
+        # for all key, regex pairs in amre, check for matches and return the key
+        for key, regex in amre.position_elements.items():
+            if re.search(regex, text, re.IGNORECASE) is not None:
+                if not allow_multiple:
+                    return key
+                else:
+                    keys.append(key)
+
+        if allow_multiple:
+            return keys
+        else:
+            return None
+
+    def _match_position_num(self, text, type = None, allow_multiple = False, return_int = True):
+
+        """
+        Match a position number (e.g. 1, 2, 3, etc.) and return it.
+        """
+
+        """Match a position type (e.g. article, paragraph, point, recital, etc.) to a regex."""
+
+
+        # match numbers for that type using amre.position_elements_numbers[type]
+        if type is not None:
+            match = re.search(amre.position_elements_numbers[type], text, re.IGNORECASE)
+            if match is not None:
+                return match
+        else:
+            matches = []
+            # try all types
+            for type in amre.position_elements_numbers.keys():
+                match = re.search(amre.position_elements_numbers[type], text, re.IGNORECASE)
+                if match is not None:
+                    if not allow_multiple:
+                        return match
+                    else:
+                        matches.append(match)
+        if allow_multiple:
+            return matches
+        else:
+            return None
+
+
+
+
+
+
+
+
+
+
+
+class HtmlAmendmentTable202305OldParser(HtmlAmendmentTableParser):
 
     def __init__(self, amendment_table):
 
@@ -287,11 +499,8 @@ class HtmlAmendmentTable202305OldParser:
                 self._add_to_current_row(tr)
 
 
-        self._parse_rows()
+        self.amendments = self._parse_rows()
 
-    def _parse_rows(self):
-        # TODO
-        pass
 
 
 
@@ -327,7 +536,7 @@ class HtmlAmendmentTable202305OldParser:
             return "amendment_add"
         elif re.search(r'^[^"\'`´“"]{,2}(recital|citation|article|paragraph|point|title|annex|section)', tr_text.lower().strip(), re.MULTILINE) is not None:
             return 'header_pos'
-        elif  self._get_previous() and ((self._get_previous(type='tr')['type'] == "pos") or (self._get_previous(type='tr')['type'] == "amm_raw")):
+        elif  self._get_previous() and ((self._get_previous(type='tr')['type'] == "header_pos") or (self._get_previous(type='tr')['type'] == "amm_raw")):
             return "other"
         else:
             warnings.warn('Could not determine type of tr: ' + tr_text)

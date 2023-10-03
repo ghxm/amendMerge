@@ -4,6 +4,32 @@ from bs4 import BeautifulSoup, element
 import os
 import re
 from collections import OrderedDict
+from word2number import w2n
+
+def is_number_word(s):
+    try:
+        w2n.word_to_num(s.lower())
+        return True
+    except ValueError:
+        return False
+
+def number_word_to_int(s):
+    if not is_number_word(s):
+        raise ValueError("Input is not a number word")
+    return w2n.word_to_num(s.lower())
+
+def is_number_word_ordinal(s):
+    try:
+        w2n.word_to_num(s.lower().replace('th', '').replace('st', '').replace('nd', '').replace('rd', ''))
+        return True
+    except ValueError:
+        return False
+
+def number_word_ordinal_to_int(s):
+    if not is_number_word_ordinal(s):
+        raise ValueError("Input is not a number word ordinal")
+    return w2n.word_to_num(s.lower().replace('th', '').replace('st', '').replace('nd', '').replace('rd', ''))
+
 
 
 dict_nth = {
@@ -72,6 +98,9 @@ def int_to_letter(num):
 
 
 def roman_to_int(s):
+
+    s = s.upper()
+
     roman = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
     num = 0
 
@@ -117,12 +146,37 @@ def int_to_roman(num):
     return "".join([a for a in roman_num(num)])
 
 
+def is_roman (s):
+    return re.match(r'^[IVXLCDM]+$', s, re.IGNORECASE) is not None
+
+
 def is_numeric (s):
     try:
         float(s)
         return True
     except:
         return False
+
+def to_numeric (s):
+
+    if is_numeric(s):
+        return float(s)
+    elif s in dict_nth:
+        return dict_nth[s]
+    elif s in dict_roman:
+        return dict_roman[s]
+    elif is_roman(s):
+        return roman_to_int(s)
+    elif is_number_word_ordinal(s):
+        return number_word_ordinal_to_int(s)
+    elif is_number_word(s):
+        return number_word_to_int(s)
+    else:
+        raise ValueError("Cannot convert {} to numeric".format(s))
+
+
+
+
 
 
 
