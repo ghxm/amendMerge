@@ -61,9 +61,9 @@ numbers_pre = '(?P<num_pre>' + position_numbers['word_ordinal'] + ')*\s*'
 
 for element in position_elements:
     if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent']:
-        numbers_post =  '\s*-*?' + '(?P<num_post>' + position_numbers['all_w_letters'] + ')*'
+        numbers_post =  '\s*-*?\s*' + '(?P<num_post>' + position_numbers['all_w_letters'] + ')*'
     else:
-        numbers_post =  '\s*-*?' + '(?P<num_post>' + position_numbers['all'] + ')*'
+        numbers_post =  '\s*-*?\s*' + '(?P<num_post>' + position_numbers['all'] + ')*'
 
     position_elements_numbers[element] = numbers_pre + position_elements[element] + numbers_post +  '(?P<new>\s*.{,3}\s*\(*new\)*)*'
 
