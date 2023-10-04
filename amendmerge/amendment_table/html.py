@@ -203,23 +203,37 @@ class HtmlAmendmentTableParser:
 
         # POSITION
         positions = []
+        position_dict = {}
+
+        amended_act_position_found = False
 
         for pos_tr in header_pos_trs:
 
-            tr_text = pos_tr.get_text(' ', strip=True)
+
+            tr_text = pos_tr.get_text('\n', strip=True)
 
             # cut off amendment number
             tr_text = re.sub(r'^.{,2}\s*(Ame*nd.{,1}ment\s*.{0,2}[0-9]+)', '', tr_text, flags=re.IGNORECASE|re.MULTILINE)
 
-            pos = self._parse_position(tr_text)
+            # cut off amended acts
+            amended_act_pos_match = re.search(r'(^|-).{,2}\s*(Regulation|Directive|Decision|Recommendation).*', tr_text, re.IGNORECASE|re.MULTILINE|re.DOTALL)
 
-            # TODO check for any indication that the pos refers to an amended text (within an amending act)
+            # remove text after amended act
+            if amended_act_pos_match is not None:
+                tr_text = tr_text.replace(amended_act_pos_match.group(0), '')
+                amended_act_position_found = True
+
+            pos = self._parse_position(tr_text)
 
             if pos is not None:
                 positions.append(pos)
 
+            # check if amended act position has been found and skip the rest
+            # (in case the position is split in multiple trs)
+            if amended_act_position_found:
+                break
+
         # combine position dicts in to a single dict without overwriting
-        position_dict = {}
 
         for pos in positions:
             position_dict = dict(list(position_dict.items()) + list(pos.items()))
@@ -227,6 +241,9 @@ class HtmlAmendmentTableParser:
         # TODO parse AMENDMENT
 
         return position_dict # TODO debugging only, remove this
+
+
+        # TOOD not that amendment relates to amnded act (maybe add as an additional position in amendment object in order not to get confused which is which?)
         # return Amendment(position = Position(**position_dict))
 
 
@@ -234,38 +251,41 @@ class HtmlAmendmentTableParser:
 
     def _parse_position(self, text):
 
-        """Match a position (e.g. article 1, paragraph 2, point 3, etc.) using regex and return a dict with Position object-style arguments."""
+        """Match a position (e.g. article 1, paragraph 2, point 3, etc.)
+        using regex and return a dict with Position object-style arguments."""
 
         matches = self._match_position_full(text, allow_multiple=True)
         position_dict = {}
 
         # TODO handle annexes specifically
 
-        for m in matches:
+        for element, m in matches:
 
             position_num = None
 
             # inspect group 1
             num_pre = m.group('num_pre')
 
-            # inspect group 2
-            element = m.group('element')
+            if element is None:
+                # inspect group 2
+                element = m.group('element')
+                if element is not None:
+                    element_type = self._match_position_element_type(element)
+                else:
+                    element_type = None
+            else:
+                element_type = element
 
             num_post = m.group('num_post')
-
-            if element is not None:
-                element_type = self._match_position_element_type(element)
-            else:
-                element_type = None
 
             if element_type and element_type == 'title':
                 num_pre = None
                 num_post = 0
 
             if all([num_pre, num_post]):
-                warnings.warn('Both pre and post number are given for position: ' + text)
+                warnings.warn('Both pre and post number are given for position: ' + m.group(0))
             elif num_pre is None and num_post is None:
-                warnings.warn('Neither pre nor post number are given for position, skipping: ' + text)
+                warnings.warn('Neither pre nor post number are given for position: ' + m.group(0))
             else:
                 if num_pre is not None:
                     position_num = num_pre
@@ -275,7 +295,10 @@ class HtmlAmendmentTableParser:
             if position_num is not None:
                 # TODO handle cases like 'Recital 9 a (new)'
                 #  possibly in Position class by providing a 'new' attribute
-                position_num = to_numeric(position_num)
+                try:
+                    position_num = to_numeric(position_num)
+                except ValueError:
+                    position_num = position_num
 
             if element_type is not None:
                 position_dict[element_type] = position_num
@@ -288,17 +311,30 @@ class HtmlAmendmentTableParser:
 
     def _match_position_full(self, text, allow_multiple = False):
 
-        """Match a full position (e.g. article 1, paragraph 2, point 3, etc.) using regex and return the match."""
+        """Match a full position (e.g. article 1, paragraph 2, point 3, etc.) using regex and return the element type and match.
+
+        Parameters
+        ----------
+        text : str
+            The text to be matched.
+        allow_multiple : bool, optional
+            Whether to allow multiple matches. Defaults to False.
+
+        Returns
+        -------
+        list or tuple
+
+        """
 
         matches = []
 
         for key, regex in amre.position_elements_numbers.items():
-            match = re.search(regex, text, re.IGNORECASE)
+            match = re.search(regex, text, re.IGNORECASE) # TODO might need to re.finditer to catch multiple number matches like Article 1 3
             if match is not None:
                 if not allow_multiple:
-                    return match
+                    return (key, match)
                 else:
-                    matches.append(match)
+                    matches.append((key, match))
 
         if allow_multiple:
             return matches

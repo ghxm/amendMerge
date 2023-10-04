@@ -26,7 +26,7 @@ position_elements = {
     'indent': r'(?P<element>[Ii]ndent)',
     'annex': r'(?P<element>[Aa][nNnNeExX]{4})',
     'part': r'(?P<element>[Pp]art)',
-    'annex_position': r'(?P<element>point|paragraph)',
+    #'annex_position': r'(?P<element>point|paragraph)',
 }
 
 
@@ -44,21 +44,26 @@ ordinals_compounds = r'\b(?:twen|thir|for|fif|six|seven|eigh|nine)tieth[- ]?(?:'
 
 position_numbers = {
     'roman': r'\b[IVXLCDM]+\b',
-    'arabic': r'\b\d+(\.\d+)?[a-zA-Z]*\b[a-z]{0,2}',
+    'arabic': r'\-*\d+(\.\d+)?[a-zA-Z]*\s*[a-z]{0,2}',
     'word': f'{written_numbers}|{written_tens}|\\b(?:' + '|'.join(tens) + r')[- ]?ty[- ]?(?:' + '|'.join(
         base_numbers[1:10]) + r')\b',
     'word_ordinal': f'{ordinals_base}|{ordinals_tens}|\\b(?:twen|thir|for|fif|six|seven|eigh|nine)tieth[- ]?(?:' + '|'.join(
         base_numbers[1:10]) + r')\b',
+    'letters': r'(?<=[\s0-9])(?:\(-*[a-zA-Z]{1,2}\)|-*[a-zA-Z]{1,2})'
 }
 
 position_numbers['all'] = f"{position_numbers['roman']}|{position_numbers['arabic']}|{position_numbers['word']}|{position_numbers['word_ordinal']}"
-
+position_numbers['all_w_letters'] = position_numbers['all'] + f"|{position_numbers['letters']}"
 
 position_elements_numbers = {}
 
 numbers_pre = '(?P<num_pre>' + position_numbers['word_ordinal'] + ')*\s*'
-numbers_post = '\s*-*' + '(?P<num_post>' + position_numbers['all'] + ')*'
 
 for element in position_elements:
-    position_elements_numbers[element] = numbers_pre + position_elements[element] + numbers_post
+    if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent']:
+        numbers_post =  '\s*-*?' + '(?P<num_post>' + position_numbers['all_w_letters'] + ')*'
+    else:
+        numbers_post =  '\s*-*?' + '(?P<num_post>' + position_numbers['all'] + ')*'
+
+    position_elements_numbers[element] = numbers_pre + position_elements[element] + numbers_post +  '(?P<new>\s*.{,3}\s*\(*new\)*)*'
 

@@ -160,7 +160,10 @@ def is_numeric (s):
 def to_numeric (s):
 
     if is_numeric(s):
-        return float(s)
+        try:
+            return int(s)
+        except:
+            return float(s)
     elif s in dict_nth:
         return dict_nth[s]
     elif s in dict_roman:
