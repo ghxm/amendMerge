@@ -249,12 +249,14 @@ class HtmlAmendmentTableParser:
 
 
 
-    def _parse_position(self, text):
+    @staticmethod
+    def _parse_position(text):
 
         """Match a position (e.g. article 1, paragraph 2, point 3, etc.)
         using regex and return a dict with Position object-style arguments."""
 
-        matches = self._match_position_full(text, allow_multiple=True)
+
+        matches = HtmlAmendmentTableParser._match_position_full(text, allow_multiple=True)
         position_dict = {}
 
         # TODO handle annexes specifically
@@ -270,7 +272,7 @@ class HtmlAmendmentTableParser:
                 # inspect group 2
                 element = m.group('element')
                 if element is not None:
-                    element_type = self._match_position_element_type(element)
+                    element_type = HtmlAmendmentTableParser._match_position_element_type(element)
                 else:
                     element_type = None
             else:
@@ -278,7 +280,10 @@ class HtmlAmendmentTableParser:
 
             num_post = m.group('num_post')
 
-            if element_type and element_type == 'title':
+            new = m.group('new')
+
+            if (element_type and element_type == 'title') or \
+                    (element_type and element_type in ['recital', 'citation', 'annex'] and num_pre is None and num_post is None):
                 num_pre = None
                 num_post = 0
 
@@ -293,6 +298,9 @@ class HtmlAmendmentTableParser:
                     position_num = num_post
 
             if position_num is not None:
+
+                position_num = str(position_num).strip()
+
                 # TODO handle cases like 'Recital 9 a (new)'
                 #  possibly in Position class by providing a 'new' attribute
                 try:
@@ -303,13 +311,17 @@ class HtmlAmendmentTableParser:
             if element_type is not None:
                 position_dict[element_type] = position_num
 
+            if new:
+                position_dict['new'] = True
+
         return position_dict
 
 
 
 
 
-    def _match_position_full(self, text, allow_multiple = False):
+    @staticmethod
+    def _match_position_full(text, allow_multiple = False):
 
         """Match a full position (e.g. article 1, paragraph 2, point 3, etc.) using regex and return the element type and match.
 
@@ -342,7 +354,8 @@ class HtmlAmendmentTableParser:
             return None
 
 
-    def _match_position_element_type(self, text, allow_multiple = False):
+    @staticmethod
+    def _match_position_element_type(text, allow_multiple = False):
 
         """Match a position type (e.g. article, paragraph, point, recital, etc.) to a regex."""
 

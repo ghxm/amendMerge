@@ -147,7 +147,7 @@ def int_to_roman(num):
 
 
 def is_roman (s):
-    return re.match(r'^[IVXLCDM]+$', s, re.IGNORECASE) is not None
+    return re.match(r'(?:(?-i:[IVXLCDM]+)|[IVXLCDM]{3,6})$', s, re.IGNORECASE) is not None
 
 
 def is_numeric (s):

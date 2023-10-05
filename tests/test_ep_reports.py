@@ -1,3 +1,5 @@
+# Test the funcationality of the package as a whole on a set of EP reports.
+
 import pytest
 from .conftest import ep_report_result_by_id, ep_report_request_id
 import pandas as pd

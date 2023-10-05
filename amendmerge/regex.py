@@ -43,13 +43,13 @@ ordinals_tens = r'\b(?:twen|thir|for|fif|six|seven|eigh|nine)tieth\b'
 ordinals_compounds = r'\b(?:twen|thir|for|fif|six|seven|eigh|nine)tieth[- ]?(?:' + '|'.join(base_numbers[1:10]) + r')\b'
 
 position_numbers = {
-    'roman': r'\b[IVXLCDM]+\b',
-    'arabic': r'\-*\d+(\.\d+)?[a-zA-Z]*\s*[a-z]{0,2}',
+    'roman': r'\b(?:(?-i:[IVXLCDM])|([IVXLCDM]){3,6})\b',
+    'arabic': r'\-*\d+(\.\d+)?(?:[a-zA-Z]*\s*[a-z]{0,2}){0,1}(?=[^a-z]|$)',
     'word': f'{written_numbers}|{written_tens}|\\b(?:' + '|'.join(tens) + r')[- ]?ty[- ]?(?:' + '|'.join(
         base_numbers[1:10]) + r')\b',
     'word_ordinal': f'{ordinals_base}|{ordinals_tens}|\\b(?:twen|thir|for|fif|six|seven|eigh|nine)tieth[- ]?(?:' + '|'.join(
         base_numbers[1:10]) + r')\b',
-    'letters': r'(?<=[\s0-9])(?:\(-*[a-zA-Z]{1,2}\)|-*[a-zA-Z]{1,2})'
+    'letters': r'(?<=[\s0-9])(?:\(-*[a-zA-Z]{1,2}\)|-*[a-zA-Z]{1,2})\s?(?:\(-*[a-zA-Z]{1,2}\)|-*[a-zA-Z]{1,2})*'
 }
 
 position_numbers['all'] = f"{position_numbers['roman']}|{position_numbers['arabic']}|{position_numbers['word']}|{position_numbers['word_ordinal']}"
