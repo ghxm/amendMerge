@@ -39,10 +39,57 @@ import os
 repo = '/Users/maxhaag/data/ep_committee_reports/raw/20230524'
 reports = [x for x in os.listdir(repo) if x.endswith('.html')]
 
+# get report ids for actual law-making procedure reports
+import pandas as pd
+ep_reports_meta = pd.read_csv('tests/data/ep_reports_meta.csv')
+
+def sort_report_reference(s):
+    # extraxt year and report number
+    year = s.split('/')[-1]
+    report_number = s.split('/')[-2].split('-')[1]
+
+    return int(year + report_number)
+
+# create a temp column for sorting
+ep_reports_meta['sort_report_reference'] = ep_reports_meta['ep_report_reference'].apply(sort_report_reference)
+
+# sort by ep_procedure_reference and ep_report_reference within ep_procedure_reference
+ep_reports_meta = ep_reports_meta.sort_values(by=['ep_procedure_reference', 'sort_report_reference'], ascending=[True, True])
+
+# remove temp column
+ep_reports_meta = ep_reports_meta.drop(columns=['sort_report_reference'])
+
+# keep only the first row for each ep_procedure_reference
+ep_reports_meta = ep_reports_meta.drop_duplicates(subset=['ep_procedure_reference'], keep='first')
+
+filename_to_report_id = lambda s: s[0] + s[2] + '-' + s.split('-')[3].split('_')[0] + '/' + s.split('-')[2] if s.startswith('A-') else s
+
+# keep only COD reports
+ep_reports_meta_cod = ep_reports_meta[ep_reports_meta['ep_procedure_reference'].str.contains('COD', na=False)]
+
+# keep only reports that are in ep_reports_meta_cod
+reports_cod = [x for x in reports if filename_to_report_id(x) in ep_reports_meta_cod['ep_report_reference'].values]
+
 @pytest.mark.parametrize('filename', reports)
-def test_no_exceptions(filename):
+def _test_no_exceptions(filename):
     from amendmerge.ep_report.html import HtmlEpReport
 
     for report in reports:
         html = open(repo + '/' + report, 'r').read()
         HtmlEpReport.create(source='html')
+
+@pytest.mark.parametrize('filename', reports_cod)
+def test_amendment_type_handling(filename):
+    # Ensure that the amendment type is correctly identified and that the corresponding attribute is set
+    from amendmerge.ep_report.html import HtmlEpReport
+
+    html = open(repo + '/' + filename, 'r').read()
+    report = HtmlEpReport.create(source=html)
+    if report.get_ep_draft_resolution().amendment_type == 'amendments_table':
+        assert report.get_ep_draft_resolution().amendment_table is not None
+        assert len(report.get_ep_draft_resolution().amendment_table.table_rows) > 0
+    elif report.get_ep_draft_resolution().amendment_type == 'amendments_text':
+        assert report.get_ep_draft_resolution().amended_text is not None
+        assert len(report.get_ep_draft_resolution().amended_text) > 0
+    else:
+        print('Not eligible for this test')

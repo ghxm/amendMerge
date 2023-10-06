@@ -18,38 +18,41 @@ position_elements = {
     'title': r'(?P<element>[Tt]itle)',
     'citation': r'(?P<element>[Cc]itation)',
     'recital': r'(?P<element>[Rr]ecital)',
-    'article': r'(?P<element>[Aa]rticle)',
-    'paragraph': r'(?P<element>\b[Pp]aragraph)',
-    'subparagraph': r'(?P<element>[Ss]ubparagraph)',
-    'point': r'(?P<element>\b[Pp]oint)',
-    'subpoint': r'(?P<element>[Ss]ubpoint)',
-    'indent': r'(?P<element>[Ii]ndent)',
-    'annex': r'(?P<element>[Aa][nNnNeExX]{4})',
-    'part': r'(?P<element>[Pp]art)',
+    'article': r'(?P<element>[Aa]rticle[s]*)',
+    'paragraph': r'(?P<element>\b[Pp]aragraph[s]*)',
+    'subparagraph': r'(?P<element>[Ss]ubparagraph[s]*)',
+    'point': r'(?P<element>\b[Pp]oint[s]*)',
+    'subpoint': r'(?P<element>[Ss]ubpoint[s]*)',
+    'indent': r'(?P<element>[Ii]ndent[s]*)',
+    'annex': r'(?P<element>[Aa][nNnNeExX]{4}[es]*)',
+    'part': r'(?P<element>[Pp]art[s]*)',
     #'annex_position': r'(?P<element>point|paragraph)',
 }
 
-
-base_numbers = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven',
-                'twelve', 'thir', 'four', 'fif', 'six', 'seven', 'eight', 'nine']
+# Existing base numbers and tens
+base_numbers = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve', 'thir', 'four', 'fif', 'six', 'seven', 'eight', 'nine']
 tens = ['twen', 'thir', 'for', 'fif', 'six', 'seven', 'eigh', 'nine']
 
+# Existing written numbers
 written_numbers = r'\b(?:' + '|'.join(base_numbers) + r')\b'
 written_tens = r'\b(?:' + '|'.join(tens) + r')ty\b'
 written_compounds = r'\b(?:' + '|'.join(tens) + r')ty[- ]?(?:' + '|'.join(base_numbers[1:10]) + r')\b'
 
+# Existing ordinals
 ordinals_base = r'\b(?:first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth|eleventh|twelfth)\b'
+ordinals_teens = r'\btwelfth\b|\b(?:thir|for|fif|six|seven|eigh|nine)teenth\b'
 ordinals_tens = r'\b(?:twen|thir|for|fif|six|seven|eigh|nine)tieth\b'
-ordinals_compounds = r'\b(?:twen|thir|for|fif|six|seven|eigh|nine)tieth[- ]?(?:' + '|'.join(base_numbers[1:10]) + r')\b'
+
+# Updated ordinals_compounds to capture "twenty-first" etc.
+ordinals_compounds = r'\b(?:' + '|'.join(tens) + r')tieth[- ]?(?:' + '|'.join(base_numbers[1:10]) + r')\b|\b(?:' + '|'.join(tens) + r')ty[- ](?:first|second|third|fourth|fifth|sixth|seventh|eighth|ninth)\b'
 
 position_numbers = {
     'roman': r'\b(?:(?-i:[IVXLCDM])|([IVXLCDM]){3,6})\b',
     'arabic': r'\-*\d+(\.\d+)?(?:[a-zA-Z]*\s*[a-z]{0,2}){0,1}(?=[^a-z]|$)',
     'word': f'{written_numbers}|{written_tens}|\\b(?:' + '|'.join(tens) + r')[- ]?ty[- ]?(?:' + '|'.join(
         base_numbers[1:10]) + r')\b',
-    'word_ordinal': f'{ordinals_base}|{ordinals_tens}|\\b(?:twen|thir|for|fif|six|seven|eigh|nine)tieth[- ]?(?:' + '|'.join(
-        base_numbers[1:10]) + r')\b',
-    'letters': r'(?<=[\s0-9])(?:\(-*[a-zA-Z]{1,2}\)|-*[a-zA-Z]{1,2})\s?(?:\(-*[a-zA-Z]{1,2}\)|-*[a-zA-Z]{1,2})*'
+    'word_ordinal': f'{ordinals_base}|{ordinals_teens}|{ordinals_tens}|{ordinals_compounds}',
+    'letters': r'(?<=[\s0-9])((?:\(\s*[a-zA-Z]\s+[a-zA-Z]\s*\)|-*[a-zA-Z]{1,2})\s?(?:\(\s*[a-zA-Z]\s+[a-zA-Z]\s*\)|-*[a-zA-Z]{1,2})*)'
 }
 
 position_numbers['all'] = f"{position_numbers['roman']}|{position_numbers['arabic']}|{position_numbers['word']}|{position_numbers['word_ordinal']}"
@@ -61,9 +64,12 @@ numbers_pre = '(?P<num_pre>' + position_numbers['word_ordinal'] + ')*\s*'
 
 for element in position_elements:
     if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent']:
-        numbers_post =  '\s*-*?\s*' + '(?P<num_post>' + position_numbers['all_w_letters'] + ')*'
+        numbers_post = '(?P<num_post>\(?\s*[a-zA-Z]\s+[a-zA-Z]\s*\)?|\(?' + position_numbers['all_w_letters'] + r'\)?)'
     else:
-        numbers_post =  '\s*-*?\s*' + '(?P<num_post>' + position_numbers['all'] + ')*'
+        numbers_post = '(?P<num_post>' + position_numbers['all'] + ')*'
 
-    position_elements_numbers[element] = numbers_pre + position_elements[element] + numbers_post +  '(?P<new>\s*.{,3}\s*\(*new\)*)*'
+    position_elements_numbers[element] = numbers_pre + position_elements[element] +'\s*-*?\s*' + r'((?:' +  numbers_post + r'(?:\s*,\s*|\s+and\s+)?)+)' +  '(?P<new>\s*.{,3}\s*\(*new\)*)*'
 
+
+
+legislative_resolution_title = r'draft.*resolution|legislative.*resolution|draft\s*decision|legislative\s*proposal'

@@ -1,3 +1,5 @@
+import re
+
 from amendmerge import DataSource
 import warnings
 
@@ -46,7 +48,17 @@ class EpReport(DataSource):
     def get_ep_draft_resolution(self):
 
         """Function to identify and return the EP draft resolution from the report.
-        Currently defaults to the first resolution in the list."""
+            Currently, looks for titles indicating a draft resolution and if none are found
+            defaults to the first resolution in the list."""
+
+
+        for resolution in self.resolutions:
+            if re.search('draft.*resolution|legislative.*resolution', str(resolution.title), re.IGNORECASE) is not None:
+                return resolution
+
+        for resolution in self.resolutions:
+            if not 'opinion' in str(resolution.title).lower() and re.search('draft.+|legislative.*proposal', str(resolution.text), re.IGNORECASE) is not None:
+                return resolution
 
         try:
             return self.resolutions[0]
@@ -87,7 +99,7 @@ class EpReport(DataSource):
                         merged_sources = []
 
                         # look 1 above/below for lonely amendment sources and combine them
-                        for i_ in range(i-1, i+1):
+                        for i_ in range(i-1, i+2):
                             if i_ < 0 or i_ > len(self.resolutions) or i==i_ or self.resolutions[i_] in merged_sources:
                                 continue
 

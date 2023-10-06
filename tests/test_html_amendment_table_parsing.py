@@ -54,7 +54,42 @@ position_texts_dicts = [
             'point': 'an a',
             'new': True
         }),
-
+    ("Article 4 – paragraph 2 – point a – point i",
+     {
+            'article': 4,
+            'paragraph': 2,
+            'point': 'a',
+            'subpoint': 'i' # TODO: subpoint
+        }),
+    ("(Amendment 3)\nThirteenth recital",
+        {
+            'recital': 13
+        }),
+    ("Twenty-first recital",
+        {
+            'recital': 21
+        }),
+    ("Twenty first recital",
+     {
+         'recital': 21
+     }),
+    ("Article 2, point (e a) (new)",
+     {
+         'article': 2,
+         'point': '(e a)',
+         'new': True
+     }),
+    ("Article 2, points (v e) and (v f) (new)",
+     {
+         'article': 2,
+         'point': '(v e) and (v f)',
+            'new': True
+        }),
+    ("Article 12, paragraphs 1 and 2",
+     {
+         'article': 12,
+         'paragraph': '1 and 2'
+     }),
 ]
 
 

@@ -47,14 +47,26 @@ class HtmlResolution(Resolution, Html):
 
         text = self.text[:1800]
 
+        self.amendment_type = None
+
         if re.search('simplified\s*procedure', text, re.MULTILINE|re.IGNORECASE) is not None:
             self.amendment_type = 'simplified_procedure'
-        elif re.search('(?:taking[\s]*over[\s]*the[\s]*Commission[\s]*proposal)|(?:approves\s*the\s*commission\s*proposal;)', self.text, re.MULTILINE|re.IGNORECASE) is not None:
-            self.amendment_type = 'taking_over_com_proposal'
-        elif re.search('reject.*?com.*?proposal', text, re.MULTILINE|re.IGNORECASE) is not None:
+        elif re.search('reject[s]+\s*the\s*Co[m]+i[s]+ion.*proposal', text, re.MULTILINE|re.IGNORECASE) is not None:
             self.amendment_type = 'reject_com_proposal'
+        elif re.search('rejects\s*the\s*Council\s*', text, re.MULTILINE|re.IGNORECASE) is not None:
+            self.amendment_type = 'reject_cou_position'
+        elif re.search('(?:taking[\s]*over[\s]*the[\s]*Commission[\s]*proposal)|(?:approves\s*the\s*commission\s*proposal;)|(the\s*proposal\s*is\s*approved)', self.text, re.MULTILINE|re.IGNORECASE) is not None:
+            if re.search('proposal\s*as\s*adapted', text, re.MULTILINE|re.IGNORECASE) is not None:
+                self.amendment_type = 'taking_over_com_proposal_adapted'
+            else:
+                self.amendment_type = 'taking_over_com_proposal'
+        elif re.search('(?:[Aa][p]+[r]*[o]*[v]*[e]*[s]*\s*.*[t]*[h]*[e]*\s*[Cc][o]+[m]+[i]+[s]+[i]*[o]+[n]*\s*[p]+[o]+[s]*[i]*[t]+[i]*[o]*[n]*)',self.text, re.MULTILINE | re.IGNORECASE) is not None:
+            self.amendment_type = 'approve_com_position'
+        elif re.search('(?:[Aa][p]+[r]*[o]*[v]*[e]*[s]*\s*.*[t]*[h]*[e]*\s*[j][o]+[i]*[n]*[t]*\s*[t]+[e]+[x]*[t]*)', self.text, re.MULTILINE | re.IGNORECASE) is not None:
+            self.amendment_type = 'approve_joint_text'
+        elif re.search('(?:[Aa][p]+[r]*[o]*[v]*[e]*[s]*\s*.*[t]*[h]*[e]*\s*[Cc][o]+[u]+[n]+[c]*[i]*[l]*\s*[Pp]*[o]*[s]*[i]*[t]*[i]*[o]*[n]*)',self.text, re.MULTILINE | re.IGNORECASE) is not None:
+            self.amendment_type = 'approve_cou_position'
         else:
-
             amendments_before = False
             if hasattr(self, 'amendments_before_text') and self.amendments_before_text:
                 amendments_before = True
@@ -85,6 +97,9 @@ class HtmlResolution(Resolution, Html):
                     self.amendment_type = 'amendments_table'
             else:
                 self.amendment_type = 'amendments_text'
+
+        if self.amendment_type is None:
+            warnings.warn("No amendment type found for resolution.")
 
     def get_elements_after_text(self, n):
         raise NotImplementedError("This method must be implemented in a subclass")
@@ -271,6 +286,8 @@ class HtmlResolution202305(HtmlResolution):
 
             res_div = self.start.find_next_sibling('div')
 
+            i = None
+
             for i, tag in enumerate(res_div.findAll(recursive=False)):
                 if tag.name == 'h2':
                     break
@@ -281,9 +298,13 @@ class HtmlResolution202305(HtmlResolution):
 
 
             if n < 0:
-                return list(res_div.findAll(recursive=False))[i:]
+                if i:
+                    return list(res_div.findAll(recursive=False))[i:]
             else:
-                return list(res_div.findAll(recursive=False))[i:i + n]
+                if i:
+                    return list(res_div.findAll(recursive=False))[i:i + n]
+
+            return res_div.findAll(recursive=False)
 
     def find_amended_text(self):
 

@@ -20,16 +20,43 @@ def number_word_to_int(s):
 
 def is_number_word_ordinal(s):
     try:
-        w2n.word_to_num(s.lower().replace('th', '').replace('st', '').replace('nd', '').replace('rd', ''))
+        number_word_ordinal_to_int(s.lower())
         return True
     except ValueError:
         return False
 
-def number_word_ordinal_to_int(s):
-    if not is_number_word_ordinal(s):
-        raise ValueError("Input is not a number word ordinal")
-    return w2n.word_to_num(s.lower().replace('th', '').replace('st', '').replace('nd', '').replace('rd', ''))
 
+
+ordinal_cardinal = {
+    'first': 'one',
+    'second': 'two',
+    'third': 'three',
+    'fourth': 'four',
+    'fifth': 'five',
+    'sixth': 'six',
+    'seventh': 'seven',
+    'eighth': 'eight',
+    'ninth': 'nine',
+    'tenth': 'ten',
+    'eleventh': 'eleven',
+    'twelfth': 'twelve',
+}
+
+def ordinal_to_cardinal(s):
+
+    def replace_suffix(match):
+        return match.group(1)
+
+    for key in ordinal_cardinal:
+        if key in s:
+            return s.replace(key, ordinal_cardinal[key])
+
+    s = re.sub(r'\b(\w+)(st|nd|rd|th)\b', replace_suffix, s, flags=re.IGNORECASE)
+    return s
+
+def number_word_ordinal_to_int(s):
+
+    return w2n.word_to_num(ordinal_to_cardinal(s.lower()))
 
 
 dict_nth = {
@@ -276,3 +303,33 @@ def bs_set(elements):
         del el['seen']
 
     return elements_unique
+
+
+def combine_matches_to_string(matches, add_space = True):
+
+    if not isinstance(matches, list):
+        raise ValueError("matches must be a list")
+
+    if len(matches) == 0:
+        return ""
+
+    text = matches[0].string
+
+
+    matches = [m.span() for m in matches]
+    if not matches:
+        return ""
+
+
+    combined = ""
+    last_end = 0
+
+    for start, end in matches:
+        if start >= last_end:
+            combined += text[start:end].strip() + " " if add_space else text[start:end]
+        else:
+            combined += text[last_end:end] + " " if add_space else text[last_end:end]
+
+        last_end = end
+
+    return combined.strip() if add_space else combined

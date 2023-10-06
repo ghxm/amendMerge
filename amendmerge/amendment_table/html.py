@@ -7,7 +7,7 @@ from collections import OrderedDict
 from amendmerge import Html, html_parser, regex as amre
 from amendmerge.amendment import Amendment, Position
 from amendmerge.amendment_table import AmendmentTable
-from amendmerge.utils import is_numeric, dict_nth, dict_roman, bs_set, to_numeric
+from amendmerge.utils import is_numeric, dict_nth, dict_roman, bs_set, to_numeric, combine_matches_to_string
 
 
 
@@ -278,7 +278,19 @@ class HtmlAmendmentTableParser:
             else:
                 element_type = element
 
+            # extract the element post number
+            num_post_re = amre.position_numbers['all_w_letters'] if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent'] else amre.position_numbers['all']
+
+            nums_post = [m for m in re.finditer(num_post_re, text[m.end('element'):m.end()], re.IGNORECASE)]
             num_post = m.group('num_post')
+
+            if len(nums_post) > 1 or m.group('num_post') is None:
+
+                num_post = combine_matches_to_string(nums_post)
+
+                if num_post == '':
+                    num_post = None
+
 
             new = m.group('new')
 
