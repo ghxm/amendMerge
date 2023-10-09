@@ -100,7 +100,11 @@ class EpReport(DataSource):
 
                         # look 1 above/below for lonely amendment sources and combine them
                         for i_ in range(i-1, i+2):
-                            if i_ < 0 or i_ > len(self.resolutions) or i==i_ or self.resolutions[i_] in merged_sources:
+
+                            try:
+                                if i_ < 0 or i_-1 >= len(self.resolutions) or i == i_ or self.resolutions[i_] in merged_sources:
+                                    continue
+                            except IndexError:
                                 continue
 
                             if self.resolutions[i_].has_no_text() and not self.resolutions[i_].has_no_amendment_source():

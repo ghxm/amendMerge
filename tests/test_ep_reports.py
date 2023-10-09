@@ -33,6 +33,14 @@ def test_resolution_amendment_num(ep_report, ep_reports_results, request):
         return
 
 
+def test_resolution_amendment_parsing(ep_report, request):
+
+    """Make sure every amendment that is parsed is consistent with possible amendment scenarios"""
+
+    # TODO
+
+
+
 
 import os
 # read in all reports from the repo

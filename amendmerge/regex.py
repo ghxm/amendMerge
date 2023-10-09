@@ -26,6 +26,7 @@ position_elements = {
     'indent': r'(?P<element>[Ii]ndent[s]*)',
     'annex': r'(?P<element>[Aa][nNnNeExX]{4}[es]*)',
     'part': r'(?P<element>[Pp]art[s]*)',
+    'row': r'(?P<element>[Rr]ow[s]*)',
     #'annex_position': r'(?P<element>point|paragraph)',
 }
 
@@ -52,23 +53,27 @@ position_numbers = {
     'word': f'{written_numbers}|{written_tens}|\\b(?:' + '|'.join(tens) + r')[- ]?ty[- ]?(?:' + '|'.join(
         base_numbers[1:10]) + r')\b',
     'word_ordinal': f'{ordinals_base}|{ordinals_teens}|{ordinals_tens}|{ordinals_compounds}',
-    'letters': r'(?<=[\s0-9])((?:\(\s*[a-zA-Z]\s+[a-zA-Z]\s*\)|-*[a-zA-Z]{1,2})\s?(?:\(\s*[a-zA-Z]\s+[a-zA-Z]\s*\)|-*[a-zA-Z]{1,2})*)'
+    #'single_cap_letter': r'\b[A-Z](?=[^A-Za-z])',
+    'letters': r'(?<=[^a-z])(?:\(\s*[a-zA-Z]\s*\)|\(\s*[a-zA-Z]\s+[a-zA-Z]\s*\)|-*[a-zA-Z]{1,2})(?=[^a-z]|$)'
 }
 
 position_numbers['all'] = f"{position_numbers['roman']}|{position_numbers['arabic']}|{position_numbers['word']}|{position_numbers['word_ordinal']}"
 position_numbers['all_w_letters'] = position_numbers['all'] + f"|{position_numbers['letters']}"
+
+position_numbers['all_post'] =  f"{position_numbers['roman']}|{position_numbers['arabic']}|{position_numbers['word']}"
+position_numbers['all_w_letters_post'] = position_numbers['all_post'] + f"|{position_numbers['letters']}"
 
 position_elements_numbers = {}
 
 numbers_pre = '(?P<num_pre>' + position_numbers['word_ordinal'] + ')*\s*'
 
 for element in position_elements:
-    if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent']:
-        numbers_post = '(?P<num_post>\(?\s*[a-zA-Z]\s+[a-zA-Z]\s*\)?|\(?' + position_numbers['all_w_letters'] + r'\)?)'
+    if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent', 'part']:
+        numbers_post = '(?P<num_post>\(?\s*[a-zA-Z]\s+[a-zA-Z]\s*\)?|\(?' + position_numbers['all_w_letters_post'] + r'\)?)'
     else:
-        numbers_post = '(?P<num_post>' + position_numbers['all'] + ')*'
+        numbers_post = '(?P<num_post>' + position_numbers['all_post'] + ')*'
 
-    position_elements_numbers[element] = numbers_pre + position_elements[element] +'\s*-*?\s*' + r'((?:' +  numbers_post + r'(?:\s*,\s*|\s+and\s+)?)+)' +  '(?P<new>\s*.{,3}\s*\(*new\)*)*'
+    position_elements_numbers[element] = numbers_pre + position_elements[element] +'\s*-*?\s*' + r'((?:' +  numbers_post + r'(?:\s*,\s*|\s+and\s+)?)+)*' +  '(?P<new>\s*.{,3}\s*\(*new\)*)*'
 
 
 

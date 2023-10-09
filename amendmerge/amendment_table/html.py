@@ -1,5 +1,5 @@
 import warnings
-import re
+import regex as re
 from bs4 import BeautifulSoup, Tag
 import pandas as pd
 from collections import OrderedDict
@@ -7,7 +7,7 @@ from collections import OrderedDict
 from amendmerge import Html, html_parser, regex as amre
 from amendmerge.amendment import Amendment, Position
 from amendmerge.amendment_table import AmendmentTable
-from amendmerge.utils import is_numeric, dict_nth, dict_roman, bs_set, to_numeric, combine_matches_to_string
+from amendmerge.utils import bs_set, to_numeric, combine_matches_to_string, determine_text_td_num
 
 
 
@@ -194,13 +194,6 @@ class HtmlAmendmentTableParser:
         # check if there's are position rows
         header_pos_trs = [tr for tr in row if tr['type'] in ['header_pos', 'header']]
 
-        # amm_trs = [tr for tr in row if tr['type'] == 'amendment' or tr['type'] == 'amendment_add']
-
-        # justification_trs = [tr for tr in row if 'justification' in tr['type']]
-
-        # other_trs = [tr for tr in row if tr['type'] in ['other', None]]
-
-
         # POSITION
         positions = []
         position_dict = {}
@@ -238,15 +231,85 @@ class HtmlAmendmentTableParser:
         for pos in positions:
             position_dict = dict(list(position_dict.items()) + list(pos.items()))
 
-        # TODO parse AMENDMENT
+        # TODO make into a Position object
 
-        return position_dict # TODO debugging only, remove this
+        # parse AMENDMENT
+        amendment_dict = {}
 
+        amendment_trs = [tr for tr in row if tr['type'] in ['amendment', 'amendment_add']]
+
+        existing_text = ''
+        new_text = ''
+
+        j_outer = 1
+
+        case = None
+        maybe_table = position_dict.get('table', False)
+
+        for amm_tr in amendment_trs:
+            if not case:
+                if determine_text_td_num(amm_tr) == 1:
+                    case = 'outer'
+                elif determine_text_td_num(amm_tr) > 1:
+                    case = 'inner'
+                else:
+                    continue
+
+            if case == 'inner':
+                j_inner = 1
+                for i, td in enumerate(amm_tr.find_all('td')):
+
+                    td_text = td.get_text('\n', strip=True)
+
+                    if i > 0 and td_text == '':
+                        continue
+
+                    if position_dict.get('new', False):
+                        new_text += '\n' + td_text
+                    else:
+                        if j_inner == 1:
+                            existing_text += '\n' + td_text
+                        elif j_inner == 2:
+                            new_text += '\n' + td_text
+                        else:
+                            if not maybe_table:
+                                warnings.warn('More than two text tds in amendment tr. Appending to new text.')
+                            new_text += '\n' + td_text
+
+                    j_inner = j_inner + 1
+
+            else:
+                # parse the row as one part of the amendment (existing or amendment)
+                if determine_text_td_num(amm_tr) > 1:
+                    maybe_table = True
+
+                td_text = amm_tr.get_text('\n', strip=True)
+
+                if td_text == '':
+                    continue
+
+                if position_dict.get('new', False):
+                    new_text += '\n' + td_text
+                else:
+                    if j_outer == 1:
+                        existing_text += '\n' + td_text
+
+                    elif j_outer == 2:
+                        new_text += '\n' + td_text
+
+        amendment_dict['maybe_table'] = maybe_table
+        amendment_dict['existing_text'] = existing_text
+        amendment_dict['new_text'] = new_text
+
+        # parse JUSTIFICATION
+        # justification_trs = [tr for tr in row if 'justification' in tr['type']]
+
+        # Other rows
+        # other_trs = [tr for tr in row if tr['type'] in ['other', None]]
+
+        return (position_dict, amendment_dict) # TODO debugging only,  return Amendment(position = Position(**position_dict))
 
         # TOOD not that amendment relates to amnded act (maybe add as an additional position in amendment object in order not to get confused which is which?)
-        # return Amendment(position = Position(**position_dict))
-
-
 
 
     @staticmethod
@@ -279,18 +342,17 @@ class HtmlAmendmentTableParser:
                 element_type = element
 
             # extract the element post number
-            num_post_re = amre.position_numbers['all_w_letters'] if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent'] else amre.position_numbers['all']
+            num_post_re = amre.position_numbers['all_w_letters_post'] if element in ['subparagraph', 'point', 'subpoint', 'indent', 'part'] else amre.position_numbers['all_post']
 
             nums_post = [m for m in re.finditer(num_post_re, text[m.end('element'):m.end()], re.IGNORECASE)]
             num_post = m.group('num_post')
 
             if len(nums_post) > 1 or m.group('num_post') is None:
 
-                num_post = combine_matches_to_string(nums_post)
+                num_post = combine_matches_to_string(nums_post, keep_inbetween = True)
 
                 if num_post == '':
                     num_post = None
-
 
             new = m.group('new')
 
@@ -317,14 +379,20 @@ class HtmlAmendmentTableParser:
                 #  possibly in Position class by providing a 'new' attribute
                 try:
                     position_num = to_numeric(position_num)
+                    #position_num = int(position_num)
                 except ValueError:
                     position_num = position_num
 
             if element_type is not None:
                 position_dict[element_type] = position_num
 
-            if new:
+            # indicator of whether the amendment refers to a table (not the poss. table pos!)
+            if 'table' in text.lower():
+                position_dict['table'] = True
+
+            if new or re.search('[\s\(]new[^A-Zs-z]]', text) is not None:
                 position_dict['new'] = True
+
 
         return position_dict
 
@@ -487,21 +555,32 @@ class HtmlAmendmentTable202305OldParser(HtmlAmendmentTableParser):
     def _get_current_row(self):
         return self.rows[-1]
 
-    def _get_previous(self, type='tr'):
+    def _get_previous(self, type='tr', exclude_empty=True):
         if type == 'tr':
             prev_row = self._get_previous(type='row')
             if prev_row:
-                return prev_row[-1]
+                if exclude_empty:
+                    for tr in reversed(prev_row):
+                        if tr['type'] not in ['empty', 'empty_img']:
+                            return tr
+                    return None
+                else:
+                    return prev_row[-1]
             else:
                 return None
         elif type == 'row':
             # get last non-empty row
             for row in reversed(self.rows):
-                if len(row) > 0:
+                if exclude_empty and len(row) > 0:
+                    return row
+                elif not exclude_empty:
                     return row
             return None
         else:
             raise ValueError('type must be tr or row')
+
+        return None
+
 
 
     def _is_start_of_new_row(self, tr_type):

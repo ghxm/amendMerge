@@ -90,6 +90,39 @@ position_texts_dicts = [
          'article': 12,
          'paragraph': '1 and 2'
      }),
+    ("Annex V – Part B – paragraph 1 – table – row 2 b (new)",
+     {
+            'annex': 5,
+            'part': 2,
+            'paragraph': 1,
+            'table': True,
+            'row': '2 b',
+            'new': True
+        }),
+    ("Article 1, fourth paragraph yaday yada",
+     {
+         'article': 1,
+         'paragraph': 4
+     }),
+    ("Annex, Part A, point 1, subparagraph 1 a (new)",
+     {
+         'annex': 0,
+         'part': 1,
+         'point': 1,
+         'subparagraph': '1 a',
+         'new': True}),
+    ("Annex, Part B, points 2 a and 2 b (new)",
+     {
+         'annex': 0,
+         'part': 2,
+         'point': '2 a and 2 b',
+         'new': True}),
+    ("Article 3, paragraph 2, points (a), (b) and (c)",
+     {
+         'article': 3,
+         'paragraph': 2,
+         'point': '(a), (b) and (c)'}),
+
 ]
 
 
@@ -107,3 +140,4 @@ def test_position_parsing_from_html():
     # TODO
 
     pass
+

@@ -201,6 +201,8 @@ def to_numeric (s):
         return number_word_ordinal_to_int(s)
     elif is_number_word(s):
         return number_word_to_int(s)
+    elif s.isupper() and len(s.strip()) == 1:
+        return letter_to_int(s)
     else:
         raise ValueError("Cannot convert {} to numeric".format(s))
 
@@ -305,8 +307,7 @@ def bs_set(elements):
     return elements_unique
 
 
-def combine_matches_to_string(matches, add_space = True):
-
+def combine_matches_to_string(matches, add_space=True, keep_inbetween=False):
     if not isinstance(matches, list):
         raise ValueError("matches must be a list")
 
@@ -314,22 +315,43 @@ def combine_matches_to_string(matches, add_space = True):
         return ""
 
     text = matches[0].string
-
-
     matches = [m.span() for m in matches]
     if not matches:
         return ""
-
 
     combined = ""
     last_end = 0
 
     for start, end in matches:
-        if start >= last_end:
-            combined += text[start:end].strip() + " " if add_space else text[start:end]
+        if keep_inbetween:
+            combined += text[last_end:end]
         else:
-            combined += text[last_end:end] + " " if add_space else text[last_end:end]
+            if start >= last_end:
+                combined += text[start:end]
+            else:
+                combined += text[last_end:end]
+
+        if add_space and not keep_inbetween:
+            combined += " "
 
         last_end = end
 
-    return combined.strip() if add_space else combined
+    #if keep_inbetween:
+    #    combined += text[last_end:]
+
+    return combined.strip() if add_space and not keep_inbetween else combined
+
+
+def determine_text_td_num(tr):
+
+    """Determine the number of columns in a html table row."""
+
+    tds = tr.find_all('td')
+    if len(tds) > 0:
+        return len([td for td in tds if len(td.get_text(strip=True)) > 0])
+    else:
+        ths = tr.find_all('th')
+        if len(ths) > 0:
+            return len([th for th in ths if len(th.get_text(strip=True)) > 0])
+        else:
+            return 0
