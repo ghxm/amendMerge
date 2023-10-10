@@ -202,7 +202,6 @@ class HtmlAmendmentTableParser:
 
         for pos_tr in header_pos_trs:
 
-
             tr_text = pos_tr.get_text('\n', strip=True)
 
             # cut off amendment number
@@ -234,6 +233,7 @@ class HtmlAmendmentTableParser:
         # TODO make into a Position object
 
         # parse AMENDMENT
+        # TODO are cases where row type is 'empty' or 'empty_img' handled correctly?
         amendment_dict = {}
 
         amendment_trs = [tr for tr in row if tr['type'] in ['amendment', 'amendment_add']]
@@ -299,18 +299,27 @@ class HtmlAmendmentTableParser:
 
         amendment_dict['maybe_table'] = maybe_table
         amendment_dict['existing_text'] = existing_text
-        amendment_dict['new_text'] = new_text
+        amendment_dict['text'] = new_text
 
         # parse JUSTIFICATION
-        # justification_trs = [tr for tr in row if 'justification' in tr['type']]
+        justification_trs = [tr for tr in row if tr['type'] == 'justification']
+
+        justification_text = ''
+
+        for just_tr in justification_trs:
+            justification_text += '\n' + just_tr.get_text('\n', strip=True)
+
+        amendment_dict['justification'] = justification_text
 
         # Other rows
         # other_trs = [tr for tr in row if tr['type'] in ['other', None]]
 
-        return (position_dict, amendment_dict) # TODO debugging only,  return Amendment(position = Position(**position_dict))
+        position = Position(**position_dict)
+        amendment = Amendment(position = position, **amendment_dict)
 
-        # TOOD not that amendment relates to amnded act (maybe add as an additional position in amendment object in order not to get confused which is which?)
+        return amendment
 
+        # TODO possible also parse amended act position here
 
     @staticmethod
     def _parse_position(text):
@@ -374,14 +383,6 @@ class HtmlAmendmentTableParser:
             if position_num is not None:
 
                 position_num = str(position_num).strip()
-
-                # TODO handle cases like 'Recital 9 a (new)'
-                #  possibly in Position class by providing a 'new' attribute
-                try:
-                    position_num = to_numeric(position_num)
-                    #position_num = int(position_num)
-                except ValueError:
-                    position_num = position_num
 
             if element_type is not None:
                 position_dict[element_type] = position_num

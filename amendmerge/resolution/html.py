@@ -60,11 +60,11 @@ class HtmlResolution(Resolution, Html):
                 self.amendment_type = 'taking_over_com_proposal_adapted'
             else:
                 self.amendment_type = 'taking_over_com_proposal'
-        elif re.search('(?:[Aa][p]+[r]*[o]*[v]*[e]*[s]*\s*.*[t]*[h]*[e]*\s*[Cc][o]+[m]+[i]+[s]+[i]*[o]+[n]*\s*[p]+[o]+[s]*[i]*[t]+[i]*[o]*[n]*)',self.text, re.MULTILINE | re.IGNORECASE) is not None:
+        elif re.search('(?:[Aa][p]+[r]*[o]*[v]*[e]*[s]*\s*.{0,20}[t]*[h]*[e]*\s*[Cc][o]+[m]+[i]+[s]+[i]*[o]+[n]*\s*[p]+[o]+[s]*[i]*[t]+[i]*[o]*[n]*)',self.text, re.MULTILINE | re.IGNORECASE) is not None:
             self.amendment_type = 'approve_com_position'
-        elif re.search('(?:[Aa][p]+[r]*[o]*[v]*[e]*[s]*\s*.*[t]*[h]*[e]*\s*[j][o]+[i]*[n]*[t]*\s*[t]+[e]+[x]*[t]*)', self.text, re.MULTILINE | re.IGNORECASE) is not None:
+        elif re.search('(?:[Aa][p]+[r]*[o]*[v]*[e]*[s]*\s*.{0,20}[t]*[h]*[e]*\s*[j][o]+[i]*[n]*[t]*\s*[t]+[e]+[x]*[t]*)', self.text, re.MULTILINE | re.IGNORECASE) is not None:
             self.amendment_type = 'approve_joint_text'
-        elif re.search('(?:[Aa][p]+[r]*[o]*[v]*[e]*[s]*\s*.*[t]*[h]*[e]*\s*[Cc][o]+[u]+[n]+[c]*[i]*[l]*\s*[Pp]*[o]*[s]*[i]*[t]*[i]*[o]*[n]*)',self.text, re.MULTILINE | re.IGNORECASE) is not None:
+        elif re.search('(?:[Aa][p]+[r]*[o]*[v]*[e]+[s]*\s*.{0,20}[t]*[h]*[e]*\s*[Cc][o]+[u]+[n]+[c]*[i]*[l]*\s*[Pp]*[o]*[s]*[i]*[t]*[i]*[o]*[n]*)',self.text, re.MULTILINE | re.IGNORECASE) is not None:
             self.amendment_type = 'approve_cou_position'
         else:
             amendments_before = False

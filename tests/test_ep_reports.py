@@ -95,7 +95,7 @@ def test_amendment_type_handling(filename):
     report = HtmlEpReport.create(source=html)
     if report.get_ep_draft_resolution().amendment_type == 'amendments_table':
         assert report.get_ep_draft_resolution().amendment_table is not None
-        assert len(report.get_ep_draft_resolution().amendment_table.table_rows) > 0
+        assert len(report.get_ep_draft_resolution().get_amendments()) > 0
     elif report.get_ep_draft_resolution().amendment_type == 'amendments_text':
         assert report.get_ep_draft_resolution().amended_text is not None
         assert len(report.get_ep_draft_resolution().amended_text) > 0

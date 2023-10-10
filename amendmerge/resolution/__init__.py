@@ -56,9 +56,18 @@ class Resolution(DataSource):
         elif self.amendment_type == 'amendments_text':
             self.find_amended_text()
             #self.amended_text_amendments_n = self.get_amended_text_amendments_n()
-        elif self.amendment_type in ['simplified_procedure', 'taking_over_com_proposal', 'reject_com_proposal']:
-            self.amendments = []
 
+
+    def get_amendments(self):
+        if self.amendment_type in ['simplified_procedure', 'taking_over_com_proposal', 'taking_over_com_proposal_adapted', 'reject_com_proposal']:
+            return []
+        elif self.amendment_type == 'amendments_table':
+            if self.amendment_table is not None:
+                return self.amendment_table.amendments
+            else:
+                return None
+        elif self.amendment_type == 'amendments_text':
+            return NotImplementedError("Amendments for amendment type amendments_text not implemented yet.")
 
     def find_amendment_type(self):
 
@@ -107,10 +116,3 @@ class Resolution(DataSource):
 
             return (self.amendment_type == 'amendments_table' and self.has_no_amendment_table() and not self.has_no_amended_text()) \
                 or (self.amendment_type == 'amendments_text' and self.has_no_amended_text() and not self.has_no_amendment_table())
-
-    def get_amendments(self):
-
-        # TODO depending on the amendment type, return a list of amendments
-        # TODO if amendment type is amendments_table but amendments is None, parse the table and return a list of amendments
-
-        raise NotImplementedError("Yet.")

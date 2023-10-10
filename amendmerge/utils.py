@@ -207,11 +207,6 @@ def to_numeric (s):
         raise ValueError("Cannot convert {} to numeric".format(s))
 
 
-
-
-
-
-
 def _determine_input_format (input):
     if isinstance(input, str):
         # check if string is html code
