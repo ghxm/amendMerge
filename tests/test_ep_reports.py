@@ -2,7 +2,6 @@
 
 import pytest
 from .conftest import ep_report_result_by_id, ep_report_request_id
-import pandas as pd
 
 
 def test_resolution_amendment_type(ep_report, ep_reports_results, request):
@@ -84,7 +83,7 @@ def _test_no_exceptions(filename):
 
     for report in reports:
         html = open(repo + '/' + report, 'r').read()
-        HtmlEpReport.create(source='html')
+        HtmlEpReport.create(html)
 
 @pytest.mark.parametrize('filename', reports_cod)
 def test_amendment_type_handling(filename):
