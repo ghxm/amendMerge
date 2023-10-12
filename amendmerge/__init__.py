@@ -1,11 +1,13 @@
 from spacy.tokens import Doc
-from amendmerge.amendment import Amendment
-from eucy.modify import modify_doc
+from amendmerge import DataSource
+from amendmerge.ep_report import EpReport
+from amendmerge.resolution import Resolution
+from amendmerge.amendment import Amendment, AmendmentList
 import os
 import warnings
 from amendmerge.utils import html_parser
 
-def amend_law(doc, amendments, modify_iteratively = False):
+def amend_law(doc, amendments, modify_iteratively = False, return_doc = False):
 
     """
     Amend a law with a list of amendments.
@@ -14,8 +16,8 @@ def amend_law(doc, amendments, modify_iteratively = False):
     ----------
     doc : spacy.tokens.Doc
         The law to be amended.
-    amendments : list
-        A list of amendments.
+    amendments : Report, Resolution, Amendment, list, AmendmentList
+        A list of amendments or a single amendment or a Report or Resolution object containing amendments.
 
     Returns
     -------
@@ -23,22 +25,65 @@ def amend_law(doc, amendments, modify_iteratively = False):
         The amended law.
     """
 
+    from eucy.modify import modify_doc
+
+    amended_text = None
+    resolution = None
+
     assert isinstance(doc, Doc)
-    assert isinstance(amendments, list)
 
-    for amendment in amendments:
-        assert isinstance(amendment, Amendment)
+    if isinstance(amendments, DataSource):
+        if isinstance(amendments, Resolution):
+            resolution = amendments
 
-        amendment.apply(doc, modify = modify_iteratively)
+            try:
+                amendments = amendments.get_amendments()
+            except Exception as e:
+                amendments = None
+        elif isinstance(amendments, EpReport):
+            resolution = amendments.get_ep_draft_resolution()
+            try:
+                amendments = resolution.get_amendments()
+            except Exception as e:
+                amendments = None
+    elif isinstance(amendments, Amendment):
+        amendments = [amendments]
+    elif isinstance(amendments, (list, AmendmentList)):
+        pass
+    else:
+        raise TypeError('amendments must be a Report, Resolution, an Amendment, a list of Amendments, or an AmendmentList')
+
+    if amendments:
+        for amendment in amendments:
+            assert isinstance(amendment, Amendment)
+
+            amendment.apply(doc, modify = modify_iteratively)
+    elif resolution:
+        if resolution.amendment_type == 'amendments_text':
+            amended_text = resolution.amended_text
+        else:
+            warnings.warn('No amendments found in supplied resolution.')
+
+    if amended_text and return_doc:
+        from eucy import eu_wrapper
+        import spacy
+
+        nlp = spacy.blank("en")
+        eu_wrapper = eu_wrapper(nlp)
+
+        doc = eu_wrapper(amended_text)
 
     if not modify_iteratively:
         doc = modify_doc(doc)
 
-    return doc
+    if return_doc:
+        return doc
+    else:
+        if amended_text:
+            return amended_text
+        return doc.text
 
 
-# High-level data Source class that has the required methods for the pipeline
-# to work with it
 class DataSource:
 
     """Base class for all data sources."""

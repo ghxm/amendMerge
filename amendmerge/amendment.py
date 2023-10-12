@@ -1,5 +1,5 @@
 # Class amendment
-
+import re
 from dataclasses import dataclass, field, InitVar, Field
 import pandas as pd
 import warnings
@@ -271,33 +271,173 @@ class Amendment:
 
         """
 
+        from eucy.utils import is_eucy_doc
+        from eucy import modify
+
+        if not is_eucy_doc(doc):
+            raise TypeError("doc must be a euCy doc")
+
+        pos_dict = self.position.to_dict(return_value_only=True, include_none=False)
+
+        if 'annex' in pos_dict or 'title' in pos_dict:
+            raise NotImplementedError(f"Matching of annexes and titles not implemented yet.")
+
+        applied = False
+        doc_level_mod = False # whether the text has been modified at the doc level rather than at the matched element level
+
         # apply amendment
         if self.type == 'new':
-            # TODO hier weiter
-            raise NotImplementedError
-        elif self.type == 'replace':
-            # TODO if can't find existing text by position, try to find it by text, send a warning
-            raise NotImplementedError
-        elif self.type == 'delete':
-            # TODO if can't find existing text by position, try to find it by text, send a warning
-            raise NotImplementedError
 
-    def to_df(self, prefix = ''):
+            if 'citation' in pos_dict:
+                element_type = 'citation'
+                element_pos = pos_dict['citation']
+            elif 'recital' in pos_dict:
+                element_type = 'recital'
+                element_pos = pos_dict['recital']
+            elif 'article' in pos_dict:
+                element_type = 'article'
+                element_pos = pos_dict['article']
 
-        # get object attributes except for the ones that are objects themselves
-        attr_dict = {prefix + k: v for k, v in self.__dict__.items() if not isinstance(v, object)}
+            # TODO handle paragraphs (also check how they occur in amendment tables)
+            #   by getting start and end is from article_elements
 
-        # try to add the object as a dataframe
-        for item in self.__dict__.items():
-            if isinstance(item[1], object):
+            doc._.add_element(self.text,
+                              position = element_pos,
+                              element_type = element_type)
 
-                try:
-                    attr_dict.update({item[0]: item[1].to_df()})
-                except:
-                    warnings.warn(f'Could not convert {str(item[0])} to dataframe')
+            # check the position and identify the new part
+            applied = True
 
-        # TODO add to_dict and to_series methods and call this (see Position.to_df())
+        elif self.type in ['replace', 'delete']:
 
+            delete = self.type == 'delete'
+
+            try:
+                matched_pos = self.position.match(doc)
+            except:
+                matched_pos = None
+
+
+            if matched_pos:
+
+                if delete and all(k not in pos_dict for k in ['paragraph', 'subparagraph', 'indent', 'point']):
+                    # if the whole element is to be deleted, delete it
+                    matched_pos._.delete()
+                    applied = True
+                else:
+
+                    if matched_pos.text.lower().strip() == self.existing_text.lower().strip():
+                        matched_pos._.replace_text(self.text,
+                                                   keep_ws=True,
+                                                   deletion_threshold=10)
+                        applied = True
+                    elif abs(len(self.existing_text.strip())-len(matched_pos.text.strip())) < 8:
+                        # existing_text and matched_pos.text are most likely the same but with some minor differences
+                        # so we try to replace the existing text with the amendment text completely
+                        new_text = self.text
+                    elif self.existing_text.lower() in matched_pos.text.lower().strip():
+                        # if existing text is part of text in doc, replace the existing text with the amendment text
+                        # try simple replacement
+
+                        new_text = matched_pos.text.replace(self.existing_text.strip(), self.text.strip())
+
+                        if new_text == matched_pos.text:
+                            # if simple replacement does not work, try to identify string pos using regex search
+
+                            new_text = None
+                            m = re.search(self.existing_text.strip(), matched_pos.text, re.IGNORECASE)
+
+                            if m:
+                                # get existing_text string pos in o_text
+                                start = m.start()
+                                end = m.end()
+
+                                # replace existing_text with amendment text
+                                new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
+                    else:
+                        # try to fuzzymatch within matched_pos
+                        from fuzzysearch import find_near_matches
+
+                        fm = find_near_matches(self.existing_text.strip(), matched_pos.text, max_l_dist=5)
+
+                        if len(fm) > 0:
+                            # sort by dist
+                            fm = sorted(fm, key=lambda x: x.dist)
+
+                            # get best match
+                            fm = fm[0]
+
+                            # get existing_text string pos in o_text
+                            start = fm.start
+                            end = fm.end
+
+                            # replace existing_text with amendment text
+                            new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
+
+
+            if not applied and not delete and not new_text and text_match_fallback:
+                warnings.warn(f"Could not match position {self.position.to_dict()} to doc. Trying to match text instead.")
+
+                from fuzzysearch import find_near_matches
+
+                fm = find_near_matches(self.existing_text.strip(), matched_pos.text, max_l_dist=5)
+
+                if len(fm) > 0:
+                    # sort by dist
+                    fm = sorted(fm, key=lambda x: x.dist)
+
+                    # get best match
+                    fm = fm[0]
+
+                    # get existing_text string pos in o_text
+                    start = fm.start
+                    end = fm.end
+
+                    # replace existing_text with amendment text
+                    new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
+                    doc_level_mod = True
+
+            if new_text:
+                if doc_level_mod:
+                    doc._.replace_text(new_text,
+                                        keep_ws=True,
+                                        deletion_threshold=None)
+                    applied = True
+
+                else:
+                    matched_pos._.replace_text(new_text,
+                                               keep_ws=True,
+                                               deletion_threshold=10)
+                    applied = True
+
+        if applied:
+            if modify or doc_level_mod:
+                return modify.modify_doc(doc)
+            return doc
+        else:
+            raise Exception(f"Could not apply amendment {self.to_dict()} to doc (missing implementation or existing text not present in doc).")
+
+
+    def to_dict(self, return_value_only = True, include_none = False, include_position = True):
+        # NOTE return_value_only only for future compatibility (possible expansion of Amendent to hold original and processed values similar to PositionAttribute)
+
+        amm_dict = {}
+
+        if include_position:
+            amm_dict = self.position.to_dict(return_value_only = return_value_only, include_none = include_none)
+
+        if include_none:
+            amm_dict.update({k: v for k, v in self.__dict__.items() if (not isinstance(v, (object)) or v is None) and k != 'position'})
+        else:
+            amm_dict.update({k: v for k, v in self.__dict__.items() if (not isinstance(v, (object)) and v is not None) and k != 'position'})
+
+        return dict
+
+    def to_series(self):
+        return pd.Series(self.to_dict(return_value_only=True, include_none=False))
+
+    def to_df(self):
+        return self.to_series().to_frame().T
 
 class AmendmentList(list):
     def __init__(self, initial_data):

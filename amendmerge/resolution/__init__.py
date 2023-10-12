@@ -67,7 +67,7 @@ class Resolution(DataSource):
             else:
                 return None
         elif self.amendment_type == 'amendments_text':
-            return NotImplementedError("Amendments for amendment type amendments_text not implemented yet.")
+            raise NotImplementedError("Amendments for amendment type amendments_text not implemented yet.")
 
     def find_amendment_type(self):
 
