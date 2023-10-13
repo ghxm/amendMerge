@@ -58,3 +58,42 @@ def ep_report(ep_report_bs):
     report = HtmlEpReport.create(source=ep_report_bs)
 
     return report
+
+@pytest.fixture
+def amended_proposals():
+    """ Amended texts """
+
+    # get all files from data/proposals_amended
+    amended_proposals = [f for f in os.listdir('tests/validation_merged/proposals_amended') if f.endswith('.txt')]
+
+    # read texts into dict
+    amended_texts = {}
+
+    for f in amended_proposals:
+        with open('tests/validation_merged/proposals_amended/' + f, 'r') as p:
+            amended_texts[f.replace('.txt', '')] = p.read()
+
+
+    return amended_texts
+
+@pytest.fixture
+def propoal_docs():
+    """ Original proposals as euCy-processed docs """
+
+    import spacy
+    from eucy.eucy import EuWrapper
+
+    nlp = spacy.blank("en")
+    eu_wrapper = EuWrapper(nlp)
+
+    proposals = [f for f in os.listdir('tests/validation_merged/proposals_original') if f.endswith('.txt')]
+
+    # read texts/docs into dict
+    proposal_docs = {}
+
+    for f in proposals:
+        with open('tests/validation_merged/proposals_original/' + f, 'r') as p:
+
+            proposal_docs[f.replace('.txt', '')] = eu_wrapper(p.read())
+
+    return proposal_docs
