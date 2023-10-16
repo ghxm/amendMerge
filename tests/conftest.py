@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from amendmerge.ep_report.html import HtmlEpReport
 
 ep_report_request_id = lambda request: request.node.callspec.params['ep_report_html']
+request_procedure_reference = lambda request: ep_report_request_id(request).split('_A')[0]
 
 
 def ep_report_result_by_id(id, results=None):
@@ -77,7 +78,7 @@ def amended_proposals():
     return amended_texts
 
 @pytest.fixture
-def propoal_docs():
+def proposal_docs():
     """ Original proposals as euCy-processed docs """
 
     import spacy
