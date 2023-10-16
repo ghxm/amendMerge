@@ -309,28 +309,30 @@ class Amendment:
             # TODO handle paragraphs (also check how they occur in amendment tables)
             #   by getting start and end is from article_elements
 
-            if isinstance(element_pos, str):
+            if element_pos:
 
-                try:
-                    # try to extract a number from the string
-                    m = re.search(r'\d+', element_pos)
+                if isinstance(element_pos, str):
 
-                    if m:
-                        add_pos = int(m.group(0))
-                except:
+                    try:
+                        # try to extract a number from the string
+                        m = re.search(r'\d+', element_pos)
+
+                        if m:
+                            add_pos = int(m.group(0))
+                    except:
+                        add_pos = 'end'
+                elif isinstance(element_pos, int):
+                    add_pos = element_pos
+                else:
                     add_pos = 'end'
-            elif isinstance(element_pos, int):
-                add_pos = element_pos
-            else:
-                add_pos = 'end'
-
-            doc._.add_element(self.text,
-                                  position = add_pos,
-                                  element_type = element_type)
+    
+                doc._.add_element(self.text,
+                                      position = add_pos,
+                                      element_type = element_type)
 
 
-            # check the position and identify the new part
-            applied = True
+                # check the position and identify the new part
+                applied = True
 
         elif self.type in ['replace', 'delete']:
 
