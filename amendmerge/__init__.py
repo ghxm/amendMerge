@@ -36,6 +36,14 @@ def amend_law(doc, amendments,
 
     from eucy.modify import modify_doc
 
+    if not eu_wrapper:
+        from eucy import eu_wrapper
+        import spacy
+
+        nlp = spacy.blank("en")
+        nlp.max_length = 10000000
+        eu_wrapper = eu_wrapper(nlp)
+
     amended_text = None
     resolution = None
 
@@ -67,7 +75,7 @@ def amend_law(doc, amendments,
             assert isinstance(amendment, Amendment)
 
             try:
-                amendment.apply(doc, modify=modify_iteratively)
+                amendment.apply(doc, modify=modify_iteratively, eu_wrapper=eu_wrapper)
             except Exception as e:
                 warnings.warn('Could not apply amendment: ' + str(e))
     elif resolution:
@@ -77,12 +85,6 @@ def amend_law(doc, amendments,
             warnings.warn('No amendments found in supplied resolution.')
 
     if amended_text and return_doc:
-        from eucy import eu_wrapper
-        import spacy
-
-        nlp = spacy.blank("en")
-        eu_wrapper = eu_wrapper(nlp)
-
         doc = eu_wrapper(amended_text)
 
     if not modify_iteratively:

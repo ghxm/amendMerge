@@ -261,7 +261,7 @@ class Amendment:
         else:
             self.type = 'replace'
 
-    def apply(self, doc, modify = False, text_match_fallback = True):
+    def apply(self, doc, modify = False, text_match_fallback = True, eu_wrapper=None):
         """
         Apply the amendment to a spacy doc
 
@@ -442,8 +442,9 @@ class Amendment:
                     applied = True
 
         if applied:
+
             if modify or doc_level_mod:
-                modify.modify_doc(doc)
+                modify.modify_doc(doc, eu_wrapper=eu_wrapper)
             return None
         else:
             raise Exception(f"Could not apply amendment {str(self.to_dict())} to doc (missing implementation or existing text not present in doc).")
