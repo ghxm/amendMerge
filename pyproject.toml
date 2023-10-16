@@ -2,18 +2,19 @@
 name = "amendmerge"
 version = "0.1.0"
 description = ""
-authors = ["Maximilian Haag <>"]
+authors = ["Maximilian Haag <mail@mxhg.org>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-eucy = {git = "https://github.com/ghxm/euCy"}
 spacy = "^3.6.1"
 pandas = "^2.0.3"
 bs4 = "^0.0.1"
 word2number = "^1.1"
 regex = "^2023.10.3"
 fuzzysearch = "^0.7.3"
+textdistance = {extras = ["extras"], version = "^4.6.0"}
+eucy = {git = "https://github.com/ghxm/euCy.git"}
 
 
 [tool.poetry.group.tests.dependencies]
