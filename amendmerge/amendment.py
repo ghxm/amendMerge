@@ -4,7 +4,7 @@ from dataclasses import dataclass, field, InitVar, Field
 import pandas as pd
 import warnings
 from typing import Union, Optional, Dict
-from amendmerge.utils import to_numeric
+from amendmerge.utils import to_numeric, clean_html_text
 
 
 class PositionAttribute:
@@ -128,15 +128,15 @@ class Position:
             raise NotImplementedError(f"Matching of annexes and titles not implemented yet.")
 
         if 'citation' in pos_dict:
-            return doc.spans['citations'][pos_dict['citation']]
-        elif 'recitals' in pos_dict:
-            return doc.spans['citations'][pos_dict['citation']]
+            return doc.spans['citations'][pos_dict['citation']-1]
+        elif 'recital' in pos_dict:
+            return doc.spans['recitals'][pos_dict['recital']-1]
         elif 'article' in pos_dict:
-            article_idx = pos_dict.get('article', -1)
-            paragraph_idx = pos_dict.get('paragraph', 0)  # Default to first paragraph
-            subparagraph_idx = pos_dict.get('subparagraph', 0)  # Default to first subparagraph
-            indent_idx = pos_dict.get('indent', -1)
-            point_idx = pos_dict.get('point', -1)
+            article_idx = pos_dict.get('article', -1)-1
+            paragraph_idx = pos_dict.get('paragraph', 1)-1  # Default to first paragraph
+            subparagraph_idx = pos_dict.get('subparagraph', 1)-1  # Default to first subparagraph
+            indent_idx = pos_dict.get('indent', -1)-1
+            point_idx = pos_dict.get('point', -1)-1
 
             try:
                 article = doc.spans['articles'][article_idx]
@@ -239,8 +239,15 @@ class Amendment:
 
     def __setattr__(self, key, value):
         if key in ['text', 'existing_text']:
-            if str(value) == '':
+            if str(value).strip() == '':
                 value = None
+
+        value = clean_html_text(value)
+
+        # remove footnotes
+        if isinstance(value, str):
+            value = re.sub(r'[-_]{3,}.*', '', value, re.DOTALL)
+
         super().__setattr__(key, value)
 
         if key != 'type' and all([hasattr(self, attr) for attr in ['text', 'existing_text', 'position']]):
@@ -249,7 +256,7 @@ class Amendment:
     def determine_type(self):
         if self.text is None or ((len(self.text)<20 and 'delete' in self.text.lower())):
             self.type = 'delete'
-        elif self.existing_text is None or (self.position and self.position.new):
+        elif self.existing_text is None or (self.existing_text and len(self.existing_text.strip())<2) or (self.position and self.position.new):
             self.type = 'new'
         else:
             self.type = 'replace'
@@ -284,6 +291,7 @@ class Amendment:
 
         applied = False
         doc_level_mod = False # whether the text has been modified at the doc level rather than at the matched element level
+        new_text = None
 
         # apply amendment
         if self.type == 'new':
@@ -301,9 +309,25 @@ class Amendment:
             # TODO handle paragraphs (also check how they occur in amendment tables)
             #   by getting start and end is from article_elements
 
+            if isinstance(element_pos, str):
+
+                try:
+                    # try to extract a number from the string
+                    m = re.search(r'\d+', element_pos)
+
+                    if m:
+                        add_pos = int(m.group(0))
+                except:
+                    add_pos = 'end'
+            elif isinstance(element_pos, int):
+                add_pos = element_pos
+            else:
+                add_pos = 'end'
+
             doc._.add_element(self.text,
-                              position = element_pos,
-                              element_type = element_type)
+                                  position = add_pos,
+                                  element_type = element_type)
+
 
             # check the position and identify the new part
             applied = True
@@ -375,12 +399,19 @@ class Amendment:
                             new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
 
 
-            if not applied and not delete and not new_text and text_match_fallback:
-                warnings.warn(f"Could not match position {self.position.to_dict()} to doc. Trying to match text instead.")
+            if not applied and not new_text and text_match_fallback:
+                warnings.warn(f"Could not match position {str(self.position.to_dict())} to doc. Trying to match text instead.")
 
                 from fuzzysearch import find_near_matches
 
-                fm = find_near_matches(self.existing_text.strip(), matched_pos.text, max_l_dist=5)
+                max_l_dist = len(self.existing_text.strip())//300
+
+                if max_l_dist < 8:
+                    max_l_dist = 8
+
+
+                # TODO how to deal with badly formatted proposal texts?
+                fm = find_near_matches(self.existing_text.strip(), doc.text, max_l_dist=max_l_dist)
 
                 if len(fm) > 0:
                     # sort by dist
@@ -412,10 +443,10 @@ class Amendment:
 
         if applied:
             if modify or doc_level_mod:
-                return modify.modify_doc(doc)
-            return doc
+                modify.modify_doc(doc)
+            return None
         else:
-            raise Exception(f"Could not apply amendment {self.to_dict()} to doc (missing implementation or existing text not present in doc).")
+            raise Exception(f"Could not apply amendment {str(self.to_dict())} to doc (missing implementation or existing text not present in doc).")
 
 
     def to_dict(self, return_value_only = True, include_none = False, include_position = True):

@@ -1,13 +1,11 @@
 import warnings
 import regex as re
 from bs4 import BeautifulSoup, Tag
-import pandas as pd
-from collections import OrderedDict
 
 from amendmerge import Html, html_parser, regex as amre
 from amendmerge.amendment import Amendment, Position
 from amendmerge.amendment_table import AmendmentTable
-from amendmerge.utils import bs_set, to_numeric, combine_matches_to_string, determine_text_td_num
+from amendmerge.utils import bs_set, to_numeric, combine_matches_to_string, determine_text_td_num, clean_html_text
 
 
 
@@ -237,6 +235,7 @@ class HtmlAmendmentTableParser:
         amendment_dict = {}
 
         amendment_trs = [tr for tr in row if tr['type'] in ['amendment', 'amendment_add']]
+        amendment_header_trs = [tr for tr in row if tr['type'] and tr['type'].startswith('col_header')]
 
         existing_text = ''
         new_text = ''
@@ -248,10 +247,13 @@ class HtmlAmendmentTableParser:
 
         for amm_tr in amendment_trs:
             if not case:
-                if determine_text_td_num(amm_tr) == 1:
-                    case = 'outer'
-                elif determine_text_td_num(amm_tr) > 1:
+                if determine_text_td_num(amm_tr) > 1:
                     case = 'inner'
+                elif determine_text_td_num(amm_tr) == 1:
+                    case = 'outer'
+                    if len(amendment_header_trs) > 0:
+                        if determine_text_td_num(amendment_header_trs[0]) > 1:
+                            case = 'inner'
                 else:
                     continue
 
@@ -298,8 +300,8 @@ class HtmlAmendmentTableParser:
                         new_text += '\n' + td_text
 
         amendment_dict['maybe_table'] = maybe_table
-        amendment_dict['existing_text'] = existing_text
-        amendment_dict['text'] = new_text
+        amendment_dict['existing_text'] = clean_html_text(existing_text)
+        amendment_dict['text'] = clean_html_text(new_text)
 
         # parse JUSTIFICATION
         justification_trs = [tr for tr in row if tr['type'] == 'justification']
@@ -313,6 +315,9 @@ class HtmlAmendmentTableParser:
 
         # Other rows
         # other_trs = [tr for tr in row if tr['type'] in ['other', None]]
+
+        # clean new and existing text
+
 
         position = Position(**position_dict)
         amendment = Amendment(position = position, **amendment_dict)

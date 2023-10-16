@@ -1,13 +1,16 @@
 from spacy.tokens import Doc
-from amendmerge import DataSource
-from amendmerge.ep_report import EpReport
-from amendmerge.resolution import Resolution
-from amendmerge.amendment import Amendment, AmendmentList
+
 import os
 import warnings
 from amendmerge.utils import html_parser
 
-def amend_law(doc, amendments, modify_iteratively = False, return_doc = False):
+def amend_law(doc, amendments,
+              modify_iteratively = False,
+              return_doc = False,
+              eu_wrapper = None):
+    from amendmerge.ep_report import EpReport
+    from amendmerge.resolution import Resolution
+    from amendmerge.amendment import Amendment, AmendmentList
 
     """
     Amend a law with a list of amendments.
@@ -18,6 +21,12 @@ def amend_law(doc, amendments, modify_iteratively = False, return_doc = False):
         The law to be amended.
     amendments : Report, Resolution, Amendment, list, AmendmentList
         A list of amendments or a single amendment or a Report or Resolution object containing amendments.
+    modify_iteratively : bool, optional
+        Whether to modify the law iteratively or as a whole at the end of the modification process. Defaults to False.
+    return_doc : bool, optional
+        Whether to return a spacy.tokens.Doc object instead of a string. Defaults to False.
+    eu_wrapper : EuWrapper, optional
+        A EuWrapper object to pass to eucy.modify(). Defaults to None.
 
     Returns
     -------
@@ -57,7 +66,10 @@ def amend_law(doc, amendments, modify_iteratively = False, return_doc = False):
         for amendment in amendments:
             assert isinstance(amendment, Amendment)
 
-            amendment.apply(doc, modify = modify_iteratively)
+            try:
+                amendment.apply(doc, modify=modify_iteratively)
+            except Exception as e:
+                warnings.warn('Could not apply amendment: ' + str(e))
     elif resolution:
         if resolution.amendment_type == 'amendments_text':
             amended_text = resolution.amended_text
@@ -74,7 +86,7 @@ def amend_law(doc, amendments, modify_iteratively = False, return_doc = False):
         doc = eu_wrapper(amended_text)
 
     if not modify_iteratively:
-        doc = modify_doc(doc)
+        doc = modify_doc(doc, eu_wrapper = eu_wrapper)
 
     if return_doc:
         return doc

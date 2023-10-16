@@ -6,6 +6,20 @@ import re
 from collections import OrderedDict
 from word2number import w2n
 
+def clean_html_text(text):
+
+    if not isinstance(text, str):
+        return text
+
+    # remove linebreaks where unnecessary
+    text = re.sub(r'\n(?![\r\n])', ' ', text)
+
+    # remove double spaces
+    text = re.sub(r'[ ]+', ' ', text)
+
+    return text.strip()
+
+
 def is_number_word(s):
     try:
         w2n.word_to_num(s.lower())
