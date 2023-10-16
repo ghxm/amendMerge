@@ -1,7 +1,7 @@
 import re
 from bs4 import BeautifulSoup
 import copy
-from amendmerge.utils import html_parser, bs_set
+from amendmerge.utils import html_parser, bs_set, clean_html_text
 from amendmerge.resolution import Resolution
 from amendmerge.amendment_table.html import HtmlAmendmentTable
 from amendmerge import Html, DataSource

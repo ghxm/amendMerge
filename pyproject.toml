@@ -14,7 +14,7 @@ word2number = "^1.1"
 regex = "^2023.10.3"
 fuzzysearch = "^0.7.3"
 textdistance = {extras = ["extras"], version = "^4.6.0"}
-eucy = {git = "https://github.com/ghxm/euCy.git"}
+eucy = {git = "ssh://git@github.com/ghxm/euCy.git"}
 
 
 [tool.poetry.group.tests.dependencies]
