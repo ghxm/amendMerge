@@ -3,7 +3,7 @@ import regex as re
 from bs4 import BeautifulSoup, Tag
 
 from amendmerge import Html, html_parser, regex as amre
-from amendmerge.amendment import Amendment, Position
+from amendmerge.amendment import Amendment, Position, AmendmentList
 from amendmerge.amendment_table import AmendmentTable
 from amendmerge.utils import bs_set, to_numeric, combine_matches_to_string, determine_text_td_num, clean_html_text
 
@@ -113,8 +113,8 @@ class HtmlAmendmentTable202305Old(HtmlAmendmentTable):
         parsed_table = HtmlAmendmentTable202305OldParser(self)
 
         try:
-            self.amendments = parsed_table.amendments
-            self.table_rows = parsed_table.rows
+            self.amendments = AmendmentList(parsed_table.amendments)
+            self.table_rows = AmendmentList(parsed_table.rows)
         except Exception as e:
             warnings.warn('Could not parse amendment table: ' + str(e))
             self.amendments = None
@@ -156,7 +156,7 @@ class HtmlAmendmentTableParser:
 
         """Make sense of the rows and determine the amendments."""
 
-        amendments = []
+        amendments = AmendmentList([])
 
         # make sure each of the rows has at least a position and an amendment
         for i, row in enumerate(self.rows):
@@ -510,7 +510,7 @@ class HtmlAmendmentTable202305OldParser(HtmlAmendmentTableParser):
         self.table_style = None
 
         self.rows = []
-        self.amendments = []
+        self.amendments = AmendmentList([])
 
         if amendment_table.subformat.endswith('new-old'):
             self.table_style = 'new-old'

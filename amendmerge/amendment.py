@@ -253,6 +253,35 @@ class Amendment:
         if key != 'type' and all([hasattr(self, attr) for attr in ['text', 'existing_text', 'position']]):
             self.determine_type() # re-determine type
 
+    def edit_distance(self, method = 'DamerauLevenshtein', qval = None):
+        """
+        Calculate the edit distance between the existing text and the amendment text
+
+        Parameters
+        ----------
+        method : str
+            The edit distance method to be used can be any class name from the textdistance package
+        qval : int, optional
+            The qval to be used for the edit distance method, by default None
+
+        Returns
+        -------
+        int
+            The edit distance between the existing text and the amendment text
+
+        """
+
+        import textdistance
+
+        dist_meth = getattr(textdistance, method)
+
+        if self.type == 'delete':
+            return dist_meth(qval=qval).distance(self.existing_text, '')
+        elif self.type == 'new':
+            return dist_meth(qval=qval).distance('', self.text)
+        else:
+            return dist_meth(qval=qval).distance(self.existing_text, self.text)
+
     def determine_type(self):
         if self.text is None or ((len(self.text)<20 and 'delete' in self.text.lower())):
             self.type = 'delete'
@@ -325,7 +354,7 @@ class Amendment:
                     add_pos = element_pos
                 else:
                     add_pos = 'end'
-    
+
                 doc._.add_element(self.text,
                                       position = add_pos,
                                       element_type = element_type)
@@ -485,9 +514,12 @@ class AmendmentList(list):
             raise TypeError("Item must be of type Amendment")
 
     def _convert_to_amendment(self, item):
-        if isinstance(dict, str):
+        if isinstance(item, (dict, str)):
             return Amendment(**item)
-        return item
+        elif isinstance(item, Amendment):
+            return item
+        else:
+            raise TypeError("Item must be of type Amendment or convertible to Amendment")
 
     def append(self, item):
         item = self._convert_to_amendment(item)
@@ -507,5 +539,8 @@ class AmendmentList(list):
 
     def to_df(self):
         return pd.DataFrame([amendment.to_dict() for amendment in self])
+
+    def edit_distance(self, method, qval = None):
+        return sum([amendment.edit_distance(method = method, qval = qval) for amendment in self])
 
 
