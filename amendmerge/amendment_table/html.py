@@ -114,7 +114,7 @@ class HtmlAmendmentTable202305Old(HtmlAmendmentTable):
 
         try:
             self.amendments = AmendmentList(parsed_table.amendments)
-            self.table_rows = AmendmentList(parsed_table.rows)
+            self.table_rows = parsed_table.rows
         except Exception as e:
             warnings.warn('Could not parse amendment table: ' + str(e))
             self.amendments = None
