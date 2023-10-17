@@ -540,7 +540,7 @@ class AmendmentList(list):
     def to_df(self):
         return pd.DataFrame([amendment.to_dict() for amendment in self])
 
-    def edit_distance(self, method, qval = None):
+    def edit_distance(self, method = 'DamerauLevenshtein', qval = None):
         return sum([amendment.edit_distance(method = method, qval = qval) for amendment in self])
 
 
