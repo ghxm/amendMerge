@@ -323,7 +323,7 @@ class HtmlResolution202305(HtmlResolution):
         self.amended_text_bs = BeautifulSoup('<div>'+ "".join([str(t) for t in res_text_tags]) + '</div>', html_parser()).find('div')
 
         # return text
-        self.amended_text = '\n'.join([tag.get_text(separator=' ') for tag in res_text_tags])
+        self.amended_text = clean_html_text('\n'.join([tag.get_text(separator=' ') for tag in res_text_tags]))
 
 
     def find_amendment_table(self):
