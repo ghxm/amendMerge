@@ -494,7 +494,7 @@ class Amendment:
         else:
             amm_dict.update({k: v for k, v in self.__dict__.items() if (not isinstance(v, (object)) and v is not None) and k != 'position'})
 
-        return dict
+        return amm_dict
 
     def to_series(self):
         return pd.Series(self.to_dict(return_value_only=True, include_none=False))
@@ -538,7 +538,7 @@ class AmendmentList(list):
         super().insert(index, item)
 
     def to_df(self):
-        return pd.DataFrame([amendment.to_dict() for amendment in self])
+        return pd.DataFrame.from_records([amendment.to_dict() for amendment in self])
 
     def edit_distance(self, method = 'DamerauLevenshtein', qval = None):
         return sum([amendment.edit_distance(method = method, qval = qval) for amendment in self])
