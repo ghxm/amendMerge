@@ -1,17 +1,44 @@
 # amendmerge
 
+> [!NOTE]  
+> Please note that this tool is still under active development and without proper documentation. The code is not stable and the API may change in the future. Feel free to use it but be aware of the risks and contribute to the development if you can.
+
+
+
 ## Description
 
 This is a tool to parse sources of amendments in EU legislation and merge them into the consolidated version of the legislation.
 
-## Classes and attributes
 
-### `DataSource`
+## Installation and usage
 
-This class represents a data source, i.e. a source of amendments. It has the following attributes that are worth mentioning for extensibility purposes:
+You can install the package from GitHub using pip:
 
-- `type_`: the type of the data source (e.g. EP report/resolution, Council position, etc.
-- `subtype`: the subtype of the data source (e.g. Committee resolution, Plenary resolution, etc.)
+```
+pip install git+https://github.com/ghxm/amendMerge.git
+```
 
-- `format`: the format that the data source was parsed from
-- `subformat`: the subformat that the data source was parsed from (e.g. specific version of HTML EP reports)
+For now, the package can only be used as a Python library. You can import the package to your Python script and use the functions provided by the package. For example:
+
+```
+from amendmerge.ep_report.html import HtmlEpReport
+
+# read in a report in HTML format
+with open('<path to report HTML>', 'r') as f:
+    report_html = f.read()
+
+# read in a report in HTML format
+report = HtmlEpReport.create(source=report_html)
+
+# you can start investigating the report
+## get the draft resolution
+resolution = report.get_ep_draft_resolution()
+
+## check the amendment type
+resolution.amendment_type
+
+## check the parsed amendments
+amendments = resolution.get_amendments()
+
+```
+
