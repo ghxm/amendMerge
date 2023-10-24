@@ -1,0 +1,186 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 51998PC0542 - EN
+
+Avis juridique important
+
+|
+
+51998PC0542
+
+Proposal for a European Parliament and Council Decision amending Decision No 1254/96/EC laying down a series of guidelines for trans-European energy networks  /* COM/98/0542 final - COD 98/0284 */
+
+Official Journal C 320 , 17/10/1998 P. 0012
+
+Proposal for a European Parliament and Council Decision amending Decision No 1254/96/EC laying down a series of guidelines for trans-European energy networks (98/C 320/05) (Text with EEA relevance) COM(1998) 542 final - 98/0284(COD)
+
+(Submitted by the Commission on 30 September 1998)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular the first paragraph of Article 129d thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the Economic and Social Committee,
+
+Having regard to the opinion of the Committee of the Regions,
+
+Acting in accordance with the procedure laid down in Article 189b of the Treaty,
+
+Whereas the list of projects of common interest established by Decision No 1254/96/EC of the European Parliament and of the Council (1), as amended by Decision No 1047/97/EC (2), needs to be updated periodically in line with developments in interconnected energy networks both inside and outside the European Community and taking account of the enlargement process and, more generally, the strengthening of energy links with non-member countries;
+
+Whereas the descriptions of some projects of common interest currently featuring on the list need to be adapted;
+
+Whereas new projects must be added to the list,
+
+HAVE ADOPTED THIS DECISION:
+
+Article 1
+
+The indicative list of projects of common interest set out in the Annex to Decision No 1254/96/EC is hereby amended as follows:
+
+1. Points c6, c8, f1, g7 and h11 are amended as indicated in Annex I to this Decision.
+
+1a. Point c6 is replaced by the following text:
+
+'c6: SPAIN: Strengthening and development of internal connections.'
+
+2. the points appearing in Annex II to this Decision are added.
+
+	
+2a. 'a9: GREECE: Connections between the islands and between the islands and the mainland.'
+
+Article 2
+
+This Decision shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.
+
+Article 3
+
+This Decision is addressed to the Member States.
+
+(1) OJ L 161, 29.6.1996, p. 149.
+
+(2) OJ L 152, 11.6.1997, p. 12.
+
+ANNEX I
+
+TRANS-EUROPEAN ENERGY NETWORKS
+
+ELECTRICITY NETWORKS
+
+(c) Development of internal connections necessary to make the best use of interconnections between Member States
+
+Point c 8 is replaced by the following text:
+
+'c 8: Greece:
+
+Strengthening and development of internal connections.`
+
+NATURAL GAS NETWORKS
+
+(f) Connection of isolated gas networks to European interconnected networks, including the necessary improvement of the existing networks, and connection of separate natural gas networks
+
+Point f 1 is replaced by the following text:
+
+'f 1: Ireland - United Kingdom:
+
+Strengthening of the gas transport capacity between the two countries.`
+
+(g) Increasing reception (LNG) and storage capacities necessary to satisfy demand, and diversification of supply sources and routes for natural gas
+
+Point g 7 is replaced by the following text:
+
+'g 7: France:
+
+Developing underground gas storage facilities.`
+
+(h) Increasing transmission capacity (gas delivery pipelines) necessary to meet demand and diversification of supply sources and routes for natural gas
+
+Point h 11 is replaced by the following text:
+
+'h 11: Russia - Ukraine - Moldavia - Romania - Bulgaria - Greece - other Balkan countries:
+
+Improvements to the gas transportation networks to ensure supplies from Russian resources to the new gas network in Greece and to other Balkan countries.`
+
+ANNEX II
+
+TRANS-EUROPEAN ENERGY NETWORKS
+
+Points 1 to 15 following are inserted as appropriate in the alphabetical and numerical order of the list:
+
+ELECTRICITY NETWORKS
+
+(a) Connection of isolated electricity networks to European interconnected networks
+
+1. 'a 2: Ireland - United Kingdom (Wales):
+
+Connection by submarine cable of the network of the Republic of Ireland to the network of the United Kingdom (Wales).`
+
+2. 'a 8: United Kingdom (Scotland):
+
+Connection by submarine cable of the Shetland Islands.`
+
+(b) Development of interconnections between Member States
+
+3. 'b 16: Denmark - Germany:
+
+Strengthening the aerial connections between the two countries.`
+
+(c) Development of internal connections necessary to make the best use of interconnections between Member States
+
+4. 'c 13: United Kingdom (Northern Ireland):
+
+Strengthening of internal connections in Northern Ireland, in relation to the interconnections with the Republic of Ireland.`
+
+GAS NETWORKS
+
+(f) Connection of isolated gas networks to European interconnected networks, including the necessary improvement of the existing networks, and connection of separate natural gas networks
+
+5. 'f 13: Italy - Greece - other Balkan countries:
+
+Construction of a gas pipeline to supply Greece and other Balkan countries through Southern Italy.`
+
+6. 'f 14: Austria - Czech Republic:
+
+Construction of gas pipelines to connect the networks of the two countries.`
+
+7. 'f 16: Austria:
+
+Interconnection of isolated gas transmission networks.`
+
+8. 'f 17: Austria - Slovenia - Croatia:
+
+Strengthening of the gas transport capacity between the three countries.`
+
+(g) Increasing reception (LNG) and storage capacities necessary to satisfy demand, and diversification of supply sources and routes for natural gas
+
+9. 'g 6: Germany:
+
+Developing underground gas storage facilities.`
+
+10. 'g 14: Italy:
+
+Construction of an offshore LNG terminal.`
+
+11. 'g 15: United Kingdom:
+
+Developing underground gas storage facilities.`
+
+(h) Increasing transmission capacity (gas delivery pipelines) necessary to meet demand and diversification of supply sources and routes for natural gas
+
+12. 'h 10: Caspian Sea countries - EU:
+
+Construction of new gas pipelines to allow the European Union to be supplied from resources in the Caspian Sea Countries.`
+
+13. 'h 15: The Netherlands - Germany - Switzerland - Italy:
+
+Increasing gas transport capacity of the TENP pipeline running from the Netherlands through Germany to Italy.`
+
+14. 'h 16: Belgium - France - Switzerland - Italy:
+
+Increasing gas transport capacity from north-western Europe through France to Italy.`
+
+15. 'h 17: Denmark - Poland:
+
+Construction of a gas pipeline through Denmark to Poland.`

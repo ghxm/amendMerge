@@ -1,0 +1,1153 @@
+EUR-Lex - 52012PC0093 - EN
+
+|
+
+52012PC0093
+
+Proposal for a DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on accounting rules and action plans on greenhouse gas emissions and removals resulting from activities related to land use, land use change and forestry /* COM/2012/093 final - 2012/0042 (COD) */
+
+EXPLANATORY MEMORANDUM
+
+1.           CONTEXT OF THE PROPOSAL
+
+The need to act on climate change now
+
+At the end of 2010, in the context of theUnited Nations Framework Convention on Climate Change (UNFCCC), it was recognisedthat global warming must not exceed the temperatures experienced before theindustrial revolution by more than 2˚ C[1].This is vital if the negative consequences of human interference with theclimate system are to be limited. Global emissions must therefore startdeclining. This long-term goal requires global greenhouse gas emissions to bereduced by at least 50 % below 1990 levels by 2050[2].
+
+Developed countries as a group shouldreduce emissions by 80 to 95 % by 2050 compared to 1990 levels. In themedium term, the Union has committed to reduce its greenhouse gas emissions by20 % below 1990 levels by 2020, and by 30 % below if conditions areright[3].The land use, land use change and forestry (LULUCF) sector does not form partof that commitment.
+
+However, Directive 2009/29/EC of theEuropean Parliament and of the Council of 23 April 2009 amending Directive2003/87/EC so as to improve and extend the greenhouse gas emission allowancetrading scheme of the Community[4](the EU Emission Trading System, ‘EU ETS’) and Decision No 406/2009/EC of theEuropean Parliament and of the Council of 23 April 2009 on the effort of MemberStates to reduce their greenhouse gas emissions to meet the Community’sgreenhouse gas emission reduction commitments up to 2020[5] (the Effort Sharing Decision, ‘ESD’)note that all sectors of the economy should contribute to reaching the Union’sgreenhouse gas emission reduction target for 2020. Moreover, Article 9 ofDecision No 406/2009/EC invited the Commission to assess the modalities forincluding emissions and removals from activities related to LULUCF in the Unionreduction commitment and to make a legislative proposal, as appropriate, whilstensuring the permanence and environmental integrity of the contribution of thesector, and providing for accurate monitoring and accounting.
+
+Following wide consultation of MemberStates and stakeholders, and an impact assessment, the Commission accordinglyproposes a Decision to provide, as a first step, a legal framework for robust,harmonised and comprehensive accounting rules for LULUCF that are designed toaccommodate its specific profile. The proposal establishes a legalframework for the LULUCF sector which is separate from the frameworksregulating the existing commitments (the EU ETS and ESD), meaning that thesector would not formally be included in the 20 % greenhouse gas emissionreduction target at this stage. Only once robust accounting rules andmonitoring and reporting are in place, the LULUCF sector could be formallyincluded in the Union’s emission reduction targets. To this end, the Commissionhas also put forward a proposal to repeal Decision No 280/2004/EC of theEuropean Parliament and of the Council of 11 February 2004 concerning amechanism for monitoring Community greenhouse gas emissions and forimplementing the Kyoto Protocol[6],replacing it by a Regulation of the European Parliament and of the Council on amechanism for monitoring and reporting greenhouse gas emissions and forreporting other information at national and Union level relevant to climatechange[7].
+
+The role of land use and forestry inclimate change
+
+In the Union, emissions of greenhouse gasescome mainly from energy production and other man-made sources. At the sametime, carbon is absorbed (removed) from the atmosphere through photosynthesisand stored in trees and associated wood products, and in other plants andsoils. Therefore, appropriate land uses and management practices in forestryand agriculture can limit emissions of carbon and enhance removals from theatmosphere. Such practices are covered by the LULUCF sector, which comprisesmostly carbon dioxide (CO2) emissions and removals by terrestrialecosystems, generally estimated as carbon stock changes[8]. In 2009, LULUCF removed anamount of carbon from the atmosphere equivalent to about 9 % of the Union’stotal greenhouse gas emissions in other sectors.
+
+Agriculture, forestry, related industriesand energy are the most important economic sectors relevant for LULUCF and theycan contribute to the reduction of emissions and enhancement of sinks inseveral ways. Agricultural measures, aimed at reducing the conversion ofgrassland and carbon losses from the cultivation of organic soils, couldinclude improving agronomic practices such as using different crop species(e.g. more leguminous crops) and extending crop rotations. Agro-forestrypractices which provide higher soil carbon stocks could contribute by keepinglivestock or growing of food crops on land on which trees are also grown fortimber, energy or other wood products. Organic materials can also be returnedto or left on the land to improve the productivity of croplands and grasslands,while rewetting, setting aside or not draining organic soils, including peatland, and restoring degraded soils can have significant mitigation andbiodiversity benefits. In view of this, including cropland and grasslandmanagement into accounting of emissions would be a necessary step towards thefull recognition of the contribution of these activities to meet the climatechallenge commitments.
+
+Forestry also has much potential toboost mitigation. This includes practices such asconverting non-forest land to forest (i.e. afforestation)[9], avoiding the conversion offorest to other types of land (i.e. deforestation), storing carbon in existingforests through longer rotation periods of trees, avoiding clear-felling (e.g.forest management on thinning or selective logging) and conversion toundisturbed forests, and more widespread use of prevention measures to limitthe impacts of disturbances such as fires, pests and storms. Equallyimportantly, existing forests can be made more productive by spacing rotationscloser to the productive maximum, producing more from low-production forestsand increasing the harvest of timber off-cuts and branch-wood, providedbiodiversity, soil fertility and organic matter can be maintained. An impactcould also be obtained by changing species composition and growth rates.
+
+In addition to the opportunities directlylinked to forestry and agriculture, there are potential mitigation benefits inthe related industries (e.g. pulp and paper, wood processing) andrenewable energy sectors if agricultural land and forests are managed forproduction of timber and energy. Whilst carbon is stored in trees and in otherplants and soils, it can also be stored for several decades in products (e.g.construction wood). Industry and consumer oriented policies can make animportant contribution to increasing the long termuse and recycling of wood and/or the production of pulp, paper and woodproducts, thereby replacing more emission-intensive equivalents (e.g. concrete,steel, plastics made from fossil fuels). In fact, the bio-based industrycan make use of crops grown for material substitution (e.g. hemp and grass forinsulation instead of glass fibre, straw for furniture production, car doorpanels made from flax or sisal plants, bio-plastics) or for energy (e.g. usingbiomass instead of fossil fuels). Studies show that for each tonne of carbon inwood products substituted for non-wood products an average greenhouse gasemission reduction of approximately two tonnes of carbon can be expected[10].
+
+The inclusion of mandatoryaccounting for forest management, cropland management and grazing-landmanagement would make action taken by farmers, foresters and forest-basedindustries more apparent and provide the basis for designing policy incentivesto increase their mitigation action. If such efforts are being accounted for,their overall greenhouse gas impact is more correctly reflected and thecost-efficiency of reaching emission reduction targets would be improved.
+
+Given the fact that agricultural land use,forestry and related industries differ greatly between Member States in termsof their emission potential within the Union no single policy approach will fitthem all. A tailored approach is needed to tackle the different forms of landuses and forestry practices. The fundamental pre-condition for protecting andenhancing carbon stocks, and the rate of removals is the provision of a levelplaying field between different types of measures in the various sectors in theMember States (e.g. grazing land management or bio-energy production), throughaccurate and harmonised accounting for emissions and removals from the LULUCFsector.
+
+Current policies are not enough
+
+Although the LULUCFsector does not yet count towards the Union’s emission reduction target for2020, it counts in part towards the Union’s commitment under the Kyoto Protocol(‘Kyoto Protocol’) to the UNFCCC, approved by Council Decision 2002/358/EC [11] for the periodfrom 2008 to 2012. However, the existing international accounting rules, whichare a mix of voluntary and mandatory practices, have significant drawbacks.Most importantly, accounting is voluntary for most LULUCF activities, notablyfor forest management (representing about 70 % of the sector) and for croplandand grazing-land management (representing about 17 % of the sector). As aresult, accounting in this first commitment period under the Kyoto Protocolvaries greatly between Member States. Another drawback is the lack ofincentives for climate change mitigation in forestry. Improvements inaccounting are necessary to create a level playing field within theagricultural, forestry and related industries and energy sectors in the MemberStates with a view to ensuring their consistent treatment within the Union’sinternal market.
+
+Robust and harmonisedestimation of emissions and removals in agriculture and forestry requiresinvestment in monitoring and reporting capacity. Nonetheless, there are stillsignificant gaps and the accuracy and completeness of the reported data must beimproved, especially as regards data on agricultural soils. Improvements inmonitoring and reporting will therefore not only support accounting butalso provide a robust, clear and visible indicator of progress in agricultureand forestry.
+
+Fostering synergieswith wider policy objectives isalso important. Incentives do exist to promote the use of bio-energy[12] but currentlythere is no coherent approach to climate change mitigation in the LULUCF sectorthrough measures in agriculture, forestry and related industries.
+
+Indeed, climate change mitigation could play anincreasingly important role in the Common Agricultural Policy (CAP). In thepost-2013 Union rural-development policy, climate change mitigation andadaptation could be tackled by offering better incentives for carbonsequestration in agriculture and forestry. Some of them would at the same timeenhance and protect carbon stocks and generate co-benefits for biodiversity andfor adaptation by increasing water-retention capacity and reducing erosion.Mandatory accounting of associated carbon fluxes would make the positivecontribution of these measures more visible and ensure their full contributiontowards meeting the climate change challenge. Accounting for LULUCF would alsoclarify the benefits of sustainable bio-energy by better reflecting relatedemissions, in particular those resulting from the combustion of biomass, whichis unaccounted for at the moment. This would strengthen the incentives providedby sustainability criteria in the context of renewable energy targets.
+
+However, LULUCF is not like other sectors.Removals and emissions of greenhouse gases in this sector are the result ofrelatively slow natural processes. It can take decades before measures such asafforestation have a significant effect. Therefore, action to increase removalsand reduce emissions in forestry and agriculture should be considered over thelong-term. Moreover, emissions and removals are reversible: such reversals maybe because extreme events such as fires, storms, droughts or pests have had animpact on forest and land cover or because of management decisions (e.g. toharvest or plant trees). In addition, annual fluctuations of emissionsand removals in forests are high and can amount to as much as 35 % of thetotal annual emissions in some Member States as a result of naturaldisturbances and harvesting. This would make it difficult for Member States tocomply with annual targets.
+
+Although emissions and removals from LULUCFare reported under the UNFCCC and partially accounted under the Kyoto Protocol,the sector was left out of the Union’s climate commitments under the Climateand Energy Package due to the recognition of serious deficiencies ininternational accounting rules of emissions and removals from this sector. Also,the expectation at the moment of setting the Union emission reduction targetwas that the climate summit in Copenhagen in 2009 would deliver aninternational agreement on climate change, including revised accounting rulesfor LULUCF, which could then be adopted by the Union. This did not happen onthat occasion.
+
+However, during the 17thConference of the Parties of the UNFCCC serving as the meeting of the Partiesto the Kyoto Protocol in Durban in December 2011 progress was made. In thisframework, Decision -/CMP.7 sets out the rules, definitions and modalities foraccounting for the LULUCF sector as of a second commitment period under theKyoto Protocol. In particular, accounting for forest management activities,including for harvested wood products, will be mandatory and definitions fornatural disturbances and wetland drainage and rewetting were established.Therefore, it is important to proceed at Union level in parallel with theinternational processes. A legal proposal on accounting for emissions andremovals from activities related to LULUCF in the Union needs to be in linewith the decisions taken at international level in order to ensure theappropriate level of coherence; at the same time, however, it should give theUnion a chance to lead by example with a view to an international agreement asof a second commitment period of the Kyoto Protocol.
+
+The aim of this proposal is therefore togradually integrate the LULUCF sector into the Union’s climate policy by meansof a separate legal framework which addresses the sector’s specific profile andby ensuring a robust and harmonised accounting framework. Most importantly, itwould complete the accounting of anthropogenic greenhouse gas emissions fromall economic activities within the Union. As part of that it would increase thevisibility of ongoing and new mitigation efforts in agriculture, forestry andrelated industries and provide a basis for designing adequate policy incentives(e.g. in the CAP and in view of the Roadmap to a Resource Efficient Europe[13]). Laying down common Unionaccounting rules would also level the playing field among Member States. Itwould capture the changes in carbon stocks due to the use of domesticallyproduced biomass, thus completing the accounting of bio-energy at the level ofthe economy. This would strengthen the environmental integrity of the Union’sclimate policy. Lastly, it would be an important and necessary move towards acost effective pursuit of more ambitious climate targets. To this end, it istherefore important to establish robust and harmonised accounting rules for thesector and to ensure their contribution towards meeting the climate changechallenges.
+
+2.           RESULTS OF CONSULTATIONSWITH THE INTERESTED PARTIES AND IMPACT ASSESSMENTS
+
+Consultations with stakeholders
+
+In early 2010, an expert group on climatepolicy for LULUCF was established under the European Climate Change Programme. Thegroup comprised a wide range of stakeholders: environmental NGOs, tradeassociations, experts from public administrations and researchers. The group’sobjective was to define and provide input on critical issues related to theinclusion of the LULUCF sector in the Union’s climate change mitigationefforts. This helped define the scope and steer the work of the Commission. Thesummary report with the main findings is available on the relevant Commissionwebsites[14].
+
+An online public consultation was carriedout in 2010 to collect views on the opportunities and challenges related to theinclusion of the LULUCF sector in the Union’s greenhouse gas emission reductioncommitments[15].A total of 153 responses were received, representing the views of privatecompanies, business and industry organisations, individuals and private landowners, non-governmental organisations, academia and research, and publicauthorities. The same questions were subsequently used in a separateconsultation with Member States and 14 responses were received. The followingpoints can be made based on the data collected through the online publicconsultation:
+
+·                        most of the respondents believe that land useactivities could contribute to mitigating climate change even in the short term(until 2020) and in the longer term between 2020 and 2050;
+
+·                        the majority replied that the LULUCF sectorshould be part of the Union’s greenhouse gas emission reduction targets for2020, with a tendency in favour of including the sector only if the Union wereto take on a more ambitious commitment;
+
+·                        respondents tended to favour a separateaccounting framework for the LULUCF sector, as opposed to inclusion in the EUETS or ESD;
+
+·                        the majority of respondents also agreed thatthere is a need for more harmonisation and standardisation in reporting andmonitoring within the Union;
+
+·                        the vast majority of respondents considered theexisting Union and national policies to be insufficient to ensure that land useactivities contribute to climate change mitigation.
+
+The full results of the online publicconsultation and the consultation with Member States are available on therelevant Commission websites[16].
+
+Finally, the Commission also held astakeholder meeting on 28 January 2011 in Brussels. Around 75 participantsrepresenting Member States, trade associations, environmental NGOs and researchinstitutes took part in the discussions. The proceedings are also available onthe relevant Commission websites[17].
+
+Impact assessment
+
+The impact assessment investigated threekey issues that need to be addressed when assessing how LULUCF should beincluded in the Union’s greenhouse gas emission reduction commitments, namelyhow to:
+
+·                        ensure robust accounting rules for emissions andremovals;
+
+·                        achieve robust monitoring and reporting;
+
+·                        establish the appropriate policy context forbringing the sector into the Union’s climate change commitments.
+
+Based on the policy context for includingthe sector in the Union’s commitments currently regulated by the ESD and the EUETS, the impact assessment considered three options for including LULUCF,namely as part of the ESD, as a separate framework or by delaying inclusionaltogether. Each option addressed the issues of accounting and monitoring. Thepotential social, economic and environmental impacts of the various optionswere considered in detail.
+
+The impact assessment concluded that there were goodreasons to include LULUCF in the Union’s greenhouse gas emission-reductioncommitments, namely to improve their policy coherence, environmental integrityand economic efficiency. But this will only be possible if the right policycontext for LULUCF is put in place. The high variability of emissions andremovals in forests means that annual emission reduction targets of the kind thatapply to other sectors are unsuitable. The long lead times needed formitigation measures to take effect also set LULUCF apart from most othersectors. In view of this, the impact assessment indicated that a separatelegal framework for LULUCF would be the preferred option. In terms ofaccounting, the suitable options identified included mandatory accounting ofemissions and removals from both forestry and agricultural activities andgiving equal weight to mitigation action irrespective of whether it was takenin the forestry, agriculture, related industries or energy sectors. This is morecost-efficient and will ensure a level playing field not only for Member Statesbut also for the various sectors of the Union’s internal market. It will alsoprovide a framework of incentives for mitigation action by farmers, forestersand related industries, ensuring that such action is visible and correctly recorded.Broad coverage of emissions and removals will also ensure that potentialreversals are reflected in the accounting system. Mitigation actions should neverthelessnot be put on hold. National action plans could be prepared to provide astrategy and forecast for LULUCF. This would be an intermediate step towardsthe sector’s full integration into current policies. Moreover, the impactassessment also indicated that monitoring and reporting needed to be improvedto underpin the accounting framework and the indicators tracking progress inagriculture and forestry. The Commission proposes to achieve this through aseparate framework, namely by revising the Monitoring Mechanism Decision. Forreasons of comparability and cost-efficiency, better use could also be made ofUnion-wide monitoring instruments such as LUCAS and CORINE.
+
+The full results are presented in theimpact assessment accompanying the proposal.
+
+Summary of the proposal
+
+The mainobjective of this Decision is to establish robust and comprehensive accountingrules for LULUCF as well as to enable future policy development towards thefull inclusion of LULUCF in the Union’s greenhouse gas emission reductioncommitments when the conditions are right. To this end this Decisionestablishes a framework for:
+
+·                        a mandatory accounting obligation on MemberStates as regards greenhouse gas emissions by sources and removals by sinksassociated with agricultural and forestry activities in the LULUCF sector andvoluntary accounting for revegetation and wetland drainage and rewetting;
+
+·                        the general accounting rules that must beapplied;
+
+·                        the specific accounting rules for afforestation,reforestation, deforestation, forest management, changes in the harvested woodproducts pool, cropland management, grazing land management, revegetation, andwetland drainage and rewetting;
+
+·                        the specific rules for accounting for naturaldisturbances;
+
+·                        adopting LULUCF Action Plans in Member Statesdesigned to limit or reduce emissions by sources and maintain or increaseremovals by sinks associated with LULUCF activities, and for the evaluation ofthose plans by the Commission;
+
+·                        the Commission’s power to update the definitionslaid down in Article 2 in the light of changes to definitions adopted by thebodies of the UNFCCC or the Kyoto Protocol or other multilateral agreementrelevant to climate change concluded by the Union, to amend Annex I to addaccounting periods and ensure consistency between those accounting periods andthe relevant periods applicable to Union emission reduction commitments inother sectors, to amend Annex II with updated reference levels in accordancewith the proposed reference levels submitted by Member States pursuant toArticle 6 subject to corrections made in accordance with this Decision, torevise the information specified in Annex III in accordance with scientificprogress and to revise the conditions relating to the accounting rules fornatural disturbances laid down in Article 9(2) in the light of scientificprogress or to reflect revisions to acts adopted by UNFCCC or Kyoto Protocolbodies.
+
+3.           LEGAL ELEMENTS OF THEPROPOSAL
+
+Legal basis
+
+The legal basis for the legislativeproposal is Article 192(1) of the Treaty on the Functioning of the EuropeanUnion. The proposal pursues a legitimate objective within the scope of Article191(1) of the Treaty on the Functioning of the European Union, namely,combating climate change. The purpose of the legislative proposal is to ensureMember States’ accurate and consistent accounting of emissions by sources andremovals by sinks related to LULUCF, and therefore to improve the availabilityof information for policy and decision making in the context of the Union’sclimate change commitments and provide incentives for mitigation efforts. Thisobjective cannot be achieved by less restrictive means than the legislativeproposal.
+
+Subsidiarity principle
+
+For Union action to be justified, thesubsidiarity principle must be respected.
+
+(a)                   Transnational nature of the problem (necessitytest)
+
+Climate change is a trans-boundary issuewhich requires joint action by Member States. Nationalactions alone would not achieve compliance with the commongreenhouse gas emission reduction targets set at Union’slevel; they would also neither meet the objectives nor fulfil internationallyagreed commitments. It is therefore necessary for the Union to create anenabling legal framework to ensure harmonised accounting for the LULUCF sectorwherever possible in order to further its contributionto the climate change commitments of the Union.
+
+(b)                   Effectiveness test (added value)
+
+By reason of its effectiveness, takingaction at Union level would produce clear benefits compared to action at MemberState level. As the overarching climate change commitments are made at theUnion level, it is effective to also develop the required accounting rules atthis level. Moreover, overcoming the problems that have been identified, suchas the need to have accurate and consistent accountingmethodologies for the different LULUCF activities,requires common rules across all Member States. This can be ensured only at theUnion level.
+
+This legal framework will ensureeffectiveness by employing harmonised and sound accounting and LULUCF ActionPlans, and by enabling a more detailed assessment and evaluation of progress inMember States. This will ensure the coherence of the Union’s climate policy,further improve the environmental integrity of the Union’s climate changecommitments and enhance the economic efficiency of the Union’s climate policy.
+
+Proportionality principle
+
+The proposal complies with theproportionality principle for the following reasons:
+
+It does not go beyond what is necessary inorder to achieve the objectives of improving climate change data quality andensuring compliance with international and Union requirements and commitments.
+
+The proposal is proportionate to the Union’soverall objective of reaching the Union targets enshrined in the Climate andEnergy Package, the Kyoto Protocol, the Copenhagen Accord and the Decisions1/CP.16, 1/CMP.6 and 2/CMP.6 (‘Cancun Agreements’).
+
+The proposal provides for theimplementation of accounting rules which are similar to, but more robust andcomprehensive than, the ones discussed and employed at international level,especially with regard to Decision -/CMP.7.
+
+4.           BUDGETARY IMPLICATION
+
+As specified in the financial statementaccompanying this Decision, the Decision will be implemented using the existingbudget and will not have an impact on the multi-annual financial framework.
+
+5.           OPTIONAL ELEMENTS
+
+The proposal includes a provision pursuantto which the Commission will review the accounting rules in this Decision atthe latest within one year of the end of the first accounting period.
+
+2012/0042 (COD)
+
+Proposal for a
+
+DECISION OF THE EUROPEAN PARLIAMENTAND OF THE COUNCIL
+
+on accounting rules and action plans ongreenhouse gas emissions and removals resulting from activities related to landuse, land use change and forestry
+
+THE EUROPEAN PARLIAMENT AND THECOUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on theFunctioning of the European Union, and in particular Article 192(1) thereof,
+
+Having regard to the proposal from theEuropean Commission,
+
+After transmission of the draft legislativeact to the national Parliaments,
+
+Having regard to the opinion of theEuropean Economic and Social Committee[18],
+
+Having regard to the opinion of theCommittee of the Regions[19],
+
+Acting in accordance with the ordinarylegislative procedure,
+
+Whereas:
+
+(1)              The Union land use, land use change and forestry(‘LULUCF’) sector is a net sink that removes from the atmosphere greenhousegasses in an amount equivalent to a significant share of total Union emissions.It results in anthropogenic emissions and removals of greenhouse gases as aconsequence of changes in the quantity of carbon stored in vegetation andsoils. Emissions and removals of greenhouse gases resulting from the LULUCFsector are not counted towards the Union’s 20 % greenhouse gas emissionreduction targets for 2020 pursuant to Decision No 406/2009/EC of the EuropeanParliament and of the Council of 23 April 2009 on the efforts of Member Statesto reduce their greenhouse gas emissions to meet the Community’s greenhouse gasemission reduction commitments up to 2020[20]and Directive 2003/87/EC of the European Parliament and of the Council of 13October 2003 establishing a scheme for greenhouse gas emission allowancetrading within the Community and amending Council Directive 96/61/EC[21], though they count in parttowards the Union’s quantified emission limitation and reduction targetpursuant to Article 3(3) of the Kyoto Protocol (‘Kyoto Protocol’) to the UnitedNations Framework Convention on Climate Change (‘UNFCCC’), approved by CouncilDecision 2002/358/EC[22].
+
+(2)              Article 9 of Decision No 406/2009/EC requiresthe Commission to assess modalities to include greenhouse gas emissions andremovals resulting from activities related to land use, land use change andforestry into the Union’s greenhouse gas emission reduction commitment, whilstensuring the permanence and environmental integrity of the contribution of thesector, and providing for accurate monitoring and accounting of the relevantemissions and removals. This Decision should, therefore, as a first step, setout accounting rules applicable to greenhouse gas emissions and removals fromthe LULUCF sector. To ensure the preservation and enhancement of carbon stocksin the interim, it should also provide for Member States to adopt LULUCF ActionPlans setting out measures to limit or reduce emissions, and to maintain orincrease removals, from the LULUCF sector.
+
+(3)              The 17th Conference of the Parties of theUNFCCC, meeting in Durban in December 2011, adopted Decision -/CMP.7 of theConference of the Parties serving as the meeting of the Parties to the KyotoProtocol (‘Decision -/CMP.7’). That decision set out rules for accounting forthe LULUCF sector as of a second commitment period under the Kyoto Protocol.This Decision should be in line with that decision to ensure an appropriatelevel of coherence between the Union’s internal rules and methodologies agreedwithin the UNFCCC. This Decision should also reflect the particularities of theUnion LULUCF sector.
+
+(4)              The LULUCF accounting rules should reflectefforts made in the agriculture and forestry sectors to enhance thecontribution of changes made to the use of land resources to the reduction ofemissions. This Decision should provide for accounting rules applicable on amandatory basis to the forestry activities of afforestation, reforestation,deforestation and forest management, and to the agricultural activities ofgrazing land management and cropland management. It should also provide foraccounting rules applicable on a voluntary basis to revegetation and wetlanddrainage and rewetting activities.
+
+(5)              To ensure the environmental integrity of theaccounting rules applicable to the Union LULUCF sector, these rules should bebased on the accounting principles laid down in Decision -/CMP.7, and Decision16/CMP.1 of the Conference of the Parties serving as the meeting of the Partiesto the Kyoto Protocol.
+
+(6)              The accounting rules should accurately representhuman-induced changes in emissions and removals. In that regard, this Decisionshould provide for the use of specific methodologies in respect of differentLULUCF activities. Emissions and removals related to afforestation,reforestation and deforestation are the direct result of human intervention andshould therefore be accounted for in their entirety. However, given that notall emissions and removals from forest management are anthropogenic, therelevant accounting rules should provide for the use of reference levels toexclude the effects of natural and country-specific characteristics. Referencelevels constitute estimates of the annual net emissions or removals resultingfrom forest management within the territory of a Member State for the yearsincluded in an accounting period, and should be set transparently in accordancewith Decision -/CMP.7. They should be updated to reflect improvements tomethodologies or data available in the Member States. The accounting rulesshould provide for an upper limit applicable to net greenhouse gas emissionsand removals for forest management that may be entered into accounts, givenunderlying uncertainties in the projections on which the reference levels arebased.
+
+(7)              The accounting rules should ensure that MemberStates accurately reflect in accounts the time emissions of greenhouse gassesfrom harvested wood take place, to provide incentives for the use of harvestedwood products with long life cycles. The first-order decay function applicableto emissions resulting from harvested wood products should therefore correspondto equation 12.1 of the 2006 Intergovernmental Panel on Climate Change (‘IPCC’)Guidelines for National Greenhouse Gas Inventories, and the relevant defaulthalf-life values should be based on Table 3a.1.3 of the 2003 IPCC Good PracticeGuidance for Land Use, Land Use Change and Forestry.
+
+(8)              Since inter-annual fluctuations in greenhousegas emissions and removals resulting from agricultural activities are muchsmaller than those related to forestry activities, Member States should accountfor greenhouse gas emissions and removals from cropland and grazing landmanagement activities relative to its base year in accordance with theirreviewed initial report on base year emission data as submitted to the UNFCCC pursuantto Decision 13/CMP.1 of the Conference of the Parties serving as the meeting ofthe Parties to the Kyoto Protocol (‘Decision 13/CMP.1’).
+
+(9)              Natural disturbances, such as wildfires, insectand disease infestations, extreme weather events and geological disturbances,may result in greenhouse gas emissions or reductions of a temporary nature inthe LULUCF sector, or may cause the reversal of previous removals. As reversalcan also be the result of management decisions, such as decisions to harvest orplant trees, this Decision should ensure that human-induced reversals ofremovals are always accurately reflected in LULUCF accounts. Moreover, thisDecision should provide Member States a limited possibility to excludeemissions resulting from disturbances that are beyond their control from theirLULUCF accounts. However, the manner in which Member States apply thoseprovisions should not lead to undue under-accounting.
+
+(10)          Reporting rules on greenhouse gas emissions andother information relevant to climate change, including information on theLULUCF sector, fall within the scope of Regulation (EU) No …/… [Commissionproposal for a Regulation of the European Parliament and of the Council on amechanism for monitoring and reporting Union greenhouse gas emissions and forreporting other information at national and Union level relevant to climatechange (COM/2011/0789 final — 2011/0372 (COD)], and are not therefore withinthe scope of this Decision.
+
+(11)          Inter-annual fluctuations in emissions andremovals, the frequent need to recalculate certain reported data, and long timerequired for changed management practices in agriculture and forestry to havean effect on the quantity of carbon stored in vegetation and soils would makeLULUCF sector accounts inaccurate and unreliable if compiled on an annualbasis. This Decision should therefore provide for longer and more appropriateaccounting periods.
+
+(12)          Member State LULUCF Action Plans should set outmeasures to limit or reduce emissions and to maintain or increase removals fromthe LULUCF sector. Each LULUCF Action Plan should contain certain informationas specified in this Decision. Moreover, to promote best practice, anindicative list of measures that may also be included in those plans should beset out in Annex to this Decision. The Commission should periodically evaluatethe content and implementation of Member States’ LULUCF Action Plans and, whereappropriate, provide recommendations to enhance Member State action.
+
+(13)          The power to adopt acts in accordance withArticle 290 of the Treaty on the Functioning of the European Union should bedelegated to the Commission to update the definitions laid down in Article 2 inthe light of changes to definitions adopted by the bodies of the UNFCCC or theKyoto Protocol or other multilateral agreement relevant to climate changeconcluded by the Union, to amend Annex I to add accounting periods and ensureconsistency between those accounting periods and the relevant periodsapplicable to Union emission reduction commitments in other sectors, to amendAnnex II with updated reference levels in accordance with the proposedreference levels submitted by Member States pursuant to Article 6 subject tocorrections made in accordance with this Decision, to revise the informationspecified in Annex III in accordance with scientific progress and to revise theconditions relating to the accounting rules for natural disturbances laid downin Article 9(2) in the light of scientific progress or to reflect revisions toacts adopted by the UNFCCC or Kyoto Protocol bodies. It is of particularimportance that the Commission carry out appropriate consultations during itspreparatory work, including at expert level. The Commission, when preparing anddrawing-up delegated acts, should ensure a simultaneous, timely and appropriatetransmission of relevant documents to the European Parliament and Council.
+
+(14)          Since the objectives of the proposed actioncannot, by their very nature, be sufficiently achieved by the Member Statesalone and can therefore by reason of scale and effects of the action be betterachieved at Union level, the Union may adopt measures, in accordance with theprinciple of subsidiarity as set out in Article 5 of the Treaty on EuropeanUnion. In accordance with the principle of proportionality, as set out in thatArticle, this Decision does not go beyond what is necessary in order to achievethose objectives,
+
+HAVE ADOPTED THIS DECISION:
+
+Article 1
+
+Subjectmatter and scope
+
+This Decision sets out accounting rulesapplicable to emissions and removals resulting from land use, land use changeand forestry activities. It also provides for Member State LULUCF Action Plansto limit or reduce emissions and to maintain or increase removals, and for theevaluation of those plans by the Commission.
+
+Article 2
+
+Definitions
+
+1.                      For the purposes of this Decision, the followingdefinitions apply:
+
+(a)         ‘emissions’ means anthropogenic greenhouse gasemissions by sources;
+
+(b)         ‘removals’ means anthropogenic greenhouse gasremovals by sinks;
+
+(c)         ‘afforestation’ is the direct human-inducedconversion of land that has not been forest for a period of at least 50 yearsto forest through planting, seeding and/or the human-induced promotion ofnatural seed sources, where the conversion has taken place after 1 January1990;
+
+(d)         ‘reforestation’ is any direct human-inducedconversion of land that is not forest to forest through planting, seedingand/or the human-induced promotion of natural seed sources, on land that wascovered with forest, but that has been converted to land without forest, wherethe conversion has taken place after 1 January 1990;
+
+(e)         ‘deforestation’ is the direct human-inducedconversion of forest to land that is not forest, where the conversion has takenplace after 1 January 1990;
+
+(f)           ‘forest management’ is any activity resultingfrom a system of practices applicable to a forest and aimed at improving anyecological, economic or social function of the forest;
+
+(g)         ‘cropland management’ is any activity resultingfrom a system of practices applicable to land on which agricultural crops aregrown and on land that is set aside or temporarily not being used for cropproduction;
+
+(h)         ‘grazing land management’ is any activityresulting from a system of practices applicable to land used for livestockproduction and aimed at controlling or influencing the quantity and type ofvegetation and livestock produced;
+
+(i)           ‘revegetation’ is any direct human-inducedactivity intended to increase the carbon stock of any site that covers aminimum area of 0.05 hectares, through the proliferation of vegetation, wherethat activity does not constitute afforestation or reforestation;
+
+(j)           ‘carbon stock’ is the quantity of the elementcarbon stored in a carbon pool, expressed in millions of tonnes;
+
+(k)         ‘wetland drainage and rewetting’ is any activityresulting from a system for draining or rewetting land that covers a minimumarea of 1 hectare and on which organic soil is present, provided the activitydoes not constitute any other activity referred to in Article 3(1), and wheredraining is the direct human-induced lowering of the soil water table, andrewetting is the direct human-induced partial or total reversal of drainage;
+
+(l)           ‘source’ is any process, activity or mechanismthat releases a greenhouse gas, an aerosol or a precursor to a greenhouse gasinto the atmosphere;
+
+(m)       ‘sink’ is any process, activity or mechanismthat removes a greenhouse gas, an aerosol, or a precursor to a greenhouse gasfrom the atmosphere;
+
+(n)         ‘carbon pool’ is the whole or part of a biogeochemicalfeature or system within the territory of a Member State within which carbon,any precursor to a greenhouse gas containing carbon or any greenhouse gascontaining carbon is stored;
+
+(o)         ‘precursor to a greenhouse gas’ is a chemicalcompound that participates in the chemical reactions that produce any of thegreenhouse gases listed in Article 3(2);
+
+(p)         ‘harvested wood product’ is any product of woodharvesting, including wood material and bark, that has left a site where woodis harvested;
+
+(q)         ‘forest’ is an area of land of at least 0.5hectare, with tree crown cover or an equivalent stocking level of at least 10per cent of the area, covered with trees with the potential to reach a minimumheight of at least 5 metres at maturity at their place of growth, includinggroups of growing young natural trees, or a plantation that has yet to reach atree crown cover or equivalent stocking level of at least 10 per cent of thearea or tree height of at least 5 metres, including any area that normallyforms part of the forest area but on which there are temporarily no trees as aresult of human intervention, such as harvesting, or as a result of naturalcauses, but which area can be expected to revert to forest;
+
+(r)          ‘crown cover’ is the share of a fixed area thatis covered by tree crowns, expressed as a percentage;
+
+(s)          ‘stocking level’ is the density of standing andgrowing trees on land covered by forest measured in accordance with amethodology established by the Member State;
+
+(t)           ‘natural disturbance’ is any non-anthropogenicevent or circumstance that causes significant emissions in forests oragricultural soils and the occurrence of which is beyond the control of therelevant Member State provided the Member State is also objectively unable tosignificantly limit the effect of the event or circumstance, even after itsoccurrence, on emissions;
+
+(u)         ‘half-life value’ is the number of years ittakes for the carbon content of a wood product to decrease to one half of itsinitial quantity;
+
+(v)         ‘the instantaneous oxidation method’ is anaccounting method that assumes that the release into the atmosphere of theentire quantity of carbon stored in harvested wood products occurs at the timewhen a Member State includes those products into its accounts pursuant to thisDecision;
+
+(w)       ‘salvage logging’ is any activity consisting ofrecovering timber affected by a natural disturbance and that can still be usedat least in part.
+
+2.                      The Commission shall be empowered to adoptdelegated acts in accordance with Article 12 to amend the definitions inparagraph 1 of this Article for the purpose of updating those definitions in the light of changes to definitions adopted by thebodies of the UNFCCC or the Kyoto Protocol, or other multilateral agreementrelevant to climate change concluded by the Union.
+
+Article 3
+
+Obligationto draw up and maintain LULUCF accounts
+
+1.                      For each accounting period specified in Annex I,Member States shall draw up and maintain accounts that accurately reflect allemissions and removals resulting from the activities on their territory fallingwithin the following categories of activity:
+
+(a)         afforestation;
+
+(b)         reforestation;
+
+(c)         deforestation;
+
+(d)         forest management;
+
+(e)         cropland management;
+
+(f)           grazing land management.
+
+Member States may also draw up and maintainaccounts that accurately reflect emissions and removals resulting fromrevegetation, and wetland drainage and rewetting.
+
+2.                      The accounts referred to in paragraph 1 shallcover emissions and removals of the following greenhouse gases:
+
+(a)                   carbon dioxide (CO2);
+
+(b)                   methane (CH4);
+
+(c)                   nitrous oxide (N2O).
+
+3.                      Member States shall include in their accounts aparticular activity referred to in paragraph 1 as of the onset of the activity orfrom 1 January 2013, whichever is the later.
+
+Article 4
+
+Generalaccounting rules
+
+1.                      Member States shall, in their accounts referredto in Article 3(1), denote sources by the positive (+) sign and sinks by thenegative (-) sign.
+
+2.                      Emissions and removals resulting from anyactivity falling within one or more categories of activity referred to inArticle 3(1) shall only be accounted for under one category.
+
+3.                      Member States shall, on the basis of transparentand verifiable data, determine the areas of land on which an activity fallingwithin a category referred to in Article 3(1) is conducted. They shall ensurethat all such areas of land are identifiable with precision in the account forthe respective category.
+
+4.                      Member States shall include in their accountsreferred to in Article 3(1) any change in the carbon stock of the followingcarbon pools:
+
+(a)                   above-ground biomass;
+
+(b)                   below-ground biomass;
+
+(c)                   litter;
+
+(d)                   dead wood;
+
+(e)                   soil organic carbon;
+
+(f)                     harvested wood products.
+
+However, Member States may choose not toinclude in their accounts changes in carbon stock for carbon pools listed underpoints (a) — (e) of the first subparagraph where the carbon pool is not adeclining sink or a source. Member States shall only consider that a carbonpool is not a declining sink or a source where this is demonstrated on thebasis of transparent and verifiable data.
+
+5.                      Member States shall complete their accountsreferred to in Article 3(1) at the end of each accounting period listed inAnnex I by specifying the total emissions and total removals included in thoseaccounts during that accounting period.
+
+6.                      Member States shall maintain a complete andaccurate record of all methodologies and data used in complying with theirobligations under this Decision.
+
+7.                      The Commission shall be empowered to adoptdelegated acts in accordance with Article 12 to amend Annex I to add accountingperiods and to ensure consistency between those accounting periods and therelevant periods applicable to Union emission reduction commitments in othersectors.
+
+Article 5
+
+Accounting rules for afforestation, reforestation and deforestation
+
+1.                      In accounts relating to reforestation, MemberStates shall reflect emissions and removals resulting only from such activitiestaking place on those lands that were not forest on 1 January 1990.
+
+2.                      Where Member States reflect in their accountsnet changes in carbon dioxide (CO2) emissions and removals resultingfrom afforestation, reforestation and deforestation activities, such netchanges shall represent the total removals and emissions for the years in each accountingperiod specified in Annex I, calculated by summing up for each year of thataccounting period the carbon stock on 31 December of that year minus the carbonstock on 1 January in the same year, on the basis of transparent and verifiabledata.
+
+3.                      Where Member States reflect in their accountsmethane (CH4) and nitrous oxide (N2O) emissions resultingfrom afforestation, reforestation and deforestation activities, such emissionsshall represent the total emissions for the years in each accounting period specifiedin Annex I, calculated by summing up the emissions occurring in each year inthat accounting period, on the basis of transparent and verifiable data.
+
+4.                      Member States shall continue to draw up andmaintain accounts that reflect emissions and removals resulting from land thatwas identified in accounts pursuant to Article 4(3) under afforestation,reforestation and deforestation even where such activity is no longer conductedon that land.
+
+5.                      Member States shall use the same spatialassessment unit in calculations to determine the forest falling withinafforestation, reforestation and deforestation.
+
+Article 6
+
+Accounting rules for forest management
+
+1.                      In accounts relating to forest management,Member States shall reflect the emissions and removals resulting from suchactivities, calculated as emissions and removals in each accounting periodspecified in Annex I, minus the value obtained by multiplying the number ofyears in that accounting period by their reference level specified in Annex II.
+
+2.                      Where the result of the calculation referred toin paragraph 1 for an accounting period is negative, Member States shall enterinto their forest management accounts total emissions and removals of no morethan the equivalent of 3.5 per cent of a Member State’s emissions in its baseyear, as submitted to the UNFCCC in that Member State’s reviewed initial reporton base year emission data pursuant to the Annex of Decision 13/CMP.1,excluding emissions and removals from activities referred to in Article 3(1),multiplied by the number of years in that accounting period.
+
+3.                      Member States shall ensure that the calculationmethods they apply in respect of their accounts for forest managementactivities are consistent with the calculation methods applied for thecalculation of their reference levels specified in Annex II with regards to thefollowing aspects:
+
+(a)                   carbon pools and greenhouse gases;
+
+(b)                   area under forest management;
+
+(c)                   harvested wood products;
+
+(d)                   natural disturbances.
+
+4.                      No later than one year before the end of eachaccounting period, Member States shall communicate to the Commission proposedrevised reference levels for the following accounting period in accordance withthe methodology in Decision -/CMP.7 used for calculating the reference levelsset out in that decision.
+
+5.                      If there are changes to the relevant provisionsof Decision -/CMP.7, the Member States shall communicate to the Commissionproposed revised reference levels reflecting those changes no later than sixmonths after the adoption of those changes.
+
+6.                      If improved methodologies become availableallowing a Member State to calculate reference levels in a significantly moreaccurate manner or where there are significant improvements in the quality ofdata available to a Member State, the Member State concerned shall communicateto the Commission proposed revised reference levels reflecting those changeswithout delay.
+
+7.                      For the purposes of paragraphs 4, 5 and 6,Member States shall specify the amount of annual emissions resulting fromnatural disturbances which have been included in their proposed revisedreference levels and the manner in which they estimated that amount.
+
+8.                      The Commission shall verify the accuracy ofproposed revised reference levels.
+
+9.                      The Commission shall be empowered to adoptdelegated acts in accordance with Article 12 to update the reference levels inAnnex II as necessary.
+
+10.                  Member States shall reflect in their accountsfor forest management the impact of any amendment to Annex II in respect ofentire relevant accounting period.
+
+Article 7
+
+Accounting rules for harvested wood products
+
+1.                      Member States shall reflect in their accountspursuant to Article 3(1) emissions from harvested wood products containingcarbon on 1 January 2013 even where such harvested wood products were harvestedprior to this date.
+
+2.                      In accounts pursuant to Article 3(1) relating toharvested wood products, Member States shall reflect emissions resulting fromthe following harvested wood products on the basis of calculations inaccordance with the first order decay function and the default half-life valuesspecified in Annex III:
+
+(a)         paper;
+
+(b)         wood panels;
+
+(c)         sawn wood.
+
+Member States may use country-specifichalf-life values instead of the half-life values specified in Annex IIIprovided that those values are determined by the Member State on the basis oftransparent and verifiable data.
+
+In accounts relating to exported harvested woodproducts, Member States may use country-specific half-life values instead ofthe half-life values specified in Annex III, provided that those values aredetermined by the Member State on the basis of transparent and verifiable dataon the use of those harvested wood products in the importing country.
+
+3.                      Where Member States reflect in their accountspursuant to Article 3(1) carbon dioxide (CO2) emissions fromharvested wood products in solid waste disposal sites, they shall do so on thebasis of the instantaneous oxidation method.
+
+4.                      Where Member States reflect in their accountsemissions resulting from harvested wood products that were harvested for energypurposes, they shall do so also on the basis of the instantaneous oxidationmethod.
+
+5.                      A Member State shall reflect emissions fromharvested wood products in its accounts only where these emissions result fromharvested wood products removed from lands included in the accounts of thatMember State pursuant to Article 3(1).
+
+6.                      The Commission shall be empowered to adoptdelegated acts in accordance with Article 12 to revise the informationspecified in Annex III in accordance with scientific progress.
+
+Article 8
+
+Accountingrules for cropland management, grazing land management, revegetation, andwetland drainage and rewetting
+
+1.                      In accounts relating to cropland management andgrazing land management, Member States shall reflect emissions and removalsresulting from such activities, calculated as emissions and removals in eachaccounting period specified in Annex I, minus the value obtained by multiplyingthe number of years in that accounting period by a Member State’s emissions andremovals resulting from such activities in its base year, as submitted to the UNFCCCin that Member State’s reviewed initial report on base year emission datapursuant to the Annex of Decision 13/CMP.1.
+
+2.                      Where a Member State elects to draw up andmaintain accounts for revegetation, and/or wetland drainage and rewetting, it shallapply the calculation method specified in paragraph 1.
+
+In accounts relating to wetland drainage andrewetting, Member States shall reflect emissions and removals resulting fromthat activity on all lands that have been drained since 1990 and all lands thathave been rewetted since 1990.
+
+Article 9
+
+Accounting rules for natural disturbances
+
+1.                      Where the conditions set out in paragraph 2 aremet, Member States may exclude non-anthropogenic greenhouse gas emissions bysources resulting from natural disturbances from calculations relevant to theiraccounting obligations pursuant to points (a), (b), (d), (e) and (f) of Article3(1). If Member States exclude such emissions they shall also exclude anysubsequent removals on lands where those natural disturbances have occurred. However,non-anthropogenic greenhouse gas emissions by sources resulting from naturaldisturbances which have been included in the calculation of their referencelevel pursuant to Article 6(4), Article 6(5) or Article 6(6) shall not beexcluded.
+
+2.                      Member States may exclude non-anthropogenicgreenhouse gas emissions by sources in accordance with paragraph 1 fromcalculations relevant to their accounting obligations pursuant to points (a),(b) and (d) of Article 3(1) where those non-anthropogenic greenhouse gasemissions from such natural disturbances in a single year exceed 5 per cent ofthe total emissions of a Member State in its base year as submitted to theUNFCCC in that Member State’s reviewed initial report on base year emissiondata pursuant to the Annex of Decision 13/CMP.1 excluding emissions andremovals from activities referred to in Article 3(1), provided that thefollowing conditions are met:
+
+(a)                   the Member State identifies all land areasexcluded from the purpose of the Member States’ accounts pursuant to points(a), (b) and (d) of Article 3(1), including by their geographical location,year and types of natural disturbances;
+
+(b)                   the Member State estimates the annualnon-anthropogenic greenhouse gas emissions by sources resulting from naturaldisturbances and the subsequent removals in the excluded land areas;
+
+(c)                   no land-use change has occurred on the excludedland areas and the Member State uses transparent and verifiable methods andcriteria to identify land-use change on these land areas;
+
+(d)                   the Member State, where practicable, undertakesmeasures to manage or control the impact of the natural disturbances;
+
+(e)                   the Member State, where possible, undertakesmeasures to rehabilitate the excluded land areas;
+
+(f)                     emissions resulting from harvested wood productsrecovered by salvage logging, were not excluded from accounting.
+
+3.                      Member States may also separately excludenon-anthropogenic greenhouse gas emissions by sources in accordance withparagraph 1 from calculations relevant to their accounting obligations pursuantto points (e) and (f) of Article 3(1) where those non-anthropogenic greenhousegas emissions from such natural disturbances in a single year exceed 5 per centof the total emissions of a Member State in its base year as submitted to theUNFCCC in that Member State’s reviewed initial report on base year emissiondata pursuant to the Annex of Decision 13/CMP.1 excluding emissions andremovals from activities referred to in Article 3(1), provided that conditions stipulatedin Article 9(2) are met.
+
+4.                      Member States shall include in their accountsreferred to in Article 3(1) emissions resulting from harvested wood productsrecovered by salvage logging in accordance with Article 7.
+
+5.                      The Commission shall be empowered to adoptdelegated acts in accordance with Article 12 to revise the conditions referredto in the first subparagraph of paragraph 2 in the light of scientific progressor to reflect revisions to acts adopted by UNFCCC or Kyoto Protocol bodies.
+
+Article 10
+
+LULUCFAction Plans
+
+1.                      No later than six months after the beginning ofeach accounting period specified in Annex I, Member States shall draw up andtransmit to the Commission draft LULUCF Action Plans to limit or reduceemissions and maintain or increase removals resulting from the activitiesreferred to in Article 3(1). Member States shall ensure that a broad range ofstakeholders are consulted.
+
+The draft LULUCF Action Plans shall cover theduration of the relevant accounting period specified in Annex I.
+
+2.                      Member States shall include in their draftLULUCF Action Plans the following information relating to each of theactivities referred to in Article 3(1):
+
+(a)                   a description of past trends of emissions andremovals;
+
+(b)                   projections for emissions and removals for therespective accounting period;
+
+(c)                   an analysis of the potential to limit or reduceemissions and to maintain or increase removals;
+
+(d)                   a list of measures, including, as appropriate,those specified in Annex IV, to be adopted in order to pursue the mitigationpotential, where identified in accordance with the analysis referred to inpoint (c);
+
+(e)                   policies foreseen to implement the measuresreferred to in point (d), including a description of the expected effect ofthose measures on emissions and removals;
+
+(f)                     timetables for the adoption and implementationof the measures referred to in point (d).
+
+3.                      The Commission shall evaluate a Member State’sdraft LULUCF Action Plan within three months of receiving all relevantinformation from that Member State. The Commission shall publish the results ofthat evaluation and may issue recommendations, as appropriate, with a view toenhance Member States’ efforts to limit or reduce emissions and maintain orincrease removals.
+
+Member States shall take due account of theCommission’s findings and shall publish in electronic form and make availableto the public their LULUCF Action Plans within three months of receiving theCommission’s evaluation.
+
+4.                      Member States shall submit to the Commission, bythe date falling in the mid-point of each accounting period specified in AnnexI, and by the end of each accounting period specified in Annex I, a reportdescribing the progress in the implementation of their LULUCF Action Plans.
+
+5.                      The Commission shall evaluate the implementationby Member States of their LULUCF Action Plans within six months of receivingthe reports referred to in paragraph 4.
+
+The Commission shall publish those reports andthe results of that evaluation and may issue recommendations, as appropriate,with a view to enhance Member States’ efforts to limit or reduce emissions andmaintain or increase removals. Member States shall take due account of theCommission’s findings.
+
+Article 11
+
+Review
+
+The Commission shall review the accountingrules in this Decision at the latest within a year of the end of the firstaccounting period specified in Annex I.
+
+Article 12
+
+Exerciseof the delegation
+
+1.                      The power to adopt delegated acts is conferredon the Commission subject to the conditions laid down in this Article.
+
+2.                      The delegation of power referred to in Articles2(2), 4(7), 6(9), 7(6) and 9(4) shall be conferred on the Commission for anindeterminate period of time from the date of entry into force of thisDecision.
+
+3.                      The delegation of power referred to in Articles2(2), 4(7), 6(9), 7(6) and 9(4) may be revoked at any time by the EuropeanParliament or by the Council. A decision to revoke shall put an end to thedelegation of the power specified in that decision. It shall take effect theday following the publication of the decision in the Official Journal ofthe European Union or at a later date specified therein. It shall notaffect the validity of any delegated acts already in force.
+
+4.                      As soon as it adopts a delegated act, theCommission shall notify it simultaneously to the European Parliament and to theCouncil.
+
+5.                      A delegated act adopted pursuant to Articles2(2), 4(7), 6(9), 7(6) and 9(4) shall enter into force only if no objection hasbeen expressed either by the European Parliament or the Council within a periodof 2 months of notification of that act to the European Parliament and theCouncil or if, beforethe expiry of that period, theEuropean Parliament and the Council have both informed the Commission that theywill not object. That period shall be extendedby 2 months at the initiative of the European Parliament or the Council.
+
+Article 13
+
+This Decision shall enter into force on 1January 2013.
+
+Article 14
+
+This Decision is addressed to the MemberStates.
+
+Done at Brussels, 12.3.2012
+
+For the European Parliament                       Forthe Council
+
+The President                                                 ThePresident
+
+ANNEX I
+
+ACCOUNTINGPERIODS REFERRED TO IN ARTICLE 3(1)
+
+Accounting period || Years
+
+First accounting period || From 1 January 2013 to 31 December 2020
+
+ANNEX II
+
+MEMBERSTATE REFERENCE LEVELS REFERRED TO IN ARTICLE 6
+
+Member State || Gg carbon dioxide (CO2) equivalents per year
+
+Austria || -6516
+
+Belgium || -2499
+
+Bulgaria || -7950
+
+Cyprus || -157
+
+Czech Republic || -4686
+
+Denmark || 409
+
+Estonia || -2741
+
+Finland || -20466
+
+France || -67410
+
+Germany || -22418
+
+Greece || -1830
+
+Hungary || -1000
+
+Ireland || -142
+
+Italy || -22166
+
+Latvia || -16302
+
+Lithuania || -4552
+
+Luxembourg || -418
+
+Malta || -49
+
+The Netherlands || -1425
+
+Poland || -27133
+
+Portugal || -6830
+
+Romania || -15793
+
+Slovakia || -1084
+
+Slovenia || -3171
+
+Spain || -23100
+
+Sweden || -41336
+
+United Kingdom || -8268
+
+ANNEX III
+
+FIRST ORDER DECAY FUNCTION AND DEFAULT HALF-LIFE VALUES REFERRED TOIN ARTICLE 7
+
+First orderdecay function starting with  andcontinuing to present year:
+
+,
+
+where:
+
+year
+
+the carbon stock of the harvested wood products pool in thebeginning of year , GgC
+
+decay constant of first-order decay given in units of year-1, where HL ishalf-life of the harvested wood products pool in years.)
+
+the inflow to the harvested wood products pool during year , Gg C year-1
+
+carbon stock change of the harvested wood products pool during year  , Gg C year-1,
+
+Defaulthalf-life values (HL):
+
+2years for paper
+
+25years for wood panels
+
+35years for sawn wood.
+
+ANNEX IV
+
+MEASURES THAT MAY BE INCLUDED IN LULUCF ACTION PLANS PURSUANT TOARTICLE 10(2)(d)
+
+(a)                   Measures related to cropland management such as:
+
+–     improving agronomicpractices by selecting better crop varieties;
+
+–     extending crop rotations and avoiding orreducing the use of bare fallow;
+
+–     improving nutrient management, tillage/residuemanagement and water management;
+
+–     stimulating agro-forestry practices andpotential for land cover (use) change;
+
+(b)                   Measures related to grazing land management andpasture improvement such as:
+
+–     preventing the conversion of grassland tocropland and the reversion of cropland to native vegetation;
+
+–     improving grazing land management by includingchanges to the intensity and timing of grazing;
+
+–     increasing productivity;
+
+–     improving nutrient management;
+
+–     improving fire management;
+
+–     introducing more appropriate species and inparticular deep rooted species;
+
+(c)                   Measures to improve the management ofagricultural organic soils, in particular, peat lands, such as:
+
+–     incentivising sustainable paludiculturalpractices;
+
+–     incentivising adapted agricultural practices,such as minimising soil disturbance or extensive practices;
+
+(d)                   Measures to prevent drainage and to incentiviserewetting of wetlands;
+
+(e)                   Measures related to existing or partly drainedmires, such as:
+
+–     preventing further drainage;
+
+–     incentivising rewetting and restoration ofmires;
+
+–     preventing bog fires;
+
+(f)                     Restoration of degraded lands;
+
+(g)                   Measures related to forestry activities such as:
+
+–     preventing deforestation;
+
+–     afforestation and reforestation;
+
+–     conservation of carbon in existing forests;
+
+–     enhancing production in existing forests;
+
+–     increasing the harvested wood products pool;
+
+–     enhancing forest management, including throughoptimised species composition, tending and thinning, and soil conservation;
+
+(h)                   Strengthening protection against naturaldisturbances such as fire, pests, and storms.
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.           FRAMEWORK OF THEPROPOSAL/INITIATIVE
+
+1.1.    Title of the proposal/initiative
+
+1.2.    Policyarea(s) concerned in the ABM/ABB structure
+
+1.3.    Natureof the proposal/initiative
+
+1.4.    Objective(s)
+
+1.5.    Groundsfor the proposal/initiative
+
+1.6.    Durationand financial impact
+
+1.7.    Managementmethod(s) envisaged
+
+2.           MANAGEMENT MEASURES
+
+2.1.    Monitoringand reporting rules
+
+2.2.    Managementand control system
+
+2.3.    Measuresto prevent fraud and irregularities
+
+3.           ESTIMATED FINANCIALIMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.    Heading(s)of the multiannual financial framework and expenditure budget line(s) affected
+
+3.2.    Estimatedimpact on expenditure
+
+3.2.1. Summary ofestimated impact on expenditure
+
+3.2.2. Estimated impacton operational appropriations
+
+3.2.3. Estimated impacton appropriations of an administrative nature
+
+3.2.4. Compatibilitywith the current multiannual financial framework
+
+3.2.5. Third-partyparticipation in financing
+
+3.3.    Estimated impact on revenue
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.                      FRAMEWORK OF THE PROPOSAL/INITIATIVE1.1.                Title of the proposal/initiative
+
+Decision of the European Parliament and of the Council on accountingrules and action plans on greenhouse gas emissions and removals resulting fromactivities related to land use, land use change and forestry
+
+1.2.                Policy area(s) concerned in the ABM/ABBstructure[23]
+
+ENVIRONMENT AND CLIMATE ACTION [07]
+
+1.3.                Nature of the proposal/initiative
+
+x The proposal/initiative relates to a new action
+
+¨ The proposal/initiative relates to a new actionfollowing a pilot project/preparatory action[24]
+
+¨ The proposal/initiative relates to the extension ofan existing action
+
+¨ The proposal/initiative relates to an action redirectedtowards a new action
+
+1.4.                Objectives1.4.1.          The Commission’s multiannual strategicobjective(s) targeted by the proposal/initiative
+
+The proposal is consistent with the Europe 2020 Strategy and it isenvisaged to contribute towards the realisation of the Union’s emissionreduction targets.
+
+1.4.2.          Specific objective(s) and ABM/ABB activity(ies)concerned
+
+Specific objective No.
+
+Implementation of EU policy and legislation on climateaction (ABB code 07 12)
+
+ABM/ABB activity(ies) concerned
+
+07 12 01 (Implementation of Union policy and legislationon climate action)
+
+1.4.3.          Expected result(s) and impact
+
+Specify the effects which theproposal/initiative should have on the beneficiaries/groups targeted.
+
+The proposal establishes a robust and harmonised legalframework to account for greenhouse gas (GHG) emissions and removals fromactivities related to land use, land use change and forestry (LULUCF) in theUnion, by enabling a detailed assessment of progress in Member States (MS).More specifically, it would:
+
+- improve the visibility of, and provide incentives for,mitigation efforts through the enhancement of removals and reduction ofemissions in agriculture and forestry and through the production of harvestedwood products in industry;
+
+- strengthen the environmental integrity of the commitmentsby ensuring that emissions and removals are correctly reflected and securesustainable and climate-friendly bio-energy production by complementingexisting policy measures; and
+
+- improve the economic efficiency in the pursuit of moreambitious targets by allowing all sectors to contribute.
+
+Indicators of results and impact
+
+Specify the indicators for monitoringimplementation of the proposal/initiative.
+
+The following indicators correspond to the general,specific and operational objectives of the proposal:
+
+- trends in emissions and removals;
+
+- number of MS’ non-compliance cases, MS’ LULUCF ActionPlans (LAPs) and reports submitted on time to the Commission, MS submitting ontime their reference levels to the Commission;
+
+- the compliance of the MS’ reports with the requirementsof the proposal;
+
+- completeness of MS’ reports submitted to the Commissionand of degree of application by MS of common accounting rules;
+
+- availability of data and information in the areastargeted by the proposal..
+
+1.5.                Grounds for the proposal/initiative1.5.1.          Requirement(s) to be met in the short or longterm
+
+The objectives of this proposal are twofold:
+
+- to ensure robust and harmonised accounting of emissionsand removals from the LULUCF sector in the MS;
+
+- to incentivise mitigation efforts by MS through theestablishment and implementation of LAPs;
+
+1.5.2.          Added value of EU involvement
+
+Taking action at Union level would produce clear benefitscompared with action at MS level alone by reason of its effectiveness. As theoverarching climate change commitments are made at the Union level, it iseffective to also develop the required accounting rules at this level.Moreover, overcoming the problems identified, such as the need to have accurateand consistent accounting rules for different LULUCF activities, requires a commonapproach across all MS which can be ensured only at the Union level.
+
+This legal framework will ensure effective added value byemploying common and accurate accounting across all MS, establishing LAPs, andthus by enabling a more detailed assessment and appreciation of progress in MS.This will ensure the coherence of the Union’s climate policy, improve furtherthe environmental integrity of the Union’s climate change commitments andenhance the economic efficiency of the Union’s climate policy.
+
+1.5.3.          Lessons learned from similar experiences in thepast
+
+The proposal is based on experience achieved at international leveland is meant to address the shortcomings of the existing accounting rules underthe Kyoto Protocol (KP). Detailed assessment has been carried out in order topropose a robust and harmonised accounting framework for LULUCF.
+
+1.5.4.          Coherence and possible synergy with otherrelevant instruments
+
+The proposal is consistent with the Europe 2020 Strategyand the Europe 2020 flagship initiative for a resource-efficient Europe. It isalso complementary with the existing Union climate, energy and social policies.
+
+It also complements the post- 2013 Common AgriculturalPolicy (CAP) with regard to implementing the ‘greening components’ and in thecontext of Union’s Rural Development Policy, incentives for carbonsequestration in agriculture and forestry could be significantly improved.Proper accounting of associated positive carbon fluxes would make the positivecontribution of these policy measures implemented through the CAP more visible.
+
+Accounting for LULUCF would therefore support thesustainable use of bio-energy and would also provide a robust, clear andvisible indicator of progress in agriculture and forestry. Withoutcomprehensive mandatory accounting for LULUCF activities, the efforts investedby MS, farmers and foresters to provide climate change mitigation services willnot be reflected in the Union’s efforts to reach its GHG reduction targets.
+
+1.6.                Duration and financial impact
+
+¨ Proposal/initiativeof limited duration
+
+¨         Proposal/initiative in effect from[DD/MM]YYYY to [DD/MM]YYYY
+
+¨         Financial impact from YYYY to YYYY
+
+x Proposal/initiativeof unlimited duration
+
+Implementationis envisaged to start in 1 January 2013, depending on progress with thelegislative process.
+
+1.7.                Management mode(s) envisaged[25]
+
+x Centraliseddirect management by the Commission
+
+¨ Centralisedindirect management with the delegation ofimplementation tasks to:
+
+¨         executive agencies
+
+¨         bodies set up by the Communities[26]
+
+¨         national public-sectorbodies/bodies with public-service mission
+
+¨         persons entrusted with theimplementation of specific actions pursuant to Title V of the Treaty onEuropean Union and identified in the relevant basic act within the meaning ofArticle 49 of the Financial Regulation
+
+¨ Sharedmanagement with the Member States
+
+¨ Decentralisedmanagement with third countries
+
+¨ Jointmanagement with international organisations (tobe specified)
+
+If more than one management mode is indicated, please provide details inthe ‘Comments’ section.
+
+Comments
+
+The MS will be responsible for implementing thebulk of this proposal. The Commission will assess the information included inthe reports submitted by MS and issue recommendations, where appropriate.
+
+2.                      MANAGEMENT MEASURES2.1.                Monitoring and reporting rules
+
+Specify frequency and conditions.
+
+MS will include information in their LULUCF accounts onan annual basis and will account for emissions and removals from LULUCFpursuant to this proposal at the end of each accounting period.
+
+The reports prepared under this proposal will be assessedby the Commission for each accounting period, based on technical expertiseassistance.
+
+A study would be needed to assess the implementation ofthis Decision in the context of the review clause.
+
+2.2.                Management and control system2.2.1.          Risk(s) identified
+
+As the proposal is a Decision, the implementation risks are limitedbecause the proposed obligations are based on already established internationalrules applied by the MS in the framework of their commitments under the KP.
+
+2.2.2.          Control method(s) envisaged
+
+The measures to address eventual risks will consist of: constructivedialogue and cooperation with the MS, maintaining contact with the relevantCommission services, especially in view of ensuring satisfaction of the correspondingdata needs, consulting experts, especially when adopting the delegated acts,accessing external technical expertise for the corresponding evaluations,conducting studies when reviewing the legal act, and organising thematicconferences, where appropriate.
+
+2.3.                Measures to prevent fraud and irregularities
+
+Specify existing or envisaged preventionand protection measures.
+
+Given the amounts involved and the type of procurement,this initiative does not present particular risks of fraud. The Commission willmanage and control the work by using all relevant regular tools, such as theAnnual Management Plan of DG CLIMA.
+
+Internal control standards No 2, 7, 8, 9, 11, 12, 13, 15and 16 are of particular relevance. In addition, the principles laid down inCouncil Regulation (EC, Euratom) No 1605/202 (the ‘Financial Regulation’) andits implementing rules, will be fully applied.
+
+The procurement procedures will be governed by the commonDG CLIMA financial circuit: a partially decentralised circuit which main characteristicis the hierarchical independence from the AO(s)D of the persons performingfinancial initiation and verification.
+
+Moreover, an internal control committee (ENVAC) examinesthe procedure leading to the choice of the contractor and verifies the consistencyof the procedures adopted by the Authorising Officers with the rules andprovision of the Financial Regulation and the Implementing Rules for acombination of a random sample and a risk-based sample of public procurementcontracts.
+
+On top of these measures, for the adoption of delegatedacts it will be ensured that the persons taking part to the expertconsultations are independent and appropriately qualified.
+
+3.                                ESTIMATED FINANCIAL IMPACT OF THEPROPOSAL/INITIATIVE3.1.                Heading(s) of the multiannual financialframework and expenditure budget line(s) affected
+
+·     Existing expenditure budget lines
+
+In order of the Multiannual FinancialFramework headings and budget lines.
+
+Heading of multiannual financial framework || Budget line || Type of expenditure || Contribution
+
+Number [Description ………………………...……….] || Diff./non-diff ([27]) || from EFTA[28] countries || from candidate countries[29] || from third countries || within the meaning of Article 18(1)(aa) of the Financial Regulation
+
+5 || 07 01 02 11 Other management expenditures in support of the ‘Environment and climate action’ policy area || non-diff. || NO || NO || NO || NO
+
+·     New budget lines requested
+
+In order of multiannual financial framework headings andbudget lines.
+
+Heading of multiannual financial framework || Budget line || Type of expenditure || Contribution
+
+Number [Heading ……………………………………..] || Diff./non-diff. || from EFTA countries || from candidate countries || from third countries || within the meaning of Article 18(1)(aa) of the Financial Regulation
+
+[…] || [XX.YY.YY.YY] […] || […] || YES/NO || YES/NO || YES/NO || YES/NO
+
+3.2.                Estimated impact on expenditure3.2.1.          Summary of estimated impact on expenditure
+
+EUR million (to 3 decimal places)
+
+Heading of multiannual financial framework: || Number || Heading 2
+
+DG: CLIMA ||   ||   || Year N[30] || Year N+1 || Year N+2 || Year N+3 || Year N+4 || Year N+5 || Year N+6 || TOTAL
+
+ Operational appropriations ||   ||   ||   ||   ||   ||   ||   ||
+
+Number of budget line || Commitments || (1) || - || - || - || - || - || - || - || -
+
+Payments || (2) || - || - || - || - || - || - || - || -
+
+Number of budget line || Commitments || (1a) || - || - || - || - || - || - || - || -
+
+Payments || (2a) || - || - || - || - || - || - || - || -
+
+Appropriations of an administrative nature financed from the envelope for specific programmes[31] ||   ||   ||   ||   ||   ||   ||   ||
+
+Number of budget line 07 01 04 05 (and successive lines) ||   || (3) || 0 .100 || - || - || 0 .600 || - || - || 0 .600 || 1 .300
+
+TOTAL appropriations for DG CLIMA || Commitments || =1+1a +3 || 0 .100 || - || - || 0 .600 || - || - || 0 .600 || 1 .300
+
+Payments || =2+2a +3 || 0 .100 || - || - || 0 .600 || - || - || 0 .600 || 1 .300
+
+ TOTAL operational appropriations || Commitments || (4) ||   ||   ||   ||   ||   ||   ||   ||
+
+Payments || (5) ||   ||   ||   ||   ||   ||   ||   ||
+
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes || (6) || 0 .100 || - || - || 0 .600 || - || - || 0 .600 || 1 .300
+
+TOTAL appropriations under HEADINGS 1 to 4 of the multiannual financial framework (reference amount) || Commitments || =4+ 6 || 0 .100 || - || - || 0 .600 || - || - || 0 .600 || 1 .300
+
+Payments || =5+ 6 || 0 .100 || - || - || 0 .600 || - || - || 0 .600 || 1 .300
+
+If more than one heading is affected by the proposal /initiative:
+
+ TOTAL operational appropriations || Commitments || (4) ||   ||   ||   ||   ||   ||   ||   ||
+
+Payments || (5) ||   ||   ||   ||   ||   ||   ||   ||
+
+ TOTAL appropriations of an administrative nature financed from the envelope for specific programmes || (6) || 0 .100 ||   ||   || 0 .600 ||   ||   || 0 .600 || 1 .300
+
+TOTAL appropriations under HEADINGS 1 to 4 of the multiannual financial framework (Reference amount) || Commitments || =4+ 6 || 0 .100 ||   ||   || 0 .600 ||   ||   || 0 .600 || 1 .300
+
+Payments || =5+ 6 || 0 .100 ||   ||   || 0 .600 ||   ||   || 0 .600 || 1 .300
+
+Heading of multiannual financial framework: || 5 || ’ Administrative expenditure ‘
+
+EUR million (to 3 decimal places)
+
+||   ||   || Year N || Year N+1 || Year N+2 || Year N+3 || Year N+4 || Year N+5 || Year N+6 || TOTAL
+
+DG: CLIMA ||
+
+ Human resources || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .889
+
+ Other administrative expenditure || 0 .348 || 0 .348 || 0 .348 || 0 .348 || 0 .348 || 0 .348 || 0 .348 || 2 .433
+
+TOTAL DG CLIMA || Appropriations || 0 .475 || 0 .457 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 3 .322
+
+TOTAL appropriations under HEADING 5 of the multiannual financial framework || (Total commitments = Total payments) || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 3 .322
+
+EUR million (to 3 decimal places)
+
+||   ||   || Year N[32] || Year N+1 || Year N+2 || Year N+3 || Year N+4 || Year N+5 || Year N+6 || TOTAL
+
+TOTAL appropriations under HEADINGS 1 to 5 of the multiannual financial framework || Commitments || 0 .575 || 0 .475 || 0 .475 || 1 .075 || 0 .475 || 0 .475 || 1 .075 || 4 .622
+
+Payments || 0 .575 || 0 .475 || 0 .475 || 1 .075 || 0 .475 || 0 .475 || 1 .075 || 4 .622
+
+3.2.2.          Estimated impact on operational appropriations
+
+¨      The proposal/initiative does not require the use ofoperational appropriations
+
+x      The proposal/initiative requires the use of operationalappropriations, as explained below:
+
+Commitment appropriations in EUR million (to 3 decimalplaces)
+
+Indicate objectives and outputs   ò ||   ||   || Year N || Year N+1 || Year N+2 || Year N+3 || Year N+4 || Year N+5 || Year N+6 || TOTAL
+
+OUTPUTS
+
+Type of output[33] || Average cost of the output || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Total number of outputs || Total cost
+
+SPECIFIC OBJECTIVE: Implementation of EU policy and legislation on climate action (ABB code 07 12)
+
+- Output || Evaluation || 0 .004 || 27 || 0.100 ||   ||   ||   ||   || 27 || 0.100 ||   ||   ||   ||   || 27 || 0.100 || 81 || 0 .300
+
+- Output || Study || 0.500 ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   || 1 || 0.500 || 1 || 0 .500
+
+- Output || Review || 0.500 ||   ||   ||   ||   ||   ||   || 1 || 0.500 ||   ||   ||   ||   ||   ||   || 1 || 0 .500
+
+Sub-total for specific objective No 1 || 27 || 0 .100 || 0 || - || 0 || - || 28 || 0.600 || 0 || - || 0 || - || 28 || 0.600 || 83 || 1 .300
+
+TOTAL COST || 0 || 0 .100 || 0 || - || 0 || - || 0 || 0.600 || 0 || - || 0 || - || 0 || 0. 600 || 0 || 1. 300
+
+3.2.3.          Estimated impact on appropriations of anadministrative nature3.2.3.1.    Summary
+
+¨      The proposal/initiative does not require the use ofadministrative appropriations
+
+x      The proposal/initiative requires the use of administrativeappropriations, as explained below:
+
+EUR million (to 3decimal places)
+
+|| Year N [34] || Year N+1 || Year N+2 || Year N+3 || Year N+4 || Year N+5 || Year N+6 || TOTAL
+
+HEADING 5 of the multiannual financial framework || Year N || Year N+1 || Year N+2 || Year N+3 || Year N+4 || Year N+5 || Year N+6 ||
+
+Human resources (1 AD FTE already working in DG CLIMA) || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .889
+
+Other administrative expenditure - 07 01 02 11 01 Missions (5 per year ; 0 0015 M EUR /mission) - 07 01 02 11 02 Conferences (2 per year; 150 participants; ; 0 035 M EUR /conference) - 07 01 02 11 02 Meetings (2 per year ; 168 experts max (28 *6); 1 day ; 0 135 M EUR /meeting) SUBTOTAL ||       0 .0075     0 .070       0 .270         0 .348   ||       0 .0075     0 .070       0 .270         0 .348   ||       0 .0075     0. 070       0 .270         0 .348   ||       0 .0075     0. 070       0 .270         0 .348   ||       0 .0075     0 .070       0 .270         0 .348   ||       0 .0075     0 .070       0 .270         0 .348   ||       0 .0075     0 .070       0 .270         0 .348   ||       0 .053     0 .490       1 .890         2 .433
+
+Subtotal HEADING 5 of the multiannual financial framework || 0 .475 || 0. 475 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 3 .322
+
+Outside HEADING 5[35] of the multiannual financial framework ||   ||   ||   ||   ||   ||   ||   ||
+
+Human resources ||   ||   ||   ||   ||   ||   ||   ||
+
+Other expenditure of an administrative nature ||   ||   ||   ||   ||   ||   ||   ||
+
+Subtotal outside HEADING 5 of the multiannual financial framework ||   ||   ||   ||   ||   ||   ||   ||
+
+TOTAL || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 0 .475 || 3 .322
+
+3.2.4.          Estimated requirements of human resources
+
+¨      The proposal/initiative does not require the use of humanresources
+
+x      The proposal/initiative requires the use of human resources,as explained below:
+
+Estimate to be expressed in full amounts (orat most to one decimal place)
+
+||   || Year N || Year N+1 || Year N+2 || Year N+3 || Year N+4 || Year N+5 || Year N+6
+
+ Establishment plan posts (officials and temporary agents) ||
+
+|| 07 01 01 01 (Headquarters and Commission’s Representation Offices) || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127
+
+|| XX 01 01 02 (Delegations) ||   ||   ||   ||   ||   ||   ||
+
+|| XX 01 05 01 (Indirect research) ||   ||   ||   ||   ||   ||   ||
+
+|| 10 01 05 01 (Direct research) ||   ||   ||   ||   ||   ||   ||
+
+||  External personnel (in Full Time Equivalent unit: FTE)[36] ||
+
+|| XX 01 02 01 (CA, INT, SNE from the ‘global envelope’) ||   ||   ||   ||   ||   ||   ||
+
+|| XX 01 02 02 (CA, INT, JED, LA and SNE in the delegations) ||   ||   ||   ||   ||   ||   ||
+
+|| XX 01 04 yy [37] || - at Headquarters[38] ||   ||   ||   ||   ||   ||   ||
+
+|| - in delegations ||   ||   ||   ||   ||   ||   ||
+
+|| XX 01 05 02 (CA, INT, SNE — Indirect research) ||   ||   ||   ||   ||   ||   ||
+
+|| 10 01 05 02 (CA, INT, SNE — Direct research) ||   ||   ||   ||   ||   ||   ||
+
+|| Other budget lines (specify) ||   ||   ||   ||   ||   ||   ||
+
+|| TOTAL || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127 || 0 .127
+
+XX is thepolicy area or budget title concerned.
+
+The human resources requiredwill be met by staff from the DG who are already assigned to management of the actionand/or have been redeployed within the DG, together if necessary with anyadditional allocation which may be granted to the managing DG under the annualallocation procedure and in the light of budgetary constraints.
+
+Description oftasks to be carried out:
+
+Officials and temporary agents || Take appropriate action to implement the various requirements upon Commission (e.g. review Member States reports, carry out analysis, monitor the implementation, etc.)
+
+External personnel ||
+
+3.2.5.          Compatibility with the current multiannualfinancial framework
+
+x      Proposal/initiative is compatiblewith the current multiannual financial framework.
+
+¨      Proposal/initiative will entailreprogramming of the relevant heading in the multiannual financial framework.
+
+¨      Proposal/initiative requiresapplication of the flexibility instrument or revision of the multiannualfinancial framework[39].
+
+3.2.6.          Third-party contributions
+
+xThe proposal/initiative does not providefor co-financing by third parties
+
+Theproposal/initiative provides for the co-financing estimated below:
+
+3.3.                Estimated impact on revenue
+
+x      Proposal/initiative has no financialimpact on revenue.
+
+¨      Proposal/initiative has the followingfinancial impact:
+
+¨         on own resources
+
+¨         onmiscellaneous revenue
+
+[1]               Decision 1/CP.16 of the Conference of Parties to theUNFCCC (the ‘Cancún Agreements’).
+
+[2]               Based on the Fourth Assessment Report of theIntergovernmental Panel on Climate Change (IPCC).
+
+[3]               Conclusions of the European Council of 8/9.3.2007.
+
+[4]               OJ L 140 5.6.2009, p. 63.
+
+[5]               OJ L 140, 5.6.2009, p. 136. .
+
+[6]               OJ L 49, 19.2.2004, p. 1.
+
+[7]               COM(2011) 789 final — 2011/0372 (COD).
+
+[8]               Other greenhouse gases from agricultural activities,e.g. methane and nitrous oxide from ruminants and fertilisers, do not countunder LULUCF, which deals primarily with carbon emissions and removals invegetation and soils. Non-CO2 emissions from agriculture areincluded in a separate agriculture inventory.
+
+[9]               There is also a trade-off, namely conversion shouldnot induce ‘carbon leakage’, i.e. replacement of domestically produced food byimported food that has a more negative carbon footprint.
+
+[10]             See e.g. Sathre R. and O’Connor J. (2010), ‘A synthesisof research on wood products and greenhouse gas impacts’, 2nd edition,Vancouver, B. C. FP Innovations, p 117.
+
+[11]             OJ L 130, 15.5.2002, p. 1.
+
+[12]             Directive 2009/28/EC.
+
+[13]             COM(2011) 571 final.
+
+[14]             http://ec.europa.eu/clima/events/0029/index_en.htm.
+
+[15]             http://ec.europa.eu/clima/consultations/0003/index_en.htm.
+
+[16]             http://ec.europa.eu/clima/events/0029/index_en.htm.
+
+[17]             http://ec.europa.eu/clima/events/0029/index_en.htm.
+
+[18]             OJ C , , p. .
+
+[19]             OJ C , , p. .
+
+[20]             OJ L 140, 5.6.2009, p. 136.
+
+[21]             OJ L 275, 25.10.2003, p. 32.
+
+[22]             OJ L 130, 15.5.2002, p. 1.
+
+[23]             ABM: Activity-Based Management — ABB: Activity-BasedBudgeting.
+
+[24]             As referred to in Article 49(6)(a) or (b) of the FinancialRegulation.
+
+[25]             Details of management modes and references to theFinancial Regulation may be found on the BudgWeb site: http://www.cc.cec/budg/man/budgmanag/budgmanag_en.html.
+
+[26]             As referred to in Article 185 of the FinancialRegulation.
+
+[27]             Diff. = Differentiated appropriations / Non-Diff. =Non-differentiated appropriations.
+
+[28]             EFTA: European Free Trade Association. .
+
+[29]             Candidate countries and, where applicable, potentialcandidate countries from the Western Balkans.
+
+[30]             Year N is the year in which implementation of theproposal/initiative starts.
+
+[31]             Technical and/or administrative assistance andexpenditure in support of the implementation of EU programmes and/or actions(former ‘BA’ lines), indirect research, direct research.
+
+[32]             Year N is the year in which implementation of theproposal/initiative starts. The proposal is envisaged to enter into force in2013, depending on progress with the legislative process.
+
+[33]             Outputs are products and services to be supplied (e.g.:number of student exchanges financed, number of km of roads built, etc.).
+
+[34]             Year N is the year in which implementation of theproposal/initiative starts. The proposal is envisaged to enter into force in2013, depending on progress with the legislative process.
+
+[35]             Technical and/or administrative assistance andexpenditure in support of the implementation of EU programmes and/or actions(former ‘BA’ lines), indirect research, direct research.
+
+[36]             CA= Contract Agent; INT= agency staff (‘Intérimaire’);JED= ‘Jeune Expert en Délégation’ (Young Experts in Delegations); LA=Local Agent; SNE= Seconded National Expert; .
+
+[37]             Under the ceiling for external personnel fromoperational appropriations (former ‘BA’ lines).
+
+[38]             Essentially for Structural Funds, European AgriculturalFund for Rural Development (EAFRD) and European Fisheries Fund (EFF).
+
+[39]             See points 19 and 24 of the InterinstitutionalAgreement.

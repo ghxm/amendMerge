@@ -1,0 +1,679 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 52000PC0007 - EN
+
+Avis juridique important
+
+|
+
+52000PC0007
+
+Proposal for a Regulation of the European Parliament and of the Council on action by Member States concerning public service requirements and the award of public service contracts in passenger transport by rail, road and inland waterway  /* COM/2000/0007 final - COD 2000/0212 */
+
+Official Journal C 365 E , 19/12/2000 P. 0169 - 0178
+
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on action by Member States concerning public service requirements and the award of public service contracts in passenger transport by rail, road and inland waterway
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+1. Introduction
+
+The current Community regulatory framework was designed for a public transport industry in which suppliers were exclusively national, regional or local. Now, the sector is facing the emergence of a single European market in the provision of public transport.
+
+At the same time, there is an ever more apparent need to modernise public transport so that it can make its full contribution to tackling problems of environmental damage and congestion.
+
+The Commission has decided to make a new regulatory proposal, which will replace Regulation (EEC) No 1191/69 [1] as amended by Regulation (EEC) No 1893/91 [2]. The starting point for the proposal is the development of competition for the provision of public transport. This aim is in line with the conclusions of the European Council of Lisbon of 28 March 2000 where the Commission, Council and the Member States, each in accordance with their respective powers, were asked to 'speed up liberalisation in areas such as transport'.
+
+[1]  Regulation (EEC) No 1191/69 (OJ 156, 28.6.1969).
+
+[2]  Regulation (EEC) No 1893/91 (OJ 169, 29.6.1991).
+
+During the past decade, the economic conditions of the public transport sector in the European Union have changed a great deal. Eleven of the fifteen Member States have now introduced an element of competition in their legislation or administrative practices, relating to at least part of their public transport market. In nearly all cases this is 'controlled competition' - based on the regular renewal of exclusive rights, rather than on free access to the market. Properly conducted, this market opening has proved a success, improving cost-effectiveness and the attractiveness of services. Public and private sector transport operators have taken advantage of the new opportunities, establishing themselves in other Member States and entering the market there.
+
+It is now time, in the interests of operators, authorities and consumers, to establish clear rules putting competition in public transport on a Community basis. This will avoid the need for the Commission or the courts to resolve legal questions case by case, promoting legal certainty and harmonising key aspects of the procedures used in the different Member States. At the same time we can remove obstacles which the present Regulation places in the way of modern approaches to public transport.
+
+Because market opening should go hand in hand with protection of the general interest, the Regulation also establishes for the first time an explicit obligation for authorities to pursue adequate transport services.
+
+2. The need to update Community law
+
+2.1 The existing legal framework
+
+Article 73 of the EC Treaty refers to the importance of public services in rail, road and inland waterway transport. It states that 'Aids shall be compatible with this Treaty if they represent reimbursement for the discharge of certain obligations inherent in the concept of a public service.' Regulation (EEC) No 1191/69 enumerates forms of compensation that are compatible with this reference to 'reimbursement for the discharge of certain obligations'. It provides for competent authorities to impose public service obligations on operators, where these are necessary to ensure the provision of adequate transport services, and to reimburse operators for the cost of this. It lays down detailed rules for calculating the financial burden resulting from the imposition of public service obligations. Finally, it exempts compensation granted under the rules it lays down from the State aid notification procedures in Article 88(3) of the Treaty.
+
+Regulation (EEC) No 1893/91 amends this basic framework. It establishes a second mechanism - the conclusion of public service contracts - as the normal method of securing the fulfilment of public service objectives. But it still leaves room for the imposition of obligations, particularly in urban, suburban and regional transport.
+
+Regulation (EEC) No 1191/69 as amended does not address the question of how public service contracts should be awarded. The award of certain public service contracts is subject to EC Directives on public procurement [3]. However, many contracts - notably those embodying concessions - are not subject to these procedures [4].  In addition, Regulation (EEC) No 1191/69 as amended does not address the question of the opening of the market for the provision of public transport services. Community legislation means that operators have the right to cross borders to provide certain international services and non-regular services [5]. But there is no right pursuant to Community legislation to provide national regular services, with the limited exception of special road transport services for students, military personnel and workers [6]. Operators wishing to provide regular services abroad must establish themselves in the Member State concerned, then participate in open procedures put in place under national law - where such procedures exist.
+
+[3]  Directive 92/50/EEC of 18 June 1992 relating to the coordination of procedures for the award of public service contracts (OJ L 209,  24.7.1992, p. 1); Directive as last amended by Directive 97/52/EC; Directive 93/38/EEC of 14 June 1993 coordinating the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ L 199, 9.8.1993 p. 84); Directive as last amended by Directive 98/4/EC.
+
+[4]  See opinion of Advocate General Farrelly in Case C-324/98, Telaustria Verlags GmbH and Telefonadress GmbH v Post & Telekom Austria AG, 18 May 2000. The Commission's assessment of the status of concessions in Community law is presented in  'Commission interpretative communication on concessions under Community law', OJ C 121, 29.4.2000, p. 2.
+
+[5]  Directive 91/440/EEC and Regulation (EC) No 12/98.
+
+[6]  Regulation (EC) No 11/98.
+
+2.2 The economic context
+
+When Regulation (EEC) No 1191/69 was adopted, and even when it was amended in 1991, little of the public transport market was open to competition, and operators were exclusively national. In most Member States a significant proportion of public transport was provided by public administrations or publicly owned companies holding a monopoly position.  Today, conditions are different. Markets are being opened on the basis of national legislation, and operators originating in other Member States are making increasing use of the opportunities this creates.
+
+2.2.1 Market opening
+
+Eleven of the fifteen Member States [7] have introduced legislation or administrative arrangements providing for competition in at least part of the bus, coach or urban rail market. Five States have done the same in heavy rail [8]. The Annex summarises these arrangements.
+
+[7]  Denmark, Finland, France, Germany, Ireland, Italy, Netherlands, Portugal, Spain, Sweden, UK.
+
+[8]  Germany, Italy, Portugal, Sweden, UK.
+
+2.2.2 Emergence of multinational operators
+
+Where the market has been opened, international operators have stepped in alongside national ones. By early 2000 at least nine companies, from the public and private sectors, were acting as public transport operators in more than one Member State. In only four Member States (compared to six, two years earlier) was the provision of public transport services still restricted to home-country operators [9].
+
+[9]  2000 data from International Union of Public Transport (UITP). 1998 data from 'Major European players in public transport - new developments in the European Union, 1997', UITP-EuroTeam, 1998.
+
+2.2.3 Impacts on efficiency and attractiveness of services
+
+This market opening has generally had positive impacts.  This can be seen by comparing the effects of the three basic strategies that are now used to regulate public transport:
+
+(i) Closed markets, in which operators are protected by exclusive rights and never face competition from other operators;
+
+(ii) Controlled competition, in which exclusive rights last for fixed periods and are awarded following competition between operators;
+
+(iii) Deregulation, in which there are no exclusive rights.
+
+Experience in the Member States, supported by studies carried out at the Commission's request, shows that controlled competition can lead, with appropriate safeguards, to more attractive services at lower costs. It is not liable to obstruct the fulfilment of the particular missions assigned to transport operators, including the attainment of high standards of public service.  In terms of efficiency, the Isotope research study [10] found that the cost of producing services was highest in closed markets, averaging EUR 3.02 per bus-km in 1996. For controlled competition the figure was EUR 2.26 [11], while under deregulation it was lower still at EUR 1.44 [12].   According to the study, pay rates were not significantly different between controlled competition and closed markets. Lower pay in the UK bus industry accounted for some of the lower costs under deregulation compared with controlled competition, but not for all.  Changes in the attractiveness of services are best measured by trends in ridership. Figures have to be treated with caution, because it is difficult to disentangle the effects of different factors. In particular, data on changes in expenditure on services are not available. Nevertheless, in the six Member States where controlled competition has been for some years the regulatory arrangement for a significant part of the bus and/or coach market [13], the use of these modes, measured in passenger-kilometres, increased by 14% between 1990 and 1997. By contrast, the increase was 5% in the eight Member States where closed markets were predominant during this period [14], while bus and coach use fell by 6% in the Member State where deregulation is the commonest approach [15].   The main reason for the poor attractiveness of deregulated services seems to be that without exclusive rights, service patterns are unstable and levels of integration are low. Studies of the UK bus market immediately before and after deregulation [16] show that the change of regime was followed by a sharp decline in ridership (reaching more than 20% over five years in the metropolitan areas). They conclude that this cannot be fully explained by changes in fares, service levels, car ownership or unemployment. Instability and loss of integration also seemed to be key factors.  In conclusion, these data suggest that, in comparison with controlled competition,
+
+[10] 'Improved Structure and Organisation for urban Transport Operations of Passengers in Europe', final report, 1997.
+
+[11]  Examples drawn from France and the Nordic countries.
+
+[12]  Bus services in the UK, excluding London and Northern Ireland.
+
+[13]  Denmark, Finland, France, Portugal, Spain and Sweden.
+
+[14]  Austria, Belgium, Germany, Greece, Ireland, Italy, Luxembourg and the Netherlands.
+
+[15]  United Kingdom.
+
+[16] 'A review of the second year of bus deregulation', WJ Tyson, 1989; 'Bus deregulation - the metropolitan experience', Transport Studies Unit, University of Oxford, 1990; 'Bus deregulation - five years on', WJ Tyson, 1992.
+
+* deregulated services are cheaper, but tend to be substantially worse from the point of view of attractive public transport;
+
+* closed markets sometimes achieve similar standards of attractiveness for passengers, but at a higher price.
+
+2.3 The need for change
+
+The Community legal framework described in Section 2.1 is not appropriate for these new and changing economic conditions.
+
+2.3.1 Enhancing controlled competition as a means to achieve a high standard of public service
+
+The experience and studies summarised in Section 2.2.3 show that the different strategies pursued by Member States in regulating public transport have led to different results, and to disparities in terms of market opening and of the scope to achieve high quality standards, notably in situations where public budgets are under pressure. These disparities will inevitably present obstacles to the smooth functioning of the Community public transport market that has already begun to emerge. They may also give rise to a breach of the principle of equal treatment in respect of the new multinational transport operators.  It is therefore important to update the existing Community legal framework in order to secure the efficient fulfilment of general interest objectives (in particular, the attainment of adequate public services in public transport) by introducing controlled competition.
+
+2.3.2 Making a reality of the right of establishment
+
+In public transport public financing is widespread, because society needs a higher level of service than the market will provide. A significant part of the public transport market is viable only as a result of aid for the provision of public services. If aid for the provision of public services is, in practice, reserved to operators that are not only established in, but also originate in the same Member State as the aiding authority, then there is room to question whether the right of establishment has been frustrated by a distortion of the kind referred to in Article 44(2)(h) of the EC Treaty.  Exclusive rights are also widespread in the public transport sector. They have a valuable role to play in ensuring integration between services. Where properly applied by competent authorities, they can enable the finances of loss-making and of commercially viable services to be pooled in ways that benefit the general interest [17].  It follows that access to the public transport market depends, in reality, on access to public financing and to exclusive rights.
+
+[17]  Exclusive rights may be granted to safeguard the commercial viability of certain types of service. For example, operators will sometimes run feeder services if this allows them to make more profits by bringing passengers onto main routes where the same operator holds an exclusive right. Similarly, operators will sometimes invest in developing new markets if they can be sure that they will enjoy, at least for a time, the fruits of doing so when the market is more mature. Exclusive rights can provide the protection needed for these services to flourish as a result of operators' pursuit of their commercial interest. Exclusive rights are also sometimes used to enable profits from some services to cross-subsidise other, loss-making services. This will only happen, however, if the terms on which the exclusive right is granted ensure it. Spending profits on this form of cross-subsidy is not in operators' commercial interest, whether or not they enjoy an exclusive right.
+
+The existing legal framework does not address the question of how fair access to the public transport market can be guaranteed.  Where markets have been opened on the basis of national legislation, there are disparities in the procedures used. To achieve the full implementation of the right of establishment, there is a need to harmonise basic aspects of these procedures.
+
+2.3.3 Promoting legal certainty
+
+The emergence of international operators means that the organisation of markets for the supply of public transport - and in particular, how this may affect trade between Member States - is now of direct Community interest [18]. Effects on trade between Member States can include effects on financial relationships between branches of the same enterprise established in different countries.  In a market where exclusive rights play such an important part, it is particularly important for authorities and operators to be confident that these rights are compatible with the Treaty. Article 43 of the Treaty requires Member States to ensure freedom of establishment, including the unrestricted right to take up and pursue activities or manage undertakings.  Under Article 86(2) of the Treaty, Member States may, under certain conditions, restrict the application of other Treaty principles if this is necessary for the operation of services of general interest. Granting exclusive rights which affect trade between Member States limits market access and thus infringes - albeit indirectly - the principle of freedom of establishment.  Interventions by Member States restricting market access must, in accordance with Article 86(2), be proportionate and therefore should limit or harm competition only to the degree necessary to obtain the public benefits aimed at. At present, the Community's secondary legislation provides no guidance permitting authorities and operators to assess, with a degree of legal certainty, whether an exclusive right is or is not proportionate.  The Commission considers that the question of proportionality applies to the length of time for which exclusive rights are granted before being renewed. It also applies to the geographical area covered by these rights; to the types of competing service, which are excluded; and to the precision with which the public service requirements to be fulfilled by the operator are defined [19]. The Commission also considers that the instrument by which Member States award contracts embodying exclusive rights as an important indicator. In principle, open, fair and non-discriminatory procedures restrict competition the least.
+
+[18]  Where a measure has the potential to affect trade between Member States, it is liable to fall within the scope of the competition rules in the Treaty, notably those in Articles 81, 82, 86 and 87.
+
+[19]  Article 86(2) of the Treaty only provides relief from the requirements of Community competition law, permitting the granting of exclusive rights, if these requirements 'obstruct the performance, in law or in fact, of the particular tasks assigned to' an undertaking. The Court's judgments in La Poste (Case 39/94 Syndicat français de l'Express international (SFEI) and others v La Poste and others [1996] ECR 3547: paragraph 178) and Corbeau (Case 320/91 Criminal proceedings against Paul Corbeau [1993] ECR 2533) make it clear that these 'particular tasks' are public service obligations. If public service obligations are defined loosely or not at all, the claim that Community competition law obstructs their performance can have no validity. This view is supported by the Court's judgment in Ahmed Saeed (Case 66/86 Ahmed Saeed Flugreisen and Silver Line Reisebüro GmbH v Zentrale zur Bekämpfung Unlauteren Wettbewerbs eV [1989] ECR 803), which states (paragraph 56) that 'For it to be possible for the effect of the competition rules to be restricted pursuant to Article 90(2) [now Article 86(2)] by needs arising from the performance of a task of general interest, the national authorities responsible for the approval of tariffs and the courts to which disputes relating thereto are submitted must be able to determine the exact nature of the needs in question and their impact on the structure of the tariffs applied by the airlines in question.'.
+
+2.3.4 Updating State aid rules relating to the provision of public passenger transport
+
+Regulation (EEC) No 1191/69, as amended, contains an exemption stating that compensation awarded in accordance with the provisions of the Regulation is not subject to the obligatory State aid notification procedure laid down in Article 88(3) of the Treaty.
+
+By contrast to all other forms of compensation for the provision of public services, in the land transport sector the Commission plays no role in assessing the proportionality of compensation. Regulation (EEC) No 1191/69 does not provide mechanisms that would permit this.  This liberal approach seemed appropriate when markets were closed - factually as well as by law - to cross-border competition. However, the gradual emergence of a single market for the provision of public transport means that there is now a Community interest, as well as a national interest, in any abuse of state financing.  In markets where public financing can affect trade between Member States, any public financing that distorts competition is prohibited by Article 87(1) of the Treaty. Under Article 44(2)(h) of the Treaty, moreover, the European Parliament, the Council and the Commission must satisfy themselves that the conditions of establishment are not being distorted by aids granted by Member States.
+
+To avoid over-compensation, it is therefore now necessary for stricter conditions to be introduced for the procedures by which public financing is granted. In particular, the use of procedures that are fair, open and non-discriminatory is considered as a guarantee that the level of aid has been kept to an absolute minimum, making it compatible with the Treaty. Where such procedures are not employed, it is essential for any compensation to be paid in line with accurate calculations of their financial effect.
+
+2.3.5 Removing unnecessary limits on Member State action
+
+The existing regulatory framework is out of date and, in places, unclear. It inadvertently rules out approaches that ought to be permitted. It needs amending to:
+
+*enable authorities to insist on the inclusion of long distance bus and rail services in integration measures such as integrated ticketing schemes or information services;
+
+*simplify and modernise the complex rules on the calculation of compensation;
+
+*simplify the rules on separate accounting;
+
+*make it clear how authorities can lay down general 'rules of the game' applying to all operators, without having to conclude public service contracts with each one;
+
+*clarify how authorities can protect existing employees in situations where public service contracts change hands.
+
+3. The Commission's proposal
+
+Recent years have seen the opening of national public transport markets on the basis of national legislation, and the emergence of multinational operators. It is now necessary to update Community law to take account of these developments.
+
+3.1 Principles of the reform
+
+The framework proposed in this Regulation will:
+
+*ensure better value for money and better quality services in the public transport sector;
+
+*ensure that operators making use of their right of establishment have a real opportunity to gain access to the market, through fair, open and non-discriminatory procedures for the award of financial compensations and exclusive rights;
+
+*harmonise key aspects of the competitive procedures developed in the different Member States;
+
+*promote legal certainty about the rights and duties of operators and authorities in relation to Community law on State aids and exclusive rights as they affect public transport.
+
+The Regulation will not determine the goals that public services should achieve; the way they should be pursued; or the balance between authorities' role in specifying services and operators' scope to experiment.  It does not lay down institutional structures for managing public transport, and does not prevent Member States from deciding which bodies should act as competent authorities.  It will not impose a single European mechanism to be used in all Member States. Instead, it extends the range of tools that authorities can use, within the framework of European law, to implement their choices.  The Regulation will not oblige authorities and operators to follow procedures that are disproportionate in relation to the scale of their activity. Small contracts can be awarded directly without competition.  The Regulation is based on the principle of controlled competition. This approach draws on experience in Member States. It also reflects the recommendations of the expert study the Commission commissioned from a consortium led by NEA Transport research and training [20], which supported the view that controlled competition is an effective method of achieving the general objectives pursued by Article 16 of the EC Treaty and the Common Transport Policy. The approach is also in line with views expressed by the European Parliament [21], the Committee of the Regions [22] and the Economic and Social Committee [23], and has support (although not unanimously) among representatives of the sector [24].
+
+[20] 'Examination of Community law relating to the public service obligations and contracts in the field of inland passenger transport', submitted to the European Commission by NEA Transport research and training, 1998.
+
+[21]  A4-0289/96, 1 October 1996.
+
+[22]  CoR 436/98 final, 11 March 1999.
+
+[23]  CES 324/99, 24 March 1999.
+
+[24]  In their comments on the NEA study, the Community of European Railways (CER) took the view that the matter of competition should be left to individual Member States. The International Road Transport Union (IRU) supported appropriate Community action, as did most but not all of the members of the European Committee of the International Union of Public Transport (UITP). Appropriate Community action was also supported by Eurocities, Car Free Cities and the POLIS network of local and regional authorities.
+
+3.2 Outline of the proposed Regulation
+
+CHAPTER I: Scope and definitions
+
+Article 1 sets the Regulation's scope and objectives.
+
+Article 2 explains that the Regulation does not replace any of the obligations to which authorities are already subject as a result of the public procurement Directives 92/50 and 93/38. In addition, where one of those Directives already requires a contract to be tendered, it will be those Directives rather than the new Regulation that determine the manner in which this should be done.
+
+Article 3 defines key terms. The definition of an operator and of a public service contract are framed to include the whole range of legal relationships between authorities and operators.
+
+CHAPTER II: Adequate public passenger transport
+
+Article 4 confirms the general interest approach of the Regulation by establishing the concept of adequate public passenger transport and the requirement that authorities should secure it in applying the Regulation - without diminishing the effect of specific standards already laid down by individual Member States. Whatever methods Member States choose to use for regulating and financing public transport, this Article ensures that attention will be paid to the quality of the service provided. It also makes specific provision for integrated information about public transport.
+
+CHAPTER III: Public service contracts
+
+Article 5 establishes as a general rule that authorities' interventions in public transport should take the form of public service contracts. The only exception is where authorities lay down minimum criteria for public transport operation in accordance with Article 10.  Article 6 lays down that public service contracts should normally be awarded by competitive tendering. It defines some important aspects of the content of public service contracts and sets a limit on their duration - normally five years.  Articles 7 and 8 define the cases where public service contracts will not have to be competitively tendered.  Article 7 determines where competent authorities will be able to award public service contracts directly to a given operator. This affects certain rail services, where it is possible that safety standards or the efficiency of light rail or metro systems would be put at risk. It also affects bus services that are fully integrated with these rail services; small contracts; and cases where the authority wishes to facilitate the implementation of an idea for a completely new service and no new public money is involved.  Article 8 sets out a simplified competitive procedure -'quality comparison'. This may be used where the contract will include an exclusive right but no new public money.  Article 9 sets out mechanisms that competent authorities may use to control damaging market concentration and to protect employees in the case of a change of operator. It confirms that authorities may require operators to be established in the Member State concerned, making them subject to all the standards that the Member State requires of established operators.
+
+CHAPTER IV: Minimum criteria for public transport operation
+
+Article 10 contains the conditions that apply when authorities specify minimum criteria that any operator must comply with, and in particular when authorities wish to compensate operators for the cost of this. It permits authorities to secure the fulfilment of public service requirements that are separate from, or additional to, those embodied in public service contracts. It serves as an addition, not an alternative, to the possibility of awarding public service contracts. Compensation for the cost of complying with such minimum criteria is limited to one fifth of the value of an operator's services, but the same operator may receive additional compensation under the terms of a public service contract, permitting the more detailed monitoring and enforcement arrangements that are appropriate where a higher level of public funding is involved.
+
+CHAPTER V: Procedural issues
+
+Article 11 ensures that authorities will not be required to notify the Commission in advance of any compensation paid under the terms of the Regulation. This maintains the status quo established in Regulation (EEC) No 1191/69.  Article 12 sets out basic procedural requirements for tendering and quality comparisons.  Article 13 lays down transparency requirements, building on those established in Regulation (EEC) No 1191/69.  Article 14 requires Member States to establish appeal procedures.  Article 15 covers the separation of accounts. It maintains, in a simplified form, the approach established in Regulation (EEC) No 1191/69.
+
+CHAPTER VI: Final provisions
+
+Article 16 maintains Community rules for ensuring that excessive compensation is not paid, covering compensation for the cost of complying with minimum criteria and also circumstances where a contract has not been competitively tendered. These rules were originally laid down in Regulation (EEC) No 1191/69; they are simplified and modernised in Annex I.  Article 17 provides for a transitional period of three years, with the possibility of extending this up to six years where the payback period of rail infrastructure investment will not have run its course within three years.  Article 18 ensures that the Regulation does not detract from the rights already granted, under the Europe Agreements, to operators from the countries listed in Annex II.  Article 19 enables the Commission to be consulted on proposed national legislation giving effect to the Regulation. It also requires the Commission to report on its functioning within five years, with a view to future amendments.  Article 20 provides for the repeal of the old Regulation and the deletion of the redundant paragraph of Regulation (EEC) No 1107/70 on transport aid.  Article 21 provides for the entry into force of this Regulation.
+
+4. Justification for action at Community level
+
+4.1 What are the objectives of the proposed action in relation to the Community's obligations-
+
+The proposal aims to enhance legal certainty concerning the application of Community rules on exclusive rights and State aids in the context of the emerging single market in public passenger transport.  It will achieve this through clear rules guaranteeing the proportionality of exclusive rights (notably relating to their duration and the methods of awarding them) and the proportionality of the provision of financial compensation to operators for their compliance with authorities' public service requirements (public service obligations, under the terms of Article 73 of the Treaty).  At the same time, the proposal will encourage efficiency and effectiveness in public transport. This has an important role to play in fulfilling the Community's objectives in relation to global warming, reduction of carbon dioxide emissions, reduction of pollution, underpinning Community economic growth and supporting social inclusion. If the present trend of increasing use of cars and falling use of public transport is not halted, these objectives will not be achieved. Public transport use will continue to decline unless a substantial increase in its efficiency and the attractiveness of the services it offers is achieved.
+
+4.2 Does competence for the planned activity lie solely with the Community or is it shared with the Member States-
+
+The action falls under a shared competence (Article 71(1)(d) of the Treaty) and also under an exclusive competence (Article 89 of the Treaty).
+
+4.3 What is the Community dimension of the problem (for example, how many Member States are involved and what solution has been used up to now)-
+
+The Regulation concerns all Member States.  In order to avoid distortion of competition, it is necessary to improve and harmonise the treatment of authorities' action to secure public service requirements where this has an impact on competition, notably by generalising in all Member States the award of public service contracts and exclusive rights following consistent non-discriminatory competitive procedures.  There is presently a wide divergence of practice in the Member States, and - with regard to exclusive rights in particular - the Community dimension has not previously been addressed.
+
+4.4 What is the most effective solution taking into account the means available to the Community and those of the Member States-
+
+Given the need to establish legal certainty in situations in which operators originating in one Member State establish themselves in a second Member State and attempt to enter the public transport market there, the most effective solution is action at Community level.  To achieve this, this proposal establishes common rules
+
+- for the use of contracts between authorities and operators;
+
+- for compensating operators for the fulfilment of public service requirements;
+
+- for the award of exclusive rights;
+
+- for introducing and managing competition;
+
+- on transparency.
+
+4.5 What real added value will the activity proposed by the Commission provide and what would be the cost of inaction-
+
+Given that the purpose of the action is to establish common rules applicable in all the Member States, the action can only be achieved through Community legislation and could not be achieved by action at the level of the individual Member States.  The Regulation will promote the provision of efficient and attractive public transport and will enable Member States to develop specific national regulatory systems with confidence within the common standards for transparency and non-discrimination established by a clear Community framework. The Regulation will also remove restrictions on Member State action that are imposed by Regulation (EEC) No 1191/69 and are now out of date.  The present situation is characterised by the absence of a common framework of Community rules; this could lead to the disruption of the system for regulating public transport in one or more Member States as the result of adverse court judgments.
+
+4.6 What forms of action are available to the Community (recommendation, financial support, regulation, mutual recognition, etc.)-
+
+The proposal is based, inter alia, on Article 89 of the Treaty, which leaves the Community no choice but to proceed by means of a regulation.  Neither financial support nor mutual recognition would be an appropriate way of achieving a minimum standard applicable across the Community.
+
+4.7 Is it necessary to have a uniform regulation or is a directive setting out the general objectives sufficient, leaving the implementation at the level of the Member States-
+
+To achieve the objectives of the proposal, the principles of transparency and non-discrimination which it aims to promote need to be simultaneously embodied in each of the different national regulatory frameworks in a clear, precise and compatible way. The Community has no choice but to proceed by means of a regulation (see 4.6) and a regulation is the appropriate way to achieve this. In any case the proposal establishes how the principles referred to should be applied to different regulatory mechanisms, without predetermining which of those mechanisms Member State authorities will deploy in each particular case.
+
+Annex
+
+Summary of current market organisation and regulatory arrangements for the operation of public passenger transport in the Community
+
+&gt;TABLE POSITION&gt;
+
+Main sources for the table:
+
+'Examination of Community law relating to the public service obligations and contracts in the field of inland passenger transport', NEA transport training and research, 1998.
+
+'The regulation of bus and coach services within the European Union', Colin Buchanan and Partners, Transport Research Institute, Napier University, Edinburgh, UK and Centro Studi Traffico, Milano, Italy, 1997.
+
+'A study into the organisation and operation of urban public transport in the 12 Member States', Halcrow Fox Consultancy, London, UK, 1994.
+
+2000/0212 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on action by Member States concerning public service requirements and the award of public service contracts in passenger transport by rail, road and inland waterway  (Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Articles 71 and 89 thereof,
+
+Having regard to the proposal from the Commission [25],
+
+[25]  OJ C
+
+Having regard to the opinion of the Economic and Social Committee [26],
+
+[26]  OJ C
+
+Having regard to the opinion of the Committee of the Regions [27],
+
+[27]  OJ C
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty,
+
+Whereas:
+
+(1) The development of the highest possible standards of public service in the provision of passenger transport by road, rail and inland waterway is one of the primary Community objectives under the Common Transport Policy.
+
+(2) Competent authorities in the Member States have recourse to three main mechanisms in pursuing this objective: the conclusion of public service contracts with operators, the granting of exclusive rights to operators and the laying down of minimum standards for public transport operation.
+
+(3) It is important to clarify the legal position of such mechanisms with respect to Community law.
+
+(4) In relation to inland transport, Article 73 of the Treaty refers to the discharge of certain obligations inherent in the concept of public service. Council Regulation (EEC) No 1191/69 of 26 June 1969 on action by Member States concerning the obligations inherent in the concept of a public service in transport by rail, road and inland waterway [28] establishes a Community regulatory framework for public passenger transport, implementing this Article of the Treaty and indicating how competent authorities in the Member States can ensure adequate transport services which contribute to sustainable development, social integration, environmental improvement and regional balance.
+
+[28]  OJ L 156, 28.6.1969 p. 1; Regulation as last amended by Regulation (EEC) No 1893/91 (OJ L 169, 29.6.1991, p. 1).
+
+(5) Many Member States have introduced legislation providing for the award of fixed-duration exclusive rights and public service contracts, in at least part of their public transport market, on the basis of open, transparent and fair award procedures. In the light of those developments, the application of Community rules on the freedom of establishment, and the application of Community public procurement rules, significant progress has been made towards Community/EEA-wide market access in public transport. As result, trade between Member States has substantially developed and several public transport operators are now providing services in more than one Member State.
+
+(6) However, the opening of the market on the basis of national legislation has led to disparities in the procedures applied and has created legal uncertainty as to the rights of operators and the duties of competent authorities.
+
+(7) Studies carried out on behalf of the Commission [29], and the experience of States where competition in the public transport sector has been in place for a number of years, show that, with appropriate safeguards, the introduction of regulated competition between Community operators in this sector leads to more attractive services at lower costs and is not likely to obstruct the performance of the specific tasks assigned to the operators.
+
+[29] 'Improved structure and organisation for urban transport operations of passengers in Europe' Isotope consortium, CEC, 1998; 'Examination of Community law relating to the public service obligations and contracts in the field of inland passenger transport', submitted to the European Commission by NEA Transport research and training, 1998.
+
+(8) It is important to update the Community legal framework in order to ensure the further development of competition in the provision of public passenger transport services and to take into account the new legal approaches which Member States have introduced in regulating the provision of public passenger transport services. This is in line with the conclusions of the European Council of Lisbon of 28 March 2000 where the Commission, Council and the Member States, each in accordance with their respective powers, were asked to 'speed up liberalisation in areas such as transport'.  The updating of  the Community legal framework will offer an opportunity to ensure that the smooth opening of the market is guaranteed at Community level and that basic elements of competitive procedures in all Member States are harmonised.
+
+(9) Article 16 of the Treaty establishes the need to ensure that services of general economic interest operate on the basis of principles and conditions which enable them to fulfil their missions. The development of competition should therefore be accompanied by Community rules that guarantee the protection of the general interest in terms of adequate quality and availability of public transport. In securing this general interest, it is important for consumers and interested parties to have at their disposal integrated information about the services available.
+
+(10) Freedom of establishment is a basic principle of the common transport policy and requires that operators of a Member State established in another Member State be guaranteed effective access to the public transport market of that State in a transparent way and without discrimination.
+
+(11) The Treaty lays down specific rules with regard to restrictions on competition. Article 86(1) of the Treaty, in particular, obliges the Member States to adhere to these rules with regard to public undertakings and undertakings which have been granted exclusive rights. Article 86(2) of the Treaty subjects undertakings entrusted with the operation of services of general economic interest to these rules, under specific conditions.
+
+(12) In order to ensure the application of the principle of non-discrimination and the equal treatment of competing operators, it is essential to define basic common procedures that must be followed by competent authorities in concluding public service contracts or laying down minimum criteria for public transport operation. According to the principles of Community law, competent authorities are required to apply mutual recognition of technical standards and proportionality of selection criteria in implementing these procedures. In accordance with the principle of subsidiarity, such basic common procedures should nevertheless leave it open for competent authorities in the Member States to conclude public service contracts or lay down minimum criteria for public transport operation in ways that take account of specific national or regional circumstances, whether legal or factual.
+
+(13) Studies and experience show that competitive tendering for public service contracts is an effective way of achieving the benefits of competition in terms of cost, efficiency and innovation without obstructing the performance of the specific tasks assigned to the operators in the general public interest.
+
+(14) Mandatory tendering rules for the conclusion of certain contracts are laid down by Council Directive 92/50/EEC of 18 June 1992 relating to the coordination of procedures for the award of public service contracts [30] and Directive 93/38/EEC of 14 June 1993 coordinating the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors [31]. Where such rules are applicable, those aspects of this Regulation that deal with the requirement for contracts to be tendered, and with the methods by which the selection of operators should be conducted, do not apply.
+
+[30]   OJ L 209, 24.7.1992, p. 1; Directive as last amended by Directive 97/52/EC (OJ L 328, 28.11.1997, p.  1).
+
+[31]  OJ L 199, 9.8.1993 p. 84; Directive as last amended by Directive 98/4/EC (OJ L 101, 1.4.1998, p. 1).
+
+(15) Tendering of public service contracts should not be compulsory where safety standards in the provision of rail services or the coordination of a metro or light rail network would be endangered. Interested parties should nevertheless have the opportunity to comment on plans to award contracts in this way, in time for their views to be taken into account. Where rail contracts awarded in this way are fully integrated with bus services, it should be possible for the bus services to be included in the same contract.
+
+(16) Tendering for public service contracts should also not be compulsory where the contract has a low value. This value should be higher for the tendering of a whole network than for the tendering of a part of a network or of a single route.
+
+(17) Taking into account the specific, commercially viable nature of certain parts of the public transport market, it should also be possible for competent authorities to facilitate new initiatives that arise from the market and that fill gaps not currently served by any operator, by granting an exclusive right to provide services on a particular route, where this is at the operator's request. It is not inappropriate for this grant to be made without tendering, provided that it is for a strictly limited period only and is not renewable.
+
+(18) Where authorities grant an exclusive right but where no direct financial compensation is involved, they should be able to grant it by means of a simplified procedure that nonetheless provides for non-discriminatory competition between operators.
+
+(19) It should be possible for authorities to compensate operators for the cost of complying with minimum criteria for public transport operation, provided that this compensation can be fairly calculated and is not at such a high level that it detracts from the pressure on operators to focus primarily on the requirements of passengers.
+
+(20) The provisions of this Regulation applicable to operators should also apply in those cases where public transport services are provided by a public administration which does not have a legal personality distinct from that of the public administration that is acting as the competent authority. Any other arrangement, by not applying these provisions to cases where the State acts in an entrepreneurial capacity, would not ensure the non-discriminatory application of Community law.
+
+(21) Studies and experience show that where services are provided under public service contracts whose duration is limited to five years, the performance of the specific tasks assigned to the operators need not be obstructed. To minimise the distortion of competition while protecting the quality of services, public service contracts should normally, therefore, be limited to this duration. However, longer periods may be necessary where the operator has to invest in infrastructure, railway rolling-stock or other vehicles that are tied to specific, geographically defined transport services and that have long payback periods.
+
+(22) In accordance with the principle of non-discrimination, competent authorities should ensure that public service contracts do not cover a wider geographical area than is required by the general interest - and in particular, by the need to provide integrated services to significant groups of passengers who habitually use more than one link in the public transport network during the same journey.
+
+(23) Where it is appropriate for competent authorities, in pursuing the general interest, to protect employees in situations where the conclusion of a public service contract may lead to a change of operator, they should have the power to require operators to apply the relevant provisions of Council Directive 77/187/EEC of 14 February 1977 on the approximation of the laws of the Member States relating to the safeguarding of employees' rights in the event of transfers of undertakings, businesses or parts of businesses [32].
+
+[32]   OJ L 61, 5.3.1977, p. 26; Directive as amended by Directive 98/50/EC (OJ L 201, 17.7.1998, p. 88).
+
+(24) It is necessary that the procedures introduced according to this Regulation are transparent and that appeals procedures against decisions of the competent authorities are in place. Authorities should also keep records of their decisions for a period of ten years, in line with the limitation period laid down in Article 15 of Council Regulation (EC) No 659/1999 on State aid procedures [33].
+
+[33]  OJ L 83, 27.3.1999, p. 1.
+
+(25) Regulation (EEC) No 1191/69 provides that operating costs and revenues, overheads, assets and liabilities relating to the fulfilment of public service requirements need to be accounted for separately. This requirement should be retained, in a modernised form, in particular to ensure that authorities obtain value for money from public expenditure and that payments made by way of compensation are not misused to distort competition.
+
+(26) Compensation payments which exceed the net costs incurred by an operator as a result of fulfilling a public service requirement are liable to be examined under Community rules on State aids. It is therefore appropriate for the Community to lay down rules establishing when compensation may be considered not to be excessive. Competitive tendering for the conclusion of contracts is an efficient way of ensuring that compensation is not excessive, provided that the results of the tendering reflect fair and realistic market conditions.
+
+(27) Regulation (EEC) No 1191/69 exempts compensation paid pursuant to its provisions from the State aid notification procedure laid down in Article 88(3) of the Treaty; this Regulation establishes new and detailed provisions, designed for the specific circumstances of the public passenger transport sector, including modernised requirements for separate accounting, to ensure that compensation is compatible with Community State aid rules; in addition, it establishes new detailed procedures permitting the Commission to monitor these payments. It is therefore appropriate to continue to exempt compensation paid pursuant to the provisions of this Regulation from the State aid notification procedure.
+
+(28) With a view to improving the operation of this Regulation in the light of experience, the Commission should report on the impact of Community legislation and the application of this Regulation.
+
+(29) As competent authorities in the Member States and operators will need time to adjust to the provisions of this Regulation, provision should be made for the use of transitional arrangements.
+
+(30) As a result of the Community's international obligations, access to the public transport markets of the Member States has, in some circumstances, been granted to certain third-country operators; this Regulation does not restrict this access.
+
+(31) Regulation (EEC) No 1191/69 is superseded by this Regulation and should therefore be repealed.
+
+(32) Council Regulation (EEC) No 1107/70 of 4 June 1970 on the grant of aid for transport by rail, road and inland waterway [34], includes a provision regarding reimbursement for the discharge of obligations arising from the provision of a public service. That provision, which expressly anticipates the entry into force of new Community rules, is now redundant and should be deleted,
+
+[34]   OJ L 130, 15.6.1970, p. 1; Regulation as last amended by Regulation (EC) No 543/97 (OJ L 84, 26.3.1997, p. 6).
+
+HAVE ADOPTED THIS REGULATION:
+
+CHAPTER I
+
+Scope and definitions
+
+Article 1 Scope
+
+This Regulation shall apply to national and international operation of public passenger transport by rail, road and inland waterway. It lays down the conditions under which competent authorities may compensate transport operators for the cost of fulfilling public service requirements and under which they may grant exclusive rights for the operation of public passenger transport, due regard being had to the pursuit of legitimate public service objectives within a framework of regulated competition.
+
+Article 2 Relationship to public procurement law
+
+This Regulation shall be without prejudice to the obligations on competent authorities which flow from Directives 92/50/EEC and 93/38/EEC.
+
+Where either of those Directives makes the tendering of a public service contract mandatory, Articles 6(1), 7, 8, 12 , 13(1), 13(2) and 14 of this Regulation shall not apply to the award of that contract.
+
+Article 3 Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) 'competent authority' means any State body with the power to intervene in public passenger transport markets, or any other body to which such a State power has been assigned;
+
+(b) 'direct award' means the award of a contract to a given operator following a procedure in which no other operator can participate;
+
+(c) 'exclusive right' means the entitlement on the part of an operator to operate a particular type of passenger transport services on a particular route or network or in a particular area, to the exclusion of other potential operators;
+
+(d) 'integrated services' means rail and bus services provided together, directly by an operator, under the terms of a single public service contract; by a single body of employees having the same contractual status; included in a single operating account; and having a single information service, ticketing scheme and timetable;
+
+(e) 'operator' means an undertaking that provides public passenger transport services and that is established under public or private law; or a part, which provides public passenger transport services, of a public administration;
+
+(f) 'payback period' of an asset for an operator means the period during which it is estimated, using appropriate discount rates, that the cost of the asset to the operator, net of any resale value, will exceed the net income that the operator will have received on account of the asset, in particular from passengers and from public authorities;
+
+(g) 'public passenger transport' means transport offered to the general public on a continuing basis;
+
+(h) 'public service contract' means any legally enforceable agreement between a competent authority and an operator for the fulfilment of public service requirements. For the purposes of this Regulation, a public service contract is also:
+
+(i) an agreement that is embodied in a legally enforceable decision, undertaken with an operator's prior consent, through which a competent authority entrusts the operator with the supply of services; or
+
+(ii) the terms that are attached to a decision taken by a competent authority, to entrust an operator forming part of the same public administration with the supply of services;
+
+(i) 'public service requirement' means a requirement adopted by a competent authority in order to secure adequate public passenger transport services;
+
+(j) 'value' of a public passenger transport service, route, contract, compensation scheme or market means the total remuneration, net of VAT, received by the operator or operators, including in particular financial compensation from the public sector and any income from passengers that is not passed on to the competent authority in question.
+
+CHAPTER II  Ensuring the quality of public passenger transport
+
+Article 4
+
+1. In applying this Regulation, competent authorities shall secure adequate public passenger transport services that are of high quality and availability, by concluding public service contracts in accordance with Chapter III or by laying down minimum criteria for public passenger transport operation in accordance with Chapter IV.
+
+2. In assessing the adequacy of public passenger transport services, in defining selection and award criteria, and in awarding public service contracts, competent authorities shall take into account at least the following criteria:
+
+(a) consumer protection factors including the accessibility of the services, in terms of their frequency, speed, punctuality, reliability, the extent of the network and the service information that is provided;
+
+(b) the level of tariffs for different groups of users and the transparency of tariffs;
+
+(c) integration between different transport services, including integration of information, ticketing, timetables, consumer rights and the use of interchanges;
+
+(d) accessibility for people with reduced mobility;
+
+(e) environmental factors, including local, national and international standards for the emission of air pollutants, noise and global warming gases;
+
+(f) the balanced development of regions;
+
+(g) the transport needs of people living in less densely populated areas;
+
+(h) passenger health and safety;
+
+(i) the qualifications of the staff; and
+
+(j) how complaints are handled, disputes between passengers and operators are resolved and service shortfalls are redressed.
+
+3. Operators of public passenger transport services shall make available, on request, complete and up to date information about the services' timetables, their tariffs and their accessibility for people with different types of mobility handicap. The only charge they shall make shall be to cover the marginal administrative cost of providing the information.
+
+CHAPTER III  Public service contracts
+
+Article 5 Compulsory use of public service contracts
+
+A public service contract shall be concluded for the payment of all financial compensation for the cost of complying with public service requirements, including compensation taking the form of the use of assets where such use will be charged below market rates, but excluding compensation paid for compliance with general rules for public passenger transport operation in accordance with Article 10.
+
+A public service contract shall also be concluded for the award of all exclusive rights.
+
+Article 6 Award of public service contracts
+
+Where public service contracts are granted under this Regulation, they shall comply with the following requirements:
+
+(a) Contracts shall be put out for competitive tender, except as provided for in Articles 7 and 8.
+
+(b) Contracts shall provide that the operator is responsible, at least, for the cost of supplying the services to which a public service contract relates, including in particular the costs of staffing; energy; and the maintenance and repair of vehicles and rolling-stock.
+
+(c) Contracts shall be limited in time and shall last for no longer than five years. However, the duration of the contract may take into account the payback period, where:
+
+(i) the contract makes the operator responsible for providing railway rolling-stock, other vehicles of a particularly technically advanced nature, or infrastructure, provided that such assets are tied to specific, geographically defined transport services; and
+
+(ii) those assets have a payback period for the operator that is longer than five years.
+
+In such cases, the contract shall also take into account the relative economic importance of the value of the assets in question in comparison with the total estimated value of the services covered by the contract.
+
+(d) Contracts shall require operators to furnish competent authorities, on an annual basis and separately for each route, with information on the services provided, the tariffs charged and the number of passengers carried and complaints received.
+
+Article 7 Direct award of public service contracts
+
+1. Competent authorities may decide, on a case-by-case basis and subject to paragraph 3, to directly award public service contracts for rail, metro or light rail services if national or international rail safety standards could not be met in any other way.
+
+2. Competent authorities may decide, on a case-by-case basis and subject to paragraph 3, to directly award public service contracts for metro or light rail services if any other arrangement would entail additional costs for maintaining coordination between the operator and the manager of the infrastructure, and if those costs would not be offset by additional benefits.
+
+3. Competent authorities intending to award a contract under the provisions of paragraph 1 or 2 above shall publish, at least one year beforehand and in accordance with Article 13, their preliminary decision to do so and the evidence and analysis on which they have based this preliminary decision.
+
+4. Where an operator, on the date on which this Regulation enters into force, directly provides integrated services, and where the conditions in paragraph 1 or 2 are fulfilled, the competent authority may include the operator's non-rail services, including bus services in the public service contract that will be directly awarded to the operator, provided that the Member State in question gives its approval and informs the Commission of this, with reasoned justification including appropriate comparative performance indicators.
+
+5. Competent authorities may decide, on a case-by-case basis, to directly award public service contracts for services with an estimated average annual value of less than EUR 400 000. If a competent authority incorporates all its public service requirements in a single public service contract, it may decide to directly award this public service contract provided that it has an estimated average annual value of less than EUR 800 000.
+
+No requirement for a given amount of services shall be split up in order to avoid tendering.
+
+6. If an operator proposes a new initiative that will provide a service where none exists, the competent authority may award the exclusive right to provide this new service directly to that operator, provided that the service will not be subject to financial compensation under the terms of any public service contract.
+
+No service may be the subject of the direct award of a public service contract under the terms of the first subparagraph more than once.
+
+Article 8 Award of public service contracts following quality comparison
+
+A competent authority may, without tendering, award a public service contract for a service that is limited to an individual route and that will not be subject to financial compensation under the terms of any public service contract, provided that:
+
+(a) a notice has been published inviting proposals; and
+
+(b) on that basis the authority has selected, by means of a comparison of the quality of the proposals received, the operator or operators that will provide the best service to the public.
+
+Article 9 Safeguards
+
+1. A competent authority may require the selected operator to award subcontracts, for a defined proportion of the services covered by the contract, to third parties to which it is not affiliated. This requirement to subcontract may not extend to more than half the value of the services covered by the contract.
+
+2. A competent authority may decide not to award public service contracts to any operator that would, as a consequence, have more than a quarter of the relevant market for public passenger transport services.
+
+3. Where a public service contract includes an exclusive right, the competent authority may require the selected operator to offer to staff previously engaged in providing the services the rights that they would have enjoyed if a transfer had occurred within the meaning of Directive 77/187/EEC. The authority shall list the staff and give details of their contractual rights.
+
+4. Competent authorities may require the selected operator to establish itself in the Member State in question, except where Community legislation adopted pursuant to Article 71 of the Treaty lays down the freedom to provide services. However, competent authorities awarding public service contracts shall not discriminate against potential operators established in other Member States on the grounds that they are not yet established in the Member State in question or have not yet been granted a licence to operate services.
+
+5. Where competent authorities apply any of the conditions in paragraphs 1 to 4, they shall inform potential operators of all the relevant details at the start of the public service contract award procedure.
+
+CHAPTER IV  Minimum criteria for public passenger transport operation
+
+Article 10
+
+Without prejudice to public service contracts concluded in accordance with Chapter III, competent authorities may lay down general rules or minimum criteria to be adhered to by all operators. Those rules or criteria shall be applied without discrimination to all transport services of a similar character in the geographical area for which the authority is responsible. Such general rules or minimum criteria may include compensation for the cost of complying with them, provided that:
+
+(a) if the rule or criterion limits tariffs, it does so only for certain categories of passengers;
+
+(b) in any one year, the amount of compensation for complying with general rules or minimum criteria that is received by any operator in the area covered by the rule or criterion in question shall be no more than one-fifth of the value of that operator's services in that area; and
+
+(c) compensation is available to all operators on a non-discriminatory basis.
+
+CHAPTER V  Procedural issues
+
+Article 11 Notification
+
+Compensation paid in accordance with this Regulation shall be exempt from the notification procedure laid down in Article 88(3) of the Treaty.
+
+Article 12 Award procedures
+
+1. The procedure adopted for competitive tendering or quality comparison shall be fair, open and non-discriminatory.
+
+2. The procedure shall include publication in accordance with Article 13.
+
+3. In the case of competitive tendering, the procedure shall include:
+
+(a) selection criteria, taking into account the criteria in Article 4(2), that define the authority's minimum requirements;
+
+(b) award criteria, taking into account the criteria in Article 4(2), that define the grounds on which the authority will choose among offers meeting the selection criteria; and
+
+(c) technical specifications setting out the public service requirements that the contract will cover and identifying any assets to be placed at the disposal of the successful tenderer with the relevant terms and conditions.
+
+There shall be an interval of at least 52 days between the despatch of the call for tenders and the latest date for receipt of tenders.
+
+4. Competent authorities shall include in the information which they supply to potential operators the relevant information they hold, under the terms of public service contracts, about operators' services, tariffs and numbers of passengers during the previous five years.
+
+Article 13 Transparency
+
+1. Notices, decisions and preliminary decisions made in accordance with this Regulation shall be published in an appropriate manner, stating, in the case of decisions and preliminary decisions, the reasons on which they are based.
+
+2. Competent authorities shall send to the Office for Official Publications of the European Communities, by the most appropriate channels, notices and decisions relating to public service contracts and compensation schemes having an estimated annual value of, respectively, EUR 400 000 or more, or EUR 800 000 or more, for publication in the Official Journal of the European Communities.
+
+The higher threshold value cited in the first subparagraph shall apply only if a competent authority has incorporated all its public service requirements in a single public service contract.
+
+3. Competent authorities shall make available, on request:
+
+(a)  the terms of any public service contracts they have awarded;
+
+(b) the terms of any general rules for public transport operation they have laid down; and
+
+(c) the information they hold, under the terms of public service contracts, about operators' services, tariffs and numbers of passengers.
+
+4. Authorities shall keep, for at least ten years, a record of every public service contract award procedure sufficient to permit them to justify their decisions at a later date. They shall make available, on request by interested parties, summaries of these records.
+
+5. Member States shall forward to the Commission, by the end of the month of March each year:
+
+(a)  a summary for the previous year of the number, estimated value and duration of the public service contracts that competent authorities have awarded, distinguishing between rail, bus and inland waterway services and between contracts awarded following tendering, quality comparison and direct award; and
+
+(b) a summary of the scope and content of the general rules or minimum criteria that were in force during the previous year and for which compensation was provided, and of the amount of compensation paid.
+
+Article 14 Appeals
+
+1. Member States shall ensure that operators and other interested parties have the right to appeal to a public body against decisions and preliminary decisions of competent authorities under this Regulation. This body shall be independent, in its organisation, funding, legal structure and decision-making, from any competent authority concerned and from any operator.
+
+2. Appeal bodies shall have the power to request relevant information from competent authorities, undertakings and any third party involved within the Member State concerned. This information shall be supplied without undue delay.
+
+3. Appeal bodies shall be required to determine any complaints and to take action to remedy the situation within a maximum period of two months from receipt of all information.
+
+4. Subject to paragraph 5, decisions of appeal bodies shall be binding on all parties covered by such decisions.
+
+5. Member States shall take measures necessary to ensure that decisions taken by appeal bodies are subject to judicial review.
+
+Article 15 Accounting provisions
+
+1. Services subject to public service contracts concluded with a particular competent authority shall be treated as a separate activity for accounting purposes and shall be operated as a separate accounting division, distinct from any other activities in which the undertaking engages, whether or not those activities are related to passenger transport.
+
+2. Each accounting division shall meet the following conditions:
+
+(a) the operating accounts shall be separate;
+
+(b) the proportions of overheads, assets and liabilities pertaining to each activity shall be attributed according to their actual use;
+
+(c) the cost accounting principles according to which separate accounts are maintained shall be clearly established;
+
+(d) for each activity, expenditure shall be balanced by operating revenue from the services in question and payments from public authorities in compensation for the cost of fulfilling the public service requirements in question, without any possibility of transfer to another activity.
+
+3. Operators receiving compensation for compliance with minimum criteria for transport operation in accordance with Article 10 shall, in their accounts, identify separately the costs they incur in complying with the general rule or criteria in question; the additional revenue they earn as a result of complying with the rule or criteria; and the compensation paid. The compensation paid and the additional revenue earned shall balance the costs incurred, without any possibility of transfer to an activity not subject to the rule or criteria in question.
+
+CHAPTER VI  Final provisions
+
+Article 16 Compensation
+
+Except in the case of public service contracts awarded through competitive tendering, competent authorities shall on no account provide more compensation or apply less stringent procedures than are required by the rules in Annex I.
+
+Article 17  Transitional measures
+
+1. Member States shall take the necessary measures to ensure that schemes, contracts or arrangements implemented otherwise than in compliance with the provisions of this Regulation cease to be valid within three years of its entry into force.
+
+2. Where an operator, on the date on which this Regulation enters into force, is required by the terms of a public service contract to invest in rail infrastructure, and where the payback period of this infrastructure still has more than three years to run, the competent authority may add up to three years to the transitional period of three years fixed in paragraph 1, taking into account this payback period and the relative economic importance of the assets in question in comparison with the total estimated value of the services covered by the contract.
+
+3. Until the date on which the schemes, contracts and arrangements referred to in paragraphs 1 and 2 cease to be valid, each of them shall continue to be subject to those provisions of Regulation (EEC) No 1191/69 that applied to it before this Regulation entered into force.
+
+Article 18 Operators from countries listed in Annex II
+
+For the purposes of this Regulation and without prejudice to Article 9(4), operators from the countries listed in Annex II shall be treated as Community companies, in accordance with the terms and conditions of the agreement between each such country and the Community. The Commission shall update the Annex, as changes in the Community's international obligations require, by publishing a notice in the "L" series of the Official Journal of the European Communities.
+
+Article 19 Monitoring by Commission
+
+1. Member States shall consult the Commission on any laws, regulations or administrative provisions that are necessary for the iplementation of this Regulation.
+
+2. The Commission shall prepare a report within five years of its entry into force on how this Regulation has been applied in the Member States, and the consequences for passengers, and shall propose amendments to the Regulation if necessary. The report shall include an examination of the operation of the exemption established in Article 7(4).
+
+Article 20 Repeal and amendment
+
+1. Regulation (EEC) No 1191/69 is repealed.
+
+2. Article 3(2) of Regulation (EEC) No 1107/70 is deleted.
+
+Article 21 Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+ANNEX I
+
+Rules governing compensation in the absence of competitive tendering
+
+1. Where a competent authority compensates an operator financially for fulfilling a public service requirement in accordance with this Regulation, and where the compensation is not derived from a public service contract awarded by competitive tendering, the amount of this compensation shall not exceed the net financial effect of fulfilling the public service requirement as calculated in accordance with the rules in this Annex.
+
+2. The net financial effect shall be the sum of:
+
+(i) the effects of fulfilling the public service requirement on the operator's expenditure (costs avoided minus extra expenditure incurred); and
+
+(ii) the effects of fulfilling the public service requirement on the operator's income (extra income earned minus income foregone).
+
+3. The net financial effect shall be determined taking into account the effects of fulfilling the public service requirement on the operator's activities as a whole.
+
+4. The net financial effect shall be calculated by comparing the situation in which the public service requirement is fulfilled with the situation that would have occurred if the requirement had not been fulfilled and the operation of the services affected by the requirement had instead been determined on a commercial basis.
+
+5. For the situation that would have occurred if the public service requirement had not been fulfilled (the benchmark case) estimates of tariff rates, passenger figures, and costs should be calculated.
+
+6. The benchmark case may be calculated:
+
+(i) by using data on the situation before the operator began to fulfil the public service requirement, if circumstances have not changed to a degree that makes it an unreliable guide to present-day tariff rates, passenger figures, and costs; or
+
+(ii) by comparison with data for comparable services that are operated on a commercial basis; or
+
+(iii) by estimating costs and demand for the services.
+
+The calculation of the benchmark case should take due consideration of trends affecting the relevant transport market.
+
+7. Calculation of the effects on revenues of fulfilling a public service requirement shall take into account, in particular, changes in tariffs and in passenger figures. The calculation shall take into account the effect of fulfilling the requirement, and the resulting changes in the quality, quantity and price of services supplied, on the demand for transport services. This assessment shall not be limited to the impact on the segment of the network on which the requirement is directly fulfilled, but shall include effects on other parts of the network.
+
+8. Calculation of the effects on costs of fulfilling a public service requirement shall be analogous to the calculation of the effects on revenues. Where the requirement covers only some of the services that an operator provides, joint costs such as overheads shall be allocated between these services and the others in proportion to the value of each set of services.
+
+9. Costs resulting from the fulfilment of public service requirements shall be calculated on the basis of efficient management of the operator and the provision of transport services of an adequate quality.
+
+The amount of compensation shall be fixed in advance for the duration of the contract or compensation scheme, with the exception that the contract or scheme may provide for the amount of compensation to be adjusted based on predetermined factors. Compensation amounts shall in any case remain fixed for a period of at least one year.
+
+Compensation for complying with public service requirements may only be given where the operator in question, if it were considering its own commercial interests, would not, in the absence of this compensation, fulfil the requirement or would not fulfil it to the same extent or under the same conditions.
+
+ANNEX II
+
+Countries from which operators shall be treated as Community companies for the purposes of this Regulation in accordance with Article 18:
+
+Bulgaria, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovakia, Slovenia.

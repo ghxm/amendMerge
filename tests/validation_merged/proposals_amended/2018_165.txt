@@ -1,0 +1,807 @@
+COM_2018_0331_FIN.ENG.xhtml.1_EN_ACT_part1_v7.docx
+
+EUROPEAN COMMISSION
+
+Brussels, 24.5.2018
+
+COM(2018) 331 final
+
+2018/0165(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets
+
+(Text with EEA relevance)
+
+{SEC(2018) 247 final}
+
+{SWD(2018) 243 final}
+
+{SWD(2018) 244 final}
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+•
+
+Reasons for and objectives of the proposal
+
+Broadening access to market-based sources of financing for European companies at each stage of their development is at the heart of the Capital Markets Union (CMU). Since the launch of the Capital Markets Union Action Plan, the EU has made considerable progress to increase the sources of funding as firms gradually scale up, and make market-based finance more widely available across the EU. New rules are already in place to boost EU venture capital funds’ (EuVECA) investment in start-ups and medium-sized companies. Together with the European Investment Fund, the Commission has also launched a Pan-European Venture Capital Funds-of-Funds programme (VentureEU) to boost investment in innovative start-up and scale-up companies across Europe. New rules on prospectuses have already been adopted to support companies raising money on public markets for equity and debt. For small companies and mid-caps wishing to raise money across the EU, a new EU growth prospectus is being created. In addition, to increase access to finance for start-ups and entrepreneurs, the Commission has proposed a European label for investment-based and lending-based crowdfunding platforms ('European Crowdfunding Service Providers for Business').
+
+However, more needs to be done to develop a more conducive regulatory framework supporting access to public funding
+
+for Small and Mid-sized Enterprises (
+
+SMEs). This should be achieved in particular by promoting the SME Growth Market label created by the Markets in Financial Instrument Directive II (MiFID II)
+
+and striking the right balance between investor protection and market integrity on the one hand, and avoiding unnecessary administrative burdens on the other.
+
+In the Mid-term Review of the Capital Markets Union Action Plan
+
+of June 2017, the Commission strengthened the focus on SME access to public markets. In this context, the Commission committed to publishing
+
+'an impact assessment that will explore whether targeted amendments to relevant EU legislation could deliver a more proportionate regulatory environment to support SME listing on public markets'
+
+.
+
+Newly listed Small and Mid-sized Enterprises (SMEs) are a key motor of investment and job creation. Recently listed companies often outstrip privately-owned companies in terms of annual growth and workforce increase. Listed companies are less dependent on bank financing and benefit from a more diversified investment-base, easier access to additional equity capital and debt finance (through secondary offers), and a higher public profile and brand recognition.
+
+However, despite the benefits, EU public markets for SMEs are struggling to attract new issuers. The number of Initial Public Offerings on SME-dedicated markets steeply declined in the European Union in the wake of the crisis, and did not significantly pick up since. As a result, Europe is producing only half of the SME Initial Public Offerings that it generated before the financial crisis (478 Initial Public Offerings on average per year in 2006-2007 vs. 218 between 2009 and 2017 on EU SME MTFs). Between 2006 and 2007, an average of EUR 13.8 billion was raised annually on European SME-dedicated MTFs through Initial Public Offerings. This amount fell to EUR 2.55 billion on average from 2009 to 2017.
+
+There are many factors driving SMEs' decision to go public and investors' decision to invest in SME financial instruments. The impact assessment
+
+shows that public markets for SMEs face two groups of regulatory challenges: (i) on the supply side, issuers face high compliance costs to list on public markets; (ii) on the demand side, insufficient liquidity can weigh on issuers (due to higher costs of capital), on investors (that can be reluctant to invest in SME in the first place due to low liquidity levels and related volatility risks) and on market intermediaries (whose business models rely on customers order flow in liquid markets).
+
+Scope of the initiative: SME Growth Markets
+
+This initiative is strictly confined to SME Growth Markets
+
+and companies listed on those trading venues. SME Growth Markets are a new category of multilateral trading venues (MTFs) that were introduced by the Markets in Financial Instruments Directive II in January 2018.
+
+When assessing whether SME issuers admitted to trading on regulated markets should benefit from equivalent regulatory alleviations, the decision was made to limit the beneficiaries of the relief to issuers admitted to trading on SME Growth Markets.
+
+Requirements imposed on regulated market issuers should apply in a similar way regardless of the size of the company. Different requirements for SMEs compared to large caps are likely to confuse stakeholders (in particular investors).
+
+Current regulatory context
+
+Companies listed on an SME Growth Market are required to comply with some EU rules, especially the Market Abuse Regulation
+
+(MAR) and the Prospectus Regulation
+
+.
+
+Since its entry into application on 1 July 2016,
+
+the
+
+Market Abuse Regulation
+
+has been extended to MTFs, including SME Growth Markets. This regulation aims
+
+to increase market integrity and investor confidence. It prohibits from: (i) engaging or attempting to engage in insider dealing; (ii) recommending that another person engage in insider dealing or induce another person to engage in insider dealing; (iii) unlawfully disclosing inside information
+
+; or (iv) engaging in or attempting to engage in market manipulation. Issuers are also subject to several disclosure and record-keeping obligations under the regulation. In particular, concerned issuers are under a general obligation to disclose inside information to the public as soon as possible. By strengthening market integrity and by extending the market abuse regime to MTFs, the Market Abuse Regulation was crucial in restoring investor confidence in financial markets.
+
+However, this piece of legislation is a 'one-size-fits-all' regulation. Almost all its requirements apply in the same manner to all issuers irrespective of their size or the trading venues where their financial instruments are admitted to trading. The regulation contains only two limited adaptations to issuers listed on SME Growth Markets. The first allows trading venues operating an SME Growth Market to post inside information on the trading venue's website (instead of the issuer's website). The second allows issuers listed on SME Growth Markets to produce insider lists only upon request from a national competent authority (NCA). However, the effect of this alleviation is limited because companies are still required to gather and store all relevant information to be able to produce insider lists on request.
+
+A prospectus is a legally required document presenting information about a company when securities are offered to the public or admitted to trading on a regulated market. Under the CMU Action Plan, the European Union has already made it easier and cheaper for smaller companies to access public markets, notably with the creation of the alleviated 'EU Growth Prospectus' in the revised Prospectus Regulation. An issuer may seek an admission to trading on a regulated market after having floated its shares on an SME Growth Market for a few years. It may do so to benefit from greater liquidity and a larger investor pool. However, if that issuer wants to transfer its shares from an SME Growth Market to a regulated market, it needs to produce a full prospectus as no alleviated prospectus schedule is available for companies in such a situation.
+
+The take-up of the SME Growth Market 'brand' is constrained by the limited number of alleviations currently envisaged in EU legislation for the issuers listed on this new type of trading venues. The overall objectives of this initiative is therefore to introduce technical adjustments to the EU rulebook in order to: (i) reduce the administrative burden and the regulatory compliance costs faced by SMEs when their financial instruments are admitted to trading on an SME Growth Market, while ensuring a high level of investor protection and market integrity; and (ii) increase the liquidity of equity instruments listed on SME Growth Markets.
+
+These targeted regulatory changes foreseen in this proposal will not fully revive access to public markets for SMEs on their own. Nevertheless, they address regulatory barriers flagged by various stakeholders as inhibiting capital-raising by SMEs on public markets. They do so
+
+whilst preserving the highest standards of investor protection and market integrity
+
+. Any changes should therefore be understood as a first step in the right direction, and not as a single remedy in itself. Besides, this proposal for a Regulation is not an overhaul of the Market Abuse Regulation (which has been into application for less than two years) or the Prospectus Regulation (which has been recently agreed by the co-legislators and which will enter into application as of July 2019). This proposal (together with the modifications envisaged in the Commission Delegated Regulation (EU) 2017/565) only brings technical amendments to make the EU legal framework applying to listed SMEs more proportionate. It will ensure that the 'SME Growth Market' label, created by MiFID II as of January 2018, is used by the various MTFs with a focus on SMEs across the EU.
+
+•
+
+Consistency with existing policy provisions in the policy area
+
+This initiative is consistent with the existing legal framework. MiFID II states that the objective of SME Growth Markets should be to
+
+'to facilitate access to capital for smaller and medium-sized enterprises'
+
+and that
+
+'Attention should be focused on how future regulation should further foster and promote the use of that market so as to make it attractive for investors, and provide a lessening of administrative burdens and further incentives for SMEs to access capital markets through SME Growth Markets'
+
+. Recitals 6 and 55 of the Market Abuse Regulation explicitly call for administrative cost alleviations for smaller issuers listed on SME Growth Markets.
+
+Several EU Acts already include specific provisions for this new form of trading venues, such as the recent Prospectus Regulation
+
+and the Central Securities Depositaries Regulation (CSDR)
+
+. The objectives of these provisions are to lower the administrative burden placed on SME Growth Market issuers and to enhance liquidity of financial instruments traded on those markets.
+
+As the costs of drawing up a prospectus can be disproportionately high for SMEs, the Prospectus Regulation has introduced an alleviated 'EU Growth Prospectus'. It is notably available to SMEs traded on an SME Growth Markets and to non-SMEs with a market capitalisation of less than EUR 500 million whose securities are traded on an SME Growth Market
+
+. In addition,
+
+issuers that have had securities already admitted to trading on an SME Growth Market continuously for at least the last 18 months will be able to benefit from a simplified disclosure regime for secondary issuances
+
+.
+
+CSDR imposes a mandatory buy-in process on any financial instrument which has not been delivered within a set period from the intended settlement date (i.e. two days after trading, so called 'T+2' rule). At the same time, CSDR includes rules adapted to the specificities of SME Growth Markets. The buy-in process is triggered after a period of up to 15 days for transactions on SME Growth Markets, compared to up to four days for liquid securities and up to seven days for other illiquid securities. Those specific rules for SME Growth Market financial instruments were introduced to
+
+'take into account the liquidity of such markets and to allow, in particular, for activity by market-makers in those less liquid markets'
+
+.
+
+This proposal for a regulation is therefore consistent with the above-mentioned existing EU regulations, as it aims to alleviate the burden on SME Growth Markets and promote liquidity in equity instruments admitted to trading on those trading venues.
+
+This proposal for a Regulation is also coherent with some envisaged amendments to the delegated Commission Delegated Regulation (EU) 2017/565 for the purpose of Directive 2014/65/EU (MiFID II). These amendments were also included in the same impact assessment and aim at: (i) modifying the definition of a non-equity SME issuer on an SME Growth Market; (ii) making the obligation for non-equity SME Growth Market issuers to produce a half-yearly report optional; (iii) imposing a free float requirement on issuers seeking an admission to trading on an SME Growth Market. Those measures will: (i) increase the number of debt-only issuers that would qualify as SMEs, which would in turn enable more MTFs to register as SME Growth Markets and issuers on these markets to benefit from alleviated regulatory requirements; (ii) allow market operators to better adapt their listing rules to local conditions; and (iii) ensure that shares listed on SME Growth Markets are not too illiquid at the admission stage.
+
+•
+
+Consistency with other Union policies
+
+This legislative proposal aims to complement the objectives of the Capital Markets Union to reduce the overreliance on bank funding and diversifying market-based sources of financing for European companies. Since the publication of the Capital Markets Union Action Plan in 2015, the Commission has implemented a comprehensive package of legislative and non-
+
+legislative measures to scale up Venture Capital financing in Europe. These include the creation of a venture capital fund-of-funds supported by the EU budget and the review of the regulation on European Venture Capital Funds (EuVECA) and European Social Entrepreneurship Funds (EuSEF)
+
+. In particular, the review expanded the ability of EuVECA funds to invest in SMEs listed on SME Growth Markets.
+
+In March 2018, as part of its
+
+Fintech Action Plan
+
+, the European Commission presented a
+
+proposal for a regulation on crowdfunding service providers
+
+. Once agreed at EU level, the new regulation will allow platforms to apply for an EU passport based on a single set of rules. This will make it easier for them to offer their services across the EU. While the European market for crowdfunding is underdeveloped compared to other major world economies, these new rules should improve access to this innovative form of finance for small investors and businesses in need of funding, particularly start-ups and help the EU market grow more rapidly.
+
+In the context of the Capital Markets Union the Commission is also promoting private placement markets, which enable companies to raise capital by issuing debt instruments to institutional or other experienced investors. A recent study on
+
+'
+
+Identifying market and regulatory obstacles to the development of private placement of debt in the EU'
+
+(carried out on behalf of the Commission) showed that the market sounding regime under the Market Abuse Regulation can impede the development of this source of financing across the EU. This regulatory obstacle deters both institutional investors and issuers from entering into negotiations for such transactions.
+
+By making it easier for companies to list on SME Growth Markets, this initiative will contribute to facilitating capital-raising by European companies. It will help build a funding escalator that provides diversified funding channels for firms at each stage of their development. Vibrant public markets are essential to complete the above-mentioned actions of the Capital Markets Union. Dynamic public markets for small and mid-capitalisation firms can foster the development of private equity and venture capital, by providing smooth exit opportunities. Without this possibility to exit their investments, venture capital and private equity funds will be less willing to lock in their money during the growth period of a company. Public equity markets for SMEs can also stimulate equity crowdfunding investments. Like venture capitalists, equity crowdfunding investors also seek an exit for their investment and therefore require well-functioning and liquid equity markets to be used as exit-routes for the growth companies they back at an earlier stage. This initiative also aims at removing the regulatory hurdles resulting from the application of the market sounding regime under the Market Abuse Regulation to the private placements of bonds with institutional investors by listed SMEs.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+•
+
+Legal basis
+
+The legal basis of the Market Abuse Regulation and of the Prospectus Regulation is Article 114
+
+of the Treaty on the Functioning of the European Union (TFEU) which confers to the European institutions the competence to lay down appropriate provisions that have as their objective the establishment and functioning of the single market. Those Regulations can only be amended by the Union legislator, in this case on the basis of Article 114 of the Treaty.
+
+Under Article 4 of TFEU, EU action for completing the internal market has to be appraised in light of the subsidiarity principle set out in Article 5(3) of the Treaty on European Union. According to the principle of subsidiarity, action on EU level should be taken only when the objectives of the proposed action cannot be achieved sufficiently by Member States alone and thus mandates action on an EU level.
+
+•
+
+Subsidiarity (for non-exclusive competence)
+
+Under Article 4 of TFEU, EU action for completing the internal market has to be appraised in light of the subsidiarity principle set out in Article 5(3) of the Treaty on European Union. According to the principle of subsidiarity, action at EU level should be taken only when the objectives of the proposed action cannot be achieved sufficiently by Member States alone and thus mandate action on an EU level.
+
+It has to be assessed whether the issues at stake have transnational aspects and whether the objectives of the proposed actions cannot be sufficiently achieved by Member States in the framework of their national constitutional system (the so-called
+
+'necessity test'
+
+). In this regard, it should be noted that MTFs with a focus on SMEs (and potential SME Growth Markets) are more local in nature compared to regulated markets. At the same time, these trading venues have a clear cross-border dimension, both because investors may invest in trading venues outside their Member States of origin and because issuers often list their shares or bonds on a trading venue located in another Member State.
+
+The first objective of this initiative is to remove undue administrative burden to enable SMEs to have easier access to public markets for shares and bonds and thereby diversify their sources of capital coming from anywhere in the EU (while preserving a high level of market integrity and investor protection). The second objective is to increase the liquidity of shares issued by SME Growth Market issuers. Achieving these objectives will result in increased cross-border flows of capital and ultimately in economic growth and job creation in all EU Member States.
+
+Administrative requirements placed on SMEs result from the application of the Market Abuse Regulation and the Prospectus Regulation. Those European regulations have direct binding legal force throughout all Member States. They
+
+leave almost no flexibility for Member Stat
+
+es to adapt the rules
+
+to local conditions or to the size of issuers or investments firms
+
+. The problems arising from those provisions can only be effectively addressed via legislative amendments at the European level
+
+. The possible alternatives, i.e. non-legislative action at Union level (e.g. guidelines by the European Securities and Markets Authority, and action at
+
+Member State level) could not sufficiently and effectively achieve the objective set, as they could not amend the provisions of the Regulations.
+
+The liquidity of SME financial instruments (especially shares) is also hindered by regulatory shortcomings stemming from the Market Abuse Regulation. In particular, this regulation requires Member States to establish an Accepted Market Practice in order to allow issuers located in their jurisdictions to enter into a liquidity provision contract with a broker. Only four Member States have already established an Accepted Market Practice, which means that issuers in 24 Member States do not have this possibility. This fragments the Single Market and creates a distortion of competition between issuers who have the right to enter into a liquidity contract and those which do not have this possibility. Limited trading may cause investors to have a negative perception of the liquidity of shares listed on SME Growth Markets and could impair the credibility and attractiveness of those newly-created trading venues. Action is needed at EU level to ensure that the identified regulatory issues resulting from EU rules are adequately tackled and that liquidity can be increased on those markets.
+
+It has to be considered whether the objectives would be better achieved by action at European level (the so-called 'test of European added-value'). By its scale, EU action could reduce the administrative burden for SME issuers while at the same time ensuring a level-playing field among issuers. It avoids distortions of competition among SME Growth Markets and safeguards a high level of investor protection and market integrity.
+
+As regards the regulatory obstacles impairing liquidity provision, action at national level would result in legal fragmentation and may lead to distortions in competition of SME Growth Markets across Member States. Action at the European level is better suited to ensure uniformity and legal certainty. This will help to efficiently achieve the objectives of the Markets in Financial Instruments Directive II (and notably the creation of SME Growth Markets) and will better facilitate cross-border investments and competition between exchanges, whilst safeguarding the orderly functioning of markets.
+
+•
+
+Proportionality
+
+The proposed measures to lighten the burden on listed SMEs respect the principle of proportionality. They are adequate for reaching the objectives and do not go beyond what is necessary. When the Market Abuse Regulation provides an option to Member States to alleviate the burden on issuers (e.g. under Article 19(9), National Competent Authorities can decide to raise the threshold above which the managers' transactions shall be disclosed to the public from EUR 5,000 to EUR 20,000), the Commission has decided not to legislate in order to leave flexibility to Member States to adapt this requirement to local conditions. Where there is no flexibility to adapt the Market Abuse Regulation to local conditions, a legislative action at EU level is absolutely needed in order to reduce the administrative burden placed on SME Growth Market issuers.
+
+The measure aiming at improving liquidity (the creation of a 29
+
+th
+
+regime on liquidity contracts for SME Growth Market issuers – see
+
+infra
+
+detailed explanation of the specific provisions of the proposal
+
+) strikes a balance between establishing pan-European standards on liquidity contracts while at the same time leaving flexibility to Member States to adopt an accepted market practice on liquidity contracts (e.g. to extend the scope of liquidity contracts to illiquid securities other than SME Growth Market shares or to tailor requirements of such contracts to local specificities).
+
+•
+
+Choice of the instrument
+
+The proposed legislative amendments aim in particular at lowering the administrative burden and compliance costs faced by SME Growth Market issuers and resulting from the application of the Market Abuse Regulation and the Prospectus Regulation. This initiative also seeks to promote liquidity by ensuring that any SME Growth Market issuer in the EU can enter into a liquidity provision contract.
+
+To this end, the legislative measures will amend the current provisions of the Market Abuse Regulation and the Prospectus Regulation. As many of the necessary amendments would be minor changes to existing legal texts they can be summarised in an Omnibus Regulation. The legal basis for the Prospectus and the Market Abuse Regulation Regulations is Article 114(1) TFEU. Any amending regulation has therefore the same legal basis.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+•
+
+Stakeholder consultations
+
+(a)
+
+Public consultation on 'Building a proportionate regulatory environment to support SME listing'
+
+On 18 December 2017, the Commission services launched a public consultation on SME listing. It focused on three main areas: (1.) how to complement the SME Growth Market concept created by MiFID II; (2.) how to alleviate the burden on companies listed on SME Growth Markets; and (3.) how to foster the ecosystems surrounding local stock exchanges, in particular with a view to improving liquidity of shares listed on those trading venues. The Commission received 71 responses, sent by stakeholders from 18 Member States
+
+.
+
+When asked why few SMEs seek a listing on European public markets, many stakeholders mentioned the administrative burden placed on SMEs by market abuse, transparency and disclosure rules. The Market Abuse Regulation was described as difficult to interpret, thus hindering SMEs' compliance to European legislation.
+
+Most stakeholders also identified the managers' transactions regime as very burdensome and costly, arguing in favour of extending the delay to notify transactions, increasing the threshold after which transactions need to be notified, and putting the responsibility to disclose managers' transactions to the public on their National Competent Authority. On the approach towards insider lists, the vast majority of the respondents agreed that the requirement was onerous and burdensome – albeit necessary. On average, they were in favour of requiring issuers either to submit insider lists only upon request by the National Competent Authority, or to only maintain a list of 'permanent insiders'. Only a small minority argued in favour of fully exempting SME Growth Market issuers from keeping insider lists. Out of the few stakeholders who expressed an opinion on the justification of the delay to communicate inside information, a majority were in favour of requiring issuers to submit the justification only upon request by the National Competent Authority, and to exempt them from the obligation of keeping a disclosure record. Again only considering those having expressed an opinion, a clear majority of stakeholders were in favour of exempting private placement of bonds on SME Growth Markets from market sounding rules when investors are involved in the negotiations of the issuance.
+
+Among those who expressed an opinion, a large majority of respondents believed that alleviations should be granted to all companies listed on SME Growth Markets. It was argued that the “one market, one uniform set of rules” principle was necessary to ensure clarity and take-up for investors, issuers and financial intermediaries alike. Nevertheless, a few trading venues and issuer representatives argued that regulatory alleviations should be granted to all SMEs, regardless of whether they are listed on a multilateral trading facility or a regulated market.
+
+A majority of stakeholders were against setting rules on a mandatory transfer of issuers from an SME Growth Market to a regulated market, arguing instead that the transfer to a regulated market should always be left to the discretion of the issuer. Nevertheless, a few believed that transfers of listing should be facilitated through appropriate regulatory incentives, aimed at reducing the administrative burden and cost of listing on a regulated market. Different stakeholders mentioned that such an incentive could take the form of a prospectus exemption or an alleviated prospectus when an issuer moves from an SME Growth Market to a regulated market. As regards the measures aimed at enhancing liquidity, market participants widely acknowledged the benefits of liquidity contracts. Among the stakeholders who expressed an opinion, a larger number agreed that there would be merits in creating an EU framework, although many insisted on the need to maintain flexibility for such contracts to be adapted to local conditions. A few National Competent Authorities feared that such practices could give rise to manipulative pricing behaviours. Other NCAs however saw no ground for concerns, as long as the framework would be calibrated to prevent manipulative behaviours as under currently existing Accepted Market Practices.
+
+(b)
+
+CMU Mid-term review
+
+On 20 January 2017, Commission services launched a public consultation on the Capital Markets Union Mid-term Review. Many respondents called for a proportionate review of the different obligations placed on non-financial issuers, especially SMEs. Those obligations were considered to be too burdensome and to deter these issuers from seeking a listing.
+
+As regards the legal framework applying to listed companies, respondents criticised different aspects of the Markets Abuse Regulation. For instance, rules concerning managers' transactions as well as insider lists were criticised for being too burdensome for companies listed on multilateral trading facilities. The definition of inside information was considered too complex and would lead to the risk of an anticipated and premature disclosure of information by listed issuers. Some respondents considered that the scope of 'market soundings' rules under the Market Abuse Regulation was too wide and that many market participants would be reluctant to be tested in the context of a market sounding due to the legal risk they could bear. Other respondents considered that the extension of the Market Abuse Regulation to companies listed on multilateral trading facilities made access to public markets more expensive, because of the direct costs of monitoring and disseminating inside information.
+
+(c)
+
+Call for evidence: EU regulatory framework for financial services
+
+On 30 September 2015, the Commission services launched a Call for Evidence aimed at improving the quality of the current regulatory framework in financial services, including those that would be directly impacted by CMU actions. In the Call for Evidence, respondents broadly supported the reforms to capital market regulation. They however expressed concerns about how the market abuse, prospectus and securities market legislation affect market financing for SMEs.
+
+Concerning the market abuse regime and SME Growth Markets, some respondents argued that the market abuse regime placed a high burden on issuers in SME growth markets, which might ultimately result in less activity and thus reduced financing for SMEs. Particular concerns related to the widening of scope of issuers' duties under the regime to companies listed on MTFs, such as providing insider lists and notifying managers' transactions.
+
+•
+
+Collection and use of expertise
+
+On 14 November 2017, Commission services organised a technical workshop with approximately 25 securities exchange representatives, from 27 Member States. The aim of the workshop was to discuss technical provisions and potential alleviations to the regulatory framework on SME access to public markets, in preparation of the 2017 public consultation on "Building a proportionate regulatory environment to support SME listing".
+
+A majority of participants contended that the Market Abuse Regulation had created costly obligations for SME issuers and imposed stringent requirements, despite the important role it plays towards investor confidence. Respondents cited the nature of inside information and the level of detail required to disclose such information as reasons to this burden. The difficulty to clearly identify what to consider inside information was mentioned as problematic by some participants. Few other stakeholders criticised that sanctions applicable under the Market Abuse Regulation were not proportionate to the companies listed on multilateral trading facilities, which often have a market capitalisation of less than EUR 10 million. Regarding insider lists, a couple of participants highlighted that the exemption introduced for SME Growth Markets was not meaningful, as issuers would still be required to provide insider lists ex-post and have processes in place to do so. Many stakeholders complained about the strict deadlines given to managers to notify their transactions, arguing that the three-day timeframe should be extended to five days or that two extra days should be granted to the issuers to disclose such information. Some of them also explained that managers' transactions should only be notified when significant, i.e. with a value higher than the current threshold (EUR 5,000). Three trading venues also agreed that the rules of the Market Abuse Regulation should not apply equally to equity issuers and to the ones issuing only debt instruments. Finally, a participant explained that, as most SME bonds are privately placed, the exemption from rules on market soundings for private placements would represent a real alleviation.
+
+It was mentioned that market participants would welcome more clarity on liquidity provision contracts, considering their importance for both brokers and companies. A few stakeholders explained that Accepted Market Practices on liquidity provision should not be removed, advocating for legal certainty on the issue.
+
+On 28 November 2017, Commission services also organised a technical workshop gathering approximately 30 representatives of issuers, investors, brokers and other financial intermediaries.
+
+The great majority of stakeholders agreed that the application of the Market Abuse Regulation imposes significant costs on SMEs. Some of them suggested that the Market Abuse Regulation should be abandoned altogether on SME-dedicated markets, or that legislation should go back to the previous the Market Abuse Regulation regime, as the new regime often leads to companies trying to delist their shares from the market. Stakeholders remarked that the exemption provided by the Market Abuse Regulation from keeping and updating an insider list is of limited value, as a company could be still asked by the National Competent Authority to provide an overwhelming quantity of information, which is hardly manageable for smaller issuers. Some participants did point out that insider trading is a great risk and potentially detrimental to investor confidence. Therefore maintaining at least the permanent section of the insider list could appear as a balanced approach. With regard to managers' transactions, it was stated by many that extending the three-day timeframe to notify the market would not endanger investor protection. Few stakeholders stated that EUR 20,000 would represent a more proportionate threshold for the disclosure of managers' transactions, although it could be increased even further without compromising market integrity. Others argued that requiring the National Competent Authority to make managers' transaction public would reduce the burden placed on issuers. Some participants argued that transfers of listing from an SME Growth Market to a regulated market should be incentivised through a less burdensome prospectus.
+
+•
+
+Impact assessment
+
+This proposal is accompanied by an impact assessment that was submitted on 19 March 2018 and approved by the Regulatory Scrutiny Board (RSB) - with reservations - on 22 April 2018.
+
+The RSB requested to amend the draft impact assessment to clarify: (i) the justification of the initiative from a subsidiarity point of view; (ii) how the scope of the initiative was determined (in terms of measures to include and how the impact assessment grouped those measures into options); (iii) how the preferred options would affect investor protection. The comments formulated by the Board were addressed and integrated in the final version of the impact assessment.
+
+The impact assessment analyses several policy options to achieve the dual goals of reducing the administrative burden on SME Growth Market issuers and fostering the liquidity on equity instruments listed on those trading venues, while maintaining a high level of investor protection and market integrity.
+
+The Commission carried out an analysis of problems that may impede the supply of financial instruments on SME Growth Markets as well as the demand for such instruments (in particular the liquidity issue that may discourage investors from investing in those markets). The impact assessment describes three drivers that explain those problems: 1) the regulatory burden on listed SMEs resulting from the application of MAR; 2) the inadequate definition of SME Growth Markets; and 3) the lack of mechanisms to promote trading and liquidity on SME Growth Markets.
+
+It should be noted that some of those issues result from the application of MiFID II level 2 and will be dealt with through separate amendments to Commission Delegated Regulation 2017/565.
+
+The Table below provides a summary of the different alleviations provided to SME Growth Market issuers (under the Market Abuse Regulation and the Prospectus Regulation) and measures aimed at fostering liquidity of SME shares, as well as their impacts on relevant stakeholders.
+
+Preferred policy Options
+
+Impact on relevant markets/sectors
+
+Preferred options under the Market Abuse Regulation
+
+Adoption of a new deadline to publicly disclose managers' transactions (2 days as of the notification date by the managers)
+
+This would alleviate the administrative burden on SME Growth Markets, by ensuring that they have sufficient time to disclose managers' transactions to the public. There should be little to no impact on market integrity by changing the starting point of the time period.
+
+Obligation to maintain a list of 'permanent insiders'
+
+This would alleviate the burden on issuers, by avoiding the costs of drawing up an
+
+ad hoc
+
+list of insiders for each piece of inside information. The impact on the capacity of National Competent Authorities to detect insider trading would be minimal as they rarely rely on insider lists in practice.
+
+Justification of delayed inside information to be made only on request (and no need to keep a disclosure record)
+
+This would lower the administrative burden on SME Growth Market issuers, by exempting them from recording a long list of information (disclosure record). The impact on market integrity would be minimal, as the National Competent Authorities would still be notified in case of delays and able to request a justification (prepared ex-post by the issuers).
+
+Exemption of negotiated private placements of bonds with institutional investors from the market sounding regime when an alternative wall-crossing procedure is in place
+
+This would alleviate the administrative burden on both issuers (and those acting on their behalf) and investors and would ease the issuance of private placements. An alternative wall-crossing procedure would ensure that all parties are aware of their obligations as regards inside information disclosure.
+
+Creation of a European regime for liquidity provision contracts for SME Growth Market equity issuers while allowing NCAs to establish Accepted Market Practices
+
+This would increase liquidity and reduce volatility of SME shares, thus increasing the attractiveness of SME Growth Markets for investors, intermediaries and exchanges.
+
+Preferred options under the Prospectus Regulation
+
+Creation of a lighter 'transfer prospectus'' for SME Growth Market issuers listed for at least three years when seeking a graduation to regulated markets
+
+This would help companies graduate from the SME Growth Market to the regulated market, by allowing them to produce a simplified prospectus.
+
+The impact assessment also notes that for the sake of consistency, simplicity and clarity for both investors and issuers, the alleviations under the Market Abuse Regulation should benefit to all companies listed on SME Growth Markets and not only to SMEs listed on those trading venues.
+
+The impact assessment concludes that the proposed 'package' of measures (through this omnibus proposal for a Regulation and the envisaged targeted changes to MiFID II level 2) will contribute to the overarching CMU goal of facilitating access to capital markets for smaller companies. This package of measures will support companies listed on SME Growth Markets, by reducing their administrative burden and by enabling improved liquidity. However, the impact assessment also underlines that the regulatory measures included in this initiative would not have an overwhelming impact on the situation of small companies considering a listing.
+
+•
+
+Regulatory fitness and simplification
+
+This initiative aims, in part, to reduce compliance costs for issuers on SME Growth Markets. This is the case for the amendments envisaged with regard to the Market Abuse Regulation that would lead to a reduction of costs estimated at between EUR 4.03 million and EUR 9.32 million per year. This would represent for each issuer a 15-17.5% reduction of costs resulting from the Market Abuse Regulation application. The creation of a 'transfer prospectus' allowing issuers to move from an SME Growth Market to a regulated market would lead to cost savings estimated at between EUR 4.8 and EUR 7.2 million per year. Such a 'transfer prospectus' would decrease the costs incurred for the preparation of this document by 25-28.5%.
+
+•
+
+Fundamental rights
+
+Future legislative measures need to be in compliance with relevant fundamental rights embodied in the EU Charter of Fundamental Rights. The proposal respects the fundamental rights and observes the principles recognised by the Charter, in particular the freedom to conduct a business (Art. 16) and consumer protection (Art. 38). As this initiative aims at alleviating the administrative burden placed on small issuers, this initiative would contribute to improving the right to conduct business freely. The envisaged amendments to the Market Abuse Regulation and the Prospectus Regulation should not have any impact on consumer protection, as those targeted changes are framed in a way that will preserve a high level of market integrity and investor protection.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The initiative is not expected to have any noteworthy impact on the EU budget.
+
+5.
+
+OTHER ELEMENTS
+
+•
+
+Implementation plans and monitoring, evaluation and reporting arrangements
+
+A monitoring of the impact of the new Regulation will be carried out by the Commission. Key parameters to measure the effectiveness of the Regulation in achieving the stated objectives (i.e. alleviation of the administrative burden and increased liquidity) will be:
+
+(1)
+
+Impacts on SME growth market issuers and market operators
+
+(a)
+
+Number of registered SME Growth Markets
+
+(b)
+
+Number of listings and market capitalisation across SME Growth Markets
+
+(c)
+
+Number and size of Initial Public Offerings (IPOs) and Initial Bond Offerings (IBOs) on SME Growth Markets
+
+(d)
+
+Number and size of European SME IPOs and IBOs in third countries
+
+(e)
+
+Ratio of bank based vs. capital market based external financing of SMEs
+
+(f)
+
+Number and volume of private placements of listed bonds with institutional investors
+
+(g)
+
+Number of ‘transfer prospectuses’
+
+(2)
+
+Impacts on liquidity on SME growth markets
+
+(a)
+
+Number of liquidity contracts entered into issuers
+
+(b)
+
+Transaction volumes (calibrated against the number of listings per venue)
+
+(c)
+
+Average free float
+
+(d)
+
+Average bid-ask spreads of listings
+
+(e)
+
+Average liquidity at touch
+
+(f)
+
+Average market book depth
+
+(g)
+
+Average time to execution of orders
+
+(h)
+
+Average daily volatility.
+
+This list of indicators is non-exhaustive and can be expanded to accommodate the monitoring of additional impacts. Additional indicators may help, for example, to measure also the effectiveness of the other non-regulatory actions that form part of the wider SME listing package. It should also be noted that there are no concrete quantitative objectives set out for any of the indicators in the list. As there is a wide range of factors which will heavily affect the indicators but that are not addressed by this initiative, the effectiveness of the initiative should rather be gauged on the basis of the directional development of indicators.
+
+Many of the indicators would require the help of, and data input from, Member States, National Competent Authorities, the European Securities and Markets Authority (ESMA) and market operators. This is particularly the case for indicators on liquidity.
+
+•
+
+Detailed explanation of the specific provisions of the proposal
+
+(a)
+
+Amendments to the Market Abuse Regulation
+
+Exemption from the market sounding regime for private placements of bonds with qualified investors
+
+To foster the development of private placement markets of bonds, the Commission proposes an amendment to the market sounding regime in Article 11 of the Market Abuse Regulation. Currently, a private placement of bonds with qualified investors (i.e. a public offer of bonds that is addressed solely to qualified investors as defined by the Prospectus Regulation) may fall into the scope of the market sounding regime. This is because such an issuance may have a potential effect on the creditworthiness of an issuer that already has securities (e.g. shares or bonds) admitted to trading on a trading venue and can therefore constitute inside information.
+
+The technical amendment to Article 11 of the Market Abuse Regulation will aim at clarifying that communication of information to potential qualified investors with whom all the terms of a privately placed bond transaction (including contractual terms) are negotiated will not be subject to the market sounding regime. This exemption will be available when (i) the issuer seeking a private placement of bonds already has its equity or non-equity financial instruments admitted to trading on an SME Growth Market; and (ii) if
+
+an alternative wall-crossing
+
+procedure is in place, by which any potential qualified investor acknowledges the regulatory duties stemming from the access to inside information. This alternative wall-crossing procedure could take the form of a non-disclosure agreement.
+
+Liquidity Provision Contract for SME Growth Market Issuers
+
+Under the changes to Article 13 of the Market Abuse Regulation, SME Growth Market issuers will have the possibility to enter into a 'liquidity provision contract' with a financial intermediary that will be entrusted with the task of enhancing the liquidity of the issuer's shares. This will be allowed even if the National Competent Authority where the SME Growth Market is located has not established an Accepted Market Practice on liquidity provision contracts in accordance with Article 13 of the Market Abuse Regulation.
+
+This possibility will be subject to three conditions:
+
+(i) the liquidity provision contract shall meet the conditions set out by Article 13(2) and by the implementing technical standards to be developed by the European Securities and Markets Authority; (ii) the liquidity provider should be an investment firm authorised under MiFID II and a market member of the SME Growth Market where the issuer has its shares admitted to trading; and (iii) the market operator or the investment firm operating the SME Growth Market shall be informed of the conclusion of a liquidity contract and agree with its terms and conditions. Those conditions should be met at all times and the relevant NCAs may request a copy of the liquidity contract from the issuer or from the investment firm acting as a liquidity provider.
+
+The European Securities and Markets Authority will be empowered with the task of developing implementing technical standards providing for a liquidity provision contract template. Those implementing technical standards will set the requirements that such liquidity provision contracts shall comply with, in order to be legal in all Member States.
+
+This new provision will not prevent Member States from adopting an Accepted Market Practice in accordance with Article 13, to tailor liquidity provision contracts to local conditions or to extend the scope of liquidity contracts beyond SME Growth Market issuers (e.g. for illiquid securities listed on regulated markets).
+
+Justification of
+
+the delay in disclosing inside information
+
+The objective of this modification to Article 17 of the Market Abuse Regulation is to reduce the obligations imposed on SME Growth Market issuers when they decide to delay the publication of inside information.
+
+Under this amendment, SME Growth Market issuers will be still obliged to notify such a delay to the relevant National Competent Authority. However, they will only be held liable to justify the reasons for the delay
+
+upon the request of the National Competent Authority (instead of doing so in all circumstances). Besides, SME Growth Market issuers would be exempted from the obligation to keep the list of detailed information to justify the delay on an on-going basis (as currently laid down in
+
+Commission Implementing Regulation (EU) 2016/1055
+
+). This justification will be prepared
+
+ex-post
+
+if and when the issuer receives a request from the National Competent Authority.
+
+Insider lists for SME Growth Markets
+
+Under the Market Abuse Regulation (Article 18(6)), SME Growth Market issuers are not requested to maintain insider lists on an on-going basis, as long as (i) the issuer takes all the reasonable steps to ensure that any person with access to inside information acknowledges the legal and regulatory duties which follow and is aware of the applicable sanction, and (ii) the issuer is able to provide the National Competent Authority with the insider list on request.
+
+This amendment proposes to replace the current alleviation provided by the Market Abuse Regulation to SME Growth Market issuers by a less burdensome 'list of permanent insiders'. This would be easier for SMEs to produce while being still meaningful for the investigations of National Competent Authorities on insider dealing cases. This list of 'permanent insiders' would include all the persons that have regular access to inside information relating to that issuer due to their function within the issuer (such as members of administrative, management and supervisory bodies) or their position (executives in a position to make managerial decisions affecting the future developments and business prospects of the issuers and administrative staff having regular access to inside information). This alleviation will be only granted to SME Growth Market issuers without prejudice to the obligations of persons acting on their behalf or for their account (such as accountants, lawyers, rating agencies…) to draw up, update and provide to the National Competent Authority upon request their own insider lists in accordance with Article 18(1) to 18(5).
+
+Managers' transactions by SME Growth Market Issuers
+
+Currently, Persons Discharging Managerial Responsibilities (PDMRs) and Persons Closely Associated (PCAs) shall declare their transactions to the National Competent Authority and to the issuer within three days after the transaction date. At the same time, the issuer shall disclose the information to the market, no later than three days after the transaction. Respondents to the public consultation underlined the technical impossibility to meet the three-day deadline for the notification when the issuer already receives the information from the manager late, as the three-day period encompasses the declaration by both PCAs and PDMRs to the issuer, and the issuer to the market.
+
+Under this amendment, persons discharging managerial responsibilities and persons closely associated to SME Growth Market issuers would be required to notify the issuer and the National Competent Authority within three business days. Then, after the notification by PDMRs and PCAs, the issuer will have an extra two days to disclose the information to the public.
+
+(b)
+
+Amendment to the Prospectus Regulation
+
+Transfer Prospectus
+
+Issuers that are listed for a certain period of time on an SME Growth Market are required to produce a full prospectus when they want to graduate to a regulated market. This is because no alleviated prospectus schedule (such as the 'EU Growth prospectus' or the simplified prospectus for secondary issuances) is available to them in such a situation. This amendment to the Prospectus Regulation would create an alleviated 'transfer prospectus' for companies listed for at least three years on an SME Growth Market and wishing to move to a regulated market. SME Growth Market issuers are subject to ongoing disclosure requirements under the Market Abuse Regulation and the rules of the SME Growth Market operator, as required under Directive 2014/65/EU. As such, they provide investors with a lot of information. A transfer prospectus (based on the simplified prospectus for secondary issuances foreseen by the Prospectus Regulation) should therefore be available to issuers in such a situation. This prospectus would be available when SME Growth Market issuers are seeking (i) an admission of their securities to trading on a regulated market or (ii) both an admission and a new offer of securities on a regulated market.
+
+2018/0165 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Central Bank
+
+,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+,
+
+Acting in accordance with the ordinary legislative procedure
+
+,
+
+Whereas:
+
+(1)
+
+The Capital Markets Union initiative aims at reducing dependence on bank lending, at diversifying market-based sources of financing for all smaller and medium-sized enterprises (‘SMEs’) and at promoting the issuance of bond and shares by SMEs on public markets. Companies established in the Union that seek to raise capital on trading venues are facing high one-off and ongoing disclosure and compliance costs which can deter them from seeking an admission to trading on Union trading venues in the first place. In addition, shares issued by SMEs on Union trading venues tend to suffer from lower levels of liquidity and higher volatility, which increases the cost of capital, making this source of funding too onerous.
+
+(2)
+
+Directive
+
+2014/65/EU of the European Parliament and of the Council
+
+has created a new type of trading venues, the SME growth markets, a subgroup of Multilateral Trading Facilities (‘MTFs’), in order to facilitate access to capital for SMEs and to facilitate the further development of specialist markets that aim to cater for the needs of SME issuers. Directive
+
+2014/65/EU
+
+also anticipated that “
+
+attention should be focused on how future regulation should further foster and promote the use of that market so as to make it attractive for investors, and provide a lessening of administrative burdens and further incentives for SMEs to access capital markets through SME growth markets
+
+”.
+
+(3)
+
+It has however been noted that issuers admitted to trading on an SME growth market benefit from relatively few regulatory alleviations compared to issuers admitted to trading on MTFs or regulated markets. Most of the obligations set out in Regulation (EU) No 596/2014 European Parliament and of the Council
+
+apply in the same manner to all issuers, irrespective of their size or the trading venue where their financial instruments are admitted to trading.
+
+T
+
+hat low level of differentiation between SME growth markets and MTF issuers acts as a disincentive for MTFs to seek a registration as an SME growth market, which is illustrated by the low uptake of the SME growth market status to date. It is therefore necessary to introduce additional alleviations to adequately foster the use of SME growth markets
+
+.
+
+(4)
+
+The attractiveness of SME growth markets should be reinforced by further reducing the compliance costs and administrative burdens faced by SME growth market issuers. To maintain the highest standards of compliance on regulated markets, the alleviations provided for in this Regulation should be limited to companies listed on SME growth markets, irrespective of the fact that not all SMEs are listed on SME growth markets and not all companies listed on SME growth markets are SMEs. Pursuant to Directive
+
+2014/65/EU,
+
+up to 50% of non-SMEs can be admitted to trading on SME growth markets to maintain the profitability of the SME growth markets’ business model through, inter alia, liquidity in non-SMEs securities.
+
+In view of the risks involved in applying different sets of rules to issuers listed on the same category of venue, namely SME growth markets, the changes set out in this Regulation should not be limited to SME issuers only. For the sake of consistency for issuers and clarity for investors, the alleviation of compliance costs and administrative burdens should apply to all issuers on SME growth markets, irrespective of their market capitalisation.
+
+Applying the same set of rules to issuers also ensures that companies are not penalised because they are growing and are no longer SMEs.
+
+(5)
+
+According to Article 11 of
+
+Regulation (EU) No 596/2014, a
+
+market sounding comprises the communication of information, prior to the announcement of a transaction, in order to gauge the interest of potential investors in a possible transaction and the conditions relating to it such as its potential size or pricing, to one or more potential investors
+
+. During the negotiation phase of a private placement of bonds, SME growth market issuers enter into discussions with a limited set of potential qualified investors (as defined in Regulation (EU) 2017/1129 of the European Parliament and of the Council
+
+) and negotiate all the contractual terms and conditions of the transaction with those qualified investors. The communication of information in that negotiation phase of a private placement of bonds aims at structuring and completing the entire transaction, and not at gauging the interest of potential investors as regards a pre-defined transaction. Imposing market sounding on private placements of bonds can thus be burdensome and act as a disincentive to enter into discussions for such transactions for both issuers and investors. In order to increase the attraction of private placement of bonds on SME growth markets, those transactions should be excluded from the scope of the market sounding regime, provided that an adequate non-disclosure agreement is in place.
+
+(6)
+
+Some liquidity in an issuer’s shares can be achieved through liquidity mechanisms such as market-making arrangements or liquidity contracts. A market-making arrangement involves a contract between the market operator and a third party who commits to maintaining the liquidity in certain shares and benefits from rebates on trading fees in return. A liquidity contract involves a contract between an issuer and a third party who commits to providing liquidity in the shares of the issuer, and on its behalf. To ensure that market integrity is fully preserved, liquidity contracts should be available for all SME growth markets issuers across the Union, subject to a number of conditions. Not all competent authorities have, pursuant to Article 13 of
+
+Regulation (EU) No 596/2014,
+
+established accepted market practices in relation to liquidity contracts pursuant to Article 13 of
+
+Regulation (EU) No 596/2014
+
+, which means that not all SME growth market issuers have currently access to liquidity schemes across the Union. That absence of liquidity schemes can be an impediment to the effective development of SME growth markets. It is therefore necessary to create a Union framework that will enable SME growth market issuers to enter into a liquidity contract with a liquidity provider in another Member State in the absence of an accepted market practice established at national level. The Union framework on liquidity contracts for SME growth markets should however not replace, but rather complement, existing or future accepted market practices. Competent authorities should keep the possibility to establish accepted market practices on liquidity contracts to tailor their conditions to local specificities or to extend such agreements to illiquid securities other than SME growth market shares.
+
+(7)
+
+In order to ensure a uniform application of the Union framework for liquidity contracts referred to in recital 6, Regulation (EU) No 596/2014 should be amended to empower the Commission to adopt implementing technical standards developed by the European Securities and Markets Authority, setting out a template to be used for the purposes of such contracts. The Commission should adopt those implementing technical standards by means of implementing acts pursuant to Article 291 of the Treaty and in accordance with Article 15 of Regulation (EU) No 1095/2010 of the European Parliament and of the Council.
+
+(8)
+
+According to Article 17(4) of
+
+Regulation (EU) No 596/2014
+
+, issuers can decide to delay the public disclosure of inside information if their legitimate interests are likely to be prejudiced. Issuers are however required to notify the competent authority thereof and to provide an explanation of the rationale supporting the decision. The obligation for SME growth market issuers to document in writing the reasons why they have decided to delay the disclosure can be burdensome. It is considered that a lighter requirement for SME growth markets issuers consisting in an obligation to only explain the reasons for the delay upon request by the competent authority would have no significant impact on the ability of the competent authority to monitor the disclosure of inside information, while significantly reducing the administrative burden for SME growth markets issuers, provided that competent authorities would are still notified of the decision to delay and are in a position to open an investigation if they have doubt as regards that decision.
+
+(9)
+
+The current less stringent requirements for SME growth markets issuers to produce, in accordance with Article 18(6) of Regulation (EU) No 596/2014, an insider list only
+
+upon the request of the competent authority, is of limited practical effect, because those issuers are still subject to ongoing monitoring of the persons who qualify as insiders in the context of ongoing projects. The existing alleviation should therefore be replaced by the possibility for SME growth markets issuers to maintain only a list of permanent insiders, which should include persons who have regular access to inside information due to their function or position within the issuer.
+
+(10)
+
+Pursuant to Article 19(3) of Regulation (EU) No 596/2014, issuers have to make public transactions carried out by persons discharging managerial responsibilities (‘PDMRs’) and persons closely associated with them (‘PCAs’) within three days after the transaction. The same deadline applies to PDMRs and PCAs as regards their duty to report their transactions to the issuer. Where SME growth market issuers are notified late by PDMRs and PCAs of their transactions, it is technically challenging for those SME growth market issuers to comply with the three-day deadline, which may give rise to liability issues. SME growth markets issuers should therefore be allowed to disclose transactions within two days after those transactions have been notified by the PDMRs or the PCAs.
+
+(11)
+
+SME growth markets should not be perceived as a final step in the scaling up of issuers and should enable successful companies to grow and move one day to regulated markets
+
+to benefit from greater liquidity and a larger investors’ pool.
+
+T
+
+o facilitate the transition from an SME growth market to a regulated market, growing companies should be able to use the simplified disclosure regime for the admission on a regulated market, as set out in Article 14 of
+
+Regulation (EU) 2017/1129 of the European Parliament and of the Council,
+
+provided that those companies are already admitted to trading on an SME growth market for at least three years. That period should enable issuers to have a sufficient track record and to provide the market with information on their financial performance and reporting requirements under the rules of Directive 2014/65/EU.
+
+(12)
+
+According to Regulation (EC) No 1606/2002 of the European Parliament and of the Council
+
+, SME growth market issuers are not obliged to publish their financial statements in International Financial Reporting Standards. However, to avoid departing from regulated market standards, SME growth markets issuers that would want to use the simplified disclosure regime for a transfer to a regulated market should prepare their most recent financial statements, including comparative information for the previous year in accordance with that Regulation.
+
+(13)
+
+Regulations (EU) No 596/2014 and (EU) No 2017/1129 should therefore be amended accordingly.
+
+(14)
+
+The amendments set out in this Regulation should apply 6 months after the entry into force of this Regulation to provide sufficient time for incumbent SME growth market operators to adapt their rulebooks,
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Amendments to Regulation (EU) No 596/2014
+
+Regulation (EU) No 596/2014 is amended as follows:
+
+1.
+
+in Article 11, the following paragraph 1a is inserted :
+
+“ 1.a Where an offer of securities is addressed solely to qualified investors as defined in Article 2(e) of Regulation (EU) 2017/1129 of the European Parliament and of the Council*, communication of information to those qualified investors for the purposes of negotiating the contractual terms and conditions of their participation in an issuance of bonds by an issuer that has financial instruments admitted to trading on an SME growth market shall not constitute a market sounding and shall not constitute unlawful disclosure of inside information. That issuer shall ensure that the qualified investors receiving the information are aware of, and acknowledge in writing, the legal and regulatory duties entailed and are aware of the sanctions applicable to insider dealing and unlawful disclosure of inside information.
+
+________________________
+
+*
+
+Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12).”;
+
+2.
+
+in Article 13, the following paragraphs 12 and 13 are inserted:
+
+“12. An issuer whose financial instruments are admitted to trading on an SME growth market shall be authorised to enter into a liquidity contract for its shares where all of the following conditions are met:
+
+(a)
+
+the terms and conditions of the liquidity contract comply with the criteria set out in Article 13(2) of this Regulation and in Commission Delegated Regulation (EU) 2016/908**
+
+;
+
+(b)
+
+the liquidity contract is established in accordance with the template as referred to in the paragraph 13;
+
+(c)
+
+the liquidity provider is duly authorised by the competent authority in accordance with Directive 2014/65/EU and is registered as a market member by the market operator or the investment firm operating the SME growth market;
+
+(d)
+
+the market operator or the investment firm operating the SME growth market acknowledges in writing to the issuer that it has received a copy of the liquidity contract and agrees to that contract’s terms and conditions.
+
+The issuer referred to in the first subparagraph of this paragraph shall be able to demonstrate at any time that the conditions under which the contract was established are met on an ongoing basis. That issuer and the investment firm operating the SME growth market shall provide the relevant competent authorities with a copy of the liquidity contract upon their request.
+
+13. In order to ensure uniform conditions of application of paragraph 12, ESMA shall develop draft implementing technical standards setting out a contractual template to be used for the purposes of entering into a liquidity contract to ensure compliance with the conditions set out in Article 13. ESMA shall submit those draft implementing technical standards to the Commission by [
+
+…
+
+]. Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+_________________________
+
+**
+
+Commission Delegated Regulation (EU) 2016/908 of 26 February 2016 supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council laying down regulatory technical standards on the criteria, the procedure and the requirements for establishing an accepted market practice and the requirements for maintaining it, terminating it or modifying the conditions for its acceptance (OJ L 153, 10.6.2016, p. 3). ”;
+
+3.
+
+in Article 17(4), the following subparagraph is added:
+
+“An issuer whose financial instruments are admitted to trading on an SME growth market and which has decided to delay the public disclosure of inside information shall notify that decision to the competent authority. The explanations for the decision to delay are to be provided only upon request of the competent authority specified in accordance with paragraph 3. That competent authority shall not require that issuer to keep a record of that explanation.”;
+
+4.
+
+in Article 18, paragraph 6 of is replaced by the following:
+
+“6. Issuers whose financial instruments are admitted to trading on an SME growth market shall be authorised to include in their lists of insiders only those persons who, due to the nature of their function or position within the issuer, have regular access to inside information. Any person acting on behalf of, or for the account of an issuer admitted to trading on an SME growth market issuer remains subject to requirements set out in paragraphs 1 to 5.
+
+That list shall be provided to the competent authority upon its request.”;
+
+5.
+
+in the first subparagraph of Article 19(3), the following sentence is added:
+
+“Issuers whose financial instruments are admitted to trading on a SME growth market shall have two business days after receipt of a notification as referred to in paragraph 1 to make public the information contained in that notification.”.
+
+Article 2
+
+Amendments to Regulation (EU) No 2017/1129
+
+Article 14 of Regulation (EU) 2017/1129 is amended as follows:
+
+1.
+
+in the
+
+first
+
+subparagraph of paragraph 1, the following point d is added:
+
+“
+
+(d) issuers that have been admitted to trading on an SME Growth Market for at least three years and who seek admission of existing or new securities to trading on a regulated market.
+
+”
+
+;
+
+2.
+
+in the second subparagraph of paragraph 2, the following sentence is added:
+
+“
+
+For issuers as referred to in point (d) of the first subparagraph of paragraph 1, the most recent financial statements, containing comparative information for the previous year included in the simplified prospectus, shall be prepared in accordance with the International Financial Reporting Standards as endorsed in the Union pursuant to Regulation (EC) No 1606/2002***.
+
+________________________________
+
+***
+
+Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards (OJ L 243, 11.9.2002, p. 1).
+
+”.
+
+Article 3
+
+Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 6 months after entry into force.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President

@@ -1,0 +1,1218 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 52001PC0581 - EN
+
+Avis juridique important
+
+|
+
+52001PC0581
+
+Proposal for a Directive of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC  /* COM/2001/0581 final - COD 2001/0245 */
+
+Official Journal 075 E , 26/03/2002 P. 0033 - 0044
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+1. General remarks
+
+1.1. An environmental policy instrument to lower the costs of reducing greenhouse gas emissions
+
+This proposal arises from the need for the European Union to reduce its emissions of greenhouse gases cost-effectively and meet its obligations under the United Nations Framework Convention on Climate Change and the Kyoto Protocol. Emissions trading is, first, an instrument for environmental protection, and, second, one of the policy instruments that will impair competitiveness the least.
+
+In March 2000, the Commission adopted a Green Paper on greenhouse gas emissions trading within the EU [1] that successfully launched a debate across Europe on the suitability and possible functioning of emissions trading. The 100 or so responses received were overwhelmingly in favour of emissions trading. Within the multi-stakeholder European Climate Change Programme, emissions trading has been the subject of extensive discussions and analysis that have added to the understanding both of the instrument and the points of view of different actors. Further consultation meetings with stakeholders, Member States and Accession countries in September 2001 demonstrated strong support for emissions trading. The present proposal draws on all those discussions.
+
+[1]  COM(2000) 87 of 8.3.2000.
+
+This proposal, based on Article 175(1) of the Treaty, places direct emissions of the greenhouse gases covered by the Kyoto Protocol within a regulatory framework. The total quantity of greenhouse gas emissions covered by this scheme would be limited. Furthermore, installations would have the possibility to engage in Community-wide emissions trading. This possibility constitutes the key element for harnessing the available cost-effective emissions reduction potential. Emissions reductions will then be made wherever in the Community it is cheapest to make them. The benefit of these cheaper reductions will be available to others elsewhere in the Community who may not themselves have as cheap reduction possibilities. This is why emissions trading is of benefit to those who buy as well as to those who sell. The economic case for a Community-wide scheme is supported by several recent studies demonstrating efficiency gains [2]. A Community scheme would minimise distortions of competition and potential barriers to the internal market that might otherwise arise as a result of a number of disparate trading schemes (and hence prices for carbon) being established in the European Union.
+
+[2]  Sources: The Economic Effects of EU-wide Industry-Level Emission Trading to Reduce Greenhouse Gases - Results from PRIMES model (http://europa.eu.int/comm/environment/enveco/climate_change/primes.pdf)
+
+A precondition for emissions trading, however, is that participating installations accept the limitation of the emissions from sources covered by the scheme in the relevant national jurisdictions. Limitation of emissions will require an effort to be made by installations, but emissions trading will enable reductions to be made more cost-effectively.
+
+1.2. The structure and functioning of the proposal
+
+Central to this proposal lies two concepts. The first of these is that of the greenhouse gas "permit", that will be required by all installations covered by the scheme. The second concept is that of greenhouse gas "allowances", denominated in metric tonnes of carbon dioxide equivalent, which entitle the holder to emit a corresponding quantity of greenhouse gases.
+
+Member States, or their relevant authorities, will grant a greenhouse gas permit that sets an obligation to hold allowances equal to the actual emissions as well as requires adequate monitoring and reporting of emissions. The allowances will be transferable, while the permit itself is attached to a specific installation or site. In addition to the permits, Member States, or their relevant authorities, will allocate allowances. These allowances can be traded between companies if they choose to do so. Each year, companies must submit for cancellation a number of allowances that corresponds to their actual emissions. If they do not have enough allowances, sanctions will be imposed on them. The holding and tracking of allowances will be done through an electronic register.
+
+The first phase of the scheme, between 2005 and the end of 2007, is a period that precedes the Kyoto Protocol's commitment period. In this preliminary phase, the Commission believes that the Community would greatly benefit from experience of greenhouse gas emissions trading, so that it is prepared for the commencement of international emissions trading under the Kyoto Protocol that will begin in 2008. The present proposal recognises, however, that during the preliminary phase from 2005 to the end of 2007, there are no legally binding targets limiting the emissions of greenhouse gases of Member States. In view of this, specific differences have been incorporated into the preliminary phase. These include that, in the initial phase, allowances should be allocated to participating installations free of charge and that there is a lower common level of penalty for non-compliance.
+
+From 2008, the exchange of allowances between installations in two different Member States will give rise to the adjustment - through the national registries - by a corresponding number of tonnes of the total quantity of emissions allowed for each Member State as contained in the proposal for a Council Decision on the ratification of the Kyoto Protocol.
+
+The first accessions are likely to have taken place by the commencement of this scheme and so would be covered by this proposal. However, for countries that are not part of the EU when this scheme comes into force, there exists the possibility to link the Community scheme with those of other Parties to the Kyoto Protocol by entering into agreements with those other Parties to mutually recognise each other's allowances.
+
+2. The Environmental and Economic value of emissions trading
+
+The environmental benefit is provided by the stringency of the total quantity of allowances allocated that represents the overall limit on emissions allowed by the scheme. One main attraction of emissions trading is that it provides relative certainty of environmental outcome. However, emissions trading does not of itself reduce emissions.
+
+This proposal places direct emissions of all the Kyoto Protocol's greenhouse gases from the specified sources within a Community regulatory framework. This framework limits the emissions of the covered sectors and imposes sanctions, including financial penalties, for non-compliance.
+
+The key economic rationale behind emissions trading is to ensure that emissions reductions required to achieve a pre-determined environmental outcome take place where the cost of reduction is the lowest. Emissions trading allows individual companies to emit more than foreseen by any initial allocation that it receives on condition that they can find another company that has emitted less than allowed and is willing to transfer its "spare" allowances. The overall environmental outcome is the same as if both companies used their allowances exactly, but with the important difference that both buying and selling companies benefit from the flexibility offered by trading, without disadvantage to the environment.
+
+3. The Burden Sharing Agreement and the Monitoring Mechanism
+
+Under this proposal each Member State will make its initial allocations taking into account the requirements of this Directive and on the basis of its overall commitment under the Burden Sharing Agreement. The Member States have agreed to redistribute their targets under the Kyoto Protocol in accordance with the Burden Sharing Agreement as contained in the Council Conclusions of 16 June 1998.
+
+If installations trade allowances with other installations within the same Member State, there would be no change to the number of tonnes that a Member State can emit under the Burden Sharing Agreement. However, if an installation buys allowances from an installation in another Member State, then there will need to be a corresponding adjustment, recorded by the national registries, to the number of tonnes that each Member State can emit under the Burden Sharing Agreement. Selling an allowance to an installation in another Member State would mean that the "originating" Member State loses its entitlement under the Burden Sharing Agreement to emit a tonne of carbon dioxide equivalent. Buying an allowance from another Member State, on the other hand, entitles an extra tonne of carbon dioxide equivalent to be emitted within the Member State in which the buying installation is located.
+
+Overall, the Community will emit the same number of tonnes as were foreseen under the Kyoto Protocol. But the precise entitlements of each Member State will be adjusted to correspond with trades that its installations undertake. There should be no danger of non-compliance arising from this scheme by any Member State as long as installations individually have enough allowances to cover their actual emissions. If installations sell, they must actually reduce their emissions correspondingly. That is why there needs to be strong national non-compliance provisions for participating installations.
+
+The system of linked national registries is central not only to the holding of allowances and the tracking of trades, but also for the adjustment of the Member States' commitments under the Burden Sharing Agreement. The linked national registries will be a crucial component of the Community Monitoring Mechanism established by Council Decision 93/389/EEC, in enabling the accurate tracking of what the entitlements of individual Member States are under the Burden Sharing Agreement. Furthermore, the national registries will provide accurate information on the emissions entitlement of the trading sectors in each Member State, and thereby serve as a check on the likelihood of Member States individually, and the European Community as a whole, living up to their commitments.
+
+4. Basic obligations
+
+This proposal requires operators of installations undertaking the activities covered by Annex I of the Directive to hold a greenhouse gas emissions permit as a condition for emitting greenhouse gases from their installations. The greenhouse gas emissions permit will lay down monitoring, reporting and verification requirements in respect of direct emissions of greenhouses gases specified in relation to those activities, creating the framework for the participation of the installation in the emissions trading scheme.
+
+The permit further requires operators of installations undertaking the activities covered by the scheme to surrender, on an annual basis, sufficient allowances to match their verified emissions of the relevant greenhouse gases for the previous calendar year. A failure to surrender sufficient allowances to match verified emissions would result in the imposition by Member States of substantial penalties.
+
+5. Striking the balance between simplicity, effectiveness, subsidiarity and transparency
+
+It is difficult to reconcile simplicity with the different interests of various stakeholders. Nevertheless, this proposed Directive endeavours to remain as simple as it can be. This has been a repeated wish of industry. In order to protect the internal market, it would establish a common method of allocation in the period 2005-2007. Member States would be required to allocate allowances for free, based on objective and transparent criteria. The quantities of allowances issued would not be harmonised. This reflects the fact that the Burden Sharing Agreement redistributes effort by Member States to reflect Community solidarity. National policies and measures also create varying impacts on businesses. Furthermore, the proportions of emissions that the relevant sectors contribute in different Member States varies according to the fuel mix of its power generation sector, for example. A balance has therefore been struck between the benefits of having a European-wide market, and the principle of subsidiarity. Therefore, Member States would be required to base their allocations on a number of common criteria. Moreover, Member States would also have to communicate to the Commission in advance their proposed intentions in respect of the allocation of allowances, which will be rejected by the Commission if the common criteria are not observed. The Commission may revise the criteria to be applied to allocation in the light of experience.
+
+The proposal would create a European market in allowances. This contrasts with the fragmented approach that would occur in the absence of a Community instrument, where Member States gradually build up national schemes and then try to link them.
+
+The reporting requirements on Member States will ensure transparency. The Commission will continue to exercise vigilance in respect of State aid, restrictions on market access, anti-competitive behaviour or abuse of dominant position - but these are existing Treaty obligations that will apply anyway.
+
+6. Liberalisation of energy markets and the internal market
+
+It is essential that this instrument is compatible with the liberalisation of energy markets. Emissions trading offers two important advantages over traditional environment policy instruments.
+
+First, if an electricity producer in a particular Member State is successful in winning market-share in other Member States, it may be that the emissions increase in the producer's Member State. Without emissions trading, the Member State would have to bear the consequences of these increased emissions, which may require a further policy response from other sectors, while the electricity producer retains the benefit of increased market-share. With emissions trading the Member State in which the producer is located can be sure that the producer of electricity will acquire allowances sufficient to cover any extra emissions.
+
+Second, in the context of the internal market - whether for electricity or any other competing product - an EC-wide emissions trading scheme will provide at any moment in time a uniform price for an allowance across the whole trading scheme. From the moment that trading starts, all installations covered by the scheme will be faced with the same price of emitting an extra tonne of carbon dioxide equivalent, from one side of the Community to the other. Emissions trading is an instrument which, once the initial allocations are made, should effectively "level the playing-field" by providing a single market for the emissions of a tonne of carbon dioxide equivalent, at least for those participating in the emissions trading scheme. However, the way the initial allocation is done is vital. Different principles for initial allocations to companies competing within the EU-wide internal market for electricity, for example, may significantly distort competition. In order to protect the internal market, measures have been introduced in the proposal, notably the requirement for Member States to apply common criteria for their national allocation plans, to notify the Commission and other Member States, and the possibility for the Commission to reject a national allocation plan that does not comply with the criteria. The principles behind the proposal's provisions concerning the allocation of allowances are further described below in Section 13.
+
+There is no limit on the emissions of an individual installation as long as it acquires sufficient allowances. Having to pay for extra allowances that may be needed is consistent with the "polluter-pays" principle. The number of allowances that a Member State issues could anticipate future growth in output, if the Member State is prepared to take this risk. The number of allowances will not necessarily be less than past emissions, although it is expected that Member State will issue less in view of meeting their own commitments under the Burden Sharing Agreement. But it will still be illegal for Member States to give incompatible State aid, in the form of allocations that exceed the likely needs of a sector or installation. If allowances are allocated more generously to sources covered by emissions trading, Member States will have to ask more of other sectors, or be ready to acquire more "assigned amount units" or project mechanism credits within the context of the Kyoto Protocol, when they become available.
+
+7. Interactions with energy taxes
+
+Energy taxes aimed at tackling carbon dioxide emissions and emissions trading should be designed in such a way that they act as complementary instruments for covering the totality of emissions. While both instruments can be used at the same time in different sectors of the economy, this may give rise to adverse impacts on competitiveness if they are used at the same time within the same sector. The Commission recalls its proposal of 1997 [3] for an energy products tax, and continues to believe that the Community needs a general framework for the taxation of energy products. However, within this general framework, where activities are covered by the Community greenhouse gas emissions trading scheme, it would be appropriate to take into account the level of taxation that pursues the same objectives, without prejudice to the application of Articles 87 and 88 of the Treaty.
+
+[3]   COM(1997) 30 final dated 12.3.1997 "Proposal for a Council Directive restructuring the Community framework for the taxation of energy products" (OJ C 139, 6.5.1997, p. 14).
+
+8. Interactions with environmental agreements
+
+Environmental agreements exist in several Member States. Such agreements are essentially collective agreements to meet a pre-determined target. Most importantly, these agreements are compatible with emissions trading, as agreements limit the emissions of the participants.
+
+In practice, almost all environmental agreements in place can be adapted to take account of the emergence of new elements, such as the introduction of an EC-wide emissions trading scheme. The targets set under the environmental agreements can serve as a useful basis for the allocation of allowances by Member States. If a Member State wishes to allocate to its industry allowances on the basis of output-related performance standards, or "relative targets", this would be possible. Although this Directive requires the fixing of quantities of emissions expressed in tonnes of carbon dioxide equivalent, relative targets can always, by using output forecasts, be converted into quantities of emissions in a given period.
+
+Within such agreements, some companies may do more than others towards reaching the collective pre-determined targets. Furthermore, the agreements may or may not provide for some compensation to be paid to reflect the different contributions between what are, after all, competing companies within the same sector.
+
+In practice, emissions trading enables similar flexibility. If participating installations wish, they could pool their allowances, by sector for example, with a view to the sectoral association buying any extra allowances or selling surplus allowances on behalf of all. Each installation would have to monitor its emissions, as is already the case for environmental agreements. At the end of the year, the sectoral association would have to hand back to participating installations the necessary number of allowances to cover their actual emissions. The operators of participating installations, who would bear the consequences of non-compliance, would have to ensure that at the moment of reconciliation, each would have access to sufficient allowances to cover its actual emissions. These provisions are without prejudice to Articles 81 and 82 of the EC Treaty concerning the rules on competition applicable to undertakings concerning agreements between them and abuse of dominant position.
+
+There are two respects in which emissions trading can offer even greater flexibility than environmental agreements. The first is the case where participating installations emit more than foreseen under the environmental agreement. Having the possibility of buying more allowances from other sectors could make the difference between an agreement being respected - and its continuance in the future - and one that is not. The second is that if emissions are lower than provided for by the agreement, the surplus can be sold on the market and the proceeds distributed to the participants.
+
+9. Links with existing Community environmental legislation
+
+This proposal harnesses the synergies with existing legislation, and in particular, the IPPC Directive [4]. The scheme would apply to most of the significant greenhouse gas emitting activities that are already covered by the IPPC Directive, as well as some installations not covered by the IPPC Directive. Member States will be able to combine the permitting procedures for both this Directive and the IPPC Directive, while respecting the differences in the nature of the permits and their respective objectives.
+
+[4]  Council Directive 96/61/EC concerning integrated pollution prevention and control, OJ L 257, 10.10.1996, p. 26.
+
+This proposal allows Member States to build upon the permitting procedures under the IPPC Directive, albeit these would result in the grant of a different type of permit - the greenhouse gas emissions permit - based on submission of further information than is currently required under the IPPC Directive. A grant of such a permit is a prerequisite to continue the operation of the installation and would require the installation to hold a sufficient number of allowances to cover its actual emissions in a given period. The installations concerned would be able also, if they so choose, to participate in emissions trading - to acquire and transfer allowances across the EU - with all the flexibility and cost advantages this affords over more traditional means of regulation.
+
+The IPPC Directive covers emissions of greenhouse gases. It requires Member States to ensure that installations are operated in such a way that all the appropriate preventive measures are taken against pollution, in particular application of the best
+
+available techniques. The IPPC Directive defines "pollution" in a very broad sense [5]. Normally under the IPPC Directive, the competent authorities should fix emission limit values for pollutants that are likely to be emitted from the installation concerned in significant quantities. Such limit values should be based on the best available techniques.
+
+[5]  The IPPC Directive defines pollution as "the direct or indirect introduction as a result of human activity of substances, vibrations, heat or noise into the air, water or land which may be harmful to human health or the quality of the environment, result in damage to material property, or impair or interfere with amenities and other legitimate uses of the environment".
+
+Under the approach taken in this proposal, an installation covered by the emissions trading scheme should not have a limit set by its IPPC permit on its direct of emissions of carbon dioxide and other greenhouse gases insofar as they are covered by the emissions trading scheme, except insofar as these may have significant local effects. So as to ensure the smooth interplay between this emission trading scheme and the IPPC Directive, an amendment to the IPPC Directive is necessary. This amendment would make explicit that if pollutants from an installation are covered by this Directive, then emission limit values shall not be set in respect of the direct emissions of those gases from that installation under the IPPC Directive unless they have a significant local impact. Until such a time as greenhouse gases from particular sources are covered by emissions trading, by their inclusion in Annex I of this proposal, the IPPC Directive would continue to apply.
+
+The IPPC Directive also requires efficient use of energy to be regulated in the permitting procedure, and this proposal is without prejudice to those requirements. So whilst this proposal in principle leaves Member States to determine the stringency of carbon dioxide abatement efforts that activities covered must achieve, provided that certain criteria are met, efficiency requirements for the use of energy (electricity, steam, hot water, cooling, etc.) under the IPPC Directive provide a common level of effort that must be undertaken by IPPC-regulated activities.
+
+10. Coverage of gases
+
+The Community scheme being proposed by this Directive covers, in principle, emissions of all the greenhouse gases covered by the Kyoto Protocol - as listed in Annex II. However, only carbon dioxide emissions from the activities listed in Annex I will be included from the start. In 1999, carbon dioxide accounted for over 80% of the Community's greenhouse gas emissions. Emissions of carbon dioxide are widely recognised as capable of generating good quality monitoring data on a consistent basis.
+
+Inclusion of the other greenhouse gases listed in the Kyoto Protocol is desirable but would be dependent on resolving monitoring, reporting and verification issues, possible local impacts as well as other Community policies and measures addressing emissions of these gases. In particular, emissions trading presupposes a sufficiently accurate monitoring of emissions, but the monitoring uncertainties are still too great for greenhouse gases other than carbon dioxide. For these reasons, emissions of greenhouse gases other than carbon dioxide are not included in the first phase of the scheme.
+
+It is proposed that the inclusion of greenhouse gases other than carbon dioxide in Annex I should be considered in the context of an amendment of the Directive, as their inclusion is not an appropriate subject matter for a Regulatory Committee to decide.
+
+11. Coverage of sectors
+
+The sectoral coverage of this Directive builds upon the framework of regulation arising from the IPPC Directive.
+
+Initially, only carbon dioxide emissions from the activities listed in Annex I will be covered by the scheme. Inclusion in the scheme of the "core activities" listed in Annex I will result in coverage of approximately 46% of estimated EU carbon dioxide emissions in 2010 [6] comprising some 4 000 to 5 000 installations. Significant carbon dioxide emitters currently not covered by the IPPC, such as power and heat generation installations between 20-50 MW, will also be included as these are also significant sources of carbon dioxide emissions, and their number is likely to increase in the future.
+
+[6]  Equivalent to approximately 38% of the European Community's projected total greenhouse gas emissions covered by the Kyoto Protocol in 2010.
+
+The chemical sector and waste incineration sectors would not be included, although carbon dioxide emissions from any on-site power and heat generating capacity would be included if it exceeds the threshold of 20 MW. The decision not to include the chemical sector initially is taken for two reasons: first, the chemical sector's direct emissions of carbon dioxide are not so significant (approximately 26 million tonnes of carbon dioxide in 1990, which is less than 1% of the EU's total emissions of carbon dioxide in the same year). Second, the number of chemical installations in the Community is high, in the order of 34 000 plants, and their inclusion would substantially increase the administrative complexity of the scheme. Finally, the waste incineration sector is not included due to the complexities of measuring the carbon content of the waste material that is being burnt.
+
+It is proposed that the inclusion of additional activities in Annex I should be considered in the context of an amendment of the Directive, as their inclusion is not an appropriate subject matter for a Regulatory Committee to decide.
+
+12. Permitting Process
+
+Member States' competent authorities would grant greenhouse gas emissions permits. These authorities could be the same as those implementing the IPPC Directive or new authorities, depending on each Member State's preference. For activities covered under the IPPC Directive, the greenhouse gas permit could be issued through a single procedure in accordance with that for permits under the IPPC Directive. Any changes that take place to the installation must be reported and could trigger a change in the conditions of the permit.
+
+13. Allocation and issuance of allowances
+
+It is proposed that in the period from 2005 to 2007 all Member States allocate allowances to participating installations for free. This common approach is to protect the internal market. Without such harmonisation, it is feared that if allowances were allocated on the basis of auctioning in one Member State but allocated free in another, competition may be distorted. Requiring participants to pay for their initial allocation will present particular difficulties in the first period because the price of allowances will still be unknown.
+
+By 30 June 2006 the Commission will review the experience gained during the allocation of allowances for the period 2005-2007 with a view to ascertaining which harmonised method would be most appropriate in future. There may be too little time for the Commission to make a proposal on the method of allocation for the period 2008-2012 that could be adopted and transposed in time to allow operators sufficient prior notice of how allocations would be made in that period. It is therefore proposed that pending adoption of such a proposal, the Commission, assisted by the Regulatory Committee, should be able to decide on the method of allocation in the period 2008-2012.
+
+The total quantity of allowances issued under the proposal would be left essentially to the Member States. However, in order to ensure that the sectors concerned by the emissions trading scheme contribute appropriately to the overall reduction of greenhouse gas emissions made necessary by the Community's international commitments, and to ensure a level playing-field between companies competing within the internal market, the allocation of allowances must comply with a set of criteria to be applied across the EU. These criteria are elaborated in Annex III of the proposal. This Annex can be further amended in the light of experience of the implementation of the Directive.
+
+Also, the quantities allocated should ensure that the overall emissions of all the participating installations collectively would not be higher than if the emissions were to be regulated under the IPPC Directive, which should be the case if the criteria contained in Annex III are followed. Member States, in establishing their national allocation plan, should consider the technological potential of the installations concerned to reduce direct greenhouse gas emissions. Furthermore, all allocation decisions would have to comply with Community requirements concerning State aid. The proposal does not spell out what would be consistent or inconsistent forms of allocation with regards to State aid as each situation will have to be examined on its merits. Member States should also ensure that new entrants have adequate access to allowances, so as to be able to establish their operations within the Member State in accordance with Article 43 of the Treaty.
+
+To ensure the transparency and fairness of allocations, Member States would be required to publish and to submit in advance to the Commission a national allocation plan that shall include objective and transparent criteria for allocation within that Member State. The national allocation plans would be examined within the framework of the Regulatory Committee. This proposal provides for the Commission to reject a plan that is inconsistent with the criteria within 3 months. However, when a national allocation plan contains State aid within the meaning of Article 87 of the EC Treaty, the plan has to be notified to the Commission in accordance with the provisions of Article 88.
+
+It is to be noted that State aid scrutiny examines the possible distortions of competition arising from exceptions to a general rule of allocation within a single Member State, and, as a general rule, the method of allocation should apply to all installations, with exceptions having to be duly motivated.
+
+There could also be a concern that once Member States have taken their decisions on initial allocation for the initial three-year or subsequent five-year periods, unforeseen circumstances might arise that would lead to sudden increases in the price of allowances. Such price spikes have not proven to be problematic in other emissions trading schemes elsewhere in the world, but this is subject to there being a sufficiently large and liquid market, allowing the participation of intermediaries able to develop options, derivatives and other risk-management tools. It is important, in this context, to allow unrestricted access to the market by intermediaries and other persons who may not have obligations arising from a greenhouse gas permit under this proposal, but whose inclusion will add liquidity to the market.
+
+Regarding the issue of whether other persons, such as environmental NGOs, should be able to buy allowances and then cancel them - thereby increasing their scarcity - this entitlement is already foreseen in the draft rules on use of the Kyoto mechanisms and national registries in the context of the implementing rules of the Kyoto Protocol [7]. Such possibility would not only maintain consistency with the UN rules for international emissions trading under the Protocol, but also would provide for the meaningful participation of civil society and have no material impact on the price of allowances in such a large market as is foreseen.
+
+[7]  FCCP/CP/2001/2/Add.4 page 24, paragraph 21(b) "Legal entities, where authorized by the Party, may also perform this function" [i.e. the function of cancellation of Assigned Amount Units or credits from the project mechanisms of the Kyoto Protocol].
+
+14. Validity of allowances and Banking
+
+Allowances created under the scheme will be recognised across the EU without the need for Member States to enter into any further arrangements regarding mutual recognition as a result of this Directive.
+
+It is proposed that allowances have a lifetime not extending beyond the end of the initial three or subsequent five-year period in which they are issued. This proposal therefore allows for the unrestricted banking of allowances from one year to the next during the initial three-year period or within each subsequent five-year period. Member States are free to decide whether to allow the banking of allowances between the period ending in 2007 and that starting in 2008. As from 2008, however, the proposal requires Member States to allow the banking of allowances from one five-year period to the next. Such banking does no harm to the environment while providing greater temporal flexibility. Banking will be ensured by the requirement that Member States issue to holders of surplus allowances at the end of each five-year period a corresponding number of "new" allowances in the following period in addition to the allocation of allowances that would have normally been issued.
+
+It should be noted that banking within the context of the Kyoto Protocol is conditional upon the relevant Party being in compliance with its obligations. These arrangements for banking are intended to ensure that, even if a Member State is not in compliance with its international commitments, holders of surplus allowances within its national registry would not lose the benefit of having obtained that surplus. At the end of a five-year period, businesses would effectively not be "dispossessed" of any surplus allowances they might hold. If uncertainties were to remain, they may lead to a reluctance to hold allowances as a "safety cushion" to cover unforeseen circumstances, and there would also be a risk that surplus allowances suddenly flow out of a Member State that looks unlikely to meet its commitments, thus worsening its predicament. In this way, Member States can legitimately claim to hold all the allowances held by account holders in their national registry at the end of a commitment period under the Kyoto Protocol.
+
+15. Tracking of allowances
+
+It is envisaged that a wide variety of individuals and groups will participate in the EU emissions trading market even though the obligation to surrender allowances as a fulfilment of their obligations will only apply in respect of the activities listed in Annex I. Allowances will only exist in electronic form. Accordingly, any natural or legal person will be able to hold allowances and retire them provided they establish accounts in national registries in accordance with the envisaged Regulation to be adopted. Allowances will only be transferable by those holding accounts in national registries.
+
+Integrity of the tracking system, by means of the system of national registries, is vital to the effective functioning of the emissions trading market. Discrepancies and fraud would damage the environmental integrity of the scheme as well as undermine its credibility. The elements contained in the proposal are based on experience of the allowance tracking system (ATS) under the US sulphur trading regime, elaboration of guidelines on national registries under the Kyoto Protocol, and the approach taken in the field of Community legislation concerning value added tax [8]. These have suggested the need for an independent transactions log. If irregularities are identified by automated checks, the registries concerned will not give effect to transactions relating to the allowances concerned until the underlying problem is resolved. Installations that have not had their emissions report verified as accurate would lose their right to transfer allowances until they are in compliance with the requirements of this Directive.
+
+[8]  Council Regulation (EEC) No 218/92 of 27 January 1992 on administrative cooperation in the field of indirect taxation (VAT), OJ L 24, 1.2.1992, p. 1.
+
+Because this component of the trading scheme will require a very high degree of consistency best achieved through harmonisation, it is suggested that detailed rules on the functioning of national registries should be undertaken by means of a separate Commission Regulation.
+
+16. Monitoring, reporting and verification
+
+Emissions must be subject to common monitoring, verification and reporting obligations among sources covered by the scheme to ensure the environmental integrity of the scheme. The proposal contains basic principles for monitoring and reporting criteria in Annex IV and sets up a framework for the elaboration of guidelines based on these principles through a Regulatory Committee procedure. Monitoring and reporting criteria specific for the activities undertaken by an installation will be elaborated in the installation's permit.
+
+The proposal also contains a list of binding verification criteria contained in Annex V. These leave it to the discretion of Member States to decide whether the verification is done by their competent authorities or through independent verifiers, and who should bear the cost of such verification. Failure to follow the monitoring and reporting requirements, or failure to have emissions reports verified in a timely and proper manner, should entail sanctions that would also include the suspension of further transfers of allowances by the operator until such a time as the deficiencies have been remedied.
+
+17. Compliance
+
+Cases involving breaches of the obligation to surrender sufficient allowances to cover verified emissions are to be dealt with in a stringent and consistent manner throughout the European Community. This would be attained by the imposition of a financial penalty either at a rate of EUR 100 per excess tonne or twice the average market price during a predetermined period, whichever is the higher. In the period prior to the commitment period of the Kyoto Protocol, this penalty would be EUR 50 per excess tonne or twice the average market price during a predetermined period, whichever is the higher. Other than setting the level of penalty for each tonne over-emitted, Member States shall determine and apply sanctions for breaches of the Directive that are "effective, proportionate and dissuasive".
+
+What is essential is that the penalties for non-compliance are sufficiently high to ensure that it makes no sense for an operator not to go out and buy from the market a sufficient number of allowances to cover the installation's actual emissions. The US sulphur trading scheme has an excellent compliance record in practice largely due to the high penalties applicable to cases of non-compliance.
+
+Furthermore, the imposition of a financial penalty would not remove the obligation in the following year for the operator of the over-emitting installation to surrender allowances corresponding to the excess emissions, or the pre-determined environmental outcome of the scheme as a whole will be undermined.
+
+It should be emphasised that the level of the penalties for non-compliance should be set having in mind that the vast majority of participants, if not all, should not incur them. Allowances are valid for the entirety of the period in which they are issued. Member States are required to issue a proportion of these allowances each year before the 28 February. The surrendering of the allowances in respect of the previous year's emissions by operators must take place by 31 March, by which time the allocations of the current year's allowances must have been made. As operators can use any of the allowances in their possession to fulfil their obligations, it is extremely unlikely that any operators acting in good faith will incur compliance penalties before the end of the period.
+
+18. Access to information and public participation
+
+The public should have access to information concerning the results of the monitoring, reporting and verification obligations, information on holdings in national registries and any actions concerning breaches of the Directive, in accordance with Directive 90/313/EEC on the freedom of access to information on the environment.
+
+It is necessary to ensure transparency in the allocation of allowances. National allocation plans give highly relevant information on how the Member States intend to meet their climate change commitments, just as they will also give information on the quantities to be allocated to individual installations. Allocation should be transparent and based on objective criteria. To this end, the proposal requires that Member States publish their national allocation plan, provide for comments to be made on it by the public and submit it to the Commission before taking any final decision, which must take due account of public comments.
+
+The proposed provisions are consistent with the Aarhus Convention that the European Community is committed to ratify soon. Many activities covered by this proposal are listed in Annex I to that Convention and will, following adoption of the Commission's proposal for a Directive of the European Parliament and the Council providing for public participation in respect of certain plans and programmes relating to the environment and amending Council Directives 85/337/EEC and 96/61/EC [9], be subject to public participation in respect of their emissions in accordance with Directive 96/61/EC.
+
+[9]   COM(2000) 839.
+
+19. Reporting by Member States
+
+This Section requires Member States to report to the Commission on issues relating to the operation of the trading scheme, including experience with allocation, the operation of national registries, monitoring, reporting, verification and enforcement.
+
+It is suggested that the first report be submitted by June 2005, with reports annually thereafter. Thus there would be twelve months between the first and second reports. The Commission is required to report annually on the operation of this scheme, nine months after the end of each compliance period. The Commission is also mandated to organise an exchange of information between the competent authorities of Member States concerning developments related to implementation of the Directive. The collection of monitoring data for greenhouse gas emissions according to common rules will facilitate the task of Member States to report emissions to the European Pollutant Emissions Register [10] and also improve the quality of data in that register.
+
+[10]   Commission Decision of 17 July 2000 on the implementation of a European pollutant emission register (EPER) according to Article 15 of Council Directive 96/91/EC concerning integrated pollution prevention and control (IPPC) OJ L 192, 28.7.2000, p. 36.
+
+20. Links with other emissions trading schemes and renewable certificates
+
+The scheme has been designed to be compatible with the international emissions trading to be established amongst Parties included in Annex B of the Kyoto Protocol. It can also link up with domestic trading schemes established by particular countries, such as those that may be established in Accession Countries if those countries have not already joined the Union. Such a linking of schemes would require the conclusion of agreements with other States according to which governments agree to mutually recognise each scheme's allowances towards fulfilment of the domestic obligations of installations. Before concluding such an agreement, each government would want to satisfy itself that the environmental quality of allowances issued elsewhere is satisfactory and that monitoring, compliance and national registry provisions are as robust. These and other issues would have to be negotiated by the Community and Member States with the respective countries involved. This is true also for emissions trading under the Kyoto Protocol, where the tradeable unit ("assigned amount units") can be traded only if the respective governments involved agree that these will be recognised as counting towards domestic obligations, and corresponding adjustments are made to national registries.
+
+Emissions trading under this proposal should also be compatible with another market-based instrument being developed within several Member States, namely "Tradeable Renewable Certificates". Moreover, provisions for the issuing of a "guarantee of origin" of electricity produced from renewable sources are also contained in Community legislation on renewable energy [11]. These certificates or guarantees represent the additional benefits of electricity from renewable energy sources. As renewable sources do not emit greenhouse gases, they would not be covered by the obligations of this proposal. Indeed, power companies might wish to invest in renewable generation capacity so as to reduce their emissions of greenhouse gases, while at the same time fulfilling objectives for the increased use of renewable energy. However, so as not to create confusion, renewable certificates should not be integrated with the greenhouse gas allowances needed for compliance with the obligations of this Directive. Furthermore, Member States should take account of renewable energy targets when deciding on the quantities of allowances to be allocated under this proposal.
+
+[11]  Directive of the European Parliament and of the Council of 7 September 2001 on the promotion of electricity from renewable energy sources in the internal electricity market (OJ L ...).
+
+21. Market organisation
+
+The proposal does not stipulate how the market in emissions allowances is to be organised. This is because the Commission is convinced that market structures will arise once the obligations are clear, and the allowances for fulfilling the obligations are established. The Commission wishes the organisation of the market in allowances to be left open to solutions driven by the private sector. Brokers will enter the market to provide services as intermediaries and thereby enhance liquidity. Similarly, it is anticipated that exchanges will compete to provide a place for buyers and sellers to meet. Such market intermediaries will facilitate price discovery, and the installations with obligations under this Directive will be able to benefit from the greater liquidity and flexibility offered. This approach is wholly in line with emissions trading experiences elsewhere in the world.
+
+22. Links with project-based mechanisms
+
+Adoption of this present proposal will establish an emissions trading scheme potentially covering the whole European Economic Area. The magnitude of this challenge is considerable. Consequently, this proposal does not foresee the inclusion of credits from national or international project-based mechanisms, in particular those under Articles 6 (Joint Implementation) and Article 12 (the Clean Development Mechanism) of the Kyoto Protocol. The Commission believes that the eventual inclusion of such credits is desirable, subject to the satisfactory resolution of outstanding issues regarding their environmental integrity. The Commission intends to subsequently make such a proposal in the form of a separate instrument on the implementation of project-based mechanisms in the EU. The content of that Directive cannot be anticipated at this stage, particularly as the rules and modalities of these international mechanisms have yet to be agreed.
+
+The interaction between a Community-wide emission trading system and international project-based mechanisms should be carefully considered. If the rules agreed by the United Nations are insufficiently robust in terms of environmental value, it is possible that one or more Member State may want to not allow entities to use these credits to meet their obligations under the greenhouse gas permit for the purposes of emissions trading. If other Member States continued to allow the use of these credits, Member States trying to restrict their domestic use would find it practically difficult to do so, as entities who could use these credits would use these against their domestic obligations and sell "allowances" into the market. This further instrument may also allow national offset-projects provided that the project meets acceptable environmental, verification and certification standards.
+
+23. Subsidiarity and proportionality
+
+The present proposal for a framework directive takes account of the principle of subsidiarity. The real economic benefit of emissions trading will only be obtained if allowances are fully tradeable and accepted across the Community. For this to be achieved, the establishment of a common framework is necessary if this new instrument, already being developed in some Member States, is not to create further barriers within the internal market. However, where appropriate decisions on implementation have been left to the competent authorities of Member States. Regarding proportionality, only those elements that are necessary for the proper functioning of the instrument and the achievement of the objectives of the Treaty are regulated by the present proposal.
+
+24.  Timing and review
+
+The Community emissions trading scheme will commence in 2005. The scheme will initially run until 31 December 2007, at which point a new multi-year period will commence that coincides exactly with the Kyoto Protocol's commitment period (2008-2012). Thereafter, the scheme will operate in five-year phases. Each phase will enable Member States to consider how many allowances they are to allocate in aggregate to their trading sectors. In this way, Member States should, as appropriate, gradually reduce the number of allowances in the light of more ambitious future commitments. During the initial 3 or later five-year phases, however, businesses will have certainty as to the quantity of total allowances available.
+
+By 31 December 2004, the Commission may make a proposal to include other activities and emissions of other greenhouse gases, once accurate monitoring guidelines for these gases can be elaborated.
+
+A review may also be carried out by 30 June 2006 based on experience of the implementation of this proposal, and in the light of developments in the international context. This review shall be accompanied by proposals as appropriate.
+
+2001/0245 (COD)
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof,
+
+Having regard to the proposal from the Commission [12],
+
+[12]  OJ C
+
+Having regard to the opinion of the Economic and Social Committee [13],
+
+[13]  OJ C
+
+Having regard to the opinion of the Committee of the Regions [14],
+
+[14]  OJ C
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty [15],
+
+[15]  OJ C
+
+Whereas:
+
+(1) The Green Paper on greenhouse gas emissions trading within the European Union [16] launched a debate across Europe on the suitability and possible functioning of greenhouse gas emissions trading within the European Union. The European Climate Change Programme [17] has considered Community policies and measures through a multi-stakeholder process, including a framework for greenhouse gas emissions trading in the Community based on the Green Paper. In its Conclusions of 8 March 2001, the Council recognised the particular importance of the European Climate Change Programme and work based on the Green Paper, and underlined the urgent need for concrete action on Community level.
+
+[16]  COM(2000) 87.
+
+[17]  COM(2000) 88.
+
+(2) The sixth Environmental Action Programme: Environment 2010: Our Future, Our Choice [18] identifies climate change as a priority for action and provides for the establishment of a Community-wide emissions trading scheme by 2005. That Programme recognises that the Community is committed to achieving an 8% reduction in emissions of greenhouse gases by 2008 to 2012 compared to 1990 levels, and that in the longer-term global emissions of greenhouse gases will need to be reduced by approximately 70% compared to 1990 levels.
+
+[18]  COM(2001) 31.
+
+(3) The ultimate objective of the United Nations Framework Convention on Climate Change, which was approved by Council Decision 94/69/EC of 15 December 1993 concerning the conclusion of the United Nations Framework Convention on Climate Change [19], is to achieve stabilisation of greenhouse gas concentrations in the atmosphere at a level which prevents dangerous anthropogenic interference with the climate system.
+
+[19]   OJ L 33, 7.2.1994, p. 11.
+
+(4) Once it enters into force, the Kyoto Protocol, which was approved by Council Decision xx/xxxx/EC [of ..., concerning the conclusion of the Kyoto Protocol to the United Nations Framework Convention on Climate Change and the joint fulfilment of commitments thereunder] [20]  will commit the Community and its Member States to reduce their aggregate anthropogenic emissions of greenhouse gases listed in Annex A to the Protocol by 8% compared to 1990 levels in the period 2008 to 2012.
+
+[20]  OJ L
+
+(5) The Community and its Member States have agreed to fulfil their commitments to reduce anthropogenic greenhouse gases emissions under the Kyoto Protocol jointly, in accordance with Decision xx/xxxx/EC [concerning the conclusion of the Kyoto Protocol to the United Nations Framework Convention on Climate Change and the joint fulfilment of commitments thereunder].
+
+	
+(5a)   On 6 February 2002 the European Parliament approved by an overwhelming majority the proposal for a Council decision concerning the conclusion, on behalf of the European Community, of the Kyoto Protocol and the joint commitments thereunder. The European Parliament insisted that the burden sharing agreement agreed in June 1998 be fully observed.
+
+(5a)   Member States are required to meet their national reduction commitments locally, as a matter of urgency, using the resources they deem to be appropriate for that purpose.
+
+(6) Council Decision 93/389/EEC of 24 June 1993 for a monitoring mechanism of Community CO2 and other greenhouse gas emissions [21], established a mechanism for monitoring greenhouse gas emissions and evaluating progress towards meeting commitments in respect of these emissions. This mechanism will assist Member States in determining the total quantity of allowances to allocate.
+
+(6a)   The problem of emissions must be tackled at EU level, and not by each Member State individually on its own behalf, because there is an internal market and numerous EU firms have production facilities in more than one Member State.
+
+[21]  OJ L 167, 9.7.1993, p. 31; Decision as amended by Decision 1999/296/EC (OJ L 117, 5.5.1999, p. 35).
+
+(7)   Community provisions relating to allocation of allowances by the Member States are necessary to contribute to preserving the integrity of the internal market and to avoid distortions of competition. Allowances should be allocated in accordance with a method which keeps to a minimum distortions of competition within the same sectors in different countries and which, in so far as possible, ensures equal treatment of installations whose environmental performance is similar.
+
+(8) Member States should ensure that the operators of certain specified activities monitor and report their emissions of greenhouse gases specified in relation to those activities.
+
+(9)   Member States should lay down rules on penalties applicable to infringements of the provisions of this Directive and ensure that they are implemented. Those penalties must be effective, proportionate and dissuasive. The level of the penalties must not be such as to hinder the operation of the internal market.
+
+(10) In order to ensure transparency, the public should have access to information relating to the allocation of allowances and to the results of monitoring of emissions subject only to restrictions provided for in Council Directive 90/313/EEC of 7 June 1990 on the freedom of access to information on the environment [22].
+
+[22]  OJ L 158, 23.6.1990, p. 56.
+
+(11)  Member States should submit a report on the implementation of this Directive drawn up on the basis of Council Directive 91/692/EEC of 23 December 1991 standardising and rationalising reports on the implementation of certain Directives relating to the environment [23].
+
+[23]  OJ L 377, 31.12.1990, p. 48.
+
+(11a)   The Member States must ensure that indirect mechanisms to reduce CO2, such as combined heat and power generation (CHP), receive consideration in national allocation plans.
+
+[24]  OJ L 184, 17.7.1999, p. 23.
+
+(13) Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control [25] establishes a general framework for pollution prevention and control, through which greenhouse gas emissions permits may be issued. Directive 96/61/EC should be amended to ensure that emission limit values are not set for direct emissions of greenhouse gases from an installation subject to this Directive, without prejudice to any other requirements pursuant to Directive 96/61/EC.
+
+[25]  OJ L 257, 10.10.1996, p. 26.
+
+(14) Since the objective of the proposed action, the establishment of a scheme for greenhouse gas emission allowance trading in the Community, cannot be sufficiently achieved by the Member States acting individually, and can therefore by reason of the scale and effects of the proposed action be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective.
+
+(15) This Directive is compatible with the United Nations Framework Convention on Climate Change and the Kyoto Protocol. It should be reviewed in the light of developments in that context and to take into account experience in its implementation and progress achieved in monitoring of emissions of greenhouse gases.
+
+(15a)   The European Community will continue the negotiations for commitments by its major trading partners in order to achieve an international regime for greenhouse gas emission trading. Meanwhile the European Community has to set a good example to the world by leading the way to reducing greenhouse gas emissions.
+
+(16)   Emission allowance trading should form a flexible and complementary part of a comprehensive and coherent package of policies and measures implemented at Member State and Community level that generates substantial emission reductions across all sectors of the EU economy. While this Directive aims at achieving this for energy-intensive industries and power sector utilities, comparable targets need to be set and instruments developed for other sectors, such as non-energy intensive manufacturing, small and medium-sized enterprises and the transport, service, agricultural, government and domestic sectors . Greenhouse gases emissions trading and energy taxation should be seen as complementary instruments. Therefore, without prejudice to the application of Articles 87 and 88 of the Treaty, where activities are covered by the Community greenhouse gas emission allowance trading scheme, it would be appropriate to take into account the level of taxation that pursues the same objectives. The review of the Directive should consider the extent to which these have been attained.
+
+(16a)   Policies and measures must be implemented at Member State and Community level across all sectors of the EU economy, and not only within the industry and energy sectors, in order to generate substantial emissions reductions. Member States must ensure that the choice and substance of policy instruments and measures do not, within a particular sector, result in competition-distorting unequal treatment of undertakings which is not objectively justified, such as, for instance, advantages and disadvantages in terms of policy on climate.
+
+
+(16b)   Emission allowance trading shall not replace existing charges levied on energy and CO2 emissions. Emission allowance trading shall instead supplement regulation through charging and ensure that the Member States' commitments on reducing greenhouse gas emissions are fulfilled.
+
+(16c)   This directive only applies to the use of fluorinated gases in industrial activities referred to in Annex 1. The use and containment of fluorinated gases in consumer products should be covered by the future proposal for framework legislation on fluorinated gases.
+
+	
+(16d)   Notwithstanding the multifaceted potential of market-based mechanisms, the EU strategy for climate change mitigation must be built on a balance between the emissions trading scheme and other types of Community, domestic and international action.
+
+(17) This Directive respects the fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union,
+
+(17a)   Mutual recognition of allowances between the Community greenhouse gas emissions trading scheme and other greenhouse gas emissions trading schemes according to article 24 of this Directive is an unique opportunity to get Parties like the U.S., which have not yet ratified the Kyoto Protocol, back on board.
+
+
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Subject matter
+
+This Directive establishes a Community greenhouse gas emission allowance trading scheme in order to promote reductions of greenhouse gas emissions in a cost-effective manner. The Directive is intended to contribute towards fulfilling the commitments of the EU and its Member States more effectively, with the least possible diminution of economic development and employment.
+
+Article 2
+
+Scope
+
+1.   This Directive shall apply to emissions from the activities listed in Annex I of greenhouse gases specified in relation to those activities. The Member States shall, however, also be able to extend the scheme to additional sectors, activities and installations if it does not conflict with Article 87 (and 88) of the Treaty. For the period referred to in Art. 11 (1), a list of additional sectors and activities shall be notified to the Commission by 31 March 2004 at the latest. For subsequent periods the list of additional sectors, activities and installations shall be notified to the Commission at least 18 months before the beginning of the relevant period. Within 3 months of notification, the Commission may reject completely, or in part, the list of additional sectors, activities and installations on the basis that it conflicts with Article 87 (or 88) of the Treaty.
+
+
+
+2. This Directive shall apply without prejudice to any requirements pursuant to Directive 96/61/EC that relate to energy efficiency.
+
+
+All greenhouse gases referred to in Annex II shall be included in the Community emissions trading scheme provided that:
+
+ 	
+a.   the quality of data with regard to non-CO2 greenhouse gases for a particular reference year is satisfactory, and
+
+ 	
+b.   accepted methods on measurement, monitoring and calculation under Annex IV for non-CO2 greenhouse gases are developed by the Commission in collaboration with all stakeholders and agreed in accordance with the procedure referred to in Article 23(2).
+
+Article 3
+
+Definitions
+
+For the purposes of this Directive the following definitions shall apply:
+
+(a) "allowance" means an allowance to emit one tonne of carbon dioxide equivalent during a specified period valid only for the purposes of meeting the requirements of this Directive and which is transferable in accordance with the provisions of this Directive;
+
+(b) "emissions" means the release of greenhouse gases into the atmosphere from sources in an installation;
+
+(c) "greenhouse gases" means the gases listed in Annex II;
+
+(d) "greenhouse gas emissions permit" means the permit issued in accordance with Articles 5 and 6;
+
+(e) "installation" means a stationary technical unit where one or more activities listed in Annex I are carried out;
+
+(f) "operator" means any person who operates or controls an installation or, where this is provided for in national legislation, to whom decisive economic power over the technical functioning of the installation has been delegated;
+
+(g) "person" means any natural or legal person;
+
+(h) "the public" means one or more persons and, in accordance with national legislation or practice,associations, organisations or groups of persons;
+
+(i) "tonne of carbon dioxide equivalent" means one metric tonne of carbon dioxide (CO2) or an amount of any other greenhouse gas listed in Annex II with an equivalent global warming potential.
+
+Article 4
+
+Greenhouse gas emissions permits
+
+Member States shall ensure that, from 1 January 2005, no installation undertakes any activity listed in Annex I resulting in emissions of a greenhouse gas specified in relation to that activity unless its operator holds a permit issued by a competent authority in accordance with Articles 5 and 6.
+
+Member States shall take account of the corresponding carbon value of savings achieved through CHP investments when allocating allowances to operators using the European Guidance on the Carbon Equivalence that shall be prepared by the Commission prior to the scheme's entry into force.
+
+
+
+Article 5
+
+Applications for permits
+
+An application to the competent authority for a greenhouse gas emissions permit shall include a description of:
+
+(a) the installation and its activities;
+
+(b) the raw and auxiliary materials, the use of which is likely to lead to emissions;
+
+(c)   the sources and volume of emissions from the installation; and
+
+(d) the measures planned to monitor emissions, in accordance with the guidelines adopted pursuant to Article 14
+
+The application shall also include a non-technical summary of the details referred to in the first paragraph.
+
+(da)   , the nature and the extent of the expected emissions from the installation;
+
+Article 6
+
+Conditions for and contents of the permit
+
+1.   Without prejudice to other requirements laid down in national or Community law, the competent authority shall issue a greenhouse gas emissions permit granting authorisation to emit greenhouse gases from all or part of an installation if it is satisfied that the operator is capable of monitoring and reporting emissions.
+
+A permit may cover one or more installations on the same site operated by the same operator.
+
+2. Greenhouse gas emissions permits shall contain the following:
+
+(a) the name and address of the operator;
+
+(b) a description of the activities and emissions from the installation;
+
+(c) monitoring requirements, specifying monitoring methodology and frequency ;
+
+(d) reporting requirements; and
+
+(e) an obligation to surrender allowances equal to the total emissions of the installation in each calendar year, as verified in accordance with Article 15, within three months following the end of that year.
+
+Article 7
+
+Changes relating to installations 
+The operator shall inform the competent authority of any change planned in the nature or functioning, or an extension, of the installation. Where appropriate, the competent authority shall update the permit in consultation with the operator. Where there is a change in the identity of the installation's operator, the new operator shall inform the competent authority within one month.
+
+Article 8
+
+Coordination with Directive 96/61/EC
+
+Member States shall take the necessary measures to ensure that, where installations carry out activities that are included in Annex I to Directive 96/61/EC, the conditions of, and procedure for, the issue of a greenhouse gas emissions permit are coordinated with those for the permit provided for in that Directive. The requirements of Articles 5, 6 and 7 of this Directive may be integrated into the procedures provided for in Directive 96/61/EC.
+
+Article 9
+
+National allocation plan
+
+1.   For each period referred to in Article 11(1) and (2), each Member State shall develop a national plan stating the total quantity of allowances that it intends to allocate for that period and how it proposes to allocate them. The plan shall be based on the objective and transparent criteria listed in Annex III.
+
+1a.   The total quantity referred to in paragraph 1 shall be no more than x%1 of the Member State’s emissions level determined in terms of tonnes of carbon dioxide equivalent pursuant to Decision xx/xxxx/EC2
+
+ 	
+Before this determination has taken place, the total quantity referred to in paragraph 1 shall be no more than x%1 of the quantity of emissions that would result in the relevant period determined by a straight trend-line between the Member State´s base year emissions and its target established by Decision XX/XXXX/EC.
+
+ 	
+1 x corresponds to the share of total emissions produced by the installations covered by this Directive in the Member State concerned in 1990.
+
+ 	
+2 Decision concerning the conclusion of the Kyoto Protocol to the United Nations Framework Convention on Climate Change and the joint fulfilment of commitments thereunder.
+
+1b.   Late entrants (i.e. eligible installations constructed after 1990) will be allocated emission allowances in accordance with the provisions of Article 10 equal to the average emissions of installations of the same or most similar type in the year of commissioning, constructed according to best available practice (in terms of CO2 emissions). The Commission will issue further detailed guidance on this matter before 2004 and will update the guidance annually
+
+For the period referred to in Article 11(1), the plan shall be published and notified to the Commission and to the other Member States by 31 March 2004 at the latest. For subsequent periods, the plan shall be published and notified to the Commission and to the other Member States at least eighteen months before the beginning of the relevant period.
+
+2. National allocation plans shall be considered within the committee referred to in Article 23(1).
+
+2a.   The committee shall compare the allocation plans of the Member States and assess them with a view to identifying elements which would distort the market and prevent competition within the European Union. The committee shall advise the Commission on the subject.
+
+3.   Within three months of notification of a national allocation plan by a Member State under paragraph 1, the Commission may reject that plan, or any aspect thereof, on the basis that it is incompatible with the criteria listed in Annex III or with Article 10. The Member State shall only take a decision under Article 11(1) or (2) if proposed amendments are accepted by the Commission. The Commission shall take into account the compatibility with other greenhouse gas emission trading schemes which already exist in Member States.
+
+Article 10
+
+Method of allocation
+
+1. For the three-year period beginning 1 January 2005, Member States shall allocate allowances free of charge.
+
+2.   The Commission shall present to the European Parliament and the Council of Ministers, no later than 31 December 2005, in accordance with Article 26(2)b, a proposal for a directive on a harmonised method of allocation for the five-year period beginning 1 January 2008 on the basis of an amendment to this Directive.
+
+Article 11
+
+Allocation and issue of allowances
+
+1.   For the three-year period beginning 1 January 2005, each Member State shall, after having calculated the total quantity of allowances for that period according to Article 9, decide upon the allocation of those allowances to the operator of each installation. This decision shall be taken at least six months before the beginning of the period and be based on its national allocation plan developed pursuant to Article 9 and in accordance with Article 10, taking due account of comments from the public.
+
+1a.   As from when they start to participate, for the remainder of the period referred to in Article 11(1), new entrants shall acquire their allowances on the emissions market. For the following period as referred to in Article 11(2), new entrants shall receive their allocation, in the same way as all other participants in the market. Allowances for all operators shall be adjusted for the period referred to in Article 11(2) in such a way that the total level of allowances provided for this period for each Member State is not exceeded.
+
+ 	
+The provisions of this subparagraph shall apply in the same way to existing participants in the market which extend their installations as to new entrants.
+
+2.   For the five-year period beginning 1 January 2008, and for each subsequent five-year period, each Member State shall, after having calculated the total quantity of allowances for the relevant period according to Article 9, decide upon the allocation of those allowances to the operator of each installation. This decision shall be taken at least twelve months before the beginning of the relevant period and be based on its national allocation plan developed pursuant to Article 9 and in accordance with Article 10, taking due account of comments from the public.
+
+3. Decisions taken pursuant to paragraph 1 or 2 shall be in conformity with the requirements of the Treaty, in particular Articles 87 and 88 thereof. When deciding upon allocation, Member States shall take into account the need to provide access to allowances for new entrants.
+
+4. The competent authority shall issue a proportion of the total quantity of allowances each year of the period referred to in paragraph 1 or 2, by 28 February of that year.
+
+	
+4a.   In conjunction with the accession of new Member States, the total quantity of allocations laid down in Article 10 shall be reduced, after review by the Commission, so as to ensure that no surplus of allowances develops.
+
+Article 12
+
+Transfer, surrender and cancellation of allowances
+
+1. Member States shall ensure that allowances can be transferred between persons within the Community without restrictions other than those contained in, or adopted pursuant to, this Directive. In particular, allowances allocated to installations in one Member State, which are owned by the same company shall be allowed to be transferred without restrictions within the company.
+
+
+
+2. Member States shall ensure that allowances issued by a competent authority of another Member State are recognised for the purpose of meeting an operator's obligations pursuant to paragraph 3.
+
+3. Member States shall ensure that, by 31 March each year at the latest, the operator of each installation surrenders a number of allowances equal to the total emissions from that installation during the preceding calendar year as verified in accordance with Article 15, and that these are subsequently cancelled.
+
+4. Member States shall take the necessary steps to ensure that allowances can be cancelled at any time at the request of the person holding them.
+
+4a.   Member States shall cancel the allowances of installations
+
+-   which are closed down;
+
+-   whose capacity is cut back;
+
+-   which continue to operate under the same or worse conditions in non-EU countries.
+
+4b.   The system introduced by the Member States for the transfer, surrender and cancellation of allowances must ensure transparency as regards the ownership of emission allowances at each moment and as regards the transactions performed between companies inside and outside the Member States.
+
+4c.   Member States shall ensure that operators of installations may use, in the next period, emissions that have not been used or sold.
+
+4d.   Member States shall ensure that operators of installations may, within the periods in accordance with Article 11(1) and (2), bring forward allowances or put aside allowances for a subsequent year.
+
+Where an installation ceases to carry out an activity listed in Annex I during a period referred to in Article 11(1) or (2), the competent authority may decide not to issue any further allowances to the operator of that installation during the remainder of the period in respect of that installation unless the operator can demonstrate that the closure is related to a corresponding new investment made within the Community
+
+Article 13
+
+Validity of allowances
+
+1. Allowances shall be valid for emissions during the period referred to in Article 11(1) or (2) for which they are issued.
+
+2. Three months after the beginning of the first five-year period referred to in Article 11(2), allowances which are no longer valid and have not been surrendered and cancelled in accordance with Article 12(3) shall be cancelled by the competent authority.
+
+Member States may issue allowances to persons for the current period to replace any allowances held by them which are cancelled in accordance with the first subparagraph.
+
+3. Three months after the beginning of each subsequent five-year period referred to in Article 11(2), allowances which are no longer valid and have not been surrendered and cancelled in accordance with Article 12(3) shall be cancelled by the competent authority.
+
+Member States shall issue allowances to persons for the current period to replace any allowances held by them which are cancelled in accordance with the first subparagraph.
+
+Article 14
+
+Guidelines for monitoring and reporting of emissions
+
+1. The Commission shall adopt guidelines for monitoring and reporting of emissions resulting from the activities listed in Annex I of greenhouse gases specified in relation to those activities, in accordance with the procedure referred to in Article 23(2). The guidelines shall be based on the principles for monitoring and reporting set out in Annex IV.
+
+2. Member States shall ensure that emissions are monitored in accordance with the guidelines.
+
+3. Member States shall ensure that each operator of an installation reports the 3.   Member States shall ensure that each operator of an installation reports the emissions from that installation during each calendar year to the competent authority three months after the end of that year in accordance with the guidelines.
+
+Article 15
+
+Verification
+
+Member States shall ensure that the reports submitted by operators pursuant to Article 14(3) are verified in accordance with the criteria set out in Annex V, and that the competent authority is informed thereof.
+
+Member States shall ensure that an operator whose report has not been verified as satisfactory in accordance with the criteria set out in Annex V by 31 March each year for emissions during the preceding year cannot make further transfers of allowances until a report from that operator has been verified as satisfactory.
+
+Article 16
+
+Penalties
+
+1. Member States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall notify these provisions to the Commission by 31 December 2003 at the latest, and shall notify it without delay of any subsequent amendment affecting them.
+
+2.   Member States shall publish the names of operators who have failed to comply with their obligation to surrender emission allowances pursuant to this Directive.
+
+3.   Member States shall ensure that any operator which does not surrender sufficient allowances by 31 March of each year to cover its emissions during the preceding year shall be held liable for the payment of an excess emissions penalty. The excess emissions penalty shall be EUR 100 for each tonne of carbon dioxide equivalent emitted by that installation for which the operator has not surrendered allowances. Payment by the excess emissions shall not release the operator from the obligation to surrender an amount of allowances equal to those excess emissions when surrendering allowances in relation to the following calendar year.
+
+4.   During the three-year period beginning 1 January 2005, member States shall apply a lower excess emissions penalty of EUR 50 for each tonne of carbon dioxide equivalent emitted by that installation for which the operator has not surrendered allowances. Payment of the excess emissions penalty shall not release the operator from the obligation to surrender an amount of allowances equal to those excess emissions when surrendering allowances in relation to the following calendar year.
+
+	
+4a.   Member States shall report on the way in which penalties and the purchase of additional allowances are treated for tax purposes against results.
+
+4b.   Revenues derived from the penalty arrangements referred to in paragraphs 3 and 4 shall be used for the purpose of reducing emissions via the purchase of allowances by the Member State. Following their purchase, these allowances shall be withdrawn from the market.
+
+4c.   The Member States shall harmonise the fiscal treatment of trading in allowances and corresponding penalties by means of the open method of coordination.
+
+
+
+Article 17
+
+Access to information
+
+Decisions relating to the allocation of allowances and the reports of emissions required under the greenhouse gas emissions permit and held by the competent authority shall be made available to the public by that authority subject to the restrictions laid down in [reference to the new access to environmental information Directive which will be finished by the end of summer]
+
+Article 18
+
+Competent authority and access to justice
+
+Member States shall make the appropriate administrative arrangements, including the designation of the appropriate competent authority or authorities, for the implementation of the rules of this Directive. Where more than one competent authority is designated, the work of these authorities pursuant to this Directive must be coordinated.
+
+	
+Member States shall ensure that, in accordance with the relevant national legal system, operators and other persons participating in the emissions trading has access to a review procedure before a court of law or another independent and impartial body established by law to challenge the substantive or procedural legality of decisions, acts or omissions subject to the provisions of this Directive.
+
+
+
+Article 19
+
+Registries
+
+1. Member States shall establish and maintain a registry in order to ensure the accurate accounting of the issue, holding, transfer and cancellation of allowances. Member States may maintain their registries in a consolidated system, together with one or more other Member States.
+
+2. Any person may hold allowances. The registry shall contain separate accounts to record the allowances held by each person to whom allowances are issued or transferred.
+
+3. In order to implement this Directive, the Commission shall adopt a Regulation in accordance with the procedure referred to in Article 23(2) for a standardised and secured system of registries in the form of standardised electronic databases, containing common data elements to track the issue, holding, transfer and cancellation of allowances, to provide for confidentiality as appropriate and to ensure that there are no transfers incompatible with obligations resulting from the Kyoto Protocol.
+
+Article 20
+
+Central Administrator
+
+1. The Commission shall designate a Central Administrator to maintain an independent transaction log recording the issue, transfer and cancellation of allowances.
+
+2. The Central Administrator shall conduct an automated check on each transaction in registries through the independent transaction log to ensure there are no irregularities in the issue, transfer and cancellation of allowances.
+
+3. If irregularities are identified through the automated check, the Central Administrator shall inform the Member State or Member States concerned who shall not register the transactions in question or any further transactions relating to the allowances concerned until the irregularities have been resolved.
+
+Article 21
+
+Reporting by Member States
+
+1. Each year the Member States shall submit to the Commission a report on the application of this Directive. This report shall pay particular attention to the arrangements for the allocation of allowances, the operation of registries, the application of the monitoring and reporting guidelines, verification and issues related to compliance with the Directive. The first report shall be sent to the Commission by 31 May 2005. The report shall be drawn up on the basis of a questionnaire or outline drafted by the Commission in accordance with the procedure laid down in Article 6 of Directive 91/692/EEC. The questionnaire or outline shall be sent to Member States at least six months before the deadline for the submission of the first report.
+
+2. Based on the reports referred to in paragraph 1 the Commission shall publish a report on the application of this Directive within three months of receiving the reports from the Member States.
+
+3. The Commission shall organise an exchange of information between the competent authorities of the Member States concerning developments related to issues of allocation, the operation of registries, monitoring, reporting, verification and compliance.
+
+
+Article 23
+
+Committee
+
+1. The Commission shall be assisted by the committee instituted by Article 8 of Decision 93/389/EEC.
+
+2. Where reference is made to this paragraph, the regulatory procedure laid down in Article 5 of Decision 1999/468/EC shall apply, in compliance with Article 7 and Article 8 thereof.
+
+3. The period provided for in Article 5(6) of Decision 1999/468/EC shall be three months.
+
+
+Temporary exclusion of certain installations
+
+ 	
+1.   Member States may apply to the Commission to temporarily exclude certain installations from the Community greenhouse gas emissions trading scheme until 31 December 2007. Any such application shall list each such installation and shall be published.
+
+ 	
+2.   The Commission shall agree to the request by a Member State for the temporary exclusion of certain installations, provided that the installations will
+
+ 	
+(a)   as a result of national policies, limit their emissions as much as would be the case if they were subject to the provisions of this Directive;
+
+ 	
+(b)   be subject to monitoring, reporting and verification requirements which are equivalent to those provided for pursuant to Articles 14 and 15, and;
+
+ 	
+(c)   in case of non-fulfilment of the emissions limit referred to in (a), be subject to comparable penalties as those laid down in Article 16,
+
+ 	
+3.   Member States shall include information about installations falling within paragraph 2 in the national allocation plans developed pursuant to Article 9. This information shall include a description of the installations concerned and details of the policies or measures limiting their emissions.
+
+Article 24
+
+Links with other greenhouse gas emissions trading schemes
+
+1.   The Community may, on the basis of, and in accordance with, the agreements under the Kyoto Protocol, conclude agreements with Annex-I third countries, which have ratified the Kyoto Protocol, to provide for the mutual recognition of allowances between the Community greenhouse gas emissions trading scheme and other greenhouse gas emissions trading schemes in accordance with the rules set out in Article 300 of the Treaty.
+
+ 	
+In so far as the Community’s agreements with the applicant countries on the mutual recognition of allowances are not covered by the accession negotiations, the Community must conclude agreements with the applicants.
+
+2. Where an agreement referred to in paragraph 1 has been concluded, the Commission shall draw up any necessary provisions relating to the mutual recognition of allowances under that agreement in accordance with the procedure referred to in Article 23(2).
+
+Any agreement referred to in para 1 for mutual recognition of allowances between the Community greenhouse gas emission trading scheme and other greenhouse gas emission trading schemes shall be limited to the trade of emission reduction allowances, and the use of sinks within this scheme shall be precluded.
+
+Links with the Kyoto Protocol project based mechanisms
+
+ 	
+1.   Credits from clean development mechanism and joint implementation projects under the Kyoto Protocol do not fall within the scope of this Directive in the first period beginning in 2005.
+
+ 	
+2.   The emission allowance trading according to this Directive may only be linked to credits from clean development mechanism or joint implementation from projects which do not involve carbon sinks and nuclear energy sources
+
+Article 25
+
+Amendment of Directive 96/61/EC
+
+In Article 9 (3) of Directive 96/61/EC the following sub-paragraph is added:
+
+"Where emissions of a greenhouse gas from an installation are specified in Annex I to Directive xx/xxxx/EC of the European Parliament and of the Council [establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC]* in relation to an activity carried out in that installation, the permit shall not include an emission limit value for direct emissions of that gas unless it is necessary to ensure that no significant local pollution is caused. Where necessary, the competent authorities shall amend the permit to remove the emission limit value.
+
+______________
+
+* OJ L ..."
+
+Article 26
+
+Review
+
+1.   Based on progress achieved in the monitoring of emissions of greenhouse gases, the Commission shall make a proposal to the European Parliament and the Council by 30 June 2006 to amend Annex I to include other sectors and activities.
+
+2.   Based on experience in the three-year period beginning 1 January 2005 and on progress achieved in the monitoring of emissions of greenhouse gases and in the light of developments in the international context, the Commission shall draw up a report on the application of this Directive accompanied by proposals as appropriate, considering:
+
+(a) whether Annex I should be amended to include other activities and emissions of other greenhouse gases listed in Annex II, with a view to further improving the economic efficiency of the scheme;
+
+(aa)   the relationship of EU-wide emissions trading with the international emission trading that will start in 2008;
+
+(b)   further harmonisation of the method of allocation;
+
+(c)   possible amendments to adapt the trading scheme to an enlarged European Union;
+
+(ec)   aspects of schemes currently operating in EU Member States up to 2005 which could be incorporated into the EU-Emission Trading Scheme.
+
+(d) the relationship of emissions trading with other policies and measures implemented at Member State and Community level, including taxation that pursue the same objectives; and
+
+(e) whether it is appropriate for there to be a single Community registry.
+
+The Commission shall submit any such report to the European Parliament and the Council by 30 June 2006, accompanied by proposals as appropriate.
+
+Article 27
+
+Implementation
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 December 2003 at the latest. They shall forthwith inform the Commission thereof. The Commission shall notify the other Member States of those laws, regulations and administrative provisions.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+Without prejudice to implementing measures already laid down, the application of the provisions of this directive laying down technical requirements and decisions pursuant to the procedure in Article 23(2) (provision in the respective legislative acts referring to the 1999 comitology decision) shall be suspended following the expiry of a period of five years calculated from the date of commencement of the first period as referred to in Article 11 (2). Acting on a proposal from the Commission, the European Parliament and the Council may, in accordance with the procedure laid down in Article 251 of the EC Treaty, extend the period of validity of the relevant provisions. To that end, they shall consider the matter again prior to the expiry of the aforementioned period.
+
+Without prejudice to implementing measures already laid down, the application of the provisions of this directive laying down technical requirements and decisions pursuant to the procedure in Article 23(2) (provision in the respective legislative acts referring to the 1999 comitology decision) shall be suspended following the expiry of a period of five years calculated from the date of commencement of the first period as referred to in Article 11 (2). Acting on a proposal from the Commission, the European Parliament and the Council may, in accordance with the procedure laid down in Article 251 of the EC Treaty, extend the period of validity of the relevant provisions. To that end, they shall consider the matter again prior to the expiry of the aforementioned period.
+
+Article 28
+
+Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.
+
+Article 29
+
+Addressees
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+ANNEX I
+
+CATEGORIES OF ACTIVITIES REFERRED TO IN ARTICLES 2(1), 3, 4, 14(1) AND 26
+
+1. Installations or parts of installations used for research, development and testing of new products and processes are not covered by this Directive.
+
+2. The threshold values given below generally refer to production capacities or outputs. Where one operator carries out several activities falling under the same subheading in the same installation or on the same site, the capacities of such activities are added together.
+
+Activities  //  Greenhouse gases
+
+Energy activities
+
+Combustion installations with a rated thermal input exceeding 20 MW (excepting hazardous or municipal waste installations)  //
+
+Carbon dioxide
+
+Mineral oil refineries  //  Carbon dioxide
+
+Coke ovens  //  Carbon dioxide
+
+Production and processing of ferrous metals
+
+Metal ore (including sulphide ore) roasting or sintering installations  //
+
+Carbon dioxide
+
+Installations for the production of pig iron or steel (primary or secondary fusion) including continuous casting, with a capacity exceeding 2.5 tonnes per hour  //  Carbon dioxide
+
+Mineral industry
+
+Installations for the production of cement clinker in rotary kilns with a production capacity exceeding 500 tonnes per day or lime in rotary kilns with a production capacity exceeding 50 tonnes per day or in other furnaces with a production capacity exceeding 50 tonnes per day  //
+
+Carbon dioxide
+
+Installations for the manufacture of glass including glass fibre with a melting capacity exceeding 20 tonnes per day  //  Carbon dioxide
+
+Installations for the manufacture of ceramic products by firing, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain, with a production capacity exceeding 75 tonnes per day, and/or with a kiln capacity exceeding 4 m³ and with a setting density per kiln exceeding 300 kg/m³  //  Carbon dioxide
+
+Other activities
+
+Industrial plants for the production of
+
+(a) pulp from timber or other fibrous materials  //
+
+Carbon dioxide
+
+(b) paper and board with a production capacity exceeding 20 tonnes per day  //  Carbon dioxide
+
+ANNEX II
+
+GREENHOUSE GASES REFERRED TO IN ARTICLES 3 AND 26
+
+Carbon dioxide (CO2)
+
+Methane (CH4)
+
+Nitrous Oxide (N2O)
+
+Hydrofluorocarbons (HFCs)
+
+Perfluorocarbons (PFCs)
+
+Sulphur Hexafluoride (SF6)
+
+ANNEX III
+
+CRITERIA FOR NATIONAL ALLOCATION PLANS REFERRED TO IN ARTICLE 9
+
+(1) The total quantity of allowances to be allocated for the relevant period shall be consistent with the Member State's obligation to limit its emissions pursuant to Decision xx/xxxx/EC and the Kyoto Protocol, taking into account the proportion of overall emissions that these represent in comparison with emissions from sources not covered by this Directive;
+
+(2) The total quantity of allowances to be allocated shall be consistent with assessments of actual and projected progress towards fulfilling the Community's commitments made pursuant to Decision 93/389/EEC;
+
+(3) Quantities of allowances to be allocated shall be consistent with the technological potential of installations to reduce emissions;
+
+(4) The plan shall be consistent with other EC legislative and policy instruments. In particular, no allowances should be allocated to cover emissions which would be reduced or eliminated as a consequence of Community legislation on renewable energy in electricity production, and account should be taken of unavoidable increases in emissions resulting from new legislative requirements;
+
+(5) The plan shall not discriminate between companies or sectors in such a way as to unduly favour certain undertakings or activities, nor shall any installation be allocated more allowances than it is likely to need;
+
+(6) The plan shall contain information on the manner in which new entrants will be able to begin participating in the greenhouse gas emissions trading scheme in the Member State;
+
+(7) The plan shall contain information on the manner in which early action will be taken into account; and
+
+(8) The plan shall include provisions for comments to be expressed by the public, and contain information on the arrangements by which due account will be taken of these comments before a decision on the allocation of allowances is taken.
+
+ANNEX IV
+
+PRINCIPLES FOR MONITORING AND REPORTING REFERRED TO IN ARTICLE 14(1)
+
+Monitoring of carbon dioxide emissions
+
+Emissions shall be monitored either by calculation or on the basis of measurement.
+
+Calculation
+
+Calculations of emissions shall be performed using the formula:
+
+Activity data x Emission factor x Oxidation factor
+
+Activity data (fuel used, production rate etc) shall be monitored on the basis of supply data or measurement.
+
+Accepted emission factors shall be used. Activity-specific emission factors are acceptable for all fuels. Default factors are acceptable for all fuels except non-commercial ones (waste fuels such as tyres and industrial process gases). Seam-specific defaults for coal, and EU-specific or producer country-specific defaults for natural gas shall be further elaborated. IPCC default values are acceptable for refinery products. The emission factor for biomass shall be zero.
+
+If the emission factor does not take account of the fact that some of the carbon is not oxidised, then an additional oxidation factor shall be used. If activity-specific emission factors have been calculated and already take oxidation into account, then an oxidation factor need not be applied.
+
+Default oxidation factors developed pursuant to Directive 96/61/EC shall be used, unless the operator can demonstrate that activity-specific factors are more accurate.
+
+A separate calculation shall be made for each activity and for each fuel.
+
+Measurement
+
+Measurement of emissions shall use standardised or accepted methods, and shall be corroborated by a supporting calculation of emissions.
+
+Monitoring of emissions of other greenhouse gases
+
+Standardised or accepted methods shall be used.
+
+Reporting of emissions
+
+Each operator shall include the following information in the report for an installation:
+
+A. Data identifying the installation, including:
+
+- Name of the installation;
+
+- Its address, including postcode and country;
+
+- Type and number of Annex I activities carried out in the installation.
+
+- Address, telephone, fax and email details for a contact person; and
+
+- Name of the owner of the installation, and of any parent company.
+
+B. For each Annex I activity carried out on the site for which emissions are calculated:
+
+- Activity data;
+
+- Emission factors;
+
+- Oxidation factors; and
+
+- Total emissions.
+
+C. For each Annex I activity carried out on the site for which emissions are measured:
+
+- Total emissions; and
+
+- Information on the reliability of measurement methods.
+
+D. For emissions from energy combustion, the report shall also include the oxidation factor, unless oxidation has already been taken into account in the development of an activity-specific emission factor.
+
+Member States shall take measures to coordinate reporting requirements with any existing reporting requirements in order to minimise the reporting burden on businesses.
+
+ANNEX V
+
+CRITERIA FOR VERIFICATION REFERRED TO IN ARTICLE 15
+
+General Principles
+
+(1) Emissions from each activity listed in Annex I shall be subject to verification.
+
+(2) The verification process shall include consideration of the report pursuant to Article 14(3) and of monitoring during the preceding year. It shall address the reliability, credibility and accuracy of monitoring systems and the reported data and information relating to emissions, in particular:
+
+(a) the reported activity data and related measurements and calculations;
+
+(b) the choice and the employment of emission factors;
+
+(c) the calculations leading to the determination of the overall emissions; and
+
+(d) if measurement is used, the appropriateness of the choice and the employment of measuring methods.
+
+(3) Reported emissions may only be validated if reliable and credible data and information allow the emissions to be determined with a high degree of certainty. A high degree of certainty requires the operator to show that:
+
+(a) the reported data is free of inconsistencies;
+
+(b) the collection of the data has been carried out in accordance with the applicable scientific standards; and
+
+(c) the relevant records of the installation are complete and consistent.
+
+(4) The verifier shall be given access to all sites and information in relation to the subject of the verification.
+
+(5) The verifier shall take into account whether the installation is registered under the Community eco-management and audit scheme (EMAS).
+
+Methodology
+
+Strategic analysis
+
+(6) The verification shall be based on a strategic analysis of all the activities carried out in the installation. This requires the verifier to have an overview over all the activities and their significance for emissions.
+
+Process analysis
+
+(7) The verification of the submitted information shall, where appropriate, be carried out on the site of the installation. The verifier shall use spot-checks to determine the reliability of the reported data and information.
+
+Risk analysis
+
+(8) The verifier shall submit all the sources of greenhouse gas emissions in the installation to an evaluation with regard to the reliability of the data of each source contributing to the overall emissions of the installation.
+
+(9) On the basis of this analysis the verifier shall explicitly identify those sources with a high risk of error and other aspects of the monitoring and reporting procedure which are likely to contribute to errors in the determination of the overall emissions. This especially involves the choice of the emission factors and the calculations necessary to determine the emissions of single sources of emissions. Particular attention shall be given to those sources with a high risk of error and those aspects of the monitoring procedure.
+
+(10) The verifier shall take into consideration any effective risk control methods applied by the operator with a view to minimising the degree of uncertainty.
+
+Report
+
+(11) The verifier shall prepare a report on the validation process stating whether the report pursuant to Article 14(3) is satisfactory. This report shall specify all issues relevant to the work carried out. A statement that the report pursuant to Article 14(3) is satisfactory may be made if, in the opinion of the verifier, the total emissions are not materially misstated.
+
+Minimum competency requirements for the verifier
+
+(12) The verifier shall be independent of the operator, carry out his activities in a sound and objective professional manner, and understand:
+
+(a) the provisions of this Directive, as well as relevant standards and guidance adopted by the Commission pursuant to Article 14(1);
+
+(b) the legislative, regulatory, and administrative requirements relevant to the activities being verified; and
+
+(c) the generation of all information related to each source of emissions in the installation, in particular, relating to the collection, measurement, calculation and reporting of data.
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+Policy area(s): Environment
+
+Activit(y/ies): Policy Development
+
+Title of action: Proposal for a Directive of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC
+
+1. BUDGET LINE(S) + HEADING(S)
+
+B4-304
+
+2. OVERALL FIGURES
+
+2.1. Total allocation for action (Part B): EUR 2.2 million for commitment
+
+2.2. Period of application:
+
+Starts progressively from 2002 and continues indefinitely.
+
+2.3. Overall multiannual estimate of expenditure:
+
+(a) Schedule of commitment appropriations/payment appropriations (financial intervention) (see point 6.1.1)
+
+EUR million (to three decimal places)
+
+&gt;TABLE POSITION&gt;
+
+(b) Technical and administrative assistance and support expenditure (see point 6.1.2)
+
+&gt;TABLE POSITION&gt;
+
+&gt;TABLE POSITION&gt;
+
+(c) Overall financial impact of human resources and other administrative expenditure (see points 7.2 and 7.3)
+
+&gt;TABLE POSITION&gt;
+
+&gt;TABLE POSITION&gt;
+
+2.4. Compatibility with financial programming and financial perspective
+
+Proposal is compatible with existing financial programming and financial perspective.
+
+2.5. Financial impact on revenue:
+
+No financial implications.
+
+3. BUDGET CHARACTERISTICS
+
+&gt;TABLE POSITION&gt;
+
+4. LEGAL BASIS
+
+Article 175(1)
+
+5. DESCRIPTION AND GROUNDS
+
+5.1. Need for Community intervention
+
+5.1.1. Objectives pursued
+
+The legislative proposal would establish a greenhouse gas emissions trading scheme across the whole Community. This scheme would initially cover carbon dioxide emissions from large fixed point sources. Such a scheme will contribute towards the cost-effective fulfilment of the international commitments of the European Community and its Member States under the United Nations Framework Convention on Climate Change and the Kyoto Protocol.
+
+The proposal provides for a system of national registries to be created for the holding and tracking of allowances. The detailed functioning of these linked registries is not yet determined. A specific Commission Regulation shall be subsequently adopted to elaborate the requirements of these national registries. The costs of establishing such registries would be largely borne by the Member States (who would be required to establish national registries in accordance with Article 19 of this proposal).
+
+However, the proposal foresees that the Commission shall designate a Central Administrator to maintain an independent transaction log recording the issue, holding transfer and cancellation of allowances. The Central Administrator would also carry out automated checks on transactions. The Central Administrator could be an existing external Agency funded out of the Community budget, such as the European Environment Agency, or be part of the Commission's services. The Central Administrator's role is to ensure that there are no irregularities in the operation of the national registries. The Central Administrator will therefore need to have access to the different national registries and oversee the transaction log. Such involvement is likely to entail additional expenditure for the Commission. The major element of the cost to the Community budget is expected to be incurred in respect of establishing the technical specifications of the transaction log, ensuring its compatibility with national registries, and in its creation.
+
+In addition to the transaction log function exercised by the Central Administrator, the Commission wishes to be integrated into the network of national registries for the purpose of monitoring progress towards the Community's own international commitments under the United Nations Climate Change Convention and the Kyoto Protocol. Such integration should not only comprise having access to the network of national registries linked to the EU's emissions trading scheme, but should also be able to serve as the European Community's registry in the context of the Kyoto Protocol's "flexible mechanisms". Further expenditure should therefore be envisaged. This expenditure is necessary so that the European Community is ready to fulfil the commitments of the Kyoto Protocol that start with effect from 1 January 2008, and so that the European Community can participate in the "flexible mechanisms" of the Protocol if so decided.
+
+5.1.2. Measures taken in connection with ex ante evaluation
+
+None.
+
+5.2. Action envisaged and budget intervention arrangements
+
+The proposed action is to ensure that there are no irregularities occur in the national registries. The reason for this is not financial, but primarily environmental. The registry records allowances, which represent the entitlement to emit greenhouse gases. The main action is to establish a Central Administrator for national registries, which should act as a "policemen" for the registry system. This will require access and the ability to intervene in a network of linked computerised registries. The second part of the action is to create a "national registry" for the European Community, that is a full party to the United Nations Framework Convention on Climate Change, and intends also to be a Party to the Kyoto Protocol once the Protocol is ratified by the European Community and has entered into force. Having in place a national registry is a pre-requisite for the European Community to use the "flexible mechanisms" of the Kyoto Protocol. Such a registry would have to be fully operational no later than 2008, the beginning of the first commitment period, or sooner if possible (as credits from the Clean Development Mechanism can be issued before then).
+
+5.3. Methods of implementation
+
+No decision has yet been taken whether the function of Central Administrator would be exercised by the Commission, or delegated to the European Environment Agency. In both cases, the Commission would have to oversee the satisfactory fulfilment of duties by the Central Administrator and the proper functioning of the registry and the management thereof.
+
+6. FINANCIAL IMPACT
+
+6.1. Total financial impact on Part B - (over the entire programming period)
+
+6.1.1. Financial intervention
+
+Commitments (in EUR million to three decimal places)
+
+&gt;TABLE POSITION&gt;
+
+6.2 Calculation of costs by measure envisaged in Part B (over the entire programming period)
+
+7. IMPACT ON STAFF AND ADMINISTRATIVE EXPENDITURE
+
+7.1. Impact on human resources
+
+&gt;TABLE POSITION&gt;
+
+7.2. Overall financial impact of human resources
+
+&gt;TABLE POSITION&gt;
+
+The amounts are total expenditure for twelve months.
+
+7.3. Other administrative expenditure deriving from the action
+
+&gt;TABLE POSITION&gt;
+
+The amounts are total expenditure for twelve months.
+
+I. Annual total (7.2 + 7.3)
+
+II. Duration of action
+
+III. Total cost of action (I x II)  //  EUR 610 000
+
+No other particular staff resources are envisaged for the Commission. Staff resources should be available from within existing resources.
+
+8. FOLLOW-UP AND EVALUATION
+
+8.1. Follow-up arrangements
+
+8.2. Arrangements and schedule for the planned evaluation
+
+Regular review of the functioning of the registry, as with other aspects of the emissions trading scheme is foreseen in this proposal.
+
+9. ANTI-FRAUD MEASURES
+
+Usual Commission rules applicable. The registry is for the tracking and holding of allowances that represent an entitlement to emit a certain quantity of greenhouse gases. While these allowances will have a financial value, the registry will not give rise to financial fraud in respect of the Community budget.
+
+IMPACT ASSESSMENT FORM
+
+The impact of the proposal on business with special reference to small and medium-sized enterprises ( SMEs)
+
+Title of proposal
+
+Proposal for a Directive of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/91/EC
+
+Document reference number
+
+COM(2001) 581 final
+
+The proposal
+
+The proposal would establish a greenhouse gas emissions trading scheme across the whole Community. This scheme would initially cover carbon dioxide emissions from large fixed point sources. Such a scheme will contribute towards the cost-effective fulfilment of the international commitments of the European Community and its Member States under the United Nations Framework Convention on Climate Change and the Kyoto Protocol.
+
+The impact on business
+
+Who will be affected by the proposal-
+
+- Which sectors of business-
+
+The businesses primarily concerned are those indicated in Annex I of the Directive. They will have to limit collectively their emissions to a certain amount corresponding to the total number of allowances issued by Member States.
+
+The sectors directly concerned will have access to a policy instrument that will allow for a more cost-effective implementation of the Community's international commitments than other less flexible policy instruments. Indirectly several other sectors will be positively affected, notably those offering technical solutions for cutting greenhouse gas emissions in the directly affected sectors, as well as those serving as intermediaries in the European market for carbon dioxide emission allowances.
+
+- Which sizes of business (what is the concentration of small and medium-sized firms)-
+
+Of those directly affected, some size thresholds have been defined that mean mainly large installations will participate from the outset, e.g. power and heat generators will only participate if their installed capacity is 20 MW or higher.
+
+-  Are there particular geographical areas of the Community where these businesses are found-
+
+The activities indicated in Annex I of the Directive are carried out in all Member States of the Community. There are no particular geographic concentrations.
+
+What will business have to do to comply with the proposal-
+
+Those participating directly carrying out activities listed in Annex I will have the obligation to surrender to the competent authority at Member State level a corresponding number of allowances to cover the verified direct carbon dioxide emissions from the installation during each calendar year. Participating installations are also required to monitor and report their emissions in accordance with guidelines. Installations will be able to sell surplus allowances and buy in additional allowances in the market. This gives business more flexibility than many alternative policies.
+
+What economic effects is the proposal likely to have-
+
+The proposed Directive establishes only a framework for the establishment of greenhouse gas emission trading within the European Community and leaves many specific decisions to Member States - notably determination of the quantity of allowances to be issued to participating installations (although Member States must act within the constraints of the Burden Sharing Agreement). Hence, it is not possible at this stage to present a comprehensive assessment of economic effects.
+
+The available economic analysis (i.e., studies undertaken for the Commission and numerous other exercises) concludes that emission trading at Community level can reduce compliance costs considerably. The Commission has presented an in-depth economic analysis of emissions trading within the European Community in Annex 1 to the "Green Paper on greenhouse gas emissions trading within the European Union" COM(2000) 87 final dated 8 March 2000.
+
+In this analysis the annual cost savings arising from EU-wide carbon dioxide allowance trading in a limited number of sectors (overlapping closely with those sectors indicated in Annex I to this Directive) have been estimated to amount up to 35 % - or EUR 1.3 billion. This compares to a case, in which Member States implement their commitments at national level, with no buying or selling of allowances across Member State borders. The analysis made use of the most appropriate tool in Europe, the PRIMES model. This model is also used by the Commission to prepare EU energy outlooks [26]. Input data to and results from this model are reviewed regularly and extensively by Member States.
+
+[26]  E.g. the European Union Energy Outlook to 2020, published in November 1999, also known as the Shared Analysis Project.
+
+The price to be determined in the market is estimated to fall in a range of EUR 20 [27] to EUR 33 [28] per allowance (tonne of carbon dioxide equivalent). Those prices have to be situated at the upper end of the likely price range, as the political agreement reached at the 6th Conference of the Parties in Bonn in July 2001 made a number of decisions that are likely to bring likely prices down. The allowance price that will arise on implementation of the Directive is obviously dependent on the allocation decisions taken at Member State level and changes in other external variables.
+
+[27]  An allowance price of EUR 20 is based on the conclusion of the study "Economic Evaluation of Sectoral Emission Reduction Objectives for Climate Change" of May 2001 (http://europa.eu.int/comm/environment/enveco/climate_change/sectoral_objectives.htm ). This study concludes that the Community's Kyoto target - taking into account all six greenhouse gases covered by the Kyoto Protocol - could be implemented with spending up to EUR 20 per tonne of CO2 equivalent.
+
+[28]  An allowance price of EUR 33 is based on the conclusion of the study "The Economic Effects of EU-wide Industry-Level Emission Trading to Reduce Greenhouse Gases - Results from PRIMES model" of February 2000 (available at the DG ENV web-site). This study served as the basis for the Green Paper and focussed (in contrast to the study mentioned in footnote 1) on carbon dioxide emissions only.
+
+According to the most recent estimates, which include the effect of all greenhouse gases included in the Kyoto Protocol, it has been possible to estimate the cost savings for the participating sectors indicated in Annex I to the Directive. Again the basis for the figures presented is the comparison of optimal policies at Member State level with an EU-wide market in carbon dioxide allowances [29]. The assumption of optimal policies at Member State level is identical to the existence of 15 domestic and unconnected allowance markets across all gases and sectors. If the market for the Annex I sectors is opened up to the Community level, we expect cost savings of EUR 1326 million per annum for those sectors that are taking part in the EU wide trading regime. This represents about 35% saving for the participating sectors. (See graph below).
+
+[29]  It should be noted that the sectoral boundaries in the PRIMES model do not fully correspond to the categories defined in Annex I of the Directive. Furthermore, the application of size thresholds as proposed is not taken into account in the analysis. However, if there is not an optimal mix of policies and measures in each Member State, the results will under-estimate the benefits of an EU-wide emissions trading system.
+
+&gt;REFERENCE TO A GRAPHIC&gt;
+
+Source: European Commission, DG Environment, based on study Economic Evaluation of Sectoral Emission Reduction Objectives for Climate Change.
+
+The bulk of the savings accrue to energy activities (EUR 1 084 million or 33% of their compliance cost) where utilities and other power generation are projected to save about EUR 599 million (29%) and industrial CHP and boilers the balance (EUR 485 million or 38%). It should be noted that even if industrial CHP and boilers are classified under energy activities, they are often owned and/or operated by industry, thus in reality reducing compliance costs of the latter.
+
+EU wide emission trading will also benefit directly those sectors covered in the directive: ferrous metals industry (iron and steel) are projected to gain EUR 209 million (or 50% of its compliance costs), the mineral industry (cement, glass and ceramics) EUR 31 million (38%), and pulp and paper industry EUR 2 million (36%). It should be noted that the savings in the
+
+compliance costs of power generation sector benefit in particular energy intensive industries, as the price of energy would increase less when EU-wide emissions trading is operational [30].
+
+[30]  These figures vary from those contained in the Green Paper on emissions trading because the overall target set for CO2 emissions (-8% from 1990) was more challenging than the latest analysis suggests is appropriate (-5%). The less challenging target arises from the fact that emissions from other greenhouse gases could be reduced more cost-effectively (by up to -17% from 1990). Consequently, the overall compliance cost for the EU are lower (down from EUR 9 billion to EUR 7.5 billion per annum) and the savings from emission trading reduced in absolute terms (from EUR 2.2 billion to EUR 1.3 billion). Moreover, the coverage of sectors is slightly narrower than foreseen in the Green Paper.
+
+- On employment-
+
+No major effects are expected to result from the implementation of the proposal. The proposal is likely to encourage greater carbon efficiency, but not at the expense of employment. It is essential to recall that emissions trading offers the potential to reduce the costs, and thereby the economic impact, of fulfilling the EU's commitments under the Kyoto Protocol. In other words, to fulfil those commitments without emissions trading would be more costly and have a greater potential adverse impact on employment in the covered sectors than having emissions trading. Furthermore, the implementation of emissions trading will create new employment opportunities in the service sector for activities in support of the new EU-wide market for allowances, e.g. market intermediaries. Employment is likely to be created also in sectors that supply technical solutions to reduce greenhouse gas emissions.
+
+- On investment and the creation of new businesses-
+
+Some investment activity is expected to be induced in those sectors that will cut greenhouse gas emissions. New businesses could also be created in the sector of market intermediaries in the allowance market (bringing together buyers and sellers of emission allowances, collecting and publishing price and trading volume data on a regular basis, etc.).
+
+- On the competitiveness of businesses-
+
+The direct impact of the proposal on the competitiveness of EU businesses has to be seen in comparison to other policies and measures that could be introduced in order to fulfil the Community's international commitments to reduce greenhouse gas emissions by 8% in the period 2008-2012, and by more in a longer time-frame. Emission trading allows greater flexibility to those businesses contributing towards meeting the overall target to do so more cost-effectively.
+
+The long-term indirect effects are likely to be positive as 'early movers' have a strong stimulus to develop new products and processes for greenhouse gas emissions abatement. Furthermore, with this proposal European business also builds up infrastructure and gains familiarity with an instrument that will be essential for dealing with the challenge of climate change.
+
+Does the proposal contain measures to take account of the specific situation of small and medium-sized firms (reduced or different requirements etc)-
+
+The proposal covers at the outset only enterprises with installations that constitute significant fixed point sources of direct emissions. The sectors and thresholds chosen are intended to exclude from the scope of this proposed Directive small and medium-sized enterprises that are not significant sources of emissions. Such exclusion avoids imposing costs associated with the monitoring and reporting of emissions on small and medium-sized enterprises that are not significant sources of emissions.
+
+Consultation
+
+List of the organisations that have been consulted about the proposal.
+
+This proposal has been developed after extensive consultation with industry following the publication by the Commission of the "Green Paper on greenhouse gas emissions trading within the European Union" (COM(2000)87) in March 2000. Submissions from industry on the Green Paper were received from:
+
+Association Française des Entreprises Privées (AFEP-AGREF), British Energy, British Nuclear Fuels Limited (BNFL), Bundesverband der Deutschen Industrie e.V. (BDI), Centre for Business and Environment, Chalmers, Confederation of European Forest Owners (CEPF), Confederation of Danish Industries, Confederation of European Paper Industries (CEPI), Confederation of Norwegian Business and Industry, Confederation of United Kingdom Coal Producers, Chambre Syndicale Nationale de l'Industrie des Lubrifiants, Conféderation Générale des Petites et Moyennes Entreprises (France), Development Initiative for Chemical Industry Dependent Areas in the United Kingdom (DICIDA-UK), Deutscher Industrie-und Handelstag (DIHT), E.ON A.G. and RWE A.G., E5, Elyo, Endesa, ENER-G8, Entreprises pour l'Environnement, Euroheat and Power and the International Energy Agency (IEA), EUROMETAUX, European Aluminium Association (EAA), European Association for the Promotion of Cogeneration (COGEN), European Atomic Forum (FORATOM), European Cement Association (CEMBUREAU), European Chemical Industry Council (CEFIC), European Confederation of Iron and Steel Industries (EUROFER), European Energy Millenium Forum (EEMF), European Independent Steel Works Association (EISA), European Lime Association (EuLA), European Metalworkers' Federation (EMI), European Petroleum Industry Association (Europia), European Round Table of Industrialists (ERT), EU Committee of the American Chamber of Commerce (AMCHAM), European Union of the Natural Gas Industry (EUROGAS), European Union Road Federation (ERF), Federation of Belgian Large Industrial Energy Consumers (FEBELIEC), Fédération des Entreprises de Belgique (FEB/VBO), Federación Empresarial de la Industria Quinica EspaXola (FEIQUE), Fédération Française de l'Acier, Fédération de l'Industrie du Verre de Belgique (FIV), Federation of Swedish Farmers, Finnish Energy Industries Federation (FINERGY), Gaz de France, International Federation of Industrial Energy Consumers (IFIEC), International Organisation of Oil and Gas Producers (OPG), Liaison Office of the European Ceramic Industry (CERAME-UNIE), Lloyd's Register, Montedison, Nordic Metal, OM Environment Exchange, Powergen group, Swedish Power Association and Swedish Electricity Distributors, Texaco, TXU Europe, Union of the Electricity Industry (EURELECTRIC), Union Europeenne de l'Artisanat et des Petites et Moyennes Entreprises (UEAPME), Union Europäischer Industrie and Handelskammern (UECC), Union of Industrial and Employers' Confederations of Europe (UNICE), United Kingdom Emissions Trading Group (ETG), United Kingdom Electricity Association (EA), United Kingdom Steel Association, Vereinigung Deutscher Elektrizitätswerke e.V. (VDEW), Vereinigte Energiewerke AG (VEAG) and the Verband der Industriellen Energie- und Kraftwirtschaft e.V. (VIK).
+
+Industry has also been closely involved in the European Climate Change Programme (Working Group 1) that has been working specifically on emissions trading. Industry representatives included the Union of Industrial and Employers' Confederations of Europe (UNICE), the European Round Table of Industrialists (ERT), the Union of the Electricity Industry (EURELECTRIC), the UK Emissions Trading Group (ETG), the Bundesverband der Deutschen Industrie e.V. (BDI), the European Chemical Industry Council (CEFIC) and the International Federation of Industrial Energy Consumers (IFIEC).
+
+The present proposal has been written on the basis of extensive consultations with industry, as well as those with other stakeholders, in particular, governments and environmental non-governmental organisations. A further round of consultations took place in September 2001 with stakeholders and with representatives of all Member States, EEA and Accession Countries. The meeting with stakeholders was attended by the representatives from the following organisations:
+
+Association of European Chambers of Commerce (EUROCHAMBRES), Association Française des Entreprises Privées (AFEP-AGREF), CECSO, Climate Network Europe, Confederation of British Industry (CBI), Confederation of European Paper Industries (CEPI), CO2e.COM, Dutch CO2 Emission Trading Committee, European Business Council for a Sustainable Energy Future (E5), ENER-G8, Entreprises pour l'Environnement, Euroheat and Power, EUROMETAUX, European Aluminium Association (EAA), European Association for the Promotion of Cogeneration (COGEN), European Cement Association (CEMBUREAU), European Chemical Industry Council (CEFIC), European Confederation of Iron and Steel Industries (EUROFER), European Independent Steel Works Association (EISA), European Lime Association (EuLA), European Petroleum Industry Association (Europia), European Round Table of Industrialists (ERT), Fédération des Entreprises de Belgique (FEB/VBO), Foundation for International Environmental Law Development (FIELD), German Emissions Trading Group, Hessen, International Federation of Industrial Energy Consumers (IFIEC), International Organisation of Oil and Gas Producers (OPG), Union of the Electricity Industry (EURELECTRIC - EDF, Powergen, VDEW), Standing Committee of the European Glass Industry (CPIV), Union of Industrial and Employers' Confederations of Europe (UNICE - BDI, NHO, Confederation of Finnish Industry and Employment, VNO-NCW), United Kingdom Emissions Trading Group (ETG), World Business Council for Sustainable Development (WBCSD), WKO - Chamber of Commerce in Austria and the World Wide Fund for Nature (WWF).

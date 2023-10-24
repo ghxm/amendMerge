@@ -1,0 +1,225 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 51994PC0036 - EN
+
+Avis juridique important
+
+|
+
+51994PC0036
+
+Proposal for a COUNCIL DIRECTIVE concerning the quality of bathing water  /* COM/94/36FINAL - SYN 94/0006 */
+
+Official Journal C 112 , 22/04/1994 P. 0003
+
+Proposal for a Council Directive concerning the quality of bathing water (94/C 112/03) (Text with EEA relevance) COM(94) 36 final - 94/0006(SYN)
+
+(Submitted by the Commission on 29 March 1994)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and, in particular, Article 130s (1) thereof,
+
+Having regard to the proposal from the Commission,
+
+In cooperation with the European Parliament,
+
+Having regard to the opinion of the Economic and Social Committee,
+
+Whereas Council Directive 76/160/EEC of 8 December 1975 concerning the quality of bathing water (1), as last amended by Directive 91/692/EEC (2), has been amended on a number of occasions; whereas the said Directive should, for reasons of clarity, be recast;
+
+Whereas, in order to protect the environment and public health, it is necessary to reduce the pollution of bathing water and to protect such water against further deterioration;
+
+Whereas the quality of bathing water is an important asset of the tourism sector in the Community; whereas its improvement and its surveillance are also necessary in the framework of the establishment and functioning of the internal market;
+
+Whereas Community action is needed, in accordance with the principle of subsidiarity, in order to ensure basic health protection for bathers throughout the Community, to improve the quality of the aquatic environment by coordinating efforts made by Member States and to guarantee a sufficient quality of bathing water for the Community tourism industry;
+
+Whereas all citizens of the Union have a right to health protection and to an unpolluted environment; and whereas the assessment of the quality of bathing water should be made on the basis of criteria harmonized at Comunity level in order that the public may make informed comparisons;
+
+Whereas the list of parameters to be measured should indicate in the most appropriate way the quality of bathing water and take account of advances in science and technology; whereas there is a need to require the verification of only those parameters which are indispensable for ensuring an adequate protection of human health;
+
+Whereas Member States should remain free to set stricter values than those given in this Directive and to set values for parameters not specified in this Directive;
+
+Whereas it should be provided that bathing water will, under certain conditions, be deemed to conform to the relevant parametric values even if a certain proportion of the analytical results or observations recorded during a bathing season do not comply with limits specified, and whereas the rules for determining that proportion should be set out numerically; whereas there is a need to simplify the criteria for compliance laid down in Directive 76/160/EEC;
+
+Whereas Member States should identify all sources which are likely to affect the quality of bathing water and, in the event of non-compliance, take appropriate remedial action;
+
+Whereas to highlight situations where outstanding results are achieved, it is desirable to introduce a standard of 'excellent quality` for bathing water;
+
+Whereas, in the case of bathing waters first falling within the scope of this Directive after 31 December 1995 as a result of an increased use by bathers, it is appropriate to allow a period of time for Member States to bring them up to the requisite quality;
+
+Whereas the public should be adequately informed about the quality of bathing waters and about any remedial action taken by the competent authorities;
+
+Whereas Member States should monitor the quality of bathing waters with adequate frequency and analyse them by comparable methods; whereas this frequency can be reduced, under certain conditions, for bathing waters which have previously proved to be of excellent quality;
+
+Whereas bathing should not necessarily be prohibited on the ground that water is not in compliance with the limit values laid down in this Directive; whereas, however, in order to protect the health of bathers, it is necessary for Member States to prohibit bathing in any bathing area every time the pollution represents a danger to public health; whereas the said limit values should be taken into account;
+
+Whereas technical progress may necessitate rapid adaption of the technical requirements laid down in Annex I; whereas, in order to facilitate the introduction of the measures required for this purpose, a procedure should be set up under which the Commission can adopt such adaptations with the assistance of a Committee composed by the representatives of Member States;
+
+Whereas this Directive should not affect the obligations of the Member States concerning the deadlines for transposition into national law and for application indicated in Annex II;
+
+HAS ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+1. This Directive concerns the quality of bathing water, with the exception of water intended for therapeutic purposes and water used in swimming pools.
+
+2. For the purposes of this Directive:
+
+(a) 'bathing water` means without prejudice to Article 7 all running or still fresh waters or parts thereof and sea water, in which:
+
+- bathing is explicitly authorized by the competent authorities of each Member State, or
+
+- bathing is not prohibited and is traditionally practised by a large number of bathers;
+
+(b) 'bathing area` means any place where bathing water is found;
+
+(c) 'bathing season` means the period during which a large number of bathers can be expected, in the light of local custom, and any local rules which may exist concerning bathing and weather conditions.
+
+Article 2
+
+The physical, chemical and microbiological parameters applicable to bathing water are indicated in Table 1 of Annex I.
+
+Article 3
+
+1. Member States shall, for all bathing areas or for each individual bathing area, set the values applicable to bathing water for the parameters given in Table 1 of Annex I.
+
+2. The values set pursuant to paragraph 1 may not be less stringent than those given in column I of Table 1 of Annex I. In setting those values, Member States shall endeavour, subject to Article 8, to observe the corresponding values appearing in column G of Table 1 of Annex I as guidelines.
+
+3. Member States may fix more stringent values for bathing water than those laid down in the Directive and may fix values for parameters not included in Table 1 of Annex I.
+
+Article 4
+
+1. Member States shall take all measures necessary to ensure that the quality of bathing water at least conforms to the values given in column I of Table 1 of Annex I.
+
+2. In the case of bathing areas first falling within the scope of the second indent of Article 1, paragraph (2) (a) after 31 December 1995, Member States shall take all necessary steps to ensure that, at the start of the third bathing season following indentification of a new bathing area, the bathing water there at least conforms to the values given in column I of Table 1 of Annex I.
+
+3. By way of derogation from paragraphs 1 and 2, in those cases where the measures taken have not brought about compliance with the values given in column I of Table 1 of Annex 1, the competent authority must identify the cause or causes of the non-compliance, and take the necessary action to bring about compliance as soon as possible. The competent authority shall in addition inform the Commission forthwith of the reasons for the failure to comply and of the necessary action to be taken, including a timetable for completion.
+
+4. As regards sea water in the vicinity of frontiers between Member States and water crossing frontiers which affect the quality of the bathing water of another Member State, the consequences for the common quality objectives for bathing areas so affected shall be determined in collaboration by the riparian Member States concerned.
+
+The Commission may participate in these deliberations.
+
+Article 5
+
+1. Bathing water shall be deemed to comply with the requirements of this Directive if for each parameter for which there is a value in column I of Table 1 of Annex I the number of samples failing to comply with the relevant value does not exceed the number specified in Table 2 of Annex I.
+
+Compliance shall be assessed on the basis of the results obtained in a bathing season.
+
+2. Bathing water shall be deemed to be of 'excellent quality` if:
+
+- the bathing water conforms to the requirements of this Directive in the manner specified in paragraph (1), and
+
+- for each parameter for which there is a value in column G of Table 1 of Annex I the number of samples failing to comply with the relevant value does not exceed the number specified in Table 3 of Annex I.
+
+Assessment of whether bathing water is of excellent quality shall be on the basis of the results obtained in a bathing season.
+
+3. In assessing compliance with the values in columns G and I in Table 1 of Annex I, temporary deviations which are the results of floods, other natural disasters or abnormal weather conditions may be disregarded. The Commission shall be informed of those cases in which this provision has been used.
+
+4. Member States shall ensure that adequate information on bathing water quality is prominently displayed at each bathing area. This shall include in particular:
+
+- a statement of whether the bathing water complied with the requirements of the Directive in the previous bathing season,
+
+- most recent information enabling the public to assess bathing water quality during the current bathing season, and
+
+- information, including a timetable, on any remedial works in progress or planned.
+
+The provisions of this paragraph are without prejudice to the implementation of Council Directive 90/313/EEC (3).
+
+Article 6
+
+1. The competent authorities in the Member States shall sample and analyse and make visual and olfactory inspections of bathing waters during the period specified in paragraph (2) and at least as frequently as is specified in Table 1 of Annex I.
+
+By way of exception, where water quality was excellent in the two previous bathing seasons, according to the criteria set out in Article 5 (2) and when no new factor likely to lower the quality of the water has appeared, the sampling frequency during the current bathing season may be half that specified in Table 1 of Annex I.
+
+2. The sampling, analysis and visual and olfactory inspections referred to in paragraph (1) shall begin before the start of the bathing season and continue throughout the duration of the bathing season. The sampling and the inspections should be carried out at places where the daily average density of bathers is highest. Wherever possible samples shall be taken 30 cm below the surface of the water.
+
+3. Competent authorities shall periodically identify all discharges, whether continuous or intermittent, which are likely to affect the quality of bathing water, and assess their significance in relation to the obligations contained in Article 4 (1) and to local geographical, tidal and current flow conditions.
+
+They shall, in particular, identify all pollution sources, whether discharges, or contributions from diffuse sources, which might lead to salmonella reaching bathing areas, and shall take appropriate action to avoid pollution from such sources.
+
+4. Competent authorities shall investigate any unexpected sudden deterioration in the quality of bathing water in order to identify the cause and must take immediate and appropriate action to restore the quality of the water.
+
+5. Reference methods of analysis for the parameters concerned are set out in Table 1 of Annex I.
+
+Member States which employ other methods shall ensure that the results obtained are equivalent or comparable to those specified in Table 1 of Annex I. They shall inform the Commission of their use and provide evidence of their equivalence or comparability to the reference method. The Commission shall inform the other Member States thereof. The Commission may assess the reliability of such other methods.
+
+Article 7
+
+1. Where pollution constitutes a threat to public health Member States shall prohibit bathing at individual bathing areas. Such a threat shall be deemed to exist in a case of significant deviation from the values specified in column I in Table 1 of Annex I, taking local conditions into account.
+
+2. Unless the prohibition is permanent the water shall still be considered to be bathing water for the purposes of this Directive.
+
+3. Member States which permanently prohibit bathing at individual bathing areas shall forthwith inform the Commission thereof, indicating the reasons why the bathing water cannot be brought into conformity with this Directive's requirements.
+
+Article 8
+
+Implementation of the measures taken pursuant to this Directive may under no circumstances lead either directly or indirectly to deterioration of the current quality of bathing water.
+
+Article 9
+
+Such amendments as are necessary to adapt the content of Annex I to scientific and technical progress, shall be adopted in accordance with the procedure laid down in Article 10.
+
+Article 10
+
+1. The Commission shall be assisted by a committee composed of the representatives of the Member States and chaired by the representative of the Commission.
+
+2. The representative of the Commission shall submit to the committee a draft of the measures to be taken. The committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter. The opinion shall be delivered by the majority laid down in Article 148 (2) of the Treaty in the case of decisions which the Council is required to adopt on a proposal from the Commission. The votes of the representatives of the Member States within the committee shall be weighted in the manner set out in that Article. The chairman shall not vote.
+
+3. The Commission shall adopt measures which shall apply immediately. However, if these measures are not in accordance with the opinion of the committee, they shall be communicated by the Commission to the Council forthwith. In that event:
+
+- the Commission may defer application of the measures which it has decided for a period of three months from the date of communication,
+
+- the Council, acting by a qualified majority, may take a different decision within the time limit referred to in the previous paragraph.
+
+Article 11
+
+Every year, and for the first time by 31 December 1996, the Member States shall send to the Commission a report on the implementation of this Directive in the current year. The report shall be drawn up on the basis of a questionnaire or outline drafted by the Commission in accordance with the procedure laid down in Article 6 of Directive 91/692/EEC.
+
+The questionnaire and outline shall be sent to the Member States six months before the start of the period covered by the report shall be made to the Commission before the end of the year in question.
+
+The Commission shall publish a Community report on the implementation of the Directive within four months of receiving the reports from the Member States.
+
+Article 12
+
+Directive 76/160/EEC is hereby repealed with effect from 31 December 1995, without prejudice to the obligation of the Member States as to deadlines for transposition into national law and for application as shown in Annex II.
+
+Reference to the repealed Directive shall be construed as a reference to this Directive and should be read in accordance with the correlation table set out in Annex III.
+
+Article 13
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive no later than 31 December 1995. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these provisions, these shall contain a reference to this Directive and shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.
+
+2. Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article 14
+
+This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.
+
+Article 15
+
+This Directive is addressed to the Member States.
+
+(1) OJ No L 31, 5. 2. 1976, p. 1.
+
+(2) OJ No L 377, 31. 12. 1991, p. 48.
+
+(3) OJ No L 158, 23. 6. 1990, p. 56.
+
+ANNEX I
+
+>TABLE>
+
+>TABLE>
+
+>TABLE>
+
+ANNEX II
+
+>TABLE>
+
+ANNEX III
+
+>TABLE>

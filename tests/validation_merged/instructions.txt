@@ -1,0 +1,49 @@
+CASE
+
+Under the EU's co-decision procedure (also called Ordinary Legislative Procedure), the European Commission initiates a policy proposal and sends it to the European Parliament (EP) and the Council of the EU. Each of the insitution's then get the chance to amend the proposal text and decide upon it as co-legislators.
+
+Inside the EP, the commission proposal is distributed to a responsible committee. The responsible committee is then tasked with preparing a committee report outlining the EP's position towards a proposal. The EP can either
+
+- accept the commission proposal without amendments
+- (accept and) amend the commission proposal
+- reject the Commission proposal
+
+
+
+INSTRUCTIONS
+
+Classify the report into the above categories and (in case of amendments) make the necessary amendments to the proposal text in order to create the EP's ideal text as a full text.
+
+The report can consist of multiple elements, amongst others, 'resolutions' and amendments to the original proposal text by the main responsible committee and other 'opinion-giving' committees. For this task, only the resolution and amendments of the main committee are of interest.
+
+Write down your results in validation_sheet.xslx.
+
+For each of the rows in validation_sheet.xslx, please do the following (opening the respective report from the 'reports' folder starting with the procedure_id followed by the report id as the filename):
+
+A. Identify the main resolution (type): The main resolution is usually under section 'DRAFT LEGISLATIVE RESOLUTION' and entitled 'Legislative resolution on...' or similar. The first sentence of the resolution (usually starting with '1. ...') contains the EP's position towards the proposal. The first sentence can be of different types.
+
+    1. Please fill out the 'report_type' column in validation_sheet.xslx depending on the first sentence of the resolution
+
+        - 'Rejects the Commission proposal' or similar (code as 'reject_com_proposal' in the 'report_type' column)
+
+        - 'Adopts its position at first reading, taking over the Commission proposal;' or similar (approves the Commission proposal without amendments) (code as 'taking_over_com_proposal' in the 'report_type' column)
+
+        - 'Adopts its position at first reading hereinafter set out;' -> amendments to the proposal text are attached (code as 'amendments_table' in the 'report_type' column) or an amended full text is attached (code as 'amendments_text' in the 'report_type' column)
+
+    2. In addition to the 'report_type' column, plese also copy the sentence containing the EP's position towards the proposal into the 'report_type_sentence' column.
+
+
+B. If report_type starts with 'amendments_', identify the amendments (table or amendment text):
+
+    3. Copy the name of the section (usually in UPPERCASE LETTERS) where the amendments can be found (if in the same section as the resolution, please also add either 'above_resolution' or 'below_resolution' here).
+
+C. If report_type is 'amendments_table':
+
+    4. Note the number of amendments in the 'amendments_num' column
+
+    5. Make the amendments to the Commission proposal (contained in the 'proposal' folder with the procedure_id as the filename) by identifying the respective position in the proposal text and replacing the text with the amendment text / insert / delete the respective text.
+
+        - In cases where text needs to be replaced, the text to be is specified in the left column and the replacement text in the right column.
+        - In other cases, new elements need to be added to the proposal text.
+
+D. Write down any comments or unusual stuff in the 'notes' column.

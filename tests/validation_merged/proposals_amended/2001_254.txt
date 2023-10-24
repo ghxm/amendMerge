@@ -1,0 +1,1666 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 52001PC0404(03) - EN
+
+Avis juridique important
+
+|
+
+52001PC0404(03)
+
+Proposal for a Directive of the European Parliament and of the Council amending Directive 2001/82/EC on the Community code relating to veterinary medicinal products  /* COM/2001/0404 final - COD 2001/0254 */
+
+Official Journal 075 E , 26/03/2002 P. 0234 - 0254
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directive 2001/82/EC on the Community code relating to veterinary medicinal products
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+I. General considerations
+
+The Community provisions on the marketing of veterinary medicinal products are, for the most part, similar or identical to those concerning products for human medicine. No veterinary medicinal product may be marketed unless its quality, safety and efficacy have been demonstrated, and unless these guarantees are maintained when the product is actually placed on the market.
+
+The veterinary sector nevertheless has a number of specific features.
+
+First, it should be borne in mind that veterinary medicinal products for food-producing animals may be authorised only on terms that guarantee that the food will not be harmful for the consumer. The provisions governing the use of such medicinal products by practitioners and farmers notwithstanding, manufacturers must from the outset provide all the necessary information on residues of these products that may remain in items produced from animals that have been treated.
+
+Second, the availability of certain medicinal products is a growing problem.
+
+Thus, the animals that are to benefit from treatment - particularly farm animals - have a limited economic value, while all the costs of treatment or prevention must be borne by the owner. In addition, certain markets are restricted because of the number of species concerned, the size of the animal populations, the range of disorders, or differences in the regional situations.
+
+II. Justification
+
+A. Aims
+
+1. In the light of experience with the operation of Community marketing procedures for medicinal products and the conclusions of the Commission report to the European Parliament and the Council (COM(2001)...), the Commission saw a need to adapt certain provisions of Regulation (EEC) No 2309/93 [1] laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Agency for the Evaluation of Medicinal Products (COM(2001) 404 final, European Parliament and Council Directive 2001/83/EC on the Community code relating to medicinal products for human use [2], and European Parliament and Council Directive 2001/82/EC on the Community code relating to veterinary medicinal products [3]. The revision of the latter is the subject of this proposal for amendments.
+
+[1]  OJ C
+
+[2]  OJ C
+
+[3]  OJ C
+
+2. In so far as the general aims and the provisions on the authorisation and use of medicinal products in the Community are comparable in both the human and the animal health sectors - particularly as regards ensuring quality, safety and efficacy -this parallel approach should be maintained as far as possible, as regards both the general terminology and the system for assessing the quality, safety and efficacy of medicinal products as the basis for granting marketing authorisations. This also applies to the constant monitoring of the quality of the medicinal products manufactured by means of a quality-assurance system, a code of good manufacturing practice or inspections, and subsequent monitoring of the safety and efficacy of the products by means of a pharmacovigilance system.
+
+The conclusions of the abovementioned Commission report and the reasons underlying the other proposals for revising pharmaceutical legislation are therefore directly applicable to these proposals for amendments in so far as they do not specifically concern veterinary products.
+
+The recent adoption of the two Community codes relating to medicinal products for human and veterinary use also provides an excellent opportunity for improving and simplifying the general legislative framework and, where appropriate, amplifying or fine-tuning certain provisions on veterinary medicinal products to bring them into line with provisions that already exist for medical products for human use or proposed amendments to those provisions.
+
+3. This proposal also is also intended to take account of the specific problem of the availability of veterinary medicinal products, as envisaged by the Commission in its Communication to the European Parliament and the Council of December 2000 [4]. The general aim is to adapt the regulatory framework to the specific features of the animal health sector in order to curtail or reverse the downward trend in the number of veterinary medicinal products available. There is a need, therefore, for a balanced response to the imperatives of animal health and well-being, particularly where food-producing animals are concerned, without prejudice to a high level of protection of the health of the final consumer.
+
+[4]  Communication from the Commission to the Council and the European Parliament of 5.12.2000 - Availability of veterinary medicinal products (COM(2000) 806 final).
+
+4. Finally, outside the scope of this proposal, the Commission is continuing its reflections on the possibility of developing in parallel a policy analogous to the "orphan drugs for human use" scheme for veterinary medicinal products, by means of a specific legal instrument. The paths to be explored should seek in particular to define indirect incentives to promote the development of new veterinary medicinal products specific to these abandoned market segments (reduced registration fees, technical assistance from the Agency, longer exclusive market rights, and others). Direct incentives could also be considered (financial contributions to R&D, reimbursement of certain investments on granting of marketing authorisation, voluntary co-financing by associations of breeders of the species concerned, etc.) But the Commission considers that if such a proposal should see the light of day, the scope and the ways and means of its application will need to be precisely identified.
+
+B. Legal basis and procedure
+
+The legal basis for the proposal is Article 95 and Article 152.4(b) of the Treaty. Article 95, which specifically prescribes use of the co-decision procedure described in Article 251, is the legal basis for achieving the aims set out in Article 14 of the Treaty, which include the free movement of goods - in this case veterinary medicinal products. While taking account of the fact that any regulations on the manufacture and distribution of medicinal products, including veterinary medicinal products, must be fundamentally aimed at safeguarding public health, this aim must be achieved by means that do not impede the manufacture and free movement of medicinal products within Community. Since the Amsterdam Treaty came into force, all legislative provisions adopted by the European Parliament and the Council - except for directives adopted on the basis of executive powers vested in the Commission - and aimed at aligning the provisions on medicinal products have been adopted on the basis of that Article, since the differences between the national legislative, regulatory and administrative provisions on medicinal products tend to hinder intra-Community trade and therefore directly affect the operation of the internal market. The intervention of the Community legislator is therefore justified with a view to preventing or eliminating these obstacles. Furthermore, Article 152.4(b) mentions henceforth explicitly the measures having as direct objective public heath protection in the veterinary and phytosanitary sectors. The present proposal contains a number of measures in the veterinary field having as an objective public heath protection. The adoption procedure referred to in this Article is the same as the one referred to in Article 95; thus, it is wise to add this Article as a legal basis.
+
+III. Detailed contents of the proposal
+
+(To improve readability, the Articles quoted here are those contained in Directive 2001/82/EC as amended by this proposal).
+
+A. Definitions, scope, general terminology
+
+1. It is proposed that use of the term "proprietary medicinal product" [spécialité pharmaceutique] be discontinued, since it is no longer used in the legislative provisions and there have been difficulties in defining precisely how it should be interpreted. Use of the term "Ready-made veterinary medicinal product" [médicament vétérinaire préfabriqué], defined by reference to "proprietary medicinal product", has therefore also been discontinued (Article 1).
+
+It is proposed that the scope of the directive should be clarified and in particular that it should be specified that the granting of a marketing authorisation or any directly associated arrangement is relevant only once a medicinal product has begun to be manufactured industrially (Article 2(1)). Nevertheless, it should be made clear that, for reasons of both animal and public health, officinal or magistral veterinary preparations made up in a pharmacy should be subject to the provisions of the directive regarding prescription, dispensing, possession and administration to animals (Article 3(1)).
+
+2. The definition of a veterinary medicinal product has been adapted in order to ensure that the directive applies to certain products that must meet the requirements of quality, safety and efficacy. This adaptation only makes it possible not to extend the concept of medicinal product to new types of treatment, such a cell therapy, but also to clarify the status of certain more traditional products, such as those used for extracorporeal dialysis, even if these products are not at present of comparable importance in both veterinary and human medicine.
+
+3. The additions to the definitions of the terms "adverse reaction", and the inclusion of new definitions (Article 1), particularly of "veterinary prescription", "name of medicinal product", "non-proprietary name", "strength", "immediate packaging", "outer packaging", "labelling" or "package leaflet" are in line with the definitions for medicinal products for human use.
+
+The definition "withdrawal period" has also been revised in order to highlight its principal purpose, i.e. protecting the public, when used correctly in a veterinary context (Article 1).
+
+4. The possible dual use of certain products - as a pharmaceutical product or veterinary hygiene product, for example - has led to differences in interpretation and the adoption of different regulatory approaches in the various Member States. It proposed, therefore, that in such circumstances the legislation affording the highest degree of protection for animal and human health, i.e. that covering veterinary medicinal products, should apply in cases of uncertainty (Article 2(2)).
+
+5. Finally, this proposed revision provides an opportunity to harmonise and simplify, and to correct certain terminology that is regarded as obsolete or inappropriate for the field. It mainly concerns references to the evaluation criteria - i.e. quality, safety and efficacy - or introducing the idea of weighing benefits against risks, which is central to the system of marketing authorisation for medicinal products.
+
+B. Marketing authorisations: general provisions and procedures
+
+1. The general provisions on applying for a marketing authorisation, assessing applications, granting marketing authorisation, and the respective responsibilities of the competent authorities and the holder of the authorisation do not depend on the type medicinal product in question - i.e. whether it is for veterinary or human use. The justification and proposed amendments are therefore complementary to those relating to Regulation (EEC) No 2309/93 (COM(2000)...), or similar, if not strictly identical, to those relating to the legislation on medicinal products for human use (COM(2001)...).
+
+2. The same is true of the general provisions on the scope of the authorisation and the responsibility of the holder (Article 5), and the additional details on the concept of generics and Community harmonisation (ten years) of the period of administrative protection of data (Article 13(1), (2) and (3)), "bibliographical applications" (Article 13a), fixed combinations (Article 13b), or applications submitted with the consent of the holder (Article 13c). The amendments also introduce the possibility of testing a generic before the end of the period of exclusivity without thereby infringing the law on the protection of industrial and commercial property (Article 13(6)).
+
+3. Similarly, Chapters 3 and 4 of Title III, on the marketing-authorisation procedure and the mutual-recognition or decentralised authorisation procedures have been adapted in exactly the same way as the corresponding chapters of the Community code relating to medicinal products for human use. Particular attention should be draw to the proposals concerning the coordination of deadlines for the various procedures (Articles 21 and 32), authorisation on specific conditions (Article 26), the discontinuation of the five-yearly renewal of the authorisation and the expiry clauses (Article 28), or the transparency of the assessment process (Article 25(3) and (4)). For the decentralised procedure, it is proposed to set up a coordination group on the mutual recognition of veterinary medicinal products, thus formalising an existing process of cooperation between the Member States (Article 31), to clarify operation on the basis of whether or not an authorisation already exists in a Member State (Article 32), and to make the initiation of the arbitration procedure automatic in all cases of dispute between the competent authorities in the Member States (Article 33). The provisions on arbitration have been clarified, particularly with a view to protecting the position of the applicant or the marketing authorisation holder more effectively (Article 36). It is also proposed to speed up certain stages in the procedure for obtaining the opinion of the committee and completing the decision-making process (Article 38), and it is intended to establish a system for the gradual harmonisation of summaries of characteristics of products for veterinary medicinal products that have been authorised by the Member States for more than ten years (Article 34(2)), and to introduce the possibility of the Agency giving an opinion on certain parts of the marketing authorisation if the question at issue concerns more than one product or a therapeutic class (Article 35(2)).
+
+4. It is also proposed to adapt, while taking account of the specific features of veterinary medicinal products, certain provisions regarding the contents of the file accompanying an application for marketing authorisation and the summary of product characteristics (Articles 12, 14, 15). These adaptations will not change the essence of the existing provisions, but will be more concerned with gearing certain provisions with sometimes outdated wording to the administrative, scientific or technical realities of the applications. Thus, the erstwhile "expert reports" will continue to exist, but under the name "detailed and critical summaries", particularly in so far as most of the scientists involved in drafting the reports will be associated to a greater or lesser extent with the applicant. It is also proposed that it should be clearly stated that these summaries form an integral part of the application file. Withdrawal periods are also indicated in the interests of improved protection for the final consumer (Article 14(5.11)).
+
+C. Marketing authorisations: proposals specific to the veterinary sector
+
+1. Obviously, the general principle of authorising the marketing of a veterinary medicinal product before it can be used is not being questioned.
+
+Nevertheless, a number of adjustments have been proposed to permit derogations from the authorisation requirement, either for certain "new" categories of pets, such as dwarf rabbits or ferrets (Article 4(2)), or for the use of a medicinal product on animals subject to compulsory specific health provisions with a view to export to non-member countries or import into the Community. This proposal particularly concerns certain sport animals taking part in international competitions (e.g. horses), or certain valuable productive livestock, which must be vaccinated against infectious diseases that are endemic in certain non-member countries (Article 8(2)). The directive has also been brought into line with other Community provisions in order to enable the Commission to permit the use of immunological veterinary medicinal products without a marketing authorisation in cases of serious epizootic diseases if no suitable medicinal products are available (Article 8(1)). This provision also contributes to improving the consistency of Community measures to combat certain animal diseases, and particularly concerns alignment with the Commission's proposal for amending Regulation (EEC) No 2309/93 in order to permit authorisation through a centralised procedure for immunological veterinary medicinal products for such diseases. It has also been found necessary to introduce derogations from the need to conduct field trials for these medicinal products (Article 13d).
+
+2. If no authorised medicinal product is available for a given species or disorder, it is proposed that the use of other products be made more straightforward. The aim is to help solve the problem of the availability of certain veterinary medicinal products and the intention is to differentiate the provisions regarding pets or animals kept in zoos or circuses (Article 10) more clearly from those on food-producing animals (Article 11).
+
+In the former case, it is intended to retain the system whereby either another veterinary medicinal product, a medicinal product for human use, or a product prepared extemporaneously must be used in that order of priority ("cascade"). However, this possibility will henceforth be open directly to practitioners on their own direct responsibility. It is also proposed to eliminate all associated administrative formalities - particularly the recording of the use of such products - in so far as such provisions do not affect the level of consumer protection.
+
+In the case of food-producing animals, it proposed to keep veterinary practice under administrative supervision, thus enabling the Member States to opt for the use of a veterinary medicinal product authorised in another Member State. This provision must be supplemented by ad hoc import and inspection measures. The measures aimed at protecting consumers have been retained (withdrawal period, registration of use) and clarified (inclusion of the substance in Annex I, II or III to Regulation (EEC) No 2377/90, existence of maximum residue limits for at least one species).
+
+Regarding horses, given the specific ways in which those are used, It is proposed to allow the use of a substance which does not have any maximal residue limit, under the only condition that the animal in question is excluded from the nutritional chain (Article 10 (2)). This implies that many of these are treated in a way comparable to company animals, and this in an unalterable way. The definition of an arbitrary six-month waiting period, provided for in the Commission Decision 2000/68/EC concerning the passport of horses [5], could only be justified under limited and exceptional circumstances. The Commission considers that such a possibility should not become the general rule in the Community, not only in order to take into consideration the direct protection of European citizens consuming horse meat, but also in order to ensure the general coherence of consumer protection measures within the framework of the use of veterinary medicinal products on all animal species. The equidae remain as such food producing species at European level.
+
+[5]  OJ C
+
+3. In addition to the measures concerning the use of products without authorisation for the species or indication concerned, it is also proposed that economic incentives be introduced to encourage the pharmaceutical industry to place veterinary medicinal products on the market without delay.
+
+The main amendment is a proposal to increase the period of administrative data protection in some cases and hence provide for a more attractive return on investment for an economic operator (Article 13(4) and (5)):
+
+- The ten-year protection period would be extended by one year for any extension of the authorisation to another food-producing animal (up to a maximum of three more years for three or more species), provided that such an extension is obtained within three years of the granting of the original authorisation. A measure of this kind would encourage the industry to extend the authorisation of a new medicinal product for a species representing a major economic sector very swiftly to other species representing a smaller market.
+
+- It is also proposed that the period of general protection for medicinal products for bees and fish should be 13 years instead of 10, because of the specific characteristics of these species and the general veterinary treatment procedures that necessitate specific developments on the part of manufacturers.
+
+It is also proposed that the protection should at the same time cover the data contained in the file submitted for the establishment of maximum residue limits as required under Regulation (EEC) No 2377/90 and in the application for authorisation (Article 13(a)(1) and (2)), and to strengthen the legal links between the procedures for fixing maximum residue limits and the granting of a marketing authorisation (Article 6, Article 12(1)). It is also intended to grant a period of three years of specific protection for a medicinal product containing of substance of which use has been well established in a species for not less than ten years, but for which the marketing authorisation has been obtained for a "new" species by a holder other than the holder of the original authorisation. This protection would, however, be granted only if the new holder had also been the applicant for the establishment of maximum residue limits for the new species and had provided the evidence of the efficacy of the medicinal product in this new species (Article 13(a)(3)).
+
+4. In view of the problem of availability of veterinary medicinal products and in particular the difficulties encountered by manufacturers (see the abovementioned Commission report COM (2001)...), it is proposed that the obligations and the division of responsibilities between the applicant for or the marketing authorisation holder for a veterinary medicinal product and the competent authorities in the Member States should be clarified. This mainly concerns the implementation of general checks of the quality of foodstuffs and the residues of chemical substances in connection with the misuse of authorised medicinal products, the use of prohibited substances, or contamination of foodstuffs by pollutants.
+
+Scientific studies to back up a file of maximum residue limits or a file of a marketing authorisation will mean that the applicants will have to develop methods for determining the concentration of active substances and any active metabolites in certain tissues or types of foodstuff of animal origin. Nevertheless, the aims of studies of this kind and the experimental conditions under which they are conducted are not the same as those of the control laboratories responsible for monitoring any residues of chemicals that might be present in foodstuffs in general. Consequently, the control laboratories will as a rule need to develop their own methods.There is a need to review the provisions on the analytical methods to be used to determine the amounts of residues, particularly as the expression "routine analysis method" has given rise to many questions of interpretation (Article 12(3)(h), (i), and (j). The obligation of the applicant to demonstrate the quality and reliability of the scientific information presented in his/her file and to provide a validated dosage method has not been changed. This provision has even been strengthened by the introduction of the possibility of checking whether the method is satisfactory in the light of the aims of the application (Article 23(3)). It is also proposed that the provisions on the monitoring of residues should be strengthened and in particular that the task of the competent authorities should be simplified if specific needs are involved. The marketing authorisation holder should therefore, on request by the competent authorities, supply the reference substances needed for the control. It is also intended that the authorisation-holder should provide the reference laboratory with technical support if it has to use the analytical method described in the authorisation file but encounters practical difficulties (Article 27(2)).
+
+5. It is also intended to revise the general provision on total exclusion from human consumption of foodstuffs from animals used for testing medicinal products if maximum residues limits have not been established in accordance with Regulation (EEC) No 2377/90, since this provision is a major obstacle to the development of new medicinal products for food-producing animals. The existing provision impedes the development of a new veterinary medicinal product for several years - even to the point of discouraging pharmaceutical companies from developing innovative medicinal products for major markets.
+
+The example of new medicinal products for dairy cows may serve as an illustration: unless it carries out trials outside the Community, it becomes extremely difficult for a pharmaceutical company and the experts responsible for conducting field trials to find a farmer who will agree to having an animal from his/her herd included in a clinical study of a new veterinary medicinal product if this means that it will not be possible to use the animal for milk production again.
+
+The number of productive livestock used in testing veterinary medicinal products is small compared with the number of animals likely to be treated with a medicinal product outside the authorised use, if only because of the "cascade" provisions described in C.2). Testing of new medicinal products also necessitates close veterinary observation of the animals and major monitoring work on the part of the person responsible for the test. These measures do not compare with the normal conditions of use of an authorised medicinal product in productive livestock. The Commission therefore considers that consumer protection would not be affected in these particular circumstances by abolishing the obligation for the prior establishment of maximum residue limits, since this measure is accompanied by the introduction of a sufficiently long withdrawal period (Article 95).
+
+6. It is proposed that the provisions on homeopathic veterinary medicinal products should be adapted to the current situation. Since no use has been made of the possibility for a Member State to refrain from establishing a simplified registration system for homeopathic medicinal products meeting certain criteria, it is proposed that it should be abolished (Article 16).
+
+Also, particularly in view of the developments in biological agriculture and the special place of homeopathic medicinal products in that context, it is proposed that the simplified registration system should be extended to veterinary medicinal products intended for food-producing species. This does not, however, affect the provisions on consumer protection (Article 17(1), Article 18). It is also proposed, under certain conditions, to authorise the Commission, if appropriate, to adapt the degree of dilution in the light of new scientific knowledge (Article 17(1)). It is necessary, therefore, to adapt the provisions on labelling and the package leaflet accompanying homeopathic veterinary medicinal products (Article 64).
+
+D. Provisions aimed at improving the monitoring of the quality of medicinal products.
+
+1. Monitoring the general quality of medicinal products depends partly on the system of granting marketing authorisations on the basis of a prior assessment of the information submitted by the applicant, including all pharmaceutical documentation. It also depends on constant subsequent monitoring of the quality of the products manufactured and sold, and their conformity with the specifications laid down in the authorisation.
+
+Quality guarantees are based essentially on a system of quality assurance, including compliance with good manufacturing practice, and monitoring of conformity with all the provisions by the competent authorities - mainly by means of inspections. These general measures are applicable to both medicinal products for human use and veterinary medicinal products.
+
+2. The Commission must therefore pursue the same objectives in the field of veterinary medicinal products and propose similar amendments to those made to the legislation on medicinal products for human use (COM(2000)...). However, account must be taken not only of consumer protection and the completion of the internal market, but also of the international dimension of the pharmaceutical sector (particularly mutual recognition agreements with third countries).
+
+3. The Commission therefore finds it necessary, at this stage, to strengthen the provisions on inspection, in conjunction with the European Pharmacopoeia where appropriate (Article 80(1) and (4)), to step up Community coordination by introducing certificates of good manufacturing practice, and to set up a Community register containing the relevant information (Article 80(5), (6) and (7)). The latter measure is in a consistent manner supplemented by the establishment of Community system of data on manufacturing authorisations (Article 44(4)). All this is also intended to facilitate mutual recognition within the system. It is proposed, however, to introduce a procedure for settling any disputes concerning the outcome of an inspection (Article 90). This improvement of Community harmonisation goes hand-in-hand with a total harmonisation of the criteria to be met by the qualified person responsible for the quality of manufacturing (Articles 53 and 54).
+
+It is also intended to increase the quality guarantees by extending good manufacturing practice (Article 50(f)) to the starting materials used as active substances in veterinary medicinal products. This means that this term must be clearly defined and that there must be procedures for revising the definition in the light of technical progress (Article 50a). The practical provisions have been adapted accordingly, both for the adoption of specific detailed guidelines (Article 51) and for the inspection system (Article 80(1)). It also appears necessary to clarify the provisions on monitoring the quality of imported products, since even if they had originally been manufactured in the Community, the competent authorities will not be able to ensure that all the specifications, particularly those concerning storage conditions for medicinal products, have been respected outside the Community (Article 55).
+
+4. In the field of immunological veterinary medicinal products, the existing legislation stipulates that the Community provisions on quality assurance in connection with manufacturing authorisations, good manufacturing practice and inspections may be supplemented by a system of "official release" of each batch of the product after manufacture, after control by an "official" laboratory designated for this purpose by the competent authorities of the Member State. In these circumstances, the "official batch release" of a batch of vaccine would have to be the subject of mutual recognition.
+
+Since this measure was introduced at Community level (1990), along the lines of long-established practices in some Member States, significant progress has been made in quality and consistency in the manufacturing of vaccines. Furthermore, in view of the number and diversity of immunological products in the veterinary sector, the national laboratories do not necessarily have the means for re-control of the batches that have already been checked by the manufacturers, and only some Member States use the "official release" procedure. Finally, the system of mutual recognition does not operate ideally, mainly because the Member States do not necessarily carry out all the conformity controls provided for in the authorisation file - hence the discrepancies in the Community-level validity of the "official release".
+
+The Commission therefore proposes reviewing this arrangement, partly by restricting the scope for official release of batches to certain types of immunological veterinary medicinal products, i.e. live vaccines or immunological medicinal products for diseases covered by Community measures, which would mean particular responsibility for the competent authorities. It is also proposed to define the obligations on pharmaceutical companies and the competent authorities under these circumstances, particularly as regards the tests that need to be done by official control laboratories (Article 82). These proposed amendments are without prejudice to the possibility of requiring copies of any certificates describing the controls conducted by the holder, or to having medicinal products placed on the market controlled by the official laboratory at any time.
+
+E. Labelling and package leaflet
+
+The provisions on labelling of medicinal products and the accompanying package leaflet have not been amended substantially. The terminological improvements in connection with the introduction of the new definitions notwithstanding, it is proposed that certain provisions aimed at improving information for users should be strengthened.
+
+The labelling and the package leaflet must be approved by the competent authorities and conform to the summary of the characteristics of the product (Article 58(1), Article 61(2)). The labelling of veterinary medicinal product and the accompanying package leaflet consequently also become important elements in the application for a marketing authorisation and the decision taken by the competent authorities (Article 25(2), Article 30(e), Article 32(2), (3), (4) and (5), Article 33 (1), Article 36).
+
+A number of amendments have also been proposed in the general interests of users (Article 58(1)(e); Article 61(1) and (2)(a) and (b) while taking account of certain elements of flexibility, including some for medicinal products that are covered by a centralised marketing authorisation under Regulation (EEC) No 2309/93 (Article 58(5)).
+
+It is also proposed that the information on use in food-producing animals - in this case, the withdrawal period (Article 58(1)(g) and (l) should be strengthened. This goes hand-in-hand with a proposal to strengthen the measures relating to the prescription procedures for medicinal products of this kind (Article 67). It is proposed that in future all medicinal products for food-producing animals (including, for example, those for which the withdrawal period is nil) should be available only on veterinary prescription.
+
+F. Possession, distribution and dispensing
+
+In addition to the abovementioned provision on the prescribing of medicinal products for food-producing animals, it is proposed that the provisions on emergency recall of medicinal products from the market should be amplified, as the case may be by including wholesale distributors (Article 65(4)).
+
+Even if the provisions on the traceability of the distribution circuits for veterinary medicinal products from the manufacturer to the final user have not been amended - indeed they have been strengthened by the fact that the range of prescription-only medicinal products has been extended. It is, however, proposed that retail sale should be simplified for those for which no prescription is required, by abolishing the obligation to keep detailed documentation (Article 66(2)).
+
+The special conditions on a possible ban on manufacturing, possessing or selling certain immunological veterinary medicinal products are extended to the marketing authorisation according to a decentralised procedure (Article 71(2), in conjunction with Article 33(1) second subparagraph), in order to take account of the proposal for "automatic" initiation of the arbitration procedure.
+
+G. Pharmacovigilance
+
+The pharmacovigilance procedures have been strengthened (Articles 72-78) along the lines of the proposals in connection with the centralised procedure and more generally those on medicinal products for human use, particularly in conjunction with the proposal to abolish the five-yearly renewal of the authorisation. It is intended to strengthen the general information network, particularly by electronic means and to increase the frequency with which the periodical safety update reports are to be submitted. One of the aims is to enable the Commission to ask the Member States to take temporary measures with immediate effect, if emergency action is needed.
+
+2001/0254 (COD)
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directive 2001/82/EC on the Community code relating to veterinary medicinal products
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 95 and point (b) of Article152(4) thereof,
+
+Having regard to the proposal of the Commission [6],
+
+[6]  OJ C
+
+Having regard to the opinion of the Economic and Social Committee [7],
+
+[7]  OJ C
+
+Having regard to the opinion of the Committee of the Regions [8],
+
+[8]  OJ C
+
+Acting in accordance with the procedure referred to in Article 251 of the Treaty [9],
+
+[9]  OJ C
+
+Whereas:
+
+(1) Directive 2001/82/EC of the European Parliament and of the Council of 23 October 2001 on the Community code relating to veterinary medicinal products [10], in the interests of clarity and rationalisation, has codified and combined in a single text the texts of Community legislation on veterinary medicinal products.
+
+[10]  OJ C
+
+(2) Community legislation constitutes an important stage in the achievement of the objective of free movement of veterinary medicinal products. However, new measures prove necessary in the light of the experience gained, particularly in the Committee for veterinary medicinal products, with a view to eliminating the remaining obstacles to free movement.
+
+(3)   It is therefore necessary to align the national laws, regulations and administrative provisions which contain differences with regard to the basic principles in order to promote the operation of the internal market, without adversely affecting public health.
+
+(4) Any regulations on the production and distribution of veterinary medicinal products should be essentially aimed at safeguarding public health. The legislation on marketing authorisations for veterinary medicinal products, and the criteria governing the grant of authorisations, are such as to strengthen the protection of public health within the meaning of point (b) of Article 152(4) of the Treaty, as inserted by the Treaty of Amsterdam. That aim should, however, be achieved by means that will not impede the development of the pharmaceuticals industry or trade in medicinal products within the Community.
+
+(5) Article 71 of Council Regulation (EEC) No 2309/93 of 22 July 1993 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Agency for the Evaluation of Medicinal Products [11] provides that, within six years of its entry into force, the Commission is required to publish a general report on the experience acquired as a result of the operation of the marketing authorisation procedures laid down in that Regulation and in other Community legal provisions
+
+[11]  OJ L 214, 24.8.1993, p. 1; Regulation as amended by Commission Regulation (EC) No 649/98 (OJ L 88, 24.3.1998, p. 7).
+
+(6) In the light of the Commission's report [12] on the experience gained, it has proved necessary to improve the operation of the marketing authorisation procedures for medicinal products in the Community.
+
+[12]  COM(2001)....final.
+
+(7) Particularly as a result of scientific and technical progress in the field of animal health, the definitions and scope of Directive 2001/82/EC should be clarified in order to ensure a high level of requirements as to the quality, safety and efficacy of veterinary medicinal products. In order to take account, both of the emergence of new therapies and of the growing number of so-called "borderline" products between the medicinal product sector and other sectors, the definition of medicinal product should be modified so as to avoid any doubt as to the applicable legislation when a product, whilst fully falling within the definition of a medicinal product, may also fall within the definition of other regulated products. Also, taking into account the characteristics of the pharmaceutical legislation, it is proposed that such legislation is to apply. It is also worth taking advantage of this opportunity to improve the consistency of the terminology of pharmaceutical legislation.
+
+(8)   The veterinary medicinal products sector has a number of very specific features. Veterinary medicinal products for food-producing animals may be authorised only for therapeutic purposes and on conditions that guarantee that the foodstuffs produced will be harmless to consumers as regards any residues of medicinal products.
+
+(9) The costs of research and development to meet increased requirements as regards the quality, safety and efficacy of veterinary medicinal products are leading to a gradual reduction in the range of products authorised for the species and indications representing smaller market sectors.
+
+(10) The provisions of Directive 2001/82/EC also need, therefore, to be adapted to the specific features of the sector, particularly to meet the health and welfare of food-producing animals on terms that guarantee a high level of consumer protection, and in a context that provides adequate economic interest for the veterinary medicinal products industry.
+
+(11) In certain circumstances, particularly where new types of pets are concerned, the need to obtain a marketing authorisation for a veterinary medicinal product in accordance with Community provisions is clearly unjustified. Moreover, the absence of authorisation to market an immunological product in the Community should not be an obstacle to international movements of certain live animals for which binding health measures have to be taken for this purpose. The provisions on the authorisation or use of such medicinal products to take account of measures to combat certain infectious animal diseases at Community level also need to be adapted.
+
+(12) An assessment of the operation of the procedures for the granting of market authorisation has revealed the need to revise, in particular, the mutual recognition procedure in order to increase the scope for cooperation between Member States. This cooperation process should be formalised by setting up a coordination group and defining its role in settling disagreements, in the context of a revised decentralised procedure.
+
+(13) Except in special circumstances, marketing authorisations should be granted for an unlimited period and, in parallel, the procedures for monitoring products actually being marketed should be strengthened.
+
+(14) In the veterinary sector, if no medicinal product has been authorised for a given species or a given disorder, the use of other existing products should be made a straightforward matter, but without prejudice to consumer health in the case of medicinal products intended for administration to food-producing animals.
+
+(15) There is also a need to stimulate the interest of the veterinary pharmaceuticals industry in certain market segments in order to encourage the development of new veterinary medicinal products. The period of administrative data-protection vis-à-vis generics needs to be harmonised and extended, subject to certainconditions.
+
+(16) There is also a need to clarify the obligations of, and division of responsibilities between, the applicant for or marketing authorisation holder of a veterinary medicinal product and the competent authorities in charge of monitoring the quality of foodstuffs, particularly through compliance with the provisions on the use of these medicinal products. In addition, in order to facilitate the testing of new medicinal products while guaranteeing a high level of protection for consumers, sufficiently long withdrawal periods should be laid down for foodstuffs that might be produced by the animals involved in the tests.
+
+(17) Without prejudice to the provisions aimed at guaranteeing consumer protection, the specific characteristics of homeopathic veterinary medicinal products, and particularly their use in ecological farming, should be taken into account by establishing a simplified procedure for registration on terms defined in advance.
+
+(18) In order to increase the information available to users and to improve consumer protection in the case of food-producing animals, the provisions on the labelling of veterinary medicinal products and the accompanying package leaflet should also bestrengthened. The requirement that a veterinary medicinal product may only be dispensed after a veterinary prescription has been made out should also be extended to all medicinal products for food-producing animals. The administrative procedures for supplying medicinal products for pets should, on the other hand, be simplified.
+
+(19) The quality of the veterinary medicinal products manufactured or available in the Community should be guaranteed by requiring that the active substances they contain have been produced in accordance with good manufacturing practice. The Community provisions on inspections also need to be strengthened, and a Community register established containing the results of these inspections. The arrangements for the official release of batches of certain immunological medicinal products should be reviewed in order to take account of the improvement of the general system for monitoring the quality of medicinal products and to reflect technical and scientific progress, and also in order to make mutual recognition fully effective.
+
+(20) The monitoring of the efficacy and safety of the veterinary medicinal products on the market should be improved by stepping up pharmacovigilance measures, particularly where the validity of marketing authorisations is no longer compulsorily limited to five years. The frequency with which the periodical safety update reports are submitted should be increased, there should be an operational network for the exchange of electronic data and, where appropriate, the competent authorities should be enabled to take temporary emergency measures.
+
+(21) Since most of the measures necessary for the implementation of this Directive are measures of individual scope, use should be made of the advisory procedure provided for in Article 3 of Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission [13], or ofthe management procedure under Article 4 thereof. As regards general scope within the meaning of Article 2 of the Decision, those measures should be adopted by use of the regulatory procedure provided for in Article 5 thereof.
+
+(21a)   The Commission should investigate whether it is possible to develop a standard environmental classification system for veterinary medicinal products and, if it finds a suitable model, for a relevant proposal to be submitted to Parliament before the end of 2003.
+
+
+
+[13]  OJ L 184, 17.7.1999, p. 23.
+
+(22) Directive 2001/82/EC should be amended accordingly,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Directive 2001/82/EC is amended as follows:
+
+(1) The first citation is replaced by the following:
+
+"Having regard to the Treaty establishing the European Community, and in particular Article 95 and point (b) of Article 152(4) thereof,"
+
+(2) Article 1 is amended as follows:
+
+(a) Point (1) is deleted.
+
+(b) Point (2) is replaced by the following:
+
+"2. Veterinary medicinal product
+
+Any substance or combination of substances
+
+(a) presented for treating or preventing disease in animals.
+
+(b) capable of use in animals with a view to making a medical diagnosis or to restoring, correcting or modifying physiological functions in animals."
+
+(c) Point (3) is deleted.
+
+(ca)   Point (8) is replaced by the following:
+
+ 	
+"8. Homeopathic medicinal product:
+
+ 	
+Any medicinal product prepared from substances in accordance with a homeopathic manufacturing procedure described by the European Pharmacopoeia or, in absence thereof, by the pharmacopoeias currently used officially in the Member States. A homeopathic medicinal product may contain a number of active principles."
+
+(d) Points (9) and (10) are replaced by the following:
+
+"9. Withdrawal period
+
+Period necessary between the last administration of the veterinary medicinal product to animals, under normal conditions of use and in accordance with good veterinary practice, and the production of foodstuffs from such animals, in order to protect public health, by ensuring [follow on] that such foodstuffs do not contain residues in quantities in excess of the maximum residue limits of active substances laid down in Annex I or III to Regulation (EEC) No 2377/90.
+
+10. Adverse reaction:
+
+A reaction to a veterinary medical product which is harmful and unintended and which occurs at doses normally used in animals for the prophylaxis, diagnosis or treatment of disease or to restore, correct or modify a physiological function."
+
+Point (19) is replaced by the following:
+
+"Risk related to use of the product:
+
+ 	
+-   any risk relating to the quality, safety and efficacy of the product as regards the patient's health or public health;
+
+ 	
+-   any risk of unwanted effects on the environment.
+
+ 	
+The following point (19a) is added:
+
+ 	
+(19a)   Risk/benefit balance:
+
+ 	
+An evaluation of the positive therapeutic effects of the product in relation to the risk of unwanted effects as defined above."
+
+(e) The following points (20) to (27) are added:
+
+"(20) Veterinary prescription
+
+Any prescription for veterinary medical products issued by an authorised member of the veterinary profession after a clinical examination of the animal(s) or of a representative sample of the group of animals involved or in accordance with good veterinary practice.
+
+(21) Name of veterinary medicinal product
+
+The name, which may be either an invented name which is not liable to confusion with the common name, or a common or scientific name accompanied by a trade mark or the name of the marketing authorisation holder. .
+
+(22) Non-proprietary name
+
+The international name recommended by the World Health Organisation or, failing this, the common name.
+
+(23) Strength
+
+The content of active substances, expressed as quantity per unit, per unit volume or per unit weight, depending on how the product is presented.
+
+(24) Immediate packaging
+
+The container or any other form of packaging that is in direct contact with the medicinal product.
+
+(25) Outer packaging
+
+The packaging into which the immediate packaging is placed.
+
+(26) Labelling
+
+The words printed on the outside or immediate packaging.
+
+(27) Package leaflet
+
+The leaflet containing information for the user that accompanies the medicinal product."
+
+(3) Articles 2 and 3 are replaced by the following:
+
+"Article 2
+
+1. The provisions of this Directive shall apply to veterinary medicinal products including pre-mixes for medicated feeding stuffs intended to be placed on the market in the Member States and prepared industrially or by a method involving an industrial process.
+
+2. The provisions of this Directive shall apply whenever a substance or composition of substances corresponds to the definition of a medicinal product, even if the substance or composition of substances is also falling within the field of application of other Community legislation.
+
+Article 3
+
+1. This Directive shall not apply to:
+
+(a) medicated feedingstuffs as defined in Council Directive 90/167/EEC*.
+
+(b) inactivated immunological veterinary medicinal products which are manufactured from pathogens and antigens obtained from an animal or animals from a holding and used for the treatment of that animal or the animals of that holding in the same locality;
+
+(c) veterinary medicinal products based on radio-active isotopes;
+
+(d) any additives covered by Council Directive 70/524/EEC** where they are incorporated in animal feedingstuffs and supplementary animal feedingstuffs in accordance with that Directive.
+
+However, medicated feedingstuffs under point (a) may be prepared only from pre-mixes which have been authorised under this Directive.
+
+2. Except for the provisions on possession, prescription, dispensing and administration of veterinary medicinal products, this Directive shall not apply to:
+
+(a) any medicinal product prepared in a pharmacy in accordance with a prescription for an individual animal, commonly known as the magistral formula;
+
+(b) any medicinal product prepared in a pharmacy in accordance with the prescriptions of a pharmacopoeia and intended to be supplied directly to the end-user, commonly known as the officinal formula.
+
+* OJ L 92, 7.4.1990, p. 42.
+
+** OJ L 270, 14.12.1970, p. 1."
+
+(4) Article 4(2) is replaced by the following:
+
+"2. Member States may permit exemptions on their territory in respect of veterinary medicinal products intended solely for aquarium fish, ornamental birds, homing pigeons, terrarium animals, small rodents, and ferrets and rabbits kept exclusively as pets from the provisions in Articles 5 to 8, provided that such products do not contain substances the use of which requires veterinary control and that all possible measures have been taken to prevent unauthorised use of the products for other animals."
+
+(5) Articles 5 and 6 are replaced by the following:
+
+"Article 5
+
+1. No veterinary medicinal product may be placed on the market of a Member State unless a marketing authorisation has been issued by the competent authorities of that Member State in accordance with this Directive or a marketing authorisation has been granted in accordance with Regulation (EEC) No 2309/93.
+
+The various strengths and presentations of a single pharmaceutical formulation and any amendment under Article 39 must be authorised under the first sub-paragraph and shall be considered part of the same authorisation.
+
+2. The holder of the marketing authorisation shall be responsible for the marketing of the medicinal product.
+
+Article 6
+
+1. In order that a veterinary medicinal product may be the subject of a marketing authorisation for the purpose of administering it to one or more food-producing species, the pharmacologically active substances which it contains must be shown in Annexes I, II or III to Regulation (EEC) No 2377/90.
+
+2. If it is justified by an amendment to the Annexes to Regulation (EEC) No 2377/90, the holder of the marketing authorisation or, where appropriate, the competent authorities shall take all necessary measures for amending or withdrawing the marketing authorisation within 60 days of the date on which the amendment to the Annexes to Regulation (EEC) No 2377/90 was published in the Official Journal of the European Communities."
+
+(6) Article 8 is replaced by the following:
+
+"Article 8
+
+In the event of serious epizootic diseases, Member States may provisionally allow the use of immunological veterinary medicinal products without an authorisation for placing on the market, in the absence of a suitable medicinal product and after informing the Commission of the detailed conditions of use.
+
+The Commission may avail itself of the option set out in the first paragraph when explicit provision is made for that option under Community rules concerning certain serious epizootic diseases.
+
+If an animal is being imported from, or exported to, a third country and is thereby subject to specific binding health rules, a Member State may permit the use, for the animal in question, of a immunological veterinary medicinal product that is not covered by a marketing authorisation in the Member State in question but is authorised under the legislation of the third country. Member States shall take all appropriate measures concerning the supervision of the importation and the use of such immunological products."
+
+(7) Articles 10 to 13 are replaced by the following:
+
+"Article 10
+
+1.   If there is no authorised medicinal product in a Member State for a condition affecting a non food-producing animal, the veterinarian may, by way of exception, particularly in order to avoid causing unacceptable suffering to the animal concerned, under his/her personal responsibility, treat the animal(s) with:
+
+(a) a veterinary medicinal product authorised in the Member State concerned under this Directive or under Regulation (EEC) No 2309/93 for use with another animal species, or for another condition in the same species; or
+
+(b) if there is no product as referred to in point (a), a medicinal product authorised for human use in the Member State concerned in accordance with Directive 2001/83/EC of the European Parliament and of the Council* or under Regulation (EEC) No 2309/93; or
+
+i)   a medicinal product authorised for human use in the Member State concerned in accordance with Directive 2001/83/EC of the European Parliament and of the Council* or under Regulation (EEC) No 2309/93; or
+
+ 	
+(ii)   a veterinary medicinal product authorised in another Member State in accordance with this Directive for use in the same species for the condition in question or for another condition,
+
+(c) if there is no product as referred to in point (b) and within the limits of the law of the Member State concerned, a veterinary medicinal product prepared extemporaneously by a person authorised to do so under national legislation in accordance with the terms of a veterinary prescription.
+
+2. By way of derogation from Article 11, the provisions of paragraph 1 shall also apply to the treatment by a veterinarian of an animal belonging to the equidae family provided that it has been declared, under Commission Decision 93/623/EEC**, as never having been intended for the production of foodstuffs.
+
+3.   By way of derogation from Article 11, the provisions of paragraph 1 also apply to the treatment by a veterinarian of other animals of the Equidae family, not referred to in the previous article, provided such animals do not enter the food chain for human consumption before 6 months after the date of the last treatment with products containing substances not included in Annex I, II or III of Council Regulation No 2377/90 and that the veterinary surgeon fills in the passport of the animal as required in Decision 93/623/EEC.
+
+* OJ L
+
+** OJ L 298, 3. 12. 1993, p. 45.
+
+Article 11
+
+1.   By way of exception, if there is no suitable authorised medicinal product in a Member State for a condition affecting food-producing animals, the veterinarian responsible may, under his/her personal responsibility, treat the animals concerned on a particular holding with:
+
+(a) of a veterinary medicinal product authorised in the Member State concerned under this Directive or under Regulation (EEC) No 2309/93 for use with another animal species, or for another condition in the same species; or
+
+(b) if there is no product as referred to in point (a),
+
+(i) either, of a medicinal product authorised for use in the Member State concerned with human beings in accordance with Directive 2001/83/EC or under Regulation (EEC) No 2309/93, or
+
+(ii) (ii) of a veterinary medicinal product authorised in another Member State in accordance with this Directive for use in the same species for the condition in question or for another condition; or
+
+(c) if the product or products as referred to in point (b) is/are not available and within the limits of the law of the Member State concerned, of a veterinary medicinal product prepared extemporaneously by a person authorised to do so under national legislation in accordance with the terms of a veterinary prescription.
+
+2.   The provisions of paragraph 1 shall apply provided that the pharmacologically active substances included in the medicinal product are listed in Annex I, II or III to Regulation (EEC) No 2377/90, and that the veterinarian responsible specifies an appropriate withdrawal period.
+
+2a.   With regard to homeopathic veterinary medicinal products in which the level of active principles is equal to or less than one part per million, the withdrawal period referred to in the first and second subparagraphs is reduced to zero.
+
+Unless the medicinal product used indicates a withdrawal period for the species concerned, the specified withdrawal period shall not be less than:
+
+(a) 7 days for eggs;
+
+(b) 7 days for milk;
+
+(c) 28 days for meat from poultry and mammals including fat and offal;
+
+(d) 500 degree-days for fish meat.
+
+3. When a veterinarian has recourse to the provisions of paragraphs 1 and 2 of this Article, he/she shall keep adequate records of the date of examination of the animals, details of the owner, the number of animals treated, the diagnosis, the medicinal products prescribed, the doses administered, the duration of treatment and the withdrawal periods recommended, and make these records available for inspection by the competent authorities for a period of at least five years.
+
+4. Without prejudice to the other provisions of this Directive, Member States shall take all necessary measures concerning the import, distribution and dispensing of and information on the medicinal products which they permit for administration to food-producing animals in accordance with paragraph 1(b)(ii) of this Article.
+
+Article 12
+
+1. For the purposes of obtaining a marketing authorization in respect of a veterinary medicinal product, other than under the procedure established by Regulation (EEC) No 2309/93, an application shall be lodged with the competent authority of the Member State concerned.
+
+In the case of veterinary medical products intended for one or more food-producing species, whose pharmacologically active substances have not yet been included, for the species in question, in Annexes I, II or III to Regulation (EEC) No 2377/90, a marketing authorisation may not be applied for until after a valid application has been made for the establishment of maximum residue limits in accordance with that Regulation. At least six months shall elapse between a valid application for the establishment of maximum residue limits and an application for marketing authorisation.
+
+2. A marketing authorization may only be granted to an applicant established in the Community.
+
+3. The application for marketing authorisation shall include all the administrative information and scientific documentation necessary for demonstrating the quality, safety and efficacy of the veterinary medical product in question. The file shall be submitted in accordance with Annex I and shall contain, in particular, the following information:
+
+(a) name or business name and permanent address or registered place of business of the person responsible for placing the product on the market and, if different, of the manufacturer or manufacturers involved and of the sites of manufacture;
+
+(b) name of veterinary medicinal product;
+
+(c) qualitative and quantitative particulars of all the constituents of the veterinary medicinal product;
+
+(d) description of the method of manufacture;
+
+(e) therapeutic indications, contra-indications and adverse reactions;
+
+(f) dosage for the various species of animal for which the veterinary medicinal product is intended, its pharmaceutical form, method and route of administration and proposed shelf life;
+
+(g) if applicable, explanations of the precautionary and safety measures to be taken when the product is stored, when it is administered to animals and when waste therefrom is disposed of, together with an indication of any potential risks the medicinal product might pose to the environment and the health of humans, animals or plants;
+
+(h) indication of the withdrawal period in the case of medicinal products intended for food-producing species;
+
+(i) description of the testing methods employed by the manufacturer;
+
+(j) results of:
+
+- pharmaceutical (physico-chemical, biological or microbiological) tests;
+
+- safety tests and residue tests;
+
+- - pre-clinical and clinical trials;
+
+(ja)   a detailed description of the pharmacovigilance system which the applicant is going to introduce;
+
+(k) a summary in accordance with Article 14 of the product characteristics, a mock-up of the immediate packaging and the outer packaging of the veterinary medicinal product, together with the package leaflet, in accordance with Articles 58 to 61;
+
+(l) a document showing that the manufacturer is authorised in his own country to produce veterinary medicinal products;
+
+(m) copies of any marketing authorization obtained in another Member State or in a third country for the relevant veterinary medicinal product, together with a list of those Member States in which an application for authorization submitted in accordance with this Directive is under examination. Copies of the summary of the product characteristics proposed by the applicant in accordance with Article 14 or approved by the competent authority of the Member State in accordance with Article 25 and copies of the package insert proposed, details of any decision to refuse authorization, whether in the Community or a third country and the reasons for that decision; all this information shall be updated on a regular basis.
+
+(n) in the case of veterinary medical products intended for one or more food-producing species and containing one or more pharmacologically active substances not yet included, for the species in question, in Annexes I, II or III to Regulation (EEC) No 2377/90 on maximum residue limits of veterinary medicinal products, a document certifying that a valid application for the establishment of maximum residue limits has been submitted to the Agency in accordance with the aforementioned Regulation.
+
+(na)   Proof that the applicant has the services of a qualified person responsible for pharmacovigilance and has equipment for the notification of any adverse reaction suspected of occurring either in the Community or in a third country.
+
+The documents and particulars relating to the results of the tests referred to in point (j) of the first subparagraph shall be accompanied by detailed and critical summaries, drawn up as specified in Article 15.
+
+Article 13
+
+1. By way of derogation from point (j) of the first subparagraph of Article 12(3), and without prejudice to the law relating to the protection of industrial and commercial property, the applicant shall not be required to provide the results of the safety and residue tests or of the pre-clinical and clinical trials if he/she can demonstrate that the medicinal product is a generic of a reference medicinal product authorised within the meaning of Article 5 for not less than ten years in a Member State or the Community.
+
+By way of derogation from point (j) of the first subparagraph of Article 12(3), and without prejudice to the law relating to the protection of industrial and commercial property, the applicant shall not be required to provide the results of the safety and residue tests or of the pre-clinical and clinical trials if he/she can demonstrate that the medicinal product is a generic of a reference medicinal product authorised within the meaning of Article 5 for not less than eight years in a Member State or the Community. A generic medicinal product authorised pursuant to this provision cannot be manufactured or placed on the market until ten years have elapsed from the first authorisation of the reference product.
+
+However, the ten-year period provided for in the first subparagraph is extended to 15 years in the case of veterinary medicinal products for smaller species and laying hens, provided that the applicant places the medicinal product on the market in the course of the first two years following authorisation.
+
+2. For the purposes of this Article:
+
+(a) reference medicinal product shall mean a product authorised within the meaning of Article 5 in accordance with the provisions of Article 12;
+
+(b) generic medicinal product shall mean a medicinal product which has the same qualitative and quantitative composition in terms of active substances, the same pharmaceutical form, and whose bioequivalence with the reference medicinal product has been demonstrated by means of appropriate bioavailability tests. Bioavailability tests may not be required of the applicant if he/she can demonstrate that the medicinal product meets the criteria set out in Annex I.
+
+3. The first subparagraph of paragraph 1 shall not apply in the event of a change in the active substance or substances, the therapeutic indications, the strength, the pharmaceutical form, the route of administration or the dose vis-à-vis the reference medicinal product, and the results of appropriate safety and residue tests studies and pre-clinical and clinical trials shall be provided.
+
+4. In the case of veterinary medicinal products intended for one or more species and containing a new active substance that has not been authorised in the Community by [date] the ten-year period provided for in the first subparagraph of paragraph 1 shall be extended by one year for each extension of the marketing authorisation to another species, or to one or more significant new therapeutic indications, if it is authorised within the five years following the granting of the initial marketing authorisation.
+
+ 	
+Significant new therapeutic indications are those which, during the scientific evaluation prior to their authorisation, are held to bring a significant clinical benefit in comparison with existing therapies.
+
+The extension of one, two or three years of further data protection also applies to any initial marketing authorisation relative to two, three or four food-producing species, respectively.
+
+This period cannot, however, exceed a total of 13 years, for a marketing authorisation for four or more species.
+
+The extension of the ten-year period to 11, 12, or 13 years in relation to a food producing species shall be granted only if the marketing authorisation holder had also been at the origin of the maximum residue limits established for the species covered by the authorisation.
+
+5. Conducting the necessary tests and trial with a view to application of paragraphs 1 to 4 to a generic medicinal product shall not be regarded as contrary to patent related rights and to complementary protection certificates for those medicinal products."
+
+(8) The following Articles 13a to 13d are inserted:
+
+"Article 13a
+
+1. By way of derogation from point (j) of the first subparagraph of Article 12(3), and without prejudice to the law on the protection of industrial and commercial property, the applicant shall not be required to provide the results of the safety and residue tests or of the pre-clinical and clinical trials if he/she can demonstrate that the active substance(s) of the veterinary medicinal product are of well-established veterinary use for not less than ten years in the Community, with recognised efficacy and an acceptable level of safety in accordance with the conditions set out in Annex I. In that event the applicant shall provide appropriate scientific documentation.
+
+2. The assessment report published by the Agency following the evaluation of an application for the establishment of maximum residue limits in accordance with Regulation (EEC) No 2377/90 may be used in an appropriate manner as literature, particularly for the safety tests.
+
+3. If an applicant makes use of scientific literature in order to obtain authorisation for a food-producing species, and submits, in respect of the same medicinal product and with a view to obtaining authorisation for another food-producing species, new residue studies in accordance with Regulation (EEC) No 2377/90, together with furtherclinical trials, it shall not be permissible for a third party to use such studies or such trials pursuant to Article 13, for a period of three years from the grant of the authorisation for which they were carried out.
+
+Article 13b
+
+1. In the case of new veterinary medicinal products containing active substances used in the composition of authorised veterinary medicinal products but not hitherto used in combination for therapeutic purposes, the results of safety and residue tests and of pre-clinical and clinical trials relating to that combination shall be provided, but it shall not be necessary to provide the documentation relating to each individual active substance.
+
+Article 13c
+
+After marketing authorisation has been granted, the marketing authorisation holder may allow use to be made of the pharmaceutical, safety and residues, pre-clinical and clinical documentation contained in the file for the veterinary medicinal product with a view to examining a subsequent application for a veterinary medicinal product having the same qualitative and quantitative composition in active substances and the same pharmaceutical form..
+
+Article 13d
+
+By way of derogation from point (j) of the first subparagraph of Article 12(3),and in exceptional circumstances with respect to immunological veterinary medicinal products, the applicant shall not be required to provide the results of certain field trials on the target species if these trials cannot be carried out for duly substantiated reasons, in particular on account of other Community provisions."
+
+(9) Articles 14 and 15 are replaced by the following:
+
+"Article 14
+
+The summary of the product characteristics shall contain, in the order indicated below, the following information:
+
+(1) Name of the veterinary medicinal product followed by the strength and the pharmaceutical form;
+
+(2) Qualitative and quantitative composition in terms of the active substances and constituents of the excipient, knowledge of which is essential for proper administration of the medicinal product. The common name or chemical description will be used;
+
+(3) Pharmaceutical form;
+
+(4) Pharmacological properties and, in so far as this information is useful for the therapeutic purposes, pharmacokinetic particulars;
+
+(5) Clinical particulars;
+
+5.1 target species,
+
+5.2 indications for use, specifying the target species,
+
+5.3 contra-indications,
+
+5.4. special warnings for each target species;
+
+5.5 special precautions for use, including special precautions to be taken by the person administering the medicinal product to the animals;
+
+5.6 adverse reactions (frequency and seriousness);
+
+5.7 use during pregnancy, lactation or lay;
+
+5.8 interaction with other medicaments and other forms of interaction;
+
+5.9 amounts to be administered and administration route;
+
+5.10 overdose (symptoms, emergency procedures, antidotes) (if necessary);
+
+5.11 withdrawal periods (expressed in hours or days) for the various foodstuffs, including those for which the withdrawal period is zero.
+
+(6) Pharmaceutical particulars:
+
+6.1 major incompatibilities;
+
+6.2 shelf life, when necessary after reconstitution of the medicinal product or when the immediate packaging is opened for the first time;.
+
+6.3 special precautions for storage,
+
+6.4  nature and composition of immediate packaging;
+
+6.5 special precautions, including those pertaining to the environment, for the disposal of unused medicinal products or waste materials derived from the use of these products, if any.
+
+(7) Name, or corporate name, and permanent address or registered place of business of the marketing authorisation holder.
+
+Article 15
+
+1. Applicants shall ensure that the detailed and critical summaries referred to in the second subparagraph of Article 12(3) are drafted and signed by persons with the requisite technical or professional qualifications, set out in a brief curriculum vitae, before being submitted to the competent authorities.
+
+2. Persons with the technical or professional qualifications, referred to in paragraph 1, shall justify any use made of the scientific literature referred to in Article 13a(1) in accordance with the conditions set out in Annex I.
+
+3. A brief curriculum vitae of the persons referred to in paragraph 1 shall be appended to the detailed critical summaries."
+
+(10) Article 16 is replaced by the following:
+
+"Article 16
+
+1.   Member States shall ensure that homeopathic veterinary medicinal products manufactured and marketed within the Community are registered or authorised in accordance with the provisions of Article 17(1) and (2), and Articles 18 and 19. Each Member State shall take due account of the registrations already effected, and of the authorisations already issued by other Member States.
+
+2. Member States shall establish a simplified registration procedure for the homeopathic veterinary medicinal products referred to in Article 17."
+
+(11) Article 17 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+"1. Without prejudice to the provisions of Regulation (EEC) No 2377/90 on the establishment of maximum residue limits of pharmacologically active substances intended for food-producing animals, only homeopathic veterinary medicinal products which satisfy all of the following conditions may be subject to a special, simplified registration procedure:
+
+(a) they are administered by a route described in the European Pharmacopoeia or, in absence thereof, by the pharmacopoeias currently used officially in the Member States;
+
+(b) no specific therapeutic indication appears on the labelling of the veterinary medicinal product or in any information relating thereto;
+
+(c)   there is a sufficient degree of potentisation, which involves a sequential series of dilutions and succussions, to guarantee the safety of the medicinal product; in particular, the medicinal product may not contain either more than one part per 10 000 of the mother tincture or more than 1/100th of the smallest dose used in allopathy with regard to active principles whose presence in an allopathic medicinal product results in the obligation to submit a veterinary prescription.
+
+If it appears justified in the light of new scientific evidence, the Commission may adapt points (b) and (c) of the first subparagraph in accordance with the procedure referred to in Article 89(2).
+
+At the time of registration, Member States shall determine the classification for the dispensing of the medicinal product."
+
+(b) Paragraph 3 is deleted.
+
+(12) Article 18 is amended as follows:
+(-a) The second indent is replaced by the following:
+
+ 	
+"- dossier describing how the homeopathic stock or stocks is/are obtained and controlled, and justifying its/their homeopathic use, on the basis of an adequate bibliography; in the case of homeopathic veterinary medicinal products containing active substances of animal or human origin, the provisions of the monograph "Homeopathic preparations" of the European Pharmacopoeia are to be fulfilled,"
+
+	
+(-aa) The third indent is replaced by the following:
+
+ 	
+"- manufacturing and control file for each
+
+pharmaceutical form and a description of the method of potentisation,"
+
+(a) The sixth indent is replaced by the following:
+
+"- one or more mock-ups of the outer packaging and immediate packaging of the medicinal products to be registered,"
+
+(b) The following eighth indent is added:
+
+"- proposed withdrawal period together with all requisite justification."
+
+(13) Article 19 is replaced by the following:
+
+"Article 19
+
+1. Homeopathic veterinary medicinal products other than those referred to in Article 17(1) shall be authorised in accordance with the provisions of Articles 12 to 14.
+
+2.   A Member State may introduce or retain on its territory specific rules for the safety tests and pre‑clinical and clinical trials of homeopathic veterinary medicinal products intended for pet species and non‑food-producing exotic species, or for food-producing species if the product contains only active ingredients included in Annex II of Regulation 2377/90/EC, other than those referred to in Article 17(1), in accordance with the principles and characteristics of homeopathy as practised in that Member State. In this case, the Member State concerned shall notify the Commission of the specific rules in force.
+
+(14) Articles 21, 22 and 23 are replaced by the following:
+
+"Article 21
+
+1. Member States shall take all appropriate measures to ensure that the procedure for granting an authorisation to place a veterinary medicinal product on the market is completed within 150 days of the submission of a valid application, including 120 days for drawing up the assessment report and the summary of product characteristics.
+
+With a view to the grant of a marketing authorisation for a veterinary medicinal product in two or more Member States, applications shall be submitted in accordance with Articles 31 to 43.
+
+2. Where a Member State notes that an application for authorisation of a given veterinary medical product submitted is already being examined in another Member State, the Member State concerned shall decline to assess the application and shall inform the applicant that the procedure described in Articles 31 to 43 applies.
+
+Article 22
+
+Where a Member State is informed, in accordance with point (m) of Article 12(3), that another Member State has authorised a veterinary medicinal product which is the subject of an application for authorisation in the Member State concerned, that Member State shall reject the application unless it has been submitted in compliance with Articles 31 to 43."
+
+Article 23
+
+In order to examine the application submitted pursuant to Articles 12 to 13d, the competent authorities of the Member States:
+
+1. shall check that the documentation submitted in support of the application complies with Articles 12 to 13d and ascertain whether the conditions for the issue of the marketing authorisation have been fulfilled;
+
+2. may submit the medicinal product, its raw materials and if necessary intermediate products or other constituent materials for testing by a State laboratory or by a laboratory designated for that purpose, in order to ensure that the testing methods employed by the manufacturer and described in the application documents, in accordance with point (i) of Article 12(3), are satisfactory;
+
+3. may similarly check, in particular through consultation of a national or Community reference laboratory, that the analytical method used for detecting residues presented by the applicant in accordance with the second subparagraph of Article 12(3) is satisfactory;
+
+4. may, where appropriate, require the applicant to provide further information as regards the items listed in Articles 12 to 13d. Where the competent authorities take this course of action, the time-limits specified in Article 21 shall be suspended until the further data required have been provided. Similarly, these time-limits shall be suspended for any period which the applicant may be given to provide oral or written explanations."
+
+(15) In Article 25, paragraphs 2, 3 and 4 are replaced by the following:
+
+"2. The competent authorities shall take all necessary measures to ensure that the information concerning the veterinary medicinal product, and in particular the labelling and package leaflet, is in conformity with that approved in the summary of product characteristics when the marketing authorisation is issued or subsequently.
+
+3.   The competent authorities shall make available to any interested person a copy of the marketing authorisation together with the summary of product characteristics after all commercially confidential information has been deleted.
+
+4. The competent authorities shall draw up an assessment report and comments on the dossier as regards the results of the pharmaceutical, safety and residue tests and the pre-clinical and clinical trials of the veterinary medicinal product concerned. The assessment report shall be updated whenever new information becomes available which is of importance for the evaluation of the quality, safety or efficacy of the veterinary medicinal product concerned.
+
+At the request of any interested person, the competent authorities shall make available the assessment report and its reasons for the opinion after deleting any information of commercially confidential nature."
+
+(16) Article 26 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+"1. The marketing authorisation may require the holder to indicate on the immediate packaging and/or the outer wrapping and the package leaflet, where the latter is required, other particulars essential for safety or health protection, including any special precautions relating to use and any other warnings resulting from the clinical and pharmacological trials prescribed in point (j) of the first subparagraph of Article 12(3) and in Articles 13 to 13d or from experience gained during the use of the veterinary medicinal product once it has been marketed."
+
+(b) Paragraph 2 is deleted.
+
+(c) Paragraph 3 is replaced by the following:
+
+"3. In exceptional circumstances, and following consultation with the applicant, an authorisation may be granted under specific conditions, which shall be reviewed annually. Continuation of the initial authorisation may be linked to the review of these conditions.
+
+Such authorisations may be granted only for objective and verifiable reasons."
+
+(17) Article 27 is amended as follows:
+
+(-a) In paragraph 1, the first subparagraph is replaced by the following:
+
+ 	
+'After an authorisation has been issued, the marketing authorisation holder must, with regard to the manufacturing and control methods referred to in Article 12(3)(d) and (i), take account of scientific and technical progress and make all the changes necessary to ensure that the veterinary medicinal product is manufactured and inspected in accordance with generally accepted scientific methods, with due regard for Community law.'
+
+(a) Paragraphs 2 and 3 are replaced by the following:
+
+"2. The competent authority may require the applicant or the marketing authorisation holder to provide sufficient quantities of the substances to enable controls to be made on the identification of the presence of residues of the veterinary medicinal products in question.
+
+Upon request from the competent authorities, the marketing authorisation holder shall provide his/her technical expertise to facilitate the implementation of the analytical method for detecting residues of the veterinary medicinal products in the national reference laboratory designated under Council Directive 96/23/EC*.
+
+3. In order to allow the continuous evaluation of the relation between the benefits and the risks, the marketing authorisation holder shall also forthwith forward to the competent authorities any new information which might entail the amendment of the contents of the file or of the approved summary of product characteristics. In particular, he/she shall forthwith inform the competent authorities of any prohibition or restriction imposed by the competent authorities of any country in which the veterinary medicinal product is marketed or of any rejection of an application for authorisation submitted in a third country.
+
+* OJ L 125, 23.5.1996, p. 10."
+
+(c) Paragraph 4 is deleted.
+
+(d) Paragraph 5 is replaced by the following:
+
+"5. The marketing authorisation holder shall immediately inform the competent authorities, with a view to authorisation, of any alteration which he/she proposes to make to the particulars and documents referred to in Articles 12 to 13d."
+
+(18) Article 28 is replaced by the following:
+
+"Article 28
+
+1. Without prejudice to paragraphs 2 and 3, the authorisation shall be valid for an unlimited period.
+
+2.   Any authorisation that is not followed within three years of its issue by the actual marketing of the authorised veterinary medicinal product in the authorising Member State shall cease to be valid.
+
+3.   When an authorised veterinary medicinal product previously placed on the market in the authorising Member State, is no longer actually present on the market in that Member State for a period of three consecutive years, the authorisation shall cease to be valid.
+
+ 	
+3a.   The competent authority may, in exceptional circumstances, grant a derogation from the provisions of paragraph 2 and 3. The derogation shall be duly justified.
+
+(19) Article 30 is replaced by the following:
+
+"Article 30
+
+The marketing authorisation shall be withheld if the file submitted to the competent authorities does not comply with the provisions of Articles 12 to 13d and Article 15.
+
+The authorisation shall also be withheld if examination of the documents and particulars listed in Articles 12 and 13(1) establishes that:
+
+(a) the benefit/risk assessment of the veterinary medicinal product is, under the authorised conditions of use, unfavourable; when the application concerns a veterinary medicinal product for zootechnical use, particular regard being had to the benefits for animal health and welfare and to the safety and health benefits for the consumer; or
+
+(b) the product has no therapeutic effect or the applicant has not provided sufficient proof of such effect as regards the species of animal which is to be treated; or
+
+(c) its qualitative or quantitative composition is not as stated; or
+
+(d) the withdrawal period recommended by the applicant is not long enough to ensure that foodstuffs obtained from the treated animal do not contain residues which might constitute a health hazard to the consumer, or is insufficiently substantiated; or
+
+(e) the labelling or the package leaflet proposed by the applicant does not comply with this Directive;
+
+(f) the veterinary medicinal product is offered for sale for a use prohibited under other Community provisions.
+
+However, when a Community legislative framework is in the course of being adopted, the competent authority may refuse authorisation for a veterinary medicinal product where such action is necessary for the protection of public health, consumer or animal health.
+
+Authorization shall also be withheld if the application documents submitted to the competent authorities do not comply with Articles 12, 13 (1) and 15."
+
+(20) The title of Chapter 4 is replaced by the following:
+
+"Chapter 4  Mutual recognition procedure and decentralised procedure"
+
+(21) Articles 31 to 35 are replaced by the following:
+
+"Article 31
+
+1. A coordination group is set up for the examination of any question relating to marketing authorisation of a veterinary medicinal product in two or more Member States in accordance with the procedures laid down in this Chapter. The Agency shall provide the secretariat for this group.
+
+2. The group shall be composed of one representative per Member State appointed for a renewable period of three years. Members of the group may arrange to be accompanied by experts.
+
+3.   The coordination group shall draw up its own rules of procedure, which shall enter into force after a favourable opinion of the Commission. These rules of procedure shall be made public.
+
+Article 32
+
+1. With a view towards the grant of a marketing authorisation for a veterinary medicinal product in two or more Member States, the applicant shall submit an application referring to an identical dossier in those Member States. The dossier shall contain all the administrative information and scientific and technical documentation described in Articles 12 to 14. The documents submitted shall include a list of the Member States concerned by the application.
+
+The applicant shall request one Member State to act as reference Member State and to prepare an assessment report in respect of the veterinary medical product according to paragraphs 2 or 3.
+
+Where appropriate, the assessment report shall contain an evaluation for the purposes of Article 13(4) or (5) or Article 13a(3).
+
+2. If the veterinary medicinal product has already received authorisation by the time of application, the Member State(s) concerned shall recognise the marketing authorisation granted by the reference Member State. To this end, the marketing authorisation holder shall request the reference Member State either to prepare an assessment report in respect of the veterinary medicinal product or, if necessary, to update any existing assessment report. The reference Member State shall prepare or update the assessment report within 60 days of receipt of a valid application. The assessment report together with the approved summary of product characteristics, labelling and package leaflet shall be forwarded to the Member State(s) concerned and the applicant.
+
+3. If the veterinary medicinal product has not received authorisation by the time of application, the applicant shall request the reference Member State to prepare a draft assessment report and drafts of the summary of product characteristics, labelling and package leaflet. The reference Member State shall prepare these drafts within 120 days of the receipt of a valid application and shall send them to the concerned Member States and the applicant.
+
+4. Within 90 days of receipt of the documents referred to in paragraphs 2 and 3, the Member States concerned shall approve the assessment report, the summary of product characteristics, the labelling and the package leaflet and inform the reference Member State to this effect.
+
+The reference Member State shall ascertain the agreement, close the procedure and inform the applicant accordingly.
+
+5. Each Member State where an application following paragraph 1 has been submitted shall adopt a decision in conformity with the approved assessment report, summary of product characteristics, labelling and package leaflet within 30 days of acknowledgement of the agreement.
+
+Article 33
+
+1. If a Member State cannot, within the period allowed in Article 32(4), agree with the assessment report, summary of product characteristics, labelling and package leaflet on grounds of a potential serious risk to human or animal health or the environment, a detailed statement of the reasons shall be provided to the reference Member State, the other Member States concerned and the applicant. The points of disagreement shall be referred without delay to the coordination group.
+
+If a Member State to which an application has been submitted invokes the reasons referred to in Article 71(1), it shall no longer be regarded as a Member State concerned by this Chapter.
+
+2. Within the coordination group, all the Member States referred to in Paragraph 1 shall use their best endeavours to reach agreement on the action to be taken in respect of the application. They shall provide the applicant with the opportunity to make his/her point of view known orally or in writing. If, within 60 days of the communication of the reasons for disagreement to the coordination group the Member States reach an agreement, the reference Member State shall confirm the agreement, close the procedure and inform the applicant accordingly. Article 31(5) shall apply.
+
+3. If within the period of 60 days the Member States fail to reach an agreement, the Agency shall be immediately informed with a view to application of the procedure laid down in Article 36. The Agency shall be provided with a detailed description of the matters on which agreement could not be reached and the reasons for the disagreement. The applicant shall be provided with a copy of this information.
+
+4. As soon as the applicant has been informed that the matter has been referred to the Agency, he/she shall forthwith forward to the Committee a copy of the information and particulars referred to in the first subparagraph of Article 32(1).
+
+5. In the case referred to in paragraph 3, the Member States that have approved the assessment report, summary of product characteristics, labelling and package leaflet of the reference Member State may, on request by the applicant, grant a marketing authorisation for the veterinary medicinal product without waiting for the outcome of the procedure laid down in Article 36. In that case, the authorisation granted shall be without prejudice to the outcome of that procedure.
+
+Article 34
+
+1.   If two or more applications submitted in accordance with Articles 12 to 14 have been made for marketing authorisation for a particular veterinary medicinal product and Member States have adopted divergent decisions concerning the authorisation of that veterinary medicinal product, or suspension or withdrawal of authorisation, a Member State, or the Commission, or the marketing‑authorisation holder shall refer the matter to the Agency for application of the procedure laid down in Article 36.
+
+2. With a view to promoting the harmonisation of veterinary medicinal products authorised for not less than ten years in the Community, and to strengthen the efficiency of the provisions of Article 11, the Member States shall send to the coordination group, no later than [date], a list of veterinary medicinal products for which a harmonised summary of product characteristics should beprepared.
+
+The coordination group shall agree on a list of medicinal products, on the basis of proposals sent by the Member States, and shall forward this list to the Commission.
+
+The medicinal products in this list are subject to the provisions in paragraph 1 following a timetable established in cooperation with the Agency.
+
+The Commission, acting in collaboration with the Agency, and taking into consideration the views of interested parties, shall agree the final list and timetable.
+
+
+Article 35
+
+1.   The Member States or the Commission or the applicant or holder of the marketing authorisation shall, in specific cases where the interests of the Community are involved, refer the matter to the Committee for the application of the procedure laid down in Article 36 before reaching a decision on a request for a marketing authorisation or on the suspension or withdrawal of an authorisation, or on any other variations to the terms of a marketing authorisation which appear necessary, so as to take account in particular of the information collected in accordance with Title VII.
+
+
+
+The Member State concerned or the Commission shall clearly identify the question which is referred to the Committee for consideration and shall inform the applicant or the marketing authorisation holder.
+
+The Member State and the applicant or the marketing authorisation holder shall forward to the Committee all available information relating to the matter in question.
+
+2. Where the referral to the Committee concerns a range of medicinal products or a therapeutic class, the Agency may limit the procedure to specific parts of the authorisation.
+
+In that case, Article 39 shall apply to those medicinal products only if they are covered by the marketing authorisation procedure referred to in this Chapter."
+
+(22) Article 36 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+"1. When reference is made to the procedure laid down in this Article, the Committee shall consider the matter concerned and shall issue a reasoned opinion within sixty days of the date on which the matter was referred to it.
+
+However, in cases submitted to the Committee in accordance with Articles 34 and 35, this period may be extended by the Committee for a further period of up to 90 days, taking into account the views of the marketing authorisation holders concerned.
+
+In an emergency, and on a proposal from its Chairman, the Committee may agree to a shorter deadline."
+
+(aa)   Paragraph 2 is hereby replaced by the following:
+
+ 	
+"2. So that it may be in a position to consider the matter, the committee shall appoint one of its members as rapporteur. The committee may also appoint independent experts to act as advisers on specific issues. When appointing such experts, the committee shall lay down their duties and establish a deadline by which those duties must have been completed."
+
+(b) Paragraph 3 is replaced by the following:
+
+3.   Before issuing its opinion, the Committee shall provide the applicant or the marketing authorisation holder with an opportunity to present written or oral explanations within a time limit which it will specify.
+
+The opinion of the Committee shall include the draft summary of product characteristics and the drafts of the labelling and package leaflet.
+
+If it considers appropriate, the Committee may invite any other person to provide information relating to the matter before it.
+
+The Committee may suspend the time-limit referred to in paragraph 1 in order to allow the applicant or the marketing authorisation holder to prepare the explanations."
+
+(c) Paragraph 4 is amended as follows:
+
+(i) The introductory wording of the first subparagraph is replaced by the following:
+
+"The Agency shall forthwith inform the applicant or the marketing authorisation holder of the opinion of the Committee if:"
+
+(ii) The second indent of the first subparagraph is replaced by the following:
+
+"- the summary of product characteristics proposed by the applicant or the marketing authorisation holder in accordance with Article 14 should be amended."
+
+(iii) The second subparagraph is replaced by the following:
+
+"Within 15 days of receipt of the opinion, the applicant or the marketing authorisation holder may notify the Agency in writing of his/her intention to appeal. In that case, he/she shall forward the detailed grounds for appeal to the Agency within 60 days of receipt of the opinion. Within 60 days of receipt of the grounds for appeal, the Committee shall reconsider its opinion in accordance with the second subparagraph of Article 53(1) of Regulation (EEC) No 2309/93. The conclusions reached on appeal shall be annexed to the assessment report referred to in paragraph 5."
+
+(d) Paragraph 5 is amended as follows:
+
+(i) The first subparagraph is replaced by the following:
+
+Within 15 days of its adoption, the Agency shall forward the final opinion of the Committee to the Member States, the Commission and the applicant or the marketing authorisation holder together with a report describing the assessment of the veterinary medicinal product and the reasons for its conclusions.
+
+(ii) In the second subparagraph, the following point (c) is added:
+
+"(c) the drafts of the labelling and package leaflet"
+
+(23) Article 37 is amended as follows:
+
+(a) The second subparagraph is replaced by the following:
+
+"In the event of a draft decision which envisages the granting of marketing authorisation, the documents referred to in the second subparagraph of Article 36(5) , shall be annexed."
+
+(b) The fourth subparagraph is replaced by the following:
+
+"The draft decision shall be forwarded to the Member States and the applicant or marketing authorisation holder."
+
+(24) Article 38 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+"1 The Commission shall adopt a final decision in accordance with the procedure referred to in Article 89(3), where the draft decision is in conformity with the Agency's opinion.
+
+2. The Commission shall adopt a final decision in accordance with the procedure referred to in Article 89(4), where the draft decision is not in conformity with the Agency's opinion."
+
+(b) In paragraph 2, the second and third indents are replaced by the following:
+
+"- each Member State shall be allowed at least fifteen days to forward written observations on the draft decision of the Commission. However, if the Decision is urgent, the President may set a shorter deadline in the light of the urgency.
+
+- each Member State may require in writing that the draft decision be discussed by the Standing Committee in plenary session, giving its reasons in detail."
+
+(c) Paragraph 3 is replaced by the following:
+
+"3. A decision as referred to in paragraph 1 shall be addressed to all the Member States and communicated to the marketing authorisation holder or the applicant for information. The concerned Member States and the reference Member State shall either grant or withdraw marketing authorisation, or vary the terms of a marketing authorisation as necessary to comply with the decision within 30 days of its notification and shall refer to it. They shall inform the Commission and the Agency thereof."
+
+(25) In Article 39, the third subparagraph of paragraph 1 is deleted.
+
+(26) In Article 42, paragraph 2 is replaced by the following:
+
+2.   The Commission shall publish, no later than [date], a report on experience gained on the basis of the procedures provided for in this chapter and shall propose any amendments necessary to improve the procedures. This report shall be forwarded to the European Parliament.
+
+(27) Article 43 is replaced by the following:
+
+"Article 43
+
+The provisions of Article 33(3), (4) and (5) and Articles 34 to 38 shall not apply to the homeopathic veterinary medicinal products referred to in Article 17.
+
+The provisions of Articles 32 to 38 shall not apply to the homeopathic veterinary medicinal products referred to in Article 19(2)."
+
+(28) In Article 44, the following paragraph 4 is added:
+
+"4. The Member State shall forward to the Agency a copy of the manufacturing authorisations referred to in paragraph 1. On the basis of this information the Agency shall compile a database."
+
+(29) In Article 50, point (f) is replaced by the following:
+
+"(f) comply with the principles and the guidelines on good manufacturing practice for medicinal products and use as starting materials only active substances that have been manufactured in accordance with the detailed guidelines on good manufacturing practice for starting materials."
+
+(30) The following Article 50a is inserted:
+
+"Article 50a
+
+1. For the purposes of this Directive, manufacturing active substances for use as starting materials shall include the complete or partial manufacture or the import of an active substance used as a starting material, as defined in Part 2, Section C of Annex I, and the various processes of dividing up, packaging or presentation prior to its incorporation in a veterinary medicinal product, including repackaging or re-labelling, such as carried out by a starting material distributor.
+
+2. Amendments which may be necessary to adapt the provisions of this Article to scientific and technical progress shall be adopted in accordance with the procedure referred to in Article 89(2)."
+
+(31) In Article 51, the following third and fourth paragraphs are added:
+
+"The principles and guidelines on good manufacturing practice as regards the manufacturing of active substances for use as starting materials as referred to in Article 50(f) shall be adopted in the form of detailed guidelines.
+
+The Commission shall also publish guidelines on the form and content of the authorisation referred to in Article 44(1), the reports referred to in Article 80(3) and the form and content of the certificate of good manufacturing practice referred to in Article 80(5)."
+
+(32) In Article 53, paragraph 1 is replaced by the following:
+
+"1. Member States shall ensure that the qualified person referred to in Article 52(1) fulfils the conditions of qualification referred to in paragraphs 2 and 3."
+
+(33) In Article 54, paragraph 1 is replaced by the following:
+
+"1. A person engaging, in a Member State, in the activities of the person referred to in Article 52(1) on the date on which Directive 81/851/EEC became applicable, without complying with the provisions of Article 53, shall be eligible to continue to engage in those activities in the Community."
+
+(34) In Article 55, point (b) of paragraph 1 is replaced by the following:
+
+"(b) in the case of veterinary medicinal products coming from third countries, even if the manufacture has taken place in the Community, each production batch imported has undergone in a Member State a full qualitative analysis, a quantitative analysis of at least all the active substances, and all the other tests or controls necessary to ensure the quality of veterinary medicinal products in accordance with the requirements of the marketing authorisation."
+
+(35) Article 58 is amended as follows:
+
+(a) Paragraph 1 is amended as follows:
+
+(i) The introductory wording is replaced by the following:
+
+Except in the case of the medicinal products referred to in Article 17(1), the immediate packaging, containers and outer packaging of veterinary medicinal products shall be approved by the competent authorities and shall include enough space so that, when necessary, a label relating to the prescription concerning a specific animal can be affixed therein. They shall bear the following information, which shall conform with the particulars and documents provided pursuant to Articles 12 to 13d and the summary of product characteristics, and shall appear in legible characters:
+
+(ii) Points (a) and (b) are replaced by the following:
+
+"(a) the name of the medicinal product, comprising the strength and/or pharmaceutical form, if the medicinal product is available in several strengths and/or pharmaceutical forms;
+
+(b) a statement of the active substances expressed qualitatively and quantitatively per unit or according to the form of administration for a particular volume or weight, using the common names;"
+
+(iii) Point (e) is replaced by the following:
+
+"(e) name or corporate name and permanent address or registered place of business of the marketing authorisation holder and, where appropriate, of the local representative designated by the marketing authorisation holder;".
+
+(iv) Point (g) is replaced by the following:
+
+"(g) the withdrawal period, expressed in hours or days, for veterinary medicinal products to be administered to food-producing species, for all the species concerned and for the various foodstuffs concerned (meat and offal, eggs, milk, honey), including those for which the withdrawal period is nil."
+
+(iv a) Point (j) is hereby replaced by the following:
+
+ 	
+"(j) specific precautions relating to the disposal of unused medicinal products or waste derived from medicinal products, where appropriate. Unused medicinal products must be returned to the point of purchase. Not to be disposed of with other waste."
+
+
+
+(v) Point (l) is replaced by the following:
+
+"(l) the words "For animal treatment only" or, in the case of the medicinal products referred to in Article 67, the words "For animal treatment only - to be supplied only on veterinary prescription"."
+
+(b) The following paragraph 5 is added:
+
+"5. In the case of medicinal products that have been granted a marketing authorisation under Regulation [(EEC) No 2309/93], Member States may permit or require that the outer packaging bear additional information concerning distribution, possession, sale or any necessary precautions, provided that such information is not in infringement of Community law or the terms of the marketing authorisation, and is not promotional.
+
+This additional information shall appear in a box with a blue border to separate it clearly from the information referred to in paragraph 1."
+
+(36) Article 59 is amended as follows:
+
+(a) The introductory wording of paragraph 1 is replaced by the following:
+
+"As regards ampoules, the particulars listed in the first paragraph of Article 58 (1) shall be given on the outer package. On the immediate packaging, however, only the following particulars shall be necessary:"
+
+(b) Paragraphs 2 and 3 are replaced by the following:
+
+"2. As regards small immediate packaging containing a single dose, other than ampoules, on which it is impossible to give the particulars mentioned in paragraph 1, the requirements of Article 58(1), (2) and (3), shall apply only to the outer package.
+
+3. The particulars mentioned in the third and sixth indents of paragraph 1 shall appear on the outer package and on the immediate packaging of the medicinal products in the language or languages of the country in which they are placed on the market."
+
+(37) Article 60 is replaced by the following:
+
+"Article 60
+
+Where there is no outer package, all the particulars which should feature on such a package pursuant to Articles 58 and 59 shall be shown on the immediate packaging."
+
+(38) Article 61 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+"1. The inclusion of a package leaflet in the packaging of veterinary medicinal products shall be obligatory unless all the information required by this Article can be conveyed on the immediate packaging and the outer packaging. Member States shall take all appropriate measures to ensure that the package leaflet relates solely to the veterinary medicinal product with which it is included. The package leaflet shall be worded in terms that are comprehensible to the general public and in the official language or languages of the Member State in which the medicinal product is marketed."
+
+(b) Paragraph 2 is amended as follows:
+
+(i) The introductory wording is replaced by the following:
+
+The package leaflet shall be approved by the competent authorities. It shall contain, in the order indicated, at least the following information, which shall conform to the particulars and documents provided pursuant to Articles 12 to 13d and the approved summary of product characteristics:
+
+(ii) Points (a) and (b) are replaced by the following:
+
+"(a) name or corporate name and permanent address or registered place of business of the marketing-authorisation holder and, where appropriate, of the manufacturer and the local representative designated by the marketing authorisation holder in the Member State;
+
+(b) name of the veterinary medicinal product and its active substances, expressed qualitatively and quantitatively, using, wherever they exist, the international non-proprietary names recommended by the World Health Organisation, and stating the name authorised in each of the Member States whenever the medicinal product has been authorised, under the procedure set out in Articles 31 to 43, under different names in the various Member States concerned."
+
+(c) Paragraph 3 is deleted.
+
+(39) Article 62 is replaced by the following:
+
+"Article 62
+
+Where the provisions of this Title are not observed and a formal notice addressed to the person concerned has been ineffectual, the competent authorities of the Member States may suspend or withdraw marketing authorisation."
+
+(40) In Article 64, paragraph 2 is amended as follows:
+
+(a) The introductory wording is replaced by the following:
+
+Without prejudice to Article 59, in addition to the clear mention of the words ‘homeopathic veterinary medicinal product’, the labelling and, where appropriate, package leaflet for the homeopathic veterinary medicinal products referred to in Article 17(1) shall bear the following information and no other information:
+
+
+
+(b) The first indent is replaced by the following:
+
+-   the scientific name of the stock or stocks followed by the degree of dilution, using the symbols of the pharmacopoeia used in accordance with (6); if the homeopathic veterinary medicinal product is composed of more than one stock, the scientific names of the stocks may be supplemented on the labelling by an invented name,
+
+(41) The title of Title VI is replaced by the following:
+
+"titLe vi POSSESSION, distribution and diSPENSING OF vEtErinarY mEdicInAL PRODUCTS"
+
+(42) In Article 65, the following paragraph 3a is inserted:
+
+"3a. The holder of a distribution authorisation shall have an emergency plan guaranteeing the effective implementation of any recall operation ordered by the competent authorities or undertaken in cooperation with the manufacturer of the medicinal product in question or the holder of the marketing authorisation."
+
+(43) Article 66 is amended as follows:
+
+(a) Paragraph 2 is amended as follows:
+
+(i) the introductory wording is replaced by the following:
+
+"Any person permitted under paragraph 1 to sell veterinary medicinal products shall be required to keep detailed records for veterinary medicinal products that may be supplied only on prescription, the following information being recorded in respect of each incoming or outgoing transaction:"
+
+(ii) the third subparagraph is replaced by the following:
+
+"These records shall be available for inspection by the competent authorities for a period of five years."
+
+(aa)   The following is hereby inserted into Article 66(2a):
+
+ 	
+"2a. The Member States shall take all the requisite measures to ensure that, where medicinal products are supplied solely on prescription, the quantity prescribed and supplied shall be restricted to the minimum amount required for the treatment or therapy concerned."
+
+(b) Paragraphs 3 and 4 are deleted.
+
+(44) Article 67 is amended as follows:
+
+(a) The first paragraph is amended as follows:
+
+(i) the introductory wording is replaced by the following:
+
+"Without prejudice to stricter Community or national rules relating to dispensing veterinary medicinal products and serving to protect human and animal health, a veterinary prescription shall be required for dispensing to the public the following veterinary medicinal products:".
+
+(ii) the following new point (a)* is inserted:
+
+(a)   * veterinary medicinal products for food-producing animals, except in Member States which permit on their territory the dispensing of those products by, or under the supervision of, a person registered for the purpose in accordance with national legislation. The Member States shall notify this arrangement to the Agency.
+
+(iii) the third indent of point (b) is deleted.
+
+(iv) point (d) is replaced by the following:
+
+"(d) magistral or officinal formulae intended for animals."
+
+(b) The second paragraph is replaced by the following:
+
+In addition, a prescription shall be required for new veterinary medicinal products containing an active substance which has been authorised for use in a veterinary medicinal product for less than four years unless, having regard to the information and particulars provided by the applicant, or experience acquired in the practical use of the veterinary medicinal product, the competent authorities are satisfied that none of the criteria referred to in (a) to (d) of the first paragraph apply.
+
+(45) The first paragraph of Article 69 is replaced by the following.
+
+"Member States shall ensure that the owners or keepers of food-producing animals can provide proof of purchase, possession and administration of veterinary medicinal products to such animals for a period of five years after slaughter."
+
+(46) The introductory wording of Article 70 is replaced by the following:
+
+"By way of derogation from Article 9 and without prejudice to Article 67, Member States shall ensure that veterinarians providing services in another Member State can take with them and administer to animals small quantities of veterinary medicinal products not exceeding daily requirements other than immunological veterinary medicinal products which are not authorised for use in the Member State in which the services are provided (hereinafter: "host Member State"), providing that the following conditions are satisfied:"
+
+(47) The following subparagraph is added to Article 71(1):
+
+"The Member State may also invoke the provisions of the first subparagraph in order to withhold marketing authorisation according to a decentralised procedure as provided for in Articles 31 to 43."
+
+(48) In Article 72, paragraph 2 is replaced by the following:
+
+"2. The Member States may impose specific requirements on veterinary practitioners and other health care professionals in respect of the reporting of suspected serious or unexpected adverse reactions and human adverse reactions."
+
+(49) Article 73 is amended as follows:
+
+(a) The first paragraph is replaced by the following:
+
+"In order to ensure the adoption of appropriate and harmonised regulatory decisions concerning the veterinary medicinal products authorised within the Community, having regard to information obtained about suspected adverse reactions to veterinary medicinal products under normal conditions of use, the Member States shall administer a veterinary pharmacovigilance system. This system shall be used to collect information useful in the surveillance of veterinary medicinal products, with particular reference to adverse reactions in animals and in human beings related to the use of veterinary medicinal products, and to evaluate such information scientifically."
+
+49a.   The following Article 73a is hereby inserted:
+
+ 	
+"Article 73a
+
+In order to guarantee total independence for the competent authorities, activities connected with pharmacovigilance, the operation of communication networks and market surveillance shall be publicly funded in an amount commensurate with the tasks entrusted to those authorities."
+
+(b) After the second paragraph, the following paragraph is inserted:
+
+"Member States shall ensure that the information collected within this system is forwarded to the other Member States and the Agency in an appropriate fashion. This information shall be recorded in the database referred to in point (j) of the second paragraph of Article 51 of Regulation (EEC) No 2309/93 and shall be permanently accessible to all Member States."
+
+(50) The introductory wording of the second paragraph of Article 74 is replaced by the following:
+
+"That qualified person shall reside in the Community and shall be responsible for the following:"
+
+(51) Paragraphs 2 to 6 of Article 75 are replaced by the following:
+
+"2. The marketing authorisation holder shall be required to record all suspected serious adverse reactions and human adverse reactions related to the use of veterinary medicinal products which are brought to his/her attention, and to report them immediately to the competent authority of the Member State on whose territory the incident occurred, and in no case later than 15 calendar days following the receipt of the information.
+
+The marketing authorisation holder shall also be required to record all suspected serious adverse reactions and human adverse reactions related to the use of veterinary medicinal products of which he/she can reasonably be expected to have knowledge, and to report them immediately to the competent authorities of all Member States in which the veterinary medicinal product is authorised, and in no case later than 15 calendar days following the receipt of the information.
+
+Save in exceptional circumstances, any such adverse reactions shall be communicated electronically in the form of a report in accordance with the guidelines referred to in Article 77(1).
+
+3. The marketing authorisation holder shall ensure that any suspected serious and unexpected adverse reactions and human adverse reactions occurring on the territory of a third country are reported immediately in accordance with the guidelines referred to in Article 77(1), so that they are available to the Agency and the competent authorities in the Member State(s) where the veterinary medicinal product is authorised, and in no case later than 15 calendar days following the receipt of the information.
+
+4. By way of derogation from paragraphs 2 and 3, in the case of veterinary medicinal products covered by Directive 87/22/EEC, or having benefited from the authorisation procedures under Articles 31 and 32 or having been the subject of the procedures provided for under Articles 36, 37 and 38 of this Directive, the marketing authorisation holder shall additionally ensure that all suspected serious adverse reactions and human adverse reactions occurring in the Community are reported in such a way so as to be accessible to the reference Member State or a competent authority designated as reference Member State. The reference Member State shall assume responsibility for the analysis and follow up any such adverse reactions.
+
+5. Unless other requirements have been laid down as a condition for the grant of authorisation, records of all adverse reactions shall be submitted to the competent authorities in the form of a periodic safety update report, either immediately upon request or periodically as follows: six monthly for the first two years after authorisation, annually for the subsequent two years, and thereafter at three-yearly intervals. The periodic safety update reports shall include a scientific evaluation of the benefits and risks afforded by the veterinary medicinal product.
+
+6. Following the granting of a marketing authorisation, the holder of such authorisation may request the amendment of the periods referred to in paragraph 5, using the procedure laid down by the Commission Regulation (EC) No 541/95*, if need be.
+
+* OJ L 55, 11.3.1995, p. 7. "
+
+(52) In Article 76, paragraph 1 is replaced by the following:
+
+"1. The Agency, in collaboration with the Member States and the Commission, shall set up a data-processing network to facilitate the exchange of pharmacovigilance information regarding veterinary medicinal products marketed in the Community."
+
+(53) In Article 77(1), the second subparagraph is replaced by the following:
+
+"In accordance with those guidelines, the marketing authorisation holder shall use internationally agreed veterinary medical terminology for the transmission of reports on adverse reactions.
+
+The guidelines shall be published by the Commission and shall take account of international harmonisation work achieved in the field of pharmacovigilance."
+
+(54) Article 78 is amended as follows:
+
+(a) Paragraph 2 is replaced by the following:
+
+"2. If urgent action is necessary for protecting human or animal health, the Member State concerned may suspend the marketing authorisation of a veterinary medicinal product, provided that the Agency, the Commission and the other Member States are informed on the following working day at the latest."
+
+(b) The following paragraph 3 is added:
+
+"3. When the Agency is informed in accordance with paragraphs 1 or 2, it shall give its opinion as soon as possible, according to the urgency of the matter.
+
+On the basis of this opinion, the Commission may request all Member States in which the veterinary medicinal is marketed to take temporary measures immediately.
+
+Final measures shall be adopted in accordance with the procedure referred to in Article 89(3), where the draft decision is in conformity with the Agency's opinion.
+
+Final measures shall be adopted in accordance with the procedure referred to in Article 89(4), where the draft decision is not in conformity with the Agency's opinion."
+
+(55) Article 80 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+"1. The competent authority of the Member State concerned shall ensure by means of repeated inspection that the legal requirements relating to veterinary medicinal products are complied with.
+
+The competent authority may carry out unannounced inspections at the premises of manufacturers of active substances used as starting materials for veterinary medicinal products, and of the premises of the marketing authorisation holder whenever it considers that there are serious grounds for suspecting non-compliance with the provisions of Article 51. Such inspections may also be carried out at the request of another Member State, the Commission or the Agency.
+
+In order to demonstrate that the data submitted with applications for a certificate of compliance comply with the monographs of the European Pharmacopoeia, the body responsible for standardising the nomenclatures and quality norms within the meaning of the Convention relating to the elaboration of a European Pharmacopoeia* (European Directorate for the Quality of Medicines) may ask the Commission or the Agency to request such an inspection when the starting material in question is the subject of a European Pharmacopoeia monograph.
+
+The competent authority of a Member State may carry out an inspection of a starting material manufacturer at the manufacturer's own request.
+
+Such inspections shall be carried out by authorized representatives of the competent authority who shall be empowered to:
+
+(a) inspect manufacturing or trading establishments and any laboratories entrusted by the holder of the manufacturing authorization, with the task of carrying out control tests pursuant to Article 24;
+
+(b) take samples;
+
+(c) examine any documents relating to the object of the inspection, subject to current provisions in the Member States from 9 October 1981 which place restrictions on these powers with regard to the description of the manufacturing method;
+
+(d) inspect the premises of marketing authorisation holders or any firms performing the activities described in Title VII, and in particular Articles 74 and 75 thereof, on behalf of a marketing authorisation holder.
+
+* OJ L 158, 25.6.1994, p. 19."
+
+(b) Paragraph 3 is replaced by the following:
+
+"3. The officials representing the competent authority shall report after each of the inspections mentioned in paragraph 1 on whether the principles and guidelines on good manufacturing practice referred to in Article 51 or, where appropriate, the requirements set out in Title VII, are being complied with. The inspected manufacturer or market authorisation holder shall be informed of the content of such reports."
+
+(c) The following paragraphs 4 to 7 are added:
+
+"4. Without prejudice to any arrangements which may have been concluded between the Community and a third country, a Member State, the Commission or the Agency may require a manufacturer established in a third country to undergo an inspection as referred to in paragraph 1.
+
+5. Within 90 days after an inspection as referred to in Paragraph 1, a certificate of good manufacturing practice shall be issued to the manufacturer if the inspection established that the manufacturer in question is complying with the principles and guidelines on good manufacturing practice as provided for by Community law.
+
+In the event of an inspection carried out at the request of the European Pharmacopoeia, a certificate of compliance with the monograph shall be issued, if appropriate.
+
+6. Member States shall maintain, for the certificates of good manufacturing practice issued by their competent authorities, a Community register of certificates of good manufacturing practice. This register shall be managed at Community level by the Agency.
+
+7. If an inspection as described in paragraph 1 results in the conclusion that the manufacturer does not comply with good manufacturing practice as provided for under Community law, the competent authority of the Member State shall also include this information in the Community register referred to in paragraph 6."
+
+(56) Article 82 is replaced by the following:
+
+"Article 82
+
+1. Where it is considered necessary for reasons of human or animal health, a Member State may require the holder of a marketing authorisation for a live vaccine, or for a veterinary immunological medicinal product for a disease that is subject to preventive Community measures, to submit samples of batches of the bulk product and/or veterinary medicinal product for control by a national laboratory or a laboratory approved by the Member State before the product is put into circulation.
+
+2. On request by the competent authorities, the marketing authorisation holder shall promptly supply the samples referred to in paragraph 1, together with the reports of the control referred to in Article 81(2).
+
+The competent authority shall inform all the other Member States in which the veterinary medical product is authorised as well as the European Directorate for the Quality of Medicines of its intention to control the batch in question.
+
+In such cases, the competent authorities of another Member State shall not apply the provisions of paragraph 1.
+
+3. After studying the control reports referred to in Article 81(2), the laboratory responsible for the control shall repeat all the tests carried out by the manufacturer on the finished product on the samples provided, in accordance with the relevant provisions shown in the dossier for marketing authorisation.
+
+The list of tests to be repeated by the laboratory responsible for the control shall be restricted to justified tests, providing that all the Member States concerned, and if appropriate the European Directorate for the Quality of Medicines, agree to this.
+
+For immunological veterinary medicinal products authorised under [Regulation (EEC) No 2309/93], the list of tests to be repeated by the control laboratory may be reduced only after agreement by the Agency.
+
+4. The results of the tests shall be recognised by all the Member States concerned.
+
+5. Unless the Commission is informed that a longer period is necessary to conduct the tests, the Member States shall ensure that this control is completed within 60 days of receipt of the samples.
+
+The competent authority shall notify the other Member States concerned, the European Directorate for the Quality of Medicines, the marketing authorisation holder and, if appropriate the manufacturer, the results of the tests within the same period of time.
+
+If a competent authority concludes that a batch of a veterinary medicinal product is not in conformity with the control report of the manufacturer or the specifications provided for in the marketing authorisation, it shall take all the necessary measures vis-à-vis the marketing authorisation holder and the manufacturer, where appropriate, and shall inform accordingly the other Member States in which the veterinary medicinal product is authorised."
+
+(57) Article 83 is amended as follows:
+
+(a) Paragraph 1 is amended as follows:
+
+(i) Point (a) is replaced by the following:
+
+"(a) the benefit/risk assessment of the veterinary medicinal product is, under the authorised conditions of use, unfavourable, particular regard being had to the benefits for animal health and welfare and to the safety and health benefits for the consumer, when the authorisation concerns a veterinary medicinal product for zootechnical use".
+
+(ii) The second subparagraph of point (e) is deleted.
+
+(iii) Point (f) is replaced by the following:
+
+"(f) the information given in the application documents pursuant to Articles 12 to 13d and 27 is incorrect;"
+
+(iv) Point (h) is deleted.
+
+(v) The following second subparagraph is added:
+
+"However, when a Community legislative framework is in the course of being adopted, the competent authority may refuse authorisation for a veterinary medicinal product where such action is necessary for the protection of public health, consumer and animal health."
+
+(aa)   The following paragraph 1a is hereby added:
+
+ 	
+"1a. The analysis of the benefit/risk ratio shall be deemed to be an initial step towards a study into the relative and/or real efficiency of a medicinal product."
+
+(b) In paragraph 2, point (a) is replaced by the following:
+
+"(a) the particulars supporting the application, as provided for in Articles 12 to 13d, have not been amended in accordance with Article 27(1) and (5);"
+
+(58) In Article 84, point (a) of paragraph 1 is replaced by the following:
+
+"(a) it is clear that the benefit/risk assessment of the veterinary medicinal product is, under the authorised conditions of use, unfavourable, particular regard being had to the benefits for animal health and welfare and to the safety and health benefits for the consumer, when the application concerns a veterinary medicinal product for zootechnical use."
+
+(58a)   The following Article 85(2a) is inserted:
+
+ 	
+"Article 85(2a)
+
+ 	
+Member States shall prohibit the advertising to the general public of veterinary medicinal products which:
+
+ 	
+(a)   are available on veterinary prescription only,
+
+ 	
+(b)   contain psychotropic or narcotic substances within the meaning of international conventions, e.g. the United Nations Conventions of 1961 and 1971."
+
+(59) In Article 89, paragraphs 2 and 3 are replaced by the following:
+
+"2. Where reference is made to this paragraph, the regulatory procedure laid down in Article 5 of Decision 1999/468/EC shall apply, in compliance with Article 7 and Article 8 thereof.
+
+The period provided for in Article 5(6) of Decision 1999/468/EC shall be three months.
+
+3. Where reference is made to this paragraph, the advisory procedure laid down in Article 3 of Decision 1999/468/EC shall apply, in compliance with Articles 7 and 8 thereof.
+
+4. Where reference is made to this paragraph, the management procedure laid down in Article 4 of Decision 1999/468/EC shall apply, in compliance with Articles 7 and 8 thereof.
+
+The period provided for in Article 4(3) of Decision 1999/468/EC shall be one month.
+
+5.   The Standing Committee shall adopt its own rules of procedure, which shall be made public.
+
+(60) Article 90 is replaced by the following:
+
+"Article 90
+
+Member States shall take all necessary measures to ensure that the competent authorities concerned communicate the appropriate information to each other, particularly regarding compliance with the requirements adopted for the authorisations referred to in Article 44, the certificates referred to in Article 80(5) or for authorisation to place products on the market.
+
+Upon reasoned request, Member States shall forthwith communicate the reports referred to in Article 80(3) to the competent authorities of another Member State.
+
+The conclusions reached following an inspection as referred to in Article 80(1) carried out by the inspectors of the Member State concerned shall be valid for the Community.
+
+However, by way of exception, if a Member State has not been able, for serious reasons of human or animal health, to accept the conclusions of an inspection as referred to in Article 80(1), that Member State shall forthwith inform the Commission and the Agency.
+
+When the Commission is informed of such serious reasons, it may, after consulting the Member States concerned, ask the inspector of the competent supervisory authority to carry out a new inspection; the inspector may be accompanied by two other inspectors from Member States that are not parties to the disagreement."
+
+(61) Article 95 is replaced by the following:
+
+"Article 95
+
+"The Member States shall not permit foodstuffs for human consumption to be taken from test animals unless an appropriate withdrawal period has been established by the competent authorities. The withdrawal period shall be at least as laid down in Article 11(2), including, where appropriate, a safety factor reflecting the nature of the substance being tested."
+
+Article 2
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by [date] at the latest and shall immediately inform the Commission thereof.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+Article 3
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.
+
+Article 4
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+FINANCIAL STATEMENT
+
+1. Title of operation
+
+Proposal for a Directive of the European Parliament and of the Council amending Directive 2001/82/EC on the Community code relating to veterinary medicinal products
+
+2. Budget heading(s) involved
+
+B5-3260A Industrial competitiveness policy for the EU (administration).
+
+3. LEGAL BASIS
+
+Article 95 EC
+
+4. DESCRIPTION OF OPERATION
+
+4.1 General objective
+
+To guarantee a high level of animal health protection, particularly through increased market surveillance and a strengthening of pharmacovigilance procedures.
+
+To increase the number of medicinal products available.
+
+To complete the internal market in pharmaceutical products and to establish a regulatory and legislative framework that favours the competitiveness of the pharmaceuticals sector in Europe.
+
+To adapt the present measures and propose future measures to meet the challenges of the future enlargement of the European Union.
+
+4.2 Period covered and arrangements for renewal
+
+Measures to be implemented in 2005, with no deadline.
+
+5. Classification of expenditure or revenue
+
+5.1 DNO
+
+5.2 CND
+
+5.3 Type of revenue involved
+
+None
+
+6. Type of expenditure or revenue
+
+Expenditure on scientific expertise and subsidies.
+
+7. Financial impact
+
+7.1 Method of calculating total cost of operation (relation between individual and total costs)
+
+The total cost of the operation is calculated on the basis of the present number of meetings/meetings of experts per year for the type of operations covered by the proposal.
+
+7.2 Itemised breakdown of cost
+
+Commitment appropriations in EUR million (at current prices)
+
+&gt;TABLE POSITION&gt;
+
+7.3 Operational expenditure for studies, experts etc. included in Part B of the budget
+
+Commitment appropriations in EUR million (at current prices)
+
+&gt;TABLE POSITION&gt;
+
+7.4 Schedule of commitment and payment appropriations
+
+Commitment appropriations in EUR million
+
+&gt;TABLE POSITION&gt;
+
+8. Fraud-prevention measures
+
+- Are any specific measures planned-
+
+No
+
+9. Elements of cost-effectiveness analysis
+
+9.1 Specific and quantified objectives; target population
+
+None
+
+9.2 Grounds for the operation
+
+- Need for Community financial aid, with particular regard for the principle of subsidiarity
+
+Amendment of existing legislation to take account of scientific and technical progress and of the future enlargement of the EU.
+
+- Choice of ways and means
+
+Amendment of existing legislation on the basis of Article 71 of Council Regulation (EEC) No 2309/93 following the evaluation of the implementation of the present legislation, which is the subject of a report from the Commission to the Council and the European Parliament.
+
+-  Main factors of uncertainty which could affect the specific results of the operation
+
+The main factor of uncertainty is the arrangements for the enlargement of the EU in terms of both the countries concerned and the timetable for their accession. Another factor of uncertainty involves the way in which industry will use the procedures introduced, since the number of products concerned per year and the rapport cost/difficulty ratio of the associated scientific evaluations are not yet known.
+
+9.3 Monitoring and evaluation of the operation
+
+- Performance indicators
+
+Number of products authorised under the procedures, progress on technical harmonisation, timetable for extending the procedures to the candidate countries, database and IT networks.
+
+- Details and frequency of planned evaluations
+
+A Commission report at least every ten years following the first report, which was drawn up after six years and is the basis of the present proposal.
+
+- Assessment of the results obtained (where the operation is to be continued or renewed)
+
+The results obtained since 1 January 1995 (when the present system came into force) are the subject of a report from the Commission to the Council and the European Parliament (currently being adopted by written procedure)
+
+10. Administrative expenditure (Section III, Part A of the budget)
+
+Actual mobilisation of the necessary administrative resources will depend on the Commission's annual decision on the allocation of resources, taking into account the number of staff and additional amounts authorised by the budgetary authority.
+
+10.1 Effect on the number of posts
+
+&gt;TABLE POSITION&gt;
+
+If additional resources are required, indicate the pace at which they will have to be made available.
+
+10.2 Overall financial impact of additional human resources
+
+(EUR)
+
+&gt;TABLE POSITION&gt;
+
+The amounts given must express the total cost of additional posts for the entire duration of the operation, if this duration is predetermined, or for 12 months if it is indefinite.
+
+10.3 Increase in other administrative expenditure as a result of the operation, particularly the cost of meetings of committees and groups of experts
+
+(EUR)
+
+&gt;TABLE POSITION&gt;
+
+The amounts given must express the total cost of additional posts for the entire duration of the operation, if this duration is predetermined, or for 12 months if it is indefinite.
+
+IMPACT ASSESSMENT FORM [14]  IMPACT OF THE PROPOSAL ON BUSINESSES, PARTICULARLY ON SMALL AND MEDIUM-SIZED ENTERPRISES (SMEs)
+
+[14]  Given that the two Community-level authorisation procedures (centralised/decentralised) are inseparably linked and that much of the legislation on medicinal products for human use is parallel to the legislation on veterinary medicinal products, it was thought appropriate to draw up an overall impact assessment summarising the implications of the adoption of the three proposals. The same impact assessment have therefore been included as an annex to each of the three texts.
+
+Title of the proposal
+
+Proposal for a Directive of the European Parliament and of the Council amending Directive 2001/82/EC on the Community code relating to veterinary medicinal products
+
+Document reference number:
+
+The proposal
+
+1. Given the principle of subsidiarity, why is there a need for Community legislation in this field and what are the main aims-
+
+The proposed legislation introduces new provisions and amends, in a number of respects, the existing legislation relating to the functioning of the centralised and decentralised procedures for approving and suspending marketing of medicinal products for human and veterinary use.
+
+Pursuant to Article 71 of Regulation (EEC) No 2309/93, the Commission is obliged to report within six years of the entry into force of the Regulation on the experience acquired as a result of the operation of the centralised and decentralised procedures. An audit report prepared on behalf of the Commission [15] has identified the aspects of the authorisation procedures that were operating satisfactorily and those where it was considered that improvement could be achieved.
+
+[15]  Evaluation of the operation of Community procedures for the authorisation of medicinal products, CMS Cameron McKenna and Anderson Consulting, October 2000.
+
+From a business viewpoint, the proposed measures are intended to:
+
+- increase the level of harmonisation across Member States of the rules governing medicinal products;
+
+- increase the efficiency of operation of the centralised and decentralised procedures;
+
+- thereby improve access and speed of access to the whole of the European market for both innovative and generic medicinal products, and
+
+- allow industry to respond more quickly to the needs of the market.
+
+The "new systems" for licensing which were introduced in 1995 have contributed to the creation of a single market in pharmaceuticals but, notwithstanding the progress that has been made, there is evidence that the procedures contain shortcomings. The findings of the audit report on the operation of the authorisation procedures show that there is a need to refine, and in some areas make more substantial changes to, the existing regimes. In particular, there is recognition that the centralised procedure is capable of working well and that broadening the scope of the procedure to other products would be beneficial, both in terms of patient access and economies of scale for the companies.
+
+The decentralised procedure was acknowledged as having significant advantages in terms of optionality but any such advantage is tempered to an extent by the failure of the system to operate on the basis of effective mutual recognition involving a significant number of Member States.
+
+The pharmaceutical industry is populated by different types of company and a significant proportion of the industry comprises non-R&D-intensive companies, notably those which focus on their own national markets and those which rely upon the manufacture of generic versions of existing products. The existing regimes do not, at present, fully meet all the needs of these sectors of the industry.
+
+Instituting authorisation procedures that properly protect public health while promoting an innovative profitable pharmaceutical industry is critical for Europe. The pharmaceutical industry is a strategic sector for Europe but there is evidence that over the last decade the industry in Europe is losing competitiveness compared to the USA and that its growth is more erratic than in the US or Japan [16]. The reasons underlying this trend are complex but the ability of companies to compete effectively is influenced, at least in part, by the nature of the regulatory environment.
+
+[16]  See "Global Competitiveness in Pharmaceuticals", Report prepared for the Enterprise DG of the European Commission by Gambardella A, Orsenigol and Pammolli F, November 2000.
+
+The forthcoming enlargement of the European Union over the next decade will see the accession of further Member States. In principle, enlargement has the potential to contribute to the overall competitiveness of the European industry, but an important step in realising increased competitiveness is eradication of the shortcomings identified in the existing procedures prior to enlargement.
+
+It is considered appropriate to maintain a balance between the centralised and decentralised authorisation procedures. Both systems have hitherto contributed - though not to the same extent - to the development of a single market in pharmaceuticals and provided a high degree of safety for patients and animals. However, the emergence of new technologies is delivering sophisticated medicinal products which are best suited to centralised approval.
+
+The impact on business
+
+2. Who will be affected by the proposal-
+
+- What sectors-
+
+The measures primarily concern pharmaceutical manufacturers and to a lesser extent wholesalers and distributors of medicinal products.
+
+The pharmaceutical industry in the EU consists of companies with a range of different businesses conducted often with a different geographical focus. The total number of pharmaceutical businesses in the EU is estimated at approximately 3 000 [17]. Large multinational companies dominate the market accounting for approximately 60-65% of the market for pharmaceutical sales. Medium-sized companies (by international standards) make up approximately 30-35% of the market, with small local companies accounting for the balance. In terms of business types, the biotechnology element of the European pharmaceutical industry is still young, but the number of companies is growing with just in excess of 1 000 company units. Generic medicines currently account for around 10% of total pharmaceutical sales in the non-hospital market with penetration highest in Germany, Denmark, UK and the Netherlands [18]. Finally, the veterinary sector accounts for approximately 5% of the value of the human pharmaceutical market [19]. This sector of the market is far more diverse than that relating to medicines for human use, reflecting differences in livestock distribution, methods of production and climate across the EU.
+
+[17]  The pharmaceutical industry in figures, European Federation of Pharmaceutical Industries Associations, 2000 Edition.
+
+[18]  Generic Medicines: How to ensure their effective contribution to healthcare, Euro Health Vol. 2 No 3, September 1996.
+
+[19]  Fountain R. and Thurman D. Animal Health Market to Face Opportunities and Challenges in 98, Feed Stuffs Vol. 69 No 48, November 1997.
+
+The legislative proposals cover a number of aspects of the regulation of medicinal products and consequently the proposals will impact to some extent upon all pharmaceuticals manufacturers. A number of the proposals will therefore affect all pharmaceutical companies irrespective of the nature of the pharmaceutical business. For example, the provisions relating to the validity of marketing authorisations, compassionate use of medicines, the application of good manufacturing practice to starting materials and pharmacovigilance. A number of the measures are sector-specific or specific to one or other of the authorisation procedures and accordingly the effect of such measures will be more selective. The centralised procedure tends to be used predominantly by large multinational companies and smaller innovation-specialist companies. Accordingly, the proposed changes to the centralised system such as the introduction of conditional authorisations and a fast-track procedure will be relevant for these types of company.
+
+- What sizes of business (proportion of SMEs)-
+
+The decentralised (mutual recognition) procedure, although used by the large multinational companies, is also used by a significant proportion of small and medium-sized enterprises ("SMEs"). Accordingly, these companies will be impacted by the proposed amendments to the operation of the decentralised system. The principal sector-specific measures are directed towards manufacturers of products for veterinary use, manufacturers of generic medicines and manufacturers of homeopathic medicines.
+
+- Are there particular geographical areas of the Community where these businesses are found-
+
+No, there are no differences due to the geographic region where the firms concerned are established.
+
+3. What will business have to do to comply with the proposal-
+
+The majority of the proposal measures concern procedural changes and fine-tuning of existing procedures. Accordingly, a number of the measures do not impose direct obligations upon business. The majority of the obligations which are imposed impact at the time of application for a marketing authorisation.
+
+Companies seeking to place a product containing a new chemical entity (NCE) on the market will be required to use the centralised authorisation procedure. This will remove, therefore, in respect of some medicinal products, the element of choice which companies currently enjoy when obtaining an authorisation from Member States. It should however, be noted that many products containing an NCE [20] are already obliged to use the centralised route because they have been developed using biotechnological processes. Moreover, in circumstances where a company has a choice of procedure for a product containing an NCE, most of the companies already opt for the centralised route. It is intended that generic copies of centrally-authorised products may be authorised through either the centralised or the decentralised route. All other medicinal products may do likewise provided they show significant innovation over existing therapies. The broadening in scope of the centralised procedure will bring administrative savings for companies able to benefit from the single-application procedure. Some companies, particularly those in the veterinary sector with NCE-containing products which are relevant to only a limited geographical area of the European market, may be subject to an increase in the overall cost of preparing a centralised application for a marketing authorisation. This is why a derogation has been introduced.
+
+[20]  Taken here in a broader sense as meaning any new active substance.
+
+Applicants pursuing an authorisation under the decentralised procedure will be compelled to enter arbitration proceedings if an issue cannot be resolved by the Member States concerned in the case of veterinary medicinal products. Companies may incur some costs in handling arbitration proceedings which they would otherwise avoid by withdrawal of the application. However, any such costs should be outweighed by the fact that companies may be permitted to market a medicinal product which is the subject of arbitration proceedings in the Member States that have agreed to authorise the product, thus permitting companies to begin to recoup investment costs earlier than at present.
+
+The harmonisation to ten years (plus, for medicines for human use, one year for new therapeutic indications) of the period of data protection afforded to innovator companies will prevent an applicant for a generic (copy) product from making abridged applications in Austria [21], Denmark, Greece, Finland, Ireland, Luxembourg, Portugal, and Spain on the expiry of six years from the date of first authorisation of the innovator product in the EU. An abridged application is one where the applicant does not present the results of his/her own safety and efficacy testing but relies upon the data underlying the authorisation of the innovator product. However, this restriction is balanced by the fact that companies intending to seek an authorisation for a generic product will be permitted, under a "Bolar-type" provision, to conduct the testing required prior to the expiry of the originator product's period of patent protection.
+
+[21]  Currently in this Member State the period of data protection will not be applied beyond the date of expiry of the patent. This link will cease to exist under the proposed amendments.
+
+There is recognition that in some respects the veterinary sector of the pharmaceutical industry has different requirements and faces different issues and the proposal, therefore, seeks to address matters which are a concern in this area of the business. The incremental periods of protection available for data used to extend a marketing authorisation to additional food-producing species, the 13-year period of protection for honey bees and fish, and the introduction of a limited period of data protection for certain MRL data will encourage innovation by providing greater protection for the results of research by delaying somewhat the date at which applicants seeking an authorisation for a generic (copy) product may obtain approval without themselves investing in the research required to obtain and maintain a marketing authorisation. However, consistent with the position for medicines for human use, generic manufacturers will be able to take advantage of a "Bolar-type" provision.
+
+The removal of the requirement for companies to renew marketing authorisations every five years will reduce the cost burden for companies. This amendment is balanced by increased pharmacovigilance reporting requirements; overall, a cost saving is expected for companies, since companies already have established pharmacovigilance systems in place
+
+4. What economic effects is the proposal likely to have:
+
+- on employment-
+
+- on investment and the creation of new businesses-
+
+- on the competitiveness of business-
+
+The proposed package is expected to benefit the pharmaceutical industry in Europe and provide earlier access for patients in the Community to important new medicines.
+
+The examination in the report by Pammolli et al [22] of the competitive position of the European pharmaceutical business compared with the USA reveals that, in general, the profile of the pharmaceutical industry in Europe is different from that in the USA. The European industry is less specialised in Research and Development activities and has a much larger presence of companies specialising in low-value-added activities. The US has developed an industry which is effective not only in the "exploration" of new technologies but also in their "exploitation". This vertical specialisation enhances innovation - a key driver of competitiveness - by exploiting the advantages of both the small biotechnology firms and the larger multinational firms.
+
+[22]  See note 3.
+
+Strengthening the scientific advice procedure within the centralised system will enable companies' research to be better focused and will reduce the investment risk for small biotechnology companies and thereby provide encouragement for this sector of the industry. In addition, extension of the period of data protection to ten years in all Member States, with an additional year for subsequent clinically-important indications, will encourage innovation by providing a greater opportunity for research-based companies to recoup the costs of their research investment. The Pammolli et al Report [23] showed that there was too little competition in some Member States, which in turn led to inefficiencies within the industry. Accordingly, the measures to encourage innovation are balanced by those intended to stimulate generic competition - for example, the introduction of a "Bolar-type" provision and the availability of the centralised procedure for generic copies of centrally-authorised products.
+
+[23]  See note 3.
+
+A strengthening of innovation and competition within the industry will ultimately promote growth and enhance employment opportunities within the sector. Following the expiry of patent and data protection periods, the proposals aimed at stimulating the prompt approval of generic copies, will provide competition that will exert downward pressure on pricing, thereby helping to facilitate the supply of affordable medicinal products to Member States' healthcare systems.
+
+The proposal is expected to benefit patients by supplying medicinal products more quickly to the market and, in particular, making available important new treatments at an earlier stage. This will be achieved by a combination of the reduction by half of the length of time available for the consultation of Member States on Commission decisions, the introduction of conditional authorisations and a fast-track procedure, together with a more formalised approach to the availability of medicinal products on a compassionate-use basis. Earlier access to medicines is likely to bring economic benefits by reducing morbidity and mortality and thereby have some influence on national healthcare budgets.
+
+The veterinary sector of the pharmaceutical industry has encountered problems in the availability of medicines for minor species and, following the introduction of the MRL requirement for food-producing animals, for certain therapeutic areas. The increased periods of protection for data used to extend an authorisation for use in additional food-producing species and the increased period for minor species will encourage businesses to exploit their products for use in a broader range of species. This will benefit agricultural producers active in these areas and reduce the hitherto unacceptable level of off-label use.
+
+5. Does the proposal contain measures to take into account the specific situation of small and medium-sized firms (reduced or different requirements, etc.)-
+
+The proposal does not contain specific measures for SMEs, but a number of the measures will be particularly beneficial for SMEs. For example, those measures designed to promote innovation, those improving the scientific advice procedure (biotechnology SMEs) and those requiring the introduction of a simplified registration procedure for homeopathic products.
+
+Consultation
+
+6. List of organisations that have been consulted on the proposal, and outline of their main views.
+
+There has been extensive consultation with interested parties on the operation of the rules governing medicinal products in the European Union and on the amendments which would improve the system. As part of the survey undertaken for the Commission on the operation of the Community procedures, the consultants concerned sought written and oral comments from a broad range of respondents, as follows:
+
+- all holders of a centralised marketing authorisation at the time of the review;
+
+- 159 marketing-authorisation holders (including large multinationals, SMEs, manufacturers of generics and non-prescription and veterinary medicines from different Member States) who had used the decentralised procedure;
+
+- European trade associations representing the interests of human and veterinary medicines including those concerned with NCEs, generics, non-prescription medicines, and homeopathic and herbal medicinal products;
+
+- 15 national consumer organisations and 134 patient associations;
+
+- professional associations responsible for the regulation of doctors, dentists, pharmacists and veterinary practitioners;
+
+- competent authorities responsible for authorising medicinal products;
+
+- chairmen of the Committee for Proprietary Medicinal Products, the Committee for Veterinary Medicinal Products, the Mutual Recognition Facilitation Group and the Veterinary Mutual Recognition Facilitation Group; and
+
+- the ministries responsible for health, social affairs, finance and agriculture.
+
+Many companies were in favour, in principle, of opening up the centralised procedure to other products. There was broad acceptance from businesses of the need to reduce the procedural delays in the Commission decision-making procedure and also for the concept of a formal fast-track procedure.
+
+In relation to the decentralised procedure, although companies were generally satisfied with the performance of the Member States there was dissatisfaction with the limited adherence to the principle of mutual recognition. Many respondents supported the introduction of a dialogue between the Member States prior to the granting of an authorisation in order to encourage greater acceptance of the principles of mutual recognition. Most companies were not in favour of compulsory arbitration in circumstances where Member States were unable to reach agreement, but there was strong support for permitting the marketing of a product pending arbitration in the Member States concerned that felt able to authorise the product.
+
+There was strong support from business for the abolition of the renewal procedure for marketing authorisations.
+
+Finally, there was very strong support for harmonising the periods of data protection, but less consensus on what the harmonised level of protection should be or how it should be applied to products derived from incremental research.

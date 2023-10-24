@@ -1,0 +1,2449 @@
+@import url(./../../../../css/com/com-c.css)
+
+EUROPEAN COMMISSION
+
+Strasbourg, 13.12.2016
+
+COM(2016) 815 final
+
+2016/0397(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EC) No 883/2004 on the coordination of social security systems and regulation (EC) No 987/2009 laying down the procedure for implementing Regulation (EC) No 883/2004
+
+(Text with relevance for the EEA and Switzerland)
+
+{SWD(2016) 460 final}
+
+{SWD(2016) 461 final}
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+•
+
+Reasons for and objectives of the proposal
+
+The right of EU citizens and their families to move freely and reside in any EU country is one of the four fundamental freedoms enshrined in the EU Treaties.
+
+Free movement of persons would not be possible unless the social security rights of mobile Europeans and their family members were protected.
+
+This initiative is part of the 2016 European Commission's
+
+Labour Mobility Package
+
+. The objective of this initiative is to continue the process of modernisation of the EU law on social security coordination set out in
+
+Regulations (EC) Nos 883/2004
+
+and 987/2009
+
+(the "Regulations"),
+
+by further facilitating the exercise of citizens' rights while ensuring legal clarity, a fair and equitable distribution of the financial burden among the Member States and administrative simplicity and enforceability of the rules.
+
+Achieving a modernised system of social security coordination that responds to the social and economic reality in the Member States is one of the central drivers for this initiative.
+
+The proposal focuses on four areas of coordination where improvements are required: economically inactive citizens' access to social benefits, long-term care benefits, unemployment benefits and family benefits. Each Member State is free to determine the features of its own social security system, including which benefits are provided, the conditions for eligibility, how these benefits are calculated and what contributions should be paid, and for all social security branches, such as old age, unemployment and family benefits provided that such national provisions respect the principles of EU law in particular concerning equal treatment and non-discrimination. In this context, Member States are free to monitor developments regarding the payment of those benefits, including to citizens residing in other Member States. The Administrative Commission for the Coordination of Social Security Systems plays a particular role to exchange such information.
+
+First, the revision seeks to clarify the circumstances in which Member States can limit
+
+access to social benefits claimed by economically inactive EU mobile citizens
+
+. Further to recent case-law of the Court of Justice of the European Union (hereafter the "Court of Justice"), this is necessary for reasons of clarity, transparency and legal certainty.
+
+The population of economically inactive mobile citizens
+
+is estimated to be
+
+3.7 million.
+
+Nearly 80% of them derive rights (residence rights and/or rights to benefits) from economically active family members with whom they reside, and continue to be entitled to equal treatment with the family members of national workers.
+
+An inactive EU mobile citizen previously lawfully resident but who no longer fulfils the conditions of Directive 2004/38/EC should be able to rely on the principle of equal treatment with regard to contributory social security benefits, as long as the host Member States has not formally put an end to his right of residence.
+
+Secondly, the revision aims to establish a coherent regime for the coordination of
+
+long-term care benefits (currently dealt with under the sickness chapter)
+
+by introducing a separate Chapter for their coordination in Regulation (EC) No 883/2004, by including a definition and providing for a list of those benefits. In total around 80.000 mobile citizens are estimated to be entitled to long-term care benefits, totalling € 793 million (0.4% of the total EU expenditure on long-term care benefits).
+
+Next, the revision proposes new arrangements for the coordination of
+
+unemployment benefits
+
+in cross-border cases. These concern the aggregation of periods of insurance for creating or retaining a right to unemployment benefits, the export of unemployment benefits and the determination of which Member State is responsible for paying unemployment benefits to frontier workers and other cross-border workers.
+
+There are some 25.000 cases of aggregation (reported from 23 Member States)
+
+and some 27.300 persons within the EU who export their unemployment benefit to another Member State
+
+and an estimated number of 91.700 unemployed cross-border workers per year, 53.500 of which are frontier workers.
+
+Fourth, the proposal contains new provisions for
+
+the coordination of family benefits intended to replace income during child-raising periods
+
+.
+
+22 Member States have such a benefit.
+
+Furthermore, the
+
+proposal
+
+clarifies the conflict rules on applicable legislation and the relationship between
+
+the Regulations and Directive 96/71/EC of the European Parliament and of the Council of 16 December
+
+1996 concerning the posting of workers
+
+in the framework of the provision of services
+
+(hereafter "Directive 96/71/EC").
+
+It strengthens
+
+the administrative rules on social security coordination in the fields of information exchange and verification of the social security status of such workers in order to prevent potentially unfair practices or abuse.  The
+
+proposal also grants new implementing powers to the Commission
+
+in accordance with Article 291 Treaty on the Functioning of the European Union ("TFEU") to further specify a uniform approach to the issuance, verification and withdrawal of the
+
+Portable Document A1 (a certificate concerning the social security legislation which applies to the holder).
+
+In addition, the proposal includes a number of
+
+technical amendments
+
+. They concern the prioritisation of derived rights to sickness benefits, the reimbursement of costs for medical examination, the calculation of the annual average costs in the field of sickness benefits and
+
+the introduction of measures to facilitate identification of fraud or error in the application of the Regulations, including the introduction of a permissive ground for Member States to periodically exchange personal data
+
+. In addition, the procedures for recovery of unduly paid social security benefits have been revised to align them with the equivalent procedures in Directive 2010/24/EU concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures in particular to provide for a uniform instrument to be used for enforcement measures as well as standard procedures for requesting mutual assistance and notification of instruments and decisions relating to a claim.
+
+The proposal also includes a number of
+
+periodic technical updates
+
+to reflect developments in national legislation that affect  the application of the  EU rules.
+
+Finally, the proposal grants new powers to the Commission to adopt delegated acts in accordance with Article 290 TFEU to facilitate and expedite the legislative procedure for amending the country-specific Annexes to Regulation (EC) No 883/2004.
+
+•
+
+Consistency with existing policy provisions in the policy area
+
+This initiative complements other initiatives identified in the Political Guidelines
+
+:
+
+A New Start for Europe
+
+in relation to Priority 4: a Deeper and Fairer Internal Market with a strengthened industrial base, and in particular the planned Internal Market Strategy.
+
+Labour mobility is a means of facilitating more efficient allocation of resources between
+
+and
+
+within sectors as well as reducing unemployment and skills mismatches.
+
+It also complements Priority 1 of the Political Guidelines
+
+by creating a more conducive regulatory environment to support a climate of entrepreneurship and job creation, and ensures the Regulations are in line with the Commission's commitment to Better Regulation.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+•
+
+Legal basis
+
+This proposal is based on Article 48 TFEU.
+
+•
+
+Subsidiarity
+
+The subsidiarity principle applies as the proposal does not fall under the exclusive competence of the EU.
+
+The objectives of the proposal cannot be sufficiently achieved by the Member States at national, regional or local level, and can be better achieved at Union level for the following reasons:
+
+Social security coordination concerns cross-border situations where no Member State can act alone. Coordination measures at EU level are required by Article 48 TFEU and necessary for the exercise of the right to free movement. Without such coordination, free movement may be hindered: people would be less likely to move if it meant losing social security rights acquired in another Member State.
+
+The EU coordinating legislation replaces the numerous pre-existing bilateral agreements. The creation of an EU framework in this field ensures a uniform interpretation
+
+and protection of rights of mobile EU citizens and their family members that could not be achieved
+
+by the Member States alone at national level.
+
+This not only simplifies social security coordination for Member States, but also ensures equal treatment of EU citizens who are insured in accordance with national social security legislation.
+
+The proposal updates the existing coordinating rules to implement changes that have become necessary due to changing social reality and to reflect the legal changes that have been implemented at national level.
+
+The proposal therefore complies with the subsidiarity principle.
+
+•
+
+Proportionality
+
+The proposed amending Regulation does not go beyond what is necessary for effective social security coordination: it will not expand the material or personal scope of the existing Regulations and its effects are focused on the four areas outlined above. Member States remain responsible for organising and financing their own social security schemes.
+
+The proposal makes it easier for the Member States to coordinate social security schemes and aims at protecting the individuals moving within the EU, while the provisions meet changing needs of the Member States.
+
+The proposal therefore complies with the proportionality principle.
+
+•
+
+Choice of the instrument
+
+The proposed instrument is a regulation. Other means would not achieve the required legal certainty and clarity i.e. a Communication or other non-legally-binding instruments.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+•
+
+Ex-post evaluations/fitness checks of existing legislation
+
+The Commission has assessed the extent to which the current legal framework still ensures effective coordination. This analysis has complemented the formal review obligations of the Regulations which require the Administrative Commission for Social Security Coordination
+
+("Administrative Commission")
+
+and the European Commission to review and assess the implementation and effectiveness of particular provisions of the Regulations.
+
+It also complements the commitment made by the Commission to assess the need for a review of the principles of coordination of unemployment benefits
+
+.
+
+•
+
+Stakeholder consultations
+
+Stakeholders were consulted on several occasions:
+
+1.
+
+Member States were consulted within the Administrative Commission.
+
+2.
+
+National administrations were consulted via a specialised online survey on the coordination of long-term care benefits, export of unemployment benefits and coordination of unemployment benefits for frontier workers
+
+.
+
+3.
+
+Social partners were consulted on the coordination of long-term care benefits, of unemployment benefits for frontier workers and export of unemployment benefits in the framework of the Advisory Committee for the Coordination of Social Security Systems, and on the coordination of family benefits, long-term care benefits and unemployment benefits during a dedicated hearing.
+
+4.
+
+NGOs were consulted on
+
+the coordination of family benefits, long-term care benefits and unemployment benefits through a dedicated consultation workshop.
+
+5.
+
+Two online consultations were launched in December 2012 on the coordination of long-term care benefits, export of unemployment benefits and coordination of unemployment benefits for frontier workers; and in July 2015 on the coordination of unemployment benefits and of family benefits.
+
+In relation to
+
+access by economically inactive mobile EU citizens to social benefits,
+
+Members States were divided. A number supported the status quo as a first or second choice; others favoured amending the equal treatment provisions of the Regulation as a first or second choice
+
+although there was no general consensus on the changes needed. A minority of Member States indicated interest in administrative guidance.
+
+In relation to the
+
+coordination of long-term care benefits
+
+, a majority of Member States supported the creation of a specific definition and/or specific chapter and/or list of benefits, whilst others were in favour of the status quo. The results of the 2012 public consultation highlighted a diversity of opinions regarding the Member State competent for providing long-term care benefits.
+
+In relation to
+
+unemployment benefits
+
+:
+
+For the
+
+aggregation of unemployment benefits,
+
+Member States had divergent views with a slight majority favouring the maintenance of the status quo and the others favouring aggregation only after one month or three months of work. Social partners appeared to support the status quo. In the 2015 public consultation, a third of the respondents believed that the current rules should be changed.
+
+In relation to the
+
+export of unemployment benefits
+
+, Member States had divergent views: some supported the current provisions, while others supported a right to export for at least 6 months. Employers' organisations supported the current provisions, while trade unions and NGOs supported the option for a right to export for at least 6 months. In the 2012 public consultation, the majority of respondents were in favour of extending the duration of the export of unemployment benefits.
+
+Finally, in relation to the
+
+coordination of unemployment benefits for frontier and other cross-border workers
+
+, Member States appeared divided between those favouring the status quo, and those in favour of providing unemployment benefits for all workers from the state of last activity. The 2012 public consultation also revealed a range of opinions among individuals and different stakeholders on this topic.
+
+In relation to the
+
+export of family benefits,
+
+a significant minority of Member States delegations favoured different coordination of benefits intended to replace income during child-raising periods. The majority of NGOs supported the status quo. In the 2015 public consultation a quarter of the respondents believed that current rules should be changed.
+
+The breadth of different views in the responses received gave the Commission a comprehensive overview of the operation of the current coordination of social security, including perceived problems, the possible solutions and levels of support for these solutions. The outcome of the public consultations is available on the Your Voice in Europe portal.
+
+Full details of stakeholders' views can be found in the Impact Assessment Report.
+
+•
+
+Collection and use of expertise
+
+In preparing this proposal, there has been extensive consultation with experts within the Commission as well as with external experts. Studies and reports from the trESS network of legal experts
+
+, the Network of legal experts on intra EU-mobility (FreSsco), the Network of statistical experts on intra EU-mobility, a supporting impact assessment study by Deloitte Consulting, additional analysis by the KU Leuven Research Institute for Work and Society (HIVA) and by a consortium of Fondazione Giacomo Brodolini, COWI and the Warwick Institute for Employment Research were taken into consideration. A detailed overview of the expert consultation can be found in the Impact Assessment Report.  In addition the proposal has been informed by the work of an Ad-hoc group composed of national experts from Member State national authorities formed within the framework of the Administrative Commission who developed a number of recommendations concerning the rules for determination of applicable legislation in particular concerning posted workers and persons working in two or more Member States.
+
+•
+
+Impact assessment
+
+In line with its policy on Better Regulation, the Commission carried out an impact assessment of potential policy options which evaluated their economic, social, regulatory and overall efficiency and coherence with wider EU objectives.
+
+This work was supported by structured
+
+consultation with the Commission services via an Inter-Service Steering Group.
+
+The coordination rules are directly addressed to Member States and their social security institutions. Small and medium-sized enterprises (SME's) are not directly affected by this proposal.
+
+No positive or negative environmental impact is foreseen.
+
+In respect of digital impacts, the proposal is fully 'internet ready'. Electronic data exchange between national authorities in the field of social security coordination will be implemented through the Electronic Exchange of Social Security Information (EESSI) Project (full implementation foreseen by mid-2019).
+
+In relation to
+
+access by economically inactive mobile EU citizens to social benefits,
+
+the preferred option is to amend the current equal treatment provisions of Regulation (EC) No 883/2004 to make reference to the limitations in Directive 2004/38/EC
+
+of the European Parliament and of the Council of 29 April 2004
+
+on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (hereafter Directive 2004/38/EC)
+
+and reflecting the case law of the Court of Justice.
+
+This is preferred to the alternative legislative options (to allow such derogation concerning special non-contributory cash benefits in Article 70 of Regulation (EC) No 883/2004; or removing special non-contributory cash benefits providing subsistence income from this Regulation and non-legislative options (clarifying the rules through a communication). The proposal codifies the state of EU law as interpreted by the Court of Justice and therefore will have minimal economic impact or impact on social rights compared to the baseline, however, it may reduce regulatory costs by providing greater clarity on the current state of EU law.
+
+The proposal establishes a coherent regime for
+
+long-term care benefits
+
+by introducing a separate Chapter on the coordination of these benefits aligned with existing provisions on sickness benefits and including a definition of long-term care benefits and provides for a list of national benefits. This was preferred to the alternative options where the Member State of residence would provide all long-term care benefits with reimbursement by the competent Member State (with or without further supplement by the competent State). The preferred option provides an express legal basis for the existing rules bringing transparency and stability to the regime. Citizens and institutions will benefit from the clarification and social protection will be increased. The preferred option will not involve significant economic impact or high implementation costs compared with the baseline.
+
+In relation to
+
+the coordination of unemployment benefits:
+
+The preferred option for the
+
+aggregation of unemployment benefits
+
+is to require a minimum qualifying period of three months insurance in the Member State of most recent activity before a right to aggregate past periods of insurance arises (while requiring the Member State of previous activity to provide benefits when this condition is not fulfilled). This is preferred to other options permitting
+
+aggregation after only one day or one month of insurance or permitting
+
+reference earnings received in Member State of previous activity for the calculation of unemployment benefits being taken into account after either one or three months of activity in the competent Member State. The preferred option is estimated to ensure a stronger link between the institutions which are competent for providing the unemployment benefits and to lead to possible savings of €41 million, although with a different distribution of costs between Member States. There would be no significant impact on regulatory costs.
+
+In relation to the
+
+export of unemployment benefits
+
+the preferred option is to extend the minimum period for an export of unemployment benefits from three to six months while providing for the possibility to export the benefit for the whole period of entitlement. This option will be combined with a reinforced cooperation mechanism to support jobseekers to search for work increasing the likelihood of labour market reintegration. This is preferred to the alternative option of granting a right to export of unemployment benefit for the whole period of entitlement. The preferred option will not involve significant economic impact or high implementation costs compared with the baseline as the competent Member State is only required to export benefits to which there is already an existing entitlement.
+
+In relation to
+
+the coordination of unemployment benefits for frontier and other cross-border workers
+
+, the preferred option is to make the Member State of most recent employment responsible for the payment of unemployment benefits when the frontier worker has worked there for at least 12 months and otherwise attributing the responsibility to the Member State of residence. As a consequence the current reimbursement procedure will be abolished. This option is preferred to the alternatives considered of either providing a choice for frontier workers as to where to claim unemployment benefits or making the Member State of most recent employment responsible for the payment of unemployment benefits in all cases. It is estimated that this option will increase economic cost from € 416 million to € 442 million but will also reduce regulatory costs from € 9.9 million to € 3.7 million.
+
+In relation to the
+
+coordination of child-raising allowances
+
+intended to compensate parents for loss of income during child-raising periods, the preferred option is to change the current coordination provisions so that child-raising allowances are considered individual and personal rights and to permit an optional right for the secondary competent Member State to pay the benefit in full. This will allow those Member States which are actively encouraging the sharing of parental-responsibilities to remove potential financial disincentives for parents who both take parental leave during the same period. This option was preferred to the alternatives considered of requiring a mandatory obligation for the secondary competent Member State to derogate from the overlapping rules either in relation to all child-raising allowances or salary-related child-raising allowances only. The maximum economic impact of the preferred option would be an increase in economic costs for a secondary competent Member State within a range of 58 to 84% although in practice is likely to be lower as not all Member States will choose to apply the derogation. The effect on social rights of the change to individual and personal rights is expected to be minimal due to low levels of compliance with the requirement to recognise derived rights to child-raising allowances.
+
+This proposal is accompanied by an impact assessment report (SWD (2016) 460 which has been reviewed by the Regulatory Scrutiny Board, which issued a positive opinion on 21 January 2016. All the recommendations from the Regulatory Scrutiny Board have been taken into consideration in the final impact assessment report.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The proposal has no implications for the EU budget. Potential impacts for national budgets have been outlined above.
+
+5.
+
+OTHER ELEMENTS
+
+•
+
+Implementation plans and monitoring, evaluation and reporting arrangements
+
+The Commission will submit to the European Parliament, the Council and the Economic and Social Committee, five years after the date of application of the amended Regulations, and every five years thereafter at the latest, an evaluation report on the application of the new instrument in line with Better Regulation Guidelines.
+
+•
+
+Detailed explanation of the specific provisions of the proposal
+
+This section provides a more detailed explanation of the specific provisions of the proposal for Regulation (EC) No 883/2004 (hereafter: "the basic Regulation") and Regulation (EC) No 987/2009 (hereafter "the implementing Regulation").
+
+Article 1
+
+Article 1 concerns the amendments to the basic Regulation.
+
+1.
+
+Recital 2 is amended to refer to the right of free movement for all EU citizens under EU law.
+
+2.
+
+Recital 5
+
+is amended to refer to the limitations concerning access to social benefits for economically inactive EU mobile citizens included in Directive 2004/38/EC.
+
+3.
+
+Recital 5a is inserted to clarify that the application of Directive 2004/38/EC to the Regulations has been elucidated by the jurisprudence of the Court of Justice
+
+in Cases C-140/12,
+
+Brey
+
+, EU:C:2013:565, C-333/13,
+
+Dano
+
+, EU:C:2014:2358
+
+and
+
+C-308/14
+
+Commission v United Kingdom,
+
+EU:C:2016:436.
+
+4.
+
+Recital 5b is inserted to clarify that in assessing the fulfilment of the requirement to hold comprehensive sickness insurance cover as set out in Directive 2004/38/EC Member States should ensure that it is possible for inactive EU mobile citizens to fulfil this requirement.
+
+5.
+
+Recital 5c is inserted to make clear that the limitations to the rights to equal treatment
+
+for
+
+economically inactive EU mobile citizens included in Directive 2004/38/EC do not override such persons'
+
+fundamental rights as recognised in the Charter of Fundamental Rights of the European Union.
+
+6.
+
+Recital 24 is amended to include a reference to the new Chapter for long-term care benefits.
+
+7.
+
+Recital 35a is inserted to explain that family benefits intended to replace income during child-raising periods are a special category of family benefit and are to be treated as an individual and personal right provided the benefit in question is listed in Part 1 of Annex XIII of the basic Regulation. This means a competent Member State is not obliged to grant derived rights in respect of such a benefit to members of the insured person's family. Member States with secondary competence may choose to disapply the anti-overlapping rules at Article 68(2) of the basic Regulation and award such benefits in full to an entitled person. Where a Member State chooses to derogate it should be listed in Part 2 of Annex XIII and the derogation must be applied consistently to all entitled persons concerned.
+
+8.
+
+Recital 39a refers to the relevant EU data protection instruments.
+
+9.
+
+Recital 46 is inserted to refer to the delegated power granted to the Commission to adopt delegated acts
+
+in accordance with Article 290 TFEU amending all the Annexes to the basic and implementing Regulations. These
+
+Annexes contain country-specific entries reflecting differences in Member States' national systems.
+
+10.
+
+Recital 47 is inserted to emphasise that the basic Regulation respects
+
+fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union and must be implemented in accordance with those rights and principles.
+
+11.
+
+Recital 48 is inserted to clarify that
+
+nothing within the basic Regulation shall limit the independent rights and obligations recognised in the European Convention of Human Rights.
+
+12.
+
+Article 1 is amended to take into account the proposed new Chapter 1a on long-term care benefits. This includes a definition of long-term care benefits at point (d) which specifies the constituent elements of such benefits. This definition takes into account analysis from the trESS network
+
+and reflects the case-law of the Court of Justice
+
+and is in line with the United Nations Convention on the Rights of Persons with Disabilities.
+
+13.
+
+Article 3(1) is amended to include long-term care benefits as a distinct branch of social security.
+
+14.
+
+Article 4 provides that
+
+in relation to access to social security benefits by economically inactive mobile EU citizens in the host Member State the principle of equal treatment may be subject to the requirement to hold legal residence as set out in Directive 2004/38/EC. For the purposes of this provision, with the exception of access to social assistance within the meaning of Directive 2004/38/EC, an economically inactive mobile EU citizen does not include a mobile jobseeker who in accordance with Article 45 TFEU
+
+enjoys a right of residence in the host Member State while looking for a job there.
+
+15.
+
+Article 11 is amended at paragraph (2)
+
+to reflect the new definition of
+
+long-term care benefits
+
+. Paragraph (5) is also updated
+
+to align the definition of the "home base" to the new definition contained in Annex III, Subpart FTL, point 14 to Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and the Council as amended by Commission Regulation (EU) No 83/2014/EU of 29 January 2014.
+
+16.
+
+Article 12 is
+
+amended
+
+to clarify that the term "posted worker" shall be given the meaning given within the Directive 96/71/EC.  However, this clarification does not change the personal scope of this Article, but only aligns the notions used in those legal texts.
+
+The amendments also provide that the existing prohibition on replacement contained in Article 12(1) should also cover self-employed persons.
+
+17.
+
+Article 13(4a) is inserted to provide a clear conflict rule in a case where a person
+
+is simultaneously receiving unemployment benefits from one Member State while employed in another Member State. It provides a statutory basis for the
+
+principles of Recommendation U1 of the Administrative Commission.
+
+18.
+
+Article 32 is amended to provide clear priority rules for derivative rights of a family member in cases where there is an overlapping entitlement to sickness benefits in kind under the legislation of more than one Member State.
+
+19.
+
+Article 34 is deleted reflecting the introduction of a new Chapter 1a on long-term care benefits.
+
+20.
+
+Chapter 1a is inserted to introduce a separate Chapter for the coordination of long-term care benefits.
+
+Article 35a sets out the general provisions for the coordination of long-term care benefits aligned with the rules for sickness benefits.
+
+Paragraph 1 refers to the applicable provisions of Title III Chapter 1 of the basic Regulation.
+
+Paragraph 2 creates an obligation for the Administrative Commission to list all long-term care benefits existing under national legislations.
+
+Paragraph 3 provides for a derogation from the coordination of long-term care benefits in cash under the new Chapter by allowing Member States to coordinate benefits under other Chapters of Title III of the basic Regulation. Annex XII will list such benefits.
+
+The existing anti-overlapping provisions for long-term care benefits in the current Article 34 are incorporated in the new Article 35b, with the exception of paragraph 2, which is included in the new Article 35a(2).
+
+Article 35c sets out the reimbursement rules for long-term care benefits between institutions. Paragraph 1 applies Article 35 to long-term care benefits. Paragraph 2 provides for subsidiary competence for reimbursement by sickness insurance institutions where there is no specific legislation on long-term care benefits in kind. This mirrors the logic of Article 40(2) concerning benefits for accidents at work and occupational diseases.
+
+21.
+
+Article 50(2) is amended to remove the superfluous
+
+reference to Article 52(1)(a), as insurance periods completed in other Member States are not taken into account when calculating independent benefits under Article 52(1)(a).
+
+22.
+
+Article 61 is amended to
+
+remove the special provisions for aggregation contained under the current paragraph 1. Instead the general provisions for aggregation at Article 6 will apply so that periods of insurance, employment or self-employment completed in a former Member State will be taken into account, where necessary, by the Member State of last activity provided that the most recent periods of insurance employment or self-employment were completed in that Member State and lasted at least three months.
+
+23.
+
+Article 64 is amended to extend the minimum period that unemployed jobseekers seeking employment in another Member State may request the export of unemployment benefits from three to six months (or the remainder of the period of entitlement if shorter than six months). Member States may extend this six month period to the full duration of entitlement to unemployment benefits in the competent Member State.
+
+24.
+
+The new Article 64a complements Article 61. It provides that unemployed persons who move their residence to another Member State and become unemployed in that Member State after a period of less than three months of insured work may request export of their cash unemployment benefits from the Member State of previous insurance. In this case, they have to register with the employment services of the Member State of last activity and comply with the obligations required of unemployment benefit claimants under the legislation of that Member State.
+
+25.
+
+Article 65 is amended to introduce new provisions for the payment of unemployment benefits to frontier workers and other cross-border workers who, during their last period of work, resided outside the competent Member State.
+
+Paragraph 1 provides that such persons will be treated as if they resided in the competent Member State.
+
+Paragraph 2 provides that persons who worked for less than 12 months in the competent Member State will receive benefits from the State of residence. However, a worker who has a right to unemployment benefits under the national legislation of the competent Member State without relying on the principle of aggregation in Article 6 may choose to receive the unemployment benefits from that Member State.
+
+Paragraph 3 creates an exception to the normal obligation under Article 64(1)(a) for an unemployed person wishing to export their unemployment benefits to have registered with the employment services of the competent Member State for a period of at least four weeks. This exception applies in the case of a wholly unemployed person who chooses to look for work in their Member State of residence and applies for the whole period of entitlement to unemployment benefit. Paragraph 4 allows such persons a choice of registering with the employment services either in the Member State of residence or the Member State of former activity.
+
+Paragraph 5 clarifies that paragraphs 2 to 4 do not apply to a person who is partially or intermittently unemployed. Such persons are only entitled to claim unemployment benefits in the Member State of former activity.
+
+26.
+
+Article 68b is introduced to provide
+
+special coordination provisions for family benefits intended to replace income during child-raising periods which are listed in Part I of the newly created Annex XIII. It provides such benefits are to be
+
+treated as an individual and personal right rather than a benefit for the family as a whole. Member States with secondary competence may choose to disapply the anti-overlapping rules at Article 68(2) of the basic Regulation and award such benefits in full to an entitled person.
+
+Such Member States will be listed in Part II of Annex XIII.
+
+27.
+
+The new Article 75a is inserted to give greater prominence to the existing obligation contained at Article 89(3) of the implementing Regulation for competent institutions to ensure that their institutions are aware of and comply with their coordination obligations including decisions of the Administrative Commission. It also introduces an obligation to promote cooperation between competent institutions and labour inspectorates at national level.
+
+28.
+
+Article 76a is inserted to empower the European Commission to adopt implementing acts in accordance with Article 291 TFEU specifying the procedures to be followed in order to ensure uniform conditions for the application of the special rules contained in Article 12 and 13 of the basic Regulation for posted or sent workers and self-employed persons and for persons who pursue an activity in two or more Member States.  These measures shall establish standard procedures for the issuance, contestation and withdrawal of the PDA1 certifying the legislation which applies to persons in the situations referred to above.
+
+29.
+
+Article 87b is inserted to specify the transitional provisions for the amendments introduced by this Regulation. The transitional provisions are standard save that paragraph 4 introduces special transitional provisions for the coordination of unemployment benefits for former frontier workers. It provides that existing provisions will continue to apply for those benefits which have been granted to persons before the entry into force of the new provisions.
+
+30.
+
+Article 88 is replaced with a new Article 88 and 88a
+
+in relation to the procedure for updating the Annexes to the Regulations. These
+
+Annexes contain country-specific entries reflecting differences in Member States' national systems.
+
+This amendment will expand the existing powers provided at Article 92 of the implementing Regulation to enable the European Commission to adopt delegated acts in accordance with Article 290 TFEU amending all the Annexes to the basic Regulation. A faster process for amending the Annexes to reflect changes at national level will guarantee greater transparency and legal certainty for the stakeholders and better protection for citizens. In line with the
+
+Interinstitutional Agreement on Better Law-Making of 13 April 2016
+
+the European Commission would carry out appropriate consultations during its preparatory work at an expert level.
+
+Article 2
+
+Article 2 concerns the amendments to the implementing Regulation.
+
+1.
+
+A new recital 18a is inserted to refer to the special procedure that applies if a Member State is unable to notify the annual average costs per person in each age group for a particular reference year for the purposes of reimbursement of expenditure on benefits in kind on the basis of fixed amounts.
+
+2.
+
+Recital 19 is amended to update the reference to Directive 2008/55/EC of 26 May 2008 on mutual assistance for the recovery of claims relating to certain levies, duties, taxes and other measures which has since been superseded by Directive 2010/24/EU concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures.
+
+3.
+
+New Recitals 25 and 26 are inserted to refer to new provisions to combat fraud and error in accordance with EU Data protection principles.
+
+4.
+
+Article 1 is amended to include a new definition for "fraud"
+
+in light of the new provision in Article 5(2). It is based on that used in the Communication: "Free movement of EU citizens and their families: Five actions to make a difference".
+
+5.
+
+Article 2 is amended to provide a permissive ground for Member States to periodically exchange personal data of persons to whom the Regulations apply to facilitate identification of any fraud or error in the proper application of the Regulations. Data transfers under this provision are subject to the obligations in Article 77 of the basic Regulation that data is transmitted in accordance with Union provisions on the protection of natural persons with regard to the processing and free movement of personal data.
+
+6.
+
+Article 3(3) is amended to specify the data subject's rights pursuant to EU data protection law and also provides that a data subject may request that the competent authority of the Member State of residence coordinates requests made by the data subject concerning personal data processed pursuant to these Regulations.
+
+7.
+
+Article 5 is amended to provide that a declaratory document issued by an institution shall only be valid where all mandatory information has been completed.
+
+Upon request, the issuing institution shall be required to review the grounds for issuing a document and where necessary rectify or withdraw the document within 25 working days. In the case of fraud committed by the applicant, the withdrawal of a document shall have retroactive effect.
+
+Moreover, the issuing institution shall forward to the requesting institution all the available supporting evidence on which it has based its decision within 25 working days or two working days in cases of demonstrable urgency.
+
+8.
+
+Article 14(1) is amended to align with the changes introduced to Article 12(1) of the basic Regulation. In addition, it provides that the requirement that a posted or sent worker was previously affiliated to the social security system of the sending Member State does not require affiliation to the same Member State where his or her employer is established.
+
+9.
+
+Article14(5a) clarifies that Article 13(1)(b)(i) of the basic Regulation which provides that an employee shall be subject to the legislation of the Member State, where the employer or undertaking's registered office or place of business is situated shall only apply if the employer or undertaking in question ordinarily carries out substantial activity in that Member State. Where this is not the case the employee shall be covered by the legislation of the Member State where the employer or undertaking's main activities or centre of interest is located. This determination shall be made in accordance with the criteria laid down in Article 14(9) and (10) of the implementing Regulation. The second sub-paragraph of paragraph 5a is deleted as it is superfluous in light of the amendments to Article 11(5) of the basic Regulation.
+
+10.
+
+Article 14(12) is inserted to provide a conflict of law provision to address situations where a person who resides in a third country outside of the scope of application of the Regulations pursues an activity as an employed or self-employed person in two or more Member States while being covered by the social security legislation of one of those States. The amendment provides that such a person will be subject only to the social security legislation of the Member State where the registered office or place of business of the undertaking or his or her employer or the centre of interest of his or her activity is located.
+
+11.
+
+Article 15(2) is amended to provide for the issuance of a Portable Document A1 ("PDA1") to flight crew and cabin crew members referred to in Article 11(5) of the basic Regulation.
+
+12.
+
+Article 16 is amended to streamline the procedure for determining applicable legislation in the case of employment in two or more Member States. Paragraphs 1 and 5 provide that an employer can initiate the procedure on behalf of its employees and that the employer shall be notified of the decision taken as to which social security legislation shall apply. Amendments to paragraph 2 provide that the institution in which the employer is situated shall also be informed of the decision. The amendment to paragraph 3 provides that the existing procedure comprising first a provisional determination which becomes definitive only if no other institution concerned contests that decision within two months, shall be confined to those situations where the institution of the place of residence determines that the legislation of another Member State applies.
+
+13.
+
+Article 19 is amended to provide that competent institutions have an obligation to verify the relevant information before issuing a PDA1 determining the applicable legislation for its holder. This is in accordance with the jurisprudence of the Court of Justice.
+
+It also provides that social security institutions and labour inspectorates, tax and immigration authorities shall be entitled to directly exchange information regarding the social security status of the persons concerned for the purposes of ensuring compliance with legal obligations associated with employment, health and safety, immigration and taxation (details of such exchanges to be specified by decision of the Administrative Commission). The competent authority shall be required to provide specific and adequate information to data subjects about the purposes for which personal data is processed.
+
+14.
+
+Title III, Chapter 1 is amended to extend its application to
+
+long-term care benefits
+
+.
+
+15.
+
+Articles 23, 24 (3), 28 (1), 31 and 32 are amended to ensure that these Articles apply to
+
+long-term care benefits
+
+. In the case of special schemes for civil servants, they will have to be listed in Annex 2.
+
+16.
+
+The second subparagraph of Article 43(3) which provides for situations in which the national legislation allocates different values to insurance periods of voluntary or optional insurance and the competent institution cannot determine the amount due for period concerned is deleted. This follows a review by the Administrative Commission that concluded this rule is no longer needed.
+
+17.
+
+Article 55(4) is amended to strengthen the control procedure referred to in the third subparagraph by rendering the monthly follow-up reports mandatory.
+
+18.
+
+Article 55(7) is amended to provide that the current provisions dealing with the export of unemployment benefit shall apply
+
+mutatis mutandis
+
+in the case of export based on the new Article 64a of the basic Regulation.
+
+19.
+
+The new Article 55a is inserted pursuant to Article 64a of the basic Regulation to ensure that the competent institution of the Member State of previous insurance receives all the necessary information for assessing entitlement to unemployment benefits for the person concerned.
+
+20.
+
+Article 56 is amended to reflect changes to Article 65 of the basic Regulation.
+
+21.
+
+Chapter I of Title IV is renamed to reflect that this Chapter also applies to reimbursement of long-term care benefits on the basic of actual expenditure or fixed amounts.
+
+22.
+
+The first indent of Article 64(1) is amended to improve the accuracy of the methodology for calculating the reimbursement based on fixed amounts between Member States provided for in Article 24(1) and Articles 25 and 26 of the basic Regulation, by applying three different age groups in relation to persons aged 65 and above.
+
+23.
+
+Article 65(1) concerning reimbursement of benefits in kind on the basis of fixed amounts is amended to clarify that if it is not possible for a Member State to notify the average annual costs for a specific year within the required deadline, then the Administrative Commission may, upon request, agree that the average annual costs published in the Official Journal for the immediately preceding year can be used. This derogation cannot be granted for consecutive years.
+
+24.
+
+Article 70 is deleted as a result of the amendments to Article 65 of the basic Regulation which abolish the reimbursement rules for unemployment benefits for former frontier workers.
+
+25.
+
+Article 73(1) and (2) are amended and paragraph 3 is inserted to extend the application of the offsetting procedure to settlement of claims to cases resulting from a retroactive change of the applicable legislation. In addition, paragraph 4 is inserted in order to ensure that the offsetting procedure between the institutions is not impeded by time-limits laid down in national legislation. Taking into account that a five-year time has already been introduced in Article 82(1)(b) of the implementing Regulation for the recovery procedure, paragraph 5 is inserted to provide that a limitation period of five years shall also apply to the offsetting procedure under this Article 73 counting backwards from the date, when the procedure for resolving disputes between Member States referred to in Articles 5(2) or 6(3) of the implementing Regulation commenced.
+
+26.
+
+Articles 75 to 82 and 84 are amended and Article 85a is inserted to update the recovery procedures contained in Chapter III of Title V of the implementing Regulation. The existing procedures are based upon those set out in Directive 2008/55/EC which has since been superseded by Directive 2010/24/EU. In particular the amendments provide for a uniform instrument to be used for enforcement measures as well as standard procedures for requesting mutual assistance and notification of instruments and decisions relating to a claim.
+
+27.
+
+Article 75 is amended to provide a legal basis for the Member States to use the information exchanged, in the field covered by this Regulation, also for the purpose of assessment and enforcement of taxes and duties covered by Directive 2010/24/EU. It furthermore introduces a legal basis for authorities to exchange information, without prior request, in cases of refund of social security contributions.
+
+28.
+
+Article 76 is amended to limit the possibility of Member States to decline to supply information when this would be useful in the recovery of a claim.
+
+29.
+
+Article 77 is amended to introduce a uniform notification form. The amendment also clarifies that a request for notification should be made where the Member State of the applicant party is unable to notify itself, in accordance to its rules, or if a notification by that State would give rise to disproportionate difficulties.
+
+30.
+
+Article 78 is amended to introduce exceptions to the obligation of the Member State to provide assistance in a recovery procedure for cases where it is clear that there are no prospects of full recovery or the procedure would cause disproportionate difficulties.
+
+31.
+
+Article 79 is amended to introduce a uniform instrument for enforcement of recovery, capable of direct recognition in another Member State. The introduction of a uniform instrument for enforcement was strongly supported by Member States representatives within
+
+the Administrative Commission.
+
+32.
+
+Article 80 is amended to clarify the circumstances where the requested party may deduct incurred costs from the recovered claim.
+
+33.
+
+Article 81 adapts the provisions on contestation to take account of the amendments concerning notification and the uniform instrument for enforcement.
+
+34.
+
+Article 82 is amended to clarify the limitation periods that apply in respect of requests for assistance concerning claims older than five years.
+
+35.
+
+Article 84 is amended to clarify when a Member State may request assistance in application of precautionary measures. It further provides that a document drawn up to permit precautionary measures in the Member State of the applicant party cannot be subject to acts of recognition, supplement or replacement.
+
+36.
+
+Article 85 is amended to introduce a provision which clarifies the obligation of the applicant party to reimburse the costs linked to recovery incurred by the requested party, in situations where these costs cannot be recovered from the debtor or deducted from the claim.
+
+37.
+
+Article 85a is introduced to allow officials of the applicant party to participate in the recovery procedure within another Member State, where this is agreed between the parties and is in accordance with the arrangements of the requested party.
+
+38.
+
+Article 87(6) is amended to limit
+
+the exception to the principle of free-of-charge mutual administrative cooperation laid down in that Article by removing the obligation to refund the expenses of medical examinations and administrative checks carried out by the institution of the place of stay or residence in cases where that institution uses the findings to fulfil obligations under its own legislation.
+
+39.
+
+Article 89(3) is deleted as this provision is now incorporated in Article 75a of the basic Regulation.
+
+40.
+
+Article 92 is deleted as a consequence of the amendments to Article 88 of the basic Regulation.
+
+41.
+
+Article 93 is amended and Article 94a is inserted to refer to the transitional arrangements at Article 87b of the basic Regulation and the special
+
+transitional provisions for the coordination of unemployment benefits for former frontier workers.
+
+42.
+
+Article 96 is amended to provide that for the purposes of carrying out currency conversion under Article 107 of Regulation (EEC) No 574/72 of the Council of 21 March 1972 fixing the procedure for implementing Regulation (EEC) No 1408/71 on the application of social security schemes to employed persons and their families moving within the Community
+
+, competent institutions may refer to the currency conversion rates published pursuant to Article 90 of the implementing Regulation.
+
+Article 3
+
+This Article specifies the entry into force of the new provisions.
+
+Annex
+
+1.
+
+The Annex includes amendments to the current Annexes to the basic Regulation. These Annexes need to be periodically updated especially due to changes in national legislation.
+
+2.
+
+Annex I to the basic Regulation on the exemptions from the coordination of family benefits is amended to reflect changes in national legislation concerning advances of maintenance payments for Slovakia and Sweden and special childbirth and adoption allowances for Hungary, Romania and Sweden.
+
+3.
+
+Annex II to the basic Regulation on bilateral conventions is amended to delete the reference to "SPAIN-PORTUGAL" which has expired.
+
+4.
+
+Annex III to the basic Regulation is amended
+
+i
+
+n accordance with Article 87(10a): the entries for Estonia, Spain, Italy, Lithuania, Hungary, and the Netherlands are deleted following their expiry on 1 May 2014. In addition, Croatia, Finland and Sweden are removed from Annex III at their own request.
+
+5.
+
+Annex IV to the basic Regulation lists Member States granting more rights to pensioners returning to the competent State. It is amended to include Estonia, Lithuania, Malta, Portugal, Romania, Slovakia, Finland, and the United Kingdom
+
+who wish to
+
+grant full access to sickness benefits in kind for pensioners returning to their territories.
+
+6.
+
+Annex X to the basic Regulation, which lists the special non-contributory cash benefits, is
+
+amended to reflect changes in national legislations.
+
+Some entries are deleted as the benefits listed no longer exist (the Czech social allowance, the Estonian disabled adult allowance, the Hungarian transport allowance and the Slovenian state pension and maintenance allowance) or the benefit has been redefined and is part of the national social assistance legislation (the Slovenian income support for pensioners).
+
+Newly introduced benefits which comply with the conditions provided in Article 70(2) of the basic Regulation must be added (the Estonian funeral benefit, the Romanian social allowance for pensioners and the mobility component of the British personal independence payment).
+
+Two of the current entries for Germany and Sweden must be updated as the national legislation has been amended.
+
+7.
+
+Annex XI to the basic Regulation, which contains special provisions for the application of the legislation of Member States, needs to be updated.
+
+The amendment to the German entry is intended to ensure the most favourable tax regime applies to persons receiving a parental leave benefit.
+
+The amendment to the Estonian entry provides a method for calculating
+
+pro rata
+
+invalidity benefit in accordance with Article 52(1)(b) of the basic Regulation, specifying that periods of residence completed in Estonia will be taken into account starting from the age of 16 until the invalidity occurred
+
+The amendment to the Netherlands entry provides that persons receiving an 'equivalent pension' in accordance with Annex XI (1)(f), and members of their family, are entitled, on the basis of an equivalent pension and subsequently of the statutory old-age pension, to receive sickness benefits in kind in the Member State of residence at the expense of the Netherlands.
+
+Two new entries are inserted for Czech Republic and Slovakia in connection with the application of the Convention on Social Security of 29 October 1992 concluded after the dissolution of the Czech and Slovak Federal Republic (already listed into Annex II). The objective is to take account of the particularities of their new pension supplements which relate to these special historical circumstances.
+
+The first two paragraphs of the Swedish entry should be deleted as a consequence of the ruling of the Court of Justice in Case C-257/10,
+
+Bergström
+
+,
+
+EU:C:2011:839
+
+.
+
+Paragraphs 1, 2 and 4 of the United Kingdom entry are amended to reflect changes in national legislation.
+
+8.
+
+A new Annex is added to the basic Regulation, Annex XII, which will list
+
+long-term care benefits
+
+coordinated under Chapter 1a, as referenced in Article 35a(3).
+
+9.
+
+A new Annex is added to the basic Regulation, Annex XIII, which will list family benefits in cash intended to replace income during child-raising
+
+periods
+
+, as referenced in Article 68b.
+
+2016/0397 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EC) No 883/2004 on the coordination of social security systems and regulation (EC) No 987/2009 laying down the procedure for implementing Regulation (EC) No 883/2004
+
+(Text with relevance for the EEA and Switzerland)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 48 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national Parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+A modernised system of social security coordination started to apply from 1 May 2010 with Regulations (EC) No 883/2004 and (EC) No 987/2009.
+
+(2)
+
+These Regulations were updated by Regulation (EU) No 465/2012 of the European Parliament and of the Council of 22 May 2012 to supplement, clarify and update certain provisions of Regulations, especially in the field of the determination of the applicable legislation and unemployment benefits, and to make technical adaptations to the references to national legislation in the Annexes.
+
+(3)
+
+It has emerged from evaluations and discussions within the Administrative Commission for the Coordination of Social Security Systems that in the areas of long-term care benefits, unemployment benefits and family benefits the modernisation process should continue.
+
+(4)
+
+It remains essential that the coordination rules keep pace with the evolving legal and societal context in which they operate
+
+by further facilitating the exercise of citizens' rights while at the same time ensuring legal clarity, a fair and equitable distribution of the financial burden among the institutions of the Member States involved and administrative simplicity and enforceability of the rules.
+
+(5)
+
+It is necessary to guarantee legal certainty by clarifying that access to social security benefits for economically inactive mobile citizens in the host Member State, may be made conditional upon that citizen holding a legal right of residence in that Member State in accordance with Directive 2004/38/EC
+
+of the European Parliament and of the Council of 29 April 2004
+
+on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States
+
+.
+
+For these purposes, an economically inactive citizen should be clearly distinguished from a jobseeker whose right of residence is conferred directly by Article 45 of the Treaty on the Functioning of the European Union.
+
+(6)
+
+Long-term care benefits have so far not been included explicitly within the material scope of Regulation (EC) No 883/2004 but coordinated as sickness benefits, leading to legal uncertainty both for institutions and persons claiming long-term care benefits. There is a need to develop a stable legal framework appropriate to long-term care benefits within the Regulation to include a clear definition of such benefits.
+
+(7)
+
+In order to ensure clarity regarding the terminology in EU law, the term “posting” should only be used for the posting of workers within the meaning of Directive 96/71/EC
+
+of the European Parliament and of the Council
+
+of 16 December 1996 concerning the posting of workers in the framework of the provision of services.
+
+In addition, to achieve consistency in treatment between employed and self-employed persons it is necessary that the special rules for the determination of applicable legislation in the cases of workers who are temporarily posted or sent to another Member State should apply consistently to both employed and self-employed persons.
+
+(8)
+
+In the area of unemployment benefits, the rules on the aggregation of periods of insurance should be applied uniformly by all Member States. With the exception of cross-border workers referred to in Article 65(2), the rules on the aggregation of periods for the purpose of conferring entitlement to unemployment benefits should be subject to the condition that an insured person has most recently completed at least three months of insurance in that Member State. The previously competent Member State should become competent for all insured persons who do not satisfy this condition. In this case, registration with the employment services of the Member State of most recent insurance should have the same effect as registration with the employment services of the Member State, where the unemployed person had been previously insured.
+
+(9)
+
+Following
+
+the recommendations in the EU Citizenship Report 2013,
+
+there is a need to extend the minimum duration of
+
+export of unemployment benefits from three to six months in order to improve the opportunities for unemployed persons moving to another Member State to look for work and their chances for reintegration into the labour market and to address skills mismatches across borders.
+
+(10)
+
+There is a need to ensure greater parity of treatment for frontier and cross-border workers by ensuring frontier workers receive unemployment benefits from the Member State of last activity provided that they have worked in that Member State for at least the past twelve months.
+
+(11)
+
+Family benefits intended to replace income during child-raising periods are designed to meet the individual and personal needs of the parent subject to the legislation of the competent Member State and therefore are distinguishable from other family benefits as they are intended to compensate a parent for loss of income or salary during time spent raising a child rather than solely meeting general family expenses.
+
+(12)
+
+In order to enable a timely update of this Regulation to the developments at the national level, the power to adopt acts
+
+in accordance with Article 290 of the Treaty
+
+on the Functioning of the European Union
+
+should be delegated to the European Commission in respect of amending the Annexes to this Regulation and Regulation (EC) No 987/2009. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level
+
+and that those consultations be
+
+conducted in accordance with the principles laid down in the Interinstitutional Agreement on Better Law-Making of 13 April 2016.
+
+In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and Council receive all documents at the same time as Member States' experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
+
+(13)
+
+With a view to supporting Member States in their efforts to combat fraud and error in the application of the coordination rules, it is necessary to establish a further permissive legal basis to facilitate the processing of personal data about persons to whom Regulations (EC) No 883/2004 and (EC) No 987/2009 apply. This would
+
+enable a Member State to periodically compare data held by its competent institutions against that held by another Member State in order to identify errors or inconsistencies that require further investigation.
+
+(14)
+
+In order to protect the rights of data subjects while at the same time facilitating the legitimate interest of Member States to collaborate in enforcement of legal obligations, it is necessary to clearly specify the circumstances in which personal data exchanged pursuant to these Regulations may be used for purposes other than social security and to clarify the obligations of Member States to provide specific and adequate information to data subjects.
+
+(15)
+
+With a view to expediting the procedure for the verification and withdrawal of documents (in particular concerning the social security legislation which applies to the holder) in case of fraud and error, it is necessary to strengthen the collaboration and the exchange of information between the issuing institution and the institution requesting a withdrawal.
+
+Where there is doubt about the validity of a document or about the correctness of supporting evidence or where there is a difference of views between Member States concerning the determination of the applicable legislation, it is in the interest of the Member States and the persons concerned that the institutions concerned reach an agreement within a reasonable period of time.
+
+(16)
+
+To ensure the effective and efficient operation of the coordination rules it is necessary to clarify the rules for determining applicable legislation for employees who pursue their economic activity in two or more Member States in order to provide a greater parity with the conditions that apply to persons who are posted or sent to pursue economic activity in a single Member State. Moreover, the posting rules providing for the continuation of the applicable legislation should only apply to persons who had a prior link to the social security system of the Member State of origin.
+
+(17)
+
+Implementing powers should be conferred on the European Commission in order to ensure uniform conditions for the implementation of Articles 12 and 13 of Regulation (EC) No 883/2004. Those powers should be exercised in accordance with Article 5 of Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers.
+
+(18)
+
+If a Member State is unable to notify within the deadline the annual average cost per person in each age group for a reference year, it is necessary to provide an alternative that the Member State may submit claims for that year based on the annual average costs for the immediately preceding year published in the Official Journal. The reimbursement of the expenditure on benefits in kind on the basis of fixed amounts should be as close as possible to the actual expenditure; therefore a derogation from the notification obligation should be subject to the approval by the Administrative Commission and should not be granted in a consecutive year.
+
+(19)
+
+Taking into account the jurisprudence of the Court of Justice in Cases
+
+C
+
+345/09
+
+van Delft and Others
+
+, EU:C:2010:610
+
+and
+
+C
+
+543/13
+
+EU:C:2015:359
+
+Fischer-Lintjens
+
+there is a need
+
+to facilitate retrospective changes in applicable legislation. Therefore the offsetting procedure that
+
+applies in situations where the legislation of a Member State was applied provisionally in accordance with Article 6 of Regulation (EC) No 987/2009 should also be
+
+extended to other cases resulting from a retroactive change of the applicable legislation. In addition, in this context, it is necessary to disapply divergent limitation provisions in national law to ensure that a retroactive settlement between the institutions is not impeded by any incompatible time-limits laid down in national legislation while at the same time establishing a uniform limitation period of five years counting backwards from the commencement of the dialogue procedure referred to under Article 5(2) and 6(3) of this Regulation to ensure this procedure for resolving such disputes is not frustrated.
+
+(20)
+
+Effective recovery is a means of preventing and tackling fraud and abuse and ensuring the smooth functioning of social security schemes. The recovery procedures contained in Chapter III of Title IV of Regulation 987/2009 are based upon the procedures and rules set up in Directive 2008/55/EC of 26 May 2008 on mutual assistance for the recovery of claims relating to certain levies, duties, taxes and other measure
+
+. This Directive has been superseded by Directive 2010/24/EU concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures
+
+, which introduced a uniform instrument to be used for enforcement measures as well as a standard form for notification of instruments and measures relating to claims. In the review by the Administrative Commission in accordance with Article 86 (3) of Regulation 987/2009 most Member States found it advantageous to use a uniform instrument for enforcement similar to that foreseen by Directive 2010/24/EU. It is therefore necessary that the rules for mutual assistance in recovery of social security claims reflect the new measures in Directive 2010/24/EU in order to ensure more effective recovery and smooth functioning of the coordination rules.
+
+(21)
+
+To take account of legal changes in certain Member States and to guarantee legal certainty for stakeholders, the Annexes to Regulation (EC) No 883/2004 need to be adapted.
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Regulation (EC) No 883/2004 is amended as follows:
+
+1.
+
+A second sentence is added in Recital 2 as follows:
+
+"Article 21 Treaty of the Functioning of the European Union guarantees every Union citizen the right to free movement subject to the limitations and conditions laid down in the Treaties and by the measures adopted to give them effect."
+
+2.
+
+In Recital 5, after
+
+"the different national legislation for the persons concerned" the following wording is inserted
+
+:
+
+", subject to the conditions as regards the access to certain social security benefits by economically inactive mobile EU citizens in the host Member State set out in Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States.
+
+"
+
+3.
+
+After Recital 5, the following is inserted:
+
+"(5a) The Court of Justice has held that Member States are entitled to make the access of economically inactive citizens in the host Member State to social security benefits, which do not constitute social assistance within the meaning of Directive 2004/38/EC subject to a legal right of residence within the meaning of that Directive. The verification of the legal right of residence should be carried out in accordance with the requirement of Directive 2004/38/EC. For these purposes, an economically inactive citizen should be clearly distinguished from a jobseeker whose right of residence is conferred directly by Article 45 of the Treaty on the Functioning of the European Union. In order to improve legal clarity for citizens and institutions, a codification of this case law is necessary.
+
+(5b) Member States should ensure that economically inactive EU mobile citizens are not prevented from satisfying the condition of having comprehensive sickness insurance cover in the host Member State, as laid down in Directive 2004/38/EC. This may entail allowing such citizens to contribute in a proportionate manner to a scheme for sickness coverage in the Member State in which they habitually reside.
+
+(5c) Notwithstanding the limitations on the right to equal treatment for economically inactive persons, that arise from the Directive 2004/38/EC or otherwise by virtue of Union law, nothing within this Regulation should restrict the fundamental rights recognised in the Charter of Fundamental Rights of the European Union, notably the right to human dignity (Article 1), the right to life (Article 2) and the right to healthcare (Article 35)."
+
+4.
+
+The first sentence of Recital 18b is replaced with the following:
+
+“In Annex III, Subpart FTL to Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and the Council, as amended by Commission Regulation (EU) No 83/2014/EU of 29 January 2014 amending Regulation (EU) No 965/2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and the Council
+
+, the concept of ‘home base’ for flight crew and cabin crew members is defined as the location, assigned by the operator to the crew member, from where the crew member normally starts and ends a duty period or a series of duty periods and where, under normal circumstances, the operator is not responsible for the accommodation of the crew member concerned.”
+
+5.
+
+Recital 24 is replaced by the following:
+
+"(24) Long-term care benefits for insured persons and members of their families need to be coordinated according to specific rules which, in principle, follow the rules applicable to sickness benefits, in line with the case law of the Court of Justice. It is also necessary to provide for specific provisions in case of overlapping of long-term care benefits in kind and in cash."
+
+6.
+
+After Recital 35 the following is inserted:
+
+"(35a) Family benefits in cash intended to replace income during a periods of child-raising are individual rights which are personal to the parent subject to the legislation of the competent Member State. Given the specific nature of these family benefits, such benefits should be listed in Part I of Annex XIII to this Regulation and should be exclusively reserved to the parent concerned. The Member State with secondary competence may elect that the rules of priority in the case of overlapping of rights to family benefits under the legislation of the competent Member State and under the legislation of the Member State of residence of members of the family should not apply to such benefits. Where a Member State chooses to disapply the priority rules it must do so consistently in respect of all entitled persons in an analogous situation and be listed in Part II of Annex XIII."
+
+7.
+
+After Recital 39, the following is inserted:
+
+"(39a) The relevant EU data protection acquis, in particular Regulation (EU) 679/2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
+
+shall apply to the processing of personal data pursuant to this Regulation."
+
+8.
+
+After Recital 45, the following recitals are inserted:
+
+"(46) In order to enable a timely update of this Regulation to the developments at the national level, the power to adopt acts
+
+in accordance with Article 290 of the Treaty
+
+on the Functioning of the European Union
+
+should be delegated to the European Commission in respect of amending the Annexes to this Regulation and Regulation (EC) No 987/2009. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level
+
+and that those consultations be
+
+conducted in accordance with the principles laid down in the Interinstitutional Agreement on Better Law-Making of 13 April 2016.
+
+In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and Council receive all documents at the same time as Member States' experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
+
+(47) This Regulation respects fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union, notably the protection of personal data (Article 8), the freedom to choose an occupation and right to engage in work (Article 15), the right to property (Article 17), the right to non-discrimination (Article 21), the rights of the child (Article 24), the rights of the elderly (Article 25), integration of persons with disabilities (Article 26), the right to family and professional life (Article 33); the right to social security and social assistance (Article 34), the right to health care (Article 35) and the right to freedom of movement and residence (Article 45); and has to be implemented in accordance with those rights and principles.
+
+(48) Nothing within this Regulation shall limit the independent rights and obligations recognised in the European Convention of Human Rights notably the Right to Life (Article 2), the Right to protection from inhuman or degrading treatment (Article 3), the Right to Property (Article 1 of the first additional Protocol) and the right to non-discrimination (Article 14) and this Regulation has to be implemented in accordance with those rights and obligations."
+
+9.
+
+Article 1 is amended as follows:
+
+(a)
+
+In Point (c) the term “Title III, Chapters 1 and 3” is replaced by the term “Title III, Chapters 1, 1a and 3”.
+
+(b)
+
+In Point (i)(1)(ii) after the term “Title III, Chapter 1 on sickness, maternity and equivalent paternity benefits” the term “ and Chapter 1a on long-term care benefits” is inserted.
+
+(c)
+
+In Point (va)(i) after the term “Title III, Chapter 1 (sickness, maternity and equivalent paternity benefits),” the term "and Chapter 1a (long-term care benefits)” is inserted and the last sentence is deleted.
+
+(d)
+
+The following point is inserted after point (va):
+
+“(vb) “long-term care benefit” means any benefit in kind, cash or a combination of both for persons who, over an extended period of time, on account of old-age, disability
+
+,
+
+illness or impairment, require considerable assistance from another person or persons to carry out essential daily activities, including to support their personal autonomy
+
+;
+
+this includes benefits granted to or for the person providing such assistance;"
+
+10.
+
+In Article 3(1), the following point is inserted after point (b):
+
+“(ba) long-term care benefits;”
+
+11.
+
+Article 4 of Regulation (EC) No 883/2004 is replaced with the following:
+
+"
+
+Article 4
+
+Equality of Treatment
+
+1. Unless otherwise provided for by this Regulation, persons to whom this Regulation applies shall enjoy the same benefits and be subject to the same obligations under the legislation of any Member State as the nationals thereof.
+
+2. A Member State may require that the access of an economically inactive person residing in that Member State to its social security benefits be subject to the conditions of having a right to legal residence as set out in Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States.
+
+".
+
+12.
+
+Article 11 is amended as follows:
+
+(a)
+
+In paragraph 2 the term “sickness benefits in cash covering treatment for an unlimited period” is replaced by the term “long-term care benefits in cash”.
+
+(b)
+
+Paragraph 5 is replaced by the following:
+
+"5. An activity as a flight crew or cabin crew member performing air passenger or freight services shall be deemed to be an activity pursued exclusively in the Member State where the home base, as defined in Annex III, Subpart FTL to Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and the Council as amended by Commission Regulation (EU) No 83/2014/EU of 29 January 2014
+
+, is located."
+
+13.
+
+Article 12 is replaced by the following:
+
+‘
+
+Article 12
+
+Special rules
+
+1. A person who pursues an activity as an employed person in a Member State on behalf of an employer which normally carries out its activities there
+
+and who is posted within the meaning of Directive 96/71/EC
+
+of the European Parliament and of the Council of 16 December 1996 concerning the posting of workers
+
+in the framework of the provision of services
+
+or sent by that employer to another Member State
+
+to perform work on that employer's behalf shall continue to be subject to the legislation of the first Member State, provided that the anticipated duration of such work does not exceed 24 months and that the person is not posted or sent to replace another employed or self-employed person previously posted or sent within the meaning of this Article.
+
+2. A person who normally pursues an activity as a self-employed person in a Member State who goes to pursue a similar activity in another Member State shall continue to be subject to the legislation of the first Member State, provided that the anticipated duration of such activity does not exceed 24 months and that the person is not replacing another posted employed or self-employed person.".
+
+14.
+
+In Article 13, the following paragraph 4a is inserted after paragraph 4:
+
+“4a. A person who is receiving unemployment benefits in cash from one Member State and who is simultaneously pursuing an activity as an employed or self-employed person in another Member State shall be subject to the legislation of the Member State paying the unemployment benefits.”.
+
+15.
+
+In Article 32, the following paragraph 3 is added:
+
+"3. Where a member of the family has a derivative right to benefits according to the legislation of more than one Member State, the following priority rules shall apply:
+
+(a)
+
+in the case of rights available on a different basis, the order of priority shall be as follows:
+
+(i) rights available on the basis of an activity as an employed or self-employed person of the insured person;
+
+(ii) rights available on the basis of the receipt of a pension by the insured person;
+
+(iii) rights available on the basis of residence of the insured person;
+
+(b)
+
+in the case of derivative rights available on the same basis, the order of priority shall be established by referring to the place of residence of the member of the family as a subsidiary criterion;
+
+(c)
+
+in cases where it is impossible to establish the order of priority on the basis of the preceding criteria, as a last criterion, the longest period of insurance of the insured person under a national pension scheme shall be applicable.".
+
+16.
+
+Article 34 is deleted.
+
+17.
+
+After Article 35, the following Chapter is inserted:
+
+“CHAPTER 1a
+
+Long-term care benefits
+
+Article 35a
+
+General provisions
+
+1. Without prejudice to the specific provisions of this Chapter, Articles 17 to 32 shall apply mutatis mutandis to long-term care benefits.
+
+2. The Administrative Commission shall draw up a detailed list of long-term care benefits which meet the criteria contained in Article 1 (vb) of this Regulation, specifying which are benefits in kind and which are benefits in cash.
+
+3. By way of derogation from paragraph 1, Member States may grant long-term care benefits in cash in accordance with the other Chapters of Title III, if the benefit and the specific conditions to which the benefit is subject are listed in Annex XII and provided that the outcome of such coordination is at least as favourable for the beneficiaries as if the benefit was coordinated under this Chapter.
+
+Article 35b
+
+Overlapping of long-term care benefits
+
+1. If a recipient of long-term care benefits in cash granted under the legislation of the competent Member State receives, at the same time and under this Chapter, long-term care benefits in kind from the institution of the place of residence or stay in another Member State, and an institution in the first Member State is also required to reimburse the cost of these benefits in kind under Article 35c, the general provision on prevention of overlapping of benefits laid down in Article 10 shall be applicable, with the following restriction only: the amount of the benefit in cash shall be reduced by the reimbursable amount for the benefit in kind which is claimable under Article 35c from the institution of the first Member State.
+
+2. Two or more Member States, or their competent authorities, may agree on other or supplementary measures which shall not be less favourable for the persons concerned than the principles laid down in paragraph 1.
+
+Article 35c
+
+Reimbursement between institutions
+
+1. Article 35 shall apply
+
+mutatis mutandis
+
+to long-term care benefits.
+
+2. If the legislation of a Member State where the competent institution under this Chapter is situated does not provide for long-term care benefits in kind, the institution which is or would be competent in that Member State under Chapter 1 for the reimbursement of sickness benefits in kind granted in another Member State shall be deemed to be the competent one also under Chapter 1a.".
+
+18.
+
+In Article 50(2), the term “Article 52(1) (a) or (b)” is replaced by the term “Article 52(1) (b)”.
+
+19.
+
+Article 61 is replaced by the following:
+
+“
+
+Article 61
+
+Special rules on aggregation of periods of insurance, employment or self-employment
+
+1. Except in the cases referred to in Article 65(2), the application of Article 6 shall be conditional on the person concerned having most recently completed a period of at least three months of insurance, employment, or self-employment in accordance with the legislation under which the benefits are claimed.
+
+2. Where an unemployed person does not satisfy the conditions for the aggregation of periods in accordance with paragraph 1 because the total duration of his or her most recently completed periods of insurance, employment or self-employment in that Member State is less than three months that person shall be entitled to unemployment benefits in accordance with the legislation of the Member State where he or she had previously completed such periods under the conditions and subject to the limitations laid down in Article 64a.”.
+
+20.
+
+Article 64 is amended as follows:
+
+(a)
+
+In paragraph 1(c) the word “three” shall be replaced by “six” and the words “of three months up to a maximum of six months” shall be replaced by the words “of six months up to the end of the period of that person's entitlement to benefits”;
+
+(b)
+
+In paragraph 3, the word “three” shall be replaced by “six” and the words “a maximum of six months” shall be replaced by the words “the end of the period of entitlement to benefits”.
+
+21.
+
+After Article 64, the following Article 64a shall be inserted:
+
+“
+
+Article 64a
+
+Special rules for unemployed persons who moved to another Member State without fulfilling the conditions of Article 61(1) and Article 64
+
+In the situations referred to in Article 61(2), the Member State to whose legislation the unemployed person was previously subject shall become competent to provide unemployment benefits. They shall be provided at the expense of the competent institution for the period laid down in Article 64(1)(c), if the unemployed person makes himself/herself available to the employment services in the Member State of most recent insurance and adheres to the conditions laid down under the legislation of that Member State. Article 64 (2) to (4) shall apply
+
+mutatis mutandis
+
+.”
+
+22.
+
+Article 65 is replaced by the following:
+
+"
+
+Article 65
+
+Unemployed persons who resided in a Member State other than the competent State
+
+1. An unemployed person who, during his or her last activity as an employed or self-employed person resided in a Member State other than the competent Member State shall make himself or herself available to the former employer or to the employment services in the competent Member State. Such a person shall receive benefits in accordance with the legislation of the competent Member State as if he or she were residing in that Member State. These benefits shall be provided by the institution of the competent Member State.
+
+2. By way of derogation from paragraph 1, a wholly unemployed person who, during the last activity as an employed or self-employed person, resided in a Member State other than the competent Member State, and who had not completed at least 12 months of unemployment insurance exclusively under the legislation of the competent Member State shall make himself or herself available to the employment service of the Member State of residence. Such a person shall receive benefits in accordance with the legislation of the Member State of residence as if he or she had completed all periods of insurance under the legislation of that Member State. Those benefits shall be provided by the institution of the Member State of residence. Alternatively, a wholly unemployed person referred to in this paragraph, who would be entitled to an unemployment benefit solely under the national legislation of the competent Member State if he or she resided there, may instead opt to make themselves available to the employment services in that Member State and to receive benefits in accordance with the legislation of that Member State as if he or she were residing there.
+
+3. If a wholly unemployed person referred to in paragraphs 1 or 2 does not wish to become or remain available to the employment services of the competent Member State after having been registered there, and wishes to seek work in the Member State of residence or the Member State of last activity Article 64 shall apply mutatis mutandis, except Article 64(1)(a). The competent institution may extend the period referred to in the first sentence of Article 64(1)(c) up to the end of the period of entitlement to benefits.
+
+4. A wholly unemployed person referred to in this Article may in addition to making themselves available to the employment services of the competent Member State also make themselves available to the employment services of the other Member State.
+
+5. Paragraphs 2 to 4 of this Article shall not apply to a person who is partially or intermittently unemployed."
+
+23.
+
+After Article 68a, the following is inserted:
+
+"
+
+Article 68b
+
+Special provisions for family benefits in cash intended to replace income during periods of child-raising
+
+1. Family benefits in cash which are intended to replace income during periods of child-raising and which are listed in Part 1 of Annex XIII shall be awarded solely to the person subject to the legislation of the competent Member State and there shall be no derived right for his or her family members to such benefits. Article 68a of this Regulation shall not apply to such benefits nor shall the competent institution be required to take into account a claim submitted by the other parent, a person treated as a parent or institution acting as guardian of the child or children pursuant to Article 60(1) of the Implementing Regulation.
+
+2. By way of derogation from Article 68(2), in cases of overlapping entitlements under conflicting legislation or legislations, a Member State may award a family benefit referred to in paragraph 1 in full to a beneficiary regardless of the amount provided for by the first legislation. Member States that elect to apply such a derogation shall be listed in Part 2 of Annex XIII by reference to the family benefit to which the derogation applies.".
+
+24.
+
+After Article 75, the following Article 75a is inserted in "Title V MISCELLANEOUS PROVISIONS":
+
+“
+
+Article 75a
+
+Obligation of competent authorities
+
+1. The competent authorities shall ensure that their institutions are aware of and apply all provisions, legislative or otherwise, including the decisions of the Administrative Commission, in the areas covered by and within the terms of this Regulation and the implementing Regulation.
+
+2. In order to ensure the correct determination of the applicable legislation, the competent authorities shall promote the cooperation between institutions and labour inspectorates in their Member States.”.
+
+25.
+
+After Article 76, the following Article 76a is inserted:
+
+"Article 76a
+
+Power to adopt implementing acts
+
+1. The Commission shall be empowered to adopt implementing acts specifying the procedure to be followed in order to ensure uniform conditions for the application of Articles 12 and 13 of this Regulation. Those acts shall establish a standard procedure including time limits for
+
+–
+
+the issuance, the format and the contents of a portable document certifying the social security legislation which applies to the holder,
+
+–
+
+the determination of situations in which the document shall be issued,
+
+–
+
+the elements to verified before the document can be issued,
+
+–
+
+the withdrawal of the document when its accuracy and validity is contested by the competent institution of the Member State of employment.
+
+2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 5 of Regulation (EU) No 182/2011
+
+.
+
+3. The Commission shall be assisted by the Administrative Commission, which shall be a committee within the meaning of Regulation (EU) No 182/2011."
+
+26.
+
+Article 87b is inserted as follows:
+
+“
+
+Article 87b
+
+Transitional provision for application of Regulation (EU) xxxx
+
+1. No rights shall be acquired pursuant to Regulation (EU) xxxx for the period before its date of application.
+
+2. Any period of insurance and, where appropriate, any period of employment and self-employment or residence completed under the legislation of a Member State prior to [the date of application of Regulation (EU) xxxx] in the Member State concerned shall be taken into consideration for the determination of rights acquired under this Regulation.
+
+3. Subject to paragraph 1, a right shall be acquired under Regulation (EU) xxxx even if it relates to a contingency arising before its date of application in the Member State concerned.
+
+4. Articles 61, 64 and 65 of this Regulation in force before [the entry into application of the Regulation (EU) xxxx] shall continue to apply to unemployment benefits granted to persons whose unemployment started before that date.".
+
+27.
+
+Article 88 shall be replaced by the following:
+
+"
+
+Article 88
+
+Delegating the power to update the Annexes
+
+The European Commission is empowered to adopt delegated acts in accordance with Article 88a to periodically amend the Annexes to this Regulation and the implementing Regulation following a request from the Administrative Commission.
+
+Article 88a
+
+Exercise of the delegation
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article
+
+2. The delegation of power referred to in Article 88 shall be conferred on the European Commission for an indeterminate period of time from the [the date of entry into force of the Regulation (EU) xxxx].
+
+3. The delegation of the power referred to in Article 88 may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force
+
+4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement on Better Law-Making of 13 April 2016
+
+5. As soon as it adopts a delegated act, the European Commission shall notify it to the European Parliament and to the Council simultaneously.
+
+6. A delegated act adopted pursuant to Article 88 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiring of that period, the European Parliament and the Council have both informed the European Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.".
+
+28.
+
+Annexes I, II, III, IV, X and XI are amended in accordance with the Annex to this Regulation.
+
+29.
+
+Annexes XII and XIII are inserted in accordance with the Annex to this Regulation.
+
+Article 2
+
+Regulation (EC) No 987/2009 is amended as follows:
+
+1.
+
+The following recital is inserted after recital (18):
+
+"(18a) Certain specific rules and procedures are required for the reimbursement of the cost of benefits incurred by a Member state of residence, where the persons concerned are insured in a different Member State. Member States that need to be reimbursed on the basis of fixed expenditure should notify the annual average costs per persons within a given deadline to allow the reimbursement as promptly as possible.
+
+If a Member State is unable to notify within the deadline the annual average cost per person in each age group for a reference year, it is necessary to provide an alternative that the Member State may submit claims for that year based on the annual average costs previously published in the Official Journal. The reimbursement of the expenditure on benefits in kind on the basis of fixed amounts should be as close as possible to the actual expenditure; therefore a derogation from the notification obligation should be subject to the approval by the Administrative Commission and should not be granted in a consecutive year.".
+
+2.
+
+Recital 19 is replaced with the following:
+
+"(19) Procedures between institutions for mutual assistance in recovery of social security claims should be strengthened in order to ensure more effective recovery and smooth functioning of social security schemes. Effective recovery is also a means of preventing and tackling abuses and fraud and a way of ensuring the sustainability of social security schemes. This involves the adoption of new procedures, taking as a basis a number of existing provisions in Council Directive 2010/24/EU concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures
+
+, in particular through the adoption of a uniform instrument for enforcement and standard procedures for requesting mutual assistance and notification of instruments and measures relating to the recovery of a social security claim."
+
+3.
+
+The following recitals are inserted after recital (24):
+
+"
+
+(25)
+
+The Administrative Commission adopted Decision No. H5
+
+of 18 March 2010
+
+concerning cooperation on combating fraud and error within the framework of Council Regulation (EC) No 883/2004 and Regulation (EC) No 987/2009 of the European Parliament and of the Council on the coordination of social security systems
+
+,
+
+which underlines that action to combat fraud and error is part of the proper implementation of
+
+Regulation (EC) No 883/2004 and this Regulation
+
+. It is, therefore, in the interest of legal certainty that this Regulation contains a clear legal ground permitting competent institutions to exchange personal data with relevant authorities in the Member State of stay or residence relating to persons whose rights and obligations under
+
+Regulation (EC) No 883/2004 and this Regulation
+
+have already been established, in order to identify fraud and error as part of the ongoing proper implementation of these Regulations. It is also necessary to specify the circumstances in which personal data may be processed for a purpose other than social security including to monitor compliance with legal obligations at Union or national level in the fields of labour, health and safety, immigration and taxation law.
+
+(26) In order to protect the rights of the persons concerned Member States should ensure that any data requests and responses are necessary and proportionate for the proper implementation of
+
+Regulation (EC) No 883/2004 and this Regulation
+
+, in accordance with European Data Protection legislation. There should be no automatic removal of benefit entitlement resulting from the data exchange, and any decision taken on the basis of the data exchange should respect the fundamental rights and freedoms of the individual concerned in that it is based on sufficient evidence and is subject to a fair appeal procedure.".
+
+4.
+
+In Article 1(2), the following point is inserted after paragraph (e):
+
+“(ea) ‘fraud’ means any intentional act or omission to act, in order to obtain or receive social security benefits or to avoid to pay social security contributions, contrary to the law of a Member State;".
+
+5.
+
+In Article 2, the following paragraphs 5 to 7 are added after paragraph 4:
+
+"5. When a person's rights or obligations to which the basic and implementing Regulations apply have been established or determined, the competent institution may request the institution in the Member State of residence or stay to provide personal data about that person. The request and any response shall concern information which enables the competent Member State to identify any inaccuracy in the facts on which a document or a decision determining the rights and obligations of a person under the basic or implementing Regulation is based. The request can also be made where there is no existing doubt about the validity or accuracy of the information contained in the document or on which the decision is based in a particular case. The request for information and any response must be necessary and proportionate.
+
+6. The Administrative Commission shall draw up a detailed list of the types of data requests and responses which can be made under paragraph 5 and the European Commission shall give such list the necessary publicity. Only data requests and responses which are listed shall be permitted.
+
+7. The request and any response shall comply with the requirements of the Regulation of the European Parliament and of the Council on the protection of individuals with regard the processing of personal data and on the free movement of such data (General Data Protection Regulation),
+
+as also provided for by Article 77 of the basic Regulation.".
+
+6.
+
+In Article 3, paragraph 3 is replaced with the following:
+
+"3.When collecting, transmitting or processing personal data pursuant to their legislation for the purposes of implementing the basic Regulation, Member States shall ensure that the persons concerned are able to exercise fully their rights regarding personal data protection in accordance with Union provisions on the protection of individuals with regard to the processing of personal data and the free movement of such data in particular concerning the rights to have access, to rectify, to object to the processing of such personal data and are fully informed of the safeguards concerning automated individual decisions. A data subject shall be able to exercise the right to access his or her personal data processed under this Regulation not only by addressing the authority that controls the data but also through the competent institution where he or she is resident.".
+
+7.
+
+In Article 5, paragraphs 1 and 2
+
+are replaced with the following:
+
+"1. Documents issued by the institution of a Member State and showing the position of a person for the purposes of the application of the basic Regulation and of the implementing Regulation, and supporting evidence on the basis of which the documents have been issued, shall be accepted by the institutions of the other Member States for as long as they have not been withdrawn or declared to be invalid by the Member State in which they were issued. Such documents shall only be valid if all sections indicated as compulsory are filled in.
+
+2. Where there is doubt about the validity of a document or the accuracy of the facts on which they are based, the institution of the Member State that receives the document shall ask the issuing institution for the necessary clarification and, where appropriate, the withdrawal of that document.
+
+a)
+
+When receiving such a request, the issuing institution shall reconsider the grounds for issuing the document and, if necessary, withdraw it or rectify it, within 25 working days from the receipt of the request. Upon detection of an irrefutable case of fraud committed by the applicant of the document, the issuing institution shall withdraw or rectify the document immediately and with retroactive effect.
+
+b)
+
+If the issuing institution, having reconsidered the grounds for issuing the document is unable to detect any error it shall forward to the requesting institution all supporting evidence within 25 working days from the receipt of the request. In urgent cases, where the reasons for urgency have been clearly indicated in the request, this shall be done within two working days from the receipt of the request, notwithstanding that the issuing institution may not have completed its deliberations pursuant to subparagraph (a) above.
+
+c)
+
+Where the requesting institution having received the supporting evidence continues to have doubts about the validity of a document or the accuracy of the facts on which the particulars contained therein are based that the information upon which the document was issued is not correct, it may submit evidence to that effect and make a further request for clarification and where appropriate the withdrawal of that document by the issuing institution in accordance within the procedure and timeframes set out above.".
+
+8.
+
+Article 14 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+“1. For the purposes of the application of Article 12(1) of the basic Regulation, a ‘person who pursues an activity as an employed person in a Member State on behalf of an employer which normally carries out its activities there and who is posted
+
+within the meaning of the Directive 96/71/EC
+
+of the European Parliament and of the Council of 16 December 1996 concerning the posting of workers
+
+in the framework of the provision of services
+
+or sent by that employer to another Member State’ shall include a person who is recruited with a view to being posted or sent to another Member State, provided that immediately before the start of his employment, the person concerned is already subject to the legislation of the
+
+sending Member State in accordance with Title II of the basic Regulation.”.
+
+(b) Paragraph 5a is replaced by the following:
+
+"5a. For the purpose of the application of Title II of the basic Regulation, ‘registered office or place of business’ shall refer to the registered office or place of business where the essential decisions of the undertaking are adopted and where the functions of its central administration are carried out, provided the undertaking performs a substantial activity in that Member State. Otherwise, it shall be deemed to be situated in the Member State where the centre of interest of activities of the undertaking determined in accordance with the criteria laid down in paragraphs 9 and 10 is located.".
+
+(c) A new paragraph 12 is inserted after paragraph 11
+
+“12. If a person who resides outside the territory of the Union pursues his activities as an employed or self-employed person in two or more Member States and if this person, by virtue of the national legislation of one of those Member States, is subject to the legislation of that State, the provisions of the basic Regulation and the implementing Regulation on the determination of the applicable legislation shall apply
+
+mutatis mutandis
+
+subject to the proviso that his or her residence shall be deemed to be in the Member State where the registered office or place of business of the undertaking or his or her employer or the centre of interest of his or her activities is located.”.
+
+9.
+
+Article 15(2) is replaced with the following:
+
+“2. Paragraph 1 shall apply
+
+mutatis mutandis
+
+to persons covered by Article 11(3)(d) and Article 11(5) of the basic Regulation."
+
+10.
+
+Paragraphs 1, 2, 3 and 5 of Article 16 are replaced with the following:
+
+"1. A person who pursues activities in two or more Member States or his/her employer shall inform the institution designated by the competent authority of the Member State of residence thereof.
+
+2. The designated institution of the place of residence shall without delay determine the legislation applicable to the person concerned, having regard to Article 13 of the basic Regulation and Article 14 of the implementing Regulation. The institution shall inform the designated institutions of each Member State in which an activity is pursued or in which the employer is situated.
+
+3. If that institution determines that the legislation of another Member State applies, it shall do so provisionally and shall without delay inform the institution of the Member State which it considers to be competent of this provisional decision. The decision shall become definitive within two months after the institution designated by the competent authorities of the Member State concerned has been informed of it, unless the latter institution informs the first institution and the persons concerned that it cannot yet accept the provisional determination or that it takes a different view on this.
+
+5. The competent institution of the Member State whose legislation is determined to be applicable either provisionally or definitively shall without delay inform the person concerned and/or his or her employer. "
+
+11.
+
+The following paragraphs are inserted after Article 19(2):
+
+“3. Whenever an institution is asked to issue the attestation referred to above, it shall carry out a proper assessment of the relevant facts and guarantee that the information on the basis of which the attestation is provided is correct.
+
+4. Where necessary for the exercise of legislative powers at national or Union level, relevant information regarding the social security rights and obligations of the persons concerned shall be exchanged directly between the competent institutions and the labour inspectorates, immigration or tax authorities of the States concerned this may include the processing of personal data for purposes other than the exercise or enforcement of rights and obligations under the basic Regulation and this Regulation in particular to ensure compliance with relevant legal obligations in the fields of labour, health and safety, immigration and taxation law. Further details shall be laid down by decision of the Administrative Commission.
+
+5. Competent authorities shall be obliged to provide specific and adequate information to concerned persons concerning the processing of their personal data pursuant to the Regulation of the European Parliament and of the Council on the protection of individuals with regard the processing of personal data and on the free movement of such data (General Data Protection Regulation),
+
+as also provided for by Article 77 of the basic Regulation and shall adhere to the requirements of Article3(3) of this Regulation.”.
+
+12.
+
+The following Article 20a is inserted after Article 20:
+
+"
+
+Article 20a
+
+Power to adopt implementing acts
+
+1. The Commission shall be empowered to adopt implementing acts specifying the procedure to be followed in order to ensure uniform conditions for the application of Articles 12 and 13 of the basic Regulation. Those acts shall establish a standard procedure including time limits for:
+
+–
+
+the issuance, the format and the contents of a portable document certifying the social security legislation which applies to the holder,
+
+–
+
+the determination of situations in which the document shall be issued,
+
+–
+
+the elements to verified before the document can be issued,
+
+–
+
+the withdrawal of the document when its accuracy and validity is contested by the competent institution of the Member State of employment.
+
+2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 5 of Regulation (EU) No 182/2011
+
+.
+
+3. The Commission shall be assisted by the Administrative Commission, which shall be a committee within the meaning of Regulation (EU) No 182/2011."
+
+13.
+
+In Title III, Chapter 1 the title is replaced by the following:
+
+"Sickness, maternity and equivalent paternity benefits, and long-term care benefits".
+
+14.
+
+At the end of Article 23, the following sentence is added:
+
+"This provision applies
+
+mutatis mutandis
+
+to long-term care benefits."
+
+15.
+
+In Article 24(3), the term "and 26" is replaced by ", 26 and 35a".
+
+16.
+
+In Article 28(1), after the term "pursuant to Article 21(1) of the basic Regulation", the following term is added "in accordance with Article 35a thereof".
+
+17.
+
+Article 31 is amended as follows:
+
+(c)
+
+The title is replaced by the following title:
+
+"Application of Article 35b of the basic Regulation";
+
+(d)
+
+In paragraph 1, the term "Article 34" is replaced by "Article 35b";
+
+(e)
+
+In paragraph (2), the term "Article 34(2)" is replaced by "Article 35a (2)".
+
+18.
+
+In Article 32, the following paragraph 4 is added after paragraph 3:
+
+"4. This Article applies
+
+mutatis mutandis
+
+to long-term care benefits."
+
+19.
+
+The second subparagraph of Article 43(3) is deleted.
+
+20.
+
+In the third subparagraph of Article 55(4), the words “At the request of the competent institution,” are deleted.
+
+21.
+
+In paragraph 7 of Article 55, the term “Article 65a(3)” is replaced by “Article 64a and Article 65a(3)”
+
+22.
+
+The following Article 55a is inserted after Article 55:
+
+“
+
+Article 55a
+
+Obligation of employment service of the Member State of most recent insurance
+
+In the situation referred to in Article 61(2) of the basic Regulation, the institution of the Member State of most recent insurance shall immediately send a document to the competent institution of the Member State of previous insurance containing: the date on which the person concerned had become unemployed, the period of insurance, employment or self-employment completed under its legislation, the relevant circumstances of the unemployment likely to affect entitlement to benefits, the date of registration as unemployed person and their address.”.
+
+23.
+
+Article 56 is amended as follows:
+
+(a)
+
+In paragraph 1, the term " Article 65(2)” is replaced by "Article 65(4)";
+
+(b)
+
+Paragraph 3 is deleted.
+
+24.
+
+Chapter 1 of Title IV is renamed as follows:
+
+"
+
+CHAPTER I
+
+Reimbursement of the cost of benefits in application of Article 35, 35c and Article 41 of the basic Regulation"
+
+25.
+
+In Article 64 paragraph 1 the first indent is replaced by the following:
+
+" - the index (i = 1, 2, 3 and 4) represents the four age groups used for calculating the fixed amounts:
+
+i = 1: persons aged under 65,
+
+i = 2: persons aged from 65 to 74,
+
+i = 3: persons aged from 75 to 84,
+
+i = 4: persons aged 85 and over,"
+
+26.
+
+Article 65 is replaced with the following:
+
+"
+
+Article 65
+
+Notification of annual average costs
+
+1. The annual average cost per person in each age group for a specific year shall be notified to the Audit Board at the latest by the end of the second year following the year in question.
+
+2. The annual average costs notified in accordance with paragraph 1 shall be published each year in the Official Journal of the European Union after approval by the Administrative Commission.
+
+3. Where a Member State is unable to notify the average costs for a specific year by the deadline referred to in paragraph 1, it shall by the same deadline ask permission from the Administrative Commission and the Audit Board to use the annual average costs for that Member State as published in the Official Journal for the year preceding the specific year in which notification is outstanding. When seeking such permission, the Member State is required to explain the reasons why it is unable to notify the annual average costs for the year in question. If the Administrative Commission, having considered the opinion of the Audit Board, approves the request of the Member State, the aforementioned annual average costs shall be republished in the Official Journal of the European Union.
+
+4. The derogation in paragraph 3 shall not be granted for consecutive years.".
+
+27.
+
+Article 70 is deleted.
+
+28.
+
+Article 73 is replaced with the following:
+
+“
+
+Article 73
+
+Settlement of benefits and contributions unduly provided or paid in case of provisional award of benefits or retroactive change of the applicable legislation
+
+1. In case of a retroactive change of the applicable legislation including situations referred to in Article 6(4) and (5) of the implementing Regulation, at the latest three months after the applicable legislation has been determined or the institution responsible for paying the benefits has been identified, the institution which unduly paid cash benefits shall draw up a statement of the amount paid and shall send it to the institution identified as being competent for the purpose of their reimbursement.
+
+The same applies with respect to benefits in kind, which shall be reimbursed by the institution identified as being competent in accordance with Title IV of the implementing Regulation.
+
+2. The institution identified as being competent for paying the cash benefits shall deduct the amount it has to reimburse to the institution which was not competent or only provisionally competent from the arrears of the corresponding benefits it owes to the person concerned and shall without delay transfer the amount deducted to the latter institution.
+
+If the amount of unduly paid benefits exceeds the amount of arrears payable by the institution identified as being competent, or if arrears do not exist, the institution identified as being competent shall deduct this amount from ongoing payments subject to the conditions and limits applying to this kind of offsetting procedure under the legislation it applies, and without delay transfer the amount deducted to the institution which had unduly paid the cash benefits for the purpose of their reimbursement.
+
+3. The institution which has unduly received contributions from a legal and/or natural person shall not reimburse the amounts in question to the person who paid them until it has ascertained from the institution identified as being competent the sums due to it by the person concerned.
+
+Upon request of the institution identified as being competent, which shall be made at the latest three months after the applicable legislation has been determined, the institution that has unduly received contributions shall transfer them to the institution identified as being competent for that period for the purpose of settling the situation concerning the contributions owed by the legal and/or natural person to it. The contributions transferred shall be retroactively deemed as having been paid to the institution identified as being competent.
+
+If the amount of unduly paid contributions exceeds the amount the legal and/or natural person owes to the institution identified as being competent, the institution which unduly received contributions shall reimburse the amount in excess to the legal and/or natural person concerned.
+
+4. The existence of time limits under national legislation shall not be a valid ground for the refusal of the settlement of claims between institutions under this Article.
+
+5. This Article shall not apply to claims related to periods which are older than 60 months at the date when a procedure in accordance with Articles 5(2) or 6(3) of this Regulation commenced.”
+
+29.
+
+After Article 75(3) the following paragraph 4 is added:
+
+"4. Information exchanged in conformity with this Section may be used for the purpose of assessment and enforcement including the application of precautionary measures with regard to a claim, and in addition may be used for the purpose of assessment and enforcement of taxes and duties covered by Article 2 of Directive 2010/24/EU concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures.
+
+Where a refund of social security contributions relates to a person who resides or stays in another Member State, the Member State from which the refund is to be made may inform the Member State of residence or stay of the upcoming refund, without prior request. "
+
+30.
+
+In Article 76 the following paragraph 3a is inserted after paragraph 3:
+
+"3a. Paragraph 3 shall in no case be construed as permitting a requested party of a Member State to decline to supply information solely because this information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person."
+
+31.
+
+Article 77 is modified as follows
+
+a) Paragraph 2 is replaced with the following
+
+"2. The request for notification shall be accompanied by a standard form containing at least the following information:
+
+(a) name, address and other data relevant to the identification of the addressee;
+
+(b) the purpose of the notification and the period within which notification should be effected;
+
+(c) a description of the attached document and the nature and amount of the claim concerned;
+
+(d) name, address and other contact details regarding:
+
+(i) the office responsible with regard to the attached document, and, if different;
+
+(ii) the office where further information can be obtained concerning the notified document or concerning the possibilities to contest the payment obligation."
+
+b) The following paragraphs 4, 5 and 6 are inserted after paragraph 3
+
+"4. The applicant party shall make a request for notification pursuant to this Article only when it is unable to notify in accordance with the rules governing the notification of the document concerned in its Member State, or when such notification would give rise to disproportionate difficulties.
+
+5. The requested party shall ensure that notification in the Member State of the requested party is effected in accordance with the national laws, regulations and administrative practices in force in the Member State of the requested party.
+
+6. Paragraph 5 shall be without prejudice to any other form of notification made by an authority of the Member State of the applicant party in accordance with the rules in force in that Member State.
+
+An authority in the Member State of the applicant party may notify any document directly by registered mail or electronically to a person within the territory of another Member State."
+
+32.
+
+Article 78 is modified as follows:
+
+a) Paragraph 1 is replaced with the following:
+
+"1. At the request of the applicant party, the requested party shall recover claims which are the subject of an instrument permitting enforcement in the Member State of the applicant party. Any request for recovery shall be accompanied by a uniform instrument permitting enforcement by the Member State of the requested party."
+
+b) In paragraph 2, point b is deleted.
+
+c) Paragraph 3 is replaced with the following:
+
+"3. Before the applicant party makes a request for recovery, appropriate recovery procedures available in the Member State of the applicant party shall be applied, except in the following situations
+
+a) where it is obvious that there are no assets for recovery in the Member State of the applicant party or that such procedures will not result in the payment in full of the claim, and the applicant party has specific information indicating that the person concerned has assets in the Member State of the requested party
+
+b) where recourse to such procedures in the Member State of the applicant party would give rise to disproportionate difficulty.".
+
+d) The following paragraph 6 is inserted:
+
+"6. The request for recovery of a claim may be accompanied by other documents relating to the claim issued in the Member State of the applicant party."
+
+33.
+
+Article 79 is replaced with the following
+
+"
+
+Article 79
+
+Instrument permitting enforcement of the recovery
+
+1. The uniform instrument permitting enforcement in the Member State of the requested party shall reflect the substantial contents of the initial instrument permitting enforcement, and constitute the sole basis for the recovery and precautionary measures taken in the Member State of the requested party. It shall not be subject to any act of recognition, supplementing or replacement in that Member State.
+
+2. The uniform instrument permitting enforcement shall include:
+
+(a) the name, address and any other relevant information relating to the identification of the natural or legal person concerned and/or to the third party holding his or her assets;
+
+(b) the name, address and any other relevant information regarding the office responsible for the assessment of the claim, and, if different, the office where further information can be obtained concerning the claim or the possibilities for contesting the payment obligations;
+
+(c) information relevant to the identification of the instrument permitting its enforcement, issued in the Member State of the applicant party;
+
+(d) a description of the claim, including its nature the period covered by the claim, any dates of relevance to the enforcement process and the amount of the claim, including the principal, the interest, fines, administrative penalties and all other charges and costs due indicated in the currencies of the Member States of the applicant and requested parties;
+
+(e) the date of notification of the instrument to the addressee by the applicant party and/or by the requested party;
+
+(f) the date from which and the period during which enforcement is possible under the laws in force in the Member State of the applicant party;
+
+(g) any other relevant information.".
+
+34.
+
+Article 80 is modified as follows
+
+a) In paragraph 1 the second sentence is replaced as follows:
+
+"Subject to Article 85(1a), the entire amount of the claim that is recovered by the requested party shall be remitted by the requested party to the applicant party."
+
+b) in paragraph 2 the second subparagraph is replaced with the following:
+
+"From the date on which the recovery request is received, the requested party shall charge interest for late payment in accordance with the laws, regulations and administrative provisions in force in the Member State of the requested party."
+
+35.
+
+Article 81 is modified as follows:
+
+a) Paragraph 1 is replaced as follows:
+
+"1. If, in the course of the recovery procedure, the claim, the initial instrument permitting enforcement in the Member State of the applicant party or the uniform instrument permitting enforcement in the Member State of the requested party, the validity of a notification made by an authority in the Member States of the applicant party are contested by an interested party, the action shall be brought by this party before the appropriate authorities of the Member State of the applicant party, in accordance with the laws in force in that Member State. The applicant party shall without delay notify the requested party of this action. The interested party may also inform the requested party of the action."
+
+b) Paragraph 3 is replaced as follows:
+
+"Where the contestation concerns enforcement measures taken in the Member State of the requested party, or the validity of the notification made by an authority of the requested party, the action shall be brought before the appropriate authority of that Member State in accordance with its laws and regulations."
+
+c) Paragraph 4 is replaced with the following:
+
+"4.The applicant party shall inform the requested party immediately of any subsequent amendment to its request for recovery or of the withdrawal of its request, indicating the reasons for amendment or withdrawal."
+
+d) The following paragraph 5 is added:
+
+"5. If the amendment of the request is caused by a decision of the appropriate authority referred to in Article 81 (1), the applicant party shall communicate this decision together with a revised uniform instrument permitting enforcement in the Member State of the requested party. The requested party shall then proceed with further recovery measures on the basis of the revised instrument.
+
+Recovery or precautionary measures already taken on the basis of the original uniform instrument permitting enforcement in the Member State of the requested party may be continued on the basis of the revised instrument, unless the amendment of the request is due to invalidity of the initial instrument permitting enforcement in the Member State of the applicant party or the original uniform instrument permitting enforcement in the Member State of the requested party.
+
+Articles 79 and 81 shall apply in relation to the revised instrument."
+
+36.
+
+Article 82(1)(b) is replaced with the following:
+
+"(b) to grant the assistance provided for in Articles 76 to 81 of the implementing Regulation, if the initial request under Articles 76 to 78 of the implementing Regulation applies to claims more than five years old, dating from the due date of the claim in the Member State of the applicant party to the date of the initial request for assistance. However, if the claim or the initial instrument permitting enforcement in the Member State of the applicant party is contested, the five year period shall be deemed to begin from the moment that it is established that the claim or the instrument permitting recovery may no longer be contested.
+
+Moreover, in cases where a postponement of the payment or instalment plan is granted by the authorities of the Member State of the applicant party, the five-year period shall be deemed to begin from the moment when the entire payment period has come to its end.
+
+However, in those cases the requested party shall not be obliged to grant the assistance in respect of claims which are more than 10 years old, dating from the due date of the claim in the Member State of the applicant party."
+
+37.
+
+Article 84 is replaced with the following:
+
+"
+
+Article 84
+
+Precautionary measures
+
+1. Upon reasoned request by the applicant party, the requested party shall take precautionary measures, if allowed by its national law and in accordance with its administrative practice, to ensure recovery where a claim or the instrument permitting enforcement in the Member State of the applicant party is contested at the time when the request is made, or where the claim is not yet the subject of an instrument permitting enforcement in the Member State of the applicant party, in so far as precautionary measures are also possible, in a similar situation, under the national law and administrative practices of the Member State of the applicant party.
+
+The document drawn up for permitting precautionary measures in the Member State of the applicant party and relating to the claim for which mutual assistance is requested, if any, shall be attached to the request for precautionary measures in the Member State of the requested party. This document shall not be subject to any act of recognition, supplementing or replacement in the Member State of the requested party.
+
+2. The request for precautionary measures may be accompanied by other documents relating to the claim, issued in the Member State of applicant party.
+
+3. For the purposes of implementing the first paragraph, the provisions and procedures laid down in Articles 78, 79, 81 and 82 of the implementing Regulation shall apply mutatis mutandis.".
+
+38.
+
+In Article 85, the following paragraph 1a is added after paragraph 1:
+
+"1a Where the costs linked to recovery cannot be recovered from the debtor in addition to the amount of the claim, they shall either be deducted from any amount which could be recovered or, where this is not possible, be reimbursed by the applicant party. The applicant and requested parties may agree on a reimbursement arrangement specific to the case, or a waiver of reimbursement of such costs."
+
+39.
+
+After Article 85  the Article 85a
+
+is introduced as follows:
+
+"
+
+Article 85a
+
+Presence in administrative offices and participation in administrative enquiries
+
+1. By agreement between the applicant party and the requested party and in accordance with the arrangements laid down by the requested party, officials authorised by the applicant party may, with a view to promoting mutual assistance provided for in this Section:
+
+(a) be present in the offices where the administrative authorities of the Member State of the requested party carry out their duties;
+
+(b) be present during administrative enquiries carried out in the territory of the Member State of the requested party;
+
+(c) assist the competent officials of the Member State of the requested party during court proceedings in that Member State.
+
+2. In so far as it is permitted under the legislation in force in the Member State of the requested party, the agreement referred to in paragraph 1(b) may provide that officials of the Member State of applicant party may interview individuals and examine records.
+
+3. Officials authorised by the applicant party who make use of the possibilities offered by paragraphs 1 and 2 shall at all times be able to produce written authority stating their identity and their official capacity.".
+
+40.
+
+Article 87 is amended as follows
+
+a) In paragraph 4 the reference to "Article 34" is deleted and replaced with "Article 1(vb)",
+
+b)At the end of paragraph 6, the following sentence is added:
+
+"However, if the institution which was requested to carry out the check also uses the findings for the granting of benefits to the person concerned under the legislation it applies, it shall not claim the expenses referred to in the previous sentence.".
+
+41.
+
+Article 89(3) is deleted.
+
+42.
+
+Article 92 is deleted.
+
+43.
+
+In Article 93, the term "Article 87" is replaced by "Articles 87 to 87b".
+
+44.
+
+Article 94a is inserted as follows:
+
+“
+
+Article 94a
+
+Transitional provision for unemployment benefits
+
+Until the entry into force of Regulation (EU) XXX, Articles 56 and 70 of the version of the implementing Regulation in force before [the date of entry into force of the Regulation (EU) xxxx] shall continue to apply to unemployment benefits granted to persons who became unemployed before that date.”.
+
+45.
+
+Article 96 is amended as follows:
+
+(a) The second sentence of paragraph 1 is replaced as follows:
+
+"However, with the exception of Article 107, Regulation (EEC) No 574/72 shall remain in force and continue to have legal effect for the purposes of:"
+
+(b) A new paragraph 1a is added after paragraph 1
+
+"1a. For the purposes of the legislation referred to in paragraph 1, the rules on currency conversion shall be governed by Article 90 of this Regulation.".
+
+Article 3
+
+This Regulation shall enter into force on the first day following that of its publication in the
+
+Official Journal of the European Union
+
+.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Strasbourg,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+EUROPEAN COMMISSION
+
+Strasbourg, 13.12.2016
+
+COM(2016) 815 final
+
+ANNEX
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EC) No 883/2004 on the coordination of social security systems and regulation (EC) No 987/2009 laying down the procedure for implementing Regulation (EC) No 883/2004
+
+(Text with relevance for the EEA and Switzerland)
+
+{SWD(2016) 460 final}
+
+{SWD(2016) 461 final}
+
+1.
+
+Annex I is amended as follows:
+
+(a) Part I is amended as follows:
+
+I.
+
+the section “SLOVAKIA” is replaced by the following:
+
+“SLOVAKIA
+
+The substitute child maintenance benefit (payment of child maintenance) under the Act No. 452/2004 Coll. of substitute child maintenance benefit as amended and supplemented in the Family Act No. 36/2005 Coll. as amended and supplemented by later regulations”;
+
+II.
+
+The section “SWEDEN” is replaced by the following:
+
+“SWEDEN
+
+Maintenance support (Chapters 17-19 of the Social Insurance Code)”.
+
+(b)
+
+Part II is amended as follows:
+
+I.
+
+the section “HUNGARY” is deleted;
+
+II.
+
+the section “ROMANIA” is deleted;
+
+III.
+
+a new section is added after the section "FINLAND" with the following content:
+
+"SWEDEN
+
+Adoption allowance (Chapter 21 of the Social Insurance Code (2001:110))"
+
+2.
+
+In Annex II, the section "SPAIN-PORTUGAL" is deleted.
+
+3.
+
+In Annex III, the sections "ESTONIA", "SPAIN", "CROATIA", "ITALY", "LITHUANIA", "HUNGARY", "NETHERLANDS", "FINLAND" and "SWEDEN" are deleted.
+
+4.
+
+Annex IV is amended as follows:
+
+(a)
+
+the section “ESTONIA” is inserted after “GERMANY";
+
+(b)
+
+the section “LITHUANIA” is inserted after "CYPRUS”;
+
+(c)
+
+the section “MALTA” is inserted after “HUNGARY”;
+
+(d)
+
+the section "PORTUGAL" is inserted after "POLAND";
+
+(e)
+
+the section "ROMANIA" is inserted after "PORTUGAL";
+
+(f)
+
+the section “SLOVAKIA” is inserted after “SLOVENIA”
+
+(g)
+
+the section "FINLAND" is inserted after "SLOVAKIA";
+
+(h)
+
+the section "UNITED KINGDOM" is inserted after "SWEDEN".
+
+5.
+
+Annex X is amended as follows:
+
+(a) the section "CZECH REPUBLIC" is deleted;
+
+(b) in the section “GERMANY”, paragraph (b) is replaced by the following:
+
+“(b) Benefits to cover subsistence costs under the basic provision for jobseekers in accordance with Book II of the Social Code
+
+).";
+
+(c) in the section "ESTONIA":
+
+I.
+
+paragraph (a) is deleted;
+
+II.
+
+in paragraph (b), "." is replaced by ";" and a new paragraph is added:
+
+“(c) Funeral Benefit (State Funeral Benefits Act of 08 November 2000).";
+
+(d) in the section “HUNGARY”, in paragraph (b) ";" is replaced by "." and paragraph (c) is deleted;
+
+(e) the following section "ROMANIA" is inserted after the section "PORTGUAL":
+
+"ROMANIA
+
+Social allowance for pensioners (Government Emergency Ordinance No. 6/2009 establishing minimum guaranteed social pension, endorsed by Law No. 196/2009).";
+
+(f) the section "SLOVENIA" is deleted;
+
+(g) the section “SWEDEN” is replaced by:
+
+"SWEDEN
+
+(a) Housing supplements for persons receiving a pension (Chapters 99-103 of the Social Insurance Code);
+
+(b) Maintenance support for the elderly (Chapter 74 of the Social Insurance Code).”;
+
+(h) in the section "UNITED KINGDOM", "." at the end of paragraph (e) is replaced by ";" and the following paragraph is added:
+
+"(f) Personal Independence Payment mobility component (in Great Britain legislation, Part 4 of The Welfare Reform Act 2012 and in Northern Ireland Legislation, Part 5 of the Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1)).".
+
+6.
+
+Annex XI is amended as follows:
+
+(a)
+
+In the section "CZECH REPUBLIC", the current paragraph is numbered paragraph "1." and a new paragraph is added after it with the following content:
+
+"2. Notwithstanding Article 5 and 6 of this Regulation, for the purposes of granting the supplementary benefit in respect of insurance periods completed under the legislation of the former Czech and Slovak Federal Republic, solely the insurance periods completed under the Czech legislation can be taken into account in order to meet the condition of at least one year of Czech pension insurance within the defined period after the date of dissolution of the federation (§ 106a, paragraph 1, letter b) of Act No. 155/1995 Col., on pension insurance).";
+
+(b)
+
+In the section "GERMANY", paragraph 3 is replaced by the following:
+
+"3.
+
+For the purpose of granting cash benefits under §47(1) of SGB V, §47(1) of SGB VII and § 24i of SGB V to insured persons who live in another Member State, German insurance schemes calculate net pay, which is used to assess benefits, as if the insured person lived in Germany, unless the insured person requests an assessment on the basis of the net pay which he actually receives. For the purpose of granting parental leave benefit under the Federal Parental Allowance and Parental Leave Act (BEEG) to persons living in another Member State, the competent institution for German parental leave benefit shall calculate the average monthly earned income under §§2c to 2f of the Act, which is used to assess benefits, as if the person lived in Germany. In doing so, if tax bracket IV is applicable under the second sentence of §2e(3) of BEEG because the beneficiary was not classified in any German tax bracket during the assessment period, he may request that the parental leave benefit be assessed on the basis of his actual net income taxed in the Member State of residence.";
+
+(c)
+
+In the section "ESTONIA", the current paragraph is numbered paragraph 1 and a new paragraph (2) is inserted:
+
+"2. For the purpose of calculating
+
+pro rata
+
+work ability allowance in accordance with Article 52(1)(b) of this Regulation, the periods of residence completed in Estonia will be taken into account starting from the age of 16 until the contingency occurred.”;
+
+(d)
+
+In the section "NETHERLANDS", the following paragraph is inserted after paragraph 1(f):
+
+"(fa).
+
+Any person as referred to in Article 69(1) of the Zorgverzekeringswet (Health Care Insurance Act) who, on the last day of the month preceding that in which he/she reaches the age of 65, is receiving a pension or a benefit treated, on the basis of point (f) of this section, as a pension payable under Dutch legislation, shall be regarded as a pension claimant for the purposes of Article 22 of this Regulation until he/she reaches the pension age referred to in Article 7a of the Algemene Ouderdomswet (General Old Age Pensions Act).";
+
+(e)
+
+The following section "SLOVAKIA" is inserted after the section "AUSTRIA":
+
+"SLOVAKIA
+
+Notwithstanding Article 5 and 6 of this Regulation, for the purposes of granting the supplementary benefit in respect of insurance periods completed under the legislation of the former Czech and Slovak Federal Republic, solely the insurance periods completed under the Slovak legislation can be taken into account in order to meet the condition of at least one year of Slovak pension insurance within the defined period after the date of dissolution of the federation (
+
+§ 69b, paragraph 1, letter b) of Act No. 461/2003 Col., on Social Insurance
+
+).";
+
+(f)
+
+In the section "SWEDEN":
+
+I.
+
+paragraphs 1 and 2 are deleted;
+
+II.
+
+in paragraph 3, "(Act 2000:798)" is replaced by:
+
+"(Chapter 6 of the Act on the Implementation of the Social Insurance Code concerning Chapters 53–74)";
+
+III.
+
+in paragraph 4:
+
+–
+
+in the heading, the reference to "Chapter 8 of the Lag (1996:381) om allmän forsäkring (the National Insurance Act)" is replaced by "Chapter 34 of the Social Insurance Code";
+
+–
+
+in paragraph (b), the reference to "Chapter 8, paragraphs 2 and 8 of the abovementioned Act", is replaced by "Chapter 34, Sections 3, 10 and 11 of the above-mentioned Act" and the reference to "the Act on income-based old-age pension (1998:674)" is replaced by "Chapter 59 of the Social Insurance Code";
+
+IV.
+
+in paragraph 5 (a), the reference to "(Act 2000:461)" is replaced by "(Chapter 82 of the Social Insurance Code)".
+
+(g)
+
+In the section "UNITED KINGDOM":
+
+I.
+
+paragraphs 1 and 2 are replaced by the following:
+
+"1. Where, in accordance with United Kingdom legislation, a person who reached pensionable age before 6 April 2016 may be entitled to a retirement pension if:
+
+(a) the contributions of a former spouse or civil partner are taken into account as if they were that person’s own contributions; or
+
+(b) the relevant contribution conditions are satisfied by that person’s spouse, civil partner, former spouse or former civil partner, then provided, in each case, that the spouse or civil partner or former spouse or civil partner is or had been exercising an activity as an employed or self- employed person, and had been subject to the legislation of two or more Member States, the provisions of Chapter 5 of Title III of this Regulation shall apply in order to determine entitlement under United Kingdom legislation. In this case, references in the said Chapter 5 to ‘periods of insurance’ shall be construed as references to periods of insurance completed by:
+
+(i) a spouse, civil partner, former spouse or former civil partner where a claim is made by:
+
+–
+
+a married person or civil partner, or
+
+–
+
+a person whose marriage or civil partnership has terminated otherwise than by the death of the spouse or civil partner; or
+
+(ii) a former spouse or civil partner, where a claim is made by:
+
+–
+
+a widow, widower or civil partner who immediately before pensionable age was not entitled to widowed parent’s allowance, or
+
+–
+
+a widow whose husband died before 9 April 2001 who immediately before pensionable age was not entitled to widowed mother’s allowance, widowed parent’s allowance or widow’s pension, or who is only entitled to an age-related widow’s pension calculated pursuant to Article 52(1)(b) of this Regulation, and for this purpose ‘age-related widow's pension’ means a widow’s pension payable at a reduced rate in accordance with section 39(4) of the Social Security Contributions and Benefits Act 1992.
+
+This point does not apply to persons who reach pensionable age on or after 6 April 2016.
+
+2.
+
+For the purposes of applying Article 6 of this Regulation to the provisions governing entitlement to attendance allowance, carer’s allowance, and disability living allowance and personal independence payment, a period of employment, self-employment or residence completed in the territory of a Member State other than the United Kingdom shall be taken into account in so far as is necessary to satisfy conditions as to required periods of presence in the United Kingdom, prior to the day on which entitlement to the benefit in question first arises."
+
+II.
+
+paragraph 4 is replaced by:
+
+"4.
+
+Where Article 46 of this Regulation applies, if the person concerned suffers incapacity for work leading to invalidity while subject to the legislation of another Member State, the United Kingdom shall, for the purposes of Section 30A (5) of the Social Security Contributions and Benefits Act 1992, Part 1 of the Welfare Reform Act 2007 or the corresponding Northern Ireland provisions, take account of any periods during which the person concerned has received, in respect of that incapacity for work:
+
+(i)
+
+cash sickness benefits or wages or salary in lieu thereof, or
+
+(ii)
+
+benefits within the meaning of Chapters 4 and 5 of Title III of this Regulation granted in respect of the invalidity which followed that incapacity for work, under the legislation of the other Member State,
+
+as though they were periods of, as appropriate, short-term incapacity benefit paid in accordance with Sections 30A (1)-(4) of the Social Security Contributions and Benefits Act 1992, Employment and Support Allowance (Assessment phase) paid in accordance with Part 1 of the Welfare Reform Act 2007 or corresponding Northern Ireland provisions.
+
+In applying this provision, account shall only be taken of periods during which the person would have been incapable of work within the meaning of the United Kingdom legislation.".
+
+7.
+
+After Annex XI, the following Annexes are inserted:
+
+"ANNEX XII
+
+LONG-TERM CARE BENEFITS IN CASH PROVIDED IN DEROGATION FROM ARTICLE 35A(1) OF CHAPTER 1A
+
+(Article 35a(3))";
+
+"ANNEX XIII
+
+FAMILY BENEFITS IN CASH INTENDED TO REPLACE INCOME DURING CHILD-RAISING PERIODS
+
+(Article 68b)".
+
+Part I Family benefits in cash which are intended to replace income during periods of child-raising
+
+(Article 68b(1))
+
+Part II Member States which award family benefits referred in Article 65b(1) in full
+
+(Article 68b(2))."

@@ -1,0 +1,1373 @@
+@import url(./../../../../css/com/com-c.css)
+
+EUROPEAN COMMISSION
+
+Brussels, 6.4.2016
+
+COM(2016) 196 final
+
+2016/0105(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EU) 2016/399 as regards the use of the Entry/Exit System
+
+{SWD(2016) 115 final}
+
+{SWD(2016) 116 final}
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+Grounds for and objectives of the proposal
+
+This proposal aims to
+
+amend Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code)
+
+. The proposed amendments are due to the proposed establishment of an Entry Exit System (EES) for which a legislative proposal is presented simultaneously.
+
+In February 2013, the Commission tabled a Smart Borders package consisting of three proposals: (1) a Regulation for an Entry/Exit System (EES) for the recording of information on the time and place of entry and exit of third country nationals travelling to the Schengen area, (2) a Regulation for a Registered Traveller Programme (RTP) to allow third country nationals who have been pre-vetted to benefit from facilitation of border checks at the Union external border, (3) a Regulation amending the Schengen Borders Code in order to take into account the establishment of the EES and RTP.
+
+In the meantime, the Commission has decided to;
+
+–
+
+revise its 2013 proposal for a Regulation for the establishment of an Entry/Exit System (EES);
+
+–
+
+revise its 2013 proposal for Regulation amending the Schengen Borders Code to integrate the technical changes that result from the new proposal for a Regulation establishing an Entry/Exit System (EES);
+
+–
+
+withdraw its 2013 proposal for a Regulation for a Registered Traveller Programme (RTP).
+
+The reasons for this decision are further explained in the explanatory memorandum for the updated legislative proposal on the establishment of an EES and in the impact assessment accompanying that proposal.
+
+Consequently, the current proposal replaces the 2013 proposal
+
+and integrates into the Schengen Borders Code the technical changes that result from the new proposal for a Regulation establishing an Entry/Exit System (EES), in particular, the recording in the EES of refusals of entry of third country nationals, new elements on the fall back procedures for the EES and the interoperability between the EES and the Visa Information System (VIS). By doing so, this new proposal takes into account the results of negotiations in the Council and in the European Parliament.
+
+Because of the abolition of stamping the EES conveys, the establishment of this system  opens the possibility to introduce an automation of border control operations for third country
+
+nationals admitted for a short stay (and eventually, on the basis of a touring visa
+
+). The conditions to use the automated border control systems nevertheless differ depending on the category of travellers (
+
+EU/EEA/CH citizens,
+
+third country nationals holding a residence card, third country nationals holding a residence permit or a long-stay visa or third country nationals admitted for short stay respectively) and each procedure shall be regulated separately.
+
+General context
+
+The general context is explained in the explanatory memorandum for the legislative proposal on the establishment of an EES and in the impact assessment accompanying this proposal.
+
+Existing provisions
+
+Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code) and the Convention implementing the Schengen Agreement of 14 June 1985.
+
+It has to be taken into account that on 15 December 2015, the Commission submitted a proposal to amend the Schengen Borders Code as regards the reinforcement of checks against relevant databases at external borders
+
+. The negotiations on this text will have an impact on this proposal, so particular attention should be paid to ensuring the necessary synergies between these two proposals during the negotiation process.
+
+2.
+
+RESULTS OF CONSULTATIONS WITH THE INTERESTED PARTIES AND IMPACT ASSESSMENTS
+
+The consultation with interested parties and impact assessments are described in the explanatory memorandum for the legislative proposal on the establishment of an EES and in the impact assessment accompanying that proposal.
+
+3.
+
+LEGAL ELEMENTS OF THE PROPOSAL
+
+Summary
+
+The main proposed amendments concern the following issues:
+
+–
+
+additional definitions of the EES, self-service system, e-gate and Automated Border Control (ABC) system (Article 2);
+
+–
+
+third-country nationals for whom data shall be entered into the EES and derogations thereof (Article 6a);
+
+–
+
+authenticity check of the chip in travel documents containing an electronic storage medium (Article 8(2)
+
+;
+
+–
+
+on entry and exit, for third country nationals, verification of the validity of the travel document by consulting the relevant databases and, in particular, the SIS; the Interpol database on stolen and lost travel documents; and national databases containing information on stolen, misappropriated, lost and invalidated travel documents. If their travel document contains a facial image recorded in the chip, verification of the recorded facial image, except for third country national whose entry or exit is subject to a registration in the EES (Articles 8(3)(a)(i) and 8(3)(g)(i));
+
+–
+
+on entry, for third country nationals, authenticity check of the chip data in residence permits containing an electronic storage medium and verification of the validity of the residence permits and long stay visas in SIS and other relevant databases (Article 8(3)(a)(ii);
+
+–
+
+on entry and exit, verification of the identity and/ or identification of a third country national admitted for a short stay{or on the basis of a touring visa} by consulting the EES and, where applicable, the VIS (Articles 8(3)(a)(iii) and 8(3)(g)(iv));
+
+–
+
+verification on entry and exit, by consulting the EES, that a third country national has not already exceeded the maximum duration of authorised stay in the territory of the Member States and, verification at entry, by consulting the EES, that
+
+third country nationals holding a single or double entry visa have respected the maximum number of authorised entries
+
+(Articles 8(3)(a)(iiia), 8(3)(g)(v) and 8(3)(h)(ii);
+
+–
+
+for visa holders [or persons holding a touring visa], on entry, verification of the authenticity, territorial and temporal validity and valid status of the visa [/ touring visa] and, if applicable, of the identity of the holder of the visa, by consulting the Visa Information System (VIS) (Article 8(3)(b));
+
+–
+
+possibility to use the EES for identification purposes at the external borders (Article 8(3) (i))
+
+–
+
+information to the traveller on the maximum number of days of the authorised stay, having regard to the results of the consultation of the EES (Article 8(9));
+
+–
+
+the use of automated border control systems:
+
+
+
+for EU/EEA/CH citizens and third country nationals who hold a residence card (Article 8a);
+
+
+
+for third country nationals who hold a residence permit (Articles 8b);
+
+–
+
+the use of self-service systems and e-gates for persons whose border crossing is subject to a registration in the EES (Articles 8c and 8d);
+
+–
+
+introduction of national facilitation programmes that can be established by Member States on a voluntary basis (Article 8e);
+
+–
+
+obligation of entering data into the EES even in the event border checks are relaxed (Article 9(3));
+
+–
+
+fall-back procedures to be followed in case of technical impossibility to enter data in the Central System of the EES or in case of failure of the Central System of the EES (Article 9(3a);
+
+–
+
+indications/pictogram for ABC systems, self-service systems and e-gates (Article 10(3a);
+
+–
+
+deletion of the obligation to systematically stamp on entry and exit the travel documents of third country nationals admitted for a short stay. Where expressly provided under its national legislation, possibility for a Member State to stamp on entry and exit the travel documents of third country nationals holding a residence permit issued by that same Member State (Article 11);
+
+–
+
+presumption of an irregular stay in the absence of the appropriate records in the EES and possibilities of rebuttal (Article 12);
+
+–
+
+transitional period of six months after the EES has started operations and transitional measures to cover those cases where a third country national whose border crossing is subject to a registration in the EES has entered the territory of the Member States and has not yet exited it before the entry into operations of the EES (Article 12a);
+
+–
+
+registration in the EES of data on third country nationals whose entry for a short stay {or on the basis of a touring visa} has been refused (Article 14(2);
+
+–
+
+change of Annexes III, IV and V;
+
+–
+
+deletion of Annex VIII.
+
+Legal basis
+
+Article 77 (2) (b) of the Treaty on the Functioning of the European Union; as the proposal lays down provisions on border checks of persons crossing the external border.
+
+This proposal amends Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code)", which is the codified version of Regulation (EC) No 562/2006 of the European Parliament and of the Council of 15 March 2006 establishing a Community Code on the rules governing the movement of persons across borders (Schengen Borders Code) which was based on the equivalent provisions of the Treaty establishing the European Community, i.e. Articles 62(1) and (2)(a).
+
+Subsidiarity principle
+
+Article 77 empowers the Union to develop a policy with a view to ‘ensuring the absence of any controls on persons, whatever their nationality, when crossing internal borders’ and ‘carrying out checks on persons and efficient monitoring of the crossing of external borders’.
+
+The current proposal is within the limits set by these provisions. The objective of this proposal is to make the necessary amendments to the Schengen Borders Code for the establishment of an EES. It cannot be sufficiently achieved by the Member States acting alone, because an amendment to an existing Union Act (the Schengen Borders Code) can only be achieved by the Union.
+
+Proportionality principle
+
+Article 5 (4) of the Treaty on European Union states that the content and form of Union action must not exceed what is necessary to achieve the objectives of the Treaties. The form chosen for this action must enable the proposal to achieve its objective and be implemented as effectively as possible.
+
+The creation of the Schengen Borders Code in 2006 had to be in the form of a Regulation, in order to ensure that it is applied in the same way in all the Member States that apply the Schengen
+
+acquis
+
+. The proposed initiative — amendment of the Schengen Borders Code — constitutes an amendment to an existing regulation and can only be achieved by means of a regulation. As to the content, this initiative is limited to improvements of the existing regulation and based on the policy orientations contained therein. The proposal therefore complies with the proportionality principle.
+
+Choice of instrument
+
+Proposed instrument: Regulation.
+
+4.
+
+BUDGETARY IMPLICATION
+
+The proposed amendment has no implications for the EU budget.
+
+5.
+
+ADDITIONAL INFORMATION
+
+Consequences of the various protocols annexed to the Treaties and of the association agreements concluded with third countries
+
+This proposal builds on the Schengen
+
+acquis
+
+in that it concerns the crossing of external borders. The consequences for the various protocols and association agreements therefore have to be considered with regard to Denmark, Ireland and the United Kingdom; Iceland and Norway; and Switzerland and Liechtenstein. The situation of each of these states is described in recitals 11 to 16 of this proposal and explained in further detail in the explanatory memorandum for the legislative proposal on the establishment of an EES.
+
+Succinct overview of the proposed amendments of the Schengen Borders Code
+
+Article 2, Definitions
+
+Additional definitions
+
+Point 22: Definition of the new 'Entry/Exit System (EES)'
+
+Point 23: Definition of 'self-service system'
+
+Point 24: Definition of 'e-gate'
+
+Point 25: Definition of 'Automated Border Control (ABC) system'
+
+New Article 6a Third countries nationals for which data shall be entered into the EES
+
+The obligation for a third country national admitted for a short stay [or on the basis of a touring visa] in the Schengen area to be registered into the EES is added in a new Article 6a. The same obligation is added as regards third country nationals who are refused entry on the basis of a short stay [or a touring visa]. Exceptions are foreseen for the following categories of persons: 1) third country nationals holding a residence card who are members of the family of a Union citizen or a third country national enjoying the right of free movement even if they are not accompanying or joining a Union citizen or a third country national enjoying the right of free movement; 2) nationals of Andorra, Monaco and San Marino; 3) third country nationals that are exempted from border checks or from the obligation to cross external borders only at border crossing points or during the fixed opening hours as well as third country national benefiting from facilitation of border crossing 4) local border traffic permit holders.
+
+Article 8, Border checks on persons
+
+In Paragraph (2) the obligation to check the authenticity of all travel documents that contain an electronic storage medium using valid certificates has been added.
+
+Paragraph (3)(a)(i) concerning the obligation for border guards to verify on entry that the third country national is in possession of a document
+
+which is valid for border crossing and which has not expired,
+
+is developed. Indeed, a
+
+s regards the verification of the validity of the travel document, a consultation of relevant databases (in particular, the Schengen Information System; the Interpol database on stolen and lost travel documents; and national databases containing information on stolen, misappropriated, lost and invalidated travel documents ) is expressly foreseen. In addition, if the third country national holds an electronic travel document which contains a facial image recorded in the chip, the verification of the facial image recorded in the chip is foreseen. An exception is foreseen for third country nationals whose entry is subject to a registration into the EES and who hold an electronic travel document. Indeed, for this category of persons, the verification of the facial image stored in the chip of the travel document should be carried out when getting registered into the EES or when registering a new electronic passport in the EES (e.g., in case of expiry of an old passport). Further to that verification, the travel document and the biometrics of the person will be stored in the EES and will be used for the verification/ identification of the person at subsequent border crossings.
+
+Paragraph (3)(a)(ii) refers to the verification that the travel document is accompanied, where applicable, by the requisite visa or residence permit. Regarding residence permits, the obligation to check the authenticity of the residence permit that contains an electronic storage medium using valid certificates has been added. In addition, the validity of residence permits or long stay visas shall be verified by consulting the Schengen Information System and other relevant databases.
+
+The new Paragraph (3)(a)(iii) regulates the obligation to carry out a verification and/or an identification of those third country nationals whose entry or whose refusal of entry is subject to a registration in the EES using biometric identifiers. Such verification and/ or identification shall be carried out in accordance with Article 21 of Regulation establishing the EES. As a result:
+
+–
+
+for visa holders already registered in the EES, their biometrics will be verified against the EES or the VIS;
+
+–
+
+for visa holders not yet registered in the EES, their biometrics will be verified against the VIS and an identification against the EES will be carried out;
+
+–
+
+for visa exempt travellers already registered in the EES, their biometrics will be verified against the EES;
+
+–
+
+for visa exempt travellers not yet registered in the EES, an identification against the EES shall be performed and, if the person is not found in the EES, a verification and, if applicable, an identification against the VIS will be carried out.
+
+In Paragraph (3)(a) (iii a) the obligation to check the stamps in the passport to verify whether the third country national entering the Schengen area has not yet exceeded the maximum duration of authorised stay has been replaced by the requirement to consult the EES. In the same vein, because of the abolition of stamping, the EES will also need to be consulted to check whether third country nationals holding a single or double entry visa have respected the maximum number of authorised entries.
+
+Paragraph 3(b) refers to the use made of VIS for verification at external borders. Because of the interoperability between the EES and the VIS and the possibility to use automated border control means at external borders, the VIS should provide information to the border guards not only on the authenticity but also on the territorial and temporal validity and on the status of the visa (or the touring visa) via a hit/no hit answer. In addition, in accordance with the EES proposal, this paragraph reflects the fact that the identity of visa holders will not be systematically verified against the VIS. In certain cases, the identity of visa holders will be verified against the EES, using their facial image.
+
+Paragraph (3)(g)(i) concerning the obligation for border guards to verify at exit that the third country national is in possession of a document valid for crossing the border is developed, Indeed, as regards the verification of the validity of the travel document, a consultation of relevant databases (and in particular,  the Schengen Information System; the Interpol database on stolen and lost travel documents; and national databases containing information on stolen, misappropriated, lost and invalidated travel documents) is expressly foreseen. In addition, if the third country national holds an electronic travel document which contains a facial image recorded in the chip, the verification of the facial image recorded in the chip is foreseen. An exception is foreseen for third country nationals whose entry is subject to a registration into the EES and who hold an electronic travel document. Indeed, for this category of persons, the verification of the facial image stored in the chip of the travel document should be carried out when getting registered into the EES or when registering a new electronic passport in the EES (e.g., in case of expiry of an old passport). Further to that verification, the travel document and the biometrics of the person will be stored in the EES and will be used for the verification/ identification of the person at subsequent border crossings.
+
+The new Paragraph (3)(g)(iv) regulates the obligation to carry out a verification and/or an identification of those third country nationals whose exit is subject to a registration in the EES by using biometric identifiers. Such verification and/ or identification shall be carried out in accordance with Article 21 of Regulation establishing the EES. As a result, for visa holders already registered into the EES, their biometrics can be verified against the EES or, where applicable, against the VIS.
+
+In the new Paragraph (3)(g)(v) the obligation to check the stamps in the passport to verify whether a third country national leaving the Schengen area has not yet exceeded the maximum duration of authorised stay has been replaced by the requirement to consult the EES.
+
+Paragraph (3)(h)(ii) - which considered optional to check whether a third country national leaving the Schengen area had exceeded the maximum duration of authorised stay - is deleted. Indeed, with the EES this verification becomes compulsory.
+
+Paragraph (3)(i) is adapted to foresee the possibility to also use the EES in addition to the VIS to identify any person who may not fulfil, or who may no longer fulfil, the conditions for entry, stay or residence on the territory of the Member States.
+
+The new Paragraph (9) foresees the obligation for border guards to inform third country nationals about the maximum number of days of the authorized stay within the Schengen area as set out in the EES and, if applicable, in the VIS.
+
+Introduction of new Articles 8a, 8b, 8c and 8d so as to foresee a harmonised automation of border checks for different categories of travellers
+
+.
+
+The entry and exit conditions for the travellers concerned as such remain unchanged.
+
+Articles 8a and 8b are not technical amendments determined by the introduction of the EES but additional provisions to further facilitate the border check procedures by using modern technologies.
+
+New Article 8a Use of automated border control systems for EU/EEA/CH citizens and for third country nationals who hold a residence card
+
+Paragraph (1) sets the personal scope of this article (i.e. Union citizens, nationals of third-countries who enjoy rights of free movement equivalent to those of a Union citizen and third country nationals in possession of a residence card and who are members of the family of a Union citizen or of third countries enjoying rights of free movement
+
+equivalent to those of Union citizens
+
+).
+
+Paragraph (2) lists the cumulative conditions that must be met in order to use automated border control systems. In particular, the person concerned must be in possession of an electronic travel document whose chip data shall be authenticated. In addition, the facial image stored in the chip shall be accessed in order to verify the identity of the holder by comparing the facial image recorded in the chip and the live facial image of the holder of the travel document. For third countries enjoying the right of free movement under Union law who hold a residence card, the residence card hold must be an electronic card (valid and not expired) whose chip data shall be authenticated. In addition, the facial image stored in the chip shall be accessed so as to verify the identity of the holder of the residence card, by comparing the facial image recorded in the chip and his/her live facial image.
+
+Paragraph (3) stipulates that the checks on entry and exit shall be carried out pursuant to Article 8(2). However, it is expressly foreseen that, when carried out through an automated border control system, the border checks on entry and exit shall systematically include the verification that the persons crossing do not represent a genuine, present and sufficiently serious threat to the internal security, public policy, international relations of the Member States or a threat to the public health, including by consulting the relevant Union and national databases, in particular the Schengen Information System
+
+.
+
+On entry and exit, the results of the automated border checks shall be made available to a border guard who shall take into account those results and authorise the entry or exit or, otherwise, refer the person to a border guard (paragraph 4).
+
+Paragraph (5) lists the conditions under which a person shall be referred to a border guard  However, Paragraph (6) foresees that a border guard supervising the border crossing of a person using an automated border control system may decide to refer that person to a border guard based on other reasons.
+
+Paragraph (7) contains the obligation to ensure a supervision of the use made of the system so as to detect inappropriate, fraudulent or abnormal use of the system.
+
+New Article 8b Use of automated border control systems for third countries nationals who hold a residence permit
+
+Paragraph (1) lists the cumulative conditions that must be met by third country nationals who hold a residence permit in order to use the automated border control systems. In particular, the person concerned must be in possession of an electronic travel document whose chip data shall be authenticated. In addition, the facial image stored in the chip shall be accessed in order to verify the identity of the holder by comparing the facial image recorded in the chip and the live facial image of the holder of the travel document. For third countries that hold a residence permit, the chip of the residence permit shall be also accessed to verify the authenticity of its data and the identity of the residence permit holder.
+
+Paragraph (2) details the border checks that shall be performed on entry and exit.
+
+On entry and exit, the results of the border checks shall be made available to a border guard who shall take into account those results and authorise the entry or exit or, otherwise, refer the person to a border guard (paragraph 3).
+
+The conditions for a person to be referred to a border guard are listed in Paragraph (4). However, Paragraph (5) foresees that a border guard supervising the border crossing of a person using the automated border control system may decide to refer that person to a border guard based on other reasons.
+
+Paragraph (6) contains the obligation to ensure a supervision of the use made of the system as to detect inappropriate, fraudulent or abnormal use of the system.
+
+New Article 8c Use of self-service systems for pre-enrolling data in the EES
+
+The possibility for persons whose border crossing is subject to a registration in the EES to use self-service systems for the purpose of pre-enrolling their individual file data in the EES are added in a new Article 8c.
+
+Paragraph 1 lists the cumulative conditions that must be met by persons whose crossing is subject to a registration in the EES to use self-service systems for the purpose of pre-enrolling their individual file data in the EES. In particular, the person concerned must be in possession of an electronic travel document whose chip data shall be authenticated. In addition, the facial image stored in the travel document shall be accessed in order to verify the identity of the holder by comparing the facial image recorded in the chip and the live facial image of the holder of the travel document.
+
+Paragraphs 2 to 4 describe the operations to be performed by the self-service systems.
+
+Paragraph 5 refers to the case where it is verified, through the self-service system, that the person is not registered into the EES. In that case, the required data are collected and pre-enrolled in the EES through the self-service system. The person shall always be referred to a border guard who shall verify that the travel document used in the self-service system corresponds to the one held and that the biometric identifiers registered in the EES correspond to the live biometric identifiers of the person concerned.
+
+Paragraph 6 and 7 refer to the case where it is verified, through the self-service system, that the person is already registered into the EES but that his/her individual file needs to be updated.
+
+Paragraph 8 contains the obligation to ensure a supervision of the use made of the system so as to detect inappropriate, fraudulent or abnormal use of the system.
+
+New Article 8d Use of self-service systems and/or e-gates for the border crossing of nationals of third countries whose border crossing is subject to a registration in the EES
+
+The possibility for persons whose crossing is subject to a registration in the EES to use a self-service system to have their border checks performed is added in a new Article 8d. In addition, the possibility to use e-gates to perform the border crossing is also foreseen. With this two-step approach, Member States could decide to establish a fully automated border crossing for this category of travellers (if the use of the self-service system is followed by the possibility to use an e-gate) or a semi-automated border crossing (if the use of e an e-gate is never envisaged and the person has always to be authorised to perform his/ her border crossing by a border guard). However, third country nationals not yet registered into the EES shall always be referred to a border guard (even if they use self-service systems for their pre-enrolling) to have their registration into the EES completed. As a result, for these travellers, only a semi-automatic border crossing can be foreseen.
+
+Paragraph 1 lists the cumulative conditions that must be met by persons whose crossing is subject to a registration in the EES to use a self-service system to have their border checks performed. In particular, the person concerned must be in possession of an electronic travel document whose chip data shall be authenticated. In addition, the facial image stored in the chip shall be accessed in order to verify the identity of the holder by comparing the facial image recorded in the chip and the live facial image of the holder of the travel document. Lastly, the person shall be already registered or pre-enrolled in the EES.
+
+Paragraph 2 details the border checks that shall be performed on entry and exit.
+
+On entry and exit, the results of the border checks shall be made available to a border guard who shall take into account those results and authorise the entry or exit or, otherwise, refer the person to a border guard (Paragraph 3).
+
+Paragraph (4) lists the conditions under which a person shall be referred to a border guard. However, Paragraph (5) foresees that a border guard supervising the border crossing of a person using the automated border control system may decide to refer that person to a border guard based on other reasons.
+
+Paragraph (6) foresees that Member States can decide to install these e-gates and that persons whose border crossing is subject to a registration in the EES may be authorized to use e-gates. Paragraph 6 specifies therefore the link that should be established between the e-gates and the EES. In addition, where a Member State decides to install e-gates, it has the possibility to aggregate these e-gates to the self-service systems or not to aggregate them. If the e-gates are not aggregated to the self-service systems, this means that the verification process and the crossing of the actual border take place at separate locations. Consequently, for the cases where these two components are not aggregated, paragraph 6 foresees the obligation to establish a system in the e-gate so as to verify that the person using the e-gate corresponds to the person who used the self-service systems. In order to carry out such verification, at least one biometric identifier shall be used.
+
+Paragraph (7) refers to the situation where the person does not hold an electronic travel document or when the authenticity of the travel document of the identity of its holder cannot be verified. In this case, where the border guard can retrieve the results of the border checks that were carried out through the self-service system, the border guard may perform only those verifications that could not be carried out through the self-service system. In any case, the border guard shall verify that the travel document used at the self-service system corresponds to the one hold by the person in front of the border guard.
+
+Paragraph (8) contains the obligation to ensure a supervision of the use made of self-service and e-gates as to detect inappropriate, fraudulent or abnormal use of the system.
+
+New Article 8e National facilitation programmes
+
+Article 8e foresees the possibility for each Member State to establish a national voluntary programme to allow third country nationals to benefit from the following two facilitations when crossing at entry the border of such Member State:
+
+–
+
+verification of point of departure and destination, the purpose of the stay including supporting documents (Article 8(3)(a)(iv));
+
+–
+
+and verification of the possession of sufficient means of subsistence (Article 8(3)(a)(v)).
+
+Paragraph (2) contains the obligation to ensure a pre-vetting of the third country nationals applying to the programme. It details the minimum conditions that shall be met by any third country national to be granted access to a national facilitation programme.
+
+Paragraph (4) foresees the possibility for two or more Member States having established their own national programme to conclude agreements among them so that the beneficiaries of their national programmes can benefit from the facilitations recognized by the other national programmes.
+
+Article 9 Relaxation of border checks
+
+The existing text is adapted to the establishment of the EES. The obligation to always enter the data of the traveller into the EES while entering or exiting the Schengen area is highlighted. Even in situations of relaxation of border check procedures the registration in the EES shall be carried out.
+
+The new Paragraph 3a foresees the fall-back solutions in case of technical impossibility to enter data in the Central System of the EES or in case of failure of the Central System of the EES, which includes the storage of data in the National Uniform Interface, where possible, or otherwise the
+
+local storage of data. Where possible, the consultation of the Visa Information System for the verification of the identity of visa holders shall be ensured.
+
+Article 10 Separate lanes and information on signs
+
+A new Paragraph 3a is added to take account of the introduction of ABC systems, self-service systems and e-gates. In order to have a harmonised approach, Member States shall use in those situations the signs contained in Annex III Part D.
+
+Article 11 Stamping of the travel document
+
+The new Article 11 reflects the fact that the EES targets the abolition of stamping on entry and exit of the travel documents of third country nationals admitted for a short stay as it replaces it by the electronic recording of the entry and exit. Consequently, the obligation to systematically stamp on entry and exit the travel documents of third country nationals admitted for a short stay is deleted.
+
+However, where expressly provided under national legislation, the new Article 11 foresees the possibility, for each Member State to stamp on entry and exit the travel document of those third country nationals holding a residence permit issued by that same Member State. The practical arrangements of that stamp are set in Annex IV.
+
+Article 12 Presumption as regards fulfilment of conditions for duration of stay
+
+The existing text is adapted to the establishment of the EES. Today Article 12 regulates the procedures for rebuttal of the presumption of irregular stay in case of absence of entry or exit stamps. With the EES, the stamping will be replaced by an electronic record in the EES.
+
+Article 12a: Transitional period and measures
+
+–
+
+Paragraph 1 refers to a transitional period of six months after the EES has started operations. During this transitional period, border guards will have to take into account the stamps affixed into the travel documents as well as the data recorded into the EES. Such course of action will enable border guards to verify if the length of the maximum authorised stay is respected and, for third country nationals holding a single or double entry visa, to verify if the number of the maximum authorised entries is respected. Indeed, persons may have stayed in the territory of the Member States within the 180 days preceding the entry into operations of the EES. In such a case, their travel document should have been stamped accordingly. These stamps need therefore to be taken into consideration for the abovementioned verifications.
+
+–
+
+Paragraph 2 refers to the case where a person has entered the territory of the Member States prior to the start of operations of the EES and has not yet exited it before the entry into operations of the system. In that case, when the person exits, the individual file of the person will be recorded into the EES and the date of that last entry will be entered in the entry/exit record so as to have a "completed" entry / exit record.
+
+Article 14 Refusal of entry
+
+In Paragraph 2, a new subparagraph foresees that data on third country nationals whose entry for a short stay [or for a stay on the basis of a touring visa] has been refused shall be registered in the EES.
+
+In paragraph 3, the correction of the data inserted into the EES is expressly foreseen where an appeal concludes that a decision to refuse entry was ill-founded.
+
+Annex III Model signs indicating lanes at border crossing points
+
+The signs contained in annex III are completed by adding new signs for the use of ABC lanes.
+
+Annex IV Affixing stamps
+
+The existing text is adapted to the establishment of the EES. With the new system, Annex IV should only concern: 1) the stamps to be affixed by all Member States in cases of refusals of entry, 2) when expressly provided under national legislation, the stamps that a Member State could affix on entry and exit on the travel document of those third country nationals holding a residence permit issued by that same Member State.
+
+Annex V Part A Procedures for refusing entry at the border
+
+The existing text is adapted to the establishment of the EES:
+
+
+
+Paragraph 1(b) is modified and now concerns those categories of persons whose data on refusal shall be registered into the EES. The obligation to affix an entry stamp on the passport by the border guard is maintained.
+
+
+
+Paragraph 1(d) is modified and now concerns those categories of persons whose data on refusal shall not be registered into the EES and that require an entry stamp on the passport as well as a record of the refusal of entry in a national register.
+
+Annex VIII is deleted
+
+This information will be recorded in the EES.
+
+2016/0105 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EU) 2016/399 as regards the use of the Entry/Exit System
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 77(2)(b) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee,
+
+Having regard to the opinion of the Committee of the Regions,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code)
+
+lays down the conditions, criteria and detailed rules for the crossing of the external borders of the Member States.
+
+(2)
+
+[Regulation (EU) N° XXX of the European Parliament and of the Council establishing the Entry/Exit System ('EES') to register entry and exit data and refusal of entry data of third country nationals crossing the external borders of the Member States of the European Union and determining the conditions for access to the EES for law enforcement purposes]
+
+aims at creating a centralised system for the registration of entry and exit data and refusal of entry data of third country nationals crossing the external borders of the Member States of the Union for a short stay [or for a stay on the basis of a touring visa].
+
+(3)
+
+In order to carry out checks on third country nationals pursuant to Regulation (EU) 2016/399, which include the verification of the identity and/ or the identification of the third country national as well as the verification that the third country national has not exceeded the maximum duration of authorised stay in the territory of the Member States, border guards should use all the information available, including data from the EES. The data stored in that system should also be used to verify that third country nationals holding a single or double entry visa have respected the maximum number of authorised entries.
+
+(4)
+
+To ensure full effectiveness of the EES, entry and exit checks need to be carried out in a harmonised way at the external borders.
+
+(5)
+
+The establishment of an EES requires adapting the procedures for checking persons when crossing the external borders laid down in Regulation (EU) 2016/399. In particular, the EES aims to abolish on entry and exit the stamping of the travel documents of third country nationals admitted for a stay [or for a stay on the basis of a touring visa] by replacing it by the electronic recording of the entry and exit directly in the EES. However, stamping of travel document on refusal of entry of a third country national is maintained since it concerns higher risk travellers. Furthermore, the establishment of the interoperability between the EES and the Visa Information System (VIS) needs to be taken into account in the border checks procedures. Lastly, the EES opens the possibility to use new technologies for the border crossings of short stay travellers.
+
+(6)
+
+During a period of six months after the EES has started operations, border guards should take into account the stays in the territories of the Member States during the six months preceding the entry or the exit by checking the stamps in the travel documents in addition to the entry/exit data recorded in the EES. Such measure should enable the required verifications to be carried out in those cases where a person would have been admitted for a short stay on the territory of the Member States in the six months preceding the start of operations of the EES. In addition there is a need to lay down specific provisions for those persons having entered the territory of the Member States and who have not yet exited it before the entry into operations of the system. In these situations, the last entry should also be recorded into the EES when exiting the territory of the Member States.
+
+(7)
+
+Taking into account the different situations in the Member States and at different border crossing points within the Member States concerning the number of third country nationals crossing the borders, Member States should be able to decide whether and to what extent to make use of technologies such as automated border control systems, "self-service kiosks" and e-gates. When using such technologies, it should be ensured that entry and exit checks are carried out in a harmonised way at the external borders and that an appropriate level of security is ensured.
+
+(8)
+
+In addition, the tasks and roles of the border guards when making use of such technologies need to be defined. In this regard, it should be ensured that the results of border checks performed through automated means are available to border guards so as to enable them to take the appropriate decisions. In addition, there is a need to supervise the use of the automated border control systems, "self-service kiosks" and e-gates by travellers so as to prevent fraudulent behaviour and uses. In addition, when carrying out this supervision, border guards should pay particular attention to minors and should be placed in a position that should enable them to identify persons needing protection.
+
+(9)
+
+Member States should also be able to establish national facilitation programmes on a voluntary basis to allow pre-vetted third country nationals to benefit at entry from derogations to the thorough checks. When using such national facilitation programmes, it should be ensured that they are established in a harmonised way and that the appropriate level of security is guaranteed.
+
+(10)
+
+This Regulation is without prejudice to the application of Directive 2004/38/EC of the European Parliament and of the Council
+
+.
+
+(11)
+
+Since the objective of this Regulation, namely to provide for amendments to the existing rules of Regulation (EU) 2016/399 can only be achieved at Union level, the Union may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as also set out in that Article, this Regulation does not go beyond what is necessary in order to achieve this objective.
+
+(12)
+
+In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, Denmark is not taking part in the adoption of this Regulation and is not bound by it or subject to its application. Given that this Regulation builds upon the Schengen
+
+acquis
+
+, Denmark shall, in accordance with Article 4 of that Protocol, decide within a period of six months after the Council has decided on this Regulation whether it will implement it in its national law.
+
+(13)
+
+This Regulation constitutes a development of the provisions of the Schengen
+
+acquis
+
+in which the United Kingdom does not take part, in accordance with Council Decision 2000/365/EC
+
+; the United Kingdom is therefore not taking part in
+
+the
+
+adoption
+
+of this Regulation
+
+and is not bound by it or subject to its application.
+
+(14)
+
+This Regulation constitutes a development of the provisions of the Schengen
+
+acquis
+
+in which Ireland does not take part, in accordance with Council Decision 2002/192/EC
+
+; Ireland is therefore not taking part in the adoption
+
+of this Regulation
+
+and is not bound by it or subject to its application.
+
+(15)
+
+As regards Iceland and Norway, this Regulation constitutes a development of the provisions of the Schengen
+
+acquis
+
+within the meaning of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the latters' association with the implementation, application
+
+and development of the Schengen
+
+acquis
+
+which fall within the area referred to in Article 1, point A of Council Decision 1999/437/EC
+
+.
+
+(16)
+
+As regards Switzerland, this Regulation constitutes a development of the provisions of the Schengen
+
+acquis
+
+within the meaning of the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation's association with the implementation, application and development of the Schengen
+
+acquis
+
+which fall within the area referred to in Article 1, point A of Council Decision 1999/437/EC
+
+read in conjunction with Article 3 of Council Decision 2008/146/EC
+
+.
+
+(17)
+
+As regards Liechtenstein, this Regulation constitutes a development of the provisions of the Schengen
+
+acquis
+
+within the meaning of the Protocol between the European Union, the European Community, the Swiss Confederation and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation’s association with the implementation, application and development of the Schengen
+
+acquis
+
+which fall within the area referred to in Article 1, point A, of Council Decision 1999/437/EC
+
+read in conjunction with Article 3 of Council Decision 2011/350/EU
+
+.
+
+(18)
+
+Regulation (EU) 2016/399 should therefore be amended accordingly,
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Regulation (EU) 2016/399 is amended as follows:
+
+(1)
+
+In Article 2, the following points 22, 23, 24 and 25 are added:
+
+"22. 'Entry/Exit System (EES)' means the system established by [Regulation No° XXX of the European Parliament and of the Council establishing the Entry/Exit System (EES) to register entry and exit data and refusal of entry data of third country nationals crossing the external borders of the Member States of the European Union and determining the conditions for access to the EES for law enforcement purposes;
+
+23. 'Self-service system' means an automated system which performs all or some of the border checks that are applicable to a person;
+
+24. 'e-gate' means an infrastructure operated by electronic means where the effective crossing of an external border takes place;
+
+25. 'Automated Border Control system' means a system which allows for an automated border passage, and which is composed of a self-service system and an e-gate."
+
+(2)
+
+The following Article 6a is inserted
+
+:
+
+"Article 6a
+
+Third country nationals for which data shall be entered into the EES
+
+1. Data on entry and exit of the following categories of persons shall be entered into the EES in accordance with Articles 14, 15, 17 and 18 of [Regulation establishing the Entry/Exit System (EES)]:
+
+(a)
+
+third country nationals admitted for a short stay pursuant to Article 6(1) [or for a stay on the basis of a touring visa];
+
+(b)
+
+third country nationals who are members of the family of a Union citizen to whom Directive 2004/38/EC applies and who do not hold a residence card pursuant to that Directive;
+
+(c)
+
+third country nationals who are members of the family of nationals of third countries enjoying the right of free movement under Union law and who do not hold a residence card pursuant to Directive 2004/38/EC.
+
+2. Data on third country nationals whose entry for a short stay or on the basis of a touring visa has been refused in accordance with Article 14 of this Regulation shall be entered in the EES in accordance with Article 16 of [Regulation establishing the Entry/Exit System (EES)].
+
+3. Data on the following categories of persons shall not be entered into the EES:
+
+(a)
+
+third country nationals who are members of the family of a Union citizen to whom Directive 2004/38/EC applies and who hold a residence card in accordance with that Directive;
+
+(b)
+
+third country nationals who are members of the family of nationals of third countries enjoying the right of free movement under Union law who hold a residence card referred to in Directive 2004/38/EC;
+
+(c)
+
+nationals of Andorra, Monaco and San Marino;
+
+(d)
+
+persons or categories of persons exempt from border checks or benefitting from facilitation of border crossing:
+
+(i) heads of State and members of their delegation in accordance with point 1 of Annex VII;
+
+(ii) pilots of aircraft and other crew members in accordance with point 2 of Annex VII;
+
+(iii) seamen in accordance with point 3 of Annex VII;
+
+(iv) cross-border workers in accordance with point 5 of Annex VII;
+
+(v) rescue services, police, fire brigades acting in emergency situation and border guards in accordance with point 7 of Annex VII;
+
+(vi) offshore workers in accordance with point 8 of Annex VII;
+
+(vii) crew members and passengers of cruise ships in accordance with points 3.2.1, 3.2.2 and 3.2.3 of Annex VI;
+
+(viii) persons on board a pleasure boat who are not subject to border checks in accordance with points 3.2.4, 3.2.5 and 3.2.6 of Annex VI;
+
+(e)
+
+persons who are exempt from the obligation to cross external borders only at border crossing points and during the fixed opening hours pursuant to Article 5(2);
+
+(f)
+
+persons who present a valid local border traffic permit for their border crossing in accordance with Regulation (EC) No 1931/2006 of the European Parliament and of the Council.
+
+The data of the family members referred to in points (a) and (b) shall not be entered into the EES, even if they are not accompanying or joining the Union citizen or a third country national enjoying the right of free movement."
+
+(3)
+
+Article 8 is amended as follows:
+
+(a)
+
+in paragraph 2, first subparagraph, the following sentence is added:
+
+"If the travel document contains an electronic storage medium (chip), the authenticity of the chip data shall be confirmed using the complete valid certificate chain, unless this is impossible, for technical reasons or, in the case of a travel document issued by a third country, due to the non-availability of valid certificates."
+
+(b)
+
+paragraph 3 is amended as follows:
+
+(i)
+
+points (a)(i), (a)(ii) and (a)(iii) are replaced by the following:
+
+"(i) verification of the identity and the nationality of the third country national and the validity and authenticity of the travel document, by consulting the relevant databases, in particular:
+
+(1) the Schengen information system;
+
+(2) the Interpol database on stolen and lost travel documents;
+
+(3) national databases containing information on stolen, misappropriated, lost and invalidated travel documents.
+
+This verification includes a thorough scrutiny of the travel document for signs of falsification and counterfeiting.
+
+Except for third country nationals whose entry is subject to a registration in the EES, if the travel document contains a facial image recorded in the electronic storage medium (chip) and if the facial image recorded in the chip can be legally and technically accessed, this verification shall include the verification of the facial image recorded in the chip, by comparing electronically this image with the live facial image of the concerned third country national.
+
+(ii) verification that the travel document is accompanied, where applicable, by the requisite visa or residence permit.
+
+If the residence permit contains an electronic storage medium (chip) the authenticity of the chip data shall be confirmed using the complete valid certificate chain, unless this is impossible, for technical reasons. The thorough checks on entry shall also comprise a systematic verification of the validity of the residence permit or long stay visa by consulting, in the SIS and in other relevant databases, information exclusively on stolen, misappropriated, lost and invalidated documents.[
+
+]
+
+(iii) for persons whose entry or whose refusal of entry is subject to a registration in the EES pursuant to Article 6a of this Regulation, a verification of the identity of the person and, where applicable, an identification shall be carried out in accordance with Article 21(4) of [Regulation establishing the Entry/Exit System (EES)]."
+
+(ii)
+
+the following point (a)(iii a) is inserted after point (a)(iii):
+
+"(iii a) for persons whose entry or whose refusal of entry is subject to a registration in the EES pursuant to Article 6a of this Regulation, verification that the third country national has not already reached or exceeded the maximum duration of authorised stay in the territory of the Member States and, for third country nationals holding a single or double entry visa, verification that they have respected the number of the maximum authorised entries, by consulting the EES in accordance with Article 21 of [Regulation establishing the Entry/Exit System (EES) ]."
+
+(iii)
+
+point (b) is replaced by the following:
+
+"(b) if the third country national holds a visa [or a touring visa] referred to in Article 6(1)(b) the thorough checks on entry shall also comprise the verification of the authenticity, territorial and temporal validity and status of the visa and, if applicable, of the identity of the holder of the visa, by consulting the VIS in accordance with Article 18 of Regulation (EC) No 767/2008 of the European Parliament and of the Council
+
+"
+
+(iv)
+
+point (g)(i) is replaced by the following:
+
+"(i) verification that the third country national is in possession of a document valid for crossing the border and that the document is accompanied, where applicable, by the requisite visa or residence permit. Verification of the document shall include the consultation of relevant databases, in particular the Schengen Information System; the Interpol database on stolen and lost travel documents; and national databases containing information on stolen, misappropriated, lost and invalidated travel documents.[
+
+] Except for third country nationals whose exit is subject to a registration in the EES, if the travel document contains a facial image recorded in the electronic storage medium (chip) and if the facial image recorded in the chip can be legally and technically accessed, this verification shall include the verification of the facial image recorded in the chip, by comparing electronically this image with the live facial image of the concerned third country national ."
+
+(v)
+
+the following points (g) (iv) and (v) are added:
+
+"(iv) for persons whose exit is subject to a registration in the EES pursuant to Article 6a of this Regulation, a verification of the identity of the person and, where applicable in accordance with Article 21(4) of [Regulation establishing the Entry/Exit System (EES)], an identification shall be carried out;
+
+(v) for persons whose exit is subject to a registration in the EES pursuant to Article 6a of this Regulation, verification that the third country national did not exceed the maximum duration of authorised stay in the territory of the Member States, by consulting the EES in accordance with Article 21 of [Regulation establishing the Entry/Exit System (EES) ]."
+
+(vi)
+
+point (h) (ii) is deleted.
+
+(vii)
+
+point (i) is replaced by the following:
+
+"(d) for the purpose of identification of any person who may not fulfil, or who may no longer fulfil, the conditions for entry, stay or residence on the territory of the Member States, the VIS may be consulted in accordance with Article 20 of Regulation (EC) No 767/2008 and the EES may be consulted in accordance with Article 25 of [Regulation establishing the Entry/Exit System (EES) ]."
+
+(viii)
+
+the following paragraph 9 is added:
+
+"9.
+
+The border guard shall inform the third country national of the maximum number of days of the authorised short stay, having regard to the results of the consultation of the EES which shall take into account, for third country nationals holding a visa, the number of entries and the length of the stay authorised by the visa referred to in Article 6(1)(b),.";
+
+(4)
+
+The following Article 8a is inserted:
+
+"Article 8a
+
+Use of automated border control systems for EU/EEA/CH citizens and for third country nationals who hold a residence card
+
+1. The following categories of persons may be permitted to use automated border control systems if the conditions listed under paragraph 2 are met:
+
+(a)
+
+Union citizens within the meaning of Article 20(1) of the Treaty;
+
+(b)
+
+nationals of third countries who, under agreements between the Union and its Member States, on the one hand, and those third countries, on the other hand, enjoy rights of free movement equivalent to those of Union citizens;
+
+(c)
+
+third country nationals who are members of the family of a Union citizen to whom Directive 2004/38/EC applies, who hold a  residence card referred to in that Directive;
+
+(d)
+
+third country nationals who are members of the family of nationals of third countries enjoying the right of free movement under Union law who hold a residence card referred to in Directive 2004/38/EC.
+
+2. In order to be permitted to use automated border control systems, the following cumulative conditions shall be met:
+
+(a)
+
+the travel document presented for the border crossing shall contain an electronic storage medium (chip) and the authenticity of the chip data shall be confirmed using the complete valid certificate chain;
+
+(b)
+
+the travel document presented for the border crossing shall contain a facial image recorded in the chip which can be technically accessed by the automated system so as to verify the identity of the holder of the travel document by comparing the facial image recorded in the chip and the live facial image;
+
+(c)
+
+in addition, third country nationals enjoying the right of free movement under Union law who hold a valid residence card shall meet the following conditions:
+
+(i) the residence card presented for the border crossing shall contain an electronic storage medium (chip) and the authenticity of the chip data shall be confirmed using the complete valid certificate chain;
+
+(ii) the residence card presented for the border crossing shall contain a facial image recorded in the chip which can be technically accessed by the automated system so as to verify the identity of the holder of the residence permit or residence card, by comparing the facial image recorded in the chip and the live facial image.
+
+3. Where the conditions under paragraph 2 of this Article are met, the border checks on entry and exit provided for in Article 8(2) and the border crossing itself may be carried out using an automated border control system. When carried out by means of an automated border control system, the border check on entry and exit shall systematically include the verification that the person does not represent a genuine, present and sufficiently serious threat to the internal security, public policy, international relations of the Member States or a threat to public health, including by consulting the relevant Union and national databases, in particular the Schengen Information System.[
+
+]
+
+4. On entry and exit, the results of the border checks carried out through a self-service system shall be made available to a border guard. Taking into account the results of the border checks, this border guard shall authorise the entry or exit or, otherwise, refer the person to a border guard who shall proceed with further checks.
+
+5. The person shall be referred to a border guard in the following situations:
+
+(a)
+
+when one of the conditions listed under paragraph 2 is not fulfilled;
+
+(b)
+
+when the results of the checks on entry or exit provided for under Article 8(2) question the identity of the person or when they reveal that the person represents a genuine, present and sufficiently serious threat to the internal security, public policy, international relations of the Member States or a threat to public health;
+
+(c)
+
+in case of doubt.
+
+6. Without prejudice to paragraph 4, the border guard supervising the border crossing may decide to refer persons using the automated border control system to a border guard based on other reasons.
+
+7. Automated border control systems shall be operated under the supervision of a border guard who shall be in charge of observing the users and detecting any inappropriate, fraudulent or abnormal use of the system."
+
+(5)
+
+The following Article 8b is inserted:
+
+"Article 8b
+
+Use of automated border control systems for third country nationals who hold a residence permit
+
+1. Third country nationals who hold a residence permit may be able to use automated border control systems where the following cumulative conditions are met:
+
+(a)
+
+the travel document presented for the border crossing shall contain an electronic storage medium (chip) and the authenticity of the chip data shall be confirmed using the complete valid certificate chain;
+
+(b)
+
+the travel document presented for the border crossing shall contain a facial image recorded in the chip which can be legally and technically accessed by the automated system so as to verify the identity of the holder of the travel document by comparing the facial image recorded in the chip and his or her live facial image;
+
+(c)
+
+the residence permit presented for the border crossing shall contain an electronic storage medium (chip) and the authenticity of the chip data shall be confirmed using the complete valid certificate chain;
+
+(d)
+
+the residence permit presented for the border crossing shall contain a facial image recorded in the chip which can be technically accessed by the automated system so as to verify the identity of the holder of the residence permit, by comparing  the facial image recorded in the chip and the live facial image.
+
+2. Where the conditions set out in paragraph 1 are met, the applicable border checks on entry and exit and the border crossing itself may be carried out using an automated border control system. In particular:
+
+(a)
+
+on entry, third country nationals who hold a residence permit shall be subject to the border checks referred to in Article 8(2) and points (i),(ii), (iv) and (vi) of Article 8(3)(a) ;
+
+(b)
+
+on exit, third country nationals who hold a residence permit shall be subject to the border checks referred to in Article 8(2) and points (i),(ii) and (iii) of Article 8(3)(g).
+
+3. On entry and exit, the results of the border checks carried out through the self-service system shall be made available to a border guard. Taking into account the results of the border checks, this border guard shall authorise entry or exit or, otherwise, refer the person to a border guard.
+
+4. The person shall be referred to a border guard in the following situations:
+
+(a)
+
+when one or several of the conditions listed under paragraph 1 is or are not fulfilled;
+
+(b)
+
+when the results of the checks on entry or exit set out in paragraph 2 put into question the identity of the person or when they reveal that the person is considered to be a threat to the internal security, public policy, international relations of any of the Member States or to public health;
+
+(c)
+
+when the checks on entry or exit set out in paragraph 2 of reveal that one or several of the entry or exit conditions are not met;
+
+(d)
+
+in case of doubt.
+
+5. Without prejudice to paragraph 4, the border guard supervising the border crossing may decide to refer persons using the automated border control system to a border guard based on other reasons.
+
+6. Automated border control systems shall be operated under the supervision of a border guard who shall be in charge of observing the users and detecting any inappropriate, fraudulent or abnormal use of the system."
+
+(6)
+
+The following Article 8c is inserted:
+
+"Article 8c
+
+Use of self-service systems for pre-enrolling data in the EES
+
+1. Persons whose border crossing is subject to a registration in the EES in accordance with Article 6a may use self-service systems for the purpose of pre-enrolling their individual file data in the EES provided the following cumulative conditions are verified:
+
+(a)
+
+the travel document presented for the border crossing shall contain an electronic storage medium (chip) and the authenticity of the chip data shall be confirmed using the complete valid certificate chain;
+
+(b)
+
+the travel document presented for the border crossing shall contain a facial image recorded in the chip which can be legally and technically accessed by the automated system so as to verify the identity of the holder of the travel document by comparing the facial image recorded in the chip and his or her live facial image.
+
+2. Pursuant to paragraph 1, the self-service system shall verify whether the person has a previous registration in the EES and the identity of the third country national
+
+in accordance with Article 21(2) of [Regulation establishing the Entry/Exit System (EES)].
+
+3. In conformity with Article 21(4) of [Regulation establishing the Entry/Exit System (EES)], the self-service system shall carry out an identification in accordance with Article 25 of [Regulation establishing the Entry/Exit System (EES)] in the following situations:
+
+(a)
+
+the verification referred to in paragraph 2 indicates that data on the third country national are not recorded in the EES;
+
+(b)
+
+the verification of the third country national fails;
+
+(c)
+
+there are doubts as to the identity of the third country national.
+
+In addition, in accordance with Articles 21(4) of the [Regulation establishing the Entry/Exit System (EES)] where an identification in the EES is carried out,
+
+the following provisions shall apply:
+
+(a)
+
+for third country nationals who are subject to a visa requirement to cross the external borders, if the search in the VIS with the data referred to in Article 18(1) of
+
+Regulation (EC) No 767/2008
+
+indicates that the person is recorded in the VIS, a verification of fingerprints against the VIS shall be carried out in accordance with Article 18 (5) of
+
+Regulation (EC) No 767/2008;
+
+In circumstances where a verification of the person pursuant to paragraph 2 of this Article failed, the border authorities shall access the VIS data for identification in accordance with Article 20 of Regulation (EC) No 767/2008.
+
+(b)
+
+for third country nationals who are not subject to a visa requirement to cross the external borders
+
+and who are not found in the EES further to the identification run in accordance with Article 25 of [Regulation establishing the Entry/Exit System (EES)] , the VIS shall be consulted in accordance with Article 19a of Regulation (EC) No 767/2008.
+
+4. In the event that data on the person is not recorded in the EES pursuant to paragraphs 2 and 3, the following provisions shall apply:
+
+(a)
+
+third country nationals who are subject to a visa requirement to cross the external borders shall pre-enrol in the EES through the self-service system the data listed under Article 14(1) of [Regulation establishing the Entry/Exit System (EES)] and third country nationals who are not subject to a visa requirement to cross the external borders shall pre-enrol in the EES through the self-service system the data listed under Article 15(1), of [Regulation establishing the Entry/Exit System (EES)];
+
+(b)
+
+subsequently, the person shall be referred to a border guard who shall:
+
+(a)
+
+where not all the required data could be collected through the self-service kiosk, pre-enrol the concerned data,
+
+(b)
+
+verify:
+
+(a) that the travel document used at the self service system corresponds to the one held by the person in front of the border guard;
+
+(b) that the live facial image of the person concerned corresponds to the facial image that was collected though the self service system;
+
+(c) and, for persons who do not hold a visa required pursuant to Regulation (EC) No 539/2001, that the live fingerprints of the concerned person correspond to the fingerprints that were collected though the self-service system;
+
+(c)
+
+when the decision to authorise or refuse entry has been taken, confirm the individual file in the EES and introduce the data foreseen under Articles 14(2), 16(1) or 16(3) of the [Regulation establishing the Entry/Exit System (EES)]).
+
+5. Where it results from the operations provided for in paragraphs 2, 3 and 4 that data on the person are recorded into the EES, the self-service system shall check whether one or more of the data listed under Articles 14(1) or 15(1) of the [Regulation establishing the Entry/Exit System (EES)] need to be updated. In addition, if it results that data on the person are recorded into the EES but that the third country national intends to cross for the first time after the creation of the individual file the external borders of a Member State which is subject to the application of
+
+Regulation (EC) No 767/2008
+
+, the VIS shall be consulted as referred to under Article 21(5) of the [Regulation establishing the Entry/Exit System (EES)]
+
+.
+
+6. Where it is verified pursuant to paragraph 5 that the person has a previous file registered in the EES but that his or her individual file needs to be updated, the following provisions shall apply:
+
+(a)
+
+the person shall pre-enrol through the self-service system the updated data in the EES;
+
+(b)
+
+the person shall be referred to a border guard. That border guard shall verify the correctness of the update that was pre-enrolled through the self-service system and, when the decision to authorise or refuse entry has been taken, update the individual file in accordance with Article 13(2) of [Regulation establishing the Entry/Exit System (EES)].
+
+7. Self-service systems shall be operated under the supervision of a border guard who shall be in charge of detecting any inappropriate, fraudulent or abnormal use of the system."
+
+(7)
+
+The following Article 8d is inserted:
+
+"Article 8d
+
+Use of self-service systems and/or e-gates for the border crossing of third country nationals of whose border crossing is subject to a registration in the EES
+
+1. Persons whose border crossing is subject to a registration in the EES in accordance with Article 6a may be permitted to use a self-service system to have their border checks performed if the following cumulative conditions are met:
+
+(a)
+
+the travel document presented for the border crossing shall contain an electronic storage medium (chip) and the authenticity of the chip data shall be confirmed using the complete valid certificate chain;
+
+(b)
+
+the travel document presented for the border crossing shall contain a facial image recorded in the chip which can be legally and technically accessed by the automated system so as to verify the identity of the holder of the travel document, by comparing the facial image recorded in the chip and his/her live facial image;
+
+(c)
+
+the person is already enrolled or pre-enrolled in the EES.
+
+2. Where the conditions laid down in paragraph 1 are met, the checks on entry and exit provided for in Articles 8(2) and 8(3)(a) and (b) or Articles 8(2) and 8(3)(g) and (h) may be carried out through a self-service system. When carried out through an automated border control system, the borders check on exit shall include the checks provided for in Article 8(3)(h).
+
+3. On entry and exit, the results of the border checks carried out through the self-service system shall be made available to a border guard. Taking into account the results of the border checks, this border guard shall authorise entry or exit or, otherwise, refer the person to a border guard.
+
+4.  The person shall be referred to a border guard in the following situations:
+
+(a)
+
+when one or several of the conditions listed under paragraph 1 is or are not fulfilled;
+
+(b)
+
+when the checks on entry or exit under paragraph 2 reveal that one or several of the entry or exit conditions are not met;
+
+(c)
+
+when the results of the checks on entry or exit under paragraph 2 put into question the identity of the person or when they reveal that the person is considered to be a threat to the internal security, public policy, international relations of any of the Member States or to public health;
+
+(d)
+
+in case of doubt;
+
+(e)
+
+when no e-gates are available.
+
+5. In addition to the situations referred to in paragraph 4, the border guard supervising the border crossing may decide to refer persons using self-service system to a border guard based on other reasons.
+
+6. Persons whose border crossing is subject to a registration in the EES in accordance with Article 6a(1) and who used a self-service system for the performance of their border checks may be authorised to use an e-gate. Where an e-gate is used, the corresponding registration of the entry/exit record and the linking of that record to the concerned individual file pursuant to Article 13 of [Regulation establishing the Entry/Exit System (EES)] shall be carried out when performing the border crossing through the e-gate. Where the e-gate is not aggregated to the self- service system,
+
+a verification
+
+of the identity
+
+of
+
+the user shall take place at the e-gate in order to verify that the person using the e-gate corresponds to the person that used the self-service system. The verification shall be made by using at least one biometric identifier.
+
+7. Where the conditions listed in Article 8d(1)(a) or (b), or in both, are not fulfilled, part of the border checks on entry and exit pursuant to Article 8(3)(a) and (b)   as well as  Article 8(3)(g) and (h) may be carried out through a self-service system. Where the border guard can technically retrieve, and is legally permitted to retrieve, the results of the border checks that were carried out through the self-service system and those results show that the outcomes of the checks are positive, the border guard may perform only those verifications pursuant to Article 8(3)(a) and (b) as well as  Article 8(3)(g) and (h) that could not be carried out through the self-service system. In addition, the border guard shall verify that the travel document used at the self- service system corresponds to the one held by the person standing before the border guard.
+
+8. Self-service systems and e-gates shall be operated under the supervision of a border guard who shall be in charge of detecting any inappropriate, fraudulent or abnormal use of the system or e-gate, or both."
+
+(8)
+
+The following Article 8e is inserted:
+
+"Article 8e
+
+National facilitation programmes
+
+1. Each Member State may establish a voluntary programme in order to allow third country nationals as defined in Article 2(6) or nationals of a specific third country who do not benefit from the right of free movement to benefit from the facilitations made pursuant to paragraph 2 of this Article when crossing the external border of a Member State.
+
+2. By way of derogation from Article 8(3)(a), for third country nationals referred to paragraph 1 of this Article and who are granted access to the programme, the thorough checks on entry may not include examination of the aspects referred to in Article 8(3)(a) (iv) and (v) when crossing the external border of such a Member State if the following conditions are met:
+
+(a)
+
+the Member State carries out a pre-vetting of the third country nationals applying to the programme;
+
+(b)
+
+the pre-vetting referred to in point (a) is carried out by visa or border authorities within the meaning of Article 4(3) of Regulation (EC) No 767/2008 or by authorities assigned, in accordance with national law, to carry out checks on persons at the external border crossing points in accordance with this Regulation;
+
+(c)
+
+the authorities referred to in paragraph (b) only grant access to the programme when the following minimum conditions are met:
+
+(i) the applicant fulfils the entry conditions set out in Article 6(1) of this Regulation;
+
+(ii) the applicant's travel document, visa and/ or residence permit presented, is or are valid and not false, counterfeited or forged;
+
+(iii) the applicant proves the need for or justifies the intention to travel frequently or regularly;
+
+(iv) the applicant proves integrity and reliability, in particular, if applicable,, that previous visas with limited territorial validity have been lawfully used, the applicant's economic situation in the country of origin and the genuine intention to leave the territory of the Member States in due time. In accordance with Article 23 of [Regulation establishing the Entry/Exit System (EES)], the authorities referred to in paragraph b) of this Article shall have access to consult the EES to verify that the applicant has not previously exceeded the maximum duration of authorised stay in the territory of the Member States;
+
+(v) the applicant justifies the purpose and conditions of the intended stays;
+
+(vi) the applicant possesses sufficient means of subsistence both for the duration of the intended stays and for the return to the country of origin or residence, or that the applicant is in a position to acquire such means lawfully;
+
+(vii) the applicant is not a person for whom an alert has been issued in the Schengen Information System (SIS);
+
+(viii) the applicant is not considered to be a threat to public policy, internal security, public health or the international relations of any of the Member States, in particular where no alert has been issued in Member States’ national databases for the purpose of refusing entry on the same grounds.
+
+(d)
+
+access to the programme shall be granted for a maximum of one year;
+
+(e)
+
+the Member State shall reassess every year the situation of each third country national who is granted access to the programme in order  to ensure that, based on updated information, the applicant still meets the conditions laid down in Article 8e(2) (c);
+
+(f)
+
+the thorough checks on entry and exit pursuant to Articles 8(3)(a) and 8(3)(b) shall also comprise verification of the identity of the third country national benefiting from the programme and the fact that the third country has a valid access to the programme;
+
+(g)
+
+the authorities referred to in paragraph (b) shall immediately revoke the access granted to a third country national to the programme:
+
+(i) if it becomes evident that the conditions for granting access to the programme were not met;
+
+(ii) if it becomes evident that the conditions for granting access to the programme are no longer met.
+
+When verifying that the applicant fulfils conditions set out in points (a), (b) and (c), particular consideration shall be given to assessing whether the applicant presents a risk of illegal immigration or a risk to the security of the Member State(s) and whether the applicant intends to leave the territory of the Member State(s) during the authorised stay.
+
+The means of subsistence for the intended stays shall be assessed according to the duration(s) and the purpose(s) of the envisaged stay(s) and by reference to average prices in the Member State(s) concerned for board and lodging in budget accommodation, on the basis of the reference amounts set by the Member States in accordance with Article 39(1)(c). A proof of sponsorship or private accommodation, or both, may also constitute evidence of sufficient means of subsistence.
+
+The examination of an application shall be based in particular on the authenticity and reliability of the documents submitted and on the veracity and reliability of the statements made by the applicant. If a Member State responsible for examining an application has any doubts about the applicant, the applicant's statements or supporting documents that have been provided, it may consult other Member States before any decision on the application is taken.
+
+4. Two or more Member States having established their own national programme pursuant to this Article may conclude among them an agreement in order to ensure that the beneficiaries of their national programmes may benefit from the facilitations recognised by the other national programme(s). Within the time-limit of one month from the conclusion of the agreement, a copy of the agreement shall be transmitted to the Commission.
+
+5. The Commission shall, before the end of the third year of application of this Article, transmit to the European Parliament and to the Council an evaluation of its implementation. On the basis of that evaluation, the European Parliament or the Council may invite the Commission to propose the establishment of a Union programme for frequent and pre-vetted third country national travellers."
+
+(9)
+
+Article 9 is amended as follows:
+
+(a)
+
+Paragraph 3 is replaced by the following:
+
+"3. Even in the event that checks are relaxed, the border guard shall enter the data in the EES, in accordance with Article 6a. Where the data cannot be entered by electronic means it shall be entered manually."
+
+(b)
+
+The following paragraph 3a is inserted:
+
+"3a.
+
+In case of technical impossibility to enter data in the Central System of the EES or in case of failure of the Central System of the EES,  the following provisions shall apply:
+
+(i) by way of derogation from Article 6a of this Regulation, the data referred to in Articles 14, 15, 16, 17 and 18 of [Regulation establishing the Entry/Exit System (EES)] shall be temporally stored in the National Uniform Interface as defined in Article 6 of [Regulation establishing the Entry/Exit System (EES)]. If this is not possible, the data shall be temporarily stored locally. In both situations, the data shall be entered into the Central System of the EES as soon as the technical impossibility or failure has been remedied. Member States shall take the appropriate measures and deploy the required infrastructure, equipment and resources in order to ensure that such temporary local storage can be carried out at any time and for any of their border crossing points;
+
+(ii) by way of derogation from Articles 8(3)(a)(iii) and 8(3)(g)(iv) for nationals of third countries holding a visa [or a touring visa] referred to in Article 6(1)(b), when technically possible, the verification of the identity of the holder of the visa shall be carried out by consulting directly the VIS in accordance with Article 18 of Regulation (EC) No 767/2008."
+
+(10)
+
+In Article 10, the following paragraph 3a is added:
+
+"3a. Where Member States decide to use automated border control systems, e-gates or self-service systems, or both, they shall use the signs provided for in part D of Annex III to identify the respective lanes."
+
+(11)
+
+Article 11 is replaced by the following:
+
+"Article 11
+
+Stamping of travel documents
+
+1. Where provided expressly by its national legislation, a Member State may stamp on entry and exit the travel document of third country nationals holding a residence permit issued by that Member State.
+
+2. The practical arrangements for stamping are set out in Annex IV".
+
+(12)
+
+Article 12 is replaced by the following:
+
+"Article 12
+
+Presumptions as regards fulfilment of conditions of duration of stay
+
+1. Without prejudice to Article 12a, if a third country national present on the territory of a Member State is not registered in the EES or the entry/exit record of the person does not contain an exit date following the date of expiry of the authorised length of stay, the competent authorities may presume that the person does not fulfil, or no longer fulfils, the conditions relating to duration of stay on the territory of the Member States.
+
+2. This presumption shall not apply to a third country national who can provide, by any means, credible evidence that the person enjoys the right of free movement under Union law or that the person holds a residence permit or a long stay visa. Where applicable, Article 32 of [Regulation establishing the Entry/Exit System (EES)] shall be applied.
+
+3. The presumption referred to in paragraph 1 may be rebutted where the person provides, by any means, credible evidence, such as transport tickets or proof of his or her presence outside the territory of the Member State or of the date of expiry of a previous residence permit or long stay visa, that he or she has respected the conditions relating to the duration of a short stay.
+
+In such situations the competent authorities shall apply the procedure laid down in Article 18 of [Regulation establishing the Entry/Exit System (EES)].
+
+4. If the presumption referred to in paragraph 1 is not rebutted, the third country national may be expelled by the competent authorities from the territory of the Member States concerned.
+
+A third country national who establishes that he or she enjoys the right of free movement under Union law may only be expelled by the competent border and immigration authorities of the territory of the Member State concerned in accordance with Directive 2004/38/EC."
+
+(13)
+
+The following Article 12a is inserted:
+
+"Article 12a
+
+Transitional period and transitional measures
+
+1. For a period of six months after the EES has started operations, in order to verify at entry that a person has not exceeded the number of entries authorised by the single or double entry visa and to verify at entry and at exit that a person entering for a short stay has not exceeded the length of the maximum authorised stay, the competent border authorities shall take into account the stays in the territories of the Member States during the 180 days preceding the entry or the exit by checking the stamps in the travel documents in addition to the entry/exit data recorded in the EES.
+
+2. Where a person has entered the territory of the Member States and has not yet exited it before the EES started operations, an individual file shall be created in the EES and the date of that entry shall be entered in the entry/exit record in accordance with Article 14(2) of [Regulation establishing the Entry/Exit System (EES)] when the person exits. This rule shall not be limited to the six months after the EES has started operations referred to in paragraph 1. In case of discrepancy between the date of the entry stamp and the data recorded in the EES, the concerned stamp shall prevail."
+
+(14)
+
+Article 14 is amended as follows:
+
+(a)
+
+in paragraph 2 the following third subparagraph is added:
+
+"Data on third country nationals whose entry for a short stay [or on the basis of a touring visa] has been refused shall be registered in the EES in accordance with Article 6a(2) of this Regulation and Article 16 of [Regulation establishing the Entry/Exit System (EES)]."
+
+(b)
+
+in paragraph 3 the third subparagraph is replaced by the following:
+
+"Without prejudice to any compensation granted in accordance with national law, the third country national concerned shall, where the appeal concludes that the decision to refuse entry was ill-founded, be entitled to correction of the data inserted into the EES or of the cancelled entry stamp, or both, and any other cancellations or additions which have been made, by the Member State which refused entry."
+
+(15)
+
+Annexes III, IV and V are amended in accordance with the Annex to this Regulation
+
+(16)
+
+Annex VIII is deleted.
+
+Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication.
+
+It shall apply from the date on which the EES is to start operations, as determined by the Commission in accordance with Article 60 of [Regulation N° XXX of the European Parliament and of the Council establishing the Entry/Exit System (EES) to register entry and exit data of third country nationals crossing the external borders of the Member States of the European Union and determining the conditions for access to the EES for law enforcement purposes].
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+EUROPEAN COMMISSION
+
+Brussels, 6.4.2016
+
+COM(2016) 196 final
+
+ANNEX
+
+to the
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EU) 2016/399 as regards the use of the Entry/Exit System
+
+{SWD(2016) 115 final}
+
+{SWD(2016) 116 final}
+
+ANNEX
+
+to the
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EU) 2016/399 as regards the use of the Entry/Exit System
+
+ANNEX
+
+Annexes to Regulation (EU) 2016/399 are amended as follows:
+
+1.
+
+Part D is added to Annex III:
+
+"PART D
+
+Part D1: ABC lanes for EU/EEA/CH citizens
+
+Stars are not required for Switzerland, Liechtenstein, Norway and Iceland
+
+Part D2: ABC lanes for third country nationals
+
+Stars are not required for Switzerland, Liechtenstein, Norway and Iceland
+
+Part D3: ABC lanes for all passports
+
+Stars are not required for Switzerland, Liechtenstein, Norway and Iceland"
+
+2.
+
+Annex IV  is amended as follows:
+
+(a)
+
+point 1 is replaced by the following:
+
+"1. Where provided expressly by its national legislation, a Member State may stamp on entry and exit the travel document of those third country nationals holding a residence permit issued by that same Member State in accordance with Article 11. In addition, in accordance with Annex V part A, where third country nationals are refused entry pursuant to Article 14, the border guard shall affix an entry stamp on the passport, cancelled by a cross in indelible black ink, and write opposite it on the right-hand side, also in indelible ink, the letter(s) corresponding to the reason(s) for refusing entry, the list of which is given on the standard form for refusing entry shown in Part B of Annex V."
+
+(b)
+
+point 1a is added:
+
+"The specifications of those stamps are laid down in the Schengen Executive Committee Decision SCH/COM-EX (94) 16 rev and SCH/Gem-Handb (93) 15 (CONFIDENTIAL)."
+
+(c)
+
+point 3 is replaced by the following:
+
+"3. In case of refusal of entry of a third country national subject to the visa obligation, the stamp shall, as a general rule, be affixed on the page facing the one on which the visa is affixed.
+
+If that page cannot be used, the stamp shall be entered on the following page. The machine readable zone shall not be stamped."
+
+3.
+
+Annex V part A is amended as follows:
+
+(a)
+
+point 1(b)  is replaced by the following:
+
+"(b) for third country nationals whose entry for a short stay [or on the basis of a touring visa] has been refused, the data on refusal of entry shall be registered into the EES in accordance with Article 6a(2) of this Regulation and Article 16 of [Regulation establishing the Entry/Exit System (EES)]. In addition, the border guard shall affix an entry stamp on the passport, cancelled by a cross in indelible black ink, and write opposite it on the right-hand side, also in indelible ink, the letter(s) corresponding to the reason(s) for refusing entry, the list of which is given on the standard form for refusing entry shown in Part B of this Annex;"
+
+(b)
+
+point 1(d) is replaced by the following:
+
+"(d) for third country nationals whose refusals of entry shall not be registered into the EES, the border guard shall affix an entry stamp on the passport, cancelled by a cross in indelible black ink, and write opposite it on the right-hand side, also in indelible ink, the letter(s) corresponding to the reason(s) for refusing entry, the list of which is given on the standard form for refusing entry shown in Part B of this Annex. In addition, for these categories of persons, the border guard shall record every refusal of entry in a register or on a list stating the identity and nationality of the third country national concerned, the references of the document authorising the third country national to cross the border and the reason for, and date of, refusal of entry;"
+
+(c)
+
+point 1(e) is added:
+
+"(e) The practical arrangements for stamping are set out in Annex IV."

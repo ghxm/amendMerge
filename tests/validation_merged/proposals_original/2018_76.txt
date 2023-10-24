@@ -1,0 +1,603 @@
+COM_2018_0163_FIN.ENG.xhtml.1_EN_ACT_part1_v8.docx
+
+EUROPEAN COMMISSION
+
+Brussels, 28.3.2018
+
+COM(2018) 163 final
+
+2018/0076(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EC) No 924/2009 as regards certain charges on cross-border payments in the Union and currency conversion charges
+
+(Text with EEA relevance)
+
+{SWD(2018) 84 final}
+
+{SWD(2018) 85 final}
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+•
+
+Reasons for and objectives of the proposal
+
+The EU’s Single Market allows people, services, goods and capital to move freely in an economy with an annual Gross Domestic Product of EUR 15 trillion. It offers new opportunities for European businesses and contributes to healthy competition. This leads to more choice, better services and lower prices for over 500 million consumers.
+
+A key priority of the Juncker Commission is the creation of a deeper and fairer Single Market. In December 2015, the European Commission presented a Green Paper to consult on the potential of a more integrated market for retail
+
+financial services, and the actions needed to achieve this goal. Based on the feedback received from stakeholders and the European Parliament's Report
+
+on the Green Paper, the Commission published in March 2017 an Action Plan
+
+setting out a strategy to str
+
+engthen the Single Market for consumer financial services.
+
+Cross-border payments are crucial for the integration of consumer financial services and the EU’s economy. They play an important role in bringing together people and businesses in EU Member States. Restrictions and excessive costs for cross-border payments prevent the completion of the Single Market.
+
+Fees for cross-border payments
+
+Regulation 924/2009 on cross-border payments equalised, across the EU, fees for cross-border payments in euro within the Union with domestic payments in euro (i.e. payments in euro within the same Member State). Non-euro area Member States, although covered by the Regulation, did not benefit from the effects of that Regulation: in these Member States, domestic payments in euro are either very expensive or simply do not exist. As a consequence, people and businesses in these non-euro area EU Member States pay high fees whenever a payment crosses the border of their country or when people travel and pay abroad. These high costs are an impediment to the completion of the Single Market and create two categories of payment service users in the EU.
+
+Non-euro area Member States were given the option to extend Regulation 2560/2001 and its successor Regulation 924/2009 to their national currencies. However, this option was only used by Sweden, which aligned fees for cross-border payments in Swedish krona with fees for domestic payments in Swedish krona.
+
+The objective of this proposal is to bring the benefits of Regulation 924/2009 to people and businesses in Member States outside the euro area, and put an end to the high cost of intra-EU cross-border transactions in euro. This high cost acts as a barrier to exchanges between euro area and non-euro area Member States and is detrimental to both areas. People and businesses outside the euro area suffer higher costs to access markets or interact with people in the euro area. This means they cannot trade or compete with their counterparts in the euro area under the same conditions. For example, when a non-euro area business has suppliers located in the euro area, the cost of its input will be higher than it would be for a competitor located in the euro area. Equally, this additional barrier to free movement and trade limits the number of potential clients available to euro area businesses. The tables below illustrate the current situation and the situation after application of the amended Regulation.
+
+The proposal does not deal with cross-border transactions in other currencies than euro.
+
+CURRENT SITUATION
+
+SENDING EUROS FROM …
+
+TO …
+
+Euro area (+ Sweden)
+
+Non-euro area
+
+Euro area (+ Sweden)
+
+ZERO/LOW FEES
+
+HIGH FEES
+
+Non-euro area
+
+ZERO/LOW FEES FOR THE SENDER
+
+HIGH FEES FOR RECEIVER
+
+HIGH FEES
+
+At present, for example a citizen or company in
+
+Bulgaria
+
+making a cross-border transfer of EUR 500 to Finland may have to pay up to EUR 24 in fees, whereas a person transferring the same amount to Finland from France would pay nothing, or almost nothing
+
+. The person making the payment from France would
+
+pay the same amount that he would pay for a domestic transfer within France.
+
+AFTER THE AMENDMENTS CONTAINED IN THIS PROPOSAL
+
+SENDING EUROS FROM …
+
+TO …
+
+Euro area (+ Sweden)
+
+Non-euro area
+
+Euro area (+ Sweden)
+
+ZERO/LOW FEES
+
+ZERO/LOW FEES
+
+Non-euro area
+
+ZERO/LOW FEES
+
+ZERO/LOW FEES
+
+As a result of the amendments contained in this proposal, the citizen or company transferring euros from Bulgaria would also pay nothing — or almost nothing — in this situation. This person or company would pay the same fees for a transfer in euros to Finland that they would pay for a domestic transfer in levs within Bulgaria.
+
+Transparency obligations related to currency conversion practices
+
+The amendments to Regulation 924/2009 contained in this proposal also establish additional transparency obligations for currency conversion practices in line with Articles 45 and 59 of Directive 2015/2366 on payment services in the internal market. These new transparency obligations are warranted, because consumers in the EU face a lack of transparency whenever they make a payment involving a currency conversion. When a consumer makes a card payment abroad (be it a cash withdrawal at an ATM or a card payment at a point of sale) in a different currency than their home currency, they are often given two choices. The first choice is to pay in their home currency, a service called dynamic currency conversion. This service is offered by dynamic currency conversion providers and the bank of the merchant. The consumer’s second choice is to pay in the local currency using the services of the card scheme and the consumer’s bank (non-dynamic currency conversion or ‘on-network’ conversions). Consumers have been complaining about dynamic currency conversion practices in particular. This is because they consider that they lack the necessary information to make an informed choice. As a result, consumers often unwillingly choose the more expensive currency conversion option.
+
+This proposal will enhance transparency for consumers by disclosing the full cost of a cross-border transaction. It will help them compare currency conversion service offers before starting a payment transaction involving a currency conversion. Considering the very technical nature of currency conversion in a fast-changing environment, the European Banking Authority will be tasked with establishing regulatory technical standards to better frame currency conversion practices. The proposal will also establish a temporary cap on currency conversion costs until the transparency measures devised by the European Banking Authority take effect, i.e. at the latest 36 months after the entry into force of the amended Regulation.
+
+Once implemented, this proposal will generate significant savings for consumers, while the revenues of some payment service providers may decrease. The proposal will also ensure that currency conversion costs are not used by payment service providers to compensate for reduced revenues through increased non-transparent margins on currency conversion, as these costs are usually not known by payment service users.
+
+•
+
+Consistency with existing policy provisions in the policy area
+
+Since the introduction of the euro, the European Union has launched various initiatives to significantly reduce the cost of cross-border transactions. The three most important such initiatives are listed below.
+
+- The introduction of a set of single euro payments area (SEPA) standards for euro transactions, including single euro payments area credit transfers and single euro payments area direct debits.
+
+- The Payment Services Directives (Directive 2007/64/EC, replaced by Directive (EU) 2015/2366) increased the transparency of fees and facilitated the entry of new players in the market. This contributed to greater competition in payments, including cross-border payments, and increased the transparency of fees. This also resulted in improvements in the payments infrastructure, which became capable of handling increased payment volumes in euro at lower costs.
+
+- Regulation 2560/2001, later replaced by Regulation 924/2009, on cross-border payments also contributed by equalising fees for cross-border and national payments in euro within the EU.
+
+All these initiatives contributed to the further integration of the Single Market and the emergence of a more integrated payments market within the euro area.
+
+•
+
+Consistency with other EU policies
+
+This initiative contributes to the better functioning of the Single Market. It also brings some key benefits of Economic and Monetary Union (namely efficient and low-cost cross-b
+
+order transactions) to people and businesses in non-euro area Member States. The initiative is in line with the FinTech Action Plan
+
+, which aims to bring more competition and innovation to the European financial sector. The initiative is also closely
+
+linked to the Capital Markets Union, an objective of which is to create a genuine single capital market in the EU, where investors can invest their funds without obstacles across borders, and where businesses can raise funds from a diverse range of sources
+
+, irrespective of their location. The Digital Single Market’s objective of removing barriers to online trade will also be served by this initiative, which will apply both in the brick-and-mortar and in the digital environment. This will remove one barrier
+
+— fees for cross-border transactions — that may prevent cross-border online sales.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+•
+
+Legal basis
+
+Article 114 of the Treaty on the Functioning of the European Union confers to the European institutions the competence to lay down appropriate provisions that have as their objective the establishment and functioning of the internal market.
+
+The Single Market encompasses the free movement of goods, people, services and capital. Payments are important to complete the Single Market possible, but barriers are currently being created by the high cost of cross-border payments. This makes it more difficult for households and businesses to engage in cross-border trade. The high costs of cross-border payments also create two categories of payment service users. The first category comprises users in the euro area who are able to reach, with their payments, a majority of people and businesses in the EU at a very low cost. The second category comprises users in non-euro area countries who can only reach a limited number of people and businesses with low-cost payments.
+
+To address these two concerns, legislative action at EU level is the most effective response, and is in line with the objectives of the Treaties.
+
+•
+
+Subsidiarity
+
+(for non-exclusive competence)
+
+Under Article 4 of the Treaty on the Functioning of the European Union, EU action for completing the internal market must be appraised in light of the subsidiarity principle set out in Article 5(3) of the Treaty on European Union. It must be assessed whether the objectives of the proposal (a) could not be achieved by the Member States through their national legal systems, and (b) by reason of their scale and effects, are better achieved at EU level.
+
+Member States were previously given the option to extend Regulation 2560/2001 and its successor Regulation 924/2009 to their national currencies. To date, only Sweden has made use of this option. As a consequence, prices of intra-EU cross-border payments in Swedish krona from Sweden are now the same as domestic payments made within Sweden. Sweden’s use of this option also positively impacted cross-border payments in euro which are offered by Swedish banks with no additional charge compared to krona payments within Sweden.
+
+It is true that other non-euro area Member States could take individual actions — like Sweden did — to reduce the cost of cross-border payments. However the current barriers would remain as long as there are Member States where no action is taken. For this reason, tackling the problem by acting at EU level is preferable to leaving it to individual Member States or to the market, neither of which can guarantee swift progress and full EU coverage.
+
+Moreover, action at EU level would generate economies of scale (increasing the volume of cross-border transactions, leading to enhanced efficiency in the payments infrastructure). It would also increase the volume of intra-EU cross-border trade, stimulate competition and further integrate the economies of the EU.
+
+Keeping the status quo would maintain this de facto divide, slow down economic integration and prevent the deepening of the single market.
+
+•
+
+Proportionality
+
+Under the principle of proportionality, the content and form of EU action should not exceed what is necessary to achieve the objectives of the Treaties.
+
+The cost of achieving the objective is low. This is because EU payment service providers have access to efficient euro clearing and settlement infrastructures. The proposal would essentially require payment service providers in non-euro area Member States to align their fees for cross-border transactions in euro with the fees charged for domestic transactions in the national currency of the Member State
+
+of their payment service users (which are generally lower). Euro area Member States already benefit from low cross-border transaction fees for most of their transactions. Limiting the proposal to euro transactions has no impact on payment service providers in euro area Member States, but it covers a great many transactions in non-euro area Member States (about 60 % of their cross-border transactions).
+
+In addition, aligning cross-border euro-transaction fees with fees charged for domestic transactions in the national currency of the Member State takes account of the level of development and efficiency of local payment systems and banks (infrastructure and processes). Indeed, production costs are not the same from one country to another and, in some non-euro area Member States, even domestic transactions can cost up to one euro. Using domestic transaction fees as a benchmark makes it possible to take into account the specificities of each Member State and their payment service providers. Proportionality is further discussed in the impact assessment accompanying the proposal under chapters 7 and 8.
+
+Extending the application of this Regulation to currencies other than the euro would have clear benefits, especially in terms of the number of payments covered. However, it might also encourage payment service providers to raise costs for other services, notably domestic payments, to cross-subsidise cross-border transactions in non-euro currencies. It should therefore remain optional for Member States that do not have the euro as their currency to extend the application of this Regulation to cross-border payments denominated in their national currency.
+
+3.
+
+STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+•
+
+Stakeholder consultations
+
+Stakeholders were consulted in several ways:
+
+·
+
+an open public consultation on transaction fees took plac
+
+e between 24 July 2017 and 30 October 2017 (14 weeks);
+
+·
+
+stakeholders from industry, including representatives from different payment service providers, were consulted during the meeting of the payment systems market expert group on 24 October 2017;
+
+·
+
+represen
+
+tatives of Member States were consulted at the meeting of the Commission expert group on banking, payments and insurance on 17 November 2017;
+
+·
+
+the financial services user group provided input and observations at its meeting on 5 December 2017.
+
+In these consultations, payment service users (consumers or businesses) all spoke of the high price they pay for cross-border transactions and the lack of transparency of fees charged to them. On the other hand, payment service providers clearly indicated that there was a major difference between payments in euro that were ‘straight-through processed’ (i.e. processed automatically without manual intervention) and the far less efficient (and hence more costly) processing of payments in other currencies.
+
+•
+
+Collection
+
+and use of expert advice
+
+The Commission asked the consultancy Deloitte to conduct a study
+
+to gather data on the fees charged by the top three-to-seven banks in each non-euro area Member State and in three euro area Member States for cross-border payment
+
+transactions covered by the proposal (credit transfers, card payments and cash withdrawals). In addition, Deloitte was asked to provide estimates for the internal costs of these transactions. The study concluded that transactions in euro benefited from eff
+
+icient cross-border infrastructures, standards and processes that should allow their prices to be aligned with those of domestic-currency transactions, at much lower levels than the ones observed today. The study also concluded that cross-border transactio
+
+ns in currencies other than the euro were still governed by unmodernised processes without centralised infrastructure. These processes remained costly, preventing payment service providers from offering competitive pricing for these transactions.
+
+•
+
+Impact
+
+assessment
+
+Four policy alternatives were considered in the impact assessment which received a positive opinion from the Regulatory Scrutiny Board on 14 February 2018. All options extend the principle of equalising the costs of domestic transactions in the national currency of the payment service user’s Member State with the cost of cross-border intra-EU transactions:
+
+(1) in the same national currency;
+
+(2) in the same national currency and in euro;
+
+(3) in euro only;
+
+(4) in any currency of EU Member States, regardless of where they take place.
+
+The third option proposes to align fees for cross-border intra-EU payments in euro with fees for domestic transactions in the national currency of a Member State. This third option is the one chosen in the current proposal. It has no impact on euro area Member States. For non-euro area Member States, it was found to be the most efficient option, as modern infrastructures for cross-border payments in euro are also available to all payment service providers in non-euro area Member States. The third option was also found to be highly effective because most cross-border transactions in non-euro area Member States take place in euro. Moreover, as the costs of euro transactions are low, there would be a lower risk of payment service providers raising (a) fees for domestic transactions, or (b) the costs of currency conversion to cross-subsidise cross-border transactions. Any such measure by payment service providers would be subject to competition rules. Finally, this third option is also consistent with the longer-term goal of having the euro become a common currency for all Member States. Based on the results of the consultation, acceptance of this option by payment service providers would also be higher than for any other option.
+
+According to this option, payment service providers in non-euro area Member States would equalise fees of cross-border payments in euro and domestic payments in the currency of those Member States. The practical implications are limited to a change in the fee tables used by payment service providers when charging their clients. The direct savings for payment service users (mainly consumers and small and medium-sized businesses — large corporates usually benefit from negotiated fees) and corresponding decreased revenues for payment services providers brought by this measure are estimated at EUR 900 million annually stemming from reduced fees charged on cross-border transactions in euro. Users of payment services would further benefit from the increased transparency in fees charged for cross-border transactions. The cost of hiring supervisors to ensure that payment service providers comply with the Regulation will be negligible.
+
+In the long run, there are two main expected impacts. The first is the better integration of non-euro area Member States with euro area Member States by creating a level playing field for small and medium-sized businesses. The second expected impact is greater equality between people in the EU in access to low-cost cross-border payments.
+
+The impact assessment concludes that payment service providers will see their revenue decrease upon implementation of the proposal. There is a probability that these market players would try to recoup parts of their losses of revenues, for instance by
+
+increasing fees on other products and services (e.g. domestic transaction fees or account management fees). Any such attempts would of course be subject to national and EU competition rules. It is important to notice that when identical requirements were
+
+imposed on banks in euro area Member States following the entry into force of the first Regulation of 2001, this did not lead to increased fees. On the contrary, fees for all types of payments continued to decrease in euro area Member States. As regards no
+
+n-euro area Member States, it should be mentioned that Sweden made use of the existing option in Regulation 924/2009 to extend the scope of the Regulation to Swedish krona. This benefited Swedish consumers and businesses without damaging the Swedish paymen
+
+ts market
+
+.
+
+Moreover, there is a danger that currency conversion costs could be used by payment service providers to recoup the revenue losses stemming from being forced to align their euro and non-euro fees. These currency conversion costs are less known by users of payment services and not transparent enough for users of payment services to measure. The proposal addresses this risk by requiring increased transparency for currency conversions.
+
+Following the positive opinion and suggestions for improvements from the Regulatory Scrutiny Board, the impact assessment report was amended to describe in more detail the long-term role that financial technology could play in reducing fees for cross-border payments. The section in the impact assessment report related to the monitoring and evaluation of the amendments contained in this Proposal was also reviewed. Finally, further work was conducted by Commission services on transparency in currency conversion. This issue is already covered by the Payment Services Directive, which imposes transparency requirements. However, these requirements should be made more specific to be more effective and to prevent counter-measures that would offset any cost-reduction benefits achieved by amending Regulation 924/2009. The solution proposed in the current proposal consists of giving a mandate to the European Banking Authority to develop regulatory technical standards to ensure the transparency and comparability of currency conversion offers. The development of these regulatory technical standards will be based on a specific impact assessment to be carried out by the European Banking Authority.
+
+•
+
+Regulatory fitness and simplification
+
+Regulation 924/2009 was flagged as a REFIT
+
+initiative in the 2017 Commission work programme. This R
+
+egulation had already been subject to simplification in 2012 through amendments brought by the single euro payments area end-date Regulation (Regulation EU No 260/2012), which removed the EUR 50 000 cap beyond which Regulation 924/2009 did not apply, and a
+
+lso removed a number of reporting obligations.
+
+The proposal will further enhance the effectiveness of Regulation 924/2009. Although Regulation 924/2009 applied to all euro transactions in all Member States, it has not worked for EU citizens and businesses outside the euro area, in spite of their widespread use of the euro for cross-border transactions. The proposal will remedy this shortcoming and finally allow all EU citizens and businesses to benefit from this Regulation, which had always been intended to benefit the entire EU and not just the euro area.
+
+Micro-enterprises and small and medium-sized businesses in general will benefit from the proposal. Indeed, most small and medium-sized businesses, in particular the smallest ones, are unable to negotiate the fees they pay for cross-border payments. This ability is usually restricted to larger corporate customers that benefit from the cash management services of major banks. The extension of the Regulation would therefore benefit small and medium-sized businesses much more than larger companies.
+
+EU businesses will become more competitive as they will be able to reach a wider pool of suppliers or clients at a lower cost. The EU economy as a whole is likely to become more competitive thanks to closer economic integration resulting from the removal of payment cost-related barriers.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The proposal has no budgetary implications for EU institutions.
+
+5.
+
+OTHER ELEMENTS
+
+•
+
+Implementation plans and monitoring, evaluation and reporting arrangement
+
+s
+
+An evaluation of the impact of the new rules should be carried out by 31 October 2022 and presented to the European Parliament, the Council, the European Economic and Social Committee and the European Central Bank. This evaluation should in particular look at market developments, and assess the appropriateness of extending the proposal to all currencies of EU Member States and not only the euro.
+
+•
+
+Detailed explanation of the specific provisions of the proposal
+
+It is proposed that the price of a cross-border payment transaction in euro within the European Union should not be different from that of domestic transactions within a Member State conducted in the national currency of that Member State.
+
+Article 1(2) establishes the principle that payment service providers must align fees for cross-border payments in euro with those for corresponding domestic payments in the national currency of the payment service user’s Member State also for Member States which do not have the euro as their national currency.
+
+Article 1(3) further clarifies Articles 45 and 59 of Directive (EU) 2015/2366 on payment services in the internal market related to currency conversion and introduces requirements on payment service providers to ensure transparency prior to a payment as well as comparability of alternative options for currency conversion. This Article tasks the European Banking Authority with developing regulatory technical standards to ensure transparency and full price comparability of different currency conversion-service options available to users of payment services.
+
+2018/0076 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EC) No 924/2009 as regards certain charges on cross-border payments in the Union and currency conversion charges
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+Since the adoption of, first, Regulation (EC) No 2560/2001 of the European Parliament and of the Council
+
+and subsequently Regulation (EC) No 924/
+
+2009
+
+of the European Parliament and of the Council
+
+, charges for cro
+
+ss-border payments in euro between Member States of the euro area have strongly decreased to levels that are insignificant in the vast majority of cases.
+
+(2)
+
+Cross-border payments in euro from non-euro area Member States however account for a very large pa
+
+rt of all cross-border payments from non-euro area Member States. The charges for those specific cross-border payments remain high, even though payment service providers have access to the same efficient infrastructures to process those transactions at ver
+
+y low costs as payment service providers from the euro area.
+
+(3)
+
+High charges for cross-border payments remain a barrier to the full integration into the single market of businesses and citizens in non-euro area Member States. They perpetuate the existence
+
+of two categories of payment service users in the Union: on the one hand payment service users, the vast majority of which benefit from the single euro payments area ('SEPA'), and on the other hand, payment service users that pay high costs for their cros
+
+s-border payments in euro.
+
+(4)
+
+In order to facilitate the functioning of the Single Market and end the barriers between payment service users in the euro area and non-euro area Member States in respect of cross-border payments in euro, it is necessary to e
+
+nsure that charges for cross-border payments in euro within the Union are aligned with charges for domestic payments made in the official currency of a Member State.
+
+(5)
+
+Currency conversion charges represent a significant cost of cross-border payments whe
+
+n different currencies are in use in the payer's and the payee's countries. Article 45 of Directive (EU) 2015/2366
+
+of the European Parliament and of the Council
+
+requires transparency of charges and of the exchange rate used prior to the initiation of a pa
+
+yment transaction. When alternative currency conversion options are offered at a point of sale or at an automated teller machine (ATM), that transparency may not allow for a quick and clear comparison between those different currency conversion options. Th
+
+at lack of transparency prevents competition from bringing down costs of currency conversion and increases the risk of payers choosing expensive currency conversion options. It is therefore necessary to develop measures addressed to payment service provide
+
+rs that will improve transparency and protect consumers against excessive charges for currency conversion services, in particular when consumers are not given the information they need to choose the best currency conversion option.
+
+(6)
+
+Transparency in cur
+
+rency conversion charges requires adapting current payment infrastructures and processes, in particular for payments made online, at the point of sale or for ATM cash withdrawals. To that end, market players should be given sufficient time to adapt their i
+
+nfrastructure and processes in relation to those provisions that relate to currency conversion charges in order to comply with regulatory technical standards to be adopted by the Commission.
+
+(7)
+
+Considering the technical level of the measures required for
+
+transparency in currency conversion charges, the Commission should be empowered to adopt regulatory technical standards developed by the European Banking Authority with regard to the level of transparency required and the comparability of currency convers
+
+ion services. The Commission should adopt those draft regulatory technical standards by means of delegated acts pursuant to Article 290 Treaty on the Functioning of the European Union and in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010
+
+of the European Parliament and of the Council
+
+.
+
+(8)
+
+In order to limit consumer detriment before market players are required to comply with the transparency measures, it is appropriate to instruct the European Banking Authority ('EBA') to define within th
+
+e regulatory technical standard the level of a transitional cap that should be applied to limit charges for currency conversion services while at the same time maintaining fair competition among payment service providers.
+
+(9)
+
+Since the objectives of this
+
+Regulation cannot be sufficiently achieved by the Member States but can rather, by reason of the cross-border nature of the payments, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set o
+
+ut in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives,
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Amendments to Regulation (EC) No 924/2009
+
+Regulation (EC) No 924/2009 is amended as follows:
+
+(1)
+
+Article 1 is amended as follows:
+
+(a)
+
+paragraph 1 is replaced by the following:
+
+“1.
+
+This Regulation lays down rules on cross-border payments within the Unio
+
+n”,
+
+(b)
+
+in paragraph 2, the following second subparagraph is added:
+
+“However Articles 3a and 3b shall apply to all cross-border payments, irrespective of whether those payments are denominated in euro or in a national currency of a Member State other than the euro.”;
+
+(2)
+
+Article 3 is amended as follows:
+
+(a)
+
+paragraph 1 is replaced by the following:
+
+“1.
+
+Charges levied by a payment service provider on a payment service user in respect of cross-border payments in euro shall be the same as the charges levied by that payment service provider on payment service users for corresponding national payments of the
+
+same value and in the official currency of the payment service user's Member State.”,
+
+(b)
+
+the following paragraph 1a is inserted:
+
+“1a.
+
+Charges levied by a payment service provider on a payment service user in respect of cross-border payments in the nation
+
+al currency of a Member State that has notified its decision to extend the application of this Regulation to its national currency in accordance with Article 14, shall be the same as the charges levied by that payment service provider on payment service us
+
+ers for corresponding national payments of the same value and in the same currency.”,
+
+(c)
+
+paragraph 3 is deleted,
+
+(d)
+
+paragraph 4 is replaced by the following:
+
+“4.
+
+Charges referred to in paragraphs 1 and 1a shall not cover currency conversion charges.”;
+
+(
+
+3)
+
+the following Article 3a is inserted:
+
+“
+
+Article 3a
+
+Currency conversion charges
+
+1.
+
+From
+
+[OP please insert date 36 months after the entry into force of this Regulation]
+
+,
+
+payment service providers shall inform payment service users of the full cost of cur
+
+rency conversion services, and where applicable, those of alternative currency conversion services prior to the initiation of a payment transaction, in order that payment service users can compare alternative currency conversion options and their correspon
+
+ding costs. To that effect, payment service providers shall disclose the exchange rate applied, the foreign exchange reference rate used and the total amount of all charges applicable to the conversion of the payment transaction.
+
+2.
+
+The European Banking
+
+Authority ('EBA') shall develop draft regulatory technical standards specifying how payment service providers shall ensure transparency and price comparability of different currency conversion service options, where those are available, to payment service
+
+users. Those standards shall include measures to be applied by payment service providers, including at an ATM or point of sale, to ensure that payment service users are informed about the costs of the currency conversion service and the alternative currenc
+
+y conversion options, where available, before the payment is initiated.
+
+The draft regulatory technical standards referred to in the first subparagraph shall also set the maximum amount of all charges allowed for the currency conversion services that can be applied to a payment transaction during the transitional period referred to in Article 3b.  Those standards shall take into account the amount of the payment transaction and the fluctuation in exchange rates between currencies of Union Member States, while securing and maintaining fair competition among all payment service providers
+
+The regulatory technical standards shall specify the measures to be applied in order to prevent payment service users being charged more than this maximum amount during that period.
+
+EBA shall submit those draft regulatory technical standards to the Commission by [6 months after entry into force of this Regulation]
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council*.
+
+_________________________________________________________________
+
+*
+
+Regulation (EU) No 1093/2010 of the European Parliament and of the
+
+Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (OJ L 331, 15.12.2010, p. 12).”;
+
+(4)
+
+the following Article 3b is inserte
+
+d:
+
+“Article 3b
+
+Transitional period
+
+During the transitional period between the entry into force of the regulatory technical standards referred to in the fourth subparagraph of Article 3a(2) and the date of application of Article 3a(1), the charges for currency conversion services shall not exceed the maximum amount set in the regulatory technical standards adopted in accordance with the fourth subparagraph of Article 3a(2).”;
+
+(5)
+
+Article 15 is replaced by the following:
+
+“
+
+Article 15
+
+Review
+
+By 31 October 2022, the Commission shall present to the European Parliament, the Council, the European Economic and Social Committee and the European Central Bank a report on the application of this Regulation, accompanied, if appropriate, by a proposal. That report shall cover, in particular, the appropriateness of amending Article 1(2) to ensure that this Regulation covers all currencies of Member States of the Union.”.
+
+Article 2
+
+This Regulation shall enter into force on the 20th day following that of its publication in the
+
+Official Journal of the European Union
+
+.
+
+It shall apply from 1 January 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President

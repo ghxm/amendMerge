@@ -1,0 +1,323 @@
+EUR-Lex - 52010PC0597 - EN
+
+|
+
+52010PC0597
+
+Proposal for a REGULATION (EU) No …/… OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EC) No 648/2004 as regards the use of phosphates and other phosphorous compounds in household laundry detergents  /* COM/2010/0597 final - COD 2010/0298 */
+
+ | EUROPEAN COMMISSION |
+
+Brussels, 4.11.2010
+
+COM(2010) 597 final
+
+2010/0298 (COD)
+
+Proposal for a
+
+REGULATION (EU) No …/… OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EC) No 648/2004 as regards the use of phosphates and other phosphorous compounds in household laundry detergents
+
+(Text with EEA relevance)
+
+SEC(2010) 1278 SEC(2010) 1277
+
+EXPLANATORY MEMORANDUM
+
+CONTEXT OF THE PROPOSAL
+
+General context
+
+Phosphates are used in detergents to combat water hardness in order to allow efficient cleaning. Sodium tripolyphosphate (STPP) is the most commonly used phosphate in detergents. In conjunction with surfactants, STPP allows detergents to perform efficiently in all washing conditions.
+
+More specifically, STPP has the following functions in detergents:
+
+-  efficient sequestering of hardness salts (and keeping them in solution);
+
+-  removal and prevention of encrustation on fibres;
+
+-  enhancement of the washing process;
+
+-  carrier for other detergent ingredients.
+
+Phosphates from detergents can contribute to certain adverse effects in the aquatic environment. The prime concern is that they can lead to an excess of nutrients which cause an accelerated growth of algae and higher forms of plant life to produce an undesirable disturbance to the balance of organisms, a phenomenon called eutrophication. Alternative water-softening ingredients are available, but with various performance limitations, particularly for the more demanding cleaning tasks.
+
+Regulation (EC) No 648/2004 on detergents harmonises the placing on the market of detergents, but only with respect to the labelling of detergents and the biodegradability of the surfactants they contain. Nevertheless, in view of concerns about eutrophication, Article 16 of the Regulation also required the Commission to “ evaluate, submit a report on and, where justified, present a legislative proposal on the use of phosphates with a view to their gradual phase-out or restriction to specific applications ”. The Commission presented the report in 2007 and concluded that the state of knowledge concerning the contribution of phosphates in detergents to eutrophication was still incomplete, but was developing rapidly[1]. Further scientific work conducted thereafter, as well as information on economic and social impacts of possible restrictions, have been the basis for an impact assessment report, which analyses a number of policy options to address the use of phosphates in detergents.
+
+Grounds for and objectives of the proposal
+
+The proposal aims to amend Regulation (EC) No 648/2004 on detergents by introducing a limitation on the content of phosphates and others phosphorous compounds in household laundry detergents, in order to decrease detergents' contribution to the overall eutrophication of EU surface waters, following the conclusions of the evaluations and the impact assessment performed by the Commission pursuant to Article 16 of Regulation (EC) No 648/2004.
+
+Furthermore, following the entry into force of the Treaty of Lisbon, the provisions of Regulation (EC) No 648/2004 concerning the power of the Commission to adopt non-legislative acts of general application to supplement or amend certain non-legislative elements of that Regulation have to be adapted to the requirements of Article 290 of the Treaty on the Functioning of the European Union.
+
+The general objective is to ensure a high level of protection of the environment from the potential adverse effects of phosphates and others phosphorous compounds in detergents and to ensure a well functioning internal market for detergents.
+
+Consistency with others policy and objectives of the Union
+
+This proposal is fully consistent with the objectives of the Water Framework Directive (Directive 2000/60/EC) which requires Member States to achieve good ecological and chemical status of surface water by 2015 and also requires them to prepare programme of measures – e.g. river basin management plans – which may include, where justified, cost effective and proportionate, mandatory action, or voluntary agreements to limit phosphates in detergents in order to tackle the eutrophication problem in their territories.
+
+Indeed to combat eutrophication resulting from trans-boundary flows of phosphates into water bodies co-ordinated action by the Member States concerned in the river basin management context of the WFD, or in regional co-operation strategies have been put into place in some sensitive EU areas, like the Baltic Sea or the Danube River Basin, but have until now progressed slowly. Thus the proposal is a complementary measure essential for the success of the activities of regional co-operation initiative to combat the trans-boundary problem of eutrophication.
+
+The proposal also complements the Urban Waste Water Treatment Directive, 91/271/EEC, which aims to limit the concentrations of nutrients such as phosphorous and nitrogen in surface waters in order to counter eutrophication.
+
+CONSULTATION OF INTERESTED PARTIES AND IMPACT ASSESMENT
+
+Consultation of interested parties, collection and use of expertise
+
+The Commission initiated a number of studies to establish whether restrictions on phosphates in detergents would be justified in order to reduce eutrophication in the EU: WRc 2002[2], INIA pan-European eutrophication[3], report by an external contractor (RPA). These studies have provided the basis for further consultations of Member States, Industry [European Phosphates Producer Industry (CEEP); International Association for Soaps, Detergents and Maintenance Products (A.I.S.E.); European Zeolites Producers Association (EUZEPA)] and environmental NGOs [World Wildlife Fund (WWF); European Consumers' Organisation (BEUC)] during meetings of the Working Group of the Competent Authorities responsible for the implementation of the Detergents Regulation – known as the "Detergents Working Group” – namely in November 2006, July and December 2007, July 2008, February and November 2009.
+
+A specific consultation of small and medium size detergent formulators via the Enterprise Europe Network was undertaken in 2009, in order to get more insight into the current use of phosphates and alternatives when formulating detergents and the impacts of potential restrictions of phosphates on these SMEs.
+
+Impact assessment
+
+The analysis of the impacts of the various policy options has been conducted taking into consideration results of the scientific analysis of the contribution of phosphates in detergents to eutrophication risks in the EU, as well as the criteria of effectiveness and efficiency (including practicality, socio-economic impacts, and monitorability). Information has been mainly derived from the INIA study on eutrophication risks associated with phosphates in detergents and the RPA report concerning zeolites and other builders as STPP alternatives, as well as the remarks of the SCHER on the evaluation of these reports, and further direct consultation with stakeholders.
+
+Five policy options have been scrutinised for their impact:
+
+-  Option 1: No action at EU level, leaving the responsibility to act to the Member States or in the context of regional cooperation (baseline option);
+
+-  Option 2: Voluntary action by industry;
+
+-  Option 3: Total ban of phosphates in detergents;
+
+-  Option 4: Restriction/limitation of phosphates content in laundry detergents;
+
+-  Option 5: Setting limits values for the content of phosphates in detergents.
+
+The evaluation and the impact analysis of the options shows that the introduction at European level of a limitation on the use of phosphates and other phosphorous compounds in household laundry detergents will reduce the contribution of phosphates from detergents to eutrophication risks of EU waters and reduce the cost of phosphorous removal for waste water treatment plants. Those cost savings greatly outweigh the cost of reformulating household laundry detergents with alternatives to phosphates. In contrast, EU-wide restrictions would not be justified at present for dishwasher detergents or for institutional and industrial detergents because the available alternatives cannot satisfy in general the greater technical demands in those applications.
+
+LEGAL ELEMENTS OF THE PROPOSAL
+
+Legal basis
+
+The legal basis of the proposal is Article 114 of the Treaty on the Functioning of the European Union (TFEU). Article 114 has the objective to establish an internal market while ensuring a high level of protection of human health and the environment.
+
+Subsidiarity principle
+
+The subsidiarity principle as set out in Article 3(3) of the Treaty on European Union, applies insofar as the proposal does not fall under the exclusive competence of the Union.
+
+The objective to limit the contribution of phosphates from detergents to eutrophication risks in EU waters while maintaining a well functioning internal market for detergents cannot be sufficiently achieved by the Member States alone and action by the EU will be more efficient to achieve the objectives for the following reasons:
+
+-  Some Member States have adopted national measures to limit the use of phosphates and/or others phosphorous compounds, mainly in household laundry detergents, in accordance with provisions of Article 14 of Regulation (EC) No 648/2004 with different cut-off values. There is no common technical specification throughout the Union. This fragments the EU market for laundry detergents.
+
+-  The current regional cooperation by Member States in the Baltic Sea Strategy and in the Danube River Basin have until now progressed rather slowly on this issue and the EU Member States cooperating on these regional strategies have repeatedly called for harmonised EU measures.
+
+-  In line with the subsidiarity principle, the draft Regulation maintains the currently already existing possibility for Member States to establish national legislation on phosphates in automatic dishwasher detergents and professional detergents, provided this is justified by particular circumstances such as high eutrophication risks or water conditions in the territory of the Member States. So far, few Member States have in place or are planning to introduce limitations for phosphates in dishwasher detergents with very limited impacts on the internal market for these detergents.
+
+Proportionality principle
+
+The proposal does not go beyond what is necessary in order to achieve the intended objectives, in accordance with the principle of proportionality, as set out in Article 3(4) of the Treaty on European Union.
+
+Given the current lack of suitable technical or economical alternatives to replace phosphates in detergent types other than laundry detergents, and given the fact that laundry detergents are the largest contributor to the overall load of phosphates from detergents, the proposal does not limit the phosphate content of other types of detergent.
+
+Choice of the instruments
+
+The chosen legal instrument is a Regulation as it aims to harmonise the content of phosphates and others phosphorous compounds in household laundry detergents. It amends the already existing Regulation on detergents.
+
+Main provisions of the proposal
+
+The proposal extends the scope of Regulation (EC) No 648/2004 to allow introduction of a limitation on the content of phosphates and others phosphorous compounds in detergents (amendments to Articles 1 and 4).
+
+It should be noted that alternatives for phosphates in household laundry detergents do sometimes contain other phosphorous containing compounds, in particular phosphonates. It is therefore not possible to completely eliminate phosphorous from detergents. On the other hand, many different phosphates and phosphorous containing compounds exist and it has to be ensured that the intended ban of phosphates cannot easily be circumvented. The draft Regulation, therefore, establishes an overall limit of 0.5 % by weight for the content of phosphorous in household laundry detergents, covering all phosphates and phosphorous containing compounds. For the time being, until technically and economically viable alternatives to phosphates become available for other types of detergent, the proposal limits the content of phosphates and other phosphorous compounds only in household laundry detergents (proposed new Annex VIa).
+
+For household automatic dishwasher detergent containing phosphates, it is proposed that the Commission is tasked to review their contribution to the eutrophication risk within 5 years after the adoption of the proposed act, to submit a report to the European Parliament and to the Council (amendment of Article 16) and if deemed appropriate, to propose restrictions concerning their phosphates content by adapting the new Annex VIa to technical progress.
+
+The proposal also adapts the current provisions of Regulation (EC) No 648/2004 to empower the Commission to adopt delegated acts in accordance with Article 290 of the Treaty on the Functioning of the European Union (amendment of Article 13).
+
+Finally the proposed act maintains the already existing provision allowing Member States to lay down national rules to limit the content of phosphates and other phosphorous compounds in detergents other than household laundry detergents, if justified on environmental grounds (Amendment of Article 14).
+
+BUDGETARY IMPLICATION
+
+The proposal has no implication for the budget of the European Union.
+
+ADDITIONAL INFORMATION
+
+-  The proposed act is relevant for the European Economic Area (EEA).
+
+-  The proposal is subject to the WTO-TBT Agreement, thus subject to a notification to the WTO.
+
+-  2010/0298 (COD)
+
+Proposal for a
+
+REGULATION (EU) No …/… OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EC) No 648/2004 as regards the use of phosphates and other phosphorous compounds in household laundry detergents
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national Parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee[4],
+
+Having regard to the opinion of the Committee of the Regions[5],
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+1.  Pursuant to Article 16 of Regulation (EC) No 648/2004, the Commission has evaluated the use of phosphates in detergents in the Report to the Council and the European Parliament concerning the use of phosphates[6]. Following further analysis, the Commission has concluded that the use of phosphates in household laundry detergents should be limited in order to reduce the contribution of phosphates from detergents to eutrophication risks and to reduce the costs of phosphates removal in waste water treatment plants. Those cost savings outweigh the cost of reformulating household laundry detergents with alternatives to phosphates.
+
+2.  Efficient alternatives to phosphates-based household laundry detergents require small amounts of other phosphorous compounds, namely phosphonates which if used in increasing quantities might be of concern for the environment.
+
+3.  The interaction between phosphates and other phosphorous compounds requires a careful choice of the scope and level of the limitation. The limitation should apply to all phosphorous compounds in order to preclude a mere substitution of the limited phosphates by other phosphorous compounds. The limitation for phosphorous content should be low enough to effectively prevent the marketing of phosphate-based household laundry detergent formulations, while being high enough to allow the minimum quantity of phosphonates required for alternative formulations.
+
+4.  Since the objectives of the action to be taken, namely to reduce the contribution of phosphates from detergents to eutrophication risks and to reduce the costs of phosphates removal in waste water treatment plants, cannot be sufficiently achieved by Member States as national measures with different technical specifications cannot influence the quality of water crossing national borders, and can therefore be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective.
+
+5.  It is not appropriate to extend limitations of the use of phosphates and other phosphorous compounds in household laundry detergents to household automatic dishwasher detergents or to industrial and institutional detergents because suitable technically and economically feasible alternatives to the use of phosphates in those detergents are not yet available.
+
+6.  A definition of 'cleaning' should be included directly into Regulation (EC) No 648/2004 instead of a reference to the relevant ISO standard to facilitate readability.
+
+7.  The Commission should be empowered to adopt delegated acts in accordance with Article 290 of the Treaty on the Functioning of the European Union for the purpose of amending the Annexes to this Regulation.
+
+8.  Member States should lay down rules on penalties applicable to infringements of this Regulation and ensure that they are implemented. Those penalties should be effective, proportionate and dissuasive.
+
+9.  It is appropriate to provide for deferred application of the restriction established in this Regulation so as to allow operators, in particular small and medium–sized enterprises, to reformulate their phosphate–based household laundry detergents using alternatives during their usual reformulation cycle in order to minimise the costs.
+
+10.  Regulation (EC) No 648/2004 should therefore be amended accordingly,
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Regulation (EC) No 648/2004 is amended as follows:
+
+11.  In Article 1(2) the third and fourth indent are replaced by the following:
+
+“- the additional labelling of detergents, including fragrance allergens;
+
+- the information that manufacturers must hold at the disposal of the Member States competent authorities and medical personnel;
+
+- limitations on the content of phosphates and other phosphorous compounds in detergents.”
+
+12.  Article 2, point 3 is replaced by the following:
+
+“3. 'Cleaning' means the process by which soil is dislodged from the substrate and brought into a state of solution or dispersion.”
+
+13.  The following Article 4a is inserted:
+
+“Article 4a
+
+Limitations on the content of phosphates and of other phosphorous compounds
+
+Detergents listed in Annex VIa that do not comply with the limitations on the content of phosphates and of other phosphorous compounds laid down in that Annex shall not be placed on the market from the date set out in that Annex.”
+
+14.  In Article 12, paragraph 3 is deleted.
+
+15.  Article 13 is replaced by the following:
+
+“Article 13
+
+Adaptation of Annexes
+
+1. The Commission may adopt, by means of delegated act in accordance with Articles 13a, 13b and 13c, amendments necessary for adapting the Annexes to scientific and technical progress. The Commission shall, wherever possible, use European standards.
+
+2. The Commission may adopt, by means of delegated act in accordance with Articles 13a, 13b and 13c amendments to the Annexes of this Regulation regarding solvent-based detergents.
+
+3. Where individual risk-based concentration limits for the fragrance allergens are established by the Scientific Committee on Cosmetics and Non-food Products, the Commission shall, in accordance with Articles 13a, 13b and 13c, adapt the limit of 0.01% set out in Section A of Annex VII accordingly.”
+
+16.  The following Articles 13a, 13b and 13c are inserted:
+
+“Article 13a
+
+Exercise of the delegation
+
+1. The powers to adopt the delegated acts referred to in Article 13 shall be conferred on the Commission for an indeterminate period of time.
+
+2. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+3. The powers to adopt delegated acts are conferred on the Commission subject to the conditions laid down in Articles 13b and 13c.
+
+Article 13b
+
+Revocation of the delegation
+
+1. The delegation of power referred to in Article 13 may be revoked at any time by the European Parliament or by the Council.
+
+2. The institution which has commenced an internal procedure for deciding whether to revoke the delegation of power shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated powers which could be subject to revocation and possible reasons for a revocation.
+
+3. The decision of revocation shall put an end to the delegation of the powers specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the Official Journal of the European Union .
+
+Article 13c
+
+Objections to delegated acts
+
+1. The European Parliament and the Council may object to the delegated act within a period of two months from the date of notification. At the initiative of the European Parliament or the Council this period shall be extended by one month.
+
+2. If, on expiry of that period, neither the European Parliament nor the Council has objected to the delegated act it shall be published in the Official Journal of the European Union and shall enter into force at the date stated therein. The delegated act may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+3. If the European Parliament or the Council objects to a delegated act, it shall not enter into force. The institution which objects shall state the reasons for objecting to the delegated act.”
+
+17.  In Article 14, the second paragraph is replaced by the following:
+
+“Member States may maintain or lay down national rules concerning restrictions on the content of phosphates and of other phosphorous compounds in detergents for which no restrictions on the content are set out in Annex VIa where justified on grounds of protection of the aquatic environment and where technically and economically feasible alternatives are available.”
+
+18.  Article 16 is replaced by the following:
+
+“Article 16
+
+Report
+
+By 31 December 2014, the Commission shall evaluate, submit a report to the European Parliament and to the Council on the use of phosphates and other phosphorous compounds in household automatic dishwasher detergents and, if justified, present a legislative proposal with a view to their gradual phase-out or restriction to specific applications.”
+
+19.  Article 18 is replaced by the following:
+
+“Article 18
+
+Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall notify those provisions and any subsequent amendment affecting those provisions to the Commission without delay.
+
+Those rules shall include measures allowing competent authorities of Member States to detain consignments of detergents that fail to comply with this Regulation.”
+
+20.  The text set out in the Annex to this Regulation is inserted as Annex VIa.
+
+21.  In Section A of Annex VII the following text is deleted:
+
+“If individual risk-based concentration limits for the fragrance allergens are subsequently established by the SCCNFP, the Commission shall propose the adoption of such limits to replace the limit of 0.01% mentioned above. Those measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 12(3).”
+
+Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+
+Points (1), (3), (7), (9) and (10) of Article 1 shall apply from 1 January 2013.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, […]
+
+For the European Parliament For the Council
+
+The President The President […] […]
+
+ANNEX
+
+“ANNEX VIa
+
+LIMITATIONS ON THE CONTENT OF PHOSPHATES AND OF OTHER PHOSPHOROUS COMPOUNDS
+
+Detergent | Limitations | Date as of which the limitation applies |
+
+Household laundry detergents | Shall not be placed on the market if the total content of phosphorous is equal to or greater than 0.5 % by weight | 1 January 2013 |
+
+”
+
+[1] (COM (2007) 234), available at: http://ec.europa.eu/enterprise/chemicals/legislation/detergents/index_en.htm.
+
+[2] Phosphates and alternative detergent builders. WRc (2002), Swindon, UK.
+
+[3] Available at: http://ec.europa.eu/enterprise/sectors/chemicals/files/docs/ceep_study_final_report_042009_en.pdf.
+
+[4] OJ C […], […], p. […].
+
+[5] OJ C […], […], p. […].
+
+[6] COM (2007) 234 final.

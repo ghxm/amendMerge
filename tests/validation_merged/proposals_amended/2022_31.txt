@@ -1,0 +1,2601 @@
+IMMC.COM%282022%2950%20final.ENG.xhtml.2_EN_ACT_part1_v3.docx
+
+EUROPEAN COMMISSION
+
+Brussels, 3.2.2022
+
+COM(2022) 50 final
+
+2022/0031(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EU) 2021/953 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic
+
+(Text with EEA relevance)
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+•
+
+Reasons for and objectives of the proposal
+
+The right of Union citizens to move and reside freely within the European Union, enshrined in Article 21 of the Treaty on the Functioning of the European Union (TFEU), is one of the Union’s most cherished achievements, and an important driver of its economy. At the same time, the ongoing coronavirus disease 2019 (‘COVID‑19’) pandemic continues to pose an extraordinary threat to public health across the Union. This has led Member States to adopt public health measures seeking to protect individuals’ health as well as the capacity of their healthcare systems, some of which have been related to travel between Member States.
+
+To facilitate safe free movement during the COVID-19 pandemic, the European Parliament and the Council adopted, on 14 June 2021, Regulation (EU) 2021/953
+
+establishing the EU Digital COVID Certificate framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates
+
+.
+
+Regulation (EU) 2021/953
+
+facilitates free movement by providing citizens with interoperable and mutually accepted certificates on COVID-19 vaccination, testing and recovery that they can use when travelling. Where Member States waive certain restrictions on free movement for persons in the possession of proof of vaccination, test or recovery, the
+
+EU Digital COVID Certificate
+
+allow
+
+s
+
+citizens to profit from these exemptions.
+
+Since its adoption, the EU Digital COVID Certificate has been successfully rolled out across the Union, with more than 1 billion certificates issued by the end of 2021.
+
+The EU Digital COVID Certificate is thus a widely available and reliably accepted tool to facilitate free movement during the COVID-19 pandemic. According to a Eurobarometer survey published in September 2021, about
+
+two-thirds
+
+(65%) of respondents agreed that the EU Digital COVID Certificate is the safest means for free travel in Europe during the COVID-19 pandemic
+
+. Almost all Member States also use the EU Digital COVID Certificate for domestic purposes, with studies estimating that its use has resulted in increased vaccination uptake
+
+, lower hospital
+
+admissions
+
+, fewer economic losses and, most importantly, fewer deaths
+
+.
+
+In addition, the EU Digital COVID Certificate system has proven to be the only functioning COVID-19 certificate system operational at international level on a large scale.
+
+As
+
+a result
+
+, the EU Digital COVID Certificate has gained increasing
+
+global
+
+significance and
+
+contributed to
+
+addressing the pandemic at
+
+the international
+
+level
+
+,
+
+by facilitating safe international travel and
+
+international
+
+recovery.
+
+By
+
+31
+
+January 2022
+
+,
+
+the three non-EU
+
+European Economic Area countries
+
+, Switzerland
+
+and 29 other third countries and territories
+
+are connected to the EU Digital COVID Certificate system, with more expected to join in the future.
+
+The EU Digital COVID Certificate system has been recognised as one of the
+
+key digital solutions to restore international mobility
+
+, with the International Air Transport Association urging countries to adopt the EU Digital COVID Certificate as the global standard
+
+.
+
+The Commission will continue its efforts to support third countries interested in developing interoperable COVID-19 certificate systems
+
+. This may
+
+includ
+
+e
+
+offering additional
+
+open source reference solutions
+
+that
+
+allow for the conversion of
+
+third-country
+
+certificates into a format that is interoperable with the EU Digital
+
+COVID
+
+Certificate
+
+, as it
+
+is
+
+also
+
+possible to connect third countries
+
+the
+
+certificates
+
+of which
+
+are made interoperable b
+
+y
+
+means of conversion
+
+.
+
+To make best use of the EU Digital COVID Certificate framework, the Council
+
+has adopted
+
+several recommendations
+
+on
+
+a coordinated approach to
+
+facilitate safe
+
+free movement
+
+during
+
+the COVID-19 pandemic. According to the most recent update, Council Recommendation (EU) 2022/
+
+107
+
+adopted on 25 January 2022
+
+, holders of EU Digital COVID Certificates meeting certain requirements should, in almost all circumstances, not be subject to any additional requirements when exercising their free movement rights.
+
+This ‘person-based approach’ thus necessitates the
+
+continuous
+
+availability of EU Digital COVID Certificates.
+
+Since the adoption of Regulation (EU) 2021/953, the epidemiological situation with regard to the COVID-19 pandemic has evolved considerably. On the one hand,
+
+by 31 January 2022,
+
+more than
+
+80%
+
+of the adult population in the Union have completed their primary vaccination cycle, and more than
+
+50%
+
+have received a booster dose, despite significant
+
+differences
+
+between Member States
+
+.
+
+Increasing vaccine uptake remains a crucial objective in the fight against the pandemic, given the protection against hospitalisation and severe disease afforded by vaccination, and thus plays an important role in ensuring that
+
+restrictions to the free movement of persons can be lifted
+
+.
+
+On the other hand, the spread of the SARS-CoV-2 variant of concern ‘Delta’ in the second half of 2021 caused significant increases in the number of infections, hospitalisation and deaths, requiring Member States to adopt strict public health measures in an effort to protect their healthcare system capacity. In early 2022, the SARS-CoV-2 variant of concern ‘Omicron’ caused sharp increases in the number of COVID-19 cases, rapidly replacing Delta and reaching an unprecedented intensity of community transmission across the Union.
+
+As noted by the European Centre for Disease Prevention and Control
+
+(ECDC)
+
+in its Rapid Risk Assessment of 27 January 2022
+
+, Omicron infections appear less likely to lead to a severe clinical outcome that requires hospitalisation or admission to intensive care units.
+
+Although the reduction in severity is partially due to inherent characteristics of the virus, results from vaccine effectiveness studies have shown that
+
+vaccination plays
+
+a significant role in preventing severe clinical outcomes from Omicron infection, with effectiveness against severe illness increasing significantly among people having received three vaccine doses. Furthermore, given the very high levels of community transmission, leading to many people being sick at the same time,
+
+Member States are likely to
+
+undergo a period of substantial pressure on their healthcare systems and on
+
+the functioning of the society as a whole
+
+,
+
+mainly through absence from work and education
+
+.
+
+After a peak in Omicron cases, a high proportion of the population is expected to enjoy, at least for a certain period, protection from COVID-19 either due to vaccination or prior infection, or both. However, it is not possible to predict the impact of a possible increase in infections in the second half of 2022. In addition, the possibility of a worsening of the pandemic situation because of the emergence of new SARS-CoV-2 variants of concern cannot be ruled out.
+
+In view of the above, it cannot be excluded that Member States continue to require Union citizens exercising their right to free movement to present proof of COVID-19 vaccination, test or recovery beyond 30 June 2022, that is, the date when Regulation (EU) 2021/953 is currently set to expire. It is thus important to avoid that Union citizens and their family members are deprived of the possibility to make use of their EU Digital COVID Certificates, which are an effective, secure and privacy-preserving way of proving one’s COVID-19 status, in the event that certain restrictions to free movement based on public health are still in place after 30 June 2022.
+
+At the same time, given that any restrictions to the free movement of persons within the Union put in place to limit the spread of SARS-CoV-2, including the requirement to present EU Digital COVID Certificates, should be lifted as soon as the epidemiological situation allows, the Commission proposes to limit the extension to 12 months. Furthermore, the extension of the Regulation should not be understood as requiring Member States, in particular those that lift domestic public health measures, to maintain or impose free movement restrictions.
+
+In addition, the Commission also proposes to amend a small number of other provisions of Regulation (EU) 2021/953.
+
+According to Regulation (EU) 2021/953, test certificates are to be issued based on two types of tests for SARS-CoV-2 infection, namely molecular nucleic acid amplification tests (NAAT), including those using reverse transcription polymerase chain reaction (RT-PCR), and rapid antigen tests, which rely on detection of viral proteins (antigens) using a lateral flow immunoassay that gives results in less than 30 minutes, provided they are carried out by health professionals or by skilled testing personnel. On the other hand, Regulation (EU) 2021/953 does not cover other types of antigenic assays, such as enzyme-linked immunosorbent assays (ELISA) or automated immunoassays, which test for antigens in a laboratory setting.
+
+As of July 2021, the technical working group
+
+on COVID-19 diagnostic tests
+
+,
+
+responsible for preparing updates to the common list of COVID-19 rapid antigen tests
+
+agreed by the Health Security Committee
+
+,
+
+also reviews proposals put forward by Member States and manufacturers for COVID-19 laboratory-based antigenic assays. These proposals are assessed against the same criteria as
+
+those used for
+
+rapid antigen tests, and the Health Security Committee has established a list of
+
+the
+
+laboratory-based antigenic assays that meet these criteria.
+
+As a result, an
+
+d
+
+in an effort to enlarge the scope of
+
+the
+
+different types of diagnostic tests that may be used as the basis for the issuance of an EU Digital COVID Certificate, the Commission propose
+
+s
+
+that it should be
+
+possible
+
+for Member States
+
+to issue test certificates on the basis of
+
+listed laboratory-based antigenic assays
+
+.
+
+Scientific progress also takes place in other areas of the fight against COVID-19, in particular vaccination. Vaccine manufacturers continue the development of new and/or adapted COVID-19 vaccines, and studies are carried out regarding the continued effectiveness of existing ones. It is necessary to ensure that the EU Digital COVID Certificate system can adapt to new developments in this area, such as a possible rollout of COVID-19 vaccines targeting SARS-CoV-2 variants. This progress may require future adaptations to the information included in the vaccination certificate, in particular regarding the COVID-19 vaccines administered, such as by way of a delegated act adopted pursuant to Article 5(2) of the Regulation.
+
+In particular in light of the emergence of new SARS-CoV-2 variants of concern, the continued development and study of COVID-19 vaccines remains crucial. In this context, it is important to facilitate the participation of volunteers in clinical trials, that is, studies performed to investigate the safety or efficacy of a medicine, such as a COVID-19 vaccine. Clinical research plays a fundamental role in the development of vaccines. Voluntary participation in clinical trials should therefore be encouraged. Depriving volunteers from access to EU Digital COVID Certificates could constitute a major disincentive to participate, delaying the conclusion of clinical trials and negatively impacting public health more generally. In addition, the integrity of clinical trials, including in terms of data blinding and confidentiality, should be preserved to ensure the validity of their results.
+
+For this purpose, persons participating in c
+
+linical trial
+
+s
+
+that have been approved by Member States’ ethical committees and competent authorities
+
+should be able
+
+to receive an EU Digital COVID Certificate
+
+. These may be issued by
+
+the Member State where
+
+the
+
+dose is administered
+
+regardless whether the
+
+participants
+
+have received the COVID-19 vaccine candidate or the dose administered to the control group
+
+to
+
+avoid
+
+undermining
+
+the
+
+studies
+
+.
+
+It should be clarified that
+
+other
+
+Member States may accept
+
+such certificates
+
+in order to waive restrictions to free movement put in place to limit the spread of SARS-CoV-2. If a COVID-19 vaccine undergoing clinical trials is subsequently granted a marketing authorisation pursuant to Regulation (EC) No 726/2004
+
+, vaccination certificates for that vaccine fall, as of that moment, within the scope of the first subparagraph of Article 5(5) of Regulation (EU) 2021/953.
+
+To ensure a
+
+coherent approach with regards to
+
+the
+
+acceptance of certificates issued for a COVID-19 vaccine undergoing clinical trials that has not yet received a marketing authorisation
+
+, the
+
+Health Security Committee
+
+, ECDC or
+
+the European Medicines Agency
+
+(EMA)
+
+may be asked to issue guidance
+
+, which should take into account the ethical and scientific criteria necessary for carrying out clinical trials.
+
+Vaccination certificates issued by Member States in the EU Digital COVID Certificate format must contain, among other information, the number of doses administered to the holder. The Commission proposes to clarify that this obligation is not limited to doses administered in the Member State issuing the certificate, but covers all doses administered to the holder, including in other Member States. Limiting the indication of previous doses to those received in the Member State issuing the certificate could lead to a divergence between the number actually administered and that indicated on the certificate. The administration of previous doses in other Member States is proven by means of the corresponding valid EU Digital COVID Certificates, which must be issued to the persons concerned pursuant to Article 5(1) of Regulation (EU) 2021/953. Where the information in the certificate is incorrect, the holder is entitled, pursuant to Article 3(4) of Regulation (EU) 2021/953, to request the issuance of a new certificate.
+
+The Commission does not propose to extend the scope of Regulation (EU) 2021/953 as far as the domestic use of EU Digital COVID Certificates is concerned. As noted in Recital 48 of Regulation (EU) 2021/953, Member States may process personal data contained in EU Digital COVID Certificates for other purposes, if the legal basis for the processing of such data for other purposes, including the related retention periods, is provided for in national law, which must comply with Union data protection law. Regulation (EU) 2021/953 thus neither prescribes nor prohibits the domestic use of EU Digital COVID Certificate, which remains within the remit of Member States and subject to judicial control by national courts.
+
+On 18 October 2021, the Commission published its first report on the EU Digital COVID Certificate
+
+. Pursuant to Article 16(2) of
+
+Regulation (EU) 2021/953
+
+, the Commission is to
+
+submit a second report to the European Parliament and to the Council on the application of the Regulation by 31 March 2022. That report is to contain, in particular, an assessment of the impact of this Regulation on the facilitation of free movement, including on travel and tourism and the acceptance of the different types of vaccine, fundamental rights and non-discrimination, as well as on the protection of personal data during the COVID-19 pandemic.
+
+As noted in the first report, the Commission is putting forward this proposal prior to the adoption of the second report in order to ensure that, for reasons of legal certainty, the necessary legislative procedure can be concluded sufficiently in time before June 2022. At the same time, this proposal builds on an analysis of the different aspects to be covered in that report. For the reasons set out in this proposal, the Commission considers that the EU Digital COVID Certificate has positively affected free movement within the EU, given that its absence would likely have resulted in the development of incompatible national solutions. To widen the scope of the different types of vaccines accepted, the Commission proposes to include COVID-19 vaccines undergoing clinical trials. The impact of extending the EU Digital COVID Certificate Regulation on fundamental rights, non-discrimination and the protection of personal data is addressed below.
+
+•
+
+Consistency with existing policy provisions in the policy area
+
+The proposal complements other policy initiatives adopted in the field of free movement during the COVID-19 pandemic, such as Council Recommendations (EU) 2020/1475, 2021/119, 2021/961 and 2022/107. In particular, Council Recommendation (EU) 2022/107 provides that the holders of valid EU Digital COVID Certificates should, in almost all cases, not be subject to additional restrictions.
+
+Directive 2004/38/EC of the European Parliament and of the Council
+
+sets out the conditions for the exercise of the right of free movement and residence (both temporary and permanent) in the
+
+Union
+
+for
+
+Union
+
+citizens and their family members. Directive 2004/38/EC provides that Member States may restrict the freedom of movement and residence of
+
+Union
+
+citizens and their family members, irrespective of nationality, on grounds of public policy, public security or public health.
+
+Regulation (EU) 2021/953 is the only existing Union legislation containing provisions on the issuance, verification and acceptance of certificates documenting the holder’s COVID-19 status. As Member States may, as a public health measure, continue to require the production of such certificates in order to waive certain restrictions on the right to free movement imposed during the COVID-19 pandemic, it is necessary to extend the period of application of the Regulation.
+
+•
+
+Consistency with other Union policies
+
+This proposal is part of the package of Union measures to respond to the COVID-19 pandemic. It builds, in particular, on work carried out in the Health Security Committee, the eHealth Network, and the EU Digital COVID Certificate Committee
+
+.
+
+This proposal is complemented by proposal
+
+COM(2022
+
+) 55
+
+final
+
+,
+
+which
+
+seeks to extend
+
+the application of
+
+Regulation (EU) 2021/954
+
+on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) with regard to third-country nationals legally staying or residing in the territories of Member States during the COVID-19 pandemic
+
+.
+
+In its proposal for a Council Recommendation
+
+amending Recommendation (EU) 2020/912 on
+
+the temporary restriction on non-essential travel into the EU and the possible lifting of such restriction
+
+,
+
+the Commission
+
+proposed
+
+to establish a clear link between
+
+Council
+
+Recommendation (EU) 2020/912
+
+and the EU Digital COVID Certificate so to assist the Member States authorities in
+
+verifying the authenticity, validity and integrity of the certificates issued by third countries
+
+.
+
+This proposal is without prejudice to the Schengen rules as regards the entry conditions for third country nationals.
+
+The proposed Regulation should not be understood as encouraging or facilitating the reintroduction of border controls, which remain a measure of last resort subject to the conditions of the Schengen Borders Code
+
+.
+
+This proposal also fully respects Member States’ competences in the definition of their health policy (Article 168 TFEU).
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+•
+
+Legal basis
+
+Article 21(1) TFEU confers on Union citizens the right to move and reside freely within the territory of the Member States. Article 21(2) provides for the possibility for the Union to act and to adopt provisions with a view to facilitating the right to move and reside freely within the territory of the Member States if action to attain this objective is necessary to facilitate the exercise of this right. The ordinary legislative procedure applies.
+
+The proposal would amend Regulation (EU) 2021/953, which is equally based on Article 21(1) TFEU.
+
+•
+
+Subsidiarity
+
+The objectives of this proposal, namely to extend the application of
+
+Regulation (EU) 2021/953 and amend certain provisions thereof,
+
+cannot be achieved by the Member States independently. Action at Union level is thus necessary.
+
+Absence to act at Union level would result in
+
+Regulation (EU) 2021/953 ceasing to apply, including the legal basis to operate the EU Digital COVID Certificate trust framework. In addition, Union citizens and their family members would no longer enjoy a right to receive interoperable COVID-19 vaccination, test and recovery certificates. Finally, Member States would no longer be required to accept EU Digital COVID Certificates when waiving restrictions for persons who can provide proof of a certain COVID-19 status.
+
+•
+
+Proportionality
+
+Union action can add considerable value in addressing the challenges identified above and is the only way by which a single, streamlined and accepted COVID-19 certificate framework can be maintained.
+
+The adoption of unilateral or uncoordinated measures regarding COVID-19 certificates on COVID-19 vaccination, testing and recovery is likely to lead to restrictions on free movement that are inconsistent and fragmented, resulting in uncertainty for Union citizens when exercising their rights.
+
+The proposal does not alter the existing provisions of Regulation (EU) 2021/953 on the processing of personal data.
+
+The amended Regulation would again be time-limited, to ensure that any restrictions to the free movement of persons within the Union put in place to limit the spread of SARS-CoV-2, including the requirement to present EU Digital COVID Certificates, are lifted as soon as the epidemiological situation allows.
+
+•
+
+Choice of the instrument
+
+As it is proposed to amend Regulation (EU) 2021/953, a Regulation is the only possible legal instrument.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+•
+
+Stakeholder consultations
+
+The proposal takes into account the discussions held at regular intervals with Member State authorities in different fora.
+
+•
+
+Collection and use of expertise
+
+The proposal builds on the epidemiological information and assessments provided by ECDC, the assessment of the safety, effectiveness and quality of COVID-19 vaccines carried out by EMA, the technical exchanges taking place within the Health Security Committee, its technical working group on COVID-19 diagnostic tests and the eHealth Network, as well as relevant available scientific evidence.
+
+•
+
+Impact assessment
+
+In view of the urgency and the limited scope of the proposal, the Commission did not carry out an impact assessment.
+
+•
+
+Fundamental rights
+
+This proposal positively affects the fundamental right of freedom of movement and residence under Article 45 of the Charter of Fundamental Rights of the European Union
+
+(Charter). It does so by ensuring that citizens continue to enjoy access to interoperable and mutually accepted certificates on COVID-19 vaccination, testing and recovery that they can use when travelling. Where Member States waive certain restrictions on free movement for persons in the possession of proof of vaccination, test or recovery, EU Digital COVID Certificates will allow citizens to continue to profit from these exemptions.
+
+The extension of Regulation (EU) 2021/953 should not be understood as facilitating or encouraging the adoption of public health related restrictions to free movement during the pandemic. Rather, it seeks to provide a harmonised framework for the recognition of COVID-19 certificates in the event that a Member State applies such restrictions. Any limitations to the freedom of movement within the EU justified on grounds of public policy, public security or public health must be necessary, proportionate and based on objective and non-discriminatory criteria. The decision as to whether to introduce restrictions to free movement remains the responsibility of the Member States, which must act in compliance with EU law.
+
+Equally, Member States retain the flexibility not to introduce restrictions to free movement, in particular those that lift domestic public health measures.
+
+The EU Digital COVID Certificate framework ensures n
+
+on-discrimination
+
+by including
+
+interoperable vaccination, test and recovery certificates.
+
+All Member States are obliged to issue the three different types of certificates
+
+, and
+
+Council Recommendation (EU) 2022/
+
+107 sets out a coordinated approach as to the
+
+ir
+
+acceptance
+
+.
+
+As a result
+
+, as many persons as possible
+
+are
+
+able to benefit from an EU Digital COVID Certificate when
+
+exercising their right to free movement
+
+.
+
+Not extending
+
+Regulation (EU) 2021/953
+
+would likely result in obstacles in this regard, as Union citizens would no longer enjoy a right to receive the three different types of certificates throughout the Union, but would likely be subject to different national COVID-19 certificate systems, which may not necessarily cover, at the same time, vaccination, test and recovery.
+
+At the same time, the
+
+medical
+
+events proven by the certificates – vaccination, test or recovery – cannot be considered
+
+as
+
+equal
+
+fro
+
+m a public health point of view, given that u
+
+nvaccinated and partially
+
+vaccinated people remain at much higher risk of severe outcomes
+
+. This is also reflected in the inherently different rules regarding the validity of the certificates
+
+.
+
+By extending the application of
+
+Regulation (EU) 2021/953
+
+,
+
+t
+
+his proposal implies processing of personal data
+
+, as set out in that Regulation, by another year
+
+.
+
+The Commission does not propose changes to the Regulation’s data protection framework. In particular,
+
+personal data contained in the certificates that is processed during their verification must not be retained beyond the verification process.
+
+Regulation (EU) 2016/679 of the European Parliament and of the Council
+
+continues to
+
+appl
+
+y
+
+.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The Commission will use funds from the Digital Europe Programme to support the initiative. A Legislative Financial Statement is submitted with this proposal.
+
+5.
+
+OTHER ELEMENTS
+
+•
+
+Implementation plans and monitoring, evaluation and reporting arrangements
+
+The Commission will continue to closely monitor the implementation of Regulation (EU) 2021/953, the evolution of the epidemiological situation, as well as relevant scientific progress.
+
+•
+
+Detailed explanation of the specific provisions of the proposal
+
+Article 1
+
+contains the proposed changes to Regulation (EU) 2021/953, which are:
+
+–
+
+A broadening of the definition of SARS-CoV-2 tests that rely on the detection of viral proteins (antigens) to include
+
+antigenic
+
+assays performed in a laboratory setting and not
+
+only
+
+rapid antigen tests that give results in less than 30 minutes. Corresponding changes are proposed to Articles 3(1), 6(2)(b), 7(4) and point 2(i) of the Annex.
+
+–
+
+A
+
+n explicit
+
+clarification that vaccination certificates are to contain the number of doses administered to the holder, regardless
+
+of the Member State in which
+
+they have been administered, to
+
+make sure that
+
+the overall number
+
+actually
+
+administered
+
+is accurately reflected
+
+.
+
+–
+
+A clarification that EU Digital COVID Certificates
+
+may
+
+also be issued to persons participating in clinical trials for COVID-19 vaccines, and th
+
+at such
+
+certificates may be accepted by
+
+other
+
+Member States in order to waive restrictions to free movement.
+
+T
+
+he Health Security Committee, ECDC or EMA
+
+may be asked by the Commission
+
+to issue guidance
+
+on the
+
+acceptance of
+
+COVID-19
+
+vaccines undergoing clinical trials
+
+.
+
+I
+
+f the COVID-19 vaccine is later granted marketing authorisation at EU level
+
+,
+
+s
+
+uch certificates fall under the obligatory acceptance set out in Article 5(5), first subparagraph, of Regulation (EU) 2021/953.
+
+–
+
+A
+
+n extension by 12 months of the period of
+
+application
+
+set out in Article 17 of
+
+Regulation (EU) 2021/953
+
+,
+
+as well as
+
+of
+
+the power to adopt delegated acts
+
+set out
+
+in its Article 12.
+
+–
+
+The correction of
+
+a
+
+wrong cross-reference in Article 13(2) of Regulation (EU) 2021/953.
+
+2022/0031 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EU) 2021/953 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 21(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+Regulation (EU) 2021/953
+
+of the European Parliament and of the Council
+
+lays down a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) for the purpose of facilitating the holders’ exercise of their right to free movement during the COVID-19 pandemic. It is also to contribute to facilitating the gradual lifting of restrictions to free movement put in place by the Member States, in accordance with Union law, to limit the spread of SARS-CoV-2, in a coordinated manner.
+
+(2)
+
+According to Regulation (EU) 2021/953, test certificates are to be issued based on two types of tests for SARS-CoV-2 infection, namely molecular nucleic acid amplification tests (
+
+‘
+
+NAAT
+
+’
+
+), including those using reverse transcription polymerase chain reaction (
+
+‘
+
+RT-PCR
+
+’
+
+), and rapid antigen test
+
+s
+
+, which rely on detection of viral proteins (antigens) using a lateral flow immunoassay that gives results in less than 30 minutes
+
+, provided they are carried out by health professionals or by skilled testing personnel
+
+.
+
+However
+
+, Regulation (EU) 2021/953
+
+does
+
+not cover antigenic assays, such as enzyme-linked immunosorbent assays or automated immunoassays, which test for antigens in a laboratory setting. As of July 2021, the technical working group
+
+on COVID-19 diagnostic tests
+
+,
+
+responsible for preparing updates to the
+
+common list of COVID-19 rapid antigen tests
+
+agreed by the Health Security Committee established by Article 17 of Decision No 1082/2013/EU of the European Parliament and of the Council
+
+,
+
+also reviews proposals put forward by
+
+Member States
+
+and manufa
+
+cturers for COVID-19 laboratory-
+
+based antigenic assays. Th
+
+o
+
+se proposals are assessed against the same criteria as
+
+those used for
+
+rapid antigen tests
+
+, and the Health Security Committee has established a list of th
+
+e
+
+laboratory-based antigenic assays that meet th
+
+o
+
+se criteria
+
+.
+
+As a result, an
+
+d
+
+in an effort to enlarge the scope of
+
+the
+
+different types of diagnostic tests that may be used as the basis for the issuance of an EU Digital COVID Certificate, the definition for rapid antigen tests should be adapted to include laboratory-based antigenic assays.
+
+It should thus be possible
+
+for Member States
+
+to issue test certificates on the basis of
+
+the
+
+antigen tests included in the
+
+EU
+
+common list agreed, and regularly updated, by the Health Security Committee as meeting the established quality criteria.
+
+(3)
+
+In accordance with Article
+
+5
+
+of Regulation (EU) 2021/953
+
+, vaccination certificates issued by Member States are to contain the number of doses administered to the holder.
+
+It should be clarified in the text of the Regulation
+
+that t
+
+his is intended to reflect all doses administered
+
+, in any Member State
+
+, not just those administered in the Member State issuing the certificate.
+
+Limiting the indication of previous doses to those received in the Member State issuing the certificate
+
+could lead to a divergence between the number actually administered
+
+and
+
+that indicated on the certificate
+
+,
+
+and
+
+could
+
+prevent holders from making use of their certificate when exercising
+
+the right to free movement within the Union
+
+.
+
+The administration of previous doses in other Member States
+
+is
+
+proven by means of valid EU Digital COVID Certificate
+
+s, and a Member State should not require additional information or evidence from citizens holding such certificates
+
+, such as the batch number of previous doses
+
+.
+
+In this context, the rules for accepting
+
+vaccination certificates issued by
+
+other Member States set out in Article 5(5)
+
+of Regulation (EU) 2021/953
+
+apply. In addition, v
+
+accination certificates covered by an implementing act adopted pursuant to Articles 3(10) and 8(2) of Regulation (EU) 2021/953 are
+
+, for the purpose of facilitating the holders’ exercise of their right to free movement,
+
+to be accepted under the same conditions as EU Digital COVID Certificates
+
+issued by Member States
+
+.
+
+According to Article 3(4) of
+
+Regulation (EU) 2021/953
+
+, the holder of an EU Digital COVID Certificate is entitled to request the issuance of a new certificate if the personal data contained in the original certificate are not accurate, including with regard to the vaccination of the holder.
+
+(4)
+
+In particular in light o
+
+f
+
+the emergence of new SARS-CoV-2 variants of concern, the continued development and study of COVID-19 vaccine
+
+s
+
+is
+
+a crucial aspect in the fight against the COVID-19 pandemic. In this context, it is important to facilitate the participation of volunteers in clinical trials, that is, studies performed to investigate the safety or efficacy of a medicine, such as a COVID-19 vaccine.
+
+Clinical research plays a fundamental role in the development of vaccines, and voluntary participation in clinical trials should therefore be encouraged. Depriving volunteers from access to EU Digital COVID Certificates could constitute a major disincentive to participate, delaying the conclusion of clinical trials and negatively impacting public health more generally. In addition, the integrity of clinical trials, including in terms of data blinding and confidentiality, should be preserved to ensure the validity of their results.
+
+It should thus be clarified that Member States may issue
+
+EU Digital COVID Certificate
+
+s
+
+to participants in c
+
+linical trial
+
+s
+
+that have been approved by Member States’ ethical committees and competent authorities
+
+,
+
+regardless whether they have received the COVID-19 vaccine candidate or, to
+
+avoid
+
+undermining the studies
+
+,
+
+the dose administered to the control group
+
+.
+
+In addition,
+
+it should be clarified that
+
+other
+
+Member States may accept vaccination certificates for COVID-19 vaccines undergoing clinical trials
+
+in order to waive restrictions to free movement
+
+put in place, in accordance with Union law, in response to the COVID-19 pandemic
+
+. If a COVID-19 vaccine undergoing clinical trials is subsequently granted a marketing authorisation pursuant to Regulation (EC) No 726/2004
+
+, vaccination certificates for that vaccine fall, as of that moment, within the scope of the first subparagraph of Article 5(5) of Regulation (EU) 2021/953. To ensure a coherent approach, the
+
+Commission should be empowered to ask the
+
+Health Security Committee
+
+, the
+
+European Centre for Disease Prevention and Control
+
+(ECDC) or
+
+the European Medicines Agency
+
+(EMA)
+
+to issue guidance
+
+with regards to the acceptance of certificates issued for a COVID-19 vaccine undergoing clinical trials that has not yet received a marketing authorisation
+
+, which should take into account the ethical and scientific criteria necessary for carrying out clinical trials.
+
+(5)
+
+Since the adoption of Regulation (EU) 2021/953, the epidemiological situation with regard to the COVID-19 pandemic has evolved considerably. On the one hand,
+
+by 31 January 2022,
+
+more than
+
+80%
+
+of the adult population in the Union have completed their primary vaccination cycle, and more than
+
+50%
+
+have received a booster dose, despite significant
+
+differences
+
+between Member States
+
+.
+
+Increasing vaccine uptake remains a crucial objective in the fight against the pandemic, given the
+
+increased
+
+protection against hospitalisation and severe disease afforded by vaccination, and thus plays an important role in ensuring that
+
+restrictions to the free movement of persons can be lifted
+
+.
+
+(6)
+
+On the other hand, the spread of the SARS-CoV-2 variant
+
+of concern
+
+‘Delta’ in the second half of 2021 caused
+
+an
+
+increase in the number of infections, hospitalisation and deaths, requiring Member States to adopt strict public health measures in an effort to protect healthcare system capacity.
+
+In early 2022,
+
+the SARS-CoV-2 variant
+
+of concern
+
+‘Omicron’
+
+caused sharp increases
+
+in the number of COV
+
+ID-19 cases, rapidly replacing
+
+Delta and reaching an unprecedented intensity of community transmission
+
+across the Union
+
+.
+
+As noted by
+
+ECDC
+
+in its Rapid Risk Assessment of 27 January 2022
+
+, Omicron infections appear less likely to lead to a severe clinical outcome that requires hospitalisation or admission to intensive care units.
+
+Although the reduction in severity is partially due to inherent characteristics of the virus, results from vaccine effectiveness studies have shown that
+
+vaccination plays a
+
+significant role in preventing severe clinical outcomes from Omicron infection, with effectiveness against severe illness increasing significantly among people having received three vaccine doses. Furthermore, given the very high levels of community transmission, leading to many people being sick at the same time,
+
+Member States are likely to
+
+undergo a period of substantial pressure on their healthcare systems and on
+
+the functioning of the society as a whole
+
+,
+
+mainly through absence from work and education
+
+.
+
+(7)
+
+After a peak in Omicron cases, a high proportion of the population
+
+is expected
+
+to enjoy
+
+, at least for a certain period, protection from COVID-19
+
+either
+
+due to
+
+vaccination or prior
+
+infection
+
+, or both
+
+. However, it is not possible to predict the impact of a possible increase in infections in the second half of 2022. In addition,
+
+the possibility of
+
+a
+
+worsening
+
+of the pandemic
+
+situation because
+
+of the emergence of new SARS-CoV-2 variants
+
+of concern
+
+cannot be
+
+ruled out
+
+.
+
+As also noted by
+
+ECDC
+
+, s
+
+ignificant uncertainties remain at this stage of the COVID-19 pandemic
+
+.
+
+(8)
+
+As a result, i
+
+t cannot be excluded that Member States continue to require Union citizens exercising their right to free movement to present proof of COVID-19 vaccination, test or recovery beyond 30 June 2022, the date when
+
+Regulation (EU) 2021/953 is set to expire
+
+.
+
+It is thus important to avoid that
+
+, in the event that certain restrictions to free movement based on public health are still in place after 30 June 2022,
+
+Union citizens and their family members are deprived of the possibility to make use of their EU Digital COVID Certificates, which are an effective, secure and privacy-preserving way of proving one’s COVID-19 status
+
+.
+
+At the same
+
+time
+
+, given that any restrictions to the free movement of persons within the Union put in place to limit the spread of SARS-CoV-2, including the requirement to present EU Digital COVID Certificates, should be lifted as soon as the epidemiological situation allows, the extension of the application
+
+of
+
+Regulation (EU) 2021/953 should be limited to
+
+12 months.
+
+In addition, the extension of th
+
+at
+
+Regulation should not be understood as requiring Member States, in particular those that
+
+lift domestic public health
+
+measures
+
+, to maintain or impose free movement restrictions.
+
+The power to adopt acts in accordance with Article 290
+
+of the Treaty on the Functioning of the European Union
+
+delegated to the Commission pursuant to
+
+Regulation (EU) 2021/953 should be equally extended.
+
+It is necessary to ensure that the EU Digital COVID Certificate system can adapt to scientific progress in containing the COVID-19 pandemic.
+
+(9)
+
+The incorrect cross-reference in Article 13 of
+
+Regulation (EU) 2021/953
+
+should be corrected
+
+.
+
+(10)
+
+Regulation (EU) 2021/953 should therefore be amended accordingly.
+
+(11)
+
+Similarly, Regulation (EU) 2022
+
+/XXXX of the European Parliament and of the Council
+
+prolongs
+
+the period of application of Regulation (EU) 2021/954 of the European Parliament and of the Council
+
+, which extends the EU Digital COVID Certificate framework to third-country nationals who are legally staying or residing in the Schengen area without controls at internal borders and applies as a matter of Schengen acquis, without prejudice to the specific rules on the crossing of internal borders set out in Regulation (EU) 2016/399 of the European Parliament and of the Council
+
+.
+
+(12)
+
+Given the urgency of the situation related to the COVID-19 pandemic, this Regulation should enter into force on the third day following that of its publication in the
+
+Official Journal of the European Union
+
+.
+
+(13)
+
+The European Data Prot
+
+ection Supervisor
+
+and
+
+the
+
+European Data Protection Board
+
+were
+
+co
+
+nsulted
+
+in accordance with Article 42 of Regulation (EU) 2018/1725 and delivered a
+
+joint
+
+opinion
+
+on XXXX
+
+,
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Regulation (EU) 2021/953 is amended as follows:
+
+(1)
+
+in
+
+Article 2
+
+, paragraph 5 is
+
+replaced by the following
+
+:
+
+“(5) “antigen test” means a test, of one of the following categories, that relies on detection of viral proteins (antigens) to reveal the presence of SARS-CoV-2:
+
+(a)
+
+rapid antigen test
+
+s
+
+, such as
+
+lateral flow immunoassay
+
+s
+
+that give results in less than 30 minutes
+
+,
+
+(b)
+
+antigenic assays
+
+performed in a laboratory setting, such as enzyme-linked immunosorbent assays or automated immunoassays
+
+for detection of viral antigens
+
+;
+
+”;
+
+(2)
+
+Article 3 is amended as follows:
+
+(a)
+
+paragraph 1
+
+is amended as follows:
+
+(i)
+
+point (b) is replaced by the following:
+
+“(b) a certificate confirming that the holder has been subject to a NAAT test, or an antigen test listed in the EU common list of COVID‑19 antigen tests agreed by the Health Security Committee, carried out by health professionals or by skilled testing personnel in the Member State issuing the certificate and indicating the type of test, the date on which it was carried out and the result of the test (test certificate);”;
+
+(ii)
+
+the
+
+second
+
+subparagraph is replaced by the following:
+
+“The Commission shall publish the EU common list of COVID‑19 antigen tests agreed by the Health Security Committee, including any updates.”;
+
+(b)
+
+paragraph 11 is amended as follows:
+
+“Where necessary, the Commission shall ask the Health Security Committee, ECDC or EMA to issue guidance on the available scientific evidence on the effects of medical events documented in the certificates referred to in paragraph 1, in particular with regard to new SARS-CoV-2 variants of concern, and on the acceptance of COVID-19 vaccines undergoing clinical trials in the Member States.”;
+
+(3)
+
+Article 5 is amended as follows:
+
+(a)
+
+in paragraph 2, point (b) is replaced by the following:
+
+“(b) information about the COVID‑19 vaccine and the number of doses administered to the holder, regardless of the Member State in which they have been administered;”;
+
+(b)
+
+in paragraph 5,
+
+the following
+
+sub
+
+paragraph is added
+
+:
+
+“Member States may also issue vaccination certificates referred to in point (a) of Article 3(1) to persons participating in clinical trials that concern a COVID-19 vaccine and that have been approved by Member States’ ethical committees and competent authorities, regardless whether they have been administered the vaccine candidate or the dose administered to the control group. The information about the COVID-19 vaccine to be included in the vaccination certificate in accordance with the specific data fields set out in point 1 of the Annex shall not undermine the integrity of the clinical trial. Member States may accept vaccination certificates issued by other Member States in accordance with this paragraph in order to waive restrictions to free movement put in place, in accordance with Union law, to limit the spread of SARS‑CoV‑2.”;
+
+(4)
+
+in Article 6(2), point (b) is replaced by the following:
+
+“(b) information about the NAAT test or antigen test to which the holder was subject;”;
+
+(5)
+
+in Article 7, paragraph 4 is replaced by the following:
+
+“4. On the basis of guidance received pursuant to Article 3(11), the Commission is empowered to adopt delegated acts in accordance with Article 12 to amend paragraph 1 of this Article and point (c) of Article 3(1) to allow for the issuance of the certificate of recovery on the basis of a positive antigen test, antibody test, including a serological test for antibodies against SARS‑CoV‑2, or any other scientifically validated method. Such delegated acts shall also amend point 3 of the Annex by adding, modifying or removing the data fields falling under the categories of personal data referred to in points (b) and (c) of paragraph 2 of this Article.”;
+
+(6)
+
+i
+
+n Article 1
+
+2,
+
+paragraph
+
+2
+
+is replaced by the following:
+
+“2. The power to adopt delegated acts referred to in Article 5(2), Article 6(2) and Article 7(1) and (2) shall be conferred on the Commission for a period of 24 months from 1 July 2021.”;
+
+(7)
+
+in Article 13, paragraph 2 is replaced by the following:
+
+“2. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 12(6). In such a case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council.”;
+
+(8)
+
+i
+
+n Article 17, the second paragraph is replaced by the following:
+
+“It shall apply from 1 July 2021 to 30 June 2023.”;
+
+(9)
+
+in the Annex, point
+
+2
+
+(i) is replaced by the following:
+
+“(i) testing centre or facility (optional for antigen test);”.
+
+Article 3
+
+This Regulation shall enter into force on the third day following that of its publication in the
+
+Official Journal of the European Union
+
+.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.Title of the proposal/initiative
+
+1.2.Policy area(s) concerned
+
+1.3.Nature of the proposal/initiative
+
+1.4.Objective(s)
+
+1.4.1General objective(s)
+
+1.4.2Specific objective(s)
+
+1.4.3Expected result(s) and impact
+
+1.4.4Indicators of performance
+
+1.5.Grounds for the proposal/initiative
+
+1.5.1Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative
+
+1.5.2Added value of Union involvement
+
+1.5.3Lessons learned from similar experiences in the past
+
+1.5.4Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments
+
+1.5.5Assessment of the different available financing options, including scope for redeployment
+
+1.6.Duration and financial impact of the proposal/initiative
+
+1.7.Management mode(s) planned
+
+2.
+
+MANAGEMENT MEASURES
+
+2.1.Monitoring and reporting rules
+
+2.2.Management and control system(s)
+
+2.2.1Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed
+
+2.2.2Information concerning the risks identified and the internal control system(s) set up to mitigate them
+
+2.2.3Estimation and justification of the cost-effectiveness of the controls
+
+2.3.Measures to prevent fraud and irregularities
+
+3.
+
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+3.2.Estimated financial impact of the proposal on appropriations
+
+3.2.1.Summary of estimated impact on expenditure
+
+3.2.2.Estimated output funded with operational appropriations
+
+3.2.3.Summary of estimated impact on administrative appropriations
+
+3.2.4.Compatibility with the current multiannual financial framework
+
+3.2.5.Third-party contributions
+
+3.3.Estimated impact on revenue
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.
+
+Title of the proposal/initiative
+
+Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) 2021/953 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic.
+
+1.2.
+
+Policy area(s) concerned
+
+Free movement of persons within the European Union
+
+Recovery and Resilience
+
+1.3.
+
+Nature of the proposal/initiative
+
+◻
+
+a new action
+
+◻
+
+a new action following a pilot project/preparatory action
+
+⌧
+
+the extension of an existing action
+
+◻
+
+a merger or redirection of one or more actions towards another/a new action
+
+1.4.
+
+Objectives
+
+1.4.1.
+
+General objective
+
+(s)
+
+The general objective of this Regulation is to extend, by 12 months, the application of Regulation (EU) 2021/953, which lays down a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) for the purpose of facilitating the holders’ exercise of their right to free movement during the COVID-19 pandemic
+
+1.4.2.
+
+Specific objective(s
+
+)
+
+Specific objective No 1
+
+To continue the operations and maintenance of the EU Digital COVID Certificate trust framework established by Regulation (EU) 2021/953.
+
+1.4.3.
+
+Expected result(s) and impact
+
+Specify the effects which the proposal/initiative should have on the beneficiaries/groups targeted.
+
+The proposal will extend the operation of the framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates for the purpose of facilitating the holders’ exercise of their right to free movement during the COVID-19 pandemic. This should allow EU citizens and their family members exercising their right to free movement to continue demonstrating that they fulfil public health requirements imposed, in compliance with EU law, by the Member State of destination.
+
+Support will be provided to maintain the technological infrastructure necessary for the EU Digital COVID Certificate framework.
+
+1.4.4.
+
+Indicators of performance
+
+Specify the indicators for monitoring progress and achievements.
+
+System in operation in 2022/2023
+
+The Commission should ensure that the EU-level supporting digital infrastructure remains in place, as well as that it is operated and monitored effectively.
+
+1.5.
+
+Grounds for the proposal/initiative
+
+1.5.1.
+
+Requirements to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative
+
+The EU Digital COVID Certificate framework lays out the format and content of certificates on COVID-19 vaccination, testing and recovery. The EU Digital COVID Certificate framework ensures that these certificates are issued in an interoperable format and are reliably verified when presented by the holder in other Member States, thereby facilitating free movement within the EU. It will apply until 30 June 2023.
+
+1.5.2.
+
+Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone.
+
+Reasons for action at European level (ex-ante): The objectives of this proposal, namely to facilitate the free movement within the EU during the COVID-19 pandemic by maintaining a secure and interoperable system to issue and verify certificates on the holder’s vaccination, testing and recovery status, cannot be sufficiently achieved by the Member States independently but can rather, by reason of the scale and effects of the action, be better achieved at EU level. Action at EU level is thus necessary.
+
+Expected generated Union added value (ex-post): The absence to act at EU level is likely to result in Member States adopting different systems, resulting in citizens exercising their free movement rights experiencing problems in the acceptance of their documents in other Member States. In particular, it is necessary to continue to agree on the technical standards to be used to ensure interoperability, security and verifiability of the certificates being issued.
+
+1.5.3.
+
+Lessons learned from similar experiences in the past
+
+This is a continuation of an existing initiative established under Regulation (EU) 2021/953.
+
+1.5.4.
+
+Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments
+
+The Commission intends to support the continuation of urgent measures through EU Programmes, in this particular case, via the Digital Europe Programme (DEP). Financing is compatible with the Multiannual Financial Framework 2021-2027. The Commission will take the appropriate initiative to ensure that resources are mobilised in due time.
+
+1.5.5.
+
+Assessment of the different available financing options, including scope for redeployment
+
+Financial support from the Union may cover the following actions:
+
+Operation and maintenance of EU-systems supporting interoperability
+
+The Commission will use funds from appropriation under the DEP to support measures under the initiative.
+
+1.6.
+
+Duration and financial impact
+
+⌧
+
+limited duration
+
+–
+
+⌧
+
+The amended Regulation will apply until 30 June 2023.
+
+–
+
+⌧
+
+Financial impact from 2022 for commitment and payment appropriations.
+
+◻
+
+unlimited duration
+
+1.7.
+
+Management mode(s) planned
+
+⌧
+
+Direct management
+
+by the Commission
+
+–
+
+⌧
+
+by its departments, including by its staff in the Union delegations;
+
+–
+
+◻
+
+by the executive agencies
+
+◻
+
+Shared management
+
+with the Member States
+
+◻
+
+Indirect management
+
+by entrusting budget implementation tasks to:
+
+–
+
+◻
+
+third countries or the bodies they have designated;
+
+–
+
+◻
+
+international organisations and their agencies (to be specified);
+
+–
+
+◻
+
+the EIB and the European Investment Fund;
+
+–
+
+◻
+
+bodies referred to in Articles 70 and 71 of the Financial Regulation;
+
+–
+
+◻
+
+public law bodies;
+
+–
+
+◻
+
+bodies governed by private law with a public service mission to the extent that they provide adequate financial guarantees;
+
+–
+
+◻
+
+bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that provide adequate financial guarantees;
+
+–
+
+◻
+
+persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act.
+
+–
+
+If more than one management mode is indicated, please provide details in the ‘Comments’ section.
+
+Comments
+
+None.
+
+2.
+
+MANAGEMENT MEASURES
+
+2.1.
+
+Monitoring and reporting rules
+
+Specify frequency and conditions.
+
+Actions receiving financial assistance under this proposal will be monitored regularly.
+
+2.2.
+
+Management and control system(s)
+
+2.2.1.
+
+Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed
+
+Management mode
+
+The actions supporting the aims of the Regulation will be implemented directly as provided for by the Financial Regulation.
+
+The Commission shall provide any support required and duly justified for the development and operations of any needed EU-level interoperability infrastructure. This set-up is considered the most appropriate to achieve the objectives of the Regulation by fully taking into consideration the principles of economy, efficiency and best value for money.
+
+Funding Instruments
+
+The actions to be funded to achieve the aims of the Regulation will be drawn from the Digital Europe Programme.
+
+Control strategies
+
+The control strategies will take into account the risk of the respective implementation mechanism and funding tools.
+
+For grants, the control strategy will be set up accordingly and will focus on three key stages of grant implementation, in accordance with the Financial Regulation:
+
+a. The organisation of calls and the selection of proposals that fit the policy objectives of the Regulation,
+
+b. Operational, monitoring and ex-ante controls that cover project implementation, public procurement, pre-financing, interim and final payments,
+
+c. Ex-post controls of projects and payments.
+
+2.2.2.
+
+Information concerning the risks identified and the internal control system(s) set up to mitigate them
+
+The key control functions foreseen for the programme include focusing on the policy objectives while taking into account the internal control objectives (legality and regularity, control efficiency and cost effectiveness). They will aim to ensure the involvement of all actors, appropriate budgetary flexibility and consistent ex-ante and ex-post controls and may be risk-differentiated.
+
+The Commission’s existing internal control system applies to ensure that funds available under the Digital Europe Programme are used properly and in line with appropriate legislation.
+
+The current system is setup as follows:
+
+a. The internal control team within DG CONNECT focuses on compliance with administrative procedures and legislation in force. The Internal Control Framework of the Commission is used for this purpose. Other Commission services involved in the implementation of the initiative will follow the same Control Framework,
+
+b. Regular audit of grants and contracts by external auditors, which will be awarded under this Regulation will be fully incorporated in annual audit plans,
+
+c. Evaluation of overall activities by external evaluators.
+
+Actions performed may be audited by the European Anti-Fraud Office (OLAF) and the Court of Auditors.
+
+2.2.3.
+
+Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure)
+
+Estimated level of error
+
+The aim is to maintain a residual error rate under 2% threshold for all spending related to the implementation of the measures to achieve the aim of the Regulation, while limiting the control burden for Member States to achieve the right balance between the legality and regularity objective with other objectives like the effectiveness of the EU Digital COVID Certificate framework.
+
+2.3.
+
+Measures to prevent fraud and irregularities
+
+Specify existing or envisaged prevention and protection measures, e.g. from the Anti-Fraud Strategy.
+
+DG CONNECT is determined to fight against fraud at all stages of the management process. The DG has developed and implements a comprehensive anti-fraud strategy covering all major business activities and fraud risks identified. This includes an enhanced use of intelligence using advanced IT tools (notably in grant management) and continuous training and information for staff. Overall the entire set of control measures proposed also aims for a positive impact on the fight against fraud.
+
+The legislation will ensure that key controls such as audits and/or on-the-spot checks can be carried out by the Commission services, including OLAF, using the standard provisions recommended by OLAF.
+
+3.
+
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.
+
+Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+·
+
+Existing budget lines
+
+In order
+
+of multiannual financial framework headings and budget lines.
+
+Heading of multiannual financial framework
+
+Budget line
+
+Type of
+
+expenditure
+
+Contribution
+
+Number
+
+Diff./Non-diff.
+
+from EFTA countries
+
+from candidate countries
+
+from third countries
+
+within the meaning of Article 21(2)(b) of the Financial Regulation
+
+01
+
+02 04 Digital Europe Programme
+
+Diff
+
+YES
+
+YES (if specified in the annual work programme)
+
+Part of the Programme
+
+NO
+
+3.2.
+
+Estimated impact on expenditure
+
+3.2.1.
+
+Summary of estimated impact on expenditure
+
+–
+
+◻
+
+The proposal/initiative does not require the use of operational appropriations
+
+–
+
+■
+
+The proposal/initiative requires the use of operational appropriations, as explained below:
+
+EUR million (to three decimal places)
+
+Heading of multiannual financial
+
+framework
+
+01
+
+Single Market, Innovation and Digital
+
+DG CONNECT
+
+Year
+
+2022
+
+Year
+
+2023
+
+Year
+
+2024
+
+TOTAL
+
+• Operational appropriations
+
+02 04 Digital Europe Programme
+
+Commitments
+
+(1a)
+
+3,000
+
+4,000
+
+7,000
+
+Payments
+
+(2a)
+
+3,000
+
+4,000
+
+7,000
+
+TOTAL appropriations
+
+for DG
+
+CONNECT under Heading 1
+
+Commitments
+
+=1a
+
+3,000
+
+4,000
+
+7,000
+
+Payments
+
+=2a
+
+3,000
+
+4,000
+
+7,000
+
+•
+
+TOTAL operational appropriations
+
+Commitments
+
+(4)
+
+3,000
+
+4,000
+
+7,000
+
+Payments
+
+(5)
+
+3,000
+
+4,000
+
+7,000
+
+TOTAL appropriations
+
+under HEADING 01
+
+of the multiannual financial framework
+
+Commitments
+
+=4
+
+3,000
+
+4,000
+
+7,000
+
+Payments
+
+=5
+
+3,000
+
+4,000
+
+7,000
+
+Heading of multiannual financial
+
+framework
+
+7
+
+‘Administrative expenditure’
+
+EUR million (to three decimal places)
+
+Year
+
+2022
+
+Year
+
+2023
+
+Year
+
+2024
+
+TOTAL
+
+DGs CONNECT + JUST + SANTE + DIGIT
+
+• Human resources
+
+1,501
+
+1,501
+
+3,002
+
+• Other administrative expenditure
+
+TOTAL DGs CONNECT
+
++ JUST + SANTE + DIGIT
+
+Appropriations
+
+1,501
+
+1,501
+
+3,002
+
+TOTAL appropriations
+
+under HEADING 7
+
+of the multiannual financial framework
+
+(Total commitments = Total payments)
+
+1,501
+
+1,501
+
+3,002
+
+EUR million (to three decimal places)
+
+Year
+
+2022
+
+Year
+
+2023
+
+Year
+
+2024
+
+TOTAL
+
+TOTAL appropriations
+
+under HEADINGS 1 to 7
+
+of the multiannual financial framework
+
+Commitments
+
+4,501
+
+5,501
+
+10,002
+
+Payments
+
+4,501
+
+5,501
+
+10,002
+
+3.2.2.
+
+Estimated output funded with operational appropriations
+
+Commitment appropriations in EUR million (to three decimal places).
+
+Indicate objectives and outputs
+
+⇩
+
+2022
+
+2023
+
+2024
+
+2025
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+TOTAL
+
+OUTPUTS
+
+Type
+
+Average cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+Total No
+
+Total cost
+
+SPECIFIC OBJECTIVE No 1
+
+To continue the operations and maintenance of the EU Digital COVID Certificate trust framework established by Regulation (EU) 2021/953
+
+Operations and maintenance of the trust framework
+
+1
+
+3,000
+
+4,000
+
+7,000
+
+Subtotal for specific objective No 1
+
+3,000
+
+4,000
+
+7,000
+
+TOTALS
+
+3,000
+
+4,000
+
+7,000
+
+3.2.3.
+
+Summary of estimated impact on administrative appropriations
+
+–
+
+◻
+
+The proposal/initiative does not require the use of appropriations of an administrative nature
+
+–
+
+■
+
+The proposal/initiative requires the use of appropriations of an administrative nature, as explained below:
+
+EUR million (to three decimal places)
+
+Year
+
+2022
+
+Year
+
+2023
+
+Year
+
+2024
+
+TOTAL
+
+HEADING 7
+
+of the multiannual financial framework
+
+Human resources
+
+1,501
+
+1,501
+
+3,002
+
+Other administrative expenditure
+
+Subtotal HEADING 7
+
+of the multiannual financial framework
+
+1,501
+
+1,501
+
+3,002
+
+Outside HEADING 7
+
+of the multiannual financial framework
+
+Human resources
+
+Other expenditure
+
+of an administrative nature
+
+Subtotal
+
+outside HEADING 7
+
+of the multiannual financial framework
+
+TOTAL
+
+1,501
+
+1,501
+
+3,002
+
+The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DGs that are already assigned to management of the action and/or have been redeployed within the DGs, together if necessary with any additional allocation which may be granted to the managing DGs under the annual allocation procedure and in the light of budgetary constraints.
+
+3.2.3.1.
+
+Estimated requirements of human resources
+
+–
+
+◻
+
+The proposal/initiative does not require the use of human resources.
+
+–
+
+■
+
+The proposal/initiative requires the use of human resources, as explained below:
+
+Estimate to be expressed in full time equivalent units (FTE)
+
+Year
+
+2022
+
+Year
+
+2023
+
+Year
+
+2024
+
+Year
+
+2025
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+• Establishment plan posts (officials and temporary staff)
+
+20 01 02 01
+
+(Headquarters and Commission’s Representation Offices)
+
+9
+
+9
+
+20 01 02 03 (Delegations)
+
+01 01 01 01
+
+(Indirect research)
+
+01 01 01 11 (Direct research)
+
+Other budget lines (specify)
+
+•
+
+External staff (in Full Time Equivalent unit: FTE)
+
+20 02 01
+
+(END)
+
+1
+
+1
+
+20 02 03 (AC, AL, END, INT and JPD in the delegations)
+
+XX
+
+01  xx
+
+yy zz
+
+- at Headquarters
+
+- in Delegations
+
+01 01 01 02
+
+(AC, END, INT - Indirect research)
+
+01 01 01 12 (AC, END, INT - Direct research)
+
+Other budget lines (specify)
+
+TOTAL
+
+10
+
+10
+
+XX
+
+is the policy area or budget title concerned.
+
+The human resources required will be met by staff from the DGs who are already assigned to management of the action and/or have been redeployed within the DGs, together if necessary with any additional allocation which may be granted to the managing DGs under the annual allocation procedure and in the light of budgetary constraints.
+
+Description of tasks to be carried out:
+
+Officials and temporary staff
+
+Staff will be entrusted with the development, monitoring and implementation of this Regulation, the technical specifications adopted on its basis, the monitoring of the technical implementation (via framework contract and grants) as well as the support to Member States for the development of their national applications.
+
+External staff
+
+3.2.4.
+
+Compatibility with the current multiannual financial framework
+
+The proposal/initiative:
+
+–
+
+■
+
+can be financed through redeployment within the relevant headings of the Multiannual Financial Framework (MFF).
+
+The Digital Europe Programme will finance the costs of this initiative
+
+–
+
+◻
+
+requires use of the unallocated margin under the relevant heading of the MFF and/or use of the special instruments as defined in the MFF Regulation.
+
+–
+
+◻
+
+requires a revision of the MFF.
+
+3.2.5.
+
+Third-party contributions
+
+The proposal/initiative:
+
+–
+
+■
+
+does not provide for co-financing by third parties
+
+–
+
+◻
+
+provides for the co-financing by third parties estimated below:
+
+Appropriations in EUR million (to three decimal places)
+
+Year
+
+N
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+Total
+
+Specify the co-financing body
+
+TOTAL appropriations co-financed
+
+3.3.
+
+Estimated impact on revenue
+
+–
+
+■
+
+The proposal/initiative has no financial impact on revenue.
+
+–
+
+◻
+
+The proposal/initiative has the following financial impact:
+
+on own resources
+
+on other revenue
+
+please indicate, if the revenue is assigned to expenditure lines
+
+EUR million (to three decimal places)
+
+Budget revenue line:
+
+Appropriations available for the current financial year
+
+Impact of the proposal/initiative
+
+Year
+
+N
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+Article ………….
+
+For assigned revenue, specify the budget expenditure line(s) affected.
+
+Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information).

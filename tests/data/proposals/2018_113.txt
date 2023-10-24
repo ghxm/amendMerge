@@ -1,0 +1,2165 @@
+@import url(./../../../../css/com/com-c.css)
+
+EUROPEAN COMMISSION
+
+Brussels, 25.4.2018
+
+COM(2018) 239 final
+
+2018/0113(COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Directive (EU) 2017/1132 as regards the use of digital tools and processes in company law
+
+(Text with EEA relevance)
+
+{SWD(2018) 141 final}
+
+{SWD(2018) 142 final}
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+Reasons for and objectives of the proposal
+
+The EU economy needs healthy and flourishing companies which can easily operate in the Single Market. Such companies play a crucial role in promoting economic growth, creating jobs and attracting investment in the European Union. They help to deliver greater economic as well as social value for society at large. To achieve this end, companies need to operate in a legal and administrative environment which is both conducive to growth and adapted to face the new economic and social challenges of a globalised and digital world, while pursuing also other legitimate public interests such as the protection of employees, creditors and minority shareholders and providing authorities with all necessary safeguards to combat fraud or abuse.
+
+It is with this objective that the Commission is putting forward this proposal, together with the Proposal for a Directive of the European Parliament and of the Council amending Directive (EU) 2017/1132 as regards cross-border conversions, mergers and divisions - a comprehensive set of measures for fair, enabling and modern company law rules in the EU.
+
+There are around 24 million companies in the EU, out of which approximately 80% are limited liability companies. Around 98-99% of limited liability companies are SMEs.
+
+Companies increasingly use digital tools in their business and they also need to interact with public authorities, but this is not always possible through online means. In the EU there are significant differences between Member States when it comes to the availability of online tools for companies in their contacts with public authorities in the area of company law. Member States provide e-government services at variable degrees: some are very advanced and provide easy-to-use, fully online solutions, while others do not offer at all online solutions for critical steps in a company's lifecycle such as the registration of the company as a legal entity.
+
+Achieving a deeper and fairer internal market is one of the 10 key priorities of the Commission, together with the developm
+
+ent of the Digital Single Market. The 2015 Digital Single Market Strategy
+
+and the 2016 e-Government Action Plan
+
+stressed the role of public administrations in helping businesses to easily start business, operate online and expand across borders. The e-Go
+
+vernment Action Plan specifically recognised the importance of improving the use of digital tools when complying with company law related requirements. The proposal for a Regulation on the Single Digital Gateway
+
+emphasises the importance of digital tools
+
+and processes to help businesses to take full advantage of the Single Market and requires the full digitalisation of the most important administrative procedures for cross-border users.
+
+The European Parliament, in its 2017 resolution on the e-Government A
+
+ction Plan
+
+, called on the Commission to consider further ways to promote digital solutions for formalities throughout a company's lifecycle and underlined the importance of work on the interconnection of business registers.
+
+The Council also encouraged the
+
+Commission in its 2015 Conclusions
+
+on the Single Market Policy to address the online registration of companies through the use of the Digital Single Market Package. Against this background, the Commission 2017 Work Programme included a company law initia
+
+tive to facilitate the use of digital technologies throughout a company's lifecycle (equally confirmed in the Digital Single Market Mid-term Review
+
+). Furthermore, most recently in the Tallinn declaration on e-Government
+
+the Member States made a strong ca
+
+ll to step up efforts for provision of efficient, user-centric electronic procedures in the EU.
+
+The Commission included an initiative on company law as part of its Work Programme 2017.
+
+Currently the EU company law
+
+includes certain elements of digitalisa
+
+tion such as the obligation for Member States to make available online information about limited liability companies registered in central, commercial and companies registers (herein "registers"). However, these requirements are limited and lack precision,
+
+leading to a very diverse implementation at national level.
+
+In addition, certain digital processes, for instance online company registration, are not covered at all by EU law and only a number of Member States address them at national level. Some Member
+
+States only allow for face-to-face procedure for company registration and filing of changes, while others allow both face-to-face and online procedure or only online. The situation is similar for the online registration of branches. Although branches do no
+
+t have a legal personality, they still need to be registered in the business register
+
+. The registration of a branch largely follows the same requirements as company registration.
+
+Current EU rules also provide for the publication of all or part of the registered information on companies in the national gazette. It is only by publication in the national gazette (or equally effective means) that the disclosed information becomes legally effective. Such requirement dates back to the early days of EU company law when the publication in the official gazette was the only way of ensuring certainty and transparency of business information. Member States can keep the national gazette in electronic form, but possible multiple submission of information requirements in Member States (i.e. both to the business register and the national gazette) still exist. In addition, companies having a branch in another EU country need to file their annual accounts both to the register where the company is registered and to the register in the Member State where the branch is registered.
+
+Third parties (investors, citizens, other companies) need to access company information in the registers. The EU law sets a minimum set of data which must always be provided for free, however, this rema
+
+ins limited
+
+. For the other company information most Member States charge fees for all or some of that information. Thus, access to information varies across the EU, with more information being available free of charge in some Member States than in others
+
+which creates an unbalanced situation in the EU.
+
+The lack of rules for online registration, filing and publication or the divergence of such rules in the Member States create unnecessary costs and burdens to entrepreneurs who wish to set up a new business or to expand their business by registering subsidiaries or branches or fulfil specific requirements online. This in turn may lead to missed business opportunities due to delay in registering the business or in a worst case to the decision not to set up a business at all.
+
+The processes in Member States that have put in place solutions for online registration are generally cheaper and quicker to process than those where the applications are made in person and on paper.
+
+Companies that do not have the option t
+
+o register online incur higher costs than those that can complete the procedure fully online. The time needed to complete the procedure also adds up to the costs incurred by companies and when procedures require the physical presence in front of a competen
+
+t authority the time for completing the registration is longer than when procedures are done fully online. The relevant competent authorities in the Member States – namely the business registers – are also affected by their own slow take-up of digital solu
+
+tions. This is mainly proven by counter-examples from those that have already made progress in digitalising their processes over the past few years. Registers that are not yet offering streamlined online procedures for companies are missing out on the effi
+
+ciencies that these solutions could bring to their own organisations.
+
+The use of digital solutions in company law, in particular for the
+
+registration of companies, should be done in such way as to avoid the possibility of fraud or abuse. The phenomenon of
+
+letterbox companies has been a concern flagged by some stakeholders. This proposal does not aim to specifically address the issue of letterbox companies as it does not harmonise substantive requirements for setting up companies or doing business. It is wit
+
+hout prejudice to rules laid down in certain areas, such as posting of workers
+
+, coordination of social security systems
+
+and road transport
+
+, to ensure that undertakings do not improperly or fraudulently
+
+take advantage of Treaty freedoms through letter-bo
+
+x companies not genuinely performing substantial activities. Substantive requirements of incorporation of companies as well as connecting factors are dealt with under the national laws of the Member States. However, within its scope, and to address concern
+
+s highlighted by some stakeholders in the public consultation, the proposal sets safeguards against fraud and abuse such as mandatory identification control, rules on disqualified directors and a possibility for Member States to require
+
+the involvement of
+
+a person or body in the process, such as notaries or lawyers. There are also other measures taken by the Commission outside the scope of this proposal to avoid using companies for criminal activities
+
+.
+
+The Council has adopted a number of measures to counte
+
+ract corporate tax avoidance in recent years: Council Directive 2015/2376
+
+, Council Directive 2016/881
+
+and
+
+Council
+
+Directive (EU) 2016/1164
+
+.
+
+Political agreement within the Council was reached on 13 March 2018 on the Commission proposal
+
+for a Directive o
+
+n mandatory disclosure by intermediaries for tax planning schemes, which should be adopted shortly.
+
+The digitalisation of registration of companies is widely considered as very important. According to the results of a public consultation in 2016 the registration of business activity including registration of a company was seen as the most important online procedure for businesses that should be available online. Responding to this feedback, the Commission proposal on a Single Digital Gateway which provides certain general rules for online procedures, covers the general registration of business activity via online means except for the constitution of companies within the meaning of Article 54 TFEU. This exception was made to allow for a dedicated, comprehensive approach for the registration of companies and all other procedural events within their life cycle
+
+to be addressed in the company law acquis. When adopting the Single Digital Gateway proposal, the Commission committed to propose specific rules for this area without delay.
+
+This proposal aims to address the above-described issues and answer the calls to provide more digital solutions for companies in the Single Market. It aims to provide more equal opportunities for companies in the EU while ensuring that Members States have the necessary flexibility to adjust their national systems to their needs and to maintain their legal traditions. Members States should enable and promote the use of digital tools and processes in company law.
+
+Consistency with existing policy provisions in the policy area
+
+This proposal is aimed to complement the existing rules on EU company law that are codified in Directive (EU) 2017/1132.
+
+The initiative is fully coherent with and will build on existing digital elements of EU company law, in particular on
+
+the Business Registers Interconnection System (BRIS) which is based on legal obligations set out by Directive 2012/17/EU and the Commission Implementing Regulation (EU) 2015/884.
+
+Consistency with other Union policies
+
+This initiative
+
+will contribute to several Commission initiatives which aim to improve the functioning of the Single Market by making it deeper and fairer and to build a digital Europe
+
+.
+
+It w
+
+ill enhance the digital
+
+interactions between administrations and citizens/businesses, and contribute to increased transparency. Furthermore, it will promote
+
+the implementation of the
+
+once-only principle which is largely supported in Commission initiatives such as the
+
+e-Government
+
+Action
+
+Plan and included in the proposed Single Digital Gateway Regulation, as well as in the recent Tallinn declaration on e-Government
+
+. While this proposal deals with specific cases of "once-only" submission of company data in the context of company law
+
+, such cases contribute to the wider efforts of implementing the once-only principle at EU level.
+
+In particular, this proposal will complement the Commission proposal for a Regulation on the establishment of a Single Digital Gateway which covers the genera
+
+l registration of business activity via online means except for the constitution of limited liability companies. This proposal has been aligned with the provisions of the Single Digital Gateway. It provides in particular more specific, substantial rules on
+
+the procedures for establishing and registering limited liability companies and branches and constitutes a "lex specialis" in relation to the Single Digital Gateway.
+
+It is important to ensure coherence between the Single Digital Gateway and this proposal
+
+in order to build consistent, long-term digital policy. Therefore, the information about procedures pursuant to this proposal is to be provided on the websites available through the Single Digital Gateway and should meet the same quality requirements, in p
+
+articular as regards the need to be up-to-date, clear and user friendly.
+
+T
+
+he proposal will also provide the necessary legal conditions for the use of digital tools and processes in order to enable companies to benefit from the use of
+
+electronic identificat
+
+ion and trust services through the eIDAS Regulation
+
+.
+
+Furthermore, it will introduce the once-only principle in the area of company law in line with the eGovernment Action Plan 2016 – 2020, supporting EU wide efforts to reduce the administrative burdens on
+
+citizens and businesses.
+
+Finally, the online registration of companies
+
+will also benefit from t
+
+he recent Public Document Regulation
+
+which will require Member States to accept a series of documents from citizens without further verification and translatio
+
+n by the end of 2018.
+
+Overall, the initiative will enhance the efficiency and legal certainty of cross-border operation procedures relating to cross-border mergers, divisions and conversions as part of a parallel initiative, which includes also targeted elements of digitalisation.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+Legal basis
+
+The proposal is based on Article 50 (1) and (2) of the Treaty on the Functioning of the European Union (TFEU) which is the legal basis for the EU competence to act in the area of company law. In particular, Article 50(2) (f) provides for progressive abolition of restrictions on freedom of establishment and Article 50(2) (g) provides for coordination measures concerning the protection of interests of companies’ members and other stakeholders.
+
+Subsidiarity (for non-exclusive competence)
+
+The overall objective of this legislative proposal is to ensure the smooth functioning of the EU Single Market for the whole duration of a company's life-cycle when in contact with authorities concerning company and branch registration and filing of information. This is not limited to the territory of one Member State, but covers the entire territory of the EU. Registration, filing or access to company data should not entail significant additional regulatory burdens for the applicants when registering companies or branches in other Member States. Cross-border registration of companies and branches can be performed in a much more cost-effective way through online means. To ensure equal conditions in all Member States, and given the transnational nature of the Single Market and the necessity to address the current situation in a cross-border context, EU action will be most effective in reducing the costs for businesses when registering companies and branches, filing changes or accessing company data. Member States acting individually would continue to apply their own rules in this respect with little prospect that such rules would address the cross-border situations in a compatible manner.
+
+It appears, therefore, that without any action at EU level only non-harmonised national solutions would be available and SMEs would continue to face barriers making effective exercise of the freedom of establishment more difficult and the resulting costs would in particular affect the companies. In this context, the targeted EU intervention complies with the principle of subsidiarity.
+
+Proportionality
+
+The measures introduced by this proposal are proportionate to its objective of providing digital solutions for companies in the Single Market throughout their complete life-cycle. The provisions require Member States to ensure the possibility to use online methods when registering companies or filing changes, but provides full flexibility to Member States to achieve this in line with their national laws and systems. The impact assessment accompanying this proposal explains the cost and benefits of every option for companies, stakeholders and Member States by taking into account all necessary elements including societal benefits and political feasibility. For example, online registration takes on average half of the time and can be up to 3 times cheaper than traditional paper-based formats and savings for online registration and filing, to be generated once this proposal comes into effect, are estimated to be EUR 42 – 84 million per year. Also based on efficiency analysis, the cost and benefits of every option for companies, stakeholders and Member States, it appears that the proposed actions do not go beyond what is necessary to achieve the aim and that positive impacts of the proposed measures exceed the possible negative impacts (Section 6.3 of the impact assessment). The initial investment costs related to the IT developments will be compensated by savings by businesses and the national administration alike, in the longer term.
+
+The proposal also respects national legal traditions, in particularly those with the notarial involvement in the process of registration of companies. Furthermore, the proposal has been prepared taking into account the current situation in Member States and by building on existing Member States solutions and practices. Many Member States already comply with a number of the proposed measures and will need to introduce only limited changes. This proposal does not entail any additional obligations for citizens and businesses, as the measures aim to simplify and streamline the procedures.
+
+Choice of the instrument
+
+The legal basis for company law operations is Article 50 TFEU which requires the European Parliament and the Council to act by means of directives. Directive (EU) 2017/1132 governs company law at EU level. For reasons of cohesion and consistency of EU company law, the present proposal will amend Directive (EU) 2017/1132.
+
+3.
+
+RESULTS OF EX-POST
+
+EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+Ex-post evaluations/fitness checks of existing legislation
+
+The proposal principally aims at introducing new provisions, and to the extent necessary complementing existing ones to achieve the use of digital tools and processes throughout a company's lifecycle. Therefore, no evaluation took place.
+
+Stakeholder consultations
+
+The Commission has actively engaged with stakeholders and conducted comprehensive consultations throughout the impact assessment process. The consultation process consisted of an online public consultation, stakeholder meetings including discussions with Member State experts, several studies. The information gathered through all these means fed into the proposal.
+
+The results of the public consultation in 2016
+
+on the Single Digital Gateway showed that the registration of business activity including registration of a company was the most important online procedure for businesses that should be available online.
+
+The online public consultation, entitled "EU Company law upgraded: Rules on digital solutions and efficient cross-border operation", was launched on 10 May 2017 and ended on 6 August 2017. Its aim was to collect input from stakeholders on problems in company law, gather what evidence they may have on such problems and hear about possible solutions as to how to address the problems at EU level.
+
+There were 209 responses submitted. The responses came from various stakeholder groups such as national public authorities, regional public authorities, business organisations, notaries, trade unions, private businesses, national business registers, legal academics as well as private individuals.
+
+Facilitating the digital interactions between companies and Member States' authorities
+
+were considered as a priority by most Member State authorities. Business organisations were supportive of all of the legislative initiatives in this area (particularly fully online, electronic identification standards and the once-only principle) and deem
+
+ed it to be a strong EU priority for fostering economic activity and removing undue barriers for companies wishing to operate
+
+cross-borders. Academics and research institutions were also broadly in favour of a legislative initiative in this area with circa
+
+68% deeming this question to be a priority issue. The majority of trade unions expressed moderate support for a legislative initiative in this area, mainly due to concerns that an online procedure would entail a higher risk of fraud. Notaries almost unani
+
+mously rejected the notion of the lack of legislation being problematic and strongly felt that the EU should not be addressing this issue at all
+
+.
+
+The views of stakeholders were collected during numerous meetings. The process of the consultation on the company law package within the Company Law Expert Group (CLEG) began in 2012. From 2012 – 2014, the CLEG meetings focussed on the 2012 Action Plan of Company Law and Corporate Governance while in 2015 and 2016 the meetings centred on elements of digitalisation. In 2017, three CLEG meetings took place where the relevant issues for the company law package, namely digitalisation, cross-border mergers, divisions and conversions were discussed in detail. The Commission presented to the experts its intentions and ideas in the relevant areas, asking the Member States experts their opinion as regards the specific issues. Generally the Member States' representatives showed support for the initiative.
+
+In 2017, the Commission invited to the CLEG meetings not only Member States experts but also stakeholders' representatives. These stakeholders have been targeted and identified based on their participation in the 2013, 2015 and 2017 public consultations and based on their involvement in the areas regulated by EU Company Law. Stakeholders represented businesses, employees, legal professionals. The outcome of these meetings showed that most of the Member States have already extensive digital solutions for interactions between companies and Member States' authorities. They were in general supportive of digitalisation at EU level; differences in views remained as regards how to address specific elements of the proposal. Business representatives' position was that digitalisation was needed and would greatly help European companies. Notaries and some Member States were concerned about possible fraud in online registration.
+
+Collection and use of expertise
+
+In order to assist the work of the Commission, the Informal Company Law Expert Group (ICLEG) was established in May 2014 on issues
+
+of company law. The members of the expert Group were highly qualified and experienced academics and legal practitioners of company law from numerous Member States. ICLEG members gave their recommendation to the future development of existing framework gove
+
+rning the use of digital tools in the company law
+
+.
+
+The Commission has also used the results of two studies of 2017
+
+analysing specific questions of the
+
+digitalisation of company law and assessing the impacts of using digital tools in the context of cross-
+
+border company operations.
+
+Furthermore, the Commission collected expert feedback at several conferences including the Company Law in the Digital Age conference held in October 2015 in Brussels, the conference held in September 2017 in Tallinn, Estonia: The
+
+21st European Company Law and Corporate Governance Conference:
+
+Crossing Borders, Digitally and the Annual Conference on European Company Law and Corporate Governance that took place in Trier, Germany in October 2017.
+
+Impact assessment
+
+The Impact Assessment Report, covering digitalisation, cross-border operations and conflict of law rules in company law, was examined by the Regulatory Scrutiny Board (RSB) on 11 October 2017. Following an initial negative opinion of the RSB, a revised version of the Impact Assessment was submitted to the Board for which a positive opinion with reservations was issued on 7 November 2017. The reservations expressed by the RSB mainly referred to other areas assessed by the report, and not to the issues related to the digitalisation of company law. In particular, the Board noted that the report improved substantially since its first submission. More data/evidence has been added and the sources and methodologies were better explained. It was also acknowledged that the report provided more information on the scale of the problems and the policy options were described more in detail. The initiative was built on existing safeguards for employees, creditors and minority shareholders, including acquired rights for employees' information, consultation and participation. The impact assessment looked at three main issues in relation to the use of digital tools in company law. Several policy options were considered for each issue and in each case an option was presented as preferred after comparison with the other options.
+
+Concerning the
+
+online registration
+
+(creation of a company as legal entity) and
+
+filing of documents to the business register,
+
+three options were proposed and their impacts were assessed and compared. The preferred option would provide for rules on the online registration of company and branch and online filing of company documents in all Member States. Member States would need to ensure that such procedures can be completed online without the need for physical presence of the applicant (or its representative) in front of any authority or other persons or bodies involved in the process. In addition, this option allows Member States to exceptionally require physical presence, on a case-by-case basis, when there is a genuine suspicion of fraud. To ensure uniform implementation between the Member States, this option would also introduce safeguards for electronic identification laid down at EU level.
+
+Concerning the
+
+multiple submission of the same information by companies,
+
+two options were proposed and their impacts were assessed and compared. The preferred option seeks simplification by introducing rules requiring Member States to ensure that, when the register receives certain data from the company (e.g. change of company name, change of registered office or latest annual accounts), it then sends it to the register in another Member State where the company has a branch (as opposed to the company doing that). Similarly, once the company information is filed with the register, it is the register that sends it electronically to the national gazette (as opposed to the company representative submitting the same documents twice). In addition, the preferred option would make the requirement for publication of company information in the national gazette optional. This option provides for several concrete cases of implementing the once-only principle at EU level.
+
+Finally, concerning
+
+online access to company information held in business registers
+
+, two options were proposed and their impacts were assessed and compared. The preferred option proposes to expand the set of company data to be provided free of charge by all business registers, while Member States could still charge fees for other information. Currently only the following details are always free of charge: company name, registered office, registration number and legal form. It is proposed that the "always free-of-charge" data could also include e.g. information on the legal status of the company; other names of the company (former names or secondary/alternative names) if any; company website (if any); object of the company (if national law requires to have this information in the business register); and information on whether the company has any branches established in another Member State. In addition, the set of free data would also include the names of the company's legal representatives which are considered important to stakeholders and the Commission has had calls for promoting easy access to it.
+
+Regulatory fitness and simplification
+
+The proposal is expected to deliver considerable simplification benefits to businesses by facilitating digital interactions with Member States' authorities. The possibility of online registration will enable businesses to register companies and file changes without the need to be physically present. Savings from the introduction of online registration for new companies registered in the EU are estimated to be between €42-84 million, under the assumptions presented in the impact assessment. In addition, the proposed rules on disclosure of company data will be in line with the 'once-only principle'. The extension of company data free of charge will also help businesses and stakeholders to collect and verify information that are important in business relations.
+
+The cost reduction and simplifications brought about by the new rules will have a particularly positive impact on SMEs.
+
+Fundamental rights
+
+The proposed rules of this initiative ensure the full respect of the rights and principles set out in the Charter of Fundamental Rights of the European Union and contribute to implementation of several of those rights. In particular, the main objective of this initiative is to facilitate the rights of establishment in any Member State, as prescribed by Article 15(2) of the Charter. The initiative aims to reinforce the freedom to conduct a business in accordance with Union law and national laws and practices (Article 16). The protection of personal data shall also be ensured in line with Article 8 of the Charter.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The proposal is expected to have certain budgetary implications at least on some of the Member States who may need to adapt their IT systems in order to support the new provisions. However, as explained in the impact assessment accompanying this proposal, those setting up costs would be recovered in the medium and long term through saving time and resources in Member States' administration. The extension of the set of data that is available free of charge from business registers is also expected to have an impact to the financial resources of some of the business registers. There is no impact on the EU budget.
+
+5.
+
+OTHER ELEMENTS
+
+Implementation plans and monitoring, evaluation and reporting arrangements
+
+The Commission will assist the Member States to transpose the proposed measures and will monitor the implementation. In this activity, the Commission will cooperate closely with national authorities e.g. the national company law experts in the Company Law Expert Group (CLEG). In that context, the Commission may provide assistance and guidance (e.g. by organising implementation workshops or providing advice on bilateral basis). As regards the implementation of the rules it has to be highlighted that many Member States already comply with some or many of the proposed rules since the proposal was designed taking into account current solutions and best practices in the Member States. Building on the experiences gained through the implementation and evaluation, the Commission may consider a pilot project for the development of common templates for the instrument of constitution for one or more types of limited liability companies.
+
+To help Member States in their efforts for implementation of practical questions such as the use of eIDAS for company law procedures, the Commission will use the existing framework of cooperation.
+
+The extent to which the initiative has reached its goal of cutting unnecessary costs and burdens for companies will be assessed on the basis of various indicators such as monitoring costs of companies' operations within the scope of the initiative through collection of costs for online registration and filing. In order to gather the required data some reporting obligations for Member States will be needed. With a view to gathering the required stakeholder input, the Commission may organize targeted surveys. An evaluation will need to be carried out in order to assess the impact of the proposed measures and verify if the objectives have been achieved. It will be carried out by the Commission on the basis of the information gathered during the monitoring exercise and additional input collected from the relevant stakeholders, as necessary. An evaluation report could be issued 5 years after the end of the transposition period.
+
+The provision of information for monitoring and evaluation should not impose any unnecessary administrative burden on the stakeholders concerned.
+
+Explanatory documents (for directives)
+
+The proposal is an amendment to the Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law. To ensure the proper implementation of this complex directive, the explanatory document, e.g. in the form of correlation tables would be necessary.
+
+Detailed explanation of the specific provisions of the proposal
+
+The proposal amends Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law. The present detailed explanation describes the proposed provisions accordingly and concentrates on the substantial elements of the proposal. Technical modifications are described only if it is necessary to understand the proposal better.
+
+Article 1
+
+of this Directive describes the amendments to Directive (EU) 2017/1132:
+
+Article 13
+
+lays down the scope of the directive which is limited to the company forms specified in the Annexes.
+
+Article 13a
+
+contains the definitions.
+
+Article 13b
+
+contains provisions on the identification means that are necessary for online company registration and filing. The identification of persons completing these procedures is crucial to ensure the reliability of business registers and to avoid identity fraud. The provision ensures the mandatory recognition of e-IDAS compliant electronic identification means of Union citizens issued in another Member State and allows at the same time Member States to recognise other identification means. As a safeguard to avoid fraud, the provision allows Member States to require the physical presence of relevant persons before a competent authority but only in case of genuine suspicion based on reasonable grounds.
+
+Article 13c
+
+requires Member States to ensure that the rules on fees applicable to online registration and filing are transparent and are applied in a non-discriminatory manner. It provides that fees charged by registers shall not exceed the administrative costs of providing the service.
+
+Article 13d
+
+clarifies that if the completion of online procedures requires payments, they can be done cross-border by means of commonly accessible systems.
+
+Article 13e
+
+aims to ensure that those that want to set-up and operate companies and branches cross-border have easy access to all relevant information about registration of and filing by companies and branches. It requires Member States to make available extensive information online on the relevant company law procedures, obligations and formalities. Member States are required to make such information available at least in an official Union language broadly understood by the largest possible number of cross-border users.
+
+Article 13f
+
+requires Member States to introduce the possibility to register companies online. The crucial element of online registration is that it can be completed online in its entirety without the necessity for the applicant, or his representative, to appear in person before any competent authority or before any other person or body. Member States may opt-out from this obligation in relation to public limitied liability companies given the complexity of establishment and registration of such companies. The provision obliges Member States to lay down detailed rules for online registration and specifies a number of mandatory and optional elements of such rules. A general maximum time limit of five working days is established for the completion of the process for the registration of companies online.
+
+Article 13g
+
+requires Member States to make available online templates of instruments of constitution that can be used for online registration of companies covered by Annex IIA. Member States may also make such templates available for companies covered by Annex II other than the types covered by Annex IIA. The content of the templates referred to in this Article and their verification is governed by national law. The provisions also require Member States to make such templates available at least in an official Union language broadly understood by the largest possible number of cross-border users. It is important to note that the "due legal form" referred to in this article only concerns the constitution of a company; this does not set any precedent for other fields of law (e.g. property).
+
+Article 13h
+
+provides a legal framework for Member States to request information from other Member States concerning disqualified directors. The provisions allow Member States to check with other Member States if a person to be registered as a director of a company is disqualified from acting as a director in another Member State on the basis of the national law of that Member State. The provision obliges the other Member States to provide such information upon request. Member States may refuse the appointment of a person as a director of a company or branch who is currently disqualified from acting as a director in another Member State.
+
+Article 13i
+
+requires Member States to ensure fully online solutions in case of submitting the necessary information to the register throughout the lifecycle of the company, similarly to the online registration of companies.
+
+Article 16
+
+and
+
+Article 16a
+
+replace Article 16 of Directive (EU) 2017/1132. The original Article 16 was split to simplify the text.
+
+The definition of 'electronic means' is deleted since the new proposed rules on online procedures make it superfluous.
+
+The disclosure of information and documents is to be effected by entering them and making them publically available in the business register. This means that third parties can rely on the information in the register without it being necessary that any further step is carried out, in particular the same information being published in the national gazette. Nevertheless, Member States can still maintain the publication of company information in the national gazette but in such a case the register should send the information to the national gazette (as opposed to the company doing that). This new provision aims to support the "once-only" principle according to which companies should not have to provide the same information twice to different authorities.
+
+This article also requires Member States to ensure that all information and documents provided to a competent authority as part of the registration or filing of a company or a branch shall be stored by the registers in a machine-readable and searchable format or as structured data. Member States will have a period of 5 years to ensure full compliance with this requirement. Keeping company information in structured formats will facilitate the way in which data can be searched for and exchanged with other systems.
+
+Article 16a
+
+includes provisions on access to company information by third parties. The amendment introduces the obligation for Member States to ensure that an applicant can obtain electronic extracts authenticated by means of trust services from the registers.
+
+Article 18
+
+of Directive (EU) 2017/1132 is amended to allow Member States to make available, via the interconnection of registers, electronic copies of information and documents concerning types of companies other than those listed in Annex II of the codified directive.
+
+Article 19
+
+of Directive (EU) 2017/1132 is replaced. The new provision extends the scope of data which Member States shall make available free of charge. The extended list contains now, amongst others, former names of a company (if any), its website (if any), legal status and object (if available in the register under national law). The objective of this provision is to give free of charge access to more company data thus enhancing transparency and confidence in the Single Market.
+
+Article 22
+
+of Directive (EU) 2017/1132 is amended to allow for the development of the system of interconnection of registers and the related European central platform. To this aim, Article 22(4) sets out that optional access points may be established not only by the Member States, but also by the Commission or other Union institutions, bodies, offices or agencies in order to allow them to perform their functions or to comply with provisions of EU law.
+
+Article 24
+
+of Directive (EU) 2017/1132 is amended by adapting the legal basis for the implementing acts concerning the business registers interconnection to the changes now proposed to the directive. The Commission shall also adopt implementing acts for technical specifications of certain exchanges of information under the directive.
+
+Article 28a
+
+introduces online registration for branches, similarly to companies.
+
+Article 28b
+
+introduces online filing for branches, similarly to companies.
+
+Article 28c
+
+requires Member States to inform each other, via the system of interconnection of business registers, about closures of branches registered in a Member State other than the one where the company is registered.
+
+Article 30a
+
+requires the Member State where the company is registered to inform the Member State where a branch of the company is registered, via the system of interconnection of registers, about changes in certain information of the companies, such as changes in the name or registered address of the company. This provision also aims to implement the "once-only" principle in cross-border situations.
+
+The proposal also includes some necessary technical adjustments in Directive (EU) 2017/1132.
+
+The existing Article 43 is deleted. This article of the codif
+
+ied directive (originating from Article 17 of the Directive 89/666/EEC) refers to the Contact Committee set up pursuant to Article 52 of Council Directive 78/660/EEC. The latter Directive was replaced by Directive 2013/34/EU
+
+. The new Directive 2013/34/EU
+
+includes no legal basis for this Committee, so the Committee no longer exists.
+
+The amended Article 161 contains the updated reference to the applicable rules governing data protection: the Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) that repeals Directive 95/46/EC.
+
+The amended Article 162a refers the powers to adopt delegated acts in order to keep the lists of company law forms in Member States up-to-date (Annexes I, II and IIA). The Commission will adopt, through a delegated act, an amendment to these annexes when it receives such information from Members States.
+
+Finally, in Annexes I and II, the types of companies of Sweden have been updated to ensure more precise terminology.
+
+Article 2 contains provisions on transposition.
+
+Article 3 describes the reporting on and the review of the Directive after its application started.
+
+Annex IIA has been inserted.
+
+2018/0113 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Directive (EU) 2017/1132 as regards the use of digital tools and processes in company law
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 50(1) and points (b), (c), (f) and (g) of Article 50(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+,
+
+After consulting the European Data Protection Supervisor,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+Directive (EU) 2017/1132 of the European Parliament and of the Council
+
+lays down
+
+inter alia
+
+the rules of disclosure and for the interconnection of central, commercial and companies registers
+
+of Member States.
+
+(2)
+
+The use of digital tools and processes to more easily, rapidly and cost-effectively initiate economic activity by setting up a company or by opening a branch of that company in another Member State is one of the prerequisites for the
+
+effective functioning of a competitive Single Market and for ensuring the competitiveness of companies.
+
+(3)
+
+The Commission in its Communication A Digital Single Market Strategy for Europe
+
+and in its Communication EU e-Government Action Plan 2016-2020: Ac
+
+celerating the digital transformation of government
+
+stressed the role of public administrations in helping businesses to easily set up business, operate online and expand across borders. The EU e-Government Action Plan specifically recognised the importan
+
+ce of improving the use of digital tools when complying with company law related requirements. Furthermore, in the 2017 Tallinn declaration on eGovernment, Member States made a strong call to step up efforts for the provision of efficient, user-centric ele
+
+ctronic procedures in the Union.
+
+(4)
+
+In June 2017, the interconnection of Member States' central, commercial and companies registers became operational which greatly faciliates cross-border access to company information in the Union and allows registers in
+
+Member States to communicate with each other electronically in relation to certain cross-border operations which affect companies.
+
+(5)
+
+In order to facilitate the registration of companies and their branches and to reduce the costs and administrative burde
+
+ns associated with the registration process, in particular by micro, small and medium-sized enterprises (‘SMEs’) as defined in Commission Recommendation 2003/361/EC
+
+, procedures should be put in place to enable registration to be completed fully online. Su
+
+ch costs and burdens derive not only from administrative fees charged for setting up a company, but also from other requirements which make the overall process longer to complete, in particular when the physical presence of the applicant or their represent
+
+ative is required. In addition, information on these procedures should be made available online and free of charge.
+
+(6)
+
+Regulation (EU) No [COM (2017) 256] which establishes the Single Digital Gateway
+
+foresees general rules for online provision of informa
+
+tion, procedures and assistance services relevant for the functioning of the internal market. This Directive establishes specific rules related to the registration and operation of limited liability companies which are not covered by that Regulation. In pa
+
+rticular, Member States should provide the information about procedures set out in this Directive on the websites accessible by means of the Single Digital Gateway and the information should meet the quality requirements of Article X of the [Single Digital
+
+Gateway Regulation].
+
+(7)
+
+Enabling the fully online registration of companies and branches and the fully online filing of documents and information would allow companies to use digital tools in their contacts with competent authorities of Member States. In
+
+order to enhance trust, Member States should ensure that secure electronic identification and the use of trust services is possible for national as well as cross-border users in accordance with Regulation (EU) No 910/2014 of the European Parliament and of
+
+the Council
+
+. Furthermore, in order to enable cross-border electronic identification, Member States should set up electronic identification schemes which provide for authorised electronic identification means. Such national schemes would be used as a basi
+
+s for the recognition of electronic identification means issued in another Member State. In order to ensure the high level of trust in cross-border situations, only electronic identification means which comply with Article 6 of Regulation (EU) No 910/2014
+
+should be recognised. However, Member States may also recognise other identification means such as a scanned copy of a passport. In any event, this Directive should only oblige Member States to enable online registration of companies and their branches and
+
+online filing by Union citizens through the recognition of their electronic identification means.
+
+(8)
+
+In order to facilitate online procedures for companies, Member States' registers should not charge for online registration or online submission of infor
+
+mation over and above the actual administrative costs of providing the service. Furthermore, Member States should assist those seeking to establish a company or a branch by providing up-to-date, clear, concise and user-friendly information concerning the p
+
+rocedures and requirements to establish and operate limited liability companies and their branches. Concerning private limited liability companies, more detailed information should be made available to applicants and directors because Member States should
+
+also ensure the possibility of fully online registration for such companies.
+
+(9)
+
+As a first step in a company's lifecycle, it should be possible to establish and register companies fully online. However, Member States should have the possibility to derogat
+
+e from this requirement in case of public limited liability companies due to the complexity of establishment and registration of such companies and in order to respect Member States’ existing traditions of company law. In any event, Member States should la
+
+y down detailed rules of registration. It should be possible to carry out online registration with the submission of documents in electronic form.
+
+(10)
+
+In order to ensure the timely registration of a company, Member States should not make the online regist
+
+ration of a company or a branch conditional on obtaining any licence or authorisation before the registration of company or branch may be completed unless where it is indispensable for the proper control of certain activities. After registration, national
+
+law should govern the situations where companies may not carry out certain activities without obtaining a licence or authorisation.
+
+(11)
+
+In order to assist businesses, in particular start-ups, in setting-up their business, it should be possible to register a private limited liability company with the use of templates which are model instruments of constitution
+
+which should be available onli
+
+ne.
+
+Such models may contain a pre-defined set of options in accordance with national law. The applicants should be able to choose between using this model or registering a company with bespoke instruments of constitution and Member States should have the o
+
+ption to provide templates also for other types of companies.
+
+(12)
+
+In order to respect Member States’ existing traditions of company law, it is important to allow flexibility as regards the manner in which they ensure a fully online system of registration
+
+of companies and branches, including in relation to the role of notaries or lawyers in such a process. Matters concerning online registration of companies and branches which are not regulated in this Directive should be governed by national law.
+
+(13)
+
+Furth
+
+ermore, in order to tackle fraud and company hijacking and to provide safeguards for the reliability and trustworthiness of documents and information contained within national registers, provisions concerning the online registration of companies and their
+
+branches should also include controls on the identity and legal capacity of persons seeking to establish a company or branch. However, the means and methods to achieve these controls should be left to Member States to develop and adopt. Those rules could i
+
+nclude, amongst others, verification by means of video-conference or other online means that provide a real-time audio-visual connection. To that effect Member States should be able to require the involvement of notaries or lawyers as a part of the online
+
+registration process, however, such involvement should not prevent the completion of the registration procedure in its entirety online.
+
+(14)
+
+Member States should be allowed to take measures, in accordance with national law, in cases of genuine suspicion of
+
+fraud, which could require, not systematically but on a case-by-case basis, a physical presence of the applicant or their representative before any authority of a Member State where the company or branch is to be registered. Such genuine suspicion of frau
+
+d should be based on reasonable grounds, such as, on the basis of information available from the registers of beneficial owners, from criminal records or from indications of identity fraud or tax evasion.
+
+(15)
+
+In order to ensure the protection of all perso
+
+ns interacting with companies, Member States should be able to prevent fraudulent behaviour by refusing the appointment of a person as a director of a company or a branch in their own territory, who is currently disqualified from acting as a director in an
+
+other Member State. Such requests for information, in relation to previous directorships, should be possible by means of the system of interconnection of registers and therefore Member States should make the necessary arrangements to ensure that the nation
+
+al registers are able to provide such information. The rules for the disqualification of directors and the confidentiality of the transmission should be governed by national law. To ensure compliance with applicable rules on protection of personal data
+
+, na
+
+tional registers should process any
+
+such data relating to disqualification of director in compliance with Regulation (EU) 2016/679 of the European Parliament and of the Council
+
+.
+
+(16)
+
+The obligations related to online registration should be without prejudi
+
+ce to any other, non-company law related, formalities
+
+which a company has to fulfil to start operations in accordance with EU and national law.
+
+(17)
+
+Similarly with regard to the online registration of companies, in order to reduce the costs and burdens on
+
+companies, it should also be possible throughout the companies' lifecycle to submit documents and information fully online to national registers. At the same time, Member States should have the possibility to allow companies to file documents and informati
+
+on by other means, including by paper. In addition, the disclosure of company information should be effected once the information is made publicly available in those registers, since they are now interconnected and provide a comprehensive point of referenc
+
+e for users. In order to avoid disruption to the existing means of disclosure, Member States should have the choice also to publish either all or some of the company information in a national gazette, whilst at the same time ensuring that the information i
+
+s sent electronically by the register to that national gazette.
+
+(18)
+
+In order to facilitate the way in which the information stored by the registers can be searched for and exchanged with other systems, Member States should gradually ensure that all docum
+
+ents and information provided to a competent authority as part of the registration of or the filing by a company or a branch be stored by the registers in a machine-readable and searchable format or as structured data. As this may require changes to the ex
+
+isting information systems of Member States, there should be a longer transposition period for this requirement.
+
+(19)
+
+In order to cut costs and reduce administrative burden for companies, Member States should apply the 'once-only' principle in the area of
+
+company law. Applying the once-only principle entails that companies are not asked to submit the same information to public authorities more than once. For example, companies should not have to submit the same information both to the national register and
+
+to the national gazette. Instead, the register should provide the information already submitted directly to the national gazette. Similarly, where a company is incorporated in one Member State and wants to register a branch in another Member State, it shou
+
+ld be possible for the company to make use of the information or documents previously submitted to a register. Furthermore, where a company is incorporated in one Member State but has a branch in another Member State it should be possible for the company t
+
+o submit certain changes to their company information only to the register where the company is registered, without the need to submit the same information to the register where the branch is registered. Instead, information such as change of company name
+
+or change of registered office of the company should be exchanged electronically between the register where the company is registered and the register where the branch is registered using the system of interconnection of registers.
+
+(20)
+
+In order to ensure
+
+consistent and up-to-date information is available about companies in the Union and to further increase transparency, it should be possible to use the interconnection of registers to exchange information about any type of company registered in the Member S
+
+tates' registers in accordance with national law. Member States should have option to make electronic copies of the documents
+
+and information
+
+of those other types of companies available also through this system.
+
+(21)
+
+In the interest of transparency and to
+
+promote trust in business transactions, including those with a cross-border nature within the Single Market, it is important that investors, stakeholders, business partners and authorities can easily access company information. To improve the accessibility
+
+of that information, more information should be available free of charge in all Member States. Such information should include the website of the company, where
+
+applicable
+
+and, the legal status of the company and its branches in another Member States, whe
+
+re available
+
+in national registers
+
+. It should also include information concerning the persons authorised to represent companies and
+
+the number of employees where this information is available
+
+.
+
+(22)
+
+Member States have the possibility to establish optional a
+
+ccess points in relation to the system of interconnection of registers. However, currently it is not possible for the Commission to connect other stakeholders to the system of interconnection of registers. In order for other stakeholders to benefit from th
+
+e interconnection of registers and ensure that their systems retain accurate, up-to-date and reliable information on companies, the Commission should be authorised to establish additional access points. Such access points should refer to systems developed
+
+and operated by the Commission
+
+or other
+
+Union institutions, bodies, offices or agencies
+
+in order to perform their administrative functions or to comply with provisions of Union law.
+
+(23)
+
+In order to help companies established in the Single Market to more e
+
+asily expand their business activities cross-border, it should be possible for them to open and register branches in another Member State online. Therefore Member States should enable, in a similar manner to companies, the online registration of branches a
+
+nd the online filing of documents and information.
+
+(24)
+
+When registering a branch of a company registered in another Member State, Member States should also be able to verify certain information about the company through the interconnection of registers wh
+
+en a branch is registered in that Member State. Furthermore, where a branch is closed in one Member State, the register of that Member State should inform the Member State where the company is registered of this through the system of interconnection of reg
+
+isters and both registers should record this information.
+
+(25)
+
+To ensure consistency with Union and national law, it is necessary
+
+to delete
+
+the provision relating to the Contact Committee which has ceased to exist, and to update the types of companies set
+
+out in Annexes I and II to Directive (EU) 2017/1132.
+
+(26)
+
+In order to accommodate future changes in the laws of Member States and to Union legislation concerning company types, the power to adopt acts in accordance with Article 290 of the Treaty on the
+
+Functioning of the European Union should be delegated to the Commission to update the list of the types of companies contained in Annexes I, II and IIA of Directive (EU) 2017/1132. It is of particular importance that the Commission carry out appropriate co
+
+nsultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+In particular, to ensure e
+
+qual participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States' experts, and their experts systematically have access to
+
+meetings of Commission expert groups dealing
+
+with the preparation of delegated acts.
+
+(27)
+
+The provisions of this Directive do not affect the legal or administrative provisions, including the obligations for registration of companies, of national laws relating to tax measures of Member States, or the
+
+ir territorial and administrative subdivisions.
+
+(28)
+
+This Directive does not affect the provisions of Directive (EU) 2015/849 of the European Parliament and of the Council
+
+addressing risks of money laundering and terrorist financing, in particular the obl
+
+igations related to carrying out the appropriate customer due diligence measures on a risk-sensitive basis and to identifying and registering the beneficial owner of any newly created entity in the Member State of its incorporation..
+
+(29)
+
+This Directive sh
+
+ould be applied in compliance with Union data protection law and the protection of privacy and personal data as enshrined in Articles 7 and 8 of the Charter of Fundamental Rights
+
+of the European Union. Any processing of the personal data of natural persons
+
+under this Directive is to be undertaken in accordance with Regulation (EU) 2016/679.
+
+(30)
+
+The European Data Protection Supervisor was consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 of the European Parliament and of the Council
+
+and delivered an opinion on … 2018.
+
+(31)
+
+Since the objective of this Directive, namely, to provide more digital solutions for companies in the Single Market, cannot be sufficiently achieved by the Member States, but can rather, by reason of their scale and
+
+effects, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Art
+
+icle, this Directive does not go beyond what is necessary to achieve those objectives.
+
+(32)
+
+In accordance with the Joint Political Declaration of 28 September 2011 of Member States and the Commission on explanatory documents
+
+, Member States have undertaken
+
+to accompany, in justified cases, the notification of their transposition measures with one or more documents explaining the relationship between the components of a directive and the corresponding parts of national transposition instruments. With regard
+
+to this Directive, the legislator considers the transmission of such documents to be justified.
+
+(33)
+
+The Commission should carry out an evaluation of this Directive. Pursuant to paragraph 22 of the Interinstitutional Agreement between the European Parliame
+
+nt, the Council of the European Union and the European Commission on Better Law-Making of 13 April 2016
+
+, that evaluation should be based on the five criteria of efficiency, effectiveness, relevance, coherence and EU value added and should provide the basi
+
+s for impact assessments of possible further measures.
+
+(34)
+
+Information should be collected in order to assess the performance of the legislation against the objectives its pursues and in order to inform an evaluation of the legislation in accordance with
+
+paragraph 22 of the Interinstitutional Agreement between the European Parliament, the Council of the European Union and the European Commission on Better Law-Making of 13 April 2016.
+
+(35)
+
+Directive (EU) 2017/1132 should therefore be amended accordingly,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Amendments to Directive (EU) 2017/1132
+
+Directive (EU) 2017/1132 is amended as follows:
+
+(1)
+
+in Article 1, the following indent is inserted after the second indent:
+
+"-
+
+the rules on online registration and filing by
+
+companies and their branches,";
+
+(2)
+
+in Title I, the title of Chapter III is replaced by the following:
+
+"Online registration and filing, disclosure and registers";
+
+(3)
+
+Article 13 is replaced by the following:
+
+"Article 13
+
+Scope
+
+The coordination measures prescribed by this Section shall apply to the laws, regulations and administrative provisions of the Member States relating to the types of companies listed in Annex II, and where specified, to the types of companies listed in Annexes I and IIA.";
+
+(4)
+
+The following Artic
+
+les 13a to 13e are inserted:
+
+"Article 13a
+
+Definitions
+
+For the purposes of this Chapter:
+
+(1)
+
+"electronic identification means" means an identification means as defined in point (2) of Article 3 of Regulation (EU) No 910/2014
+
+of the European Parliament and of th
+
+e Council
+
+(*);
+
+(2)
+
+"electronic identification scheme" means an identification scheme as defined in point (4) of Article 3 of Regulation (EU) No 910/2014;
+
+(3)
+
+"registration" means the
+
+formation of a company as a legal entity;
+
+(4)
+
+"template" means a model for the instrum
+
+ent of constitution of a company which is drawn up by Member States in compliance with national law and is used for the online registration of a company;
+
+(5)
+
+"European unique identifier of companies and branches ('EUID')" means the unique identifier for the pu
+
+rpose of communication between registers as referred to in point (8) of the Annex to Commission Implementing Regulation (EU) No 2015/884(**).
+
+Article 13b
+
+Recognition of identification means for the purposes of online procedures
+
+1.
+
+Member States shall ensur
+
+e that the following electronic identification means to identify Union citizens may be used for the purpose of online registration and online filing:
+
+(a)
+
+an electronic identification means issued under an electronic identification scheme approved by their own
+
+Member State;
+
+(b)
+
+an electronic identification means issued in another Member State and recognised for the purpose of cross-border authentication in accordance with Article 6 of Regulation (EU) No 910/2014.
+
+2.
+
+Member States may also recognise other identificat
+
+ion means than those referred to in paragraph 1.
+
+3.
+
+Where a Member State recognises identification means referred to in paragraph 2 for the purpose of completing online registration and online filing, that Member State shall also recognise the same type of
+
+identification means issued by another Member State.
+
+4.
+
+Without prejudice to paragraphs 1 to 3, Member States may take measures which could require a physical presence for the purposes of verifying the identity of persons before any authority competent to
+
+deal with online registration or online filing, in cases of genuine suspicion of fraud based on reasonable grounds.
+
+Article 13c
+
+Fees for online registration and online filing
+
+1.
+
+Member States shall ensure that the rules on fees applicable to the procedure
+
+s referred to in this Chapter are transparent and are applied in a non-discriminatory manner.
+
+2.
+
+Any fees charged by the registers, referred to in Article 16, for the online registration of, or the online filing by, a company or a branch shall not exceed
+
+the administrative costs of providing the service.
+
+Article 13d
+
+Payments
+
+Where the completion of a procedure laid down in this Chapter requires a payment, Member States shall ensure that the payment can be made by means of a payment service widely available in cross-border payment services.
+
+Article 13e
+
+Information requirements
+
+1.
+
+Member States shall ensure that the following information is made available online:
+
+(a)
+
+requirements concerning the registration and operation of companies and their branches, includin
+
+g online registration and online filing under national law;
+
+(b)
+
+requirements relating to the use of templates, including information on national laws which govern the use and contents of such templates;
+
+(c)
+
+requirements relating to the authentication of
+
+documents
+
+and information to be submitted as part of the online registration procedure;
+
+(d)
+
+rules relating to the means of identification required as part of the online registration and filing.
+
+2.
+
+Member States shall ensure that the following minimum information shall
+
+be made available concerning the types of companies listed in Annex IIA:
+
+(a)
+
+any formalities relating to online registration of and online filing by a company or branch, including procedures and time limits, together with details of all documents and informat
+
+ion required and any applicable fees;
+
+(b)
+
+any requirements concering the submission of documents drawn up in other languages, including the translation or certification of such documents;
+
+(c)
+
+the means of identification, as referred to in Article 13b, required by
+
+the Member State;
+
+(d)
+
+the powers and responsibilities of the administrative body, the managerial body and the supervisory organ of the company or branch including the representation of a company or a branch towards third parties;
+
+(e)
+
+the requirements for becoming
+
+a member of the administrative body, the managerial body and the supervisory organ of the company or branch;
+
+(f)
+
+details concerning the decision-making process of the administrative body, the managerial body and the supervisory organ
+
+of the company or branch;
+
+(g)
+
+details relating to the rights and obligations of the shareholders;
+
+(h)
+
+details concerning the payment of dividends and other forms of distributions;
+
+(i)
+
+information relating to legal reserves, where applicable;
+
+(j)
+
+conditions affecting the validity of pre-incorporat
+
+ion contracts;
+
+(k)
+
+any requirements relating to the operation and activities of a branch by a company, as well as any requirements relating to the opening and closure of a branch;
+
+(l)
+
+any requirements relating to a change in the documents and information referred
+
+to in Articles 14 and 30.
+
+3.
+
+Member States shall provide the information referred to in paragraphs 1 and 2 on the
+
+websites available
+
+through the Single
+
+Digital Gateway established by Regulation (EU) No
+
+[COM (2017) 256] (***)
+
+. The information shall meet the
+
+quality requirements of Article X of that Regulation.
+
+Such information shall be made available at least in an official Union language broadly understood by the largest possible number of cross-border users and shall be free of charge.
+
+(*)
+
+Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73).
+
+(**) Commission Implementing Regulation (EU) 2015/884 of 8 June 2015 establishing technical specifications and procedures required for the system of interconnection of registers established by Directive 2009/101/EC of the European Parliament and of the Council (OJ L 144, 10.6.2015, p. 1).
+
+(***)
+
+Regulation […] of the European Parliament and of the Council establishing a single digital gateway to provide information, procedures, assistance and problem solving services and amending Regulation EU No 1024/2012 (OJ L […], […], p. […])."
+
+(5)
+
+in Chapter III of Title I, the following Section 1a is inserted:
+
+"Section 1a
+
+Online registration, online filing and disclosure
+
+Article 13f
+
+Online registration of companies
+
+1.
+
+Member States shall ensure that the registration of companies may be
+
+carried out fully online without the necessity for the applicants, or their representatives, to appear in person before any competent authority or before any other person or body dealing with the application for registration, subject to the proviso laid do
+
+wn in Article 13b(4). However, Member States may decide not to provide fully online registration procedures for those types of companies listed in Annex I.
+
+2.
+
+Member States shall lay down detailed rules for the online registration of companies, including r
+
+ules on the use of templates, as referred to in Article 13g and the documents and information required for registering a company. As part of these rules Member States shall ensure that the online registration may be carried out by submitting information or
+
+documents in the electronic form, including electronic copies of the documents and information referred to in Article 16a(4).
+
+3.
+
+The rules, referred to in paragraph 2, shall at least provide for the following:
+
+(a)
+
+the procedures to ensure the legal capacity
+
+of the applicant and their authority to represent the company;
+
+(b)
+
+the means to verify the identity of the person or persons registering the company or their representatives;
+
+(c)
+
+the requirements for the applicant to use trust services referred to in Regulation
+
+(E
+
+U) No 910/2014.
+
+4.
+
+The rules, referred to in paragraph 2, may also provide for the following:
+
+(a)
+
+the procedures to ensure the legality of the object of the company;
+
+(b)
+
+the procedures to ensure the legality of the name of the company;
+
+(c)
+
+the procedures to ensure the
+
+legality of the instruments of constitution, including verifying the correct use of templates;
+
+(d)
+
+the procedures to verify the appointment of directors taking into account the disqualification of directors by competent authorities of other Member States;
+
+(e)
+
+the
+
+procedures to provide for the role of a notary or any other person or body mandated by the Member State to submit an application for registration ;
+
+(f)
+
+the circumstances in which online registration may be excluded where the share capital of a company is to
+
+be paid by way of contributions in kind.
+
+5.
+
+Member States shall not make the online registration of a company conditional on obtaining any licence or authorisation before the company is registered, unless where it is indispensable for the proper control of
+
+certain activities laid down in national law.
+
+6.
+
+Member States shall ensure that where the payment of share capital is required as part of the procedure to register a company, that this payment may be made online, in accordance with Article 13d, to a bank
+
+account of the bank operating in the Union. In addition, Member States shall ensure that proof of such payments may also be provided online.
+
+7.
+
+Member States shall ensure that the online registration is completed within a period of five working days from
+
+the later of the following:
+
+(a)
+
+the receipt of all required documents and information by a competent authority or, where applicable, by a person or a body mandated under national law to submit the application for the registration of a company;
+
+(b)
+
+the payment of
+
+a registration fee, the payment in cash for share capital or, where a payment for the share capital is to be provided by way of a contribution in kind, as provided for under national law.
+
+Member States shall ensure that the applicant is immediately notified of the reasons for any delay, where, in duly justified exceptional circumstances, it would not be possible to comply with this time limit.
+
+Article 13g
+
+Templates for registration of companies
+
+1.
+
+Member States shall make templates available
+
+on
+
+regis
+
+tration portals or websites that are part of the Single Digital Gateway
+
+for the types of companies listed in Annex IIA. Member States may also make templates available online for the registration of those types of companies listed in Annex II other than th
+
+ose listed in Annex IIA.
+
+2.
+
+Member States shall ensure that the templates, referred to in paragraph 1 of this Article, may be used by applicants as part of the online registration procedure, referred to in Article 13f. Where those templates are used by the
+
+applicant in compliance with the rules referred to in point (c) of Article 13f(4), where applicable, the requirement to have the company instruments of constitution drawn up and certified in due legal form as laid down in Article 10 shall be deemed to be
+
+fulfilled.
+
+3.
+
+Member States shall at least make the templates available in an official Union language broadly understood by the largest possible number of cross-border users.
+
+4.
+
+The content of the templates shall be governed by national law.
+
+Article 13h
+
+Disqualified directors
+
+1.
+
+Where Member States lay down rules relating to the disqualification of directors, referred to in point (d) of Article 13f(4), the register where the company is to be registered may, through the system of interconnection of registe
+
+rs referred to in Article 22, request confirmation from the registers of other Member States as to whether or not the person who is to be appointed as director of the company is currently disqualified from acting as director in those other Member States. F
+
+or the purpose of this Article, directors shall include all of the persons referred to in Article 14(d).
+
+2.
+
+Member States shall make the necessary arrangements to ensure that their registers are able to provide, by means of the system referred to in Artic
+
+le 22, the information referred to in paragraph 1 of this Article and in respect of what period any disqualification is in force. This information shall be provided for the purpose of registration and Member States may also provide the grounds of disqualif
+
+ication.
+
+3.
+
+Member States may refuse the appointment of a person as a director of a company where this person is currently disqualified from acting as a director in another Member State.
+
+4.
+
+Paragraphs 1, 2 and 3 shall apply
+
+mutatis
+
+mutandis
+
+where a compan
+
+y files information about the appointment of a new director in the register referred to in Article 16.
+
+Article 13i
+
+Online filing by companies
+
+1.
+
+Member States shall ensure that companies are able to file online the documents and information, as referred
+
+to in Article 14, including any modification thereof, with the register within the time limit provided by the laws of the Member State where the company is to be registered.
+
+Member States shall ensure that such filing may be completed online in its entiret
+
+y without the necessity for the applicant, or his representative to appear in person before any competent authority or before any other person or body dealing with the online filing, subject to the proviso laid down in Article 13b(4).
+
+Member States shall ensure that the origin and integrity of the documents filed online may be verified electronically.
+
+2.
+
+Member States may require that certain companies or that all companies file certain or all of the documents and information referred to in paragraph 1
+
+online.”;
+
+(6)
+
+Article 16 is replaced by the following:
+
+"
+
+Article 16
+
+Disclosure in the register
+
+1.
+
+In each Member State, a file shall be opened in a central, commercial or companies register (‘the register’), for each of the companies registered therein.
+
+Member States shall ensure that companies have a unique identifier allowing them to be unequivocally identified in communications between registers through the system of interconnection of registers established in accordance with Article 22 (‘the system of interconnection of registers’). That unique identifier shall comprise, at least, elements making it possible to identify the Member State of the register, the domestic register of origin and the company number in that register and, where appropriate, features to avoid identification errors.
+
+2.
+
+All documents and information which are required to be disclosed pursuant to Article 14 shall be kept in the file referred to in paragaph 1, or entered directly in the register and the subject matter of the entries in the r
+
+egister shall be recorded in the file.
+
+All documents and information referred to in Article 14, irrespective of the means through which they are filed, shall be kept in the file in the register or entered directly into it in electronic form. Member States shall ensure that all such documents and information which are filed by paper means are converted by the register to electronic form.
+
+Member States shall ensure that documents and information referred to in Article 14 that have been filed by paper means before 31 December 2006, are converted into electronic form by the register upon receipt of an application for disclosure by electronic means.
+
+3.
+
+Member States shall ensure that the disclosure of the documents and information, referred to in Article 14, shal
+
+l be effected by making them publicly available in the register. In addition, Member States may also require that some or all of documents and information are published in a national gazette designated for that purpose. In such cases, the register shall en
+
+sure that those documents and information are sent electronically by the register to the national gazette.
+
+4.
+
+The documents and information may be relied on by the company as against third parties only after they have been disclosed in accordance with para
+
+graph 3, unless the company proves that the third parties had knowledge thereof.
+
+However, with regard to transactions taking place before the sixteenth day following the disclosure, the documents and information shall not be relied on as against third parties who prove that it was impossible for them to have had knowledge thereof.
+
+5.
+
+Member States shall ensure that all documents and information provided to a competent authority as part of the online registration of or online filing by a company or a branch
+
+shall be stored by the registers in a machine-readable and searchable format or as structured data
+
+.
+
+(7)
+
+the following Article 16a is inserted:
+
+"Article 16a
+
+Access to disclosed information
+
+1.
+
+Member States shall ensure that copies of all or any part of the doc
+
+uments and information, referred to in Article 14, may be obtained from the register on application and that those applications may be submitted to the register by either paper or electronic means.
+
+However, Member States may decide that certain types or parts of the documents and information, which were filed by paper means on or before 31 December 2006, shall not be obtainable by electronic means where a specified period has elapsed between the date of filing and the date of the application. Such a specified period shall not be less than 10 years.
+
+2.
+
+The price of obtaining a copy of all or any part of the documents and information referred to in Article 14, whether by paper or electronic means, shall not exceed the administrative cost thereof.
+
+3.
+
+Electronic copies supplied to an applicant shall be certified as ‘true copies’ unless the applicant dispenses with such certification.
+
+4.
+
+Member States shall ensure that electronic extracts of the documents and information provided by the register have be
+
+en authenticated by means of trust services referred to in Regulation (EU) No 910/2014, in order to guarantee that the electronic extracts have been provided by the register and that their content is a true copy of the document held by the register or that
+
+it is consistent with the information contained therein.";
+
+(8)
+
+Article 18 is amended as follows:
+
+(a)
+
+paragraph 1 is replaced by the following:
+
+"1. Electronic copies of the documents and information referred to in Article 14 shall also be made publicly available through the system of interconnection of registers. Member States may also make available documents and information referred to in Article 14 for types of companies other than those listed in Annex II.";
+
+(b)
+
+in paragraph 3, point (a) is replaced by the followin
+
+g:
+
+"(a) the documents and information referred to in Article 14, including for types of companies other than those listed in Annex II where such documents are made available by Member States;";
+
+(9)
+
+Article 19 is replaced by the following:
+
+"Article 19
+
+Fees chargeable for documents and information
+
+1.
+
+The fees charged for obtaining documents and information referred to in Article 14 through the system of interconnection of registers shall not exceed the administrative costs thereof.
+
+2.
+
+Member States shal
+
+l ensure that the following information is available free of charge through the system of interconnection of registers:
+
+(a)
+
+the name or names and legal form of the company;
+
+(b)
+
+the registered office of the company and the Member State where it is registered;
+
+(c)
+
+the
+
+registration number of the company and its EUID;
+
+(d)
+
+details of the company web-site, where applicable;
+
+(e)
+
+the legal status of the company, such as when it is closed, struck off the register, wound up, dissolved, economically active or inactive as defined in nati
+
+onal law and where available in the national registers;
+
+(f)
+
+the object of the company, where it is recorded in the national register;
+
+(g)
+
+the number of employees of the company, where this is available in the company's financial statements as required by national
+
+law;
+
+(h)
+
+the name of any persons currently authorised by the company to represent it in dealing with third parties and in legal proceedings or to take part in the administration, supervision or control of the company, as referred to in Article 14(d);
+
+(i)
+
+informa
+
+tion on any branches opened by the company in another Member State including the name, registration number, EUID and the Member State where the branch is registered.
+
+Member States may make further information and documents available free of charge.";
+
+(10)
+
+Artic
+
+le 22 is amended as follows:
+
+(a)
+
+the following subparagraph is added to paragraph 4:
+
+"The Commission may also establish optional access points to the system of interconnection of registers. Such access points will consist of systems developed and operated by the Commission or other Union institutions, bodies, offices or agencies in order to perform their administrative functions or to comply with provisions of Union law. The Commission shall notify the Member States without undue delay of the establishment of such access points and of any significant changes to their operation.";
+
+(b)
+
+paragraph 5 is replaced by the following:
+
+"5.
+
+Access to information from the system of interconnection of registers shall be ensured through the portal and through the optional access p
+
+oints established by the Member States and by the Commission.";
+
+(11)
+
+Article 24 is amended as follows:
+
+(a)
+
+point (d) is replaced by the following:
+
+"(d) the technical specification defining the methods of exchange of information between the register of the company and the register of the branch as referred to in Article 20, paragraphs (4) and (6) of Article 28a, Article 28c, Article 30a and Article 34;",
+
+(b)
+
+point (n) is replaced by the following:
+
+"(n) the procedure and technical requirements for the connection of the optional access points to the platform as referred to in Article 22;",
+
+(c)
+
+the following point (o) is added:
+
+"(o) the technical specification for the methods of the exchange between registers of the information referred to in Article 13h.";
+
+(12)
+
+in Chapter III of T
+
+itle I, the title of Section 2 is replaced by the following:
+
+"Registration and disclosure rules applicable to branches of companies from other Member States";
+
+(13)
+
+in Section 2 of Chapter III of Title I, the following Articles 28a, 28b and 28c are inserted:
+
+"A
+
+rticle 28a
+
+Online registration of branches
+
+1.
+
+Member States shall ensure that the registration in a Member State of a branch of a company, which is governed by the law of another Member State, may be carried out fully online without the necessity for the a
+
+pplicant, or its representative, to appear in person before any competent authority or before any other person dealing with the application for registration, subject to the proviso laid down in Article 13b(4).
+
+2.
+
+Member States shall lay down detailed rules for the online registration of branches, including rules on the documents and information required to be submitted to a competent authority.
+
+As part of those rules Member States shall ensure that online registrat
+
+ion may be carried out
+
+by submitting information or documents in electronic form, including electronic copies of the documents and information referred to in Article 16a(4), or by making use of the information or documents previously submitted to a registe
+
+r.
+
+3.
+
+The rules, referred to in paragraph 2, shall at least provide for the following:
+
+(a)
+
+the procedure to ensure the legal capacity of the applicant and their authority to represent the company;
+
+(b)
+
+the means to verify the identity of the person or persons regi
+
+stering the branch or their representatives.
+
+4.
+
+Member States may verify the information about the company by means of the system of interconnection of registers when registering a branch of a company established in another Member State.
+
+Member States shall not make the online registration of a branch conditional on obtaining any licence or authorisation before the branch is registered, unless where it is indispensable to the proper control of certain activities laid down in national law.
+
+5.
+
+Member States
+
+shall complete the online registration of a branch within the period of five working days from the receipt of all the necessary documents and information required by a competent authority
+
+or, where applicable,
+
+by a person or a body mandated under national
+
+law to submit an application for the registration
+
+.
+
+6.
+
+Following the registration of a branch of a company established under the laws of another Member State, the register of the Member State in which that branch is registered shall notify the Member State
+
+where the company is registered that the branch has been registered by means of the system of interconnection of registers. The Member State, where the company is registered, shall acknowledge receipt of such notification and shall record the information i
+
+n their register without delay.
+
+Article 28b
+
+Online filing for branches
+
+Member States shall ensure that documents and information, referred to in Article 30 or any modification thereof, may be filed online within the period provided by the laws of the Member State where the branch is established. Member States shall ensure that such filing may be completed online in its entirety without the necessity for the applicant or its representative to appear in person before any competent authority or before any other person dealing with the online filing, subject to the proviso laid down in Article 13b(4).
+
+Article 28c
+
+Closure of branches
+
+Member States shall ensure that upon receipt of the documents and information referred to in point (h) of Article 30(1), the register of a Member State in which a branch of a company is registered shall, by means of the system of interconnection of registers, inform the register of a Member State where the company is registered that its branch has been closed. The register of the Member State of the company shall acknowledge receipt of such notification, also by means of that system and both registers shall record this information in their respective register without delay.";
+
+(14)
+
+the following Article 30a is inserted:
+
+"Article 30a
+
+Change
+
+s to documents and information of the company
+
+1.
+
+The
+
+Member State where a company is registered shall notify, by means of the system of interconnection of registers, without delay, the Member State where a branch of the company is registered, where a chang
+
+e has been filed with respect of any of the following:
+
+(a)
+
+the company’s name;
+
+(b)
+
+the company's registered office;
+
+(c)
+
+the company's registration number in the register;
+
+(d)
+
+the company's legal form;
+
+(e)
+
+the documents and information referred to in points (d) and (f) of
+
+Article 14.
+
+Upon receipt of the notification referred to in paragraph 1 of this Article, the register where the branch is registered shall, by means of the system of interconnection of registers, acknowledge receipt of such notification and shall ensure that the documents and information referred to in Article 30(1) are updated without delay.";
+
+(15)
+
+the following subparagraph is added to Article 31:
+
+"Member States may provide that the mandatory disclosure of accounting documents referred to in point (g) of Article 30(1) may be considered fulfilled by the disclosure in the register of the Member State in which the company is registered in accordance with point (f) of Article 14.";
+
+(16)
+
+Article 43 is deleted.
+
+(17)
+
+Article 161 is replaced by the following:
+
+"Article 161
+
+Data
+
+protection
+
+The processing of any personal data carried out in the context of this Directive shall be subject to Regulation (EU) 2016/679.";
+
+(18)
+
+the following Article 162a is inserted:
+
+"Article 162a
+
+Amendments to the Annexes
+
+Member States shall inform the Commission without delay of any changes to the types of limited liability companies provided for in their national law which would affect the contents of Annexes I, II and IIA.
+
+In such a case the Commission shall be empowered to adapt the list of the types of the companies contained in Annexes I, II and IIA according to the information referred to in paragraph 1 of this Article, by means of delegated acts in accordance with Article 163.”;
+
+(19)
+
+Article 163 is replaced by the following:
+
+"Article 163
+
+Exercise of the d
+
+elegation
+
+1.
+
+The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2.
+
+The power to adopt delegated acts referred to in Article 25(3) and Article 162a shall be conferred on the Commission for a
+
+n indeterminate period of time from [
+
+date of entry into force of this directive
+
+].
+
+3.
+
+The delegation of power referred to in Article 25(3) and Article 162a may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall p
+
+ut an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the
+
+Official Journal of the European Union
+
+or at a later date specified therein. It shall not affect the validity
+
+of any delegated acts already in force.
+
+4.
+
+Before
+
+adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law
+
+-Making.
+
+5.
+
+As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+A delegated act adopted pursuant to Article 25(3) and Article 162a shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.";
+
+(20)
+
+in Annex I, the twenty-seventh indent is replaced by the following:
+
+"
+
+—
+
+Sweden:
+
+publikt aktiebolag;";
+
+(21)
+
+in Annex II, the twenty-seventh indent is replaced by the following:
+
+"
+
+—
+
+Sweden:
+
+privat aktiebolag
+
+publikt aktiebolag;";
+
+(22)
+
+Annex IIA is inserted.
+
+Article
+
+2
+
+Transposition
+
+1.
+
+Member States shall bring into force the laws, regulations and
+
+administrative provisions necessary to comply with this Directive by ….[
+
+OP please set the date = the last day of the month of 24 months after the date of entry into force
+
+] at the latest. They shall forthwith communicate to the Commission the text of those
+
+provisions.
+
+Notwithstanding the first subparagraph, Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 16(5) and with point (g) of Article 19(2) by ….[
+
+OP please set the date = the last day of the month of 60 months after the date of entry into force
+
+] at the latest.
+
+2.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publicat
+
+ion. Member States shall determine how such reference is to be made.
+
+3.
+
+Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article
+
+3
+
+Reporting and revi
+
+ew
+
+1.
+
+The Commission shall, no later than five years after [
+
+OP please insert the date of
+
+the
+
+end of the transposition period
+
+of this Directive
+
+], carry out an evaluation of this Directive and present a Report on the findings to the European Parliament, the
+
+Council and the European Economic and Social Committee. Member States shall provide the Commission with the information necessary for the preparation of the report, namely by providing data on the number of online registrations and related costs.
+
+2.
+
+The
+
+report of the Commission shall evaluate, amongst others, the following:
+
+(a)
+
+the need and feasibility of providing for fully online registration of the types of companies listed in Annex I;
+
+(b)
+
+the need and feasibility of providing templates by Member States for al
+
+l types of limited liability companies and the need and feasibility of providing a harmonised template across the Union to be used by all Member States for the types of companies listed in Annex IIA;
+
+(c)
+
+the methods of online filing
+
+and online access, includin
+
+g the use of application programming interfaces;
+
+(d)
+
+the need and feasibility of making more information available free of charge than laid down in Article 19 (2) and ensuring unencumbered access to such access;
+
+(e)
+
+the need and feasibility of further application
+
+of the once-only principle.
+
+3.
+
+The report shall be accompanied, if appropriate, by proposals for amendment of Directive (EU) 2017/1132.
+
+Article
+
+4
+
+Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the
+
+Official Journal of the European Union
+
+.
+
+Article 5
+
+Addressees
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+EUROPEAN COMMISSION
+
+Brussels, 25.4.2018
+
+COM(2018) 239 final
+
+ANNEX
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Directive (EU) 2017/1132 as regards the use of digital tools and processes in company law
+
+{SWD(2018) 141 final}
+
+{SWD(2018) 142 final}
+
+ANNEX IIA
+
+TYPES OF COMPANIES REFERRED TO IN ARTICLES 13, 13e, 13g, and 162a
+
+—
+
+Belgium:
+
+société privée à responsabilité limitée/besloten vennootschap met beperkte aansprakelijkheid,
+
+société privée à responsabilité limitée unipersonnelle/Eenpersoons besloten vennootschap met beperkte aansprakelijkheid;
+
+—
+
+Bulgaria:
+
+дружество с ограничена отговорност
+
+еднолично дружество с ограничена отговорност
+
+—
+
+Czech Republic:
+
+společnost s ručením omezeným;
+
+—
+
+Denmark:
+
+Anpartsselskab;
+
+—
+
+Germany:
+
+Gesellschaft mit beschränkter Haftung;
+
+—
+
+Estonia:
+
+osaühing;
+
+—
+
+Ireland:
+
+private company limited by shares or by guarantee/cuideachta phríobháideach faoi theorainn scaireanna nó ráthaíochta,
+
+designated activity company/
+
+cuideachta ghníomhaíochta ainmnithe;
+
+—
+
+Greece
+
+:
+
+εταιρεία περιορισμένης ευθύνης,
+
+ιδιωτική κεφαλαιουχική εταιρεία
+
+;
+
+—
+
+Spain:
+
+sociedad de responsabilidad limitada;
+
+—
+
+France:
+
+société à responsabilité limitée,
+
+entreprise unipersonnelle à responsabilité limitée,
+
+société par actions simplifiée,
+
+société par actions simplifiée unipersonnelle;
+
+—
+
+Croatia:
+
+društvo s ograničenom odgovornošću,
+
+jednostavno društvo s ograničenom odgovornošću;
+
+—
+
+Italy:
+
+società a responsabilità limitata,
+
+società a responsabilità limitata semplificata;
+
+—
+
+Cyprus
+
+:
+
+ιδιωτική εταιρεία περιορισμένης ευθύνης με μετοχές ή/και με εγγύηση;
+
+—
+
+Latvia
+
+:
+
+sabiedrība ar ierobežotu atbildību;
+
+—
+
+Lithuania
+
+:
+
+uždaroji akcinė bendrovė;
+
+—
+
+Luxembourg
+
+:
+
+société à responsabilité limitée;
+
+—
+
+Hungary:
+
+korlátolt felelősségű társaság;
+
+—
+
+Malta:
+
+private limited liability company/kumpannija privata;
+
+—
+
+Netherlands:
+
+besloten vennootschap met beperkte aansprakelijkheid;
+
+—
+
+Austria:
+
+Gesellschaft mit beschränkter Haftung;
+
+—
+
+Poland:
+
+spółka z ograniczoną odpowiedzialnością;
+
+—
+
+Portugal:
+
+sociedade por quotas;
+
+—
+
+Romania:
+
+societate cu răspundere limitată;
+
+—
+
+Slovenia:
+
+družba z omejeno odgovornostjo;
+
+—
+
+Slovakia:
+
+spoločnosť s ručením obmedzeným;
+
+—
+
+Finland:
+
+yksityinen osakeyhtiö/privat aktiebolag;
+
+—
+
+Sweden:
+
+privat aktiebolag;
+
+—
+
+United Kingdom:
+
+Private Limited by shares or guarantee

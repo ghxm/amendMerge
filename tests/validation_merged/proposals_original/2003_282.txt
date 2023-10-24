@@ -1,0 +1,1203 @@
+EUR-Lex - 52003PC0723 - EN
+
+Avis juridique important
+
+|
+
+52003PC0723
+
+Proposal for a Directive of the European Parliament and of the Council on batteries and accumulators and spent batteries and accumulators [SEC(2003)1343]  /* COM/2003/0723 final - COD 2003/0282 */
+
+Proposal for a  DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON BATTERIES AND ACCUMULATORS AND SPENT BATTERIES AND ACCUMULATORS  [SEC(2003)1343]
+
+(presented by the Commission)
+
+TABLE OF CONTENTS
+
+1. Introduction
+
+1.1. The market for batteries and accumulators
+
+1.2. Community legislation on batteries and accumulators
+
+2. Policy considerations and objectives
+
+3. Environmental considerations
+
+3.1. Materials used in batteries and accumulators
+
+3.2. Final disposal of spent batteries and accumulators
+
+3.3 Re-introduction of the metals used in batteries in the economic cycle
+
+4. Internal market considerations
+
+5. Policy measures introduced in the Proposal
+
+5.1. Collection of all spent batteries and accumulators
+
+5.2. Recycling of all spent batteries and accumulators
+
+6. Economic considerations
+
+6.1. Collection and recycling costs
+
+6.2. Collection and recycling benefits
+
+7. Subsidiarity and proportionality
+
+8. Trade aspects
+
+9. Legal basis
+
+ANNEXES
+
+ANNEX I: Summary of the content of the Proposal
+
+ANNEX II: Summary of the Extended Impact Assessment
+
+Chapter I Subject-matter, scope and definitions
+
+Chapter II Product requirements
+
+Chapter III Placing on the Market
+
+Chapter IV Collection
+
+Chapter V Treatment and Recycling
+
+Chapter VI Common provisions on collection, treatment and recycling
+
+Chapter VII Consumer information
+
+Chapter VIII Marking requirements
+
+Chapter IX Final provisions
+
+ANNEX I
+
+ANNEX II
+
+Explanatory Memorandum
+
+1. Introduction
+
+1.1. The market for batteries and accumulators
+
+Batteries and accumulators are an essential energy source in our society. They are used in a wide variety of products and appliances for a large number of consumers and professionals. The world battery market has grown in value by approximately 9% every year since 1989, driven by the growth linked to the development of new consumer electronic appliances. In value terms, the current growth trend seems to have slowed down and the world-wide demand for batteries and accumulators is projected to grow by 5% a year over the next few years. [1]
+
+[1]  The Freedonia Group, "World Batteries" report, published in October 2002. EPBA estimates the growth of the battery market in tonnes at 1% per year.
+
+Batteries can be distinguished according to users, technologies and certain properties like rechargeability or size. [2] Generally, the battery and accumulator market is divided into two main groups: (i) the 'portable' sector, where batteries usually weigh less than 1 kg and (ii) the 'industrial and automotive' sector, were batteries usually weight more than 1 kg.
+
+[2]  "Impact Assessment on Selected Policy Options for Revision of the Battery Directive", Bio Intelligence, July 2003.
+
+There are three main different types of portable batteries and accumulators:
+
+- general purpose batteries and accumulators which are non-rechargeable (mainly zinc-carbon and alkaline manganese batteries [3]);
+
+[3]  General- purpose batteries are typically used in clocks, portable audio and devices, torches, toys and cameras.
+
+- button cells (mainly zinc air, silver oxide, manganese oxide and lithium batteries) [4], which are non rechargeable;
+
+[4]  Button cells are small round batteries or accumulators, with diameter greater than height, used for special devices such as hearing aids, watches and small portable equipment.
+
+- rechargeable batteries and accumulators (mainly nickel-cadmium, nickel-metal hydride, lithium ion and sealed lead-acid batteries) [5].
+
+[5]  Portable rechargeable batteries are typically used in cordless and cellular phones, power tools, emergency lighting, laptops and household appliances.
+
+In 2002, 158.270 tonnes of portable batteries and accumulators were sold in the EU-15. Non-rechargeable portable batteries represent the largest proportion of the portable battery market, approximately 72% in 2002. Rechargeable batteries accounted for 28% of the portable battery market in 2002. [6]
+
+[6]  See also EPBA's web site: http://www.epba-europe.org/ .
+
+Automotive batteries and accumulators are mainly lead-acid batteries used for automotive starter, lighting and ignition power for vehicles. The automotive battery market can be subdivided into the original equipment market, - batteries sold with new cars - and the after market, batteries sold independently of equipment at filling stations or garages. In 2001, approximately 58 million unites were sold in the EU-15. Assuming an average weight of 15 kg per unit, this would amount to 870.000 tonnes in 2001. The entire automotive battery market is expected to increase 1.4% annually until 2006. [7]
+
+[7]  See also EUROBAT's web site: http://www.eurobat.org/ .
+
+Industrial batteries and accumulators are used for industrial purposes, e.g. as standby or traction power in telecommunications and rail applications. In 2002, 189.490 tonnes of industrial batteries and accumulators were sold in the EU-15. Most of the total industrial battery segment are lead acid batteries and accumulators (96%) and a small percentage of industrial nickel-cadmium (NiCd) batteries (2%), that are used for either aircraft or railway/transit system applications. [8] Industrial NiCd batteries and accumulators can also power electrical vehicles (EVs).
+
+[8]  The remaining 2% comprises NiMH and other battery types.
+
+1.2. Community legislation on batteries and accumulators
+
+Current Community legislation on batteries and accumulators is Council Directive 91/157/EEC on batteries and accumulators containing certain dangerous substances, [9] as amended by Commission Directive 98/101/EC. [10] This Directive only covers batteries and accumulators containing more than 0.0005% mercury by weight, more than 0.025% cadmium by weight and more than 0.4% lead by weight.
+
+[9]  OJ L 78, 26.3.1991, p. 38.
+
+[10]  OJ L 1, 5.1.1999, p. 1, adapting to technical progress Council Directive 91/157/EEC on batteries and accumulators containing certain dangerous substances.
+
+It aims to approximate the laws of the Member States on the recycling and controlled disposal of spent batteries and accumulators by:
+
+- prohibiting the marketing of batteries and accumulators containing more than 0.0005% mercury from 1 January 2000 onwards;
+
+- requiring Member States to ensure the separate collection of the batteries and accumulators covered by the Directive;
+
+- requiring Member States to draw up four-yearly programmes designed, among others, to reduce the heavy metal content of batteries and gradually reduce their share in the municipal solid waste stream.
+
+This Directive was supplemented by Commission Directive 93/86/EEC, [11] laying down marking requirements for batteries and accumulators covered by Directive 91/157/EEC, indicating their separate collection as well as their heavy metal content.
+
+[11]  OJ L 264, 23.10.93, p. 51, adapting to technical progress Council Directive 91/157/EEC on batteries and accumulators containing certain dangerous substances.
+
+Directive 91/157/EEC does not prescribe measurable and verifiable instruments preventing uncontrolled disposal of batteries and accumulators into the environment. As a result there are divergent approaches, and the overall collection efficiency of spent batteries and accumulators in the Community is low. Thus, many batteries and accumulators still are landfilled or incinerated, instead of being collected and recycled. As an illustration, in 2002, out of the 158.270 tonnes of portable batteries and accumulators sold in the EU-15, 72.155 tonnes (representing 45.5% of sales) went to final disposal (landfill or incineration). [12]
+
+[12]  "Impact Assessment on Selected Policy Options for Revision of the Battery Directive", Bio Intelligence, July 2003.
+
+2. Policy considerations and objectives
+
+The EU waste hierarchy defines the priorities in waste treatment. It gives preference firstly to waste prevention, then to recycling, then to energy recovery and finally to disposal. Indeed, the Communication from the Commission on the review of the Community Strategy for waste management assigns prevention of waste the first priority, followed by re-use and recovery and finally by safe disposal of waste. Moreover, in its Resolution of 24 February 1997 on a Community Strategy for waste management, the Council reiterated its conviction that waste prevention should be a first priority for a rational waste policy, in relation to minimising waste production and the hazardous properties of waste. [13]
+
+[13]  OJ C 76, 11.03.1997, p. 1.
+
+The main impetus for this Proposal comes from the Sixth Community Environment Action Programme (6EAP) which lays down the key environmental objectives and priorities for the next ten years starting as from 22 July 2002. [14] In the field of the sustainable use and management of natural resources and wastes, the 6EAP identifies four specific objectives, including "a significant reduction in the quantity of waste going to disposal and the volumes of hazardous waste produced, while avoiding an increase of emissions to air, water and soil" and "encouraging re-use for wastes that are still generated: the level of their hazardousness should be reduced and they should present as little risk as possible, preference should be given to recovery and especially recycling; the quantity of waste for disposal should be minimised and should be safely disposed of (...)". [15]
+
+[14]  OJ L 242, 10.9.2002, p. 1.
+
+[15]  See Article 8 (1) third and fourth indent of the 6EAP.
+
+The 6EAP stipulates that those objectives shall be pursued by, among others, developing or revising the legislation on batteries. [16]
+
+[16]  See Article 8(2) fourth indent of the 6EAP.
+
+Furthermore, this Proposal builds upon the objectives established by the current Battery Directive, namely to approximate the laws of the Member States on the recovery and controlled disposal of batteries and accumulators containing lead, mercury and cadmium. [17]
+
+[17]  See Article 2 of Directive 91/157/EEC.
+
+Moreover, improving waste management in general is recognised as a major environmental challenge not only at Community level but also at international level. The plan of implementation agreed at the World Summit on Sustainable Development (Johannesburg 2002) builds on Agenda 21 and calls for further action to "prevent and minimise waste and maximise reuse, recycling and the use of environmentally friendly alternative materials, with the participation of government authorities and all stakeholders, in order to minimise adverse effects on the environment and improve resource efficiency". [18]
+
+[18]  http://www.johannesburgsummit.org/html/ documents/summit_docs/2309_planfinal.htm in particular paragraph 21.
+
+To re-incorporate waste in the economic cycle ('closing the materials loop"), i.e. waste recovery, is recognised by the Communication from the Commission "Towards a Thematic Strategy on prevention and recycling of waste" [19] as an important element of a comprehensive approach to resource management.
+
+[19]  Communication from the Commission "Towards a thematic strategy on the prevention and recycling of waste" of 27.05.2003, COM(2003) 301final.
+
+This Proposal also takes account of the objectives of the recent Commission Communication on Integrated Product Policy. [20] This Communication sets as its objective "the reduction of environmental impacts from products throughout their life-cycle, harnessing, where possible, a market driven approach, within which competitiveness concerns are integrated".
+
+[20]  Communication from the Commission "Integrated Product Policy", COM(2003)302 final of 18.6.2003.
+
+Further policy considerations come from other pieces of Community legislation which also aim to improve the waste management of specific waste streams, such as Directive 94/62/EC on Packaging and Packaging Waste, Directive 200/53/EC on end of life vehicles (ELV Directive) [21], Directive 2002/96/EC on waste electrical electronic equipment (WEEE Directive) [22] and Directive 2002/95 on the restriction of the use of hazardous substance in electrical and electronic equipment (RoHS Directive). [23]
+
+[21]  OJ L 269/34, 21.10.2000.
+
+[22]  OJ L 37/24, 13.02.2003.
+
+[23]  OJ L37/19 of 13.02.2003.
+
+The WEEE Directive explicitly calls for the revision of Directive 91/157/EEC as soon as possible. [24]
+
+[24]  Recital 11.
+
+As regards the scope, the RoHS Directive does not apply to batteries. However, batteries incorporated in electrical and electronic equipment, the moment the equipment because waste, will be collected together with the equipment on the basis of the WEEE Directive. The battery producers will become responsible for further treatment once the battery is removed from the equipment after collection. A similar situation applies to batteries incorporated in end-of life vehicles. Those batteries will be collected on the basis of the requirements of the ELV Directive. Furthermore, Article 4(2)(a) of the ELV Directive requires the substitution of mercury, lead, hexavalent chromium and cadmium in vehicles by 1 July 2003. [25] This Directive applies to both automotive lead-acid batteries and nickel-cadmium batteries used in electrical vehicles. However, the Community legislator established a list of exemptions from this substitution requirement in Annex II to this Directive. The use of lead in automotive batteries was exempted without time limitation. As the same time, the Community legislator requested the Commission to look into the feasibility of substituting cadmium in nickel-cadmium batteries used in electrical vehicles as a matter of priority. Commission Decision 2002/525/EC, amending Annex II of the ELV Directive, [26] grants an exemption for the use of cadmium in batteries for electric vehicles until 31 December 2005. However, Article 2(2) of Commission Decision 2002/525/EC stipulates: "in the framework of the overall environmental assessment already undertaking, the Commission shall continue to analyse the progressive substitution of cadmium, taking into account the need to maintain the availability of electrical vehicles. The Commission shall finalise and make public its findings by 31 December 2004 at the latest and may make, if proven justified by the results of the analysis, a proposal to extend the deadline in accordance with Article 4(2)(b) of Directive 2000/53/EC".
+
+[25]  O.J. L 269/34 of 21.10.2000
+
+[26]  OJ, L 170/81, 29.6.2002.
+
+In line with the policy considerations mentioned above, this Proposal aims at a significant reduction on the quantities of spent batteries going to disposal and at the highest possible re-introduction of wastes into the economic cycle. The aim is to set verifiable and comparable collection and recycling objectives so that progress throughout the Community can be monitored. Secondly, because of the current divergences between Member States, this Proposal is required to ensure the proper functioning of the internal market and to avoid obstacles to trade and distortion and restriction of competition within the Community.
+
+In line with the Community policy of improving and simplifying legislation, [27] this Proposal repeals Directives 91/157/EEC, 91/101/EC and 93/86/EEC and replaces them with one single legal instrument.
+
+[27]  See Commission Communication COM(2002)275final of 6.6.2002: "European Governance: better lawmaking".
+
+3. Environmental considerations
+
+Each year, approximately 800.000 tonnes of automotive batteries, 190.000 tonnes of industrial batteries and 160.000 tonnes of portable batteries are placed on the Community market. Batteries and accumulators pose not particular environmental concerns when they are in use or kept at home. However, sooner or later those batteries will become waste and risk of contributing to the final disposal of waste in the Community.
+
+The proposed measures aim at managing the risks of the hazardous characteristics of the materials used in batteries, their contribution to air emissions and to polluting incineration residues as well as managing the risks related to landfilling of batteries. As acknowledged by the Scientific Committee on Toxicity, Ecotoxity and the Environment (SCTEE), there is a lack of methodology to assess the long-term risks of leachate from landfills. Furthermore, the proposed measures aim at contributing to resource savings by re-introducing metals used in batteries in the economic cycle.
+
+3.1. Materials used in batteries and accumulators
+
+Environmental concerns related to batteries and accumulators are mainly due to the materials they contain. The main environmental impacts occur during the production and waste management phases.
+
+Commission Decision 2000/532/EC [28] has established two categories of batteries: non-hazardous and hazardous batteries. Hazardous batteries are lead batteries, nickel-cadmium batteries and mercury-containing batteries. Mercury, various compounds of cadmium and lead are also classified under Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances. [29]
+
+[28]  Commission Decision of 3 May 2000 replacing Decision 94/3/EC establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EEC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EEC on hazardous waste, OJ L 226/3 of 06.09.2000.
+
+[29]  OJ L 196 , 16.8.1967, p. 1.
+
+- Mercury: Mercury is known for a variety of documented, significant adverse impacts on human health and the environment. Mercury and its compounds are highly toxic, especially to the developing nervous system. [30]
+
+[30]  See Global Mercury Assessment, United Nations Environmental Programme, Chemicals; Geneva, Switzerland, December 2002.
+
+Under Directive 67/548/EEC , mercury is classified as
+
+- T; R 23 - Toxic by inhalation;
+
+- R33 - Danger of cumulative effects; and
+
+- N; R50-53 - Dangerous for the environment / Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.
+
+Organic and inorganic mercury compounds in general are classified as:
+
+- T+; R26/27/28 - Very toxic by inhalation, in contact with skin and if swallowed;
+
+- R33: Danger of cumulative effects; [31]
+
+[31]  Inorganic mercury which is spread in the water is transformed to methylated mercury in the sediments at the bottoms. Methylated mercury easily accumulates in living organisms and becomes concentrated through the food chain via fish. Methylated mercury has chronic effects and causes damage to the brain.
+
+- N; R50-53 - Dangerous for the environment / Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.
+
+Since 1990, mercury consumption in primary batteries has declined significantly in the EU due to the restriction on the use of mercury in batteries introduced by Directive 91/157/EEC. The restriction entered into force on 1 January 2000. However, button cells are exempted from this restriction. The biggest part of current mercury emissions from batteries in the EU originates from special purpose mercury button cells. [32]
+
+[32]  Emission Inventory Guidebook, December 2000.
+
+Despite the restriction on the use of mercury in batteries and accumulators, mercury batteries produced before the restriction entered into force are still on the market. For example, in Germany, GRS reported that the average mercury content of general-purpose batteries and accumulators was approximately 200-300 ppm in 1998, and 100 ppm in 2002 and will be below 20 ppm in 2005. In 2001, it was estimated that six tonnes of mercury batteries and accumulators are still at home with the consumers, since the rate of return for button cells containing mercury is only around 10% of the sales volume. [33] The European Battery Recycling Association (EBRA )considers that it will take at least 10 years before all of the older mercury containing batteries will be discarded by the consumers. As the marketing of primary batteries containing more than 5 ppm of mercury stopped in 2000, EBRA estimates that the disappearance of spent batteries in the waste stream will not be observed before 2010.
+
+[33]  See press release of 5 June 2002 of the Bundeskartellamt, http://www.umweltbundesamt.de/ uba-info-presse-e/presse-informationen-e/p5602e.htm+mercury+batteries+Germany+2002&hl=fr&ie=UTF-8.
+
+- Cadmium: Cadmium (Cd) is a toxic and carcinogenic substance. The International Agency for Research on Cancer has identified Cd as a known human carcinogen. Epidemiologic studies of Cd-exposed workers show excess lung cancer. The main non-cancer endpoint of concern is kidney damage. Bone and hematologic disorders have also occurred at high level exposure. A wider range of organ toxicity has been demonstrated in animals. [34]
+
+[34]  See Risk Assessment, Cadmium oxide / Cadmium metal; Final Draft, July 2003 http://ecb.jrc.it/php-pgm/ open_file.php?ITEM=Draft_RAR&CASNO=7440439&FICHIER=/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/DRAFT/R303_0307_env_hh.pdf and Results of the 2nd SCOPE Environmental Cadmium workshop, University of Ghent, Belgium, September 2003 http://www.icsu-scope.org/cdmeeting/ 2003meeting/cdindex.htm.
+
+Under Directive 67/548/EEC, cadmium compounds in general are classified as:
+
+- Xn; R20/21/22 - harmful by inhalation, in contact with skin and if swallowed;
+
+- N; R50-53 - Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.
+
+Due to the results of the risk assessment carried out under Regulation 793/93/EEC [35], the following classification of cadmium and cadmium oxide is proposed for the 29th ATP of Directive 67/548/EEC:
+
+[35]  OJ L 224/34 of 3.9.1993.
+
+- T; R48/23/25 - Toxic: danger of serious damage to health by prolonged exposure through inhalation and if swallowed;
+
+- T+; R26 - Very toxic by inhalation;
+
+- Carc. Cat. 2, R45 - Carcinogenic substance category 2; [36]
+
+[36]  Substance which should be regarded as if it is carcinogenic to man.
+
+- Muta. Cat.3, R68 - Mutagenic substance category 3 [37] / Possible risk of irreversible effects;
+
+[37]  Substance which cause concern for man owing to possible mutagenic effects.
+
+- Repr. Cat.3; R62-63 - Substance toxic to reproduction category 3 [38] / Possible risk of impaired fertility and possible risk of harm to the unborn child;
+
+[38]  Substance which cause concern for human fertility / substance which cause concern for humans owing to possible developmental toxic effects.
+
+- N; R50-53 - Dangerous for the environment / Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.
+
+Batteries have the highest concentration of cadmium compared to the other typical metal concentration of MSW constituents. [39] The EU regional consumption of cadmium reaches the value of 2.638 tonnes, which are distributed for 75.2% to NiCd batteries, 14.9% to pigments, 5% to stabilisers and 5% in alloys and plating". [40]
+
+[39]  Targeted Risk Assessment (TRAR) on the use of cadmium oxide in batteries, draft final report May 2003, page 67. This report states that the final contribution to the overall cadmium content is dependent on the weight distribution of the different waste components.
+
+[40]  TRAR on the use of cadmium oxide in batteries, draft final report May 2003, page 28.
+
+Of the total amount of cadmium used in batteries, 75-80% is used in portable NiCd batteries and accumulators, while the rest is used in industrial NiCd batteries and accumulators. Portable NiCd batteries and accumulators are said to contain on average 13% of cadmium by weight and industrial NiCd batteries and accumulators contain 8% by weight.
+
+- Lead: Above certain concentrations, lead is toxic to humans. Continued or acute overexposure to lead can cause severe and cumulative health problems. Lead affects the major organs as well as the central nervous and circulatory systems. Lead exposure is most serious for young children because they absorb lead more easily than adults and are more susceptible to its harmful effects. During pregnancy, especially in the last trimester, lead can cross the placenta and affect the unborn child. Lead can have adverse effects on the ecosystem, including interference with growth and productivity of marine life, and toxicity of fish. [41]
+
+[41]  See report "Risks to Health and the Environment related to the Use of Lead in Products"; TNO report STB-01-39 (Finals) http://europa.eu.int/comm/enterprise/ chemicals/legislation/markrestr/studies/lead.pdf.
+
+Under Council Directive 67/548/EEC, lead compounds in general are classified as:
+
+- Repr. Cat.1, R61 - Substance toxic to reproduction category 1 [42] / May cause harm to the unborn child;
+
+[42]  Substance known to cause developmental toxicity in humans.
+
+- Repr. Cat.3, R62 - Substance toxic to reproduction category 3 [43] / Possible risk of impaired fertility;
+
+[43]  Substance which cause concern for humans owing to possible developmental toxic effects.
+
+- Xn; R20/22 - Harmful by inhalation and if swallowed;
+
+- R33 - Danger of cumulative effects;
+
+- N; R50-53 - Dangerous for the environment / Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.
+
+As regards the use of lead in batteries and accumulators, automotive lead-acid batteries and accumulators are the largest use of lead. In 1997, it was reported that they used about 73% of the global lead production. [44]
+
+[44]  See, Lead Industry Profile at the on-line lead fact book, Icon 2001; http://www.ldaint.org/factbook/ factbookch3.htm.
+
+3.2. Final disposal of spent batteries and accumulators
+
+Two thirds of the total European municipal solid waste stream (MSW) is still landfilled. However, within the EU there is a clear distinction between 'landfilling' and 'non-landfilling' countries, with the choice of opinions depending on factors such as traditional practice, public acceptance and the availability of land for landfill sites. In Acceding States, the fraction of MSW going to landfill is generally more than 90% and in many cases close to 100%. [45] Legal landfills are becoming increasingly full. Heavy metals are toxins are leaking into the surrounding groundwater and soil. Also worrying is the unknown, but estimated high number of illegal landfills in the EU-25 whose risks cannot be quantified. [46] Directive 1999/31/EC on landfills aims to reduce both the amount and the toxicity of landfilled wastes and defines standards for the design and operation of existing and new landfills. [47] The main alternative disposal route, incineration, also produces toxins and heavy metals. Directive 2000/76/EC on the incineration of waste sets emission standards for both new and existing installations. [48] Filters must be installed in incinerators to prevent the release of toxins and heavy metals in the air. Used filters, together with a quarter of the waste's original weight (incineration residues), are either landfilled, emitted into water and air or further used for construction works and others.
+
+[45]  European Enviromental Agency, Environmental Signals 2002.
+
+[46]  "EU focus on waste management", European Commission, DG Environment, August 1999.
+
+[47]  OJ L 182/1 of 1.7.1999.
+
+[48]  OJ L 332/91 of 28.12.2000.
+
+In case of incineration of batteries, metals such as cadmium, mercury, zinc, lead, nickel, lithium and manganese will be found in the bottom-ashes and fly ashes. Incineration of batteries thus contributes to emissions of heavy metals to air and reduces the quality of the fly ashes and bottom-ashes (incineration residues). The main disposal route for spent batteries and accumulators is landfilling. It is estimated that 75% of the disposed spent batteries are being landfilled. The main environmental concerns associated with the landfilling of batteries are related to the generation and eventual discharges of leachate into the environment. [49] A particular concern related to lithium batteries is their risk of explosion.
+
+[49]  Leachate is generated as a result of the expulsion of liquid from the waste due to its own weight or compaction loading ('primary leachate') and the percolation of water through a landfill ('secondary leachate'). The source of percolating water could be precipitation, irrigation, groundwater or leachate recirculated through the landfill.
+
+The environmental risks related to the disposal of cadmium batteries are assessed in the draft Targeted Risk Assessment Report "Cadmium (oxide) as used in batteries" (TRAR), [50] which is currently being peer-reviewed by the Scientific Committee on Toxicity, Eco-toxicity and the Environment (SCTEE). [51] According to the TRAR, the cadmium emissions of portable nickel-cadmium batteries due to incineration was calculated to be 323 - 1.617 kg of cadmium per year to air and 35-176 kg of cadmium per year to water. Total cadmium emissions of portable nickel-cadmium batteries due to landfill was calculated at 131-655 kg of cadmium per year. [52]
+
+[50]  Targeted Risk Assessment Report (TRAR), draft final report of May 2003, carried out by Belgium within the framework of Regulation 793/93/EEC.
+
+[51]  The SCTEE will give its opinion to the European Commission on the overall scientific quality of the report.
+
+[52]  See TRAR, draft final report of May 2003, page 133. The following assumptions are made: portable NiCd batteries account for 10-50 % of the total MSW cadmium content, the total cadmium content of MSW on dry weight basis equal 10 g/tonne, and 24.4 % of the sprnt portable nickel-cadmium batteries anre sent to incineration activities and 75.6 % to landfill activities.
+
+It is estimated that in 2002 at EU level 2.044 tonnes of portable NiCd batteries were disposed of in the municipal solid waste stream. [53] However, a large quantity of batteries and accumulators - even spent batteries - are kept at home, for many years, by end-users before being discarded ('hoarding of batteries'). At EU level it is estimated that households hoard 37% of portable batteries and accumulators. [54] Industry estimates that for portable NiCd batteries, this hoarding effect may be even higher. At the moment, when the end-user decides to dispose of those batteries and accumulators conventionally, they may end up in the MSW stream. The TRAR states: "If NiCd batteries cannot be collected efficaciously, the future cadmium content in the MSW stream is predicted to increase. The impact of this potential increase on future emissions has been assessed for MSW incineration only. The impact of a future change in the MSW composition on the composition of the leachate of a landfill could not be judged based on the current lack of knowledge and methodology". [55]
+
+[53]  "Impact Assessment on Selected Policy Options for the Revision of the Battery Directive", Bio Intelligence 2003.
+
+[54]  "Impact Assessment on Selected Policy Options for the Revision of the Battery Directive", Bio Intelligence 2003.
+
+[55]  TRAR, Final Draft May 2003, page 7. Furthermore, the TRAR itself also indicates the following lack of methodologies to assess certain impacts: "neither the delayed cadmium emissions of the re-use of incineration residues not the impact of future expected increase in cadmium content of bottom ash and fly ash on the re-usability of these incineration residues have been quantified" (page 6) and "the contamination of the groundwater compartment due to fugitive emissions of landfills have not been quantified in this TRAR since no guidance is available to perform these calculations" (page 7).
+
+The Commission believes that the measures proposed are suitable to manage the risks currently identified by the TRAR on the use of cadmium in batteries.
+
+3.3 Re-introduction of the metals used in batteries in the economic cycle
+
+At present, many spent batteries which are collected and then disposed of, instead of being recycled. [56] Bio Intelligence reported that in 2002, out of the 22.361 tonnes of portable primary batteries collected, 19.643 tonnes were sent to a recycling facility. [57] For portable rechargeable batteries the entire amount collected (4.862 tonnes) was sent to a recycling facility. EBRA reported a recycling of 10.710 tonnes of portable primary batteries and 4.657 tonnes of portable rechargeable batteries in 2002. [58]
+
+[56]  In the UK, for example, collected industrial NiCd batteries are disposed of in landfills (see "Analysis of the Environmental Impacts and Financial Costs of a Possible New Directive on Batteries", ERM 2000). In Sweden all alkaline manganese and zinc carbon batteries are put in landfills after collection. In Germany approximately 30% of the portable batteries collected separately are sent to landfills.
+
+[57]  "Impact Assessment on Selected Policy Options for the Revision of the Battery Directive", Bio Intelligence 2003.
+
+[58]  See: http://www.ebrarecycling.org/ArticlesPDF/ pressreleases/EBRApressrelease4-6.pdf.
+
+On a resource management level, batteries are considered as an ore of secondary raw materials. [59] Valuable metals such as nickel, cobalt and silver could be recovered. Additionally, a range of substances such as various acids, salts and plastics which are also contained in the batteries will be captured by the system and diverted from municipal waste to specific installations equipped to deal with waste batteries.
+
+[59]  Compare for example the metallic content of a zinc ore (15%) with the zinc content of batteries (20%).
+
+The use of recycled metals in battery production instead of virgin metals has positive environmental impacts through reduced energy use and reduced pollution related to the mining of the virgin source. As an example, using recycled cadmium and nickel require respectively 46% and 75% less primary energy compared with the extraction and refining of virgin metal. [60] For zinc, the relation between the energy needed for recycling and the energy needed for extraction from primary resources is 2.2 to 8. [61] These figures may be particularly significant given the fact that the primary production of metals is the source of approximately 10% of global CO2 emissions.
+
+[60]  Life Cycle Inventory of Recycling Portable Nickel-Cadmium Batteries, Rydh, C.J., Karlström, M. (2002), Resources, Conservation and Recycling, No. 34, p. 289-309.
+
+[61]  Metaller, materialflöden i samhället, Naturwardsverket, rapport 4506, p. 27.
+
+4. Internal market considerations
+
+This Proposal also aims at contributing to the proper functioning of the internal market, thereby guaranteeing the free movement of goods and contributing to the creation of an internal market for the recycling of collected batteries.
+
+Current Community legislation on batteries and accumulators containing certain dangerous substances (Directive 91/157/EEC) is based on Article 95 (formerly Article 100a) of the Treaty, which aims at harmonising national legislation with a view to establishing the internal market. In practice, however, there are significant disparities between the national laws implementing Directive 91/157/EEC.
+
+Diverging national measures on, for example, marketing restrictions or marking obligations, constitute, in general, barriers to trade and may have a negative impact on the functioning of the internal market. Such effects have frequently been reported by industry following the different ways of implementing Directive 91/157/EEC in various Member States. These potential restrictions on the free movement of goods between Member States should therefore be eliminated by legislation at Community level.
+
+Another concern is the disparities between the scope of the national collection and recycling schemes. For instance, in some Member States the schemes cover collection and recycling of all batteries and accumulators, whereas in others they simply cover batteries and accumulators covered by Directive 91/157/EEC. The collection rates also vary considerably between Member States. As these different schemes can have a negative impact on the internal market and distort competition, it is important to ensure a level playing-field across the EU. Whilst Member States remain free to organise the collection and recycling schemes at their national territory, this Proposal requires Member States to extend the scope of those schemes to all batteries and accumulators put on the market.
+
+Economies of scale make battery recycling more efficient if large volumes of batteries and accumulators are processed. Small Member States may find it difficult to collect sufficient volumes for economically sound recycling within their own territories, so they depend on battery collection in other Member States in order to operate their own recycling installations efficiently. A Community-wide system ensuring that the internal market functions properly is thus needed. Moreover, the environmental objectives and requirements to be fulfilled by the market operators as regards the management of spent batteries and accumulators also need to be clarified, if the internal market is to function properly.
+
+5. Policy measures introduced in the Proposal
+
+The Proposal introduces policy measures which should divert all spent batteries and accumulators from final disposal operations (landfill and incineration) and should ensure that Member States adopt environmentally sound waste management practices which will lead to an efficient collection and recycling of spent batteries and a proper functioning of the internal market. Additional measures are proposed with respect to batteries containing mercury, cadmium and lead since those batteries are qualified as hazardous waste and thus require additional risk management measures.
+
+When preparing this Proposal, the Commission assessed a range of policy measures using an Extended Impact Assessment (ExIA). [62] Main input to this ExIA came from a study performed by an independent consultant [63], a public stakeholder consultation and the TRAR on the use of cadmium (oxide) in batteries. [64]
+
+[62]  According to the Communication from the Commission on Impact Assessment, impact assessments should be used to identify the likely positive and negative impacts of proposed policy action, enabling informed political judgements to be made about the proposal and identifying the trade-offs in achieving competing objectives. The impact assessment should be conducted on the basis of the "principle of proportionate analysis", i.e. the depth of the analysis must be proportionate to the significance of the likely impacts (COM(2002) 276 final.)
+
+[63]  "Impact Assessment on Selected Policy Options for Revision of the Battery Directive", Bio Intelligence 2003.
+
+[64]  TRAR on the use of cadmium oxide in batteries, draft final report May 2003.
+
+5.1. Collection of all spent batteries and accumulators
+
+For portable batteries and accumulators the current collection rate is poor. One of the main reasons seems to be that consumers have considerable difficulty distinguishing between the batteries and accumulators covered by the current Directives (batteries containing certain amounts of mercury, cadmium and lead) and other batteries (e.g. general-purpose batteries). In addition, it appears that due to economies of scale and scope, the cost of a separate collection and disposal system just for a small percentage of the total quantity of portable batteries and accumulators is a major obstacle. So, it is generally considered that moving to an 'all batteries' collection scheme will also increase the collection rate of the batteries and accumulators containing mercury, cadmium and lead.
+
+Experience with Directive 91/157/EEC confirmed that the most efficient way to collect portable batteries and accumulators from households is to apply an 'all batteries' collection scheme. [65] It is thus important to encourage Member States to set up effective collection schemes for the collection of all portable batteries and accumulators by setting a minimum collection target at Community level.
+
+[65]  This is why several Member States (Austria, Germany, France, the Netherlands, Belgium and Sweden) have already moved from a dedicated battery collection scheme (as required by Directive 91/157/EEC) to an 'all battery' collection scheme. An 'all battery' collection scheme has also been advocated by EPBA since 1997 with the adoption of their two step plan ("Two Steps Towards a Better Environment", EPBA November 1997).
+
+The Proposal establishes a uniform minimum target for the collection of all spent portable batteries and accumulators to ensure high and equivalent levels of collection in the different Member States. This would also allow monitoring at Community level. It is proposed to calculate this target on the basis grams per inhabitant. This is in line with the calculation of the collection target of the WEEE Directive. [66]
+
+[66]  Stakeholders submitted that there is no link with the annual battery sales because of the longer life span of batteries (up to 15 years) and the hoarding behaviour of consumers (consumers tend to keep their batteries at home, even after the use-phase). This calculation method is favoured by EPBA.
+
+Contrary to spent portable batteries and accumulators, spent industrial and automotive batteries and accumulators have a lower risk of being disposed of in the environment because they are large and used professionally. Moreover, because of their economic value, the collection rate of these batteries and accumulators is reported to be already close to 100% according to established industry practices. It is therefore not deemed necessary to adopt specific collection targets for these batteries and accumulators. Instead, the Proposal imposes a legal obligation on manufacturers to take-back those batteries. The Proposal also requires that automotive batteries and accumulators are collected separately, in so far as those batteries are not already collected on the basis of schemes set up under Directive 2000/53/EC.
+
+For environmental reasons, it is particularly important to divert hazardous waste from the waste stream. Therefore, it is proposed to prohibit the landfilling and incineration of industrial and automotive batteries. Those are mainly lead-acid and nickel-cadmium batteries. As regards the portable nickel-cadmium batteries, such a ban would not appear to be enforceable. Therefore, it is proposed to set an additional collection target for those batteries. It is proposed to set this target at 80% of the total quantity of spent portable NiCd batteries and accumulators which arose annually. This is the quantity of portable NiCd batteries and accumulators which are being collected and disposed of together with the municipal solid waste.
+
+Member States should thus monitor the quantities of portable NiCd batteries and accumulators found in the municipal solid waste stream and report this to the Commission. On the basis of this information as well as new scientific and technical progress, the Commission will evaluate the specific environmental risks related to the use of cadmium in batteries and accumulators on a regular basis.
+
+5.2. Recycling of all spent batteries and accumulators
+
+Directive 91/157/EEC does not specify recycling requirements for spent batteries and accumulators. These are left to the discretion of the Member State provided they comply with the internal market rules. The Directive does encourage Member States to promote research into recycling methods and allows them to introduce measures, such as economic instruments, to encourage recycling. [67]
+
+[67]  See Articles 6, fourth indent and Article 7, paragraph 1 of Directive 91/157/EC as amended.
+
+The recycling of batteries and accumulators will ensure that batteries and accumulators are not sent for landfill or incineration after collection, and is thus necessary to close the materials loop. Moreover, it will contribute to the saving of valuable natural resources in conformity with Article 174 of the EC Treaty. Since thousands of tonnes of different metals are used in the production of batteries and accumulators, high recycling rates will contribute substantially to saving of valuable natural resources.
+
+Therefore, this Proposal establishes the principle that all batteries and accumulators collected should be processed for recycling. However, in exceptional circumstances some portable batteries and accumulators might be unsuitable for recycling, for example, in case they are damaged during the collection process. Therefore, the Proposal provides for an exemption from the rule that all batteries collected should be processed for recycling, up to a maximum of 10% of the collected batteries.
+
+In addition, for environmental reasons it is important that the lead and cadmium content of lead-acid and nickel-cadmium batteries is actually recycled, once these batteries and accumulators enter the recycling facility. Since approximately 70% of the lead and cadmium production is used for the battery production, recycling of those batteries would contribute to significant resource savings. Therefore, it proposed to set a minimum recycling efficiency level for the recycling of those batteries.
+
+From an environmental perspective, life-cycle assessments (LCAs) indicate that the optimum recycling rate for NiCd batteries and accumulators tends to be close to 100%. [68] Studies show that NiCd battery recycling is energy-efficient even in cases where the processing facilities are some distance away. [69] Excluding the use-phase of the battery, 65% of the primary energy used is in the battery manufacture while 32% is in the raw material production. Recycled cadmium and nickel require 46% and 75% less primary energy respectively, compared with extracting and refining virgin metal. Recycling of cadmium, nickel, iron and other battery materials is relatively easy, so it is virtually possible to recycling all (99.9%) of the materials in a NiCd battery. The cadmium recovered should be used in the production of new batteries and accumulators or other products.
+
+[68]  "Rechargeable Battery Management and Recycling: A Green Design Educational Module", Rebecca Lankey and Francis McMichael, 1999.
+
+[69]  "Life Cycle Assessment of Recycling Portable Nickel-Cadmium Batteries", Carl Johan Rydh and Magnus Karlström, 2002.
+
+Hence, for nickel-cadmium batteries, the minimum recycling efficiencies proposed are all the cadmium and a minimum of 75% by average weight of nickel-cadmium batteries and accumulators. [70]
+
+[70]  According to Bio Intelligence, this is the percentage of recoverable materials in NiCd batteries. (see "Impact Assessment on Selected Policy Options for Revision of the Battery Directive", Bio Intelligence 2003, p. 59). EBRA's proposal is to set a minimum recycling of 70% by weight of nickel-cadmium batteries. With industry practices, it is estimated that up to 80% of the average weight of industrial NiCd batteries is recycled.
+
+Recycling schemes for lead-acid batteries and accumulators are already well established and part of current industry practices. These batteries and accumulators contain mainly lead, which is easily recyclable. LCA studies of lead-acid batteries and accumulators indicate that if more quantities of recycled lead are used in lead-acid batteries and accumulators, the negative environmental impacts during their life-cycle will decrease. [71] The minimum recycling efficiencies proposed for these batteries and accumulators is all the lead and a minimum of 65% by average weight of the materials they contain. [72]
+
+[71]  "Environmental assessment of vanadium redox and lead-acid batteries for stationary energy storage", C.J. Rydh, Journal of Power Sources, 80 (1999), 21-29.
+
+[72]  See EBRA's position paper of 25 April 2003 submitted within the framework of the stakeholder consultation.
+
+For other batteries and accumulators, the recycling efficiency proposed is an average of 55% by weight.
+
+6. Economic considerations
+
+6.1. Collection and recycling costs
+
+Costs of collection and recycling include the costs of sorting, consolidation, storage, delivery to the recycling facility and recycling.
+
+The cost of collecting and recycling portable batteries and accumulators varies significantly from one Member State to another, depending on how their collection schemes are organised. It is difficult to compare the costs of the various schemes. However, it is clear that specific collection costs (EUR/tonne) are lower in "all batteries" schemes than in collection schemes dedicated to certain types of portable batteries and accumulators, and that the collection rates achieved are higher.
+
+The European Portable Battery Association (EPBA) reports that the collection and transportation costs in each of the Member States that have set up efficient collection schemes for all portable batteries and accumulators are relatively stable at 300-550EUR/tonne. Recycling costs have decreased because of economies of scale as more and more batteries and accumulators are collected. Moreover, effective competition on the recycling market, and recycling of portable batteries and accumulators with less mercury in non-dedicated recycling facilities has helped to cut recycling costs. According to the EPBA, the average recycling costs for portable batteries and accumulators ranges from EUR400 to EUR900 a tonne.
+
+According to recent experience in some Member States, collection rates have been increased simply by optimising the management of collection schemes, i.e better localisation of collection points and better information to the public. This has been done without a corresponding increase in the specific collection costs. Furthermore, there is no direct relationship between costs and collection rate, as is shown by the fact that the two national collection schemes with the highest collection rates (UFB in Austria and BEBAT in Belgium) have the lowest and the highest collection cost per tonne. [73]
+
+[73]  In 2002, Austria collected 44% of the annual sales at a cost of EUR 1,115EUR/tonne and Belgium collected 59% of the annual sales at a cost of EUR 3,765EUR/tonne.
+
+Two comments can be made on the costs of establishing collection and recycling obligations for portable batteries and accumulators at Community level, as proposed in this Directive. Firstly, it is reasonable to predict that costs per tonne will increase if mandatory Community collection targets have to be met. Secondly, costs of existing collection schemes can be expected to decrease over time as management and design of the collection schemes improves along with consumer awareness.
+
+The most cost-efficient collection rate for all portable batteries ranges between 160-200 grams per inhabitant per year. The total costs of collecting, sorting and recycling related to this collection rate is estimated between EUR1.386 - EUR1.846 EUR/tonne. [74] The total additional costs of moving from collecting and recycling certain types of batteries and accumulators (as required by Directive 91/157/EEC) to collecting and recycling all batteries and accumulators can then be estimated at EUR 70-92 million per year. [75]
+
+[74]  See "Impact Assessment on Selected Policy Options for Revision of the Battery Directive", Bio Intelligence 2003, page 133 in a 'high' cost scenario with a recycling input target of at least 90%.
+
+[75]  Assuming that a collection rate of 160- 200 grams per inhabitant would require an additional collection of 50.000 tonnes of portable batteries.
+
+It should be noted that this estimate is relatively high. [76] As more batteries and accumulators are collected and treated, significant economies of scale are expected to take effect, especially for dedicated recycling schemes, and there is the potential for significant cost reductions. Experience with existing collection programmes has also shown that the schemes can be improved without substantial cost increases.
+
+[76]  Compare with EPBA (July 2003) which estimates that a collection of 40.000 tonnes would result in a potential cost of EUR 43 million per year.
+
+Moreover, implementation of the WEEE Directive should boost the collection of the portable batteries and accumulators in electrical and electronic equipment. Industry estimates that 90% of portable NiCd batteries and accumulators are incorporated into electrical and electronic equipment. This should allow Member States to achieve collection rates in excess of those currently achieved by existing national collection organisations with only a small increase in marginal costs per tonne of batteries collected, since some of the costs will be allocated to the implementation of the WEEE collection schemes.
+
+Experience in Belgium, Germany and the Netherlands shows that increasing the selling price of batteries and accumulators seems to have no effect on battery consumption. If all the costs of the proposed collection and recycling rates for spent portable batteries were passed on to consumers, the additional annual cost per household would be between one and two Euros.
+
+Revenue from the sale of recycled lead from spent automotive batteries and accumulators amounted to EUR 265-350EUR/tonne in the period 1995-1999. Compared to the total costs of collecting and recycling those batteries, which vary between EUR270 and EUR 350 per tonne, net cost/revenues range from EUR -77 to EUR+ 93 per tonne. [77]
+
+[77]  See "Impact Assessment on Selected Policy Options for Revision of the Battery Directive", Bio Intelligence 2003.
+
+The average net cost of collecting and recycling industrial NiCd batteries and accumulators ranges from EUR 0 to EUR 300 per tonne. [78] The costs depend mainly on the type of recycling plant, the proportions of metals recovered and the market prices of scrap metal. According to industry, the recycling cost of these batteries and accumulators is already built into the price that the manufacturers charge the final customer. Hence, mandatory recycling targets would not affect the producers' competitiveness. The recycling industry reports that the recycling costs of NiCd batteries and accumulators could decrease in the future, in particular by increasing the nickel recycling rate by 10-15%.
+
+[78]  See "Impact Assessment on Selected Policy Options for Revision of the Battery Directive", Bio Intelligence 2003. Bio Intelligence final report of July 2003.
+
+Given these circumstances, the additional costs incurred by industry in implementing the collection obligations and recycling targets for industrial and automotive batteries and accumulators in this Proposal are unlikely to be significant in terms of their overall cost structure.
+
+The proposed ban on the final disposal of spent automotive and industrial batteries and accumulators is not expected to have significant economic impacts either. As the recycling of lead-acid batteries and accumulators generally has net economic benefits, the landfill/incineration ban would eliminate the disposal costs of landfilling spent lead-acid batteries, which are estimated at 120EUR/tonne. For industrial NiCd batteries and accumulators, the landfill/incineration ban could have an additional cost/revenues in the range between EUR -120 and EUR+180EUR per tonne. [79]
+
+[79]  Comparing the range of the net recycling costs of EUR 0- EUR 300 per tonne with a costs of EUR 120 per tonne for landfilling, see also "Impact Assessment on Selected Policy Options for Revision of the Battery Directive", Bio Intelligence 2003. Bio Intelligence final report of July 2003.
+
+6.2. Collection and recycling benefits
+
+In terms of economic benefits, collecting and recycling all spent batteries and accumulators on the Community market should:
+
+- Cut the costs of raw materials used in batteries and accumulators, as virgin materials can be replaced by recycled materials;
+
+- Cut disposal costs, particularly landfill costs, because there will be less disposal of spent batteries and accumulators in landfills or incinerators and more recycling. Cost for final disposal is estimated at 120EUR/tonne. Assuming that the proposed collection rate would lead to an additional collection of 50.000 tonnes of portable batteries, the total avoided disposal costs would be EUR6 million.
+
+- Cut recycling costs because of higher collection rates, economies of scale etc.
+
+- Avoid external costs. External costs are the costs of negative environmental impacts which are not included in the price of the product and are usually paid for by society in the form of cleanup costs or environmental deterioration or negative health effects. As it is difficult to quantify and put a monetary value on any of these external costs avoided by the proposed measures, a description of the benefits is limited to the following:
+
+- Avoidance of external costs by using resources in spent batteries and accumulators which would otherwise go to final disposal. The metals contained in batteries and accumulators can be diverted from the waste stream and recycled. In addition, other substances in batteries; acids, salts, plastics etc., will also be diverted from the waste stream.
+
+- Avoidance of potential air and water pollution and external costs caused by the negative environmental impacts from incinerating/landfilling spent batteries and accumulators. Those environmental impacts will depend on a large number of factors such as the stringency of legal standards, whether or not they are in reality respected, the environment in which a waste treatment plant is located, and so on. Certain substances in batteries and accumulators may also pollute incinerator ashes, which could otherwise have been used as construction materials. The levels and effects of exposure to human beings and the environment are potentially very significant.
+
+7. Subsidiarity and proportionality
+
+Environmental protection measures and measures with an impact on the internal market fall within the competence of both the Community and the Member States. The principle of subsidiarity requires that the Community takes action only [80] if and insofar as the objectives of the proposed action cannot be sufficiently achieved by the Member States and can thus be better achieved by the Community, because of the scale effects of the proposed action. The proportionality principle requires Community action not to go beyond what is necessary to achieve the objectives. [81]
+
+[80]  This principle only applies to areas which do not fall within the Communities' exclusive competence.
+
+[81]  See Article 5 of the EC Treaty.
+
+The present Proposal takes account of the principles of subsidiarity and proportionality for the following reasons:
+
+- The pollution caused by the management of spent batteries and accumulators is of a transboundary nature. This is particularly true for pollution of air and water from disposal of spent batteries and accumulators in landfills or incinerators.
+
+- Divergent national measures as regards, e.g., marking obligations, can have a negative impact on the functioning of the internal market by creating barriers to trade and distortions of competition. Product requirements should be set at Community level to ensure the proper functioning of the internal market and to allow the free movement of spent batteries and accumulators between Member States.
+
+- The Proposal sets out legal requirements for a harmonised Community strategy for the collection and recycling of spent batteries and accumulators, but at the same time leaves Member States free to choose the most appropriate national measures (for example voluntary agreements) to reach the objectives of the Proposal.
+
+- Member States need to take account of national, regional and local conditions when setting up their collection, treatment and financing systems for the management of spent batteries and accumulators. The Proposal allows them the flexibility to do this.
+
+- The Proposal focuses exclusively on the key actions required to achieve its objectives: definitions, marketing restrictions, collection and recycling requirements, marking obligations, data collection, reporting obligations and consumer information. These should guarantee a closed loop system for all spent batteries and accumulators. Although consideration has been given to phasing-out the use of cadmium in batteries and accumulators, the results of the Extended Impact Assessment show that in the current situation, the specific measures proposed are a more appropriate solution. The chosen form of the legal act (a new Directive) gives Member States alternative ways of achieving the objectives of the Proposal, whilst respecting the Treaty, in particular the rules on the internal market and competition.
+
+8. Trade aspects
+
+The proposed Directive will apply uniformly to all types of batteries and accumulators on the Community market, irrespective of where they were manufactured. The measures proposed are necessary to meet the objectives of the Directive.
+
+In addition, all measures in this Proposal have been designed to meet international obligations and to minimise potential impacts on trade. Full account has been taken of the obligations of the EU under the WTO-Agreement and the need to avoid unnecessary obstacles to trade.
+
+Within the current framework of Community legislation and programmes, consideration should be given, where necessary, to providing Acceding States, Candidate Countries and Developing Countries with technical assistance to facilitate compliance with the proposed Directive so they can (continue to) have access to the Community market.
+
+9. Legal basis
+
+This Proposal aims both to protect the environment and to harmonise national legislation on batteries and accumulators. Therefore, it is based both on Article 95 and Article 175 of the EC Treaty. These two Articles of the Treaty set different conditions as regards the right of Member States to maintain or introduce more stringent protective measures. As a consequence, it is necessary to specify the legal basis for each part of the Proposal.
+
+It seems appropriate to harmonise the laws of the Member States as regards product requirements (like a mercury ban and labelling requirements) on the basis of Article 95 of the EC Treaty. This legal basis is appropriate since the disparities between the laws of the Member States on product requirements could create barriers to trade and distort competition in the Community and thus have a direct impact on the establishment and functioning of the internal market.
+
+On the other hand, it seems more appropriate that harmonisation measures to prevent or reduce the generation of spent batteries and accumulators and to prevent or reduce the negative environmental impacts of the metals used in them, are based on Article 175 of the EC Treaty. These measures, which aim to provide a high level of environmental protection, should not prevent Member States from adopting more stringent measures on their national territory.
+
+ANNEXES
+
+ANNEX I: Summary of the content of the Proposal
+
+Article 1 sets out the subject-matter of the proposed Directive.
+
+Article 2 sets out the scope of the Directive. It covers all types of batteries and accumulators on the market, irrespective of their material content or use.
+
+Article 3 lists definitions for the purposes of the Directive.
+
+Article 4 reiterates the requirement to substitute the heavy metal mercury, which is already established by Directive 98/101/EC.
+
+Article 5 requires Member States to encourage producers to increase the overall environmental performance of batteries and accumulators throughout their entire life-cycle in accordance with the Commission's Communication on Integrated Product Policy (IPP). [82]
+
+[82]  COM(2003) 203final of 18.6.2003.
+
+Article 6 obliges Member states to monitor the quantities of portable NiCd batteries and accumulators disposed of in the municipal solid waste stream. The Commission shall establish detailed rules for this monitoring requirement in accordance with the comitology procedure.
+
+Article 7 stipulates that, in line with internal market rules, batteries and accumulators meeting the requirements of the Directive can be placed on the market freely and obliges Member States to prohibit or withdraw batteries and accumulators not meeting the requirements of this Directive.
+
+Article 8 sets out provisions on the collection of spent batteries and accumulators designed to avoid the final disposal thereof. Member States are required to set up schemes to ensure that all batteries and accumulators are collected for recycling and thus to ensure a closed-loop system for all batteries.
+
+Article 9 requires that Member States shall ensure that efficient collection schemes will be set up for all batteries. The main challenge in creating efficient collection schemes is to motivate consumers to return their spent portable batteries and accumulators via collection schemes. However, for reasons of subsidiarity, only general requirements for collection schemes are specified, in particular that consumers can return portable batteries and accumulators free of charge. The Proposal requires producers to take back industrial batteries and accumulators. Spent automotive batteries and accumulators can also be collected through schemes set up under Directive 2000/53/EC on end-of life vehicles. When setting up those schemes, Member States are to ensure that the negative externalities resulting from transport distances are minimised.
+
+Article 10 gives producers the possibility to set up either individual or collective collection schemes.
+
+Article 11 prohibits the final disposal of industrial and automotive batteries and accumulators in landfills or by incineration.
+
+Article 12 provides a framework for economic instruments. The use of economic instruments remains a valid option for Member States to achieve the objectives of this Proposal. For instance, in order to promote the development and marketing of batteries and accumulators with less hazardous substances, fiscal instruments might be used to offset the cost difference between two technically equivalent battery types. Additionally, tax differentials can provide an incentive to influence consumer's behaviour to promote batteries and accumulators that contain less polluting substances. In both cases, Member States have to comply with the EC Treaty rules. Of special importance are Articles 28, 87 and 90 of the EC Treaty. In this context, the Commission adopted a Communication on Environmental Taxes and Charges in the Single Market [83] which sets out guidelines for Member States on the use of economic instruments at national level.
+
+[83]  COM(97)009 final.
+
+Article 13 establishes a uniform target for the collection of all spent portable batteries and accumulators as a basis for efficient national collection schemes. It is proposed to set this target at a minimum of 160 grams per inhabitant. Moreover, because of their hazardousness, portable NiCd batteries and accumulators give rise to specific environmental concerns, unless they are collected efficiently. Therefore an additional collection target is set for them in order to guarantee that those batteries will be collected instead of disposed of together with the normal household waste. This target is calculated on the basis of 80% of the quantities of spent portable NiCd batteries collected through collection schemes and disposed of in the municipal solid waste stream.
+
+The proposed calculation method for this additional target builds upon the requirement in Article 6 that Member States should monitor the quantities of spent portable NiCd batteries and accumulators disposed of in the municipal solid waste stream. This monitoring should be based on verifiable, reliable methods representative of the entire national territory and approved by an independent expert body.
+
+Article 14 gives Member States the possibility to request an exemption from the collection targets of Article 13 due to specific circumstances. For instance, some Member States have specific geographical circumstances such as a large number of small islands or the presence of rural and mountain areas and a low population density. Those Member States could request an extra delay to reach the targets with a maximum of three years.
+
+New Member States acceding to the EU by virtue of the Accession Treaty of 16 April 2003 have a lower GDP than the current Member States. This may reflect in a lower battery consumption which may make it more difficult for them to reach the collection targets. [84] In such case, those countries could also request an adaptation of the collection targets of Article 13.
+
+[84]  Another indicator of this could be the Power Purchasing Parities (PPP).
+
+The envisaged national measures should be notified to the Commission, which will need to approve them, in cooperation with the other Member States.
+
+Article 15 sets minimum requirements for the treatment of spent batteries and accumulators in the Community. In line with Directive 2002/96/EC, this Article requires Member States to ensure that producers, or third parties acting on their behalf, set up treatment facilities which use the best available recycling techniques.
+
+Article 16 clarifies that in conformity with Council Regulation 293/93/EEC, Member States may export collected batteries and accumulators to other Member States or third countries for further treatment. Those exports will count for achieving the recycling obligations of this Directive, provided that the exporter declares that the recycling operation took place under conditions equivalent to the requirements of this Directive. To this end, the Commission shall establish detailed rules in accordance with the comitology procedure.
+
+Article 17 requires Member States to promote research to develop new recycling technologies and the introduction of EMAS.
+
+Article 18 sets out recycling requirements. In principle all batteries and accumulators collected should enter a recycling facility, unless the collected batteries are damaged during collection and it has become technically unfeasible to recycle them.
+
+Article 19. In addition to the recycling targets of Article 18, it is proposed to set minimum recycling efficiencies. Those minimum recycling efficiencies are higher for nickel-cadmium and lead-acid batteries which are classified as hazardous waste under Commission Decision 2000/532/EC. Moreover, approximately 70% of the total production of lead and cadmium in used in batteries. Therefore, high recycling efficiencies could substantially contribute to resource savings. For nickel-cadmium batteries and accumulators, all the cadmium and a minimum of 75% of the average weight are to be recycled. For lead-acid batteries, all the lead and a minimum of 65% by average weight are to be recycled. For other batteries and accumulators, a minimum recycling efficiency of 55% by average weight is proposed.
+
+The proposed minimum recycling efficiencies are to be evaluated regularly and adapted to technical progress under the comitology procedure.
+
+Article 20 requires Member States to ensure that producers are responsible for financing the management of spent batteries and accumulators. For portable batteries and accumulators, producers are responsible from at least the collection point onwards. Producers may set up individual or collective schemes.
+
+Article 21 stipulates that for industrial and automotive batteries, Member States should allow producers and users to conclude financial agreements.
+
+Article 22. In line with Directive 2002/96/EC, producers are required to provide a guarantee for the financing of the waste management of batteries and accumulators when placing those products on the Community market. Moreover, Member States should draw up a register of producers placing their products on the national market. These measures should prevent free riders.
+
+Article 23 provides that for historic waste, final industrial users could also be made financially responsible. Furthermore; in line with Directive 2002/96/EC, this Article obliges Member States to allow producers to use visible fees for a transitional period of four years after the transposition of this Directive.
+
+Article 24 requires Member States to ensure that the collection and recycling schemes are non-discriminatory and do not create any barriers to trade or distortions of competition.
+
+Article 25 lists the elements that must be part of consumer information.
+
+Article 26 stipulates that Member States may require some or all of the consumer information to be provided by economic operators.
+
+Article 27 requires producers to mark their products with the symbol shown in Annex II, and batteries and accumulators containing mercury, lead or cadmium must be marked with a "chemicals" symbol.
+
+Article 28 contains reporting obligations for the Member States. They have to report on implementation of the Directive every three years, using a questionnaire established in accordance with the procedure laid down in Article 18 of Directive 75/442/EEC.
+
+Article 29 contains a review clause. The Commission shall evaluate the results of the monitoring of the municipal solid waste stream on the amount of spent portable nickel-cadmium batteries as referred to in Article 6 and may propose additional risk management measures if appropriate. Moreover, the Commission shall evaluate the minimum collection target for all spent portable batteries and the additional target for spent portable NiCd batteries and accumulators as well as the minimum recycling targets and efficiencies of Articles 18 and 19. The Commission shall publish a report on those evaluations in the Official Journal, together with a report on the implementation this Directive.
+
+Article 31 requires Member States to establish rules on penalties applicable to infringements of national measures implementing this Directive. These penalties must be effective, proportionate and dissuasive.
+
+Article 33 encourages Member States to transpose certain provisions of this Directive through environmental agreements with economic operators.
+
+Annex II gives the symbol which shows that batteries, accumulators and battery packs are for separate collection, together with technical specifications for marking.
+
+ANNEX II: Summary of the Extended Impact Assessment
+
+The main issues identified by the ExIA have already been covered in the Explanatory Memorandum. This summary focuses on the final policy option chosen, the level of ambition, the expected impact over time and the stakeholder consultation.
+
+What is the final policy choice and why?
+
+The final policy instrument chosen is a new Directive. A Directive is the most appropriate policy instrument given both the objective and the content of the present Proposal. A new Directive revising and repealing the current Battery Directives will establish a framework for the collection and recycling of spent batteries and accumulators and guarantee the proper functioning of the internal market in these products. [85] This policy instrument also leaves it up to Member States to choose the most appropriate implementation measures at the lowest compliance cost. In any case, for the collection of spent batteries and accumulators, Member States can use existing collection infrastructure or infrastructure (to be) set up under other pieces of Community legislation, such as Directive 2000/53/EC on end-of-life vehicles and Directive 2002/96/EC on waste electrical and electronic equipment.
+
+[85]  In this context, the principles laid down in the Communication from the Commission on the Single Market and the Environment, COM (1999)263, have been taken into account.
+
+Member States are also encouraged to use environmental agreements to implement certain obligations of the Directive. This approach is consistent with other pieces of Community waste legislation, such as Article 10 of Directive 2000/53/EC on end-of life vehicles and Article 17 of Directive 2002/96/EC on waste electrical and electronic equipment.
+
+Why was a more or less ambitious option not chosen?
+
+Less ambitious options - 'no policy change' or 'environmental agreement at Community level', instead of a new legislative instrument - were not chosen because they were not an enforceable or reliable means of addressing the environmental considerations regarding the waste management of batteries and accumulators.
+
+More ambitious options, like more stringent collection and recycling requirements, were not chosen mainly because of the cost implications.
+
+A ban on the use of cadmium in portable batteries and accumulators was not chosen, since the proposed measures are expected to provide an equivalent level of environmental protection at lower costs. Such a ban would not cover existing and hoarded portable NiCd batteries and accumulators. For household appliances, the trend now seems to be towards substitution of NiCd batteries by other types (e.g. NiMH and Li-Ion).
+
+What are the impacts over time?
+
+This Proposal is expected to have positive impacts on the environment (less heavy metals from batteries and accumulators in the leachate from landfills and in the air emissions and residues (bottom ash and fly ash) from incineration), on resource savings of the metals used in batteries and on the functioning of the internal market. The collection and recycling requirements for spent batteries and accumulators could create investment in recycling facilities in the existing Member States, Acceding States and in Candidate Countries. Recycling requires a mix of jobs at local level: low-skilled staff for collection and high-skilled staff for processing.
+
+Moreover, exporting batteries and accumulators for recycling may make the market more competitive than depending solely on national recycling facilities. The Proposal will thus contribute to the functioning of the internal market and to competition among recyclers.
+
+Which interested parties were consulted, when in the process, and for what purpose?
+
+A public on-line stakeholder consultation was launched on 25 February 2003, with the publication of a Consultation Document on the website. The stakeholder consultation ran until 28 April 2003. The purpose of this on-line stakeholder consultation was to obtain input from all interested parties on a wide range of policy options listed in the Consultation Document. This stakeholder consultation took place at an early stage in the process. The results from the consultation were therefore a useful contribution to selection of the final policy options.
+
+A stakeholder meeting to provide feedback on the on-line stakeholder consultation took place on 15 July 2003. Further information can be found at: http://europa.eu.int/comm/environment/ waste/batteries.htm.
+
+What were the results of the consultation?
+
+The Commission received contributions from 149 stakeholders (including national, local and regional authorities, industry, battery associations, trade associations, NGOs and consumer and retail organisations). A considerable number of international stakeholders also contributed. This stakeholder participation shows the importance of the debate launched by the Commission. A list of the participating stakeholders and their positions can be found at: http://europa.eu.int/comm/environment/ waste/batteries/consultation.htm.
+
+2003/0282 (COD)
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on batteries and accumulators and spent batteries and accumulators
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Articles 95 (1) and 175 (1) thereof,
+
+Having regard to the proposal from the Commission, [86]
+
+[86]  OJ C......
+
+Having regard to the opinion of the European Economic and Social Committee, [87]
+
+[87]  OJ C......
+
+Having regard to the opinion of the Committee of Regions, [88]
+
+[88]  OJ C......
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty, [89]
+
+[89]  Opinion of the European Parliament of .. .. ... (OJ C .......), common position of the Council of .. . ..  (OJ C .....) and Decision of the European Parliament of .. .. .... (OJ C ......). .....
+
+Whereas:
+
+(1) The different national measures concerning batteries and spent batteries should be harmonised in view of the double objective to minimise the impact of batteries and spent batteries on the environment, thus contributing to the protection, preservation and improvement of the quality of the environment and to ensure the smooth functioning of the internal market and avoid distortions of competition in the Community.
+
+(2) The Commission's Communication on the Review of the Community Strategy for Waste Management of 30 July 1996 [90] established guidelines for future Community waste policy. That Communication stresses the need to reduce the quantities of hazardous substances in waste and points out the potential benefits of Community-wide rules limiting the presence of such substances in products and in production processes. It further states that, where the generation of waste cannot be avoided, that waste should be reused or recovered for its material or energy.
+
+[90]  COM(96)399 final, 30.7.1996.
+
+(3) Council Directive 91/157/EEC of 18 March 1991 on batteries and accumulators containing certain dangerous substances, [91] have brought about an approximation of the laws of the Member States in this field. However, the objectives of these Directives have not been fully attained and the need to revise it was also underlined by the Sixth Community Environment Action Programme, [92] and in Directive 2002/96 on waste electrical and electronic equipment. [93] Directive 91/157/EEC should therefore be revised and replaced in the interests of clarity.
+
+[91]  OJ L 78, 26.3.1991, p. 38. Directive amended by Commission Directive 98/101/EC (OJ L 1, 5.1.1999, p. 1) and adapted to technical progress by Commission Directive 93/86/EEC of 4 October 1993 adapting to technical progress Council Directive 91/157/EEC (OJ L 264, 23.10.1993,51).
+
+[92]  OJ L 242, 10.9.2002, p. 1.
+
+[93]  OJ L 37/24, 13.02.2003, recital 11.
+
+(4) The objective of the provisions on minimum requirements for the collection, treatment and recycling of spent batteries and accumulators and consumer information (Chapters IV - VII) is the protection of the environment and the legal basis for those provisions is therefore Article 175(1) of the Treaty. The objective of the provisions related to product requirements, placing on the marking and labelling in Chapters II, III, VIII and Annex II is to ensure the proper functioning of the internal market and the legal basis for those provisions is therefore Article 95(1) of the Treaty.
+
+(5) In order to prevent batteries and accumulators from ending up in the environment, and to avoid consumer confusion about the different waste management requirements for different batteries, this Directive should apply to all batteries and accumulators placed on the market in the Community. Provide for such a scope should also ensure economies of scale in collection and recycling, as well as optimal resource saving.
+
+(6) Reliable batteries and accumulators are fundamental for the safety of many products, appliances and services and are an essential energy source in our society.
+
+(7) In order to achieve a high level of protection of human and animal health and of the environment, the marketing of certain batteries and accumulators should be prohibited because of the quantity of heavy metals they contain. The quantities of spent nickel-cadmium batteries and accumulators disposed of in the waste stream should be monitored. The Commission should evaluate the need for an adaptation of the Directive, taking account of the results of the monitoring and of available technical and scientific evidence.
+
+(8) In order to protect the environment, spent batteries and accumulators should be collected. This means setting up collection schemes so that all spent portable batteries and accumulators can be conveniently returned by the end-users free of charge.
+
+(9) Member States should be required to achieve a high collection rate for spent batteries and accumulators to ensure that they contribute to the environmental objectives of the Community. To achieve a high level of material recovery throughout the Community and prevent disparities between Member States, all Member States should be required to send the spent batteries and accumulators collected to recycling facilities.
+
+(10) In the light of the specific environmental and health concerns regarding cadmium, mercury and lead and the particular characteristics of batteries and accumulators containing cadmium, mercury and lead additional measures should be adopted. The use of mercury in batteries should be restricted. Final disposal of automotive and industrial batteries should be prohibited. An additional collection target should be set for portable nickel-cadmium batteries. Moreover, specific recycling requirements should be established for cadmium and lead batteries in order to attain a high level of materials recovery throughout the Community and to prevent disparities between the Member States.
+
+(11) All interested parties should be able to participate in collection and recycling schemes. Those schemes should be designed to avoid discrimination against imported products, barriers to trade or distortions of competition and should guarantee the maximum possible returns of spent batteries and accumulators. For a transitional period, producers should be allowed, on a voluntary basis at the time of sale of new products, to show purchasers the costs of managing waste in the past. Producers making use of that provision should ensure that the costs mentioned do not exceed the actual costs incurred.
+
+(12) Collection and recycling schemes should be optimised, in particular with a view to minimising the negative external costs of transport.
+
+(13) Basic principles for financing the management of spent batteries and accumulators should be set at Community level. Financing schemes should help to achieve high collection and recycling rates and to implement the producer responsibility principle.
+
+(14) Holders of spent portable batteries or accumulators should be able to return them free of charge. Producers should therefore finance the collection, treatment and recycling of those deposited at their collection facility. Producers should also finance the collection, treatment and recycling of other spent batteries and accumulators.
+
+(15) Consumer information on separate collection, the collection schemes available and the consumer's role in the management of spent batteries and accumulators is necessary for successful collection. Detailed arrangements should be made for a marking system, which should provide the consumer with transparent, reliable and clear information on the collection of batteries and accumulators and the heavy metals they contain.
+
+(16) If, in order to achieve the objectives of this Directive, and, in particular, to achieve high separate collection and recycling rates, Member States use economic instruments, such differentiated tax rates, they should inform the Commission accordingly.
+
+(17) Reliable and comparable data on the quantities of batteries and accumulators marketed, collected and recycled are necessary for the monitoring of whether the objective of this Directive have been achieved.
+
+(18) Member States should lay down rules on the penalties applicable for infringements of the provisions of this Directive and ensure that they are implemented. Those penalties must be effective, proportionate and dissuasive.
+
+(19) The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission. [94]
+
+[94]  OJ L 184, 17.7.1999, p. 23.
+
+(20) Since the objectives of this Directive of protecting the environment and ensuring the proper functioning of the internal market cannot be sufficiently achieved by the Member States and can therefore, by reasons of the scale or effects of the action, be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+
+(21) This Directive applies without prejudice to Community legislation on safety, quality and health requirements and specific Community waste management legislation, in particular Directive 2000/53/EC of the European Parliament and Council of 18 September 2000 on end-of life vehicles [95] and Directive 2002/96/EC of the European Parliament and the Council of 27 January 2003 on waste electrical and electronic equipment. [96]
+
+[95]  OJ L 269, 21.10.2000, p. 34.
+
+[96]  OJ L 37/24 of 13.2.2003.
+
+(22) As regards producer responsibility, battery producers become responsible for further treatment after the removal of the battery from any separately collected end-of life vehicle or waste electrical and electronic equipment.
+
+(23) Directive 2002/95/EC on the restriction of hazardous substances in electrical and electronic equipment (RoHS Directive) does not apply to batteries used in electrical and electronic equipment.
+
+(24) Automotive and industrial batteries used in vehicles should meet the requirements of Directive 2000/53/EC, in particular Article 4 thereof. As regards the use of cadmium in industrial batteries for electrical vehicles, Annex II to Directive 2000/53/EC grants an exemption until 31 December 2005.
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Chapter I Subject-matter, scope and definitions
+
+Article 1
+
+Subject-matter
+
+This Directive establishes rules regarding the marketing of batteries and accumulators as well as the collection, treatment and recycling of spent batteries and accumulators.
+
+Article 2
+
+Scope
+
+1. This Directive shall apply to all types of batteries and accumulators, regardless of their shape, volume, weight, material composition or use.
+
+2. This Directive shall not apply to batteries and accumulators used in equipment connected with protection of essential interests of the security of Member States, including military material, or in arms and munitions intended for specifically military purposes.
+
+Article 3
+
+Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(1) "battery" means any source of electrical energy generated by direct conversion of chemical energy and consisting of one or more primary battery cells (non-rechargeable);
+
+(2) "accumulator" means any source of electrical energy generated by direct conversion of chemical energy and consisting of one or more secondary battery cells (rechargeable);
+
+(3) "battery pack" means any set of batteries or accumulators encapsulated in an outer casing into one complete unit, not intended to be opened by the consumer;
+
+(4) "portable battery or accumulator" means a battery or accumulator used in household applications, cordless power tools, emergency lighting and electrical and electronic equipment or other applications by either consumers or professional users;
+
+(5) "button cell or accumulator" means a small round battery or accumulator whose diameter is greater than its height and which is used for special purposes such as hearing aids, watches and small portable equipment;
+
+(6) "industrial battery or accumulator" means a battery or accumulator used for industrial purposes, for instance as standby or motive power and a battery or accumulator used for electrical vehicles;
+
+(7) "automotive battery or accumulator" means a battery or accumulator used for automotive starter, lighting or ignition power for vehicles;
+
+(8) "spent battery or accumulator" means a battery or accumulator which is waste within the meaning of Article 1 (a) of Directive 75/442/EEC;
+
+(9) "recycling" means the reprocessing in a production process of the waste materials for the original purpose or for other purposes, but excluding energy recovery;
+
+(10) "disposal" means any of the applicable operations provided for in Annex IIA to Directive 75/442/EEC;
+
+(11) "treatment" means any treatment of spent batteries and accumulators after they have been handed over to a facility for sorting, recycling, preparation for disposal, and any other operation carried out for the recycling or disposal of spent batteries and accumulators;
+
+(12) "appliance" means any electrical or electronic equipment as defined by Directive 2002/96/EC of the European Parliament and of the Council [97] which is fully or partly powered by batteries or accumulators or is capable of being so;
+
+[97]  OJ L 37 13.2.2003, p.24.
+
+(13) "producer" means any person who, irrespective of the selling technique used, including by means of distance communication according to Directive 97/7/EC on the protection of consumers in respect of distance contracts: [98]
+
+[98]  OJ L 144, 4.6.1997, p. 19.
+
+(a) manufactures and sells batteries or accumulators under his own brand;
+
+(b) resells batteries or accumulators under his own brand or incorporated into appliances;   or
+
+(c) imports or exports batteries, accumulators or appliances on a professional basis into a Member State.
+
+(14) "closed-loop system" means a system in which a spent battery or accumulator is taken-back by a producer, or a third parties acting on his behalf, in order to recycle its secondary materials, which will be re-used in the manufacturing of new products.
+
+Chapter II Product requirements
+
+Article 4
+
+Prevention
+
+1. Member States shall prohibit the marketing of all batteries or accumulators, whether or not incorporated into appliances, which contain more than 0.0005% of mercury by weight.
+
+2. Button cells, and batteries made up of button cells with a mercury content of no more than 2% by weight shall be exempt from the prohibition referred to in paragraph 1.
+
+Article 5
+
+Increased environmental performance
+
+Member States shall promote research into the possibility of increasing the overall environmental performance of batteries and accumulators throughout their entire life-cycle, and the marketing of batteries and accumulators which contain smaller quantities of dangerous substances or which contain less polluting substances, in particular as substitutes for mercury, cadmium and lead.
+
+Article 6
+
+Monitoring of the waste stream
+
+1. Member States shall ensure the monitoring of the quantities of spent portable nickel-cadmium batteries and accumulators disposed of in the municipal solid waste stream. A report on the results of the monitoring shall be drawn up on the basis of Table 1 in Annex I.
+
+2. Without prejudice to Regulation (EC) 2150/2002 on waste statistics [99], Member States shall establish the report every year, starting one year after the date referred to in Article 32(1) of this Directive and covering the whole of each calendar year. It shall be transmitted to the Commission no later than six months after the end of the year concerned.
+
+[99]  OJ L, 322 of 9.11.2002.
+
+3. The Commission shall establish detailed rules for the monitoring of the municipal solid waste stream as referred to in the previous paragraph, in accordance with the procedure referred to in Article 30.
+
+Chapter III Placing on the Market
+
+Article 7
+
+Placing on the market
+
+1. Member States shall not impede, prohibit or restrict the placing on the market in their territory of batteries or accumulators that meet the requirements of this Directive.
+
+2. Member States shall take the necessary measures to ensure that batteries or accumulators which do not meet the requirements of this Directive are not placed on the market or are withdrawn from it.
+
+Chapter IV Collection
+
+Article 8
+
+Promotion of a closed loop system
+
+Member States shall take the necessary measures to prevent the final disposal of spent batteries and accumulators and to aim at achieving a closed loop system for all spent batteries and accumulators.
+
+Article 9
+
+Collection schemes
+
+1. Member States shall ensure that:
+
+(a) schemes are set up under which spent portable batteries and accumulators can be returned free of charge and collection facilities are available and accessible, having regard to population density;
+
+(b) producers of industrial batteries and accumulators, or third parties acting on their behalf, take back from end-users spent industrial batteries and accumulators, regardless of chemical composition and origin;
+
+(c) producers of automotive batteries and accumulators, or third parties acting on their behalf, set up schemes for the collection of spent automotive batteries and accumulators, unless they are collected through the schemes referred to in Article 5(1) of Directive 2000/53/EC.
+
+2. Member States shall ensure that, when setting up the collection schemes, the negative external impacts of transport are taken into account.
+
+Article 10
+
+Individual or collective schemes
+
+Without prejudice to Article 9, Member States shall allow producers to set up individual or collective take-back schemes for spent batteries and accumulators, provided that those schemes are in conformity with this Directive.
+
+Article 11
+
+Prohibition of final disposal
+
+Member States shall prohibit the final disposal of industrial and automotive batteries and accumulators in landfills or by incineration.
+
+Article 12
+
+Economic instruments
+
+If Member States use economic instruments in order to promote the collection of spent batteries and accumulators or to promote the use of batteries containing less polluting substances, for instance by adopting differential tax rates, they shall notify the measures related to the implementation of those instruments to the Commission.
+
+Article 13
+
+Collection targets
+
+1. No later than four years after the date referred to in Article 32(1), Member States shall achieve a minimum average collection rate equivalent to 160 grams per inhabitant per year for all spent portable batteries and accumulators including portable nickel-cadmium batteries.
+
+By the same date, Member States shall achieve a specific minimum collection rate equivalent to 80% of total quantity of spent portable nickel-cadmium batteries and accumulators per year. The total quantity shall comprise portable nickel-cadmium batteries and accumulators collected annually through collection schemes as well as those disposed of annually in the municipal solid waste stream.
+
+2. A report on the results of the monitoring shall be drawn up on the basis of Table 2 in Annex I. Without prejudice to Regulation (EC) 2150/2002 on waste statistics, Member States shall establish the report every year, starting one year after the date referred to in Article 32(1) and covering the whole of each calendar year. It shall be transmitted to the Commission no later than six months after the end of the year concerned.
+
+Article 14
+
+Specific extensions and adaptations
+
+1. Member States may apply for an extension of the deadline to reach the collection targets referred to in Article 13 up to a maximum of 36 months, for reasons related to the specific situation of geographical circumstances such as the large number of small islands or the presence of rural and mountain areas and low population density.
+
+2. Member States having acceded to the European Union by virtue of Accession Treaties concluded after 1 January 2003, may also apply for an adaptation of the collection targets referred to in Article 13, because of the specific situation of a particular low level of battery consumption.
+
+3. If a Member State deems it necessary to introduce national measures based on the previous paragraphs, it shall notify the Commission of the envisaged national measures and the grounds for introducing them.
+
+4. The Commission shall, within six months of the notifications as referred to in paragraph 3, approve or reject the envisaged national measures after having verified that they are consistent with the conditions set out in paragraph 1 and 2 and do not constitute an arbitrary means of discrimination or a disguised restriction on trade between Member States.
+
+In absence of a decision by the Commission within this period, the envisaged national measures shall be deemed to have been approved.
+
+5. The Commission shall inform other Member States of these decisions.
+
+Chapter V Treatment and Recycling
+
+Article 15
+
+Treatment operations
+
+1. Member States shall ensure that producers, or third parties acting on their behalf, set up schemes, using the best available treatment and recycling techniques, to provide for the treatment of spent batteries and accumulators collected in accordance with Article 9.
+
+Member States shall ensure that, when setting up the treatment schemes, the negative external impacts of transport are taken into account.
+
+2. The treatment shall, as a minimum, include removal of all fluids and acids, and storage, even temporarily, in sites with impermeable surfaces and suitable weatherproof covering or in suitable containers.
+
+3. Producers may set up such schemes on an individual or collective basis.
+
+Article 16
+
+Exports
+
+1. Treatment may also be undertaken outside the Member State concerned or the Community provided that the shipment of spent batteries and accumulators is in compliance with Council Regulation (EEC) No 293/93. [100]
+
+[100]  OJ L 30, 6.2.1993, p. 1. Regulation as last amended by Commission Regulation 2557/2001/EC, OJ L 349, 31.12.2001, p. 1.
+
+Spent batteries and accumulators exported out of the Community in accordance with Council Regulation (EEC) No 259/93, Council Regulation (EC) No 1420/1999 [101] and Commission Regulation (EC) No 1547/1999/EC [102] shall count towards the fulfilment of the obligations and targets in Articles 18 and 19 of this Directive, only if the exporter declares that the recycling operation took place under conditions equivalent to the requirements of this Directive.
+
+[101]  OJ L 166, 1.7.1999, p. 6. Regulation as last amended by Commission Regulation 2243/2001/EC, OJ L 303, 20.11.2001, p. 11.
+
+[102]  OJ L 185, 17.7.1999, p. 1. Regulation as last amended by Commission Regulation 2243/2001/EC.
+
+2. The Commission shall establish detailed rules for the implementation of the previous paragraph, in accordance with the procedure laid down in Article 30.
+
+Article 17
+
+New recycling technologies
+
+1. Member States shall promote the development of new recycling and treatment technologies, and research into environmentally friendly and cost-effective recycling methods for all types of batteries and accumulators.
+
+2. Member States shall encourage treatment facilities to introduce certified environmental management schemes in accordance with Regulation (EC) 761/2001 [103] allowing voluntary participation by organisations in a Community eco-management and audit scheme (EMAS).
+
+[103]  OJ L 114, 24.04.2001, p.1.
+
+Article 18
+
+Recycling targets
+
+Member States shall ensure that, one year after the date referred to in Article 32(1), producers, or third parties acting on their behalf, achieve the following minimum recycling targets:
+
+(a) all portable batteries and accumulators collected in accordance with Article 9 enter a recycling process.
+
+(b) Member States may allow to exempt up to a maximum of 10% of the collected portable batteries and accumulators from the obligation referred to in point (a) for technical reasons;
+
+(c) all industrial and automotive batteries and accumulators collected in accordance with Article 9 enter a recycling process.
+
+Article 19
+
+Recycling efficiencies
+
+1. Member States shall ensure that, no later than three years after the date referred to in Article 32(1), producers, or third parties acting on their behalf, achieve the following minimum recycling efficiencies:
+
+(a) recycling of all the lead and a minimum of 65% by average weight of the materials contained in lead-acid batteries and accumulators;
+
+(b) recycling of all the cadmium and a minimum of 75% by average weight of the materials contained in nickel-cadmium batteries and accumulators.
+
+(c) recycling of 55% by average weight of the materials contained in other spent batteries and accumulators.
+
+2. Member States shall report annually on the recycling targets referred to in Article 18 as well as the recycling efficiencies, referred to in the previous paragraph, actually achieved in each calendar year, starting from the dates referred to in the previous paragraph.
+
+That information shall be submitted to the Commission no later than six months after the end of the year concerned.
+
+Chapter VI Common provisions on collection, treatment and recycling
+
+Article 20
+
+Schemes for portable batteries and accumulators
+
+1. Member States shall ensure that producers, or third parties acting on their behalf, arrange the financing for at least the treatment, recycling and sound disposal of all spent portable batteries and accumulators deposited at collection facilities set up under Article 9(1)(a).
+
+2. Member States shall ensure that producers comply with the previous paragraph by means of individual or collective schemes.
+
+Article 21
+
+Schemes for industrial and automotive batteries and accumulators
+
+1. Member States shall ensure that producers, or third parties acting on their behalf, arrange financing for the collection, treatment and recycling of spent industrial and automotive batteries and accumulators collected in accordance with Article 9(1)(b) and (c).
+
+2. Member States shall allow producers and users of industrial and automotive batteries and accumulators to conclude agreements under which other financing methods than the ones referred to in paragraph 1 can be used.
+
+Article 22
+
+Registration and Guarantee
+
+Member States shall take the necessary measures to ensure that, when placing a product on the market, each producer is registered and provides a guarantee, that the management of spent batteries and accumulators will be financed. The producer may provide a guarantee in the form of its participation in appropriate schemes for financing the management of spent batteries and accumulators, or of a recycling insurance, or of a blocked bank account.
+
+Article 23
+
+Historic waste
+
+1. Responsibility for meeting the costs of managing the spent batteries and  accumulators put on the market before entry into force of this Directive, historic waste, shall lie with producers.
+
+2. For industrial batteries and accumulators put on the market before the entry into force of the Directive and being replaced by equivalent products or by products fulfilling the same function, the financing of the management should be provided by the producers when supplying those new products. Member States may, as an alternative, provide that the final user also be partially or totally, responsible for this financing.
+
+3. For other industrial historical waste batteries, the financing of the costs shall be provided for by the industrial users.
+
+4. With regard to historic waste, Member States shall ensure that for a transitional period of four years after the date referred to in Article 32(1) producers are allowed, at the time of sale of new products, to show purchasers the costs of collection, treatment and recycling of all spent batteries and accumulators. The costs mentioned shall not exceed the actual costs incurred.
+
+Article 24
+
+Participation
+
+Member States shall ensure that all economic operators in the sectors concerned and all the competent public authorities may participate in the collection, treatment and recycling schemes referred to in Articles 9 and 15.
+
+These schemes shall also apply to products imported from third countries under non-discriminatory conditions, and shall be designed to avoid barriers to trade or distortions of competition.
+
+Chapter VII Consumer information
+
+Article 25
+
+Consumer information
+
+1. Member States shall ensure, in particular through information campaigns, that consumers are fully informed of:
+
+(a) the potential effects on the environment and human health of the substances used in batteries and accumulators;
+
+(b) the requirement not to dispose of spent batteries and accumulators as unsorted municipal waste and to collect such waste separately;
+
+(c) the collection and recycling schemes available to them;
+
+(d) their role in contributing to the recycling of spent batteries and accumulators;
+
+(e) the meaning of the symbol of the crossed-out wheeled bin and the chemical symbols Hg, Cd and Pb referred to in Annex II.
+
+2. On the basis of the collection rates achieved, Member States shall, if appropriate, adopt additional measures to ensure that consumers participate in the collection of spent batteries and accumulators and to discourage them from the final disposal of such waste.
+
+Article 26
+
+Economic operators
+
+Member States may require that some or all the information referred to in Article 25 be provided by economic operators, in particular those involved in the manufacture, distribution and sale of batteries and accumulators.
+
+Chapter VIII Marking requirements
+
+Article 27
+
+Labelling
+
+1. Member States shall ensure that all batteries, accumulators and battery packs are appropriately marked with the symbol shown in Annex II in accordance with the technical specifications laid down in that Annex.
+
+In exceptional cases, where this is necessary because of the size or function of the battery or accumulators, the symbol may be printed on the packaging.
+
+2. The Commission shall amend Annex II in order to adapt to technical progress, in accordance with the procedure referred to in Article 30
+
+Chapter IX Final provisions
+
+Article 28
+
+National implementation reports
+
+1. Member States shall send the Commission a report on the implementation of this Directive every three years. The reports shall be drawn up on the basis of a questionnaire or outline established by the Commission in accordance with the procedure laid down in Article 30. The questionnaire or outline shall be sent to the Member States six months before the start of the period covered by the report.
+
+2. The report shall be made available to the Commission no later than nine months after the end of the three-year period concerned. The first report shall cover the three-year period starting on the date referred to in Article 32(1).
+
+Article 29
+
+Review
+
+1. The Commission shall publish a report on the implementation of this Directive and on the impact of this Directive on the environment as well as on the functioning of the internal market no later than nine months after receiving the reports from the Member States. This report shall include an evaluation on the following aspects of the Directive:
+
+(a) The appropriateness of further risk management measures for batteries and accumulators containing heavy metals, taking into account the reporting obligation of the Member States referred to in Article 6
+
+(b) The appropriateness of the minimum collection target for all spent portable batteries and accumulators and the additional collection target for spent portable nickel-cadmium batteries and accumulators set out in Article 13, taking into account the information provided by the Member States on the basis of Article 6, technical progress and practical experience gained in the Member States.
+
+(c) The appropriateness of the minimum recycling targets and recycling efficiencies set out in Articles 18 and 19, taking into account the information provided by the Member States, technical progress and practical experience gained in the Member States.
+
+2. The Commission shall publish the report in the Official Journal. The report shall, where necessary, be accompanied by proposals for revision of the related provisions of this Directive.
+
+Article 30
+
+Committee procedure
+
+1. The Commission shall be assisted by the Committee set up under Article 18 of Directive 75/442/EEC. [104]
+
+[104]  OJ L 377, 31.12.1991, p. 48.
+
+2. Where reference is made to this Article, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to Article 8 thereof. The period laid down in Article 5(6) of Decision 1999/468/EC shall be three months.
+
+Article 31
+
+Penalties
+
+Member States shall lay down the rules of penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all the necessary measures to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. The Member States shall notify those provisions to the Commission by the date specified in Article 32 at the latest and shall notify it without delay of any subsequent amendment affected them.
+
+Article 32
+
+Transposition
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive at the latest 18 months after entry into force of this Directive. They shall forthwith communicate to the Commission the text of those provisions and a correlation between those provisions and this Directive.
+
+2. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+3. Member States shall communicate to the Commission the text of all existing laws, regulations and administrative provisions adopted in the field covered by this Directive.
+
+Article 33
+
+Voluntary agreements
+
+Provided that the objectives set out in this Directive are achieved, Member States may transpose the provisions set out in Articles 6, 9, 16, 25, 26 and 27 by means of agreements between the competent authorities and the economic operators concerned. Such agreements shall meet the following requirements:
+
+(a) they shall be enforceable;
+
+(b) they must specify objectives with the corresponding deadlines;
+
+(c) they must be published in the national official journal or an official document equally accessible to the public and transmitted to the Commission;
+
+(d) the results achieved must be monitored regularly, and reported to the competent authorities and the Commission, and made available to the public under the conditions set out in the agreement;
+
+(e) the competent authorities shall ensure that the progress reached under the agreement is examined;
+
+(f) in cases of non-compliance with the agreements, Member States shall implement the relevant provisions of this Directive by legislative, regulatory or administrative measures.
+
+Article 34
+
+Repeal
+
+Directive 91/157/EEC is repealed with effect from the date referred to in Article 32(1) of entry into force of this Directive.
+
+References to Directive 91/157/EEC shall be construed as references to this Directive.
+
+Article 35
+
+Entry into force
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+Article 36
+
+Addressees
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+ANNEX I
+
+Table 1 Monitoring the quantity of spent portable nickel-cadmium batteries and accumulators in the municipal solid waste stream in accordance with Article 6
+
+Year   //
+
+Country  //
+
+Total quantity in tonnes of municipal solid waste arising in the year   //
+
+Monitoring method used  //
+
+Contact details of the independent expert body approving the monitoring method  //
+
+Quantity in tonnes of municipal solid waste monitored in the year   //
+
+Quantity in tonnes of spent portable nickel-cadmium batteries and accumulators found in the waste monitored in the year   //
+
+Total quantity in tonnes of spent portable nickel-cadmium batteries and accumulators discarded in the municipal solid waste stream in the year   //
+
+Table 2: Monitoring of compliance with the collection targets in accordance with Article 13
+
+Year   //
+
+Country   //
+
+Number of inhabitants  //
+
+Total quantity in tonnes of spent portable batteries and accumulators collected separately in the year   //
+
+Collection rate achieved for the total quantity of spent portable batteries and accumulators in grams/inhabitant  //
+
+Total quantity in tonnes of spent portable nickel-cadmium batteries and accumulators collected separately in the year (A)  //
+
+Total quantity in tonnes of spent portable nickel-cadmium batteries and accumulators discarded in the municipal solid waste stream in the year (B)  //
+
+Collection rate achieved for the portable nickel-cadmium batteries and accumulators expressed as a % of A+B (%= A/(A+B) x 100)  //
+
+ANNEX II
+
+SYMBOLS AND TECHNICAL SPECIFICATIONS FOR THE MARKING OF BATTERIES, ACCUMULATORS AND BATTERY PACKS FOR SEPARATE COLLECTION
+
+1. The symbol indicating "separate collection" for all batteries and accumulators shall be the crossed-out wheeled bin shown below:
+
+&gt;REFERENCE TO A GRAPHIC&gt;
+
+2. Batteries, accumulators and button cell containing more than 0.0005% mercury, more than 0.025% cadmium or more than 0.4% lead by weight, shall be marked with the chemical symbol for the metal concerned: Hg, Cd or Pb. The symbol indicating the heavy metal content shall be printed beneath the symbol in paragraph 1 of this Annex and shall cover an area of at least one quarter the size of that symbol.
+
+3. The symbol in paragraph 1 of this Annex shall cover 3% of the area of the largest side of the battery, accumulator or battery pack, up to a maximum size of 5 x 5 cm. In the case of cylindrical cells, the symbol shall cover 1.5% of the surface area of the battery or accumulator and shall have a maximum size of 5 x 5 cm.
+
+4. Where the size of the battery, accumulator or battery pack is such that the symbol would be smaller than 0.5 x 0.5 cm, the battery, accumulator or battery pack need not be marked but a symbol measuring 1 x 1 cm shall be printed on the packaging.
+
+5. The symbols shall be printed visibly, legibly and indelibly.

@@ -1,0 +1,160 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 51998PC0414(01) - EN
+
+Avis juridique important
+
+|
+
+51998PC0414(01)
+
+Proposal for a Council Directive amending Council Directive 92/106/EEC on the establishment of common rules for certain types of combined transport of goods between Member States  /* COM/98/0414 final - SYN 98/0226 */
+
+Official Journal C 261 , 19/08/1998 P. 0010
+
+Proposal for a Council Directive amending Council Directive 92/106/EEC on the establishment of common rules for certain types of combined transport of goods between Member States (98/C 261/06) (Text with EEA relevance) COM(1998) 414 final - 98/0226(SYN)
+
+(Submitted by the Commission on 10 July 1998)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Articles 75 and 84(2) thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the Economic and Social Committee,
+
+Acting in accordance with the procedure set out in Article 189c of the Treaty, in cooperation with the European Parliament,
+
+Whereas Council Directive 92/106/EEC of 7 December 1992 on the establishment of common rules for certain types of combined transport of goods between Member States (1), prolongs and establishes measures to encourage the development of combined transport;
+
+	
+Whereas all workers, including those in the transport sector, benefit from having a collectively agreed minimum uninterrupted rest period, as laid down in Directive 93/104/EC;
+
+Whereas the existing measures in favour of the performance and the competitive position of combined transport have insufficient impact, and should be improved to encourage the transfer of goods from road transport to modes which are more environmentally friendly, safer, more energy efficient and cause less congestion, like rail, inland waterways and maritime transport for as long a part of the journey as possible;
+
+	
+Whereas the poor position of combined transport results mainly from variations in the services provided by railway undertakings and from the level of transhipment (terminal) costs;
+
+Whereas in conformity with the principle of proportionality as set out in Article 3b of the Treaty, the most efficient solution for improving the competitive position of combined transport as whole without distorting competition between the Member States is to broaden the scope of Directive 92/106/EEC;
+
+Whereas it is necessary to amend the definition of combined transport to bring it into line with the scope of the Treaty and to ensure that the road section of combined transport is as short as possible; whereas it is also needed to avoid inclusion of certain deep-sea transport and short-distance ferry operations in the definition of combined transport as these kinds of transport are not a substitute for road-transport operations;
+
+Whereas combined transport uses roads less than single-mode road transport because for long haul the goods are not carried by road, reimbursements or reductions of certain taxes and charges are justified;
+
+Whereas, in recognition of the fact that inland waterways and short-sea shipping can also contribute to sustainable transport, reimbursements or reductions of certain taxes and charges should be extended to all types of combined transport operations;
+
+
+HAS ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Directive 92/106/EEC is amended as follows:
+
+1. Article 1 is replaced by the following:
+
+'Article 1
+
+1. "Combined transport" means the transport of goods to or from or within a Member State where the lorry, trailer, semi-trailer, with or without tractor unit, swap body or container of 20 feet or more uses in successive sections several modes of transport, among which are rail and/or inland waterway and/or maritime services and/or road, provided that:
+
+- the distance travelled by road is as short as possible and not more than 40% of the total kilometres of the journey,
+
+- there is an equivalent road transport possible for the sea or inland waterway section.
+
+2. The waterborne transport section of which more than half is unavoidable in a commercially viable transport operation, such as a deep-sea shipment or a short-distance ferry crossing, is excluded from the scope of application of this Directive.
+
+3. Subject to international agreements concluded with non-member countries, combined transport operations that involve a voyage partly within the Community and partly within the territory of a non-member country or non-member countries are covered by this Directive.
+
+4. A Member State may extend the rights and obligations, which derive from this Directive to all other combined transport operations as defined in its national legislation, in so far as such combined transport operations take place on its territory.
+
+5. A Member State may limit the rights deriving from this Directive in case of a road section of over 100 km that only transits its territory`.
+
+2. Article 2 is replaced by the following:
+
+'Article 2
+
+Except where otherwise provided in this Directive, all Community rules on access to the market and to the profession for the carriage of goods by road (*) and rules applicable to the transport of goods by road vehicles shall apply to the road legs of combined transport`.
+
+(*) - Council Regulation (EEC) No 881/92 of 26 March 1992 concerning access to the market (OJ L 95, 9.4.1992, p. 1),
+
+- Council Regulation (EEC) No 3118/93 of 25 October 1993 concerning cabotage (OJ L 279, 12.11.1993, p. 1),
+
+- Council Directive 96/26/EC of 29 April 1996 concerning admission to the occupation (OJ L 124, 23.5.1996, p. 1).
+
+3. Article 3 is replaced by the following:
+
+'Article 3
+
+Proof that the road leg of a journey is part of combined transport has to be given on demand to the competent authorities. It shall consist of a completed combined transport bill of lading or of another combined transport document that contains evidence to show that the transport operation is carried out in conformity with the above definition of combined transport. The route, including the points where the goods are loaded or unloaded for the road section for which benefits are claimed as well as all transhipment terminals, shall be specified`.
+
+4. Article 4 is deleted.
+
+5. In Article 5 paragraph 1 'two' is replaced by 'three' and in paragraph 2 the second and third indents are replaced by the following:
+
+'- the number of vehicles, swap bodies and containers expressed in 20-foot equivalent units`.
+
+6. Article 6(1) is replaced by the following:
+
+'1. Member States shall take the measures necessary to ensure that the taxes and user charges mentioned in paragraph 3 which are applicable to road vehicles (lorries, tractors, trailers or semi-trailers), when engaged regularly in combined transport as defined in Article 1, are reduced or reimbursed by a standard amount or exempted according to the following rules: (rest unchanged)
+
+- the reduction or reimbursement of vehicle taxes referred to in the first paragraph shall be granted by the State in which the vehicle is registered at an amount of at least ECU 18 when a combined transport terminal is used in its territory,
+
+- in case of a weekly, monthly or yearly user charge listed in paragraph 3, the Member State where this charge is paid shall grant a rebate of a daily rate of this charge on each occasion when a combined transport terminal is used in its territory,
+
+- in case of a daily user charge, the Member State where such a charge would be due shall exempt the vehicle from this charge when a combined transport terminal is used in its territory,
+
+- however, over a certain period of time the tax reductions or reimbursements and the rebate of the user charge shall be limited to the amount of the vehicle tax or user charge that otherwise would be applicable for the tractor unit and any other vehicle involved in the combined transport`.
+
+7. The following indents are added to Article 6(3):
+
+'- Austria:
+
+Kraftfahrzeugsteuer
+
+- Finland:
+
+(a) Moottoriajoneuvovero
+
+(b) Vuosittainsuotittetava ajoneuvorero
+
+- Sweden:
+
+Vagtrafikskatt
+
+- the user charges as defined in Articles 2 and 7 of Directive 93/89/EEC (*).
+
+(*) Council Directive 93/89/EEC of 25 October 1993 on the application by Member States of taxes on certain vehicles used for the carriage of goods by road and tolls and charges for the use of certain infrastructures (OJ L 279, 12.11.1993, p. 32).`
+
+7a. The following Article 6(4) is inserted:
+
+'(4) Member States may, at their own discretion and on the basis of the use of terminals on their territory, reduce or reimburse the taxes specified in paragraph 3 that are applied to vehicles used in combined transport operations other than those referred to in paragraphs 1 and 2.
+
+Instead of reducing or reimbursing the taxes specified in paragraph 3, Member States may also provide for appropriate financial incentives.
+
+Such reductions or reimbursement of taxes and financial incentives shall, however, be limited to an amount corresponding to the amount of tax normally applicable to tractor units or any other vehicles engaged in combined transport.'
+
+8. The following Article 9a is inserted:
+
+(*) Council Directive 70/157/EEC of 6 February 1970, concerning permissible sound levels (OJ L 42, 23.2.1970, p. 16).
+
+(**) Council Directive 96/62/EC on ambient air quality.
+
+(***) Council Directive 88/77/EEC of 3 December 1987 concerning emissions from diesel engines for vehicles (OJ L 36, 9.2.1988, p. 33).`
+
+Article 2
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 July 2000. They shall immediately inform the Commission thereof.
+
+2. When Member States adopt these measures, they shall contain a reference to this Directive or shall make such a reference on the occasion of their official publication. Member States shall lay down the methods of making such a reference.
+
+3. Member States shall communicate to the Commission the provisions of domestic law which are in force or which they adopt in the field covered by this Directive.
+
+Article 3
+
+The present Directive shall enter into force on the 20th day after its publication in the Official Journal of the European Communities.
+
+Article 4
+
+This Directive is addressed to the Member States.
+
+(1) OJ L 368, 17.12.1992, p. 38.

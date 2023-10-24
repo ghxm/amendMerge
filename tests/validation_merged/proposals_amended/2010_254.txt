@@ -1,0 +1,571 @@
+EUR-Lex - 52010PC0490 - EN
+
+|
+
+52010PC0490
+
+/* COM/2010/0490 final - COD 2010/0254 */  Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Council Directive 2001/112/EC relating to fruit juices and certain similar products intended for human consumption
+
+ | EUROPEAN COMMISSION |
+
+Brussels, 21.9.2010
+
+COM(2010) 490 final
+
+2010/0254 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Council Directive 2001/112/EC relating to fruit juices and certain similar products intended for human consumption
+
+EXPLANATORY MEMORANDUM
+
+Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption lays down rules governing the composition, use of reserved descriptions, manufacturing specifications and labelling of the products concerned, in order to ensure their free movement within the European Union.
+
+Commission Directive 2009/106/EC of 14 August 2009[1] is the first amendment to Directive 2001/112/EC. It introduces minimum Brix values (soluble dry matter content) for 18 reconstituted fruit juices and reconstituted fruit purées and specifies the sales name to be used for fruit juice from concentrate. This amendment of the directive is based on revised international standards, in particular the Codex Alimentarius for fruit juices and nectars (Codex Stan 247-2005) and the Code of Practice of the European Fruit Juice Association (AIJN).
+
+The present draft directive, a Directive of the Parliament and of the Council, is the second measure amending Directive 2001/112/EC and is aimed at incorporating more of the provisions of the Codex Alimentarius standard, while also taking account of the AIJN Code of Practice. This draft directive, which is technical in nature, reaffirms the distinction between fruit juice and fruit juice from concentrate, simplifies the provisions on the restitution of flavour and aroma, provides for the removal of sugar from the list of authorised ingredients and includes tomatoes in the list of fruits used for fruit juice production.
+
+The European Union's fruit juice market represents 10% of the total consumption of non-alcoholic drinks. With regard to the segmentation of this market, the production of fruit juice from concentrate is predominant as compared to juice produced directly (respectively 87.6% and 12.4%). At the level of the world fruit juice market, the only product in which there is significant trade is fruit and fruit juice concentrate (especially orange juice), which for the most part comes from Brazil. As for juice produced directly, the countries of the European Union are essentially supplied by the Spanish market and also from Brazil.
+
+The proposed Directive has no impact on the budget of the European Union.
+
+This proposed directive will follow the ordinary legislative procedure provided for by the Treaty on the Functioning of the European Union. It will take account, as of now, of the redefinition of the competences of the Commission (Articles 290/291 of the Treaty). Consequently, it will amend Articles 7 and 8 of the current directive by including all implementing measures in the category of delegated acts.
+
+2010/0254 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Council Directive 2001/112/EC relating to fruit juices and certain similar products intended for human consumption
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national Parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee[2],
+
+Having regard to the opinion of the Committee of the Regions[3],
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1) In order to protect the interests of consumers and provide them with as much information as possible, to ensure that fruit juice are clearly labelled and consumers are able to distinguish between types of products and to enhance the free movement of fruit juices and certain similar products within the European Union, Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption1 has laid down specific provisions regarding production, composition and labelling of the products concerned. The concepts should be clarified and clearly differentiated and categories established in order to adapt those rules to technical progress and take account of developments in relevant international standards, in particular the Codex Standard for fruit juices and nectars (Codex Stan 247-2005) which was adopted by the Codex Alimentarius Commission during its 28th session on 4-9 July 2005 and the Code of Practice of the European Fruit Juice Association (AIJN).The criteria laid down in this Directive should apply equally to products manufactured in the Union and to imported products.
+
+2.  The above Codex Standard establishes in particular quality factors and labelling requirements for fruit juices and similar products. The AIJN Code of Practice also establishes quality factors for fruit juice from concentrate and is internationally used as a reference standard for self-regulation in the fruit juice industry. Directive 2001/112/EC should be brought into line, as far as possible, with those standards.
+
+(3) Without prejudice to Directive 2000/13/EC of the European Parliament and of the Council of 20 March 2000 on the approximation of the laws of the Member States relating to the labelling, presentation and advertising of foodstuffs1, it is necessary to amend the specific provisions of Directive 2001/112/EC on the labelling of fruit juices and similar products to reflect the new rules on authorised ingredients, such as those relating to the addition of sugars no longer authorised in fruit juices. There should be a ban on the use of misleading or ambiguous descriptions such as ‘natural juice’, which suggest that juices have been produced directly from fruit, where this is not the case.
+
+(3a) The words ‘with no added sugar’ have been used in relation to fruit juice for a very long time. Their disappearance from one day to the next may mislead consumers, prompting them to turn to other drinks that do feature such a statement. Provision should therefore be made, for a limited time, for a derogation to enable the industry to inform consumers properly.
+
+4.  The Commission should be empowered to adopt delegated acts in accordance with Article 290 of the Treaty on the Functioning of the European Union in respect of the adaptation of the non-essential elements of Directive 2001/112/EC to technical progress and last developments in relevant international standards. The delegation of powers should be explicitly defined.
+
+5.  Directive 2001/112/EC should be amended accordingly,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1 Amendment of Directive 2001/112/EC
+
+Directive 2001/112/EC is amended as follows:
+
+(1) In Article 3, paragraphs 3 and 4 are replaced by the following:
+
+3. For products manufactured from two or more fruits, except where lemon and lime juice are used under the conditions laid down in Part II.2 of Annex I, the product names shall be supplemented by a list of the fruits used, in descending order of the volume of the fruit juices or purées included. However, in the case of products manufactured from three or more fruits, the indication of the fruits used may be replaced by the words “several fruits” or a similar wording, or by the number of fruits used. In any event, all fruits used must be indicated in the ingredients list in descending order of volume, and followed by the quantity, expressed as a percentage, in accordance with Regulation (EU) No […] of the European Parliament and of the Council on the provision of food information to consumers.
+
+ 
+
+If any fruit is mentioned in the product name, the principal name of the product shall correspond to its dominant fruit.
+
+3a. Pictorial representations on the package shall not mislead the consumer as to the actual composition of the juice.
+
+4. Nectars and specific products of Annex III may be sweetened by the addition of sugars, honey or sweeteners. In such cases, the addition shall be clearly indicated in the list of ingredients, as stipulated under current legislation, specifying the maximum quantity of sugar added, calculated as dry matter and expressed in grams per litre. In the case of honey, except natural honey, its full composition and/or its glucose content shall be listed .
+
+4a. In order to help consumers differentiate between juice and nectar in terms of their sugar content, the term 'without added sugar' shall be allowed for fruit juices included in Part I, point 1 of Annex I, in accordance with Regulation (EC) No 1924/2006 of the European Parliament and of the Council on nutrition and health claims made on foods1. By [five years after the entry into force of this Directive], the use of this wording shall be reviewed .
+
+4b. In the case of fruit juices reconstituted from concentrates, product names shall contain the words ‘from concentrate’ or ‘juice reconstituted from concentrate’, in characters at least half the size of those used for the name of the fruit juice.
+
+4c. Checks must be in place to ensure that no fruit seeds are present in the final juice product. In cases where seeds may be present in the final juice product, they shall be clearly labelled indicating the possible presence of seeds.
+
+5..The addition to fruit juice of extra pulp or cells as defined in point 7 of Annex II shall be indicated on the labelling.
+
+
+
+(2) Article 4 is replaced by the following:
+
+"Article 4
+
+The labelling of concentrated fruit juice referred to in Annex I, Part I, point 2, not intended for delivery to the final consumer, shall bear a reference indicating the presence and quantity of added lemon juice, lime juice or acidifying agents permitted by Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives. This reference shall appear on the packaging. It shall be prohibited to use misleading or ambiguous descriptions such as ‘natural juice’, which suggest that juices have been produced directly from fruit when this is not the case.
+
+
+
+* OJ L 354, 31.12.2008, p. 16."
+
+2a. In Article 5, the following paragraph 1a is inserted:
+
+ 
+
+‘This Directive shall apply to the products manufactured in or imported into the European Union referred to in Annex I.’
+
+2b. The following is inserted:
+ 
+
+Article 6a
+ 
+
+Information campaigns
+ 
+
+The Commission and the Member States shall carry out information campaigns, both generally and at sales points, in order to inform consumers of the different categories of juices and similar products introduced by this Directive.
+
+
+(3) Article 7 is replaced by the following:
+
+" Article 7
+
+In order to bring this Directive in line with technical progress and to take account of developments in relevant international standards, the Commission may by means of delegated acts adapt the Annexes, as required, except for Part I of Annex I, Part II, point 2 (authorised ingredients) of Annex I, and Annex II.
+
+
+Where delegated powers are conferred upon the Commission, it shall act in accordance with the procedure set out in Article 7 a ."
+
+(4) The following Article 7 a is inserted:
+
+"Article 7a
+
+1. The powers to adopt delegated acts referred to in this Directive shall be conferred on the Commission for a period of five years after the deadline for transposition of this Directive. In the event of no reason arising or explicit request being made to change specific aspects of this Directive, this period shall be taken to be extended.
+
+
+
+As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+2. The delegation of power referred to in paragraph 1 may be revoked at any time by the European Parliament or by the Council.
+
+The institution which has commenced an internal procedure for deciding whether to revoke the delegation of powers shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated powers which could be subject to revocation and possible reasons for a revocation.
+
+The decision of revocation shall put an end to the delegation of the powers specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the Official Journal of the European Union .
+
+The European Parliament or the Council may object to a delegated act within a period of two months from the date of notification. At the initiative of the European Parliament or the Council this period shall be extended by two months.
+
+If, on expiry of that period, neither the European Parliament nor the Council has objected to the delegated act it shall be published in the Official Journal of the European Union and shall enter into force at the date stated therein.
+
+The delegated act may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+If the European Parliament or the Council objects to a delegated act, it shall not enter into force. The institution which objects shall state the reasons for objecting to the delegated act."
+
+Article 2a
+
+ 
+
+Transitional period
+
+ 
+
+There shall be an 18-month transitional period starting from the date of transposition of the Directive, in order to clear existing stocks already on the market and provide a period in which to adapt to the new legislation.
+
+(5) Article 8 is repealed.
+
+(6) The Annexes are replaced by the text set out in the Annex to this Directive.
+
+Article 2 Transposition
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive18 months following its entry into force at the latest. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article 3 Entry into force
+
+This Directive shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union .
+
+Article 4 Addressees
+
+This Directive is addressed to the Member States.
+
+Done, […]
+
+For the European Parliament For the Council
+
+The President The President […] […]
+
+ANNEX " ANNEX I
+
+PRODUCT NAMES, DEFINITIONS OF PRODUCTS AND CHARACTERISTICS
+
+I DEFINITIONS
+
+1. a) Fruit juice
+
+The fermentable but unfermented product obtained from the edible part of fruit which is sound and ripe, fresh or preserved by chilling or freezing of one or more kinds mixed together having the characteristic colour, flavour and taste typical of the juice of the fruit from which it comes.
+
+Flavour, pulp, and cells from the juice which are separated during processing may be restored to the same juice. This provision shall not apply to the flavour restoration of pineapples, grapes and tomatoes, considering the technological impossibility of this process.
+
+
+In the case of citrus fruits, the fruit juice must come from the endocarp. Lime juice, however, may be obtained from the whole fruit.
+
+Some juices may be processed from fruits with pips, seeds and peel, which are not usually incorporated in the juice; where necessary, however, parts or components of pips, seeds and peel, which cannot be removed by good manufacturing practices are accepted.
+
+The mixing of fruit juice with fruit purée is authorised in the production of the fruit juice.
+
+b) Fruit juice from concentrate
+
+The product obtained by restoring to the concentrated fruit juice water extracted from that juice during concentration, and restoring the flavour and, if appropriate, pulp and cells lost from the juice. The water added must display appropriate characteristics, particularly from the chemical, microbiological and organoleptic viewpoints, in such a way as to guarantee the essential qualities of the juice.
+The solids content of the finished product shall meet the minimum Brix level for reconstituted juice specified in Annex V.
+
+If a juice from concentrate is manufactured from a fruit not mentioned in Annex V, the minimum Brix level of the reconstituted juice shall be the Brix level of the juice as extracted from the fruit used to make the concentrate.
+
+
+Flavour, pulp and cells obtained by suitable physical means from the same species of fruit may be restored to the juice. Where flavour is restored, the addition of flavour must feature on the label of the fruit juice product.
+
+The juice is prepared by suitable processes, which maintain the essential physical, chemical, organoleptical and nutritional characteristics of an average type of juice of the fruit from which it comes.
+
+The mixing of fruit juice and/or concentrated fruit juice with fruit purée and/or concentrated fruit purée is authorised in the production of fruit juice from concentrate.
+
+2. Concentrated fruit juice
+
+The product obtained from fruit juice of one or more species by the physical removal of a specific proportion of the water content. Where the product is intended for direct consumption, that removal shall be of at least 50%.
+
+Flavour, pulp and cells obtained by suitable physical means from the same species of fruit may be restored to the fruit juice concentrates.
+
+3. Water extracted fruit juice
+
+The product obtained by diffusion with water of:
+
+-  pulpy whole fruit whose juice cannot be extracted by any physical means, or
+
+-  dehydrated whole fruit.
+
+Such products may be concentrated and reconstituted. The solids content of the finished product shall meet the minimum Brix level for reconstituted juice specified in Annex V.
+
+4. Dehydrated/powdered fruit juice
+
+The product obtained from fruit juice of one or more species by the physical removal of virtually all the water content.
+
+5. Fruit nectar
+
+The fermentable but unfermented product obtained by adding water, with or without the addition of sugars and/or honey to the products defined in Parts I.1, I.2, I.3 and I.4, to fruit purée and/or to concentrated fruit purée and/or to a mixture of those products, that product, moreover, meeting the requirements of Annex IV.
+
+Where fruit nectars are manufactured without added sugar or with low energy value, sugars may be replaced wholly or partially by sweeteners, in accordance with Regulation (EC) No 1333/2008.
+
+Flavour, pulp and cells obtained by suitable physical means from the same species of fruit may be restored to the fruit nectar.
+
+II. AUTHORISED INGREDIENTS, TREATMENTS AND SUBSTANCES
+
+1. Composition
+
+The species corresponding to the botanical name in Annex V shall be used in the preparation of fruit juices, fruit purées and fruit nectars bearing the product name for the applicable fruit or the commonly used name of the product. In fruit species not included in Annex V, the correct botanical or common name shall apply.
+
+For fruit juice the Brix level shall be the one of the juice as extracted from the fruit and shall not be modified, except by blending with the juice of the same species of fruit.
+
+The minimum Brix level is established in Annex V exclusive of the solids of any added optional ingredients and additives.
+
+2. Authorised ingredients
+
+-  The addition of vitamins and minerals authorised in Regulation (EC) No 1925/2006 of the European Parliament and of the Council of 20 December 2006 on the addition of vitamins and minerals and of certain other substances to foods** is allowed.
+
+-  Flavour, pulp and cells restored to fruit juice, nectars, fruit juices from concentrate and concentrated fruit juices may be recovered from the same species of fruit.
+
+-  For grape juice only, salts of tartaric acids may be restored.
+
+-  The addition of sugars and/or honey is authorised only in nectars (up to 20% of the total weight of the finished products) and in some specific products of Annex III.
+
+-  For products defined in Parts I.1, I.2, I.3, I.4 and I.5, in order to regulate acidic taste, the addition of lemon and/or lime juice and/or concentrated lemon and/or lime juice, up to 3 g per litre of juice, expressed as anhydrous citric acid is authorised.
+
+-  Carbon dioxide, as an ingredient, is authorised.
+
+– Where the product contains added carbon dioxide, the term ‘carbonated’ or ‘sparkling’ shall appear on the label near the name of the product.
+
+- Juice obtained from Citrus reticulata and/or Citrus reticulata hybrids may be added to orange juice in a proportion not exceeding 10 % of soluble Citrus reticulata solids in relation to the total amount of soluble orange juice solids. Any such addition must be mentioned in the list of ingredients, as already stipulated by the legislation in force.
+
+Salt, spices and aromatic herbs may be added to tomato juice and tomato juice from concentrate.
+
+The addition of both sugars and lemon or lime juice, whether concentrated or not, or acidifying agents as permitted by Regulation (EC) No 1333/2008 to the same product is prohibited for specific products covered by Annex III.
+
+3. Authorised treatments and substances
+
+-  Mechanical extraction processes.
+
+-  The usual physical processes, including in-line water extraction (diffusion) of the edible part of fruits other than grapes for the manufacture of concentrated fruit juices, provided that the concentrated fruit juices thus obtained comply with Part I.1.
+
+-  For grape juice, where sulfitation with sulphur dioxide of the grapes has been used, desulfitation by physical means is authorised, provided that the total quantity of SO2 present in the final product does not exceed 10 mg/l.
+
+-  Enzyme preparations: pectinases (for breakdown of pectin), proteinases (for breakdown of proteins) and amylases (for breakdown of starch) meeting the requirements of Regulation (EC) No 1332/2008.
+
+-  Edible gelatine,
+
+-  Tannins,
+
+-  Silicasol,
+
+-  Charcoal,
+
+-  Nitrogen,
+
+-  Adsorbent clays (bentonite).
+
+-  Chemically inert filtration aids and precipitation agents (e.g. perlite, washed diatomite, cellulose, insoluble polyamide, polyvinylpolypyrrolidone, polystyrene), which comply with Regulation (EC) No 1935/2004 the European Parliament and of the Council of 27 October 2004 on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC***.
+
+-  Chemically inert adsorption aids which comply with the Directives on materials and articles intended to come into contact with foodstuffs, and which are used to reduce the limonoid and naringin content of citrus juice without significantly affecting the limonoid glucosides, acid, sugar (including oligosaccharides) or mineral content.
+
+* OJ L 330, 5.12.1998, p. 32.
+
+** OJ L 404, 30.12.2006, p. 26.
+
+*** OJ L 338, 13.11.2004, p. 4.
+
+ANNEX II
+
+DEFINITIONS OF RAW MATERIALS
+
+For the purposes of this Directive, the following definitions shall apply:
+
+1. Fruit
+
+The fruit must be sound, appropriately mature, and fresh or preserved by physical means or by treatments, including post-harvest treatments, applied in accordance with the applicable provisions in force in the European Union.
+
+
+
+For the purposes of the present Directive, tomato is also considered as a fruit.
+
+2. Fruit purée
+
+The fermentable but unfermented product obtained by suitable physical processes such as sieving, grinding, milling the edible part of whole or peeled fruit without removing the juice.
+
+3. Concentrated fruit purée
+
+The product obtained from fruit purée by the physical removal of a specific proportion of its water content.
+
+Concentrated fruit purée may have restored flavour which shall be obtained by suitable physical means, as defined in Part II.3 and all of which must be recovered from the same species of fruit.
+
+4. Flavour
+
+Without prejudice to Regulation (EC) No 1334/2008, flavours for restoration are obtained during the processing of the named fruit by applying suitable physical processes. These physical processes may be applied to retain, preserve or stabilize the flavour quality and include in particular squeezing, extraction, distillation, filtration, adsorption, evaporation, fractionation and concentration.
+
+Flavour is obtained from the edible parts of the fruit; however it could also be cold pressed oil from citrus peel and compound from the stones.
+
+5. Sugars
+
+-  sugars as defined by Council Directive 2001/111/EC*,
+
+-  fructose syrup,
+
+-  sugars derived from fruits.
+
+6. Honey
+
+The product defined by Council Directive 2001/110/EC**.
+
+7. Pulp or cells
+
+The products obtained from the edible parts of fruit of the same species without removing the juice. Furthermore, for citrus fruit, pulp or cells are the juice sacs obtained from the endocarp.
+
+* OJ L 10, 12.1.2002, p. 53.
+
+** OJ L 10, 12.1.2002, p. 47.
+
+ANNEX III
+
+PARTICULAR DESIGNATIONS FOR CERTAIN PRODUCTS LISTED IN ANNEX I
+
+(a) "vruchtendrank", for fruit nectars;
+
+(b) "Süßmost";
+
+The designation "Süßmost" may be used only in conjunction with the product names "Fruchtsaft" or "Fruchtnektar";
+
+-  for fruit nectar obtained exclusively from fruit juices, concentrated fruit juices or a mixture of these products, unpalatable in the natural state because of their high natural acidity,
+
+-  for fruit juice obtained from apples or from pears, with the addition of apples where appropriate, but with no added sugar;
+
+(c) "succo e polpa" or "sumo e polpa", for fruit nectars obtained exclusively from fruit purée and/or concentrated fruit purée;
+
+(d) "æblemost", for apple juice with no added sugar;
+
+(e) - "sur ... saft", together with the name (in Danish) of the fruit used, for juices with no added sugar obtained from blackcurrants, cherries, redcurrants, whitecurrants, raspberries, strawberries or elderberries,
+
+- "sød ... saft" or "sødet ... saft" together with the name (in Danish) of the fruit used, for juices obtained from this fruit, with more than 200 g of added sugar per litre;
+
+(f) "äpplemust", for apple juice with no added sugar;
+
+(g) "mosto", synonym of grape juice;
+
+(h) "seabuckthorn" berries, Hippophae rhamnoides L, for berries juice.
+
+ANNEX IV
+
+SPECIAL PROVISIONS RELATING TO FRUIT NECTARS
+
+Fruit nectars made from | Minimum juice and/or purée content (% by volume of finished product) |
+
+I. Fruits with acidic juice unpalatable in the natural state |
+
+Passion fruit | 25 |
+
+Quito naranjillos | 25 |
+
+Blackcurrants | 25 |
+
+Whitecurrants | 25 |
+
+Redcurrants | 25 |
+
+Gooseberries | 30 |
+
+Sallow-thorn berries | 25 |
+
+Sloes | 30 |
+
+Plums | 30 |
+
+Quetsches | 30 |
+
+Rowanberries | 30 |
+
+Rose hips | 40 |
+
+Sour cherries | 35 |
+
+Other cherries | 40 |
+
+Bilberries | 40 |
+
+Elderberries | 50 |
+
+Raspberries | 40 |
+
+Apricots | 40 |
+
+Strawberries | 40 |
+
+Mulberries/blackberries | 40 |
+
+Cranberries | 30 |
+
+Quinces | 50 |
+
+Lemons and limes | 25 |
+
+Other fruits belonging to this category | 25 |
+
+II. Low-acid, pulpy or highly flavoured fruits with juice unpalatable in the natural state |
+
+Mangoes | 25 |
+
+Bananas | 25 |
+
+Guavas | 25 |
+
+Papayas | 25 |
+
+Lychees | 25 |
+
+Azeroles (Neapolitan medlars) | 25 |
+
+Soursop | 25 |
+
+Fruit nectars made from | Minimum juice and/or purée content (% by volume of finished product) |
+
+Bullock's heart or custard apple | 25 |
+
+Sugar apples | 25 |
+
+Pomegranates | 25 |
+
+Cashew fruits | 25 |
+
+Spanish plums | 25 |
+
+Umbu | 25 |
+
+Other fruits belonging to this category | 25 |
+
+III. Fruits with juice palatable in the natural state |
+
+Apples | 50 |
+
+Pears | 50 |
+
+Peaches | 50 |
+
+Citrus fruits except lemons and limes | 50 |
+
+Pineapples | 50 |
+
+Tomatoes | 50 |
+
+Other fruits belonging to this category | 50 |
+
+ANNEX V
+
+MINIMUM BRIX LEVELS FOR RECONSTITUTED FRUIT JUICE AND RECONSTITUTED FRUIT PUREE
+
+Fruit’s Common Name | Botanical Name | Minimum degree Brix values for reconstituted fruit juice and reconstituted fruit purée |
+
+Apple* | Malus domestica Borkh. | 11.2 |
+
+Apricot** | Prunus armeniaca L. | 11.2 |
+
+Banana** | Musa x paradisiacal L. (excluding plantains) | 21.0 |
+
+Blackcurrant* | Ribes nigrum L. | 11.6 |
+
+Grape* | Vitis vinifera L. or hybrids thereof Vitis labrusca L. or hybrids thereof | 15.9 |
+
+Grapefruit* | Citrus x paradise Macfad. | 10.0 |
+Sweetie grapefruit
+
+ 
+
+Citrus x paradisi, Citrus grandis
+
+ 
+
+10
+
+Guava** | Psidium guajava L. | 9.5 |
+
+Lemon* | Citrus limon (L.) Burm. f. Citrus limonium Risso | 8.0 |
+Lime Citrus aurantifolia (Christm.) 8
+
+Mango** | Manifera indica L. | 15.0 |
+
+Orange* | Citrus sinensis (L.) Osbeck | 11.2 |
+
+Passion Fruit* | Passiflora edulis Sims | 13.5 |
+
+Peach** | Prunus persica (L.) Batsch var. persica | 10.0 |
+
+Pear** | Pyrus communis L. | 11.9 |
+
+Pineapple* | Ananas comosus (L.) Merr. | 12.8 |
+
+Raspberry* | Rubus idaeus L. | 7.0 |
+
+Sour Cherry* | Prunus cerasus L. | 13.5 |
+
+Strawberry* | Fragaria x ananassa Duch. | 7.0 |
+
+Tomato | Lycopersicon esculentum, Mill. | 5.0 |
+
+Mandarin* | Citrus reticulata Blanco | 11.2 |
+
+For those products marked with an asterisk (*), which are produced as a juice, a minimum relative density is determined as such in relation to water at 20/20°C.
+
+For those products marked with two asterisks (**), which are produced as a purée, only a minimum uncorrected Brix reading (without correction of acid) is determined."
+
+[1] OJ L 212, 15.8.2009, p. 42.
+
+[2] OJ C […], […], p. […].
+
+[3] OJ C […], […], p. […].
+
+[4] OJ L 10, 12.1.2002, p. 58.
+
+[5] OJ L 124, 25.5.2000, p. 66.

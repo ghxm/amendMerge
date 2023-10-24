@@ -1,0 +1,273 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 51994PC0572 - EN
+
+Avis juridique important
+
+|
+
+51994PC0572
+
+Proposal for a EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE to facilitate practice of the profession of lawyer on a permanent basis in a Member State other than that in which the qualification was obtained  /* COM/94/572FINAL - COD 94/0299 */
+
+Official Journal C 128 , 24/05/1995 P. 0006
+
+Proposal for a European Parliament and Council Directive to facilitate practice of the profession of lawyer on a permanent basis in a Member State other than that in which the qualification was obtained (95/C 128/06) (Text with EEA relevance) COM(94) 572 final - 94/0299(COD)
+
+(Submitted by the Commission on 30 March 1995)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 49, Article 57 (1) and the first and third sentences of Article 57 (2) thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the Economic and Social Committee,
+
+Acting in accordance with the procedure referred to in Article 189b of the Treaty,
+
+1. Whereas, pursuant to Article 7a of the Treaty, the internal market is to comprise an area without internal frontiers; whereas, pursuant to Article 3 (c) of the Treaty, the abolition, as between Member States, of obstacles to freedom of movement for persons and services constitutes one of the objectives of the Community; whereas, for nationals of the Member States, this means among other things the possibility of practising a profession, whether in a self-employed or a salaried capacity, in a Member State other than that in which they obtained their professional qualifications;
+
+2. Whereas, pursuant to Council Directive 89/48/EEC of 21 December 1988 on a general system for the recognition of higher-education diplomas awarded on completion of professional education and training of at least three years duration (1), a lawyer who is fully qualified in one Member State may already ask to have his diploma recognized with a view to establishing himself in another Member State in order to practise the profession of lawyer there under the professional title used in that State; whereas the objective of Directive 89/48/EEC is to ensure that a migrant lawyer is integrated into the profession in the host Member State, and the Directive seeks neither to modify the rules regulating the profession in that State nor to remove such a lawyer from the ambit of those rules;
+
+3. Whereas while some migrant lawyers may become quickly integrated into the profession in the host Member State inter alia by passing an aptitude test as provided for in Directive 89/48/EEC, others may envisage such integration at the end of a period of professional practice in the host Member State under their home-country professional titles;
+
+4. Whereas at the end of that period, which may not be longer than five years, the migrant lawyer should be able to gain access to the profession either automatically, where he has effectively practised the law of the host Member State including Community law for an unbroken period of three years, or, where that is not the case but where he can furnish evidence of professional experience in the host Member State, after undergoing a compensatory measure in the form of a simplified aptitude test;
+
+5. Whereas action along these lines is justified at Community level not only because, compared with the general system for the recognition of diplomas, it provides lawyers with a new means whereby, after a transition period, they can practise the profession on a permanent basis in a host Member State, but also because, by enabling lawyers to practise temporarily under their home-country professional titles, it meets the needs of consumers of legal services who, owing to the increasing trade flows resulting from the internal market, seek advice when carrying out cross-border transactions in which international law, Community law and domestic laws often overlap;
+
+6. Whereas action is also justified at Community level because a few Member States already permit in their territory pursuit of the activities of lawyers, otherwise than by way of provision of services, by lawyers from other Member States practising under their home-country professional titles; whereas, however, in the Member States where this possibility exists the practical details concerning, for example, the area of activity and the obligation to register with the competent authorities differ considerably; whereas such a diversity of situations leads to inequalities and distortions in competition between lawyers from the Member States and is an obstacle to freedom of movement; whereas only a directive laying down the conditions governing practice of the profession, otherwise than by way of provision of services, by lawyers practising under their home-country professional titles is capable of resolving these difficulties and of affording the same opportunities to lawyers and consumers of legal services in all Member States;
+
+7. Whereas, in keeping with its objective, this Directive does not lay down any rules concerning purely domestic situations, and where it does affect national rules regulating the legal profession it does so no more than is necessary to achieve its purpose effectively; whereas it is without prejudice to national legislation governing access to and practice of the profession of lawyer under the professional title used in the host Member State;
+
+8. Whereas lawyers covered by this Directive should be required to register with the competent authority in the host Member State in order that that authority might ensure that they abide by the rules of professional conduct in force in that State; whereas the effect of such registration as regards the jurisdictions in which, and the levels and types of court before which, lawyers may practise is determined by the law applicable to lawyers in the host Member State;
+
+9. Whereas lawyers who are not yet fully integrated into the profession in the host Member State should practise in that State under their home-country professional titles so as to ensure that consumers are properly informed and to distinguish between such lawyers and lawyers from the host Member State practising under the professional title used there;
+
+10. Whereas lawyers covered by this Directive should be permitted to give advice on the law of their home Member States, on Community law, on international law and on the law of the host Member State; whereas this is already allowed under Council Directive 77/249/EEC of 22 March 1977 to facilitate the effective exercise by lawyers of freedom to provide services (2), as last amended by the Act of Accession of Austria, Finland and Sweden, as regards the provision of services; whereas, however, provision should be made, as in Directive 77/249/EEC, for the option of excluding from the activities of lawyers practising under their home-country professional titles in the United Kingdom and Ireland the preparation of certain formal documents in the conveyancing and probate spheres; whereas this Directive in no way affects the provisions under which, in every Member State, certain activities are reserved for professions other than the legal profession; whereas the provision in Directive 77/249/EEC concerning the right of the host Member State to require a lawyer practising under his home-country professional title to work in conjunction with a local lawyer when representing or defending a client in legal proceedings should also be incorporated in this Directive; whereas that requirement must be interpreted in the light of the case law of the Court of Justice of the European Communities, in particular its judgment of 25 February 1988 in Case 427/85, Commission v. Germany (3).
+
+11. Whereas the list of professional titles used in Italy must be extended to include procuratore legale, as such persons now carry on the same activities as an avvocato;
+
+12. Whereas a lawyer registered under his home-country professional title in the host Member State must remain registered with the competent authority in his home Member State if he is to retain his status of lawyer and be covered by this Directive; whereas for that reason close collaboration between the competent authorities is indispensable, notably in connection with any disciplinary proceedings;
+
+13. Whereas lawyers covered by this Directive may, irrespective of their status of salaried or self-employed lawyers in their home Member States, practise as salaried lawyers in the host Member State where that Member State offers this possibility to its own lawyers;
+
+14. Whereas the purpose pursued by this Directive in enabling lawyers to practise temporarily in another Member State under their home-country professional titles is to make it easier for them to practise the profession without restriction in accordance with Directive 89/48/EEC; whereas under Articles 48 and 52 of the Treaty as interpreted by the Court of Justice the host Member State must take into consideration any professional experience gained in its territory; whereas, after the effective pursuit in the host Member State for an unbroken period of three years of an activity involving the law of that State including Community law, it is reasonable to assume that a lawyer will have gained sufficient experience to become fully integrated into the legal profession there; whereas total exemption from any compensatory measures must therefore be automatically granted; whereas, if the unbroken period of activity in the host Member State does not involve the law of that State, including Community law, the compensation measures must be limited to an aptitude test on the law of procedure and the rules of professional conduct in the host Member State;
+
+15. Whereas lawyers practising under their home-country professional titles must be afforded the opportunity of attending lectures or seminars in the host Member State so that they might acquire a knowledge of that State's law, including the rules regulating professional practice and conduct, or add to their existing knowledge in those areas;
+
+16. Whereas, for economic and professional reasons, there is a growing tendency for lawyers in the Community to practise jointly; whereas the fact that lawyers belong to a grouping in their home Member State should not be used as a pretext to prevent or deter them from establishing themselves in the host Member State; whereas Member States should be allowed, however, to take appropriate measures with the legitimate aim of safeguarding the profession's independence; whereas certain guarantees should be provided in those Member States which permit joint practice,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Object, scope and definitions
+
+1. The purpose of this Directive is to facilitate practice of the profession of lawyer on a permanent basis in a self-employed or salaried capacity in a Member State other than that in which the professional qualification was obtained.
+
+2. For the purposes of this Directive:
+
+(a) 'lawyer` means any person who is a national of a Member State and who is authorized to pursue his professional activities under one of the following professional titles:
+
+- Belgium: Avocat/Advocaat/Rechtsanwalt
+
+- Denmark: Advokat
+
+- Germany: Rechtsanwalt
+
+- Greece: AEéêçãueñïò
+
+- Spain: Abogado
+
+- France: Avocat
+
+- Ireland: Barrister, Solicitor
+
+- Italy: Avvocato, Procuratore legale
+
+- Luxembourg: Avocat
+
+- Netherlands: Advocaat
+
+- Portugal: Advogado
+
+- United Kingdom: Advocate, Barrister, Solicitor;
+
+(b) 'home Member State` means the Member State in which a lawyer acquired the right to use one of the professional titles referred to in (a) before practising the profession of lawyer in another Member State;
+
+(c) 'host Member State` means the Member State in which a lawyer practises pursuant to this Directive;
+
+(d) 'home-country professional title` means the professional title used in the Member State in which a lawyer acquired the right to use that title before practising the profession of lawyer in the host Member State;
+
+(e) 'grouping` means any entity, with or without legal personality, formed under the law of a Member State, within which lawyers pursue their professional activities jointly under a joint name.
+
+3. This Directive shall apply both to lawyers practising in a self-employed capacity and to lawyers practising in a salaried capacity in the home Member State and, subject to Article 8, in the host Member State.
+
+4. Practice of the profession of lawyer within the meaning of this Directive shall not include the provision of services, which is covered by Directive 77/249/EEC.
+
+Article 2
+
+Temporary right to practise under the home-country professional title
+
+Any lawyer shall be entitled to pursue for five years in any other Member State under his home-country professional title the activities specified in Article 5. Practice on a permanent basis in the host Member State shall be subject to Article 10.
+
+Article 3
+
+Registration with the competent authority
+
+1. A lawyer who wishes to practise in a Member State other than that in which he obtained his professional qualification shall register with the competent authority in that State.
+
+2. The competent authority in the host Member State shall register the lawyer upon presentation of a certificate attesting to his registration with the competent authority in the home Member State. It may require that, when presented, the certificate be not more than three months old. It shall inform the competent authority in the home Member State of the registration.
+
+3. For the purpose of applying paragraph 1 in the United Kingdom and Ireland, lawyers practising under a professional title other than those used in the United Kingdom or Ireland shall register either with the authority responsible for the profession of barrister or advocate or with the authority responsible for the profession of solicitor.
+
+For the purpose of applying paragraph 1 in the United Kingdom, the authority responsible for a barrister from Ireland shall be that responsible for the profession of barrister or advocate, and the authority responsible for a solicitor from Ireland shall be that responsible for the profession of solicitor.
+
+For the purpose of applying paragraph 1 in Ireland, the authority responsible for a barrister or an advocate from the United Kingdom shall be that responsible for the profession of barrister, and the authority responsible for a solicitor from the United Kingdom shall be that responsible for the profession of solicitor.
+
+4. Where the competent authority in a host Member State publishes the names of lawyers registered with it, it shall also publish the names of lawyers registered pursuant to this Directive.
+
+Article 4
+
+Temporary practice under the home-country professional title
+
+1. A lawyer practising in a host Member State under his home-country professional title shall do so under that title expressed in the official language or one of the official languages of his home Member State.
+
+2. A host Member State may require a lawyer practising under his home-country professional title to indicate the professional body of which he is a member in his home Member State or the judicial authority before which he is entitled to practise pursuant to the laws of his home Member State. A host Member State may also require a lawyer practising under his home-country professional title to include a reference to his registration with the competent authority in that State.
+
+3. Where there is a risk of confusion with the professional title used in the host Member State, the competent authorities in that State may ask that a reference to the home Member State be added.
+
+Article 5
+
+Area of activity
+
+1. Subject to paragraphs 2 and 3, a lawyer practising under his home-country professional title shall carry on the same professional activities as a lawyer practising under the professional title used in the host Member State and may inter alia give advice on the law of his home Member State, on Community law, on international law and on the law of the host Member State.
+
+2. Member States which authorize in their territory a prescribed category of lawyers to prepare formal documents for obtaining title to administer estates of deceased persons and for creating or transferring interests in land which, in other Member States, are reserved for professions other than that of lawyer may exclude from such activities lawyers practising under a home-country professional title conferred in one of the latter Member States.
+
+3. For the pursuit of activities relating to the representation or defence of a client in legal proceedings and in so far as the law of the host Member State makes representation by a lawyer mandatory, that Member State may require lawyers practising under their home-country professional titles to work in conjunction with a lawyer who practises before the judicial authority in question and who would, where necessary, be answerable to that authority or with an 'avoué` or 'procuratore` practising before it.
+
+Article 6
+
+Rules of professional conduct applicable
+
+1. Irrespective of the rules of professional conduct to which he is subject in his home Member State, a lawyer practising under his home-country professional title shall be subject to the rules of professional conduct of the host Member State in respect of all the activities he pursues in its territory.
+
+2. Lawyers practising under their home-country professional titles shall be granted appropriate representation in the professional associations of the host Member State. Such representation shall involve at least the right to vote in elections to those associations' governing bodies.
+
+3. The host Member State may require a lawyer practising under his home-country professional title either to take out professional indemnity insurance or to become a member of a professional guarantee fund in accordance with the rules which that State lays down for professional activities pursued in its territory. Nevertheless, a lawyer practising under his home-country professional title shall be exempted from that requirement if he can prove that he is covered by insurance taken out or a guarantee provided in accordance with the rules of his home Member State, in so far as such insurance or guarantee is equivalent in terms of the conditions and extent of cover. Where the equivalence is only partial, the competent authority in the host Member State may require that additional insurance or an additional guarantee be contracted to cover the elements which are not already covered by the insurance or guarantee contracted in accordance with the rules of the home Member State.
+
+Article 7
+
+Disciplinary proceedings
+
+1. In the event of failure by a lawyer practising under his home-country professional title to fulfil the obligations in force in the host Member State, the rules of procedure, penalties and remedies provided for in the host Member State shall apply.
+
+2. Before initiating disciplinary proceedings against a lawyer, the competent authority in the host Member State shall inform the competent authority in the home Member State as soon as possible, furnishing it with all the relevant details.
+
+3. Without prejudice to the decision-making power of the competent authority in the host Member State, that authority shall cooperate throughout the disciplinary proceedings with the competent authority in the home Member State. In particular, the host Member State shall take the measures necessary to ensure that the competent authority in the home Member State can make submissions to the bodies responsible for hearing any appeal.
+
+4. The competent authority in the home Member State shall decide what action to take, under its own procedural and substantive rules, in the light of a decision of the competent authority in the host Member State concerning a lawyer practising under his home-country professional title.
+
+5. Although it is not a prerequisite for the decision of the competent authority in the host Member State, the temporary or permanent withdrawal by the competent authority in the home Member State of the authorization to practise the profession shall automatically lead to the lawyer concerned being temporarily or permanently prohibited from practising under his home-country professional title in the host Member State.
+
+Article 8
+
+Salaried practice
+
+A lawyer registered in a host Member State under his home-country professional title may practise as a salaried lawyer in the employ of another lawyer, an association or firm of lawyers, or a public or private enterprise where the host Member State so permits for lawyers registered under the professional title used in that State.
+
+Article 9
+
+Statement of reasons and remedies
+
+Decisions not to effect the registration referred to in Article 3 or to cancel such registration and decisions imposing disciplinary measures shall state the reasons on which they are based.
+
+A remedy shall be available against such decisions before a court or tribunal in accordance with the provisions of national law.
+
+Article 10
+
+Integration as a lawyer of the host Member State
+
+1. A lawyer practising under his home-country professional title who has effectively pursued for an unbroken period of at least three years an activity involving the law of the host Member State including Community law shall, with a view to his gaining admission to the profession of lawyer in the host Member State and practising there under the professional title corresponding to the profession in that State, be exempted from any aptitude test which may be required under Article 4 (1) (b) of Directive 89/48/EEC.
+
+It shall be for the lawyer concerned to furnish proof of such effective pursuit for an unbroken period of at least three years of an activity involving the law of the host Member State. To that end, he shall provide the competent authority in the host Member State with any relevant information and documentation, notably on the number of cases he has dealt with and their nature. 'Effective pursuit for an unbroken period` means actual exercise of the activity without any interruption other than that resulting from the events of everyday life.
+
+2. A lawyer practising under his home-country professional title who has effectively pursued for an unbroken period of at least three years a professional activity in the host Member State may be required, in accordance with Article 4 (1) (b) of Directive 89/48/EEC only to take an aptitude test limited to the law of procedure and the rules of professional conduct of the host Member State.
+
+3. A lawyer practising under his home-country professional title may apply at any time during the five-year period referred to in Article 2 to have his diploma recognized pursuant to Directive 89/48/EEC with a view to gaining permanent admission to the profession of lawyer in the host Member State and practising it under the professional title used in that State.
+
+4. When it examines an application, the competent authority shall take into account any attendance by the applicant at lectures or seminars on the law of the host Member State, including the rules regulating professional practice and conduct.
+
+5. The representatives of the competent authority entrusted with the examination shall preserve the confidentiality of any information received.
+
+6. A lawyer who gains admission to the profession of lawyer in the host Member State in accordance with paragraphs 1 to 5 shall be entitled to use his home-country professional title, expressed in the official language or one of the official languages of his home country, alongside the professional title used in the host Member State.
+
+Article 11
+
+Joint practice
+
+Where joint practice is permitted in the host Member State, it must take place in accordance with the following rules.
+
+1. One or more lawyers who belong to the same grouping in their home Member State and who practise under their home-country professional title in a host Member State may pursue their professional activities in a branch or agency of their grouping in the host Member State. However, where the fundamental rules governing that grouping in the home Member State are incompatible with the fundamental rules laid down by law, regulation or administrative action in the host Member State, the latter rules shall prevail in so far as compliance therewith is justified by the public interest in protecting clients and third parties.
+
+2. Each Member State shall afford two or more lawyers from the same grouping or the same home Member State who practise in its territory under their home-country professional titles access to a form of joint practice. If the host Member State gives its lawyers a choice between several legal forms in which to practise, those same legal forms shall also be made available to the aforementioned lawyers. The manner in which such lawyers practise jointly in the host Member State shall be governed by the laws, regulations and administrative provisions of that State.
+
+3. The host Member State shall take the measures necessary to permit joint practise also between:
+
+(a) several lawyers from different Member States practising under their home-country professional titles;
+
+(b) one or more lawyers covered by point (a) and one or more lawyers from the host Member State.
+
+The manner in which such lawyers practise jointly in the host Member State shall be governed by the laws, regulations and administrative provisions of that State.
+
+4. A lawyer who wishes to practise under his home-country professional title shall inform the competent authority in the host Member State of the fact that he is a member of a grouping in this home Member State and furnish any relevant information on that grouping.
+
+5. Notwithstanding point 1 to 4, a host Member State which prohibits practice of the profession of lawyer within a grouping controlled by persons who are not members of the profession may refuse to allow a lawyer registered under his home-country professional title to practise in its territory in his capacity as a member of his grouping if the decision-making power in that grouping is exercised preponderantly by persons who do not have the status of lawyer.
+
+Article 12
+
+Name of the grouping
+
+Whatever the manner in which lawyers practise under their home-country professional titles in the host Member State, they may employ the name of any grouping to which they belong in their home Member State. The host Member State may require that, in addition to that name, mention be made of the legal form of the grouping in the home Member State and/or of the names of any members of the grouping practising in the host Member State.
+
+Article 13
+
+Cooperation between the competent authorities in the home and host Member States
+
+In order to facilitate the application of this Directive and to prevent its provisions from being misapplied for the sole purpose of circumventing the rules applicable in the host Member State, the competent authority in the host Member State and the competent authority in the home Member State shall collaborate closely and afford each other mutual assistance. They shall preserve the confidentiality of the information they exchange.
+
+Article 14
+
+Designation of the competent authorities
+
+Member States shall designate, within the period provided for in Article 15, the competent authorities empowered to receive the applications and to take the decisions referred to in this Directive. They shall communicate this information to the other Member States and to the Commission.
+
+Article 15
+
+Implementation
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 December 1996. They shall immediately inform the Commission thereof.
+
+When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article 16
+
+Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.
+
+Article 17
+
+Adressees
+
+This Directive is addressed to the Member States.
+
+(1) OJ No L 19, 24. 1. 1989, p. 16.
+
+(2) OJ No L 78, 26. 3. 1977, p. 17.
+
+(3) [1988] ECR, p. 1123.

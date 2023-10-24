@@ -1,0 +1,4503 @@
+COM_2017_0343_FIN.ENG.xhtml.1_EN_ACT_part1_v8.docx
+
+EUROPEAN COMMISSION
+
+Brussels, 29.6.2017
+
+COM(2017) 343 final
+
+2017/0143(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on a pan-European Personal Pension Product (PEPP)
+
+(Text with EEA relevance)
+
+{SWD(2017) 243 final}
+
+{SWD(2017) 244 final}
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+1.1.
+
+Reasons for and objectives of the proposal
+
+Across the European Union (EU), individuals who wish to supplement their pensions are saving for retirement in many different ways, for example by investing in real estate, life insurance and other long-term investment products. Personal pension products are another option. However, personal pension markets are unequally developed and personal pension products are unequally affordable across the European Union (EU). People who wish to save more for retirement need a greater choice of suitable personal pension products that rely on capital markets-based investments. An additional public policy challenge is the need to ensure the long-term sufficiency of retirement income from a combination of state, occupational and personal pensions.
+
+Market fragmentation prevents personal pension providers from maximising risk diversification, innovation and economies of scale. This reduces choice and attractiveness and leads to increased costs for pension savers. It also contributes to a lack of liquidity and depth in the capital markets compared with other jurisdictions such as the United States of America, where pension funds play a bigger role as institutional investors. Moreover, some existing personal pension products have insufficient features
+
+1
+
+and their availability and cross-border portability is limited, with hardly any cross
+
+border activity by suppliers or savers.
+
+An EU initiative on personal pensions could therefore complement the current divergent r
+
+ules at EU and national level by adding a pan-European framework for pension, for individuals who wish to use this additional saving option. This framework will not replace or harmonise existing national personal pension schemes. It will offer individuals a new voluntary framework for saving by ensuring sufficient consumer protection with regard to the essential features of the product. At the same time, the framework will be flexible enough to enable different providers to tailor products to suit their business model. It will encourage providers to invest in a sustainable manner in the real economy over the long term, particularly in infrastructure projects and corporates, thus matching the long-term liabilities under the PEPP.
+
+Overall, the proposal will create a quality label for EU personal pension products and increase trust among consumers. It will lead to consumers having greater choice between providers and ensure a level playing field for providers. The proposal may also contribute to the creation of a single market for personal pensions and encourage competition between providers to the benefit of consumers.
+
+The Commission’s Action Plan on Capital Markets Union of September 2015
+
+2
+
+stated that, ‘an “opt in” European Personal Pension could provide a regulatory template, based on an appropriate level of consumer protection, that pension providers could elect to use when offering products across the EU. A larger, “third pillar” European pension market would also support the supply of funds for institutional investors and investment into the real economy’. In the action plan, the Commission also announced that it will ‘assess the case for a policy framework to establish a successful European market for simple, efficient and competitive personal pensions, and determine whether EU legislation is required to underpin this market’.
+
+The European Parliament,
+
+in its
+
+Resolution of 19 January 2016
+
+3
+
+, expressed concern about the lack of available and attractive risk-appropriate (long-term) investments and cost-efficient and suitable savings products for consumers. While reiterating the need for diversity in investor and consumer choices, the European Parliament stressed that ‘an environment must be fostered that stimulates financial product innovation, creating more diversity and benefits for the real economy and providing enhanced incentives for investments, and that may also contribute to the delivery of adequate, safe and sustainable pensions, such as, for example, the development of a pan-European Pension Product (PEPP), with a simple transparent design’.
+
+In June 2016, the European Council called for ‘swift and determined progress to ensure easier access to finance for business and to support investment in the real economy by moving forward with the Capital Markets Union agenda
+
+4
+
+.’
+
+In September 2016, in its Communication
+
+Capital Markets Union — Accelerating Reform
+
+5
+
+, in light of the strong support expressed by the European Parliament, Council and stakeholders for the Capital Markets Union action plan,
+
+that it will ‘consider proposals for a simple, efficient and competitive EU personal pension product’.
+
+Subsequently, in its Communication
+
+Mid-term Review of the Capital Markets Union Action Plan
+
+, the Commission announced ‘a legislative proposal on a pan-European Personal Pension Product (PEPP) by end June 2017. This will lay the foundations for a safer, more cost
+
+efficient and transparent market in affordable and voluntary personal pension savings that can be managed on a pan-European scale. It will meet the needs of people wishing to enhance the adequacy of their retirement savings, address the demographical challenge, complement the existing pension products and schemes, and support the cost-efficiency of personal pensions by offering good opportunities for long-term investment of pension savings
+
+6
+
+’
+
+.
+
+This proposal for a PEPP framework comprises a complementary voluntary scheme alongside national regimes, enabling providers to create personal pension products on a pan-European scale. It aims to channel more household savings away from traditional instruments, such as savings deposits, towards the capital markets.
+
+The proposal aims to ensure that consumers are fully aware of the key features of the product. Regarding investment policy, consumers will have a choice between a safe default investment option and alternative options with different risk-return profiles. Consumers will benefit from EU-wide portability, full transparency of the costs of the PEPP and the ability to switch providers (with switching costs capped).
+
+From the point of view of providers, the proposal intends to enable a broad range of them to offer the PEPP (banks, insurers, asset managers, occupational pension funds, investment firms) and to ensure a level playing field. The PEPP could be provided online, including advice, and would not require a network of branches, allowing easier market access. Passporting rules would help providers enter new national markets. Standardising the key features should also reduce providers’ costs and help them pool contributions from different national markets in order to channel assets into EU-wide investments.
+
+The flexibility around other features, such as the conditions for accumulating pension contributions, is intended to enable consumers to benefit from national tax incentives available in their Member State of residence, provided that the providers adapt the PEPPs to the national criteria for tax incentives.
+
+In order to encourage Member States to grant tax relief on the PEPP, the Commission has adopted a Recommendation on the tax treatment of personal pension products, including the pan-European Personal Pension Product, alongside this proposal.
+
+1.2.
+
+Consistency with existing policy provisions in the policy area
+
+In the area of pensions, the EU has adopted the following major initiatives in recent years:
+
+·
+
+1998 Directive
+
+on safeguarding the supplementary pension rights of employed and self-employed persons moving within the Community
+
+7
+
+;
+
+·
+
+2014 Directive on the portability of supplementary pension rights
+
+8
+
+,
+
+aimed at
+
+promoting worker mobility by reducing the obstacles created by certain rules on occupational
+
+pension
+
+s
+
+;
+
+·
+
+2016 Directive on institutions for occupational retirement provision (‘IORP2’)
+
+9
+
+, which strengthens governance, information disclosure and cross-border requirements for occupational pension funds.
+
+Further non-legislative measures taken by the Commission in the pensions area include the ‘Track and trace your pension in Europe project’
+
+10
+
+, proposing the creation of a European tracking service to help people track information about their pension entitlements across Member States, and the RESAVER project
+
+11
+
+.
+
+The proposal for a PEPP framework does not affect the three directives mentioned above, as they target occupational pensions. With regard to non-legislative initiatives, the PEPP framework could be integrated into future projects.
+
+1.3.
+
+Consistency with other EU policies
+
+The proposal aims to increase the take-up of personal pensions in the EU. It is consistent with the EU policy of encouraging complementary retirement savings in order to achieve pension adequacy, as set out in the Commission White Paper on pensions in 2012
+
+12
+
+. In line with this, the 2015 Pension Adequacy Report concluded that increased entitlements from supplementary (that is, occupational and personal) retirement savings could, alongside other measures, mitigate the impact of lower pensions from public schemes in some Member States. The 2017 Annual Growth Survey reported that broad coverage (i.e. wide availability and increased uptake) of supplementary pensions could play a key role in retirement income provision, in particular where public pensions may be inadequate, and should be promoted by appropriate means, depending on the national context.
+
+The proposal is in line with EU policy on strengthening consumer protection, in particular by developing a low-risk default investment option, requiring full transparency to PEPP savers, specifically on costs, and allowing savers to switch provider with a cap on switching costs.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+2.1.
+
+Legal basis
+
+The legal basis for this proposal is Article 114 of the Treaty on the Functioning of the European Union (TFEU), which allows the adoption of measures for the approximation of national provisions having as their object the establishment and functioning of the internal market.
+
+Currently, the functioning of the internal market for personal pensions is impeded by the high degree of fragmentation between national markets and the limited degree of portability of personal pension products. This can make it difficult for individuals to make use of their basic freedoms. For example, they may be prevented from taking up a job or retiring in another Member State. In addition, the possibility for providers to use the freedom of establishment and the freedom to provide services is hampered by the lack of standardisation of existing personal pension products.
+
+The proposal will create a largely standardised pan-European product, available in all Member States, that will empower consumers to make full use of the internal market by enabling them to transfer their pension rights abroad and offering them a greater choice of providers, including in other EU countries. The proposal harmonises the core features of the PEPP: authorisation, distribution (including information provision and advice), investment policy, switching provider and cross-border provision and portability. The proposal is complemented by the Recommendation on the tax treatment of personal pension products, including the pan-European Personal Pension Product
+
+13
+
+. This is aimed at avoiding that in certain Member States PEPPs fall outside the scope of national tax incentives, if the core product features do not match all national criteria for tax relief.
+
+2.2.
+
+Subsidiarity (for non-exclusive competence)
+
+Under Article 4 TFEU, EU action for completing the internal market must be appraised in the light of the subsidiarity principle set out in Article 5(3) of the Treaty on European Union (TEU). It must be assessed whether the objectives of the proposal could not be achieved by the Member States in the framework of their national legal systems (necessity test) and, by reason of their scale and effects, are better achieved at EU level (effectiveness test).
+
+First, regarding the necessity test, the uncoordinated efforts of Member States, whether at central, regional or local level, cannot remedy the legal fragmentation in product regulation, which results in extra compliance costs for providers and discourages cross-border activity. For example, EU legislation on distribution requirements for financial products (such as the Insurance Distribution Directive, the
+
+Markets in Financial Instruments Directive
+
+(MiFID II) and the
+
+Packaged Retail and Insurance-based Investment Products
+
+(PRIIPs) Regulation
+
+14
+
+does not apply to most personal pension products, so such products fall within the scope of national legislation.
+
+With markets for personal pension products left exclusively to national regulation, information asymmetry occurs between providers and savers, particularly in a cross-border context. Accordingly, savers may be insufficiently aware of the actual performance of their personal pension products, or even unable to switch providers. If providers at national level do not give savers sufficient information, this can reduce trust in personal pension product providers and result in fewer transactions, lower levels of engagement with pension provision and poor decision-making by savers.
+
+The portability of personal pension products is a concern for people moving to another EU country while trying to maintain the same product and provider. Currently,
+
+when moving to another Member State, people have no choice but to search for a new product offered by a provider in the new Member State with substantially different rules, instead of continuing to save in their former Member State. National tax incentives encourage people to save for retirement and are key to promoting the take-up of personal pensions. Losing such tax benefits when moving to another Member State is a major barrier to the cross-border portability of personal pension products. Member States acting alone cannot remedy such portability issues.
+
+Second, regarding the effectiveness test, action at EU level can help remedy the consequences of market fragmentation, particularly in terms of costs. If no EU action is taken, asset pools are likely to remain small and limited to national borders, without economies of scale, and competition would remain limited to domestic providers. Individual savers are therefore unlikely to benefit from the lower prices and better product ranges that would result from efficiency gains and returns on large asset pools. Fragmentation is expensive also for providers: divergence in national regulation means extra compliance costs. There are limited incentives for providers to offer products cross-border, mainly due to high costs. By contrast, a standardised EU personal pension product is expected to cut providers’ costs by creating larger asset pools. For example, a study has shown that spreading fixed costs over a larger pool of members could reduce administration costs by 25 %
+
+15
+
+.
+
+The creation of an EU legislative framework for personal pensions would reduce providers’ costs by creating economies of scale, particularly in relation to investment and administration. An EU personal pension framework would help providers operate across borders as it would allow them to centralise certain functions at EU level (rather than relying on local operations or outsourcing). Standardisation would make it easier for providers to offer a pension solution to corporate clients active in several Member States and looking for an EU-wide personal pension for their employees. This could also lead to efficiency gains in distribution, for example by using digital channels to sell personal pensions. An EU legislative framework for personal pensions could be accompanied by EU policy work in the area of financial technology.
+
+Increasing the take-up of personal pensions could help secure adequate replacement rates in the future as a supplement to state-based and occupational pensions. A greater choice of safe and high quality personal pension products benefits all workers, whether employed or self-employed, and whether they have taken up a job in another Member State or not. An EU single market for personal pensions would make the product accessible to a wider range of people. Minimum product requirements laid down in EU rules would create transparency, simplicity and safety for PEPP savers. In addition, it would accommodate the increasing mobility of EU citizens and the increasingly flexible nature of work.
+
+2.3.
+
+Proportionality
+
+Under the principle of proportionality, the content and form of EU action should not exceed what is necessary to achieve the objectives of the Treaties. In principle, it is already possible to offer personal pension products in all Member States. However, compared with their market potential, they do not contribute to channelling enough savings towards capital markets and to achieving the Capital Markets Union. In addition, the features of some existing personal pension products are insufficient, as are the development of cross-border portability and the provision of personal pension products.
+
+The policy options set out in the impact assessment accompanying this proposal include taking no action at EU level, the PEPP framework and harmonising national personal pension regimes.
+
+The ‘no EU action’ scenario would not achieve the above objectives. Conversely, the harmonisation of national regimes would make it possible to achieve the objectives but would also require full harmonisation of very different national situations — personal pensions are well-developed in some Member States and not in others. This option was assessed as too burdensome to reach the objectives. In this context, it is appropriate to propose the PEPP framework for an EU-wide personal pension product that would complement existing national regimes.
+
+The impact assessment also evaluated the options for the key features of the PEPP and the tax implications of the recommended features. The key features on distribution, investment policy, provider switching and cross-border elements have been designed to provide sufficient consumer protection and make the framework attractive to future PEPP providers. For example, on distribution, sectorial rules would apply to a large extent. On investment policy, the default option would set a requirement to ensure capital protection but providers would be able to propose alternative investment options. Switching providers would be allowed but the frequency of switching would be restricted. On cross-border portability and supply, the recommended option is based on the technique (currently used by some IORPs) of creating national compartments when changing Member States, but it would be further streamlined for the benefit of PEPP savers.
+
+The administrative burden of the PEPP would be limited as the proposal amounts to adding a new product category to the existing portfolio of products provided by insurers, pension funds, investment firms, asset managers and banks, all subject to regulatory oversight by national competent authorities under existing regulatory frameworks. Public authorities might impose new reporting requirements on providers as regards the provision of PEPPs and in particular to monitor the cross-border distribution of PEPPs. This administrative burden should be proportionate to the risks of providing PEPPs on a cross-border basis and would enable market monitoring, ensure appropriate supervision and contribute to consumer protection.
+
+2.4.
+
+Choice of the instrument
+
+Article 114 TFEU allows the adoption of acts in the form of a regulation or directive. A regulation was selected here for the reasons outlined below.
+
+First, as a regulation is directly applicable in all Member States, it would enable a quicker take-up of the PEPP and contribute more rapidly to addressing the need for more pension savings and investments in the Capital Markets Union context.
+
+Second, as the proposal would harmonise the core features of the PEPP, they must not be subject to specific national rules, so a regulation is more appropriate than a directive in this case. However, any features that fall outside the scope of the proposal (e.g. accumulation phase conditions) would of course be subject to national rules.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+3.1.
+
+Stakeholder consultations
+
+The Commission carried out a public consultation on EU personal pensions (including a public hearing) between July and October 2016, which received 585 contributions in total from a broad range of stakeholders
+
+16
+
+. The responses revealed a strong interest from private individuals from all across the EU in simple, transparent and cost-effective personal pension products. The public consultation also requested feedback from professionals on the feasibility of an EU personal pension framework, including a PEPP. Overall, they consider that the PEPP framework represents a good opportunity to develop a new pension product, and some professionals are already preparing to launch a PEPP.
+
+3.2.
+
+Collection and use of expertise
+
+The proposal is based on a study carried out by Ernst & Young on behalf of the Commission on a European personal pension framework. The study, completed in June 2017, maps in particular the tax requirements and other legal requirements applicable across all Member States, and assesses the market potential for a PEPP. The main conclusion of the study is that tax regimes across the EU are very diverse, and this requires sufficient flexibility in an EU framework on the PEPP to adapt to national criteria. In addition, the study concludes that the PEPP would see the personal pension market grow in value from EUR 0.7 trillion to EUR 2.1 trillion by 2030 with the PEPP, versus EUR 1.4 trillion without the PEPP (assuming the PEPP would benefit from the existing national tax incentives for personal pension products).
+
+The proposal is also based on
+
+technical advice from the European Insurance and Occupational Pensions Authority (EIOPA)
+
+17
+
+on developing an EU single market for personal pension products. This advice builds on an earlier EIOPA preliminary report
+
+Towards a single market for personal pensions
+
+18
+
+.
+
+The
+
+technical advice
+
+recommends:
+
+·
+
+choosing the PEPP over harmonisation of national regimes; and
+
+·
+
+defining key PEPP features at EU level, while leaving certain other tax-sensitive features to national law.
+
+As part of the key features, the technical advice recommends in particular the inclusion of a safe default investment option and detailed requirements on transparency of information to PEPP savers. The proposal is in line with these recommendations.
+
+Finally, the proposal builds on the following:
+
+·
+
+OECD study Stocktaking of the tax treatment of funded private pension plans in OECD and EU countries;
+
+19
+
+·
+
+Commission-OECD project on taxation, financial incentives and retirement savings;
+
+20
+
+·
+
+OECD study Core Principles of Private Pension Regulation;
+
+21
+
+and
+
+·
+
+Oxera study on the position of savers in private pension products across 14 EU Member States.
+
+22
+
+3.3.
+
+Impact assessment
+
+The PEPP proposal is supported by a positive opinion issued by the Regulatory Scrutiny Board (RSB) on 22 May 2017
+
+23
+
+, after a first negative opinion issued on 2 May 2017
+
+24
+
+.In its comments, the RSB suggested that the impact assessment should focus more on analysing the key product features of the PEPP, and explained how the PEPP features compare to those of existing personal pension products.
+
+The RSB also requested a more detailed quantification of the impact of the PEPP option and clarification of the underlying assumptions. The final version of the impact assessment addresses these points by:
+
+·
+
+detailing the various options for the PEPP features;
+
+·
+
+explaining how they take inspiration from existing personal pension products with the highest penetration index; and
+
+·
+
+quantifying the extra volumes generated by the launch of the PEPP on the personal pension market and the effect on capital markets.
+
+The proposal is in line with the conclusions of the impact assessment
+
+25
+
+.
+
+The general policy alternatives examined in the impact assessment consisted of the following options:
+
+·
+
+no EU action;
+
+·
+
+PEPP framework; or
+
+·
+
+harmonising the national personal pension regimes.
+
+Under the first option, the shortcomings identified (fragmentation of national capital markets would remain, insufficient features of existing personal pension products, and limitations to cross-border portability and provision) would still exist. By contrast, the third option would address these shortcomings. However, this would also involve harmonising national tax regimes for personal pensions, which would require the unanimous support of Member States. In addition, there would be significant compliance costs for providers: first, they would have to adapt all their personal pension products to the new regime. In addition, on an ongoing basis, this regime may differ significantly from the sectorial regimes under which providers are distributing their other financial products.
+
+The impact assessment therefore concludes that the second option is the preferred policy choice as it offers an additional harmonised pan-European framework that complements the existing national regimes and can overcome the shortcomings identified by using targeted solutions that avoid excessive compliance costs.
+
+The PEPP framework would have a positive economic impact. According to the EY study, it would result in the assets under management in the
+
+personal
+
+pension product market growing from EUR 0.7 trillion to EUR 2.1 trillion by 2030 with the PEPP versus EUR 1.4 trillion without the PEPP, assuming that tax incentives are granted to the PEPP.
+
+It would also have a positive social impact as more people would be able to complement other sources of income in retirement with PEPP and thus improve the adequacy of their pensions. It would in particular have a greater impact for workers in non-standard employment, self-employed and mobile workers who have not sufficient or no access to state or occupational pension systems. The positive social impact would be higher in Member States with a limited choice and limited take-up of personal pension products at present.
+
+No significant environmental impact is expected, although encouraging providers to take into account environmental, social and governance factors in their investments (associated with disclosure requirements) can have a positive effect in terms of sustainability.
+
+3.4.
+
+Fundamental rights
+
+The proposal respects the fundamental rights and observes the principles recognised by the Charter of Fundamental Rights of the European Union, in particular the right to the protection of personal data, the right to property, the freedom to conduct a business and the principle of equality between men and women. It contributes to the objectives of Article 38 of the Charter which provides for a high level of consumer protection.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The proposal has implications for the EU budget. In particular, the additional tasks for the European supervisory authorities (ESAs) will require an increase in resources as well as certain operational investments. These tasks include:
+
+·
+
+authorisation of PEPPs;
+
+·
+
+the development of additional guidance; or
+
+·
+
+a central register for all authorised PEPPs.
+
+Costs of EUR 1 000 000 have been estimated for 2019, including a one-time investment for operational matters, and will total around EUR 1 200 000 per year by 2021. Under the current co-financing arrangements of the ESAs, 40 % of this funding will be included in the EU budget and will, as such, not go beyond what is set out in the current multiannual financial framework that runs until 2020.
+
+5.
+
+OTHER ELEMENTS
+
+5.1.
+
+Implementation plans and monitoring, evaluation and reporting arrangements
+
+After the Regulation has entered into force, the Commission will monitor key mid-term performance indicators for the objectives. These indicators include:
+
+·
+
+the total uptake — in terms of assets under management — of personal pension products and the geographical and sectorial distribution of PEPP providers and investments in PEPPs (objective of increasing investment in the EU and contributing to completing the CMU);
+
+·
+
+the number of PEPP registrations and the relative share of personal pension products (including national products and the PEPP) as a percentage of households’ financial assets (objective of improving the product features on the personal pension market); and
+
+·
+
+the number of providers using a passport for cross-border activity and the relative share of PEPPs with more than one national compartment as compared to all personal pension products (objective of increasing the cross-border provision and portability of personal pension products).
+
+The data collected by the ESAs in particular could help monitor the PEPP performance indicators.
+
+In addition, the Commission will assess to what extent the Commission recommendation for preferential tax treatment for the PEPP has been taken up by Member States through national legislation.
+
+The proposal includes an evaluation five years after the date of application of the Regulation.
+
+5.2.
+
+Detailed explanation of the specific provisions of the proposal
+
+The proposed Regulation on a pan-European Personal Pension Product has 11 chapters. Apart from the first chapter (General provisions) and last chapter (Final provisions), the structure follows the life cycle of the product.
+
+Chapter I outlines the objectives of the proposed Regulation, which include:
+
+·
+
+raising more capital and channelling it towards European long-term investments in the real economy;
+
+·
+
+offering enhanced product features so that citizens benefit from a simple, safe and cost-effective personal pension product while being able to choose from different types of PEPP providers; and
+
+·
+
+encouraging PEPP cross-border provision and portability.
+
+Chapter I contains the definitions of important concepts for the proposed Regulation, including ‘pan-European Personal Pension Product’, ‘PEPP account’, ‘retirement benefits’, ‘accumulation phase’, ‘decumulation phase’, ‘provider’ and ‘distributor of a PEPP’, ‘portability of the PEPP’ and ‘switching providers’.
+
+The Article on applicable rules explains the interaction between the proposed Regulation, the contractual provisions for PEPP and national rules for regulating the subject matter.
+
+Chapter II introduces the principle that only financial undertakings already authorised at EU level by the competent authorities under the applicable sectorial legal instrument, would be eligible to apply for authorisation to provide PEPPs (i.e. to create and distribute them). The authorisation to act as a PEPP provider, i.e. to use the ‘PEPP’ label for personal pension products, will be granted by a single EU authority, EIOPA. The designation ‘PEPP’ or ‘pan-European Personal Pension Product’ in relation to a personal pension product may only be used where the personal pension product has been authorised by EIOPA to be provided under the designation ‘PEPP’. Existing personal pension products may be converted into PEPPs following authorisation by EIOPA, which must consult the competent supervisory authority of the financial undertaking before deciding whether to reject or approve its application.
+
+In addition, Chapter II provides rules so that PEPPs might also be distributed by financial undertakings that have not created them. This can be done by financial undertakings that have received a specific authorisation for distribution by their national competent authorities, and by insurance, reinsurance and ancillary insurance intermediaries registered as such under Directive 2016/97/EU (the Insurance Distribution Directive).
+
+Chapter III establishes the allocation of prerogatives between the competent authorities of home and host Member States in allowing the freedom to provide services and the freedom of establishment by PEPP providers. Acknowledging the concerns of some Member States about a possible uneven playing field due to the different prudential regimes to which the different types of potential PEPP providers are subject to, the ‘passporting’ regime would mitigate the competitive effects of the different prudential regimes to a large extent, insofar as it relies on the competent authorities of home and host Member States along with the ‘label’ authorisation entrusted to EIOPA.
+
+Chapter III also includes the provisions on portability. This enables PEPP savers who change their domicile by moving to another Member State to continue paying into a PEPP that they have already taken out with a provider in the original Member State. In such a case, PEPP savers are entitled to keep all the advantages and incentives connected with continuous investment in the same PEPP.
+
+The mechanism behind the portability service envisages opening a new compartment within each individual PEPP account. This compartment corresponds to the legal requirements and conditions for using tax incentives fixed at national level for the PEPP by the Member State to which the PEPP saver moves. The mechanism for opening new compartments, transferring the accumulated rights between these compartments and providing information about this option is laid down in the proposed Regulation and follows a staggered approach. During the first three years of application of the Regulation, PEPP providers will have to provide information on the available compartments. Afterwards, PEPP savers will be entitled to open national compartments that cover all Member States’ regimes.
+
+Chapter IV aims to achieve the greatest possible transparency, in particular for potential PEPP savers, on PEPP features. The rules clarify in particular that all documents and information on PEPP will be provided to prospective PEPP savers and PEPP beneficiaries electronically –electronic distribution is the default option. Upon request, PEPP providers and distributors must also provide those documents and information free of charge in a durable medium.
+
+In terms of advice, PEPP providers will be expected to conduct a suitability and appropriateness test of potential PEPP savers, although savers may waive their right to receive advice if they opt for the default option.
+
+The cornerstone of providing pre-contractual information is the PEPP key information document. Its form, content and conditions of provision are described in detail in the proposed Regulation.
+
+On the information provided during the term of the PEPP contract, the provider must produce a ‘PEPP Benefit Statement’. This will include information on:
+
+·
+
+the accrued entitlements or accumulated capital;
+
+·
+
+full or partial guarantees under the PEPP scheme; and
+
+·
+
+if applicable, the nature of the guarantee and mechanisms to protect accrued individual entitlements.
+
+Chapter V deals with the accumulation phase of the PEPP, including investment rules for PEPP providers and PEPP savers. The provisions applicable to PEPP providers are derived from the ‘prudent person rule’
+
+26
+
+and provide a safe and reliable framework for investment policies.
+
+As to PEPP savers, they are to be offered up to five investment options by PEPP providers, one of them being a default investment option that ensures that the PEPP saver recoups at least the capital invested. All investment options must be designed by PEPP providers on the basis of proven risk mitigation techniques that ensure sufficient protection for PEPP savers. Having concluded the PEPP contract, PEPP savers must select an investment option and must be able to change it free of charge once in every five years of accumulation.
+
+Scope is left to Member States as regards all other conditions relating to the accumulation phase. Such conditions may include:
+
+·
+
+age limits for starting the accumulation phase;
+
+·
+
+minimum duration of the accumulation phase;
+
+·
+
+maximum and minimum amount of in-payments and their continuity; and
+
+·
+
+conditions for redemption before retirement age in case of particular hardship.
+
+Chapter VI establishes the mechanism for appointing a depositary in the case of a PEPP scheme where PEPP savers and PEPP beneficiaries fully bear the investment risk. The provisions cover the safekeeping of assets, the oversight duties of the depositary and its liability.
+
+The proposed Regulation requires that procedures be set up to allow customers and other interested parties, especially consumer associations, to lodge complaints against PEPP providers and distributors. In all cases, complainants must receive replies. Appropriate mechanisms for impartial and independent out-of-court complaint and redress procedures for the settlement of disputes between PEPP savers and PEPP providers or distributors must also be put in place.
+
+The proposed Regulation includes the possibility for PEPP providers to cover the risk of death and other biometric risks.
+
+Chapter VII regulates the switching of PEPP providers. Following a request by the PEPP saver, any positive balance will be transferred from a PEPP account held with the transferring provider to a new PEPP account opened with the receiving provider, and the former PEPP account will be closed. The switching service may be provided by PEPP providers established in the same Member State (domestic switching) or in different Member States (cross-border switching). A ceiling is envisaged for the total fees and charges applied by the transferring PEPP provider to the PEPP saver for the termination of the PEPP account held with it.
+
+Chapter VIII leaves most of the PEPP conditions related to the decumulation phase to be determined by Member States — in particular:
+
+·
+
+setting the retirement age;
+
+·
+
+a mandatory link between reaching retirement age and the start of the decumulation phase;
+
+·
+
+a minimum period of belonging to a PEPP scheme; and
+
+·
+
+a maximum period before reaching retirement age for joining a PEPP scheme.
+
+On the forms of out-payments (e.g. annuities, lump sums, income drawdown payments), by giving PEPP providers, PEPP savers and PEPP beneficiaries the freedom to contractually determine the form(s), the proposal imposes this flexibility on Member States as a mandatory condition, which may have an impact on the availability of national tax incentives for the PEPPs in some Member States.
+
+Chapter IX divides the supervisory responsibilities between EIOPA and the national competent authorities. EIOPA is required to monitor pension schemes established or distributed in the territory of the EU to verify that they do not use the designation ‘PEPP’ or infer that they are a PEPP unless they are authorised under the proposed Regulation.
+
+Chapter X describes which infringements of the provisions of the proposed Regulation may lead to penalties, how national competent authorities may impose these penalties and how infringements and penalties should be reported.
+
+Chapter XI confers on the European Commission the power to adopt delegated acts in the areas of:
+
+·
+
+conflicts of interest;
+
+·
+
+inducements;
+
+·
+
+selling PEPPs with and without advice;
+
+·
+
+product oversight and governance requirements;
+
+·
+
+provision of information during the contract term; and
+
+·
+
+reporting to national authorities and investment options.
+
+The Commission will also adopt regulatory technical standards on the content and provision of the key information document and implement technical standards on a standardised presentation format for the PEPP Benefit Statement.
+
+The Commission is required to evaluate the Regulation five years after the date of entry into force of the Regulation. The evaluation would notably look at how its rules are working and the experience acquired in applying them, the extent to which the designation "PEPP" has been used by PEPP providers, the geographical and sectorial distribution of PEPP providers and investments in PEPPs, the impact of this Regulation on the personal pensions market, the appropriateness of the information requirements under Chapter IV, the appropriateness of complementing this Regulation with provisions on incentives for investing in PEPPs, the existence of any barriers that may have impeded investment into personal pension products using the designation "PEPP", including the impact on PEPP savers of other Union law, the level of fees and charges required by PEPP providers for opening new compartments within PEPP savers' individual PEPP accounts, and the impact of PEPP-related investment decisions on environmental, social and governance factors.
+
+2017/0143 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on a pan-European Personal Pension Product (PEPP)
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114
+
+thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+27
+
+,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+EU households are amongst the highest savers in the world, but the bulk of these savings are held in bank accounts with short maturities.
+
+More investment into capital markets can help meet the challenges posed by population ageing and low interest rates.
+
+(2)
+
+Personal pensions are important in linking long-term savers with long-term investment opportunities.
+
+A larger, European market for personal pensions will support the supply of funds for institutional investors and investment into the real economy.
+
+(3)
+
+Currently, the functioning of the internal market for personal pensions is impeded by the high degree of fragmentation between national markets and the limited degree of portability of personal pension products. This can result in difficulties for individuals to make use of their basic freedoms. For instance, they may be prevented from taking up a job or retiring in another Member State. In addition, the possibility for providers to use the freedom of establishment and the freedom to provide services is hampered by the lack of standardisation of existing personal pension products.
+
+(4)
+
+The Capital Markets Union (CMU) will help mobilise capital in Europe and channel it to all companies, including small and medium enterprises, infrastructure and long term sustainable projects that need it to expand and create jobs. One of the main objectives of the CMU is to
+
+increase investment and choices for retail investors by putting European savings to better use.
+
+(5)
+
+As announced in the Commission's Action Plan on building a CMU
+
+28
+
+, in September 2015, "the Commission will assess the case for a policy framework to establish a successful European market for simple, efficient and competitive personal pensions, and determine whether EU legislation is required to underpin this market."
+
+(6)
+
+In its Resolution of 19 January 2016
+
+29
+
+, the European Parliament stressed that "
+
+an environment must be fostered that stimulates financial product innovation, creating more diversity and benefits for the real economy and providing enhanced incentives for investments, and that may also contribute to the delivery of adequate, safe and sustainable pensions, such as, for example, the development of a pan-European Pension Product (PEPP), with a simple transparent design
+
+".
+
+(7)
+
+In its conclusions of 28 June 2016
+
+30
+
+, the European Council called for "
+
+swift and determined progress to ensure easier access to finance for business and to support investment in the real economy by moving forward with the Capital Markets Union agenda
+
+".
+
+(8)
+
+In its Communication of 14 September 2016 Capital Markets Union – Accelerating Reform
+
+31
+
+, the Commission announced that it "will consider proposals for a simple, efficient and competitive EU personal pension product [..] Options under consideration include a possible legislative proposal which could be tabled in 2017."
+
+(9)
+
+In its Communication Mid-Term Review of the Capital Markets Union Action Plan
+
+32
+
+, the Commission announced "a legislative proposal on a pan-European Personal Pension Product (PEPP) by end June 2017. This will lay the foundations for a safer, more cost-efficient and transparent market in affordable and voluntary personal pension savings that can be managed on a pan-European scale. It will meet the needs of people wishing to enhance the adequacy of their retirement savings, address the demographical challenge, complement the existing pension products and schemes, and support the cost-efficiency of personal pensions by offering good opportunities for long-term investment of pension savings".
+
+(10)
+
+Among
+
+personal pension products
+
+, the development of a PEPP will contribute to increasing choices for retirement saving and establish an EU market for PEPP providers. It will provide households with better options to meet their retirement goals.
+
+(11)
+
+A legislative framework for a
+
+PEPP will lay the foundations for a successful market in affordable and voluntary retirement-related investments that can be managed on a pan-European scale. By complementing the existing pension products and schemes, it will
+
+contribute to
+
+meeting the needs of people wishing to enhance the adequacy of their retirement savings, addressing the demographical challenge and providing a powerful new source of private capital for long-term investment. This framework will not replace or harmonise existing national personal pension schemes.
+
+(12)
+
+The Regulation harmonises a set of core features for the PEPP, which concern key elements such as distribution, investment policy, provider switching, or cross-border provision and portability. The harmonisation of these core features will improve the level playing field for personal pension providers at large and help boost the completion of the CMU and the integration of the internal market for personal pensions. It will lead to the creation of a largely standardised pan-European product, available in all Member States, empowering consumers to make full use of the internal market by transferring their pension rights abroad and offering a broader choice between different types of providers, including in a cross-border way.
+
+As a result of fewer barriers to the provision of pension services across borders, a pan-European Personal Pension Product will increase competition between providers on a pan-European basis and create economies of scale that should benefit savers.
+
+(13)
+
+Article 114 TFEU allows the adoption of acts both in the shape of Regulations or Directives. The adoption of a Regulation has been preferred as it would become directly applicable in all Member States. Therefore, a Regulation would allow a quicker uptake of the PEPP and contribute more rapidly to address the need for more pension savings and investments in the CMU context. Since this Regulation is harmonising the core features of the PEPPs, they do not have to be subject to specific national rules, so a Regulation appears better suited than a Directive in this case. On the contrary, the features which are out of the scope of the Regulation (e.g. accumulation phase conditions) are subject to national rules.
+
+(14)
+
+PEPP providers should have access to the whole Union market with one single product authorisation issued by the European Insurance and Occupational Pensions Authority ("EIOPA"), on the basis of a single set of rules.
+
+(15)
+
+The single PEPP passport will ensure the creation of a single market for PEPP.
+
+(16)
+
+In order to ensure a high quality of service and effective consumer protection, home and host Member States should closely cooperate in the enforcement of the obligations set out in this Regulation. Where PEPP providers and distributors pursue business in different Member States under the freedom to provide services, the competent authority of the home Member State should be responsible for ensuring compliance with the obligations set out in this Regulation, because of its closer links with the PEPP provider. In order to ensure fair sharing of responsibilities between the competent authorities from the home and the host Member States, if the competent authority of a host Member State becomes aware of any breaches of obligations occurring within its territory, it should inform the competent authority of the home Member State which should then be obliged to take the appropriate measures. Moreover, the competent authority of the host Member State should be entitled to intervene if the home Member State fails to take appropriate measures or if the measures taken are insufficient.
+
+(17)
+
+In the case of the establishment of a branch or a permanent presence in another Member State, it is appropriate to distribute responsibility for enforcement between home and host Member States. While responsibility for compliance with obligations affecting the business as a whole – such as the rules on professional requirements –   should remain with the competent authority of the home Member State under the same regime as in the case of provision of services, the competent authority of the host Member State should assume responsibility for enforcing the rules on information requirements and conduct of business with regard to the services provided within its territory. However, where the competent authority of a host Member State becomes aware of any breaches of obligations occurring within its territory with respect to which this Directive does not confer responsibility on the host Member State, a close cooperation demands that that authority informs the competent authority of the home Member State so that the latter takes the appropriate measures. Such is the case in particular as regards breaches of the rules on good repute, professional knowledge and competence requirements. Moreover, in view of protecting consumers, the competent authority of the host Member State should be entitled to intervene if the home Member State fails to take appropriate measures or if the measures taken are insufficient.
+
+(18)
+
+The competent authorities of the Member States should have at their disposal all means necessary to ensure the orderly pursuit of business by PEPP providers and distributors throughout the Union, whether pursued in accordance with the freedom of establishment or the freedom to provide services. In order to ensure the effectiveness of supervision, all actions taken by the competent authorities should be proportionate to the nature, scale and complexity of the risks inherent in the business of a particular provider or distributor, regardless of the importance of the provider or distributor concerned for the overall financial stability of the market.
+
+(19)
+
+The pan-European dimension of the PEPP can be developed not only at the level of the provider, through the possibilities for its cross-border activity, but also at the level of the PEPP saver – through the portability of the PEPP, thus contributing to the safeguarding of personal pension rights of persons exercising their right to free movement under Articles 21 and 45 TFEU. Portability involves the PEPP saver changing residence to another Member State without changing PEPP providers, whereas the switching of PEPP providers does not necessarily involve a change of residence.
+
+(20)
+
+A PEPP should comprise national compartments, each of them accommodating personal pension product features allowing that contributions to the PEPP qualify for incentives. At the level of the individual PEPP saver, a first compartment should be created upon opening of a PEPP.
+
+(21)
+
+In order to allow a smooth transition for PEPP providers, the obligation of providing PEPPs comprising compartments for each Member State will apply three years after the entry into force of this Regulation. However, upon launching a PEPP, the provider should provide information on which national compartments are immediately available, in order to avoid a possible misleading of consumers.
+
+(22)
+
+Taking into account the nature of the pension scheme established and the administrative burden involved, PEPP providers and distributors should provide clear and adequate information to potential PEPP savers and PEPP beneficiaries to support their decision-making about their retirement. For the same reason, PEPP providers and distributors should equally ensure a high level of transparency throughout the various phases of a scheme comprising pre-enrolment, membership (including pre-retirement) and post-retirement. In particular, information concerning accrued pension entitlements, projected levels of retirement benefits, risks and guarantees, and costs should be given. Where projected levels of retirement benefits are based on economic scenarios, that information should also include an unfavourable scenario, which should be extreme but plausible.
+
+(23)
+
+Before joining a PEPP scheme, potential PEPP savers should be given all the necessary information to make an informed choice.
+
+(24)
+
+In order to ensure optimal product transparency, PEPP manufacturers should draw up the PEPP key information document for the PEPPs that they manufacture before the product can be distributed to PEPP savers. They should also be responsible for the accuracy of the PEPP key information document. The PEPP key information document should replace and adapt the key information document for packaged retail and insurance-based investment products under Regulation (EU) No 1286/2014 of the European Parliament and of the Council
+
+33
+
+which would not have to be provided for PEPPs.
+
+(25)
+
+In order to ensure widespread dissemination and availability of PEPP key information documents, this Regulation should provide for publication by the PEPP manufacturer of PEPP key information documents on its website.
+
+(26)
+
+Pension product calculators are already being developed at national level. However, in order for the calculators to be as useful as possible to consumers, they should cover the costs and fees charged by the various PEPP manufacturers, together with any further costs or fees charged by intermediaries or other parts of the investment chain not already included by the PEPP manufacturers.
+
+(27)
+
+The details of the information to be included in the PEPP key information document in addition to elements already provided for in the key information document
+
+for packaged retail and insurance-based investment products under Regulation (EU) No 1286/2014
+
+and the presentation of this information should be further harmonised through regulatory technical standards that complement the regulatory technical standards laid down by Commission delegated Regulation of 8 March 2017
+
+34
+
+, taking into account existing and ongoing research into consumer behaviour, including results from testing the effectiveness of different ways of presenting information with consumers.
+
+(28)
+
+The PEPP key information document should be clearly distinguishable and separate from any marketing communications.
+
+(29)
+
+PEPP providers should draw up a Pension Benefit Statement addressed to PEPP savers, in order to present them with key personal and generic data about the PEPP scheme and to ensure continuous information on it. The Pension Benefit Statement should be clear and comprehensive and should contain relevant and appropriate information to facilitate the understanding of pension entitlements over time and across schemes and serve labour mobility.
+
+(30)
+
+PEPP providers should inform PEPP savers sufficiently in advance before retirement about their pay-out options. Where the retirement benefit is not paid out as a lifetime annuity, members approaching retirement should receive information about the benefit payment products available, in order to facilitate financial planning for retirement.
+
+(31)
+
+During the phase when retirement benefits are paid, PEPP beneficiaries should continue to receive information on their benefits and corresponding pay-out options. This is particularly important when a significant level of investment risk is borne by PEPP beneficiaries in the pay-out phase. PEPP beneficiaries should also be informed of any reduction in the level of benefits due, prior to the application of any such reduction, after a decision which will result in a reduction has been taken. As a matter of best practice, PEPP providers are recommended to consult PEPP beneficiaries in advance of any such decision.
+
+(32)
+
+In order to protect adequately the rights of PEPP savers and PEPP beneficiaries, PEPP providers should be able to opt for an asset allocation that suits the precise nature and duration of their liabilities. Therefore, efficient supervision is required as well as an approach to investment rules that allows PEPP providers sufficient flexibility to decide on the most secure and efficient investment policy, while obliging them to act prudently. Compliance with the prudent person rule therefore requires an investment policy geared to the customers' structure of the individual PEPP provider.
+
+(33)
+
+By setting the prudent person rule as the underlying principle for capital investment and making it possible for PEPP providers to operate across borders, the redirection of savings into the sector of personal retirement provision is encouraged, thereby contributing to economic and social progress.
+
+(34)
+
+This Regulation should ensure an appropriate level of investment freedom for PEPP providers. As very long-term investors with low liquidity risks, PEPP providers are in a position to contribute to the development of the CMU by investing in non-liquid assets such as shares and in other instruments that have a long-term economic profile and are not traded on regulated markets, multilateral trading facilities (MTFs) or organised trading facilities (OTFs) within prudent limits. They can also benefit from the advantages of international diversification. Investments in shares in currencies other than those of the liabilities and in other instruments that have a long-term economic profile and are not traded on regulated markets, MTFs or OTFs should therefore not be restricted, in line with the prudent person rule so as to protect the interest of PEPP savers and PEPP beneficiaries, except on prudential grounds.
+
+(35)
+
+In the context of deepening the CMU, the understanding of what constitutes instruments with a long-term economic profile is broad. Such instruments are non-transferable securities and therefore do not have access to the liquidity of secondary markets. They often require fixed term commitments which restrict their marketability and should be understood to include participation and debt instruments in, and loans provided to, non-listed undertakings. Non-listed undertakings include infrastructure projects, unlisted companies seeking growth, real estate or other assets that could be suitable for long term investment purposes. Low carbon and climate resilient infrastructure projects are often non-listed assets and rely on long term credits for project financing.
+
+Considering the long-term nature of their liabilities, PEPP providers are encouraged to allocate a sufficient part of their asset portfolio to sustainable investments in the real economy with long-term economic benefits, in particular to infrastructure projects and corporates.
+
+(36)
+
+Environmental, social and governance factors, as referred to in the United Nations-supported Principles for Responsible Investment, are important for the investment policy and risk management systems of PEPP providers. PEPP providers should be encouraged to consider such factors in investment decisions and to take into account how they form part of their risk management system.
+
+(37)
+
+In ensuring compliance with their obligation to develop an investment policy in accordance with the prudent person rule, PEPP providers should be prevented to invest in high-risk and non-cooperative jurisdictions identified by the Financial Action Task Force.
+
+(38)
+
+In view of the long-term retirement objective of the PEPP, the investment options granted to the PEPP savers should be framed, covering the elements which allow investors to make an investment decision, including the number of investment options they can choose from. After the initial choice made upon the subscription of a PEPP, the PEPP saver should have the possibility to modify this choice at reasonable intervals (every five years), so that sufficient stability is offered to providers for their long-term investment strategy whilst at the same time investor protection is ensured.
+
+(39)
+
+The default investment option should allow the PEPP saver to recoup the invested capital. The PEPP providers could in addition include an inflation indexation mechanism to at least partly cover inflation.
+
+(40)
+
+The competent authority should exercise its powers having as its prime objectives the protection of the rights of PEPP savers and PEPP beneficiaries and the stability and soundness of PEPP providers.
+
+(41)
+
+Where the PEPP provider is an institution for occupational retirement provision or an investment firm, it should appoint a depositary in relation to the safe-keeping of its assets. This is necessary for protecting consumers, since the sectorial legislation applicable to institutions for occupational retirement provision and investment firms does not provide for the appointment of a depositary.
+
+(42)
+
+Transparency of costs and fees is essential to develop PEPP savers' trust and allow them to make informed choices. Accordingly, the use of non-transparent pricing methods should be prohibited.
+
+(43)
+
+In order to fulfil the objectives set out in this Regulation, the power to adopt acts in accordance with Article 290 of the Treaty on the Functioning of the European Union should be delegated to the Commission in respect of specifying the conditions for the exercise of intervention powers by EIOPA and the competent authorities. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work. The Commission, when preparing and drawing up delegated acts, should ensure a simultaneous, timely and appropriate transmission of relevant documents to the European Parliament and to the Council.
+
+(44)
+
+The Commission should adopt draft implementing technical standards developed by the ESAs, through the Joint Committee, with regard to the presentation and the content of specific elements the PEPP key information document not covered by the [PRIIPs KID RTS] in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council
+
+35
+
+, of Regulation (EU) No 1094/2010 of the European Parliament and of the Council
+
+36
+
+and of Regulation (EU) No 1095/2010 of the European Parliament and of the Council
+
+37
+
+. The Commission should complement the technical work of the ESAs by conducting consumer tests of the presentation of the key information document as proposed by the ESAs.
+
+(45)
+
+Without prejudice to the right of PEPP customers to bring action in the courts, easily accessible, adequate, independent, impartial, transparent and effective alternative dispute resolution (ADR)
+
+procedures should be established between PEPP providers or distributors and PEPP customers for resolving disputes arising from the rights and obligations set out in this Regulation.
+
+(46)
+
+With a view to establishing an efficient and effective dispute resolution procedure, PEPP providers and distributors should put in place an effective complaints procedure that can be followed by their customers before the dispute is referred to be resolved in an ADR procedure or before a court. The complaints procedure should contain short and clearly defined timeframes within which the PEPP provider or distributor should reply to a complaint. ADR entities should have sufficient capacity to engage in an adequate and efficient way in cross-border cooperation with regard to disputes concerning rights and obligations pursuant to this Regulation.
+
+(47)
+
+In order to find better conditions for their investments, thus also stimulating the competition among PEPP providers, PEPP savers should have the right to switch providers during the accumulation and the decumulation phases, through a clear, quick and safe procedure.
+
+(48)
+
+The switching process should be straightforward for the PEPP saver. Accordingly, the receiving PEPP provider should be responsible for initiating and managing the process on behalf of the PEPP saver. PEPP providers should be able to use additional means, such as a technical solution, on a voluntary basis when establishing the switching service.
+
+(49)
+
+Before giving the authorisation for switching, the PEPP saver should be informed of all the steps of the procedure necessary to complete the switching.
+
+(50)
+
+The cooperation of the transferring PEPP provider is necessary in order for the switching to be successful. Therefore, the receiving PEPP provider should be provided by the transferring PEPP provider with all the information necessary to reinstate the payments on the other PEPP account. However, such information should not exceed what is necessary in order to carry out the switching.
+
+(51)
+
+In order to facilitate cross-border switching, the PEPP saver should be allowed to ask the new PEPP provider to provide the PEPP saver with information giving details of the new PEPP account, preferably within a single meeting with the new PEPP provider.
+
+(52)
+
+PEPP savers should not be subject to financial losses, including charges and interest, caused by any mistakes made by either of the PEPP providers involved in the switching process. In particular, PEPP savers should not bear any financial loss deriving from the payment of additional fees, interest or other charges as well as fines, penalties or any other type of financial detriment due to delay in the execution of the switching.
+
+(53)
+
+PEPP savers should be given the freedom to decide upon subscription of a PEPP about their pay-out choice (annuities, lump sum, or other) in the decumulation phase, but with a possibility to revise their choice once every five years thereafter, in order to be able to best adapt their pay-out choice to their needs when they near retirement.
+
+(54)
+
+PEPP providers should be allowed to make available to PEPP savers a wide range of decumulation options. This approach would achieve the goal of enhanced take-up of the PEPP through increased flexibility and choice for PEPP savers. It would allow providers to design their PEPPs in the most cost-effective way. It is coherent with other EU policies and politically feasible, as it preserves enough flexibility for Member States to decide about which decumulation options they wish to encourage.
+
+(55)
+
+Full transparency on costs and fees related to the investment in a PEPP should be guaranteed. A level-playing field between providers would be established, whilst ensuring consumer protection. Comparative information would be available between different products, thus incentivising competitive pricing.
+
+(56)
+
+Although the ongoing supervision of PEPP providers is to be exercised by the respective competent national authorities, EIOPA should coordinate the supervision with regards to PEPPs
+
+, in order to guarantee the application of a unified supervisory methodology, contributing in this way to the pane-European nature of the pension product.
+
+(57)
+
+EIOPA should cooperate with
+
+national competent authorities and
+
+facilitate
+
+cooperation between them. In this respect, EIOPA should play a role in the power of competent national authorities to apply supervisory measures by providing evidence about PEPP-related infringements. EIOPA should also provide binding mediation in the event of disagreement between competent authorities in cross-border situations.
+
+(58)
+
+In order to ensure compliance with the provisions of this Regulation by financial undertakings that manufacture PEPP, as well as by financial undertakings and persons that distribute PEPP, and to ensure that they are subject to similar treatment across the Union, administrative sanctions and other measures which are effective, proportionate and dissuasive should be provided.
+
+(59)
+
+In line with the Commission Communication of 8 December 2010 "Reinforcing sanctioning regimes in the financial services sector"
+
+38
+
+and in order to ensure that the requirements of this Regulation are fulfilled, it is important that Member States take necessary steps to ensure that infringements of this Regulation are subject to appropriate administrative penalties and measures.
+
+(60)
+
+Although Member States may lay down rules for administrative and criminal penalties for the same infringements, Member States should not be required to lay down rules for administrative penalties for the infringements of this Regulation which are subject to national criminal law. However, the maintenance of criminal penalties instead of administrative penalties for infringements of this Regulation should not reduce or otherwise affect the ability of competent authorities to cooperate, access and exchange information in a timely way with competent authorities in other Member States for the purposes of this Regulation, including after any referral of the relevant infringements to the competent judicial authorities for criminal prosecution.
+
+(61)
+
+Competent authorities should be empowered to impose pecuniary sanctions which are sufficiently high to offset the actual or potential profits, and to be dissuasive even for larger financial undertakings and their managers.
+
+(62)
+
+In order to ensure a consistent application of sanctions across the Union, the competent authorities should take into account all relevant circumstances when determining the type of administrative sanctions or other measures and the level of administrative pecuniary sanctions.
+
+(63)
+
+In order to ensure that decisions on breaches and penalties by competent authorities have a dissuasive effect on the public at large and
+
+to strengthen consumer protection by warning them about PEPPs distributed in infringement of this Regulation
+
+, those decisions should be published, provided that the time period for lodging an appeal has passed and no appeal was lodged, unless such disclosure jeopardises the stability of financial markets or an ongoing investigation.
+
+(64)
+
+In order to detect potential breaches, the competent authorities should have the necessary investigatory powers, and should establish effective mechanisms, to enable reporting of potential or actual breaches.
+
+(65)
+
+This Regulation should be without prejudice to any provisions in the laws of Member States in respect of criminal offences.
+
+(66)
+
+Any processing of personal data carried out within the framework of this Regulation, such as the exchange or transmission of personal data by the competent authorities should be undertaken in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council
+
+39
+
+and any exchange or transmission of information by the ESAs should be undertaken in accordance with Regulation (EC) No 45/2001 of the European Parliament and of the Council
+
+40
+
+.
+
+(67)
+
+Tax incentives can take different forms and play an important role in encouraging the take-up of personal pension products ((PPPs) in a number of Member States. In many Member States the contributions paid for PPPs qualify for some form of tax relief, be it explicit or implicit.
+
+(68)
+
+This Regulation should not be understood as obliging Member States to apply to PEPPs the same tax rules as they would apply to comparable personal pension products under their national laws. However, in application of the national treatment principle, stemming from Articles 21 and 45 of the TFEU and interpreted by the Court of Justice of the European Union, it should be possible for a PEPP that is objectively comparable to a personal pension product (PPP) distributed in a given Member State to benefit from the same tax relief granted to the PPP in this Member State, if the PEPP saver there is subject to tax. This also applies if the PEPP is provided by a provider from another Member State.
+
+(69)
+
+Following the launch of the PEPP, Member States are encouraged to take into consideration Commission Recommendation (EU) 2017/… and to extend the benefits of the tax advantages they grant to national PPPs also to the PEPP.
+
+(70)
+
+An evaluation of this Regulation is to be be carried out, inter alia,  by assessing market developments, such as the emergence of new types of PEPPs, as well as developments in other areas of Union law and the experiences of Member States.
+
+(71)
+
+This Regulation respects fundamental rights and observes the principles recognised in particular by the Charter of the Fundamental Rights of the European Union, in particular the
+
+right to the protection of personal data, the right to property, the freedom to conduct a business, the principle of equality between men and women
+
+and the principle of a high level of consumer protection.
+
+(72)
+
+Since the objectives of this Regulation, namely to enhance PEPP saver protection and improve PEPP saver confidence in PEPPs, including where those products are distributed cross-border, cannot be sufficiently achieved by the Member States but can rather, by reason of its effects, be better achieved at Union level the Union may adopt measures, in accordance with principle of subsidiarity as set out in Article 5 of the Treaty of the European Union. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives.
+
+HAVE ADOPTED THIS REGULATION:
+
+CHAPTER I
+
+GENERAL PROVISIONS
+
+Article 1
+
+Subject matter
+
+This Regulation lays down uniform rules on the authorisation, manufacturing, distribution and supervision of personal pension products that are distributed in the Union under the designation "pan-European Personal Pension product" or "PEPP".
+
+Article 2
+
+Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1)
+
+"personal pension product" means a product which:
+
+(a)
+
+is based on a contract between an individual saver and an entity on a voluntary basis;
+
+(b)
+
+has an explicit retirement objective;
+
+(c)
+
+provides for capital accumulation until retirement with only limited possibilities for early withdrawal before retirement;
+
+(d)
+
+provides an income on retirement;
+
+(2)
+
+"pan-European Personal Pension Product (PEPP)" means a long-term savings personal pension product, which is provided under an agreed PEPP scheme by a regulated financial undertaking authorised under Union law to manage collective or individual investments or savings, and subscribed to voluntarily by an individual PEPP saver in view of retirement, with no or strictly limited redeemability;
+
+(3)
+
+"PEPP saver" means:
+
+(a)
+
+a retail client as defined in point (11) of Article 4(1) of Directive 2014/65/EU of the European Parliament and of the Council
+
+41
+
+;
+
+(b)
+
+a customer within the meaning of Directive 2002/92/EC of the European Parliament and of the Council
+
+42
+
+, where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of Directive 2014/65/EU;
+
+(4)
+
+"PEPP scheme" means a contract, an agreement, a trust deed or rules stipulating which retirement benefits are granted and under which conditions on the basis of an individual retirement savings plan agreed with a PEPP provider;
+
+(5)
+
+"PEPP account" means a personal pension account held in the name of a PEPP saver or a PEPP beneficiary which is used for the execution of transactions allowing the PEPP saver to contribute periodically sums towards his retirement and the PEPP beneficiary to receive his retirement benefits;
+
+(6)
+
+"PEPP provision" means the manufacturing and distribution of a PEPP;
+
+(7)
+
+"PEPP beneficiary" means a person receiving PEPP retirement benefits;
+
+(8)
+
+"PEPP distribution" means the activities of advising on, proposing, or carrying out other work preparatory to the conclusion of contracts for providing a PEPP, of concluding such contracts, or of assisting in the administration and performance of such contracts, including the provision of information concerning one or more pension contracts in accordance with criteria selected by PEPP customers through a website or other media and the compilation of a pension product ranking list, including price and product comparison, or a discount on the price of a pension contract, when the PEPP customer is able to directly or indirectly conclude a pension contract using a website or other media;
+
+(9)
+
+"PEPP retirement benefits" means benefits paid by reference to reaching, or the expectation of reaching, retirement. These benefits may take the form of payments for life, payments made for a temporary period, a lump sum, or any combination thereof;
+
+(10)
+
+"accumulation phase" means the period during which assets (in-payments) are accumulated in a PEPP account and normally runs until the age of retirement of the PEPP beneficiary;
+
+(11)
+
+"decumulation phase" means the period during which assets accumulated in a PEPP account are drawn upon to fund retirement or other income requirements;
+
+(12)
+
+"annuity" means a sum payable at specific intervals over a period, such as the PEPP beneficiary's life or a certain number of years, in return for an investment;
+
+(13)
+
+"drawdown payments" means the possibility for the PEPP beneficiaries to draw discretionary amounts, up to a certain limit on a periodic basis;
+
+(14)
+
+"provider of a PEPP" or "PEPP provider" means a financial undertaking authorised to manufacture a PEPP and distributing it;
+
+(15)
+
+"distributor of a PEPP" or "PEPP distributor" means a financial undertaking authorised to
+
+distribute PEPPs not manufactured by it,
+
+as well as an i
+
+nsurance, reinsurance or ancillary insurance intermediary
+
+;
+
+(16)
+
+"durable medium" means any instrument which:
+
+(a)
+
+enables a PEPP customer to store information addressed personally to that customer in a way accessible for future reference and for a period of time adequate for the purposes of the information; and
+
+(b)
+
+allows the unchanged reproduction of the information stored;
+
+(17)
+
+"competent authorities" of the PEPP providers means the national authorities designated by each Member State to supervise PEPP providers;
+
+(18)
+
+"home Member State of the PEPP provider" means the Member State in which the PEPP provider has its registered office;
+
+(19)
+
+"host Member State of the PEPP provider" means a Member State, other than the home Member State, in which a PEPP provider manufactures or distributes PEPPs;
+
+(20)
+
+"compartment" means a section which is opened within each individual PEPP account and which corresponds to the legal requirements and conditions for using incentives fixed at national level for investing in a PEPP by the Member State of the PEPP saver's domicile. Accordingly, an individual may be a PEPP saver or a PEPP beneficiary in each compartment, depending on the respective legal requirements for the accumulation and decumulation phases;
+
+(21)
+
+"capital" means aggregate capital contributions and uncalled committed capital, calculated on the basis of amounts investible after deduction of all fees, charges and expenses that are directly or indirectly borne by investors;
+
+(22)
+
+"financial instrument" means those instruments specified in Section C of Annex I of
+
+Directive 2014/65/EU;
+
+(23)
+
+"depositary" means an institution charged with the safe-keeping of assets and oversight of compliance with the fund rules and applicable law;
+
+(24)
+
+"default investment option" means an investment strategy applied when the PEPP saver has not provided instructions on how to invest the funds accumulating in his PEPP account;
+
+(25)
+
+"risk mitigation techniques" means techniques for a systematic reduction in the extent of exposure to a risk and/or the likelihood of its occurrence;
+
+(26)
+
+"switching providers" means, upon a PEPP customer’s request, transferring from one PEPP provider to another any positive balance from one PEPP account to the other, with or without closing the former PEPP account;
+
+(27)
+
+"advice" means the provision of a personal recommendation to a PEPP saver, either upon his request or at the initiative of the PEPP provider or distributor, in respect of one or more contracts for subscribing PEPP;
+
+(28)
+
+"PEPP customer" means a PEPP saver, a prospective PEPP saver and/or a PEPP beneficiary.
+
+Article 3
+
+Applicable rules
+
+The provision of PEPPs shall be subject to:
+
+(a)
+
+this Regulation
+
+,
+
+(b)
+
+where authorised by this Regulation, the provisions of the contract for the provision of a PEPP concluded between a PEPP saver and a PEPP provider,
+
+(c)
+
+in the case of matters not regulated by this Regulation or, where matters are partly regulated by it, of those aspects not covered by it, by:
+
+(i)
+
+the provisions of laws adopted by Member States in implementation of EU measures relating specifically to the PEPP;
+
+(ii)
+
+the provisions of Member States' laws which would apply to a comparable personal pension product manufactured and distributed in accordance with the law of the Member State in which the manufacturer has its registered office.
+
+CHAPTER II
+
+AUTHORISATION
+
+Article 4
+
+Authorisation
+
+1.
+
+A PEPP may only be manufactured and distributed in the Union where it has been authorised by EIOPA in accordance with this Regulation.
+
+2.
+
+Authorisation of a PEPP shall be valid in all Member States. It entitles the authorisation holder to manufacture and distribute the PEPP as authorised by EIOPA.
+
+Article 5
+
+Application for authorisation of a PEPP
+
+1.
+
+Only the following financial undertakings may apply for authorisation of a PEPP:
+
+(a)
+
+credit institutions authorised in accordance with Directive 2013/36/EU of the European Parliament and of the Council
+
+43
+
+;
+
+(b)
+
+insurance undertakings authorised in accordance with Directive 2009/138/EC of the European Parliament and of the Council
+
+44
+
+, engaged in direct life insurance according to Article 2(3) and Annex II of Directive 2009/138/EC;
+
+(c)
+
+institutions for occupational retirement provision registered or authorised in accordance with Directive 2016/2341/EU of the European Parliament and of the Council
+
+45
+
+;
+
+(d)
+
+investment firms authorised in accordance with Directive 2014/65/EU, engaged in portfolio management or investment advice;
+
+(e)
+
+investment companies or management companies authorised in accordance with Directive 2009/65/EC of the European Parliament and of the Council
+
+46
+
+;
+
+(f)
+
+alternative investment fund ("AIF") managers authorised in accordance with Directive 2011/61/EU of the European Parliament and of the Council
+
+47
+
+.
+
+2.
+
+Financial undertakings listed in paragraph 1 shall submit their applications for authorisation of a PEPP to EIOPA. The application shall include the following:
+
+(a)
+
+information on standard contract terms to be proposed to PEPP savers;
+
+(b)
+
+information on the identity of the applicant and its current and previous financial experience and history;
+
+(c)
+
+the identity of the persons who effectively conduct the business of manufacturing and/or distributing the PEPP;
+
+(d)
+
+information on arrangements regarding portfolio and risk management and administration with regard to the PEPP;
+
+(e)
+
+information about the investment strategies, the risk profile and other characteristics of the PEPP;
+
+(f)
+
+a list of Member States where the applicant PEPP intends to market the PEPP;
+
+(g)
+
+information on the identity of the depositary, if applicable;
+
+(h)
+
+a description of the information to be made available to PEPP savers, including a description of the arrangements for dealing with complaints submitted by PEPP savers;
+
+(i)
+
+proof of the authorisation or registration of the applicant in accordance with the applicable Union legislative act referred to in paragraph 1
+
+and information on the identity of the competent authority which granted it.
+
+3.
+
+EIOPA may request clarification and additional information as regards the documentation and information provided under paragraph 1.
+
+4.
+
+EIOPA may ask the competent authority of the financial undertaking applying for the authorisation for clarification and information as regards the documentation referred to in paragraph 2. The competent authority shall reply to the request within 10 working days from the date on which it has received the request submitted by EIOPA.
+
+5.
+
+Any subsequent modifications to the documentation and information referred to in paragraphs 1 and 2 shall be immediately notified to EIOPA.
+
+Article 6
+
+Conditions for granting authorisation of PEPPs
+
+1.
+
+Within two months from the date of submission of a complete application, EIOPA shall grant authorisation of the PEPP only where EIOPA is fully satisfied that the following conditions are met:
+
+(a)
+
+the applicant complies with this Regulation;
+
+(b)
+
+the applicant is authorised by its competent authority to manufacture products that follow investment strategies of the type covered by this Regulation;
+
+(c)
+
+the proposed PEPP meets all the requirements of this Regulation;
+
+(d)
+
+the proposed PEPP is based on an investment strategy that allows for the retirement outcome contained in the proposed contractual rules.
+
+2.
+
+Before taking a decision on the application, EIOPA shall consult the competent authority of the applicant.
+
+3.
+
+EIOPA shall communicate to the applicant the reasons for any refusal to grant authorisation of a PEPP.
+
+4.
+
+EIOPA shall withdraw the authorisation of a PEPP in the event that the conditions for granting this authorisation are no longer fulfilled.
+
+5.
+
+EIOPA shall, on a quarterly basis, inform the competent authorities of the financial undertakings listed in Article 5(1) of decisions to grant, refuse or withdraw authorisations pursuant to this Regulation.
+
+6.
+
+EIOPA shall ensure co-ordination with and transmit information for the purposes of the exercise of their respective tasks to the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 and the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010.
+
+Article 7
+
+Designation and conversion
+
+1.
+
+The designation "PEPP" or "pan-European Personal Pension Product" in relation to a personal pension product may only be used where the personal pension product has been authorised by EIOPA to be distributed under the designation "PEPP" in accordance with this Regulation.
+
+2.
+
+Existing personal pension products may be converted into "PEPPs" following authorisation by EIOPA.
+
+3.
+
+PEPP providers shall not convert "PEPPs" into personal pension products that are not covered by this Regulation.
+
+Article 8
+
+Distribution of PEPP
+
+1.
+
+Financial undertakings referred to in
+
+Article 5(1) may distribute PEPPs which they have not manufactured upon receiving authorisation for distribution by the competent authorities of their home Member State.
+
+2.
+
+Insurance intermediaries registered in accordance with Directive 2016/97/EU of the European Parliament and of the Council
+
+48
+
+are entitled to distribute PEPPs which they have not manufactured.
+
+Article 9
+
+Prudential regime applicable to different types of providers
+
+PEPP providers and PEPP distributors shall comply at all times with the provisions of this Regulation, as well as with the relevant prudential regime applicable to them in accordance with the legislative acts referred to in Article 5(1).
+
+Article 10
+
+Central public register
+
+EIOPA shall keep a central public register identifying each PEPP authorised under this Regulation, the provider of this PEPP and the competent authority of the PEPP provider. The register shall be made publicly available in electronic format.
+
+CHAPTER III
+
+CROSS-BORDER PROVISION AND PORTABILITY OF PEPP
+
+SECTION I
+
+FREEDOM TO PROVIDE SERVICES AND FREEDOM OF ESTABLISHMENT
+
+Article 11
+
+Exercise of the freedom to provide services and freedom of establishment by PEPP providers and distributors
+
+PEPP providers may provide and PEPP distributors may distribute PEPPs within the territory of a host Member State under the freedom to provide services or the freedom of establishment, provided they do so in compliance with the relevant rules and procedures established by or under the Union legislative acts applicable to them as referred to in Article 5(1) or 8(2).
+
+SECTION II
+
+PORTABILITY
+
+Article 12
+
+The portability service
+
+1.
+
+The portability service allows PEPP savers to continue contributing to the PEPP which they have already contracted with its provider, while changing their domicile by moving to another Member State.
+
+2.
+
+In case of using the portability service, PEPP savers are entitled to retain all advantages and incentives granted by the PEPP provider and connected with continuous investment in the same PEPP.
+
+Article 13
+
+Provision of the portability service
+
+1.
+
+PEPP providers shall provide the portability service to PEPP savers holding a PEPP account with them and requesting this service.
+
+2.
+
+When proposing a PEPP, the PEPP provider or PEPP distributor shall provide potential PEPP savers with information on which national compartments are immediately available.
+
+3.
+
+Three years at the latest after the entry into application of this Regulation, each PEPP shall offer national compartments for all Member States upon request addressed to the PEPP provider.
+
+Article 14
+
+Compartments of the PEPP
+
+Without prejudice to the deadline under Article 13(3), PEPP providers shall ensure that within each individual PEPP account a new compartment could be opened, corresponding to the legal requirements and conditions for using incentives fixed at national level for the PEPP by the Member State to which the PEPP saver moves.
+
+Article 15
+
+Opening of a new compartment
+
+1.
+
+Without prejudice to the deadline under Article 13(3), immediately after being informed about the PEPP saver's intention to exercise his right of mobility between Member States, the PEPP provider shall inform the PEPP saver about the possibility to open a new compartment within the PEPP saver's individual account and about the deadline within which such compartment could be opened.
+
+2.
+
+To make use of this possibility, the PEPP saver shall send to the PEPP provider a request, which shall include the following information:
+
+(a)
+
+the PEPP saver's new Member State of domicile;
+
+(b)
+
+the date from which the investments should be directed to the newly-opened compartment;
+
+(c)
+
+any relevant information about possible modifications in the adopted investment strategy or other elements.
+
+3.
+
+Not later than three months following the reception of the request under paragraph 2, the PEPP provider shall provide the PEPP saver with complete information free of charge and advice under Chapter IV, Sections II and III regarding the conditions applicable to the new compartment.
+
+4.
+
+The new compartment shall be opened by signing a new contract, or amending the existing one, between the PEPP saver and the PEPP provider, in compliance with the applicable contract law. The date of opening shall be defined in the contract or, in the absence of such stipulation, the new compartment shall be deemed opened at the date of signing the contract or the amendment thereto.
+
+Article 16
+
+Transfer of accumulated rights between the compartments of the PEPP
+
+1.
+
+At the request of the PEPP saver, the PEPP provider shall propose to the PEPP saver to arrange for transfer of accumulated assets between different compartments of the individual PEPP account, so that all assets could be consolidated in one compartment.
+
+2.
+
+The transfer of assets under paragraph 1 shall be made possible without redemption in kind of these assets.
+
+Article 17
+
+Provision of information on portability to the national authorities
+
+1.
+
+All contractual arrangements for providing the portability service shall be notified by the PEPP provider to the respective national authority exercising prudential supervision over it.
+
+2.
+
+The information under paragraph 1 shall be filed electronically in a central database held with the national supervisory authority within one month of opening the new compartment and shall contain at least:
+
+(a)
+
+identification of the compartment (name of the PEPP saver; applicable national legislation; date of opening the compartment);
+
+(b)
+
+amount of the transferred assets, if any;
+
+(c)
+
+way of transfer (with or without redemption in kind of the transferred assets).
+
+CHAPTER IV
+
+DISTRIBUTION AND INFORMATION REQUIREMENTS
+
+SECTION I
+
+General provisions
+
+Article 18
+
+General principle
+
+When carrying out distribution activities for PEPPs, PEPP providers and PEPP distributors shall always act honestly, fairly and professionally in accordance with the best interests of their customers.
+
+Article 19
+
+Distribution regime applicable to different types of PEPP providers and distributors
+
+For the distribution of PEPPs, the different types of PEPP providers and distributors shall comply with the following rules:
+
+(a)
+
+insurance distributors as defined in point (8) of Article 2(1) of Directive (EU) 2016/97 shall comply with the applicable national laws giving effect to the rules set out in Chapters V and VI of that Directive for the distribution of insurance-based investment products, with any directly applicable Union legislation adopted under those rules with respect to the distribution of such products and with the provisions of Articles 18, 19, 21 to 23, and 27 to 32 of this Chapter;
+
+(b)
+
+investment firms as defined in point (1) of Article 4(1) of Directive 2014/65/EU shall comply with the applicable national legislation laws giving effect to the rules on marketing and distribution of financial instruments set out in the first subparagraph of Article 16(3) of that Directive, in Articles 23, 24 and 25 of that Directive, with any directly applicable Union legislation adopted under those provisions, and with the provisions of Articles 18, 19, 21 to 23, and 27 to 32 of this Chapter;
+
+(c)
+
+all other PEPP providers and distributors shall comply with the all the provisions of this Chapter.
+
+Article 20
+
+Inducements
+
+With regard to the payment or reception of fees or commissions or the provision or reception of non-monetary benefits in connection with the distribution of a PEPP to or by any party except the PEPP saver or a person acting on behalf of the PEPP saver, PEPP providers or distributors referred to in Article 19(c) of this Regulation shall comply with the applicable national laws giving effect to the rules set out for investment firms in Article 24(7)(b) and (9) of Directive 2014/65/EU. For the purposes of this Article, the reference in Article 24(9) of Directive 2014/65/EC to Article 23 of that Directive shall be read as a reference to Article 18 of this Regulation.
+
+Article 21
+
+Electronic distribution and other durable mediums
+
+All documents and information under this Chapter shall be provided to PEPP customers electronically, provided that the PEPP customer is enabled to store such information in a way accessible for future reference and for a period of time adequate for the purposes of the information and that the tool allows the unchanged reproduction of the information stored. Upon request, PEPP providers and distributors shall provide free of charge those documents and information also on another durable medium.
+
+Article 22
+
+Product oversight and governance requirements
+
+1.
+
+PEPP providers
+
+shall
+
+maintain
+
+,
+
+operate
+
+and review a process for the approval of each
+
+PEPP
+
+, or significant adaptations of an existing
+
+PEPP
+
+, before it is distributed to
+
+PEPP
+
+customers.
+
+The product approval process shall be proportionate and appropriate to the nature of the PEPP.
+
+The product approval process shall specify an identified target market for each PEPP, ensure that all relevant risks to such identified target market are assessed and that the intended distribution strategy is consistent with the identified target market, and take reasonable steps to ensure that the PEPP is distributed to the identified target market.
+
+The PEPP provider shall understand and regularly review the PEPPs it provides, taking into account any event that could materially affect the potential risk to the identified target market, to assess at least whether the PEPPs remain consistent with the needs of the identified target market and whether the intended distribution strategy remains appropriate.
+
+PEPP providers shall make available to PEPP distributors all appropriate information on the PEPP and the product approval process, including the identified target market of the PEPP.
+
+PEPP distributors shall have in place adequate arrangements to obtain the information referred to in the fifth subparagraph and to understand the characteristics and identified target market of each PEPP.
+
+2.
+
+The policies, processes and arrangements referred to in this Article shall be without prejudice to all other requirements under
+
+or applying by virtue of
+
+this
+
+Regulation
+
+including those relating to disclosure, suitability or appropriateness, identification and management of conflicts of interest, and inducements.
+
+SECTION II
+
+PRE-CONTRACTUAL INFORMATION
+
+Article 23
+
+PEPP key information document
+
+1.
+
+Before
+
+a
+
+PEPP
+
+is
+
+proposed
+
+to
+
+PEPP saver
+
+s,
+
+the
+
+PEPP
+
+provider
+
+shall draw up for that product a
+
+PEPP
+
+key information document in accordance with the requirements of this
+
+Chapter
+
+and shall publish the document on its website.
+
+2.
+
+PEPP providers and PEPP distributors shall comply with Articles 5(2), and 6 to 18 of Regulation (EU) No 1286/2014.
+
+3.
+
+In addition to the information set out in Article 8(3)(c) of Regulation (EU) No 1286/2014, the section titled “What is this product?” shall contain the following information:
+
+(i)
+
+a description of the retirement benefits and the extent to which they are guaranteed;
+
+(ii)
+
+any minimum or maximum period for belonging to the PEPP scheme;
+
+(iii)
+
+the retirement age;
+
+(iv)
+
+general information on the portability service, including
+
+information on the compartments
+
+;
+
+(v)
+
+general information on the switching service, and a reference to the specific information about the switching service available under Article
+
+50;
+
+(vi)
+
+available information related to the performance of the investment policy in terms of environmental, social and governance factors;
+
+(vii)
+
+the law applicable to the PEPP contract where the parties do not have a free choice of law
+
+or, where the parties are free to choose the applicable law, the law that the PEPP provider proposes to choose.
+
+4.
+
+In addition to the PEPP key information document, PEPP providers and PEPP distributors shall provide potential PEPP savers with references to any reports on the solvency and financial condition of the PEPP provider, allowing them easy access to this information.
+
+5.
+
+Potential PEPP savers shall also be provided with information on the past performance of investments related to the PEPP scheme covering a minimum of five years, or, where the scheme has been operating for fewer than five years, covering all the years that the scheme has been operating, as well as with information on the structure of costs borne by PEPP savers and PEPP beneficiaries.
+
+6.
+
+In order to ensure consistent application of this Article, the European Supervisory Authorities
+
+(European Banking Authority, European Securities and Markets Authority and EIOPA)
+
+("
+
+ESAs
+
+")
+
+shall, through the Joint Committee of the
+
+ESAs
+
+, develop draft
+
+implementing
+
+technical standards specifying
+
+the details of the presentation and the content of each of the elements of information referred to in paragraph
+
+s
+
+3
+
+and 4
+
+, together with the requirements needed to present
+
+that
+
+information in a standardised format allowing for comparison
+
+.
+
+When developing the draft implementing technical standards the ESAs shall take into account the various types of PEPPs, the differences between them and the capabilities of PEPP savers as well as the features of the PEPPs so as to allow the PEPP saver to select between different underlying investments or other options provided for by the product, including where this selection can be undertaken at different points in time, or changed in the future.
+
+The ESAs shall submit those draft implementing technical standards to the Commission by … .
+
+Power is conferred the Commission to adopt implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010.
+
+Article 24
+
+Disclosure of information related to distribution
+
+1.
+
+In good time before the conclusion of a PEPP-related contract, PEPP providers or distributors referred to in Article 19(c) of this Regulation shall provide PEPP savers or potential PEPP savers with at least the information in relation to the PEPP contract and themselves set out in Article 19 and in points (a) and (c) of the first subparagraph of Article 29(1) of Directive (EU) 2016/97 in relation to insurance contracts and insurance intermediaries.
+
+2.
+
+The information referred to in this paragraph 1 shall be provided in a standardised format allowing for comparison and in a comprehensible form in such a manner that PEPP savers are reasonably able to understand the nature and risks concerning the PEPP offered and, consequently, to take investment decisions on an informed basis.
+
+3.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 62 in order to specify the criteria on which the standardised format referred to in paragraph 2 shall be based.
+
+Section III
+
+Advice and standards for sales where no advice is given
+
+Article 25
+
+Specification of demands and needs and provision of advice
+
+1.
+
+Prior to the conclusion of a
+
+PEPP-related
+
+contract, the
+
+PEPP
+
+provider or
+
+distributor
+
+referred to in Article 19(c) of this Regulation
+
+shall specify, on the basis of information obtained from the
+
+PEPP saver
+
+, the
+
+retirement-related
+
+demands and the needs of that
+
+PEPP saver
+
+and shall provide the
+
+PEPP saver
+
+with objective information about the
+
+PEPP
+
+in a comprehensible form to allow that
+
+PEPP saver
+
+to make an informed decision.
+
+Any contract proposed shall be consistent with the PEPP savers’s retirement demands and needs.
+
+2.
+
+Where advice is provided prior to the conclusion of any specific contract, the
+
+PEPP
+
+provider or
+
+distributor
+
+referred to in Article 19(c) of this Regulation
+
+shall provide the
+
+PEPP saver
+
+with a personalised recommendation explaining why a particular
+
+PEPP
+
+would best meet the
+
+PEPP savers
+
+’s demands and needs.
+
+3.
+
+When providing advice on PEPPs, the PEPP provider or distributor
+
+referred to in Article 19(c) of this Regulation
+
+shall comply with the applicable national laws giving effect to the rules set out in Article 25(2) of Directive 2014/65/EU and with any directly applicable Union legislation adopted under Article 25(8) of that Directive relating to those rules.
+
+4.
+
+Where a
+
+PEPP
+
+provider or
+
+distributor
+
+referred to in Article 19(c) of this Regulation
+
+informs the
+
+PEPP saver
+
+that it gives its advice on
+
+an independent
+
+basis, it shall give that advice on the basis of an analysis of a sufficiently large number of
+
+personal pension products
+
+available on the market to enable it to make a personal recommendation, in accordance with professional criteria, regarding which
+
+the PEPP-related contract
+
+would be adequate to meet the
+
+PEPP saver
+
+’s needs.
+
+Such advice must not be limited to PEPP-related contracts provided by the PEPP provider or distributor itself, by entities having close links with the PEPP provider or distributor or by other entities with which the PEPP provider or distributor has close legal or economic relationships, including contractual relationships, as to pose a risk of impairing the independent basis of the advice provided.
+
+5.
+
+PEPP providers and distributors
+
+referred to in Article 19(c) of this Regulation
+
+shall ensure and demonstrate to competent authorities on request that natural persons giving advice on PEPPs possess the necessary knowledge and competence to fulfil their obligations under this Chapter. Member States shall publish the criteria to be used for assessing such knowledge and competence.
+
+Article 26
+
+Concluding a contract for a PEPP without advice
+
+1.
+
+Without prejudice to Article 25(1), the PEPP saver may waive his right to receive advice in relation to concluding a contract for the default investment option.
+
+Where the PEPP saver waives his right to receive advice, PEPP providers or distributors referred to in Article 19(c) of this Regulation shall, when carrying out PEPP distribution activities, ask the PEPP saver or potential PEPP saver to provide information regarding that person’s knowledge and experience in the investment field relevant to the PEPP offered or demanded so as to enable the PEPP provider or distributor to assess whether the PEPP envisaged is appropriate for the PEPP saver.
+
+Where the PEPP provider or distributor referred to in Article 19(c) of this Regulation considers, on the basis of the information received under the first subparagraph, that the product is not appropriate for the PEPP saver or potential PEPP saver, the PEPP provider or distributor shall warn the PEPP saver or potential PEPP saver to that effect. That warning may be provided in a standardised format.
+
+Where PEPP savers or potential PEPP savers do not provide the information referred to in the first subparagraph, or where they provide insufficient information regarding their knowledge and experience, the PEPP provider or distributor shall warn them that it is not in a position to determine whether the PEPP envisaged is appropriate for them. That warning may be provided in a standardised format.
+
+2.
+
+Without prejudice to Article
+
+25(1)
+
+, where
+
+the
+
+PEPP saver has waived his right to receive advice
+
+in relation to
+
+the default investment option
+
+,
+
+the PEPP provider or distributor
+
+referred to in Article 19(c) of this Regulation
+
+may
+
+carry out
+
+PEPP
+
+distribution activities without the need to obtain the information or make the determination provided for in paragraph
+
+1
+
+of this Article where all the following conditions are met:
+
+(a)
+
+the activities
+
+relate
+
+to
+
+PEPP contracts
+
+concerning
+
+the default investment option
+
+which only provide investment exposure to the financial instruments deemed non-complex
+
+under Article 25(4)(a) of
+
+Directive 2014/65/EU and do not incorporate a structure which makes it difficult for the
+
+PEPP saver
+
+to understand the risks involved;
+
+(b)
+
+the
+
+distribution
+
+of the PEPP
+
+is
+
+at
+
+the initiative of the
+
+PEPP saver
+
+or potential
+
+PEPP saver
+
+;
+
+(c)
+
+the
+
+PEPP saver
+
+or potential
+
+PEPP saver
+
+has been clearly informed that, in the provision of the
+
+PEPP
+
+distribution activity, the
+
+PEPP provider or distributor is
+
+not required to assess the appropriateness of the
+
+PEPP
+
+or
+
+PEPP
+
+distribution activity provided or offered and that the
+
+PEPP saver
+
+or potential
+
+PEPP saver
+
+does not benefit from the corresponding protection of the relevant conduct of business rules. Such a warning may be provided in a standardised format;
+
+(d)
+
+the
+
+PEPP provider or distributor
+
+complies with its obligations under
+
+the rules applicable to it, in accordance with this Chapter, concerning conflicts of interest in relation to PEPP distribution activities.
+
+3.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 62 to further specify how PEPP providers or distributors
+
+referred to in Article 19(c) of this Regulation
+
+are to comply with the principles set out in this Article when carrying out PEPP distribution activities, including with regard to the information to be obtained when assessing the appropriateness of PEPPs for their customers and the criteria to assess non-complex PEPP-related contracts for the purposes of point (ii) of paragraph 2(a) of this Article. Those delegated acts shall take into account:
+
+(a)
+
+the nature of the services offered or provided to the PEPP saver or potential PEPP saver, having regard to the type, object, size and frequency of the transactions; and
+
+(b)
+
+the nature of the products being offered or considered, including different types of financial instruments.
+
+SECTION IV
+
+INFORMATION DURING THE TERM OF THE CONTRACT
+
+Article 27
+
+General provisions
+
+1.
+
+PEPP providers shall draw up a concise personalised document containing key information for each PEPP saver taking into consideration the specific nature of national pension systems and of relevant national social, labour and tax law (“PEPP Benefit Statement”). The title of the document shall contain the words “PEPP Benefit Statement”.
+
+2.
+
+For the exact date to which the information in the PEPP Benefit Statement refers to, the format of information contained in the PEPP Benefit Statement, and the treatment of any material change to the information, Article 38, paragraphs 2-4 of Directive 2016/2341/EU shall be applied accordingly, where for the purposes of this Regulation "Pension Benefit Statement" means PEPP Benefit Statement.
+
+3.
+
+In addition, t
+
+he
+
+PEPP saver
+
+shall be kept informed throughout the term of the contract of any change concerning the following information:
+
+(a)
+
+the policy conditions, both general and special;
+
+(b)
+
+the name of the
+
+PEPP provider’s
+
+undertaking, its legal form or the address of its head office and, where appropriate, of the branch which concluded the contract;
+
+(c)
+
+all the information
+
+referred to
+
+in
+
+Article
+
+23(2) to (5)
+
+in the event of a change in the
+
+PEPP
+
+conditions or amendment of the law applicable to the
+
+PEPP-related
+
+contract;
+
+(d)
+
+information on how the investment policy takes into account environmental, social and governance factors.
+
+Article 28
+
+PEPP Benefit Statement
+
+1.
+
+The PEPP Benefit Statement shall include, at least, the following key information for PEPP savers:
+
+(a)
+
+personal details of the PEPP saver, name of the PEPP provider, information on pension benefit projections, information on accrued entitlements or accumulated capital, contributions paid by the PEPP saver or any third party and information on the funding level of the PEPP scheme, for which Article 39, paragraphs 1(a), (b), (d), (e), (f) and (h) of Directive 2016/2341/EU shall be applied, where the "member" means the PEPP saver, the "IORP" means the PEPP provider, the "pension scheme" means the PEPP scheme and "the sponsoring undertaking" means any third party for the purposes of this Regulation;
+
+(b)
+
+the Member State in which the PEPP provider is authorised or registered and the name of the competent authority;
+
+(c)
+
+where applicable, information on full or partial guarantees under the PEPP scheme and if relevant, the nature of the guarantee and mechanisms protecting accrued individual entitlements;
+
+(d)
+
+information on the past performance of the PEPP scheme as a whole or, where relevant, of the PEPP saver's investment option presented in a chart covering performance for any years available and up to the last ten years;
+
+(e)
+
+a breakdown of the costs deducted by the PEPP provider at least over the last 12 months, indicating the costs of administration, costs of safekeeping of assets, costs related to portfolio transactions and other costs, as well as an estimation of the impact of the costs on the final benefits.
+
+2.
+
+The Commission shall adopt delegated acts in accordance with Article 62 setting out rules to determine the assumptions on pension benefit projections referred to in point (a) of paragraph 1. Those rules shall be applied by PEPP providers to determine, where relevant, the annual rate of nominal investment returns, the annual rate of inflation and the trend of future wages.
+
+3.
+
+In accordance with Article 55, Member States shall exchange best practices with regard to the format and the content of the PEPP Benefit Statement.
+
+Article 29
+
+Supplementary information
+
+1.
+
+The PEPP Benefit Statement shall specify where and how to obtain supplementary information including:
+
+(a)
+
+further practical information as set out in Article 40, paragraph 1(a) of Directive 2016/2341/EU;
+
+(b)
+
+information on the annual accounts and annual reports of the PEPP provider, taking into account each PEPP scheme operated by that provider, and, where applicable, annual accounts and annual reports for each PEPP scheme;
+
+(c)
+
+a written statement of the PEPP provider’s investment-policy principles, containing at least such matters as the investment risk measurement methods, the risk-management processes implemented and the strategic asset allocation with respect to the nature and duration of PEPP liabilities, as well as how the investment policy takes environmental, social and governance factors into account;
+
+(d)
+
+where applicable, information about the assumptions used for amounts expressed in annuities, in particular with respect to the annuity rate, the type of PEPP provider and the duration of the annuity;
+
+(e)
+
+information on the level of benefits, in case of early redemption.
+
+2.
+
+For PEPP schemes where PEPP savers bear investment risk and where an investment option is imposed on the PEPP saver by a specific rule specified in the PEPP scheme, the PEPP Benefit Statement shall indicate where additional information is available.
+
+3.
+
+EIOPA, after consulting national authorities and after consumer testing, shall develop draft implementing technical standards specifying the details of the presentation of the information referred to in Article 28 and in this Article.
+
+EIOPA shall submit those draft implementing technical standards to the Commission by … [within 9 months after the entry into force of the Regulation].
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1094/2010.
+
+Article 30
+
+Information to be given to PEPP savers during the pre-retirement phase and to PEPP beneficiaries during the decumulation phase
+
+1.
+
+PEPP savers shall receive information during the pre-retirement phase as set out in Article 42 of Directive 2016/2341/EU.
+
+2
+
+.
+
+PEPP providers shall periodically provide PEPP beneficiaries with information, as set out in Article 43 of Directive 2016/2341/EU, where the "pay-out" means the decumulation for the purposes of this Regulation.
+
+Article 31
+
+Additional information to be given on request to PEPP savers and PEPP beneficiaries
+
+At the request of a PEPP saver or a PEPP beneficiary or their representatives, the PEPP provider shall provide the following additional information:
+
+(a)
+
+the annual accounts and the annual reports referred to in point (b) of Article 29(1) or, where a PEPP provider is responsible for more than one PEPP scheme, the accounts and reports relating to their particular PEPP scheme;
+
+(b)
+
+the statement of investment-policy principles, referred to in point (c) of Article 29(1);
+
+(c)
+
+any further information about the assumptions used to generate the projections referred to in point (a) of Article 28(1).
+
+SECTION V
+
+REPORTING TO NATIONAL AUTHORITIES
+
+Article 32
+
+General provisions
+
+1.
+
+PEPP providers shall submit to the competent authorities the information which is necessary for the purposes of supervision. That information shall include at least the information necessary to carry out the following activities when performing a supervisory review process:
+
+(a)
+
+to assess the system of governance applied by the PEPP providers, the business they are pursuing, the valuation principles applied for solvency purposes, the risks faced and the risk-management systems, and their capital structure, needs and management;
+
+(b)
+
+to make any appropriate decisions resulting from the exercise of their supervisory rights and duties.
+
+2.
+
+The competent authorities shall have the following powers:
+
+(a)
+
+to determine the nature, the scope and the format of the information referred to in paragraph 1 which they require PEPP providers to submit at the following points in time:
+
+(i)
+
+at predefined periods;
+
+(ii)
+
+upon occurrence of predefined events;
+
+(iii)
+
+during enquiries regarding the situation of a PEPP provider;
+
+(b)
+
+to obtain from the PEPP providers any information regarding contracts which are held by PEPP providers or regarding contracts which are entered into with third parties; and
+
+(c)
+
+to require information from external experts, such as auditors and actuaries.
+
+3.
+
+The information referred to in paragraphs 1 and 2 shall comprise the following:
+
+(a)
+
+qualitative or quantitative elements, or any appropriate combination thereof;
+
+(b)
+
+historic, current or prospective elements, or any appropriate combination thereof;
+
+(c)
+
+data from internal or external sources, or any appropriate combination thereof.
+
+4.
+
+The information referred to in paragraphs 1 and 2 shall:
+
+(a)
+
+reflect the nature, scale and complexity of the business of the PEPP provider concerned, and in particular the risks inherent in that business;
+
+(b)
+
+be accessible, complete in all material respects, comparable and consistent over time;
+
+(c)
+
+be relevant, reliable and comprehensible.
+
+5.
+
+PEPP providers shall have appropriate systems and structures in place to fulfil the requirements laid down in paragraphs 1 to 4 as well as a written policy, approved by the administrative, management or supervisory body of the PEPP provider, ensuring the ongoing appropriateness of the information submitted.
+
+6.
+
+Upon request addressed to the competent authorities, EIOPA shall have access to the information submitted by PEPP providers.
+
+7.
+
+The Commission shall adopt
+
+delegated acts in accordance with Article 62
+
+specifying the information referred to in paragraphs 1 to 4, with a view to ensuring to the appropriate extent convergence of supervisory reporting.
+
+EIOPA, after consulting national authorities and after consumer testing, shall develop draft implementing technical standards regarding the format of supervisory reporting.
+
+EIOPA shall submit those draft implementing technical standards to the Commission by … [within 9 months after the entry into force of the Regulation].
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the second subparagraph in accordance with Article 15 of Regulation (EU) No 1094/2010.
+
+CHAPTER V
+
+ACCUMULATION PHASE
+
+SECTION I
+
+INVESTMENT RULES FOR PEPP PROVIDERS
+
+Article 33
+
+Investment rules
+
+1.
+
+PEPP providers shall invest in accordance with the "prudent person" rule and in particular in accordance with the following rules:
+
+(a)
+
+the assets shall be invested in the best long-term interests of PEPP savers as a whole. In the case of a potential conflict of interest, a PEPP provider, or the entity which manages its portfolio, shall ensure that the investment is made in the sole interest of PEPP savers;
+
+(b)
+
+the assets shall be invested in such a manner as to ensure the security, quality, liquidity and profitability of the portfolio as a whole;
+
+(c)
+
+the assets shall be predominantly invested on regulated markets. Investment in assets which are not admitted to trading on a regulated financial market must in any event be kept to prudent levels;
+
+(d)
+
+investment in derivative instruments shall be possible insofar as such instruments contribute to a reduction in investment risks or facilitate efficient portfolio management. Those instruments shall be valued on a prudent basis, taking into account the underlying asset, and included in the valuation of a PEPP provider's assets. PEPP providers shall also avoid excessive risk exposure to a single counterparty and to other derivative operations;
+
+(e)
+
+the assets shall be properly diversified in such a way as to avoid excessive reliance on any particular asset, issuer or group of undertakings and accumulations of risk in the portfolio as a whole. Investments in assets issued by the same issuer or by issuers belonging to the same group shall not expose a PEPP provider to excessive risk concentration;
+
+(f)
+
+the assets shall not be invested in a high-risk and non-cooperative jurisdiction identified by the Financial Action Task Force;
+
+(g)
+
+the PEPP provider shall not expose himself to risks stemming from excessive leverage and excessive maturity transformation.
+
+2.
+
+The rules set out in points (a) to (g) of paragraph 1 apply only to the extent that there is no more stringent provision in the relevant sectorial legislation applicable to the PEPP provider.
+
+SECTION II
+
+INVESTMENT RULES FOR PEPP SAVERS
+
+Article 34
+
+General provisions
+
+1.
+
+PEPP providers shall offer up to five investment options to PEPP savers.
+
+2.
+
+The investment options shall include a default investment option and may include alternative investment options.
+
+3.
+
+All investment options shall be designed by PEPP providers on the basis of proven risk-mitigation techniques which shall ensure sufficient protection for PEPP savers.
+
+Article 35
+
+Choice of investment option by the PEPP saver
+
+The PEPP saver shall opt for an investment option upon conclusion of the PEPP contract.
+
+Article 36
+
+Conditions for modification of the chosen investment option
+
+1.
+
+The PEPP saver shall be able to opt for a different investment option once every five years of accumulation in the PEPP.
+
+2.
+
+The modification of the investment option shall be free of charge for the PEPP saver.
+
+Article 37
+
+Default investment option
+
+1.
+
+The default investment option shall ensure capital protection for the PEPP saver, on the basis of a risk-mitigation technique that results in a safe investment strategy.
+
+2.
+
+Capital protection shall allow the PEPP saver to recoup the capital invested.
+
+Article 38
+
+Alternative investment options
+
+1.
+
+If PEPP providers offer alternative investment options, at least one of them shall offer a cost-effective investment option to PEPP savers.
+
+2.
+
+The alternative investment options shall include risk-mitigation techniques to be defined by PEPP providers.
+
+Article 39
+
+Delegated act on the investment options
+
+The Commission shall be empowered to adopt a delegated act in accordance with Article 62 specifying:
+
+(a)    the risk-mitigation technique to ensure capital protection under the default investment option;
+
+(b)
+
+the risk-mitigation techniques to be applied for the alternative investment options.
+
+SECTION III
+
+OTHER ASPECTS OF THE ACCUMULATION PHASE
+
+Article 40
+
+Conditions related to the accumulation phase
+
+1.
+
+In accordance with Article 3(b), the PEPP conditions related to the accumulation phase shall be determined by Member States unless they are specified in this Regulation.
+
+2.
+
+Such conditions may include in particular age limits for starting the accumulation phase, minimum duration of the accumulation phase, maximum and minimum amount of in-payments and their continuity, as well as conditions for redemption before retirement age in case of particular hardship.
+
+CHAPTER VI
+
+INVESTOR PROTECTION
+
+Article 41
+
+Depositary
+
+1.
+
+Where the PEPP provider is an institution for occupational retirement provision or an investment firm as referred to in Article 5(1), it shall appoint one or more depositaries for the safe-keeping of assets and oversight duties.
+
+2.
+
+For the appointment of the depository and the execution of its tasks Article 33(5), (6) and (7) of Directive 2016/2341/EU shall be applied accordingly.
+
+3.
+
+For the safekeeping of assets and the liability of the depositary Article 34(1) and (2) of Directive 2016/2341/EU shall be applied accordingly.
+
+The depository shall be liable to the PEPP provider and the PEPP savers for any loss suffered by them as a result of its unjustifiable failure to perform its obligations or its improper performance of them. The depositor's liability shall not be affected by the fact that it has entrusted to a third party all or some of the assets in its safe-keeping.
+
+4.
+
+For the oversight duties of a depositary Article 35(1) of Directive 2016/2341/EU shall be applied accordingly.
+
+Article 42
+
+Coverage of biometric risks
+
+PEPP providers may offer PEPPs with an option ensuring the coverage of the risk of biometric risks. For the purpose of this Regulation, "biometric risks" mean risks linked to longevity, disability and death.
+
+Article 43
+
+Complaints
+
+1.
+
+PEPP providers and distributors shall
+
+put in place and apply adequate and effective complaint resolution procedures for the settlement of complaints lodged by PEPP customers concerning their rights and obligations under this Regulation.
+
+2.
+
+Those procedures shall be applied in every Member State where the PEPP provider or distributor offers its services and shall be available in an official language of the relevant Member State as chosen by the PEPP customer, or in another language if agreed between the PEPP provider or distributor and the PEPP customer.
+
+3.
+
+PEPP providers and distributors shall make every possible effort to reply, on paper or, if agreed between the PEPP provider or distributor and the PEPP customer, on another durable medium, to the PEPP customers’ complaints. The reply shall address all points raised, within an adequate timeframe and at the latest within 15 business days of receipt of the complaint. In exceptional situations, if the answer cannot be given within 15 business days for reasons beyond the control of the PEPP provider or distributor, it shall be required to send a holding reply, clearly indicating the reasons for a delay in answering to the complaint and specifying the deadline by which the PEPP customer will receive the final reply. In any event, the deadline for receiving the final reply shall not exceed 35 business days.
+
+4.
+
+PEPP providers and distributors shall inform the PEPP customer about at least one alternative dispute resolution (ADR) entity which is competent to deal with disputes concerning PEPP customers' rights and obligations under this Regulation.
+
+5.
+
+The information referred to in paragraph 3 shall be mentioned in a clear, comprehensive and easily accessible way on the website of the PEPP provider or distributor, at the branch, and in the general terms and conditions of the contract between the PEPP provider or distributor and the PEPP customer. It shall specify how further information on the ADR entity concerned and on the conditions for using it can be accessed.
+
+6.
+
+The competent authorities shall set up procedures which allow PEPP customers and other interested parties, including consumer associations, to submit complaints to the competent authorities with regard to PEPP providers' and distributors' alleged infringements of this Regulation. In all cases, complainants shall receive replies.
+
+Article 44
+
+Out-of-court redress
+
+1.
+
+Adequate, independent, impartial, transparent and effective ADR procedures for the settlement of disputes between PEPP customers and PEPP providers or distributors concerning the rights and obligations arising under this Regulation shall be established in accordance with Directive 2013/11/EU of the European Parliament and the Council
+
+49
+
+, using existing competent bodies where appropriate. Such ADR procedures shall be applicable, and the relevant ADR body’s competence shall effectively extend, to PEPP providers or distributors against whom the procedures are initiated.
+
+2.
+
+The bodies referred to in paragraph 1 shall cooperate effectively for the resolution of cross-border disputes concerning rights and obligations arising under this Regulation.
+
+CHAPTER VII
+
+SWITCHING OF PEPP PROVIDERS
+
+Article 45
+
+Provision of the switching service
+
+1.
+
+PEPP providers shall provide a switching service transferring, upon a request of the PEPP saver, any positive balance from a PEPP
+
+account held with the transferring provider to a new PEPP account opened with the receiving provider, with closing the former PEPP account
+
+.
+
+The switching service may be provided by PEPP providers established in the same Member State (domestic switching) or in different Member States (cross-border switching).
+
+2.
+
+The PEPP saver may switch PEPP providers no more frequently than once every five years after conclusion of the PEPP contract.
+
+Article 46
+
+The switching service
+
+1.
+
+A
+
+t the request
+
+of the PEPP saver, t
+
+he switching service shall be initiated by the receiving PEPP provider
+
+. The switching service shall at least comply with paragraphs 2 to 5.
+
+2.
+
+The receiving PEPP provider shall initiate the switching service upon receipt of the authorisation from the PEPP saver.
+
+The authorisation shall be drawn up in an official language of the Member State where the switching service is being initiated
+
+or in any other language agreed between the parties.
+
+The authorisation shall allow the
+
+PEPP saver to provide specific consent to the performance by the transferring PEPP provider of each of the tasks referred to in paragraph 3 and to provide specific consent to the performance by the receiving PEPP provider of each of the tasks referred to in paragraph 5.
+
+The authorisation shall allow the PEPP saver to specifically identify asset portfolios and/or amounts that are to be switched. The authorisation shall also allow PEPP savers to specify the date from which payments are to be executed to the PEPP account opened with the receiving PEPP provider. That date shall be at least six working days after the date on which the receiving PEPP provider receives the documents transferred from the transferring PEPP provider pursuant to paragraph 4. Member States may require the authorisation from the PEPP saver to be in writing and that a copy of the authorisation be provided to the PEPP saver.
+
+3.
+
+Within two working days from receipt of the authorisation referred to in paragraph 2, the receiving PEPP provider shall request the transferring PEPP provider to carry out the following tasks, if provided for in the PEPP saver’s authorisation:
+
+(a)
+
+transmit to the receiving PEPP provider and, if specifically requested by the PEPP saver in the authorisation, to the PEPP saver, a list of the existing assets that are being switched;
+
+(b)
+
+transfer any remaining positive balance to the PEPP account opened or held with the receiving PEPP provider on the date specified by the PEPP saver; and
+
+(c)
+
+close the PEPP account held with the transferring PEPP provider on the date specified by the PEPP saver.
+
+4.
+
+Upon receipt of a request from the receiving PEPP provider, the transferring PEPP provider shall carry out the following tasks, if provided for in the PEPP saver’s authorisation:
+
+(a)
+
+send the receiving PEPP provider the information referred to in point (a) of paragraph 3 within five working days;
+
+(b)
+
+where the transferring PEPP provider does not provide a system for automated redirection of the incoming payments to the PEPP account opened by the PEPP saver with the receiving PEPP provider, stop accepting incoming payments on the PEPP account with effect from the date specified in the authorisation. Member States may require the transferring PEPP provider to inform the PEPP saver of the reason for not accepting the incoming payments;
+
+(c)
+
+transfer the remaining positive balance from the PEPP account to the new PEPP account opened with the receiving PEPP provider on the date specified in the authorisation;
+
+(d)
+
+close the PEPP account on the date specified in the authorisation if the PEPP saver has no outstanding obligations on that PEPP account and provided that the actions listed in points (a), (b) and (c) of this paragraph have been completed. The PEPP provider shall immediately inform the PEPP saver where such outstanding obligations prevent the PEPP saver’s account from being closed.
+
+5.
+
+Within five working days of receipt of the information requested from the transferring PEPP provider as referred to in paragraph 3, the receiving PEPP provider shall, as and if provided for in the authorisation and to the extent that the information provided by the transferring PEPP provider or the PEPP saver enables the receiving PEPP provider to do so, carry out the following tasks:
+
+(a)
+
+make any necessary preparations to accept incoming payments and accept them with effect from the date specified in the authorisation;
+
+(b)
+
+inform payers specified in the authorisation of the details of the PEPP saver’s PEPP account with the receiving PEPP provider and transmit to the payers a copy of the PEPP saver’s authorisation.
+
+If the receiving PEPP provider does not have all the information it needs to inform the payers as referred to in point (b) of the first subparagraph, it shall ask the PEPP saver or the transferring PEPP provider to provide the missing information.
+
+Where the PEPP savers chooses to personally provide the information referred to in point (b) of the first subparagraph to the payers rather than provide specific consent in accordance with paragraph 2 to the receiving PEPP provider to do so, the receiving PEPP provider shall provide the PEPP saver with standard letters providing details of the PEPP account and the starting date specified in the authorisation within the deadline referred to in the first subparagraph.
+
+Article 47
+
+Facilitation of domestic and cross-border switching for PEPP savers
+
+1.
+
+Where a PEPP saver indicates to his PEPP provider that he wishes to open a PEPP account with a PEPP provider located in the same or another Member State, the PEPP provider with which the PEPP saver holds a PEPP account shall on receipt of such request provide the following assistance to the PEPP saver:
+
+(a)
+
+provide the PEPP saver free of charge with available information about recurring incoming payments to the PEPP saver’s PEPP account in the previous 13 months;
+
+(b)
+
+transfer the positive balance remaining on the PEPP account held by the PEPP saver to the PEPP account opened by the PEPP saver with the receiving PEPP provider, provided that the request includes full details allowing the receiving PEPP provider and the PEPP saver’s PEPP account to be identified;
+
+(c)
+
+close the PEPP account held by the PEPP saver.
+
+2.
+
+If the PEPP saver has no outstanding obligations on the PEPP account, the PEPP provider with which the PEPP saver holds that PEPP account shall provide assistance referred to in points (a), (b) and (c) of paragraph 1 of this Article on the date specified by the PEPP saver, which shall be at least six business days after that PEPP provider receives the PEPP saver’s request unless otherwise agreed between the parties. The PEPP provider shall immediately inform the PEPP saver where outstanding obligations prevent his PEPP account from being closed.
+
+Article 48
+
+Fees and charges connected with the switching service
+
+1.
+
+PEPP savers shall be able to access free of charge their personal information held  either by the transferring or by the receiving PEPP provider.
+
+2.
+
+The transferring PEPP provider shall provide the information requested by the
+
+receiving PEPP provider pursuant to point (a) of Article 46(4) without charging the PEPP saver or the receiving PEPP provider.
+
+3.
+
+The total fees and charges applied by the transferring PEPP provider to the PEPP saver for the closure of the PEPP account held with it shall be limited to no more than 1,5 % of the positive balance to be transferred to the receiving PEPP provider.
+
+4.
+
+Fees and charges, if any, applied by the transferring or the receiving PEPP provider to the PEPP saver for any service provided under Article 46, other than those referred to in paragraphs 1, 2 and 3 of this Article, shall be reasonable and in line with the actual costs of that PEPP provider.
+
+Article 49
+
+Protection of PEPP savers against financial loss
+
+1.
+
+A
+
+ny financial loss, including fees, charges and interest, incurred by the PEPP saver
+
+and resulting directly from the non-compliance of a PEPP provider involved in the switching process with its obligations under Article 46 shall be refunded by that PEPP provider without delay.
+
+2.
+
+Liability under paragraph 1 shall not apply in cases of abnormal and unforeseeable circumstances beyond the control of the PEPP provider pleading for the application of those circumstances, the consequences of which would have been unavoidable despite all efforts to the contrary, or where a PEPP provider is bound by other legal obligations covered by Union or national legislative acts.
+
+3.
+
+Liability under paragraph 1 shall be established in accordance with the legal requirements applicable at national level.
+
+4.
+
+The PEPP saver shall bear the costs and any risk of financial loss connected with the redemption in kind of the assets held in the PEPP account for the sake of their transfer from the transferring PEPP provider to the receiving PEPP provider.
+
+5.
+
+The PEPP saver shall bear the costs and any risk of financial loss connected with the capital protection provided by the transferring PEPP provider. This capital protection, allowing the PEPP saver to recoup the capital invested and providing an inflation indexation mechanism, shall be consumed at the moment of switching providers.
+
+Article 50
+
+Information about the switching service
+
+1.
+
+PEPP providers shall give to PEPP savers the following information about the switching service:
+
+(a)
+
+the roles of the transferring and receiving PEPP provider for each step of the switching process, as indicated in Article 46;
+
+(b)
+
+the time-frame for completion of the respective steps;
+
+(c)
+
+the fees and charges charged for the switching process;
+
+(d)
+
+any information that the PEPP saver will be asked to provide.
+
+PEPP providers shall also give other information, including, where applicable, the information necessary for the identification of the deposit guarantee scheme, investor-compensation scheme or pension protection scheme within the Union of which the PEPP provider is a member. A "pension protection scheme" means an arrangement to pay compensation to PEPP savers or PEPP beneficiaries in the event of insolvency of the PEPP provider.
+
+2.
+
+The information referred to in paragraph 1 shall be available in electronic form on the PEPP provider's website at all times, shall be made available free of charge on paper or another durable medium at all PEPP provider's premises accessible to PEPP savers, and shall be provided to PEPP savers on request.
+
+CHAPTER VIII
+
+DECUMULATION PHASE
+
+Article 51
+
+Conditions related to the decumulation phase
+
+1.
+
+In accordance with Article 3, the PEPP conditions related to the decumulation phase shall be determined by Member States unless they are specified in this Regulation.
+
+2.
+
+Such conditions may include in particular the setting of the retirement age, of a mandatory link between reaching the retirement age and commencing the decumulation phase, of a minimum period of belonging to a PEPP scheme, of a maximum period before reaching the retirement age for joining a PEPP scheme, as well as conditions for redemption in case of particular hardship.
+
+Article 52
+
+Forms of out-payments
+
+1.
+
+PEPP providers may make available to PEPP savers one or more of the following forms of out-payments:
+
+(a)
+
+annuities;
+
+(b)
+
+lump sum;
+
+(c)
+
+drawdown payments;
+
+(d)
+
+combinations of the above forms.
+
+2.
+
+The choice of the form of out-payments for the decumulation phase shall be exercised by PEPP savers upon conclusion of a PEPP contract and can be changed once every five years thereafter during the accumulation phase, if applicable.
+
+CHAPTER IX
+
+SUPERVISION
+
+Article 53
+
+Supervision by the competent authorities and monitoring by EIOPA
+
+1.
+
+The competent authority of the PEPP provider shall supervise compliance with this Regulation on an ongoing basis. It shall also be responsible for supervising compliance with the obligations set out in the rules or instruments of incorporation of the PEPP provider, and the adequacy of its arrangements and organisation with the tasks to be fulfilled when providing a PEPP.
+
+2.
+
+EIOPA shall monitor pension schemes established or distributed in the territory of the Union to verify that they do not use the designation "PEPP" or suggest that they are a PEPP unless they are authorised under, and comply with, this Regulation.
+
+3.
+
+In coordination with the other European Supervisory Authorities, EIOPA shall review the annual plans for supervision of the PEPP providers adopted by the competent authorities.
+
+Article 54
+
+Powers of competent authorities
+
+Each Member State shall ensure that the competent authority has all supervisory and investigatory powers that are necessary for the exercise of their functions pursuant to this Regulation.
+
+Article 55
+
+Cooperation between competent authorities and with EIOPA
+
+1.
+
+EIOPA and the competent authority of the PEPP provider shall cooperate with each other and exchange information for the purpose of carrying out their duties under this Regulation.
+
+2.
+
+The competent authorities shall cooperate with each other in accordance with Regulation 575/2013/EU of the European Parliament and of the Council
+
+50
+
+, Directive 2009/138/EC, Directive 2016/2341/EU, Directive 2014/65/EU, Directive 2009/65/EC and Directive 2011/61/EU.
+
+3.
+
+The competent authorities and EIOPA shall cooperate with each other for the purpose of carrying out their respective duties under this Regulation in accordance with Regulation (EU) No 1094/2010.
+
+4.
+
+The competent authorities and EIOPA shall exchange all information and documentation necessary to carry out their respective duties under this Regulation in accordance with Regulation (EU) No 1094/2010, in particular to identify and remedy infringements of this Regulation.
+
+5.
+
+In order to ensure consistent application of this Article, EIOPA shall develop draft implementing technical standards specifying the details of the mechanism for cooperation and exchange of information, together with the requirements needed to present the information above in a standardised format allowing for comparison.
+
+EIOPA shall submit those draft implementing technical standards to the Commission by … [within 9 months after the entry into force of the Regulation].
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1094/2010.
+
+Article 56
+
+Settlement of disagreements between competent authorities in cross-border situations
+
+1.
+
+Where a competent authority of a PEPP provider or distributor disagrees about the procedure or content of an action or inaction of a competent authority of another Member State regarding the application of this Regulation, EIOPA, at the request of one or more of the competent authorities concerned, may assist the authorities in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4.
+
+In cases involving cross-border situations, and where on the basis of objective criteria disagreement between competent authorities from different Member States can be identified, EIOPA may, on its own initiative or upon request of the European Supervisory Authority (European Banking Authority) or the European Supervisory Authority (European Securities and Markets Authority), assist the competent authorities in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4.
+
+2.
+
+EIOPA shall set a time limit for conciliation between the competent authorities taking into account any relevant time periods, as well as the complexity and urgency of the matter. At that stage EIOPA shall act as a mediator.
+
+If the competent authorities concerned fail to reach an agreement within the conciliation phase referred to in paragraph 2, EIOPA may, in accordance with the procedure set out in the third and fourth subparagraph of Article 44(1) of Regulation (EU) No 1094/2010, take a decision requiring them to take specific action or to refrain from action in order to settle the matter, with binding effects for the competent authorities concerned, in order to ensure compliance with Union law.
+
+3.
+
+Without prejudice to the powers of the Commission under Article 258 TFEU, where a competent authority does not comply with the decision of EIOPA, and thereby fails to ensure that a PEPP provider or PEPP distributor complies with requirements directly applicable to it by virtue of this Regulation, EIOPA may adopt an individual decision addressed to the  PEPP provider or PEPP distributor requiring the necessary action to comply with its obligations under Union law, including the cessation of any practice.
+
+4.
+
+Decisions adopted under paragraph 4 shall prevail over any previous decision adopted by the competent authorities on the same matter. Any action by the competent authorities in relation to facts which are subject to a decision pursuant to paragraph 3 or 4 shall be compatible with those decisions.
+
+5.
+
+In the report referred to in Article 50(2) of Regulation (EU) No 1094/2010, the Chairperson of EIOPA shall set out the nature and type of disagreements between competent authorities, the agreements reached and the decisions taken to settle such disagreements.
+
+CHAPTER X
+
+SANCTIONS
+
+Article 57
+
+Administrative sanctions and remedial measures
+
+1.
+
+Without prejudice to the right
+
+for
+
+Member States to provide for and impose criminal sanctions, competent authorities may impose administrative sanctions and
+
+remedial
+
+measures applicable to
+
+situations where:
+
+(a)
+
+a financial undertaking as referred to in Article 5(1)
+
+has obtained an authorisation of a PEPP through false or misleading statements or any other irregular means in breach of Articles 5 and 6;
+
+(b)
+
+a financial undertaking as referred to in Article 5(1) provides, respectively distributes, products bearing the designation "PEPP" or "pan-European Personal Pension Product" without the required authorisation;
+
+(c)
+
+a PEPP provider has infringed Article 7(3), has not provided the portability service in breach of Article 13 or the information about that service required under Article 17, or has failed to meet the
+
+requirements and obligations set out in Chapter IV, Chapter V,
+
+Article 43 and Chapter VII;
+
+(d)
+
+a depositary has failed to fulfil its oversight duties under Article 42.
+
+2.
+
+Those sanctions and measures shall be effective, proportionate and dissuasive and shall include, at least the following:
+
+(a)
+
+a public statement, which indicates the identity of the natural or legal person and the nature of the infringement in accordance with Article 59;
+
+(b)
+
+an order requiring the natural or legal person to cease the conduct and to desist from a repetition of that conduct;
+
+(c)
+
+a temporary ban against any member of the financial undertaking's management body or any other natural person, who is held responsible, to exercise management functions in such undertakings;
+
+(d)
+
+maximum administrative fines of at least EUR 5 000 000, or in the Member States whose currency is not the euro, the corresponding value in the national currency on [
+
+date of entry into force of this Regulation
+
+];
+
+(e)
+
+in the case of a legal person, the maximum administrative fines referred to in point (d) may be of up to 10 % of the total annual turnover according to the last available accounts approved by the management body; where the legal person is a parent undertaking or a subsidiary of the parent undertaking which has to prepare consolidated financial accounts in accordance with Directive 2013/34/EU of the European Parliament and of the Council
+
+51
+
+, the relevant total annual turnover shall be the total annual turnover or the corresponding type of income in accordance with the relevant accounting legislative acts according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking;
+
+(f)
+
+maximum administrative fines of at least twice the amount of the benefit derived from the infringement where that benefit can be determined, even if that exceeds the maximum amounts in points (d) and (e).
+
+3.
+
+Where the provisions referred to in the first paragraph apply to legal persons, the competent authorities shall apply the administrative sanctions and remedial measures set out in paragraph 2 to members of the management body, and to other individuals who under national law are responsible for the infringement.
+
+4.
+
+Any decision imposing administrative sanctions or remedial measures set out in paragraph 2 shall be properly reasoned and subject to the right of appeal before a tribunal.
+
+Article 58
+
+Exercise of the power to impose administrative sanctions and remedial measures
+
+1.
+
+The competent authorities shall exercise the powers to impose administrative sanctions and remedial measures referred to in Article 57 in accordance with their national legal frameworks:
+
+(a)
+
+directly;
+
+(b)
+
+in collaboration with other authorities;
+
+(c)
+
+by application to the competent judicial authorities.
+
+2.
+
+The competent authorities, when determining the type and level of an administrative sanction or remedial measure imposed under Article 57, shall take into account all relevant circumstances, including, where appropriate:
+
+(a)
+
+the materiality, gravity and the duration of the infringement;
+
+(b)
+
+the degree of responsibility of the natural or legal person responsible for the infringement;
+
+(c)
+
+the financial strength of the responsible natural or legal person, as indicated in particular by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;
+
+(d)
+
+the importance of profits gained or losses avoided by the responsible natural or legal person, insofar as they can be determined;
+
+(e)
+
+the losses for third parties caused by the infringement, insofar as they can be determined;
+
+(f)
+
+the level of cooperation of the responsible natural or legal person with the competent authority, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
+
+(g)
+
+previous infringements by the responsible natural or legal person.
+
+Article 59
+
+Publication of administrative sanctions and remedial measures
+
+1.
+
+The c
+
+ompetent authorities shall publish without undue delay on their official websites any decision imposing an administrative sanction or remedial measure for infringement of this Regulation after the addressee of the sanction or measure of the sanction or measure has been notified of that decision.
+
+2.
+
+The publication referred to in paragraph 1 shall include  information on the type and nature of the infringement and the identity of the persons responsible and the sanctions or measures imposed.
+
+3.
+
+Where the publication of the identity, in case of legal persons, or the identityand the personal data, in the case of natural persons is considered by the competent authority to be disproportionate following a case-by-case assessment, or where the competent authority considers that the publication jeopardises the stability of financial markets or an on-going investigation, competent authorities shall either:
+
+(a)
+
+defer the publication of the decision imposing the administrative sanction or remedial measure until the moment where the reasons for non-publication cease to exist; or
+
+(b)
+
+publish the decision imposing the administrative sanction or remedial measure, omitting for a reasonable period of time the identity and personal data of the addressee, if it is envisaged that within that period the reasons for anonymous publication shall cease to exist and provided that such anonymous publication ensures an effective protection of the personal data concerned; or
+
+(c)
+
+not publish at all the decision to impose the administrative sanction or remedial measure in the event that the options set out in points (a) and (b) are considered to be insufficient to ensure:
+
+(i)
+
+that the stability of financial markets would not be put in jeopardy;
+
+(ii)
+
+the proportionality of the publication of such decisions with regard to measures which are deemed to be of a minor nature.
+
+4.
+
+In the case of a decision to publish a sanction or measure on an anonymous basis as referred to in paragraph 3(b), the publication of the relevant data may be postponed. Where a decision imposing an administrative sanction or remedial measure is subject to an appeal before the relevant judicial authorities, competent authorities shall also immediately add on their official website that  information and any subsequent information on the outcome of such appeal. Any judicial decision annulling a decision imposing an administrative sanction or a remedial measure shall also be published.
+
+5.
+
+The competent authorities shall ensure that any publication referred to in paragraphs 1 to 4 shall remain on their official website for at least five years after its publication. Personal data contained in the publication shall only be kept on the official website of the competent authority for the period which is necessary in accordance with the applicable data protection rules.
+
+Article 60
+
+Duty to submit information to EIOPA in relation to administrative sanctions and remedial measures
+
+1.
+
+The competent authorities shall inform EIOPA of all administrative sanctions and other measures imposed but not published in accordance with Article 59(1).
+
+2.
+
+The competent authorities shall provide EIOPA annually with aggregated information regarding all administrative sanctions and remedial measures imposed in accordance with Article 57.
+
+EIOPA shall publish that information in an annual report.
+
+3.
+
+Where the competent authority has disclosed an administrative sanction or other measure to the public, it shall at the same time report that fact to EIOPA.
+
+CHAPTER XI
+
+FINAL PROVISIONS
+
+Article 61
+
+Processing of personal data
+
+With regard to the processing of personal data within the framework of this Regulation, PEPP providers and competent authorities shall carry out their tasks for the purpose of this Regulation
+
+in accordance with Regulation (EU) 2016/679. With regard to the processing of personal data by EIOPA within the framework of this Regulation, EIOPA shall comply with Regulation (EC) No 45/2001.
+
+Article 62
+
+Exercise of the delegation
+
+1.
+
+The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2.
+
+The power to adopt delegated acts referred to in Article 24(3), Article 26(3), Article 28(2), Article 32(7) and Article 39 shall be conferred on the Commission for an indeterminate period of time from the date of entry into force of this Regulation.
+
+3.
+
+The delegation of powers referred to in Article 24(3), Article 26(3), Article 28(2), Article 32(7) and Article 39 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the
+
+Official Journal of the European Union
+
+or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4.
+
+As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5.
+
+A delegated act adopted pursuant to Article 24(3), Article 26(3), Article 28(2), Article 32(7) and Article 39 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or the Council.
+
+Article 63
+
+Evaluation and report
+
+Five years after the entry into force of this Regulation, the Commission shall carry out an evaluation of this Regulation and, and after consulting EIOPA, present a Report on the main findings to the European Parliament, the Council and the European Economic and Social Committee.
+
+Where the evaluation identifies important problems with the functioning of the Regulation, the Report should outline how the Commission is intending to address the identified problems, including steps and timings of the potential revision.
+
+Article 64
+
+Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.
+
+Title of the proposal/initiative
+
+1.2.
+
+Policy area(s) concerned
+
+1.3.
+
+Nature of the proposal/initiative
+
+1.4.
+
+Objective(s)
+
+1.5.
+
+Grounds for the proposal/initiative
+
+1.6.
+
+Duration and financial impact
+
+1.7.
+
+Management mode(s) planned
+
+2.
+
+MANAGEMENT MEASURES
+
+2.1.
+
+Monitoring and reporting rules
+
+2.2.
+
+Management and control system
+
+2.3.
+
+Measures to prevent fraud and irregularities
+
+3.
+
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.
+
+Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+3.2.
+
+Estimated impact on expenditure
+
+3.2.1.
+
+Summary of estimated impact on expenditure
+
+3.2.2.
+
+Estimated impact on operational appropriations
+
+3.2.3.
+
+Estimated impact on appropriations of an administrative nature
+
+3.2.4.
+
+Compatibility with the current multiannual financial framework
+
+3.2.5.
+
+Third-party contributions
+
+3.3.
+
+Estimated impact on revenue
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.
+
+Title of the proposal/initiative
+
+Regulation of the European Parliament and of the Council on a pan-European Personal Pension Product (PEPP)
+
+1.2.
+
+Policy area(s) concerned
+
+Financial Services
+
+1.3.
+
+Nature of the proposal/initiative
+
+X
+
+The proposal/initiative relates to
+
+a new action
+
+◻
+
+The proposal/initiative relates to
+
+a new action following a pilot project/preparatory action
+
+52
+
+◻
+
+The proposal/initiative relates to
+
+the extension of an existing action
+
+◻
+
+The proposal/initiative relates to
+
+an action redirected towards a new action
+
+1.4.
+
+Objective(s)
+
+·
+
+The Commission's multiannual strategic objective(s) targeted by the proposal/initiative
+
+A Deeper and Fairer Internal Market with a Strenghtened Industrial Base
+
+·
+
+Specific objective(s)
+
+Specific objective No 2.4.
+
+Consumers have access to safe and reliable insurance, pension and UCITS products
+
+·
+
+Expected result(s) and impact
+
+Specify the effects which the proposal/initiative should have on the beneficiaries/groups targeted.
+
+Further develop EU capital markets towards sufficiently deep, liquid and efficient markets, benefitting investment and growth in the EU. A well-functioning internal market for personal pensions could contribute significantly to:
+
+- provide consumers with adequate choice of personal pension products with minimum EU quality standards ensuring consumer protection,
+
+- provide consumers and pension product providers with adequate market access across the EU.
+
+·
+
+Indicators of results and impact
+
+Specify the indicators for monitoring implementation of the proposal/initiative.
+
+After the entry into force
+
+of the Regulation, Commission will monitor the application  through regular EIOPA reporting (e.g. annual coordination of supervisory process) as well as through its regular contacts with stakeholders (e.g. consumers, industry and/or ESA's).
+
+Key monitoring indicators of impact of the measure will be (assessed e.g. 5 years after entering into application of the PEPP Regulation):
+
+KPI's to monitor the the objective to Increase investment in the EU and contribute to completing the CMU:
+
+KPI 1: Total uptake (in terms of Assets under Management) of PPPs (including national PPPs and the PEPP, compared to the baseline scenario.
+
+The total uptake in terms of assets under management of all PPPs including national PPPs and the PEPP is a measure for success as the PEPP will set out the benchmark in terms of product features. Due to competition forces, national PPPs could take over PEPP features, driving take-up. Success can be measured in case the trend in total uptake would be statistically higher than the uptake of the baseline scenario (encompassing national PPPs). This information is available through the household statistics survey of EUROSTAT to be combined with information by EIOPA.
+
+KPI 2: Geographical and sectorial distribution of PEPP providers and investments in PEPPs
+
+A broad geographical spectrum of PEPPs' take-up would prove their popularity regardless the relative wealth of households in different Member States and provide evidence of the contribution to a CMU. A broad circle of PEPP providers from different sectors of the financial industry would testify for the economic viability of PEPPs and increasing inter-sectorial competition and would provide evidence of the creation of a true single market for personal pensions as part of the CMU.
+
+KPI's to monitor the enhancement of product features on the personal pension market
+
+KPI 3: Number of PEPP registrations as taken from the central register kept by EIOPA.
+
+The number of applications after introduction of the PEPP provides important information on the availability and market adoption of features entailed in the PEPP.
+
+KPI 4 : Relative share of PPPs (including national PPPs and PEPPs) compared to household financial assets.
+
+A statistical increase in the relative share (compared to the baseline scenario) would imply that households, after introduction of PEPP, have a higher share of savings in PPPs as compared to holdings of other financial assets such as e.g. savings in deposits. This statistic is available following the household statistics survey of EUROSTAT to be combined with information by EIOPA.
+
+KPI's to monitor the cross border provision and portability of PPPs:
+
+KPI 5: Number of providers using a passport over a period of 5 years (cross border activity by providers either through free provision of services or freedom of establishment)
+
+A positive trend in the number of providers using a passport is an indicator of increased cross border activity of providers. This data should be available through competent authorities & ESAs.
+
+KPI 6: Relative share (in numbers and in value of assets under management) of PEPPs with more than one (national) compartment compared to all PPPs (including national PPPs and PEPPs) (measure of cross border activity by individuals).
+
+A positive trend of the share of PEPPs with more than one compartment is an indicator that individuals are participating in the PEPP in a cross border context. This data should be available through competent authorities & ESAs.
+
+1.5.
+
+Grounds for the proposal/initiative
+
+·
+
+Requirement(s) to be met in the short or long term
+
+EIOPA shall be entrusted with certain supervisory powers under the Regulation. Indeed, it will be in charge of authorising PEPPs and establishing and maintaining a central register. It will also coordinate supervision, with other ESAs and NCAs.
+
+In the short term, EIOPA will have to set up internal administrative processes, create a central register, develop implementing standards and will have to be ready to authorise PEPPs.
+
+In the longer term, EIOPA will have to be able to coordinate supervision, by  coordinating supervision of national competent authorities. EIOPA will also have to collect information and report on market data on which EIOPA is required by the Regulation to periodically report to the Commission.
+
+·
+
+Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone.
+
+Reasons for action at European level (ex-ante)
+
+- Mitigate the risk of divergent and inconsistent application of the Regulation by different national competent authorities;
+
+- Multiplicity of national competent authorities involved and risks of conflicts over competences (for which binding mediation is proposed);
+
+As shown in the impact assessment, entrusting EIOPA with registration and the coordination of supervision of PEPPs will remedy or significantly reduce those problems.
+
+Expected generated Union added value (ex-post) […]
+
+Establish a single market for the PEPP and ensure its adequate functioning.
+
+·
+
+Lessons learned from similar experiences in the past
+
+This supervisory model is a proven cost-effective method to achieve the objective of a true single market and an adequate CMU perspective with a high level of consumer protection. European Supervisory Authorities have been charged with similar tasks already and the experience, overall, has been positive.
+
+·
+
+Compatibility and possible synergy with other appropriate instruments
+
+EIOPA has limited supervisory powers in the area of supervisory convergence. Synergies could be obtained from the existing EIOPA powers in the area of onsite inspections and supervisory convergence although EIOPA is not yet been entrusted with the power to grant authorisations.
+
+1.6.
+
+Duration and financial impact
+
+◻
+
+Proposal/initiative of
+
+limited duration
+
+◻
+
+Proposal/initiative in effect from [DD/MM]YYYY to [DD/MM]YYYY
+
+◻
+
+Financial impact from YYYY to YYYY
+
+X
+
+Proposal/initiative of
+
+unlimited duration
+
+Implementation with a start-up period from 2019 to 2020,
+
+followed by full-scale operation.
+
+1.7.
+
+Management mode(s) planned
+
+53
+
+◻
+
+Direct management
+
+by the Commission
+
+◻ by its departments, including by its staff in the Union delegations;
+
+◻
+
+by the executive agencies
+
+◻
+
+Shared management
+
+with the Member States
+
+X
+
+Indirect management
+
+by entrusting budget implementation tasks to:
+
+◻ third countries or the bodies they have designated;
+
+◻ international organisations and their agencies (to be specified);
+
+◻the EIB and the European Investment Fund;
+
+X bodies referred to in Articles 208 and 209 of the Financial Regulation;
+
+◻ public law bodies;
+
+◻ bodies governed by private law with a public service mission to the extent that they provide adequate financial guarantees;
+
+◻ bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that provide adequate financial guarantees;
+
+◻ persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act.
+
+If more than one management mode is indicated, please provide details in the ‘Comments’ section.
+
+Comments
+
+2.
+
+MANAGEMENT MEASURES
+
+2.1 Monitoring and reporting rules
+
+Specify frequency and conditions.
+
+In line with already existing arrangements EIOPA prepares regular reports on its activity (including internal reporting to Senior Management, MB reporting, six month activity reporting to BoS and the production of the annual report), and undergoes audits by the Court of Auditors and the Internal Audit Service on its use of  resources. Monitoring and reporting of the present proposed actions will comply with  already existing requirements.
+
+2.2 Management and control system
+
+·
+
+Risk(s) identified
+
+In relation to the legal, economic, efficient use of appropriations resulting form the proposal it is expected that the proposal would not bring about new risks that would not be currently covered by an EIOPA existing internal control framework.
+
+·
+
+Information concerning the internal control system set up
+
+Management and control systems as provided for in the EIOPA Regulation are already implemented. EIOPA works closely together with the Internal Audit Service of the Commission to ensure that the appropriate standards are met in all internal control areas. These arrangements will apply also with regard to the role of EIOPA according to the present proposal. Annual internal audit reports are sent to the Commission, Parliament and Council.
+
+·
+
+Estimate of the costs and benefits of the controls and assessment of the expected level of risk of error
+
+Not applicable
+
+2.3 Measures to prevent fraud and irregularities
+
+Specify existing or envisaged prevention and protection measures.
+
+For the purposes of combating fraud, corruption and any other illegal activity, the provisions of Regulation (EC) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) applies to EIOPA without any restriction.
+
+EIOPA acceded to the Interinstitutional Agreement of 25 May 1999 between the European Parliament, the Council of the European Union and the Commission of the European Communities concerning internal investigations by the European Anti-Fraud Office (OLAF) and adopted appropriate provisions for all EIOPA staff.
+
+EIOPA currently has a dedicated anti-fraud strategy and resulting action plan. The strategy and action plan has been put in place in 2014.  EIOPA’s strengthened actions in the area of anti-fraud will be compliant to the rules and guidance provided by the Financial Regulation (anti-fraud measures as part of sound financial management), OLAF’s fraud prevention policies, the provisions provided by the Commission Anti-Fraud Strategy (COM(2011)376) as well as set out by the Common Approach on EU decentralised agencies (July 2012) and the related roadmap.
+
+The Regulation establishing EIOPA sets out the provisions on implementation and control of the EIOPA budget and applicable financial rules.
+
+[…]
+
+3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1 Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+Existing budget lines
+
+In order
+
+of multiannual financial framework headings and budget lines.
+
+Heading of multiannual financial framework
+
+Budget line
+
+Type of
+
+expenditure
+
+Contribution
+
+Number
+
+[…]
+
+[Heading………………………...……………]
+
+Diff./Non-diff.
+
+54
+
+from EFTA countries
+
+55
+
+from candidate countries
+
+56
+
+from third countries
+
+within the meaning of Article 21(2)(b) of the Financial Regulation
+
+1a
+
+12 02 05 EIOPA
+
+Diff.
+
+NO
+
+NO
+
+NO
+
+NO
+
+New budget lines requested / Not applicable
+
+In order
+
+of multiannual financial framework headings and budget lines.
+
+Heading of multiannual financial framework
+
+Budget line
+
+Type of
+
+expenditure
+
+Contribution
+
+Number
+
+[…]
+
+[Heading ………………………………………]
+
+Diff./Non-diff.
+
+from EFTA countries
+
+from candidate countries
+
+from third countries
+
+within the meaning of Article 21(2)(b) of the Financial Regulation
+
+[…][XX.YY.YY.YY]
+
+YES/NO
+
+YES/NO
+
+YES/NO
+
+YES/NO
+
+3.2 Estimated impact on expenditure
+
+·
+
+Summary of estimated impact on expenditure
+
+EUR million (to three decimal places)
+
+Heading of multiannual financial
+
+framework
+
+Number
+
+[Heading 1A.……………………………………………………………….]
+
+DG: FISMA
+
+Year
+
+2019
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+TOTAL
+
+• Operational appropriations
+
+Number of budget line 12 02 05 EIOPA
+
+Commitments
+
+(1)
+
+0,348
+
+0,251
+
+PM 100% would be 870,5k for 2019 and 629,2k for2020 respectively, due to co-financing arrangement 60/40, only 40% is mentioned here
+
+Payments
+
+(2)
+
+0,348
+
+0,251
+
+Number of budget line
+
+Commitments
+
+(1a)
+
+Payments
+
+(2a)
+
+Appropriations of an administrative nature financed from the envelope of specific programmes
+
+57
+
+Number of budget line
+
+(3)
+
+TOTAL appropriations
+
+for DG FISMA – (40%)
+
+Commitments
+
+=1+1a +3
+
+0,348
+
+0,251
+
+Payments
+
+=2+2a
+
++3
+
+0,348
+
+0,251
+
+•
+
+TOTAL operational appropriations
+
+Commitments
+
+(4)
+
+Payments
+
+(5)
+
+• TOTAL appropriations of an administrative nature financed from the envelope for specific programmes
+
+(6)
+
+TOTAL appropriations
+
+under HEADING <….>
+
+of the multiannual financial framework
+
+Commitments
+
+=4+ 6
+
+Payments
+
+=5+ 6
+
+If more than one heading is affected by the proposal / initiative:
+
+• TOTAL operational appropriations
+
+Commitments
+
+(4)
+
+Payments
+
+(5)
+
+• TOTAL appropriations of an administrative nature financed from the envelope for specific programmes
+
+(6)
+
+TOTAL appropriations
+
+under HEADINGS 1 to 4
+
+of the multiannual financial framework
+
+(Reference amount)
+
+Commitments
+
+=4+ 6
+
+Payments
+
+=5+ 6
+
+Heading of multiannual financial
+
+framework
+
+5
+
+‘Administrative expenditure’
+
+EUR million (to three decimal places)
+
+Year
+
+N
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+TOTAL
+
+DG: <…….>
+
+• Human resources
+
+• Other administrative expenditure
+
+TOTAL DG
+
+<…….>
+
+Appropriations
+
+TOTAL appropriations
+
+under HEADING 5
+
+of the multiannual financial framework
+
+(Total commitments = Total payments)
+
+EUR million (to three decimal places)
+
+Year
+
+N
+
+58
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+TOTAL
+
+TOTAL appropriations
+
+under HEADINGS 1 to 5
+
+of the multiannual financial framework
+
+Commitments
+
+0,348
+
+0,251
+
+Payments
+
+0,348
+
+0,251
+
+·
+
+Estimated impact on operational appropriations
+
+◻
+
+The proposal/initiative does not require the use of operational appropriations
+
+X
+
+The proposal/initiative requires the use of operational appropriations, as explained below:
+
+NOT APPLICABLE
+
+Commitment appropriations in EUR million (to three decimal places)
+
+Indicate objectives and outputs
+
+⇩
+
+Year
+
+N
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+TOTAL
+
+OUTPUTS
+
+Type
+
+59
+
+Average cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+Total No
+
+Total cost
+
+SPECIFIC OBJECTIVE No 1
+
+60
+
+…
+
+- Output
+
+- Output
+
+- Output
+
+Subtotal for specific objective No 1
+
+SPECIFIC OBJECTIVE No 2 ...
+
+- Output
+
+Subtotal for specific objective No 2
+
+TOTAL COST
+
+·
+
+Estimated impact on appropriations of an administrative nature
+
+·
+
+Summary
+
+X
+
+The proposal/initiative does not require the use of appropriations of an administrative nature
+
+◻
+
+The proposal/initiative requires the use of appropriations of an administrative nature, as explained below:
+
+EUR million (to three decimal places)
+
+Year
+
+N
+
+61
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+TOTAL
+
+HEADING 5
+
+of the multiannual financial framework
+
+Human resources
+
+Other administrative expenditure
+
+Subtotal HEADING 5
+
+of the multiannual financial framework
+
+Outside HEADING 5
+
+62
+
+of the multiannual financial framework
+
+Human resources
+
+Other expenditure
+
+of an administrative nature
+
+Subtotal
+
+outside HEADING 5
+
+of the multiannual financial framework
+
+TOTAL
+
+The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DG that are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints.
+
+3.2.1 Estimated requirements of human resources
+
+X
+
+The proposal/initiative does not require the use of human resources.
+
+◻
+
+The proposal/initiative requires the use of human resources, as explained below:
+
+Estimate to be expressed in full time equivalent units
+
+Year
+
+N
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+• Establishment plan posts (officials and temporary staff)
+
+XX 01 01 01 (Headquarters and Commission’s Representation Offices)
+
+XX 01 01 02 (Delegations)
+
+XX 01 05 01 (Indirect research)
+
+10 01 05 01 (Direct research)
+
+•
+
+External staff (in Full Time Equivalent unit: FTE)
+
+63
+
+XX 01 02 01 (AC, END, INT from the ‘global envelope’)
+
+XX 01 02 02 (AC, AL, END, INT and JED in the delegations)
+
+XX
+
+01 04
+
+yy
+
+64
+
+- at Headquarters
+
+- in Delegations
+
+XX
+
+01 05 02 (AC, END, INT - Indirect research)
+
+10 01 05 02 (AC, END, INT - Direct research)
+
+Other budget lines (specify)
+
+TOTAL
+
+XX
+
+is the policy area or budget title concerned.
+
+The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints.
+
+Description of tasks to be carried out:
+
+Officials and temporary staff
+
+External staff
+
+3.2.4. Compatibility with the current multiannual financial framework
+
+X
+
+The proposal/initiative is compatible with the current multiannual financial framework.
+
+◻
+
+The proposal/initiative will entail reprogramming of the relevant heading in the multiannual financial framework.
+
+Explain what reprogramming is required, specifying the budget lines concerned and the corresponding amounts.
+
+[…]
+
+◻
+
+The proposal/initiative requires application of the flexibility instrument or revision of the multiannual financial framework.
+
+Explain what is required, specifying the headings and budget lines concerned and the corresponding amounts.
+
+[…]
+
+3.2.5. Third-party contributions
+
+◻The proposal/initiative does not provide for co-financing by third parties.
+
+X The proposal/initiative provides for the co-financing estimated below:
+
+Appropriations in EUR million (to three decimal places)
+
+Year
+
+2019
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+Total
+
+Specify the co-financing body
+
+-
+
+NCA's 60%
+
+0,870
+
+0,629
+
+PM 100%
+
+TOTAL appropriations co-financed
+
+0,522
+
+0,377
+
+PM 60% due to cofinancing arrangement
+
+3.3 Estimated impact on revenue
+
+X
+
+The proposal/initiative has no financial impact on revenue.
+
+◻
+
+The proposal/initiative has the following financial impact:
+
+◻
+
+on own resources
+
+◻
+
+on miscellaneous revenue
+
+EUR million (to three decimal places)
+
+Budget revenue line:
+
+Appropriations available for the current financial year
+
+Impact of the proposal/initiative
+
+65
+
+Year
+
+N
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+Article ………….
+
+For miscellaneous ‘assigned’ revenue, specify the budget expenditure line(s) affected.
+
+[…]
+
+Specify the method for calculating the impact on revenue.
+
+[…]
+
+ANNEX
+
+to Legislative Financial Statement for Proposal for Regulation on pan-European Personal Pension Products (PEPP)
+
+Applied methodology and main underlying assumptions
+
+The costs related to the coordination of supervision of PEPP by EIOPA have been estimated according to three cost categories: the staff costs, the infrastructure costs and the operations costs, in line with the classification in the budget of EIOPA.
+
+According to preliminary current estimations by the Commission, the PEPP authorisation and supervisory tasks will require 3 new staff members in 2019 and 1 additional staff member for the year 2020. This would be in addition to the staff that are currently working in EIOPA and that are covered under the current budget for EIOPA. The costs are shared on a 60/40 basis with Member States.
+
+The need for increased staff numbers reflects the additional tasks entrusted by the Regulation to EIOPA and relates to the coordination of supervision of PEPPs:
+
+·
+
+Prepare for and manage authorisation process;
+
+·
+
+Set up and maintain a central registry
+
+66
+
+;
+
+·
+
+Develop technical standards foreseen in the Regulation;
+
+·
+
+Facilitate cooperation between national competent authorities;
+
+·
+
+Prepare the take up of coordination of ongoing supervision by the national competent authorities: set up reporting and monitoring framework
+
+·
+
+Annually, monitor and report on KPI's
+
+These new tasks are set out in the proposed Regulation and further spelled out in the explanatory memorandum. They include, but are not limited to, the registration of PEPPs, coordination of supervision of registered PEPPs, requiring periodic contacts with the management/ staff of the supervised entities, responding to questions, complaints or requests by national competent authorities or consumers, monitoring of the compliance of PEPPs with requirements set out in the PEPP Regulation, requesting information from PEPPs or persons involved in the management of the schemes, conducting onsite inspections, examining records and hearing of persons on alleged breaches of the Regulation. EIOPA could also fulfill a role in the power of national competent authorities to withdraw the registration and take other supervisory measures as listed in Article 57 of the PEPP Regulation and to impose fines and periodic penalty payments on PEPPs which are in breach of the Regulation, providing evidence about the breach and proposing the amount of the fine or the penalty payment. Also, EIOPA could provide binding mediation in the event national competent authorities require so.
+
+Below, the general assumptions for the calculation of additional resources, the cost of new headcount and the aditional infrastructural costs are described.
+
+General assumptions made when calculating additional resources
+
+When calculating the additional resources the following assumptions have been made.
+
+It is assumed that the Regulation shall enter into application at the start of 2019 and based on general interest expressed during stakeholder meetings, it is estimated that ca. 325 providers will apply for PEPP-registrations in the following 5 years based upon the experience of other new regime like IORP (80 registrations in 2 years and LTIF 5 in one year. Once registered, these PEPPs are to be supervised by national competent authorities which supervision is coordinated by EIOPA.
+
+Additional posts are assumed to be either permanent staff or temporary agents of grade AD7 with average salary costs of EUR 138.000 as taken from
+
+Table 1
+
+.
+
+As a general remark, costs for EIOPA are currently shared between the Member States and the Commission on a 60/40 basis.
+
+Table 1 Personnel Costs
+
+Category of personnel
+
+Total average cost to be used for the financial statements(*)
+
+Average cost without "habillage" (**)
+
+Official
+
+138.000 €/year
+
+115.000 €/year
+
+Temporary agent
+
+138.000 €/year
+
+115.000 €/year
+
+(**) Real estate expenses, furniture, IT, etc.
+
+Other assumptions
+
+Due to location of EIOPA in Frankfurt, a salary correction coefficient of 0,972 is taken due to the lower cost of living compared to Brussels.
+
+Mission costs are estimated at €10,000 per staff member per year.
+
+Recruitment related costs (travel, hotel, medical examinations, installation and other allowances, removal costs, etc) are estimated at €12,700 per staff member.
+
+Calculation of additional headcount
+
+For the calculation of the additional headcount with EIOPA the new tasks are divided in three main areas of new work attributed to EIOPA: Authorisation, coordinating supervision and policy work. For these areas, the following estimate of amount of work is taken into account.
+
+For authorisation, it is estimated that one officer (for clarity assumed to be equal to one Fte) could process 1 authorisation per two weeks which translates in ca. 25 per year. It is assumed that in the first year of application (i.e. 2019) there will be ca. 25 applications, rising to 75 in each of the following full years.
+
+Actual coodination of supervision duties will be low in the first year when the amount of schemes to be supervised by national competent authorities is still small, picking up with the pace of schemes to be authorized each year. Some synergies could be achieved building on the existing powers for EIOPA in the area of supervisory convergence, albeit that the new powers attributed to EIOPA for PEPP are more extensive.
+
+For policy work it is first taken into account that the regulation contains several mandates for EIOPA to work on technical standards. Secondly, monitoring and reporting on the key performance indicators would be expected. Some synergies are to be achieved here; EIOPA already has policy expertise that could take on part of the new tasks while the need to attract expertise in the specific area is catered for.
+
+Dedicated IT and support entails mainly the establishment of the central registry, or PEPP register, as well as the supporting infrastructure for the reporting of the key performance indicators and is for the purposes of headcount calculations assumed to be covered with EIOPA's current headcount.
+
+Table 2
+
+presents the total estimated additional headcount per area for EIOPA in the area of PEPP.
+
+Table 2 Total Fte per annum per area for PEPP
+
+Total Fte per area for PEPP
+
+2019
+
+2020
+
+Authorisation
+
+1
+
+2
+
+Coordinating supervision
+
+1
+
+1
+
+Policy work
+
+1
+
+1
+
+Total
+
+3
+
+4
+
+Future needs post-2020 will be calculated and allocated in the context of the future Multi Annual Financial Framework.
+
+Calculation of the infrastructure expenditure
+
+The main expenditure in additional infrastructure relates to the setting up of a central registry, accompanying reporting requirements and the setting up of a database to monitor the key performance indicators. For these IT related expenditures it is assumed in total EUR 400.000 is required with 10% annual maintenance costs calculated in. Assumptions underlying this total amount:
+
+·
+
+Set up and maintain a central registry or PEPP Register
+
+·
+
+The creation of a ‘central registry’ similar to one of the existing registers could be envisaged, e.g. the Register of IORPs Prudential Provisions; with a few hundred pension products covered containing product name, financial data, KPIs and potentially qualitative information; updated once a year; operation starts in 2019, ultimately beginning of 2020;
+
+·
+
+To prepare for the
+
+take up for coordination of ongoing supervision: set up reporting and monitoring framework, the collected ‘central registry’ data should be integrated into EIOPA’s Central Repository and should be made available through the corporate Business Intelligence solution; integration work would be necessary and new licences for new staff members will need to be acquired.
+
+Total amounts of expenditure 2019-2020
+
+Taken into account the above assumption the total amounts estimated for the PEPP tasks to be performed by EIOPA for the period 2019-2020 is presented in
+
+Table 3
+
+.
+
+Table 3 Total EIOPA related expenditures for PEPP in the years 2019-2020
+
+Amounts in thousands
+
+Cost type
+
+Calculation
+
+2019
+
+2020
+
+Staff expenditure/ Salaries and allowances
+
+138k per staff x 0,972
+
+402,4
+
+536,5
+
+Expenditure related to recruitment
+
+12,7k fixed per new staff member
+
+38,1
+
+12,7
+
+Mission expenses
+
+10k per staff member/year
+
+30
+
+40
+
+Infrastructure / IT
+
+400k + 10 % maintenance
+
+400
+
+40
+
+Total (*)
+
+870,5
+
+629,2
+
+(*) Total amounts:
+
+not
+
+taking into account the 60/40 allocation Member States/ Commission for EIOPA budget.

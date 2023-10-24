@@ -1,0 +1,2650 @@
+COM_2016_0881_FIN.ENG.xhtml.1_EN_ACT_part1_v6.docx
+
+EUROPEAN COMMISSION
+
+Brussels, 21.12.2016
+
+COM(2016) 881 final
+
+2016/0407(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the use of the Schengen Information System for the return of illegally staying third-country nationals
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+•
+
+Reasons for and objectives of the proposal
+
+Over the course of the last two years, the European Union has been working on simultaneously addressing the separate challenges of migration management, integrated border management of the EU's external borders and the fight against terrorism and cross-border crime. Effective information exchange amongst Member States, and between Member States and the relevant EU agencies, is essential to providing a robust response to those challenges and to building an effective and genuine Security Union.
+
+The Schengen Information System (SIS) is the most successful tool for the effective cooperation of immigration, police, customs and judicial authorities in the EU and the Schengen associated countries. Competent authorities in the Member States such as police, border guards and customs officers need to have access to high quality information about the persons or objects they are checking, with clear instructions about what needs to be done in each case. This large-scale information system is at the very heart of Schengen cooperation and plays a crucial role in facilitating the free movement of people within the Schengen area. It enables competent authorities to enter and consult data on wanted persons, persons who may not have the right to enter or stay in the EU, missing persons – in particular children – and objects that may have been stolen, misappropriated or lost. SIS not only contains information about a particular person or object but also clear instructions for the competent authorities on what to do with that person or object once found.
+
+In 2016, the Commission carried out a comprehensive evaluation
+
+of SIS, three years after the entry into operation of its second generation. This e
+
+valuation showed that SIS has been a genuine operational success.
+
+In 2015, national
+
+competent authorities checked
+
+persons and objects against data held in SIS on nearly 2.9 billion occasions and exchanged over 1.8 million pieces of supplementary information. Nonetheless, as announced in the Commission Work Programme 2017, building on thi
+
+s positive experience, the
+
+effectiveness and efficiency of the system should be further strengthened.
+
+To this end, the Commission is presenting a first set of three proposals to improve and extend the use of SIS as result of the evaluation while continuing
+
+its work to make existing and future law enforcement and border management systems more interoperable, following up on the ongoing work of the High Level Expert Group on Information Systems and Interoperability.
+
+These proposals cover the use of the syste
+
+m (a) for border management, (b) for police cooperation and judicial cooperation in criminal matters, and (c) for the return of illegally staying third country nationals. The first two proposals together form the legal bases for the establishment, operatio
+
+n and use of the SIS. The proposal for the use of SIS for the return of illegally staying third country nationals supplements the proposal for border management and
+
+complements the provisions contained therein. It establishes a new alert category and contr
+
+ibutes to the implementation and monitoring of Directive 2008/115/EC
+
+.
+
+Due to the variable geometry in Member States' participation in EU policies in the area of freedom, security and justice, it is necessary to adopt three separate legal instruments which will nonetheless work seamlessly together to enable the comprehensive operation and use of the system.
+
+In parallel, with a view to enhancing and improving information management at EU level, in April 2016, the Commission began a process of reflection on
+
+"Stronger and Smarter Information Systems for Borders and Security"
+
+. The overarching objective is to ensure that competent authorities systematically have the necessary information from different information systems at their disposal. In order to achieve
+
+this objective, the Commission has been reviewing the existing information architecture to identify information gaps and blind spots that result from shortcomings in the functionalities of existing systems, as well as from fragmentation in the EU's overal
+
+l architecture of data management. The Commission set up a High Level Expert Group on Information Systems and Interoperability to support this work, whose interim findings have also informed this first set of proposals as regards issues of data quality
+
+. P
+
+resident Juncker's State of the Union address in September 2016 also referred to the importance of overcoming the current shortcomings in information management and of improving the interoperability and interconnection between existing information systems.
+
+Following the findings of the High Level Expert Group on Information Systems and Interoperability, which will be presented in the first half of 2017
+
+, the Commission will consider a second set of proposals to further improve interoperability of SIS with
+
+other IT systems in mid-
+
+2017. The review
+
+of Regulation (EU) No 1077/2011
+
+concerning the European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA) is an equally important element of this work and is likely to be the subject of separate Commission proposals al
+
+so in 2017. Investing in swift, effective and qualitative information exchange and information management and ensuring the interoperability of EU databases and information systems is an important aspect of addressing current security challenges.
+
+Against this background, the purpose of the present proposal is to improve and extend the use of SIS by making it obligatory for Member States' authorities to enter in SIS all return decisions issued in accordance with provisions respecting Directive 2008/115/EC, to allow their EU-wide visibility and thus enhance their enforcement. The proposal widens the scope of application of the current SIS by introducing a new alert category for return decisions.
+
+The proposal for border management already contains the provisions concerning the entry and processing of alerts on the basis of entry bans issued in accordance with provisions respecting Directive 2008/115/EC in SIS. These measures build upon the Schengen acquis as they support the checks at the EU's external borders. The entry and processing of alerts related to return decisions issued in accordance with provisions respecting Directive 2008/115/EC in SIS support EU's common immigration policy and are therefore laid down in a separate instrument. The proposal for return builds on the general provisions on the establishment, operation and use of SIS provided for in the proposal on border management. Due to these close links it should be adopted, enter into force and apply at the same time as the border management instrument.
+
+The proposal to extend the use of SIS to follow-up the return of illegally staying third-country nationals will support and strengthen the European Union actions towards an integrated, sustainable and holistic EU migration policy. The return of irregu
+
+lar migrants who do not have a right to stay in the EU to their home countries, in full respect of the principle of
+
+non-refoulement,
+
+is an essential part of our migration policy as stressed in the
+
+European Agenda on Migration
+
+. However, the EU return syste
+
+m works imperfectly and is not sufficiently effective. Statistics available from Eurostat show that, during the last years, only approximately 40% of irregular migrants required to leave the EU departed effectively; in 2015, 553 395 third-country nationals
+
+were ordered to leave, however only 226 800 were effectively returned.
+
+With the escalation of the migration and refugee crisis in 2015, the need to take effective steps to tackle irregular migration and increase the rate of return of irregular migrants ro
+
+se considerably. That is why the Commission is implementing all measures announced in the EU Action Plan on Return
+
+. These measures are necessary in order to secure public trust in the EU migration and asylum policy and to provide adequate support to perso
+
+ns in need of protection. Indeed, a more successful European system returning irregular migrants to their home countries goes hand-in-hand with the renewed efforts to protect those in need of protection.
+
+To improve the efficiency of the EU's return policy, cooperation with countries of origin is essential. That is why in June 2016 the European Council concluded that the EU needs to put in place and swiftly implement the Partnership Framework of cooperation with individual countries of origin or transit based on effective incentives and adequate conditionality. The Commission is actively engaged to develop these partnerships. However, the EU's ability to return irregular migrants is not only linked to cooperation with countries of origin or transit. The challenges of returning irregular migrants also stem from internal obstacles in national return systems and especially the difficulties for the Member States to enforce return decisions.
+
+In the EU Action Plan on Return and in the Communication on "Stronger and
+
+Smarter Information Systems for Borders and Security"
+
+the Commission identified the need to better exploit the large-scale IT systems for the purpose of building a more effective return system. In its Conclusions of 25-26 June 2015, the European Council c
+
+alled for the inclusion of return decisions in SIS, with a view to enhancing their effectiveness.
+
+The Justice and Home Affairs Council confirmed this call in its conclusions of 8-9 October 2015
+
+.
+
+Currently there is no EU-wide system for sharing information about return decisions issued by Member States in accordance with provisions respecting Directive 2008/115/EC, and for monitoring whether third-country nationals subject to these decisions have in fact left the territory of the Member States. This situation makes it easier for irregular migrants to avoid or prevent the enforcement of an existing decision by simply moving to another Member State. In such situations, public authorities of the Member State apprehending the irregular migrant are not aware that a return decision had already been issued in accordance with provisions respecting Directive 2008/115/EC by another Member State. The apprehending Member State would therefore need to re-launch return procedures from scratch, further prolonging the illegal stay and delaying the return of the irregular migrant.
+
+The visibility of other Member States' return decisions through a SIS alert, coupled with the possibility for the exchange of supplementary information via a national single point of contact, such a
+
+s the SIRENE Bureaux, can help address this information gap. Having greater knowledge as to the individual circumstances of the person concerned empowers Member State authorities to take the most appropriate action in a swift and timely manner. Awareness o
+
+f all circumstances related to the irregular migrant in question may justify, for instance, not granting a period of voluntary departure or to use measures to prevent the risk of absconding. Moreover, awareness of the existence of a return decision issued
+
+by another Member State in accordance with provisions respecting Directive 2008/115/EC would facilitate mutual recognition of these decisions amongst migration authorities, in compliance with the EU acquis
+
+; an option that is seldom used due to the current
+
+lack of information.
+
+In addition, Member States are often unaware of the number of irregular migrants that comply with return decisions. This is the case particularly for those irregular migrants who leave the EU voluntarily, for example without obtaining voluntary return assistance or without being subject to a forced removal. With the systematic inclusion of return decisions issued in accordance with provisions respecting Directive 2008/115/EC in SIS and with the appropriate action taken following a hit on a return alert, SIS can help verify compliance with such return decisions and better inform the actions of competent authorities. When a third-country national subject to a return decision issued in accordance with provisions respecting Directive 2008/115/EC will be checked while exiting the territory of the Member States, the competent national authorities will be able to report departure and confirm the voluntary or enforced compliance with the obligation to return.
+
+The confirmation of return will in turn reduce the need for public authorities to invest resources in tracing irregular migrants who have actually already left the EU. In case of a third-country national whose departure has not been confirmed, and following a notification from SIS that the period of voluntary departure has expired, public authorities will also be aware that follow-up actions must be taken in order to trace the individuals concerned, to ensure their removal and issue an entry ban in accordance with Article 11(1) of Directive 2008/115/EC. This system will provide an additional tool to Member States for meeting their obligation to take all necessary measures to ensure the enforcement of return decisions in an effective and proportionate manner, in accordance with Article 8(1) of Directive 2008/115/EC. A more effective monitoring of the compliance with return decisions issued in accordance with provisions respecting Directive 2008/115/EC would help bring to light a number of cases of non-compliance, which can be expected to lead to an increased number of returns and entry bans.
+
+SIS will therefore help provide more reliable data and statistics on the number of return decisions issued in accordance with provisions respecting Directive 2008/115/EC, and on the rate of compliance.
+
+Diffi
+
+culties in identifying irregular migrants and the lack of valid travel documents issued by the third-country of destination of the returnees are major obstacles to successful return. Illegally staying third-country nationals may be holding identification o
+
+r travel documents when they are apprehended and subject to return procedures in a Member State, but they may get rid of such documents at a later stage to hinder return or to move illegally to another Member State. In these cases, the information on the i
+
+dentification or travel document at disposal of the Member State that first apprehended the illegally staying third-country national can facilitate identification and issuance of a valid travel document by the third country of destination to migrants who a
+
+bsconded to another Member State. For this purpose, it is necessary to allow the transfer of relevant data available in SIS to the competent authorities of third countries under strict conditions. Such transfer must be limited to the information that is st
+
+rictly necessary in order to ensure the identification and re-documentation of the migrant, and shall comply with the provisions of Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free
+
+movement of such data
+
+, notably Chapter V of that Regulation that sets detailed rules and conditions for the transfers of personal data to third countries or international organisations. When such transfer is conducted by the Member States that did not in
+
+troduce the information on the document in the SIS alert and is not the owner of such data, the previous authorisation of the Member State that introduced the information in SIS should be required.
+
+This proposal will also enhance rules on the consultation process that Member States must follow when they encounter alerts on return, or are willing to enter such alerts, that collide with other Member States' decisions, such as for instance a valid residence permit. Such rules should prevent the emergence of, or resolve, the conflicting instructions that these situations may create, while offering clear guidance to end-users on the actions to be taken in such situations and to Member States authorities on whether an alert should be deleted.
+
+In order to work corr
+
+ectly, the designed system requires systematic checks at exit at the external borders, in order to ensure that all third-country nationals concerned will be reported as having left the territory. The proposal
+
+amending Regulation (EU) 2016/399 (Schengen Bo
+
+rders Code)
+
+aims at aligning the obligation to systematically check third-country nationals against databases on entry and exit.
+
+Considering the transnational nature and the challenges in ensuring effective cross border information exchange, the recommendations in the European Interoperability Framework are of particular interest for these proposals and should be respected when designing or delivering digital public services. The European Interoperability Framework is currently undergoing a revision, and the new version is in the process of adoption.
+
+•
+
+Consistency with existing policy provisions in the policy area
+
+This proposal complies with and builds upon the provisions of Directive 2008/115/EC which sets common standards and procedures for returning illegally staying third-country nationals. It seeks to create a greater level of compliance with and increase the visibility of return decisions issued by the competent authority in accordance with provisions respecting Directive 2008/115/EC. By making it mandatory to enter such decisions in SIS, this proposal will support the enforcement of these decisions.
+
+•
+
+Consistency with other Union policies
+
+This proposal is closely linked with other existing Union policies and Commission legislative proposals, namely:
+
+(a)
+
+An effective
+
+EU return policy
+
+, so as to contribute to and enhance the EU system
+
+to return third-country nationals who have no right to stay in the territory of the Member States. This proposal would contribute to reducing incentives to irregular
+
+migration to the EU, one of the main objectives of the European Agenda on Migration
+
+;
+
+(b)
+
+Eurodac and Dublin system
+
+as the introduction of return decisions in SIS will support Member States in following up whether rejected asylum seekers have left the territor
+
+y of the Member States and returned to a third-country in compliance with a return decision. It will also complement the Commission proposal
+
+to extend the use of Eurodac to identify illegally staying third-country nationals who do not claim asylum and who
+
+may move around the EU undetected;
+
+(c)
+
+Entry/Exit system
+
+as it will complement the Commission proposal
+
+on the Entry/Exit system and its use to identify and detect overstayers (also within the territory of the Member States);
+
+(d)
+
+ETIAS
+
+which proposed a thorough
+
+security assessment, including a check in SIS, of visa-exempted third-country nationals who intend to travel in the EU;
+
+(e)
+
+Schengen Borders Code
+
+as it will complement the amendment of the Schengen Borders Code related to the obligation to systematically check third-country nationals against databases on exit;
+
+(f)
+
+Commission proposal on the establishment, operation and use of the Schengen Information System (SIS) in the field of
+
+border checks
+
+and repealing Regulation (EC) No 1987/2006 as it will complement the provisions related to entering entry bans in SIS following the return of the third-country national concerned.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+•
+
+Legal basis
+
+Article 79(2)(c) Treaty on the Functioning of the European Union empowers the European Parliament and the Council, acting in accordance with the ordinary legislative procedure, to adopt measures in the field of illegal immigration and unauthorised residence, including removal and repatriation of persons residing without authorisation. Hence, this Article is the suitable legal basis for using SIS for
+
+the return of illegally staying third-country nationals.
+
+•
+
+Variable geometry
+
+With regard to variable geometry, this proposal follows a comparable regime to Directive 2008/115/EC.
+
+According to Article 4 of Protocol 22 on the position of Denmark annexed to the Treaties, Denmark shall decide, within a period of six months after the Council has decided on this Regulation, whether it will implement this proposal, which builds upon the Schengen
+
+acquis
+
+, in its national law.
+
+With regard to the United Kingdom and Ireland, the Return Directive presents a hybrid character, as reflected in its recitals (26) and (27). It follows that both Protocol 19 on the Schengen
+
+acquis
+
+integrated in the framework of the European Union annexed to the Treaties, and Protocol 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice annexed to the Treaties, apply to this proposal. Pursuant to the latter, non-Schengen protocol, the United Kingdom and Ireland are not taking part in the adoption of this Regulation and are not bound by it or subject to its application; they may however notify to the Council that they wish to take part in this instrument.
+
+On the basis of the respective agreements associating those countries with the implementation, application and development of the Schengen
+
+acquis
+
+, Iceland, Norway, Switzerland and Liechtenstein are to be bound by the Regulation proposed.
+
+•
+
+Subsidiarity (for non-exclusive competence)
+
+The aim of the proposal is to establish a system for sharing information about return decisions issued in accordance with provisions respecting Directive 2008/115/EC by the Member States in view of facilitating their enforcement and to monitor the compliance of illegally staying third-country nationals with their obligation to return. This cannot be sufficiently achieved by the Member States acting alone. There is currently no system in place allowing the systematic sharing of information on return decisions issued by the Member States in accordance with provisions respecting Directive 2008/115/EC; therefore, national authorities cannot be aware of return decisions issued in respect of third-country nationals by other Member States, including where irregular migrants are apprehended while moving illegally across the EU and transiting on their territories. The aim of this proposal can, therefore, be better achieved by the European Union.
+
+•
+
+Proportionality
+
+Article 5 of the Treaty on the European Union states that action by the Union shall not go beyond what is necessary to achieve the objectives of the Treaty. The form chosen for this EU action must enable the proposal to achieve its objective and be implemented as effectively as possible.
+
+The proposed Regulation intends to facilitate the enforcement and monitoring of return decisions issued
+
+in accordance with provisions respecting Directive 2008/115/EC
+
+in relation to illegally staying third county nationals, in view of ensuring a more effective and successful return policy. It therefore provides the Member States with an additional tool for meeting
+
+their obligation to take all necessary measures to ensure the enforcement of return decisions in an effective and proportionate manner in accordance with Article 8(1) of the Return Directive.
+
+To achieve these objectives, and in accordance with the principle of proportionality as set out in Article 5 of the
+
+Treaty on the European Union, this Regulation does not go beyond what is necessary in order to achieve those
+
+objectives.
+
+•
+
+Choice of the instrument
+
+In order to establish uniform and harmonised procedures that are directly applicable, it is appropriate to adopt this act in the form of a Regulation. In addition, this proposal relates to the use of a centralised European information system. Therefore, the rules on its use need to be established in a Regulation.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER C
+
+ONSULTATIONS AND IMPACT ASSESSMENTS
+
+•
+
+Ex-post evaluations/fitness checks of existing legislation
+
+In accordance with the SIS II Regulation
+
+and Council Decision 2007/533/JHA
+
+, three years after its entry into operation, the Commission carried out an overall
+
+evaluation of the central SIS II system as well as of the bilateral and multilateral exchange of supplementary information between Member States. The evaluation specifically targeted the review of the application of Article 24 of the SIS II Regulation, es
+
+tablishing the conditions for issuing alerts for the purpose of refusing entry and stay in respect of third-country nationals. The proposals resulting from the evaluation are included in the Proposal for a Regulation of the European Parliament and of the C
+
+ouncil on the establishment, operation and use of the Schengen Information System (SIS) in the field of border checks and the Proposal for a Regulation of the European Parliament and of the Council on the establishment, operation and use of the Schengen In
+
+formation System (SIS) in the field of police cooperation and judicial cooperation in criminal matters.
+
+Furthermore, in accordance with Article 19 of the Return Directive 2008/115/EC, the Commission published a Communication on EU Return Policy in 2014
+
+, w
+
+hich reports on the application of the Directive 2008/115/EC. It concluded that the potential of SIS in the field of return policy should be further enhanced; it indicates that the review of SIS II is an opportunity to improve consistency between the retur
+
+n policy and SIS II, as well as to suggest introducing an obligation on Member States to enter a refusal of entry alert in SIS II for entry bans issued under the Return Directive.
+
+•
+
+Stakeholder consultations
+
+Feedback and suggestions on the potential use of SIS for return were sought from relevant stakeholders, including delegates to the SISVIS Committee and the Return Directive Contact Group.
+
+Discussions took place in several meetings of the SISVIS Committee (10 May 2016 and 30 June 2016) and the Return Directive Contact Group (16 November 2015, 18 March and 20 June 2016). On 5 February 2016 a joint workshop with delegates to the SISVIS Committee and the Return Directive Contact Group was held. The workshop was also attended by representatives of EU Agencies such as the European Union Agency for Fundamental Rights.
+
+•
+
+Collection and use of expertise
+
+In October 2015 the Commission launched an external study
+
+with the purpose of assessing
+
+the feasibility and technical and operational implications of setting up within the context of SIS an EU wide system for exchanging data on and monitoring compliance with return decisions issued in accordance with provisions respecting Directive 2008/115/E
+
+C. The study was finalised in April 2016.
+
+•
+
+Impact assessment
+
+No impact assessment was conducted. However, the proposal is based on the results of the feasibility study referred to above.
+
+The study concluded that entering return decisions
+
+issued in accordance with provisions respecting Directive 2008/115/EC
+
+as alerts in SIS would be technically feasible and result in tangible benefits, especially with regard to the visibility of information across Member States and streamlining follow-up actions.
+
+It would support authorities to:
+
+–
+
+enforce the decision in case of non-compliance;
+
+–
+
+monitor for each decision whether the obligation to return has been complied with;
+
+–
+
+verify whether a third-country national who is found illegally on the territory is subject to a decision issued by another Member State;
+
+–
+
+enforce decisions on behalf of other Member States;
+
+–
+
+identify illegally staying third-country nationals based on information about enforceable decisions;
+
+–
+
+collect statistics on complied and non-complied decisions.
+
+On the other hand, the study concluded that a number of necessary technical and operational changes would impact current practices, organisation and infrastructures. The implications of introducing return decisions
+
+issued in accordance with provisions respecting Directive 2008/115/EC
+
+in SIS include new/amended operational procedures, additional data categories in alerts on return and new SIS functions (such as the function to notify the issuing authority when the period for voluntary departure has expired). The changes would require the establishment of adequate infrastructure in Member States to enter and manage alerts on return in SIS and additional storage capacities in the Central SIS.
+
+A workload analysis revealed that all players concerned (especially border guards and police officers and the authorities issuing return decisions
+
+in accordance with provisions respecting Directive 2008/115/EC
+
+) would face additional workload resulting from having to manage alerts on return and follow up an increased number of hits. Finally, the study pointed to the need for a minimum level of harmonisation across Member States when dealing with persons who are already subject to a return decision issued
+
+in accordance with provisions respecting Directive 2008/115/EC
+
+by another Member State.
+
+•
+
+Fundamental rights
+
+This proposal develops and improves an existing system. It widens the scope of application of the current SIS by introducing a new alert category for return decisions. Its impact on fundamental rights is, as a result, limited as the solid functioning of the system has already been proven and important and effective safeguards have already been put in place. Nevertheless, as the proposal involves the processing of personal data, there is a potential impact on an individual's fundamental rights. This has been considered, and safeguards have been put in place in order to respect the principles set out in the Charter of Fundamental Rights of the European Union, and in particular Article 8.
+
+This proposal is supplementary to the proposal for border management which forms, together with the proposal for police cooperation and judicial cooperation in criminal matters, the legal basis for the establishment, operation and use of SIS. Therefore the safeguards contained in the border management proposal related to the protection of fundamental rights, and in particular data protection and the rights of the data subject, equally apply to this proposal.
+
+Furthermore, provisions have been put in place in order to ensure that return alerts will not lead to taking measures for the enforcement of return decisions issued in accordance with provisions respecting Directive 2008/115/EC when the period for voluntary departure is still running or when the decision has been suspended or the removal has been postponed (Article 3(2) and (3)).
+
+The elements of the return decision issued in accordance with provisions respecting Directive 2008/115/EC to be entered in SIS are limited to those that are strictly necessary to allow competent authorities to identify the third-country national concerned, carry out return if necessary, and verify that the obligation to return has been complied with (Article 4).
+
+Data will only be kept in SIS as long as required to achieve the purpose of return. As a consequence, it will be required that the issuing Member State deletes the data immediately after receipt of the confirmation of return (Article 6), if the decision is no longer valid, if the person obtained EU citizenship or the citizenship of a State whose nationals are beneficiaries of the right of free movement within the Union or if the person who is the subject of the alert can demonstrate that he or she has left the territory of the Member States in compliance with the return decision issued in accordance with provisions respecting Directive 2008/115/EC (Article 7).
+
+The new provisions on SIS will make more visible the situations where third-country nationals subject to a return decision issued in accordance with provisions respecting Directive 2008/115/EC by a Member State hold at the same time an authorisation or right to stay granted by another Member State. In such cases it shall be mandatory for national authorities to engage in a consultation procedure. Where necessary the alert on return will also be deleted (Article 8).
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The present proposal widens the scope of application of the current SIS by introducing a new alert category for return decisions issued in accordance with provisions respecting Directive 2008/115/EC and functions for creating, updating and deleting alerts on return. Furthermore, it introduces a new functionality for automatically notifying to the issuing Member States that the period for voluntary departure on their alerts has expired.
+
+Due to the complementary nature of this proposal the budgetary implications are dealt with separately and in an independent financial statement addressing only the establishment of this specific alert category.
+
+The financial statement attached to this proposal reflects the changes required for establishing this new alert category. The cost-estimate of EUR 3.6 million includes costs for the technical upgrade of SIS for the purpose of return. The cost estimates concerning the overall development of the Central SIS, the communication infrastructure and the upgrades of the national SIS systems are not included in the Legislative Financial Statement attached to this proposal but they are set out in detail in the Legislative Financial Statement attached to the Commission proposal for a Regulation on the establishment, operation and use of the Schengen Information System (SIS) in the field of border checks and the Commission proposal for a Regulation on the establishment, operation and use of the Schengen Information System (SIS) in the field of police cooperation and judicial cooperation in criminal matters.
+
+A re-programming of the remainder of the Smart Borders envelope of the Internal Security Fund is planned in order to carry out the upgrades and implement the functionalities foreseen in this prop
+
+osal. The ISF Borders Regulation
+
+is the financial instrument where the budget for the implementation of the Smart Borders package has been included. Article 5 of the Regulation provides that EUR 791 million shall be implemented through a programme for set
+
+ting up IT systems supporting the management of migration flows across the external border under the conditions laid down in Article 15. Out of the above-mentioned EUR 791 million, EUR 480 million is reserved for the development of the Entry-Exit System an
+
+d EUR 210 million for the development of the European Travel Information and Authorisation System (ETIAS). The remainder will be partly used to cover the costs of the changes foreseen in the current proposal.
+
+5.
+
+OTHER ELEMENTS
+
+•
+
+Implementation plans and mo
+
+nitoring, evaluation and reporting arrangements
+
+The review and monitoring provisions included in Articles 53(7) and (8) of the Proposal for a Regulation of the European Parliament and of the Council on the establishment, operation and use of the Schengen Information System (SIS) in the field of border checks are applicable.
+
+•
+
+Detailed explanation of the specific provisions of the proposal
+
+The proposal aims at setting out the conditions and procedures for the use of SIS for the return of illegally staying third-country nationals in respect of whom a return decision has been issued in accordance with provisions respecting Directive 2008/115/EC by the competent national authorities. The proposal requires entering and processing data in SIS, in the form of alerts, on third-country nationals, subject to a return decision, and exchanging supplementary information on such alerts. The use of SIS for return is aimed at supporting immigration authorities to follow up and enforce the return of third-country nationals who have no right to stay in the Member States, to help to prevent and deter irregular migration and to enhance information sharing and cooperation between immigration authorities.
+
+Scope (Article 1)
+
+To ensure the effective functioning of the system, it is key that all return decisions issued by Member States in accordance with provisions respecting Directive 2008/115/EC are introduced in SIS. This means that Member States should enter alerts on (a) return decisions issued in application of Article 6(1) of the Directive 2008/115 and (b) decisions stating an obligation to return issued to irregular migrants subject to a refusal of entry at a border crossing point or those apprehended in connection with the irregular crossing of the external border and who did not receive an authorisation to stay (Article 2(2)(a) of Directive 2008/115/EC), as well as (c) decisions stating an obligation to return issued as a criminal sanction (Article 2(2)(b) of Directive 2008/115/EC).
+
+Entering alerts on return (Article 3)
+
+Article 3 sets out the purpose and rules for entering alerts on return in SIS to allow the competent authorities to verify that the obligation to return has been complied with and to support the enforcement of return decisions issued in accordance with provisions respecting Directive 2008/115/EC. The alert should be without delay entered as soon as the decision has been issued to the illegally staying third-country national concerned, in order to allow the verification referred to above. The alert should indicate if a period for voluntary departure is still running or if a decision has been suspended or removal has been postponed.
+
+Where there are no reasons to believe that it would undermine the purpose of return procedures, voluntary return should be preferred over forced return and a period for voluntary departure should be granted to the returnee, in accordance with Article 7 of Directive 2008/115/EC. The duration of the period for voluntary departure, and any prolongation thereof, should be indicated in the alert to allow public authorities to decide whether it is appropriate to take action in the individual case.
+
+Categories of data (Article 4)
+
+Article 4 establishes the data elements that can be contained in a return alert which are similar to those included in Article 20 of the proposal for border management.
+
+The data in relation to the period for voluntary departure, whether the return decision issued in accordance with provisions respecting Directive 2008/115/EC has been suspended or the enforcement of the decision has been postponed are specific for alerts on return.
+
+Effective and timely exchange of supplementary information (Article 5)
+
+Effective and timely cooperation and exchange of supplementary information between Member States requires the set-up of single point of contact. Article 6 provides that each Member State must designate an authority responsible for the exchange of supplementary information on alerts entered on third-country nationals within the context of return and illegal stay. The provisions of the SIRENE Manual referred to in Article 8 of the proposal for a Regulation on the establishment, operation and use of the SIS in the field of border checks are applicable to the designated authority.
+
+In order to meet the requirements laid down in Article 8 of the above-mentioned proposal concerning the continuous availability and timing for replying to requests (within maximum 12 hours), it is necessary that Member States ensure that the authorities competent for taking decisions related to the stay of third-country nationals on their territory are closely involved in the exchange of supplementary information.
+
+Confirmation of return (Article 6)
+
+Article 6 introduces the obligation on Member States to confirm the departure of the third-country national subject to an alert on return to the Member State (or authority) that entered the alert; this applies also when the same Member State is responsible for the issuing and the enforcement of the alert. This provision allows the authorities issuing and enforcing return decisions issued in accordance with provisions respecting Directive 2008/115/EC to verify that the obligation to return has been complied with.
+
+This provision requires systematic checks at exit in order to ensure that all third-country nationals concerned will be reported as having left the territory. The proposal amending Regulation No 562/2006 (Schengen Borders Code) aims at aligning the obligation to systematically check third-country nationals against databases on entry also to exit.
+
+Non-compliance with an obligation to return (Article 7)
+
+Article 7 sets out the provisions in cases of non-compliance with the obligation to return. The notification referred to in paragraph 1 will support the Member States in fulfilling their obligations in accordance with Article 8(1) of Directive 2008/115/EC with regard to third-country nationals who have not complied with the obligation to return.
+
+Paragraph 2 sets out the procedures to deal with situations where a third-country national subject to an alert on return is identified and apprehended in another Member State. The follow-up procedures are to be carried out in accordance with the EU return
+
+acquis
+
+and other provisions of national and EU legislation applicable to the individual case, which include:
+
+1) issuing a return decision in accordance with provisions respecting the Directive 2008/115/EC;
+
+2) passing back the third-country national to the issuing Member State under an existing bilateral agreement in compliance with Article 6(3) of the Directive 2008/115/EC, or
+
+3) recognising the return decision of the issuing Member State in application of Directive 2001/40/EC.
+
+Consultation procedure (Article 8)
+
+Article 8 of this proposal sets out procedures necessary for preventing and solving divergences or conflicting decisions between Member States. Mutual consultation of competent national authorities can help prevent and solve such conflicting situations, while taking account of the interest of the parties concerned. To be effective, such consultation should be speedily carried out.
+
+Retention and deletion of alerts (Articles 6, 8 and 9)
+
+Paragraph 2 of Article 6 establishes that alerts on return need to be deleted following the return of the third-country national concerned. This paragraph complements the provisions on the moment in which alerts related to entry bans should take effect in SIS as established in Article 24(3) of the proposal for a Regulation on the establishment, operation and use of the SIS in the field of border checks. Member States should take all necessary measure to ensure that there is no time-gap between the moment of departure and the activation of the alert on the entry ban in SIS.
+
+Article 9 includes further rules on deletion of alerts. In addition to the situations covered under Article 6 and Article 8, where deletion of alerts takes place following the return of the third-country national concerned or following a consultation procedure, an alert on return should also be deleted where the return decision issued in accordance with provisions respecting Directive 2008/115/EC has been withdrawn or annulled. The second part of paragraph 1 covers the situation where the alert needs to be deleted due to the fact that the departure of the person was not duly registered.
+
+In the context of the further improvement of the SIS, the opportunity to keep trace in SIS of return decisions after the return was enforced will be explored. This information could be useful if a third country national re-entered the territory of the Member States and is found as illegally staying in a different Member State than the one who issued the first return decision.
+
+Where the return has not been confirmed or where the alert on return has not been deleted due to other reasons the maximum retention period will be five years in line with the retention period for refusal of entry alerts (Article 34 of the proposal for a Regulation on the establishment, operation and use of the SIS in the field of border checks).
+
+Transfer of data to third countries (Article 10)
+
+Article 10 contains specific rules concerning transfer of data to third countries under strict conditions.
+
+Access rights (Article 12)
+
+In the Member States, the authorities responsible for issuing return decisions in accordance with provisions respecting Directive 2008/115/EC may vary significantly. Depending on the reason for illegal stay (e.g. refusal of asylum, visa overstay, expire of a residence permit), several authorities may be responsible for issuing such decisions, including judicial authorities when return is ordered as the result of an appeal against a refusal of an authorisation or right to stay, or as a criminal sanction. Such authorities should therefore be able to access SIS in order to enter, update, delete and search data. In addition, the authorities in charge of the identification of third-country nationals during, border, police and other law enforcement checks should have the right to access the data in SIS.
+
+Accordingly, Article 12 provides for appropriate access to alerts on return to be given to:
+
+–
+
+national authorities responsible for identifying third-country nationals on the territories of the Member States referred to in Article 29(1) (a), (b), (c) and (d)  of Regulation (EU) 2018/xxx [border checks]. The authorities responsible for border checks need to have access to the data for the purpose of identification of third-country nationals who are the subject of a return decision and who exit the territory of the Member States. Police and other law enforcement authorities are responsible in accordance with national law for the identification and return of persons staying on the national territory. Immigration authorities are responsible for taking decisions (including return decisions) on the entry and stay of third-country nationals;
+
+–
+
+national judicial authorities (Article 29(2) of Regulation (EU) 2018/xxx [border checks]) should have access to the data in SIS if they are competent in accordance with national law for taking decisions on the entry and stay of third-country nationals;
+
+–
+
+institutional users as referred to in Article 30 to 31 of Regulation (EU) 2018/xxx [border checks] (Europol and the European Border and Coast Guard Agency) within the context of their competences in the European Migrant Smuggling Centre (Europol) and in return-related tasks (European Border and Coast Guard Agency).
+
+Applicability of the provisions of the SIS Regulation on border management (Article 13)
+
+Finally, Article 13 provides that the general provisions of SIS as included in the proposal for a Regulation on the establishment, use and operation of the SIS in the field of border checks apply also to the processing of data entered for the purpose of this proposal, in particular the provisions concerning the responsibilities of the Member States and the Agency, the entry and processing of alerts, the conditions for access and retention of alerts, data processing, data protection, liability and monitoring and statistics.
+
+2016/0407 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the use of the Schengen Information System for the return of illegally staying third-country nationals
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 79(2)(c) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+The ret
+
+urn of third-country nationals who do not fulfil or no longer fulfil the conditions for entry, stay or residence in the Member States, in full respect of fundamental rights and in particular the principle of non-refoulement, and in accordance with Directiv
+
+e 2008/115/EC of the European Parliament and of the Council, is an essential part of the comprehensive efforts to tackle irregular migration and increase the rate of return of irregular migrants.
+
+(2)
+
+It is necessary to increase the effectiveness of the Eur
+
+opean system to return illegally staying third-country nationals. This is essential for maintaining public trust in the Union migration and asylum policy and providing support to persons in need of international protection.
+
+(3)
+
+Member States should take a
+
+ll necessary measures to return illegally staying third-country nationals in an effective and proportionate manner, in accordance with the provisions of Directive 2008/115/EC.
+
+(3a)  When implementing this Regulation, Member States should take due account of the best interests of the child, family life, the state of health of the third-country national concerned and whether the third-country national is a vulnerable person. In any event, any measures to return third-country nationals should fully respect the Charter of Fundamental Rights of the European Union and the principle of non-refoulement.
+
+(4)
+
+A Union-wide system for sharing information between Member States on return
+
+decisions issued in respect of third-country nationals staying illegally on the territory of the Member States in accordance with provisions respecting Directive 2008/115/EC and for monitoring whether third-country nationals subject to those decisions have
+
+left the territory of the Member States should be established.
+
+(5)
+
+Regulation (EU) 2018/xxx [border checks]
+
+and Regulation (EU) 2018/xxx [police and judicial cooperation]
+
+lay down the conditions for the establishment, operation and use of the Schengen
+
+Information System (SIS).
+
+(6)
+
+SIS alerts on return and the exchange of supplementary information on these alerts should support competent authorities to take the necessary measures to enforce return decisions issued in accordance with provisions respectin
+
+g Directive 2008/115/EC. SIS should contribute to the identification and the information sharing between Member States on third-country nationals who are the subject of such return decision, who have absconded and are apprehended in another Member State. T
+
+hese measures should help prevent and deter irregular migration and enhance cooperation between Member States' authorities.
+
+(7)  To ensure the effectiveness of return and increase the added value of alerts on return, Member States should enter alerts in SIS in relation to return decisions issued to illegally staying third-country nationals in accordance with provisions respecting Directive 2008/115/EC. For this purpose, Member States should enter an alert in SIS also when decisions imposing or stating an obligation to return are issued in the situations described in Article 2(2) of that Directive, notably to third-country nationals who are subject to a refusal of entry in accordance with the Schengen Borders Code, or who are apprehended or intercepted by the competent authorities in connection with the irregular crossing by land, sea or air of the external border of a Member State and who have not subsequently obtained an authorisation or a right to stay in that Member State, and to third-country nationals who are subject to return as a criminal law sanction or as a consequence of a criminal law sanction, according to national law, or who are the subject of extradition procedures. For the purpose of this Regulation, in order to reduce the administrative burden, Member States should have the option not to enter data on third-country nationals subject to a return decision when those third-country nationals are placed in detention until removal.
+
+(8)  This Regulation should set out common rules for entering alerts related to return in SIS as soon as the underlying return decisions in accordance with provisions respecting Directive 2008/115/EC are issued. The alert should indicate whether a period for voluntary departure has been granted to the third-country national concerned, including whether such period has been extended taking into account the specific circumstances of the individual case, whether the third-country national has a right to appeal against the return decision, whether an appeal against the return decision is pending, and whether the decision has been suspended or the removal has been postponed.
+
+(8a)  Member States should make an existing alert related to return in SIS temporarily unavailable upon the suspension or postponement of the enforcement of the return decision issued in accordance with provisions respecting Directive 2008/115/EC or where an appeal has been lodged against a return decision which may lead to the suspension of its enforcement.
+
+(9)  It is necessary to specify the categories of data that can be entered in SIS in respect of third-country nationals who are the subject of a return decision issued in accordance with provisions respecting Directive 2008/115/EC. Alerts on return should contain only those data that are required in order to identify the data subjects, to allow the competent authorities to take informed decisions without losing time and to ensure, where necessary, their protection in relation to persons who are armed, violent, have escaped or are involved in an activity as referred to in Directive (EU) 2017/541 of the European Parliament and of the Council26. Furthermore, in order to facilitate identification and detect multiple identities, the alert should include also a reference to the personal identification document and a copy of such document, if available.
+
+(10)  Each Member State should designate a national authority that is fully operational 24 hours a day, 7 days a week, and responsible for the exchange of supplementary information on third-country nationals who are the subject of a return decision in order to ensure efficient and swift cooperation among the Member States. Member States should be able to designate their SIRENE Bureau as their national authority.
+
+(11)  Procedures should be established to enable Member States to verify that the obligation to return has been complied with and to confirm the departure of or that a residence permit or other authorisation offering a right to stay has been granted to the third-country national concerned to the Member State that issued the alert on return. This information should contribute to a more comprehensive follow-up of the compliance with return decisions and of the rate of successful appeals against return decisions in accordance with provisions respecting Directive 2008/115/EC.
+
+
+(12)  Alerts on return should be automatically deleted as soon as the alert expires, in accordance with the review procedure. They should also be deleted as soon as the Member State or competent authority that issued the return decision in accordance with provisions respecting Directive 2008/115/EC has been informed that the return has taken place, or, where necessary, in accordance with the provisions on the compatibility of alerts. Where a return decision is accompanied by an entry ban, the latter should be entered in SIS in accordance with Article 24(3) of Regulation (EU) 2018/xxx [border checks]. In such cases Member States should take all necessary measures to ensure that no time-gap exist between the moment in which the third-country national leaves the Schengen area and the activation of the alert on the entry ban in SIS.
+
+(12a)  When a return decision is accompanied by an entry ban, even if an alert on return is not entered in SIS, the issuing Member State should ensure that the alert takes effect in SIS when the third-country national concerned leaves the territory of the Member States.
+
+(13)  SIS should contain a mechanism for notifying the Member States about the non-compliance of third-country nationals with an obligation to return within a given period of voluntary departure. The mechanism should support the Member States in fulfilling their obligations in accordance with Article 8(1) and Article 11 of Directive 2008/115/EC with regard to third-country nationals who have not complied with an obligation to return.
+
+
+
+(14)
+
+This Regulation should
+
+establish mandatory rules for the consultation between national authorities to solve possible conflicting instructions. Consultations should be carried out where third-country nationals who hold, or are being granted, a valid residence permit or other aut
+
+horisation or right to stay by a Member State are subject to an alert on return issued by another Member State, or cases where conflicting situations may arise at entry in the territories of the Member States.
+
+(15)  Alerts should be kept in SIS only for the time required to fulfil the purposes for which they were entered. In accordance with Article 34 of Regulation (EU) 2018/xxx [border checks] the review period for alerts on the return of third-country nationals is three years.
+
+(16)
+
+Data processed in SIS or transferred t
+
+hrough the exchange of supplementary information may provide to the enforcing Member State information that is useful for the rapid identification and re-documentation of illegally staying third-country nationals, in view of their return to a third country
+
+. In individual cases, it should be possible to share such data and information with
+
+a third country for this purpose.
+
+Sharing of any personal data should be subject to clear conditions, should be carried out in accordance with the provisions of Regulation
+
+(EU) 2016/679 and be conducted with the agreement of the Member State that issued the alert
+
+.
+
+(17)
+
+National authorities responsible for return may differ significantly among Member States, and such authorities may also vary within a Member State depending
+
+on the reasons for illegal stay. Judicial authorities may also issue return decisions
+
+in accordance with provisions respecting Directive 2008/115/EC
+
+, for instance as result of appeals against a refusal of granting an authorisation or right to stay, or as
+
+a criminal sanction. All national authorities in charge of issuing and enforcing return decisions
+
+in accordance with Directive 2008/115/EC
+
+should be entitled to access SIS in order to enter, update, delete and search alerts on return.
+
+(18)
+
+Access to alerts
+
+on return should be granted to national authorities referred to in points (a), (b),(c) and (d) of Article 29(1) and in Article 29(2) of Regulation (EU) 2018/xxx [border checks] for the purpose of identification and return of third-country nationals.
+
+(19)
+
+Regulation (EU) 2016/794 on the European Union Agency for Law Enforcement cooperation (Europol Regulation) provides that Europol supports and strengthens actions carried out by the competent authorities of Member States and their cooperation in combating t
+
+errorism and serious crime and provides analysis and threat assessments. In order to facilitate Europol in carrying out its tasks, in particular within the European Migrant Smuggling Centre, it is appropriate to allow Europol access to the alert category d
+
+efined in this Regulation.
+
+(20)
+
+Regulation (EU) 2016/1624 provides that the host Member State shall authorise the members of the European Border and Coast Guard teams or teams of staff involved in return-related tasks, deployed by the European Border and
+
+Coast Gard Agency, to consult European databases, where this consultation is necessary for fulfilling operational aims specified in the operational plan on border checks, border surveillance and return. The objective of the deployment of the European Borde
+
+r and Coast Guard teams, teams of staff involved in return-related tasks and the migration management support teams is to provide for technical and operational reinforcement to the requesting Member States, especially to those facing disproportionate migra
+
+tory challenges. Fulfilling the tasks assigned to the European Border and Coast Guard teams, teams of staff involved in return-related tasks and to the migration management support teams, necessitates access to alerts on return SIS via a technical interfac
+
+e of European Border and Coast Gard Agency connecting to Central SIS.
+
+(21)
+
+The provisions on responsibilities of the Member States and the
+
+European Agency on the operational management of large-scale IT systems in the area of freedom, security and justice
+
+, the entry and processing of alerts, the conditions to access and retention of alerts, data processing, data protection, liability and monitoring and statistics
+
+as included in Regulation (EU) 2018/xxx [Border checks]
+
+should also apply to data entered and
+
+processed in SIS in accordance with this Regulation.
+
+(21a)  This Regulation respects fundamental rights and observes the principles recognised by the Charter of Fundamental Rights of the European Union.
+
+	
+21(b)  This Regulation is without prejudice to the obligations deriving from the Geneva Convention relating to the Status of Refugees of 28 July 1951, as supplemented by the New York Protocol of 31 January 1967.
+
+(22)
+
+In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark annexed to the Treaty on European Union
+
+and to the
+
+Treaty on the Functioning of the European Union, Denmark is not t
+
+aking part in the adoption of this Regulation and is not bound by it or subject to its application. Given that this Regulation builds, to the extent that it applies to third-country nationals who do not fulfil or who no longer fulfil the conditions of entr
+
+y in accordance with Regulation (EU) 2016/399 of the European Parliament and of the Council
+
+, upon the Schengen
+
+acquis
+
+, Denmark shall, in accordance with Article 4 of that Protocol, decide within a period of six months after the Council has decided on this
+
+Regulation whether it will implement it in its national law.
+
+(23)
+
+To the extent that it applies to third-country nationals who do not fulfil or who no longer fulfil the conditions of entry in accordance with Regulation (EU) 2016/399, this Regulation const
+
+itutes a development of the provisions of the Schengen
+
+acquis
+
+in which the United Kingdom does not take part, in accordance with Council Decision 2000/365/EC
+
+; the United Kingdom is therefore not taking part in the adoption of this Regulation and is not bo
+
+und by it or subject to its application. Moreover, in accordance with Articles 1 and 2 of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the
+
+Treaty on European Union
+
+and
+
+to the
+
+Treaty on the Functioning of the European Union
+
+, and without prejudice to
+
+Article
+
+4 of that Protocol, the United Kingdom is not taking part in the adoption
+
+of this Regulation and is not bound by or subject to its application.
+
+(24)
+
+To the extent that
+
+it applies to third-country nationals who do not fulfil or who no longer fulfil the conditions of entry in accordance with Regulation (EU) 2016/399, this Regulation constitutes a development of the provisions of the Schengen
+
+acquis
+
+in which Ireland does n
+
+ot take part, in accordance with Council Decision 2002/192/EC
+
+; Ireland is therefore not taking part in the adoption of this Regulation and is not bound by it or subject to its application.
+
+Moreover, in
+
+accordance with Articles 1 and 2 of Protocol No 21 on
+
+the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the
+
+Treaty on European Union
+
+a
+
+nd to the
+
+Treaty on the Functioning of the European Union
+
+, and without prejudice to
+
+Article
+
+4
+
+of that Protocol
+
+, Ireland is not taking part in the adoption of this Regulation and is not bound by or subject to its application.
+
+(25)
+
+As regards Iceland and Norway, this Regulation constitutes, to the extent that it applies to third-country nationals who do not fulfil or who no longer fulfil the conditions of entry in accordance with Regulation (EU) 2016/399, a development of the provisi
+
+ons of the Schengen
+
+acquis
+
+within the meaning of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the latters' association with the implementation, application and development of
+
+the Schengen
+
+acquis
+
+, which fall within the area referred to in Article 1, point C of Council Decision 1999/437/EC
+
+.
+
+(26)
+
+As regards Switzerland, this Regulation constitutes, to the extent that it applies to third-country nationals who do not fulfil or who
+
+no longer fulfil the conditions of entry in accordance with Regulation (EU) 2016/399, a development of the provisions of the Schengen
+
+acquis
+
+within the meaning of the Agreement between the European Union, the European Community and the Swiss Confederation
+
+on the Swiss Confederation's association with the implementation, application and development of the Schengen
+
+acquis
+
+, which fall within the area referred to in Article 1, point C of Decision 1999/437/EC read in conjunction with Article 3 of Council Decis
+
+ion 2008/146/EC
+
+.
+
+(27)
+
+As regards Liechtenstein, this Regulation constitutes, to the extent that it applies to third-country nationals who do not fulfil or who no longer fulfil the conditions of entry in accordance with Regulation (EU) 2016/399, a developm
+
+ent of the provisions of the Schengen
+
+acquis
+
+within the meaning of the Protocol between the European Union, the European Community, the Swiss Confederation and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the A
+
+greement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation's association with the implementation, application and development of the Schengen
+
+acquis
+
+, which fall within the area referred to in Article
+
+1, point C of Decision 1999/437/EC read in conjunction with Article 3 of Council Decision 2011/350/EU
+
+.
+
+(28)  The European Data Protection Supervisor was consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 and delivered an opinion on 3 May 2017,
+
+(28a)  No amendment or new provision in this Regulation should create unnecessary obstacles for Member States who will join or are in process of joining the Schengen area.
+
+(da)  ‘removal’ means removal as defined in point 5 of Article 3 of Directive 2008/115/EC;
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Subject matter and scope
+
+This Regulation lays down the conditions and procedures for the entry and processing in the Schengen Information System (SIS), as established by Regulation (EU) 2018/xxx [border checks], of alerts in respect of third-country nationals subject to return decisions issued by the Member States in accordance with procedures respecting Directive 2008/115/EC, as well as for exchanging supplementary information on such alerts.
+
+Article 2
+
+Definit
+
+ions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a)
+
+‘return’ means return as defined in Article 3(3) of Directive 2008/115/EC;
+
+(b)
+
+‘third-country national’ means third-country nationals as defined in Article 3(1) of Directive 2008/115/EC;
+
+(c)
+
+‘return decision’ means a return decision as defined in Article 3(4) of Directive 2008/115/EC;
+
+(d)
+
+‘return decision issued in accordance with provisions respecting Directive 2008/115/EC’ means a return decision within the meaning of point (c) and an administrative or judicial decision or act, stating or declaring the stay of a third-country national to be illegal and imposing or stating an obligation to return, issued under the conditions of Article 2(2) of Directive 2008/115/EC;
+
+(e)
+
+‘voluntary departure’ means voluntary departure as defined in Article 4(8) of Directive 2008/115/EC;
+
+(f)
+
+‘CS-SIS’ means the technical support function of the Central SIS as referred to in Article 4(1)(a) of Regulation (EU) 2018/xxx [border checks].
+
+Article 3
+
+Entry of data in SIS
+
+1.  Data on third-country nationals subject to a return decision issued in accordance with provisions respecting Directive 2008/115/EC shall be entered immediately in SIS for the purpose of verifying that the obligation to return has been complied with and for supporting the enforcement of the decision. An alert shall be entered in SIS without delay when the return decision is issued in accordance with provisions respecting Directive 2008/115/EC, and in accordance with the provisions on the compatibility of alerts laid down in Article 23a of Regulation (EU) 2018/xxx [border checks].
+
+ 
+
+Member States may elect not to enter data on third-country nationals subject to a return decision issued in the circumstances referred to in Article 2(2)(a) of Directive 2008/115/EC when it concerns third-country nationals who are placed in detention until removal.
+
+2.  The period for voluntary departure granted to third-country nationals subject to a return decision issued in accordance with provisions respecting Directive 2008/115/EC shall be immediately recorded in the alert. Where this period is extended, the alert shall be immediately updated accordingly.
+
+3.  The issuing Member State shall make an alert in SIS on a return decision unavailable in the following circumstances:
+
+ 
+
+(a)   where enforcement of the return decision has been postponed or suspended; or
+
+ 
+
+(b)  where an appeal has been lodged against a return decision which may lead to the suspension of its enforcement.
+
+ 
+
+In such circumstances, the alert shall be unavailable to end users. It shall be accessible only to the SIRENE Bureaux until the return decision is upheld or the decision is overturned. If the return decision is overturned the alert shall be deleted immediately.
+
+Article 4
+
+Data categories
+
+Data entered in SIS in accordance with Article 3 of this Regulation shall contain only the following:
+
+(a)
+
+surname(s);
+
+(b)
+
+forename(s);
+
+(c)
+
+name(s) at birth;
+
+(d)
+
+previously used names and aliases;
+
+(f)
+
+place of birth;
+
+(g)
+
+date of birth;
+
+(h)
+
+gender;
+
+(i)
+
+nationality / nationalities;
+
+(j)  whether the person concerned is armed, violent, has escaped or is involved in an activity as referred to in Articles 3 to 12 and 14 of Directive (EU) 2017/541;
+
+(k)
+
+reason for the alert;
+
+(l)
+
+authority issuing the alert;
+
+(m)
+
+a reference to the decision giving rise to the alert;
+
+(n)
+
+action to be taken;
+
+(o)
+
+link(s) to other alerts issued in SIS;
+
+(p)
+
+the category of the person’s identification document;
+
+(q)
+
+the country of issue of the person’s identification document;
+
+(r)
+
+the number(s) of the person’s identification document;
+
+(s)
+
+the date of issue of the person’s identification document;
+
+(t)
+
+photographs and facial images;
+
+(u)  fingerprint data;
+
+(v)
+
+a colour copy of the identity document;
+
+(w)
+
+period for voluntary departure;
+
+(x)
+
+whether the return decision issued in accordance with provisions respecting Directive 2008/115/EC has been suspended or the enforcement of the decision has been postponed.
+
+An alert may not be entered without the data referred to in points (a), (g), (k), (m), (n), (w) and at least either (t) or (u). For the purposes of identification with a high degree of accuracy, fingerprint data shall always be preferred over photographs and facial images. When available, all other data listed above shall also be entered.
+
+(xa)  data referred to in points (a) to (d), (f) to (i), (p) to (s) and (v) of any other identification document(s) carried by the person.
+
+(xb)  whether the return decision issued in accordance with provisions respecting Directive 2008/115/EC can be appealed;
+
+(xc)  whether an appeal is pending against the return decision issued in accordance with provisions respecting Directive 2008/115/EC.
+
+Article 5
+
+Authority responsible for the exchange of supplementary information
+
+Each Member State shall designate a national authority that is fully operational 24 hours a day, 7 days a week, to ensure the exchange and availability of all supplementary information on third-country nationals who are the subject of a return decision in accordance with the provisions of the SIRENE Manual laid down in Article 8 of Regulation (EU) 2018/xxx [border checks]. Member States may designate their SIRENE Bureau as their national authority.
+
+Article 6
+
+Confirmation of return
+
+1.
+
+Where a third-country national who is the subject of an alert on return is identified
+
+when exiting through the external borders of a Member State, the Member State that identified the third-country national concerned shall communicate the following information to the issuing Member State through the exchange of supplementary information:
+
+(a)
+
+the fact that the third-country national has been identified;
+
+(b)
+
+the location and time of the check;
+
+(c)
+
+whether the third-country national has left the territory of the Member States;
+
+(d)
+
+whether the return was a voluntary compliance with an obligation to return or was enforced;
+
+(e)
+
+the third-country of destination.
+
+Where a third-country national, who is the subject of an alert on return, exits through the external border of the issuing Member State, the confirmation of return shall be communicated to the competent authority in accordance with national law.
+
+2.
+
+The issuing Member State shall immediately delete the alert following the receipt of the confirmation of return.
+
+3.  The Member States shall provide on a monthly basis statistics to the European Agency for the operational management of large-scale information systems in the area of freedom, security and justice established by Regulation (EU) No 1077/2011 of the European Parliament and of the Council36 (‘the Agency’) on the number of confirmed returns, on whether the return was carried out in voluntary compliance with an obligation to return or was enforced, and on the third countries of destination. Those statistics shall not contain personal data. The Agency shall compile the monthly statistics into an annual report which shall be published in accordance with Article 11.
+
+Article 7
+
+Non-compliance with return decisions issued in accordanc
+
+e with provisions respecting Directive 2008/115/EC
+
+1.  CS-SIS shall automatically notify the Member States about their alerts on return for which the period for voluntary departure has expired and for which the period for voluntary departure has not been extended or a residence permit or other authorisation offering a right to stay been issued to the third-country national concerned.
+
+
+2.  Without prejudice to Article 6, where a third-country national who is subject of an alert on return is identified by a competent authority and it has been ascertained by the same authority that the obligation to return has not been complied with, that authority shall immediately consult the issuing Member State through the exchange of supplementary information in order to determine the action to be taken. The issuing Member State shall be obliged to communicate the preferred course of action without delay.
+
+Article 8
+
+Consultation procedure
+
+1.  Before a Member State formally decides to grant a residence permit or other authorisation offering a right to stay to a third-country national who is the subject of an alert on return entered by another Member State, the former shall first consult, through the exchange of supplementary information, the Member State that entered the alert. The Member State that entered the alert shall provide a reply within seven days. The final decision on whether to grant a residence permit or other authorisation offering a right to stay to a third-country national rests with the consulting Member State. If a residence permit or other authorisation offering a right to stay is granted the alert on return shall be deleted immediately.
+
+2.  Before a Member State decides to enter an alert for return concerning a third-country national who is the holder of a valid residence permit or other authorisation offering a right to stay issued by another Member State, it shall inform through the exchange of supplementary information the Member State that issued the permit in order to allow that Member State to decide whether there are reasons justifying its withdrawal. The Member State that issued the permit shall provide a definite reply within seven days. If the Member State that issued the permit decides to maintain it, the alert on return shall not be entered.
+
+3.
+
+In the event of a hit on an alert on return concerning a third-country national who i
+
+s the holder of a valid residence permit or other authorisation offering a right to stay, the Member State that identified the third-country national concerned shall consult immediately the involved Member States, through the exchange of supplementary info
+
+rmation, in order to determine the action to be taken.
+
+4.  Where a third-country national who is the subject of an alert on return is identified when entering through the external borders, the Member State that identified the third-country national concerned shall inform the issuing Member State as soon as possible and in any event within 12 hours through the exchange of supplementary information in order to delete the alert.
+
+5.
+
+Member States shall provide on an annual basis statistics to the Agency about the consultations carried out in accord
+
+ance with paragraphs 1, 2, 3 and 4.
+
+Article 9
+
+Deletion of alerts
+
+1.  Without prejudice to Articles 6 and 8, alerts on return shall be deleted as soon as the decision upon which the alert was based has been withdrawn or annulled by the competent authority. Alerts on return shall also be deleted when the third-country national has, or can later demonstrate that she or he has left the territory of the Member States in compliance with a return decision issued in accordance with provisions respecting Directive 2008/115/EC
+
+1a.  Alerts on return shall be deleted automatically as soon as they expire, in accordance with Article 34 of Regulation 2018/xxx [border checks] relating to the review period.
+
+1b.  Alerts on return shall be deleted where necessary in accordance with the provisions on the compatibility of alerts laid down in Article 23a of Regulation 2018/xxx [border checks].
+
+2.  Alerts on return entered in respect of a person who has acquired a residence permit, authorisation offering a right to stay or citizenship of a Member State or of any State whose nationals are beneficiaries of the right of free movement within the Union shall be deleted as soon as the issuing Member State becomes aware, or is informed pursuant to Article 39 of Regulation (EU) 2018/xxx [border checks], that the person in question has acquired such residence permit, other authorisation offering a right to stay or citizenship.
+
+Article 10
+
+Transfer of personal data to third countries for the purpose of return
+
+Data processed in SIS and the related supplementary information exchanged pursuant to this Regulation may be transferred or made available to a third country in accordance with Chapter V of Regulation (EU) 2016/679 with the authorisation of the issuing Member State only when the following conditions are satisfied:
+
+ 
+
+(a)   the data is transferred or made available solely for the purpose of identification of and issuance of an identification or travel document to an illegally staying third-country national in view of return;
+
+ 
+
+(aa)  the third country explicitly agrees to use the data solely for the purpose for which they were provided, to respect that which is lawful and necessary for the purposes set out in point (a), and to delete that data where it is no longer justified to keep it; and
+
+ 
+
+(b)   the third-country national concerned has been informed that his or her personal data and supplementary information will be shared with the authorities of a third country.
+
+ 
+
+No information regarding the fact that an application for international protection has been made in a Member State shall be disclosed to an alleged actor of persecution or serious harm in compliance with Article 30 of Directive 2013/32/EU or where that country is also the applicant's country of origin.
+
+ 
+
+Data processed in SIS and the related supplementary information exchanged pursuant to this Regulation shall not be made available to a third country where the return decision has been made unavailable in accordance with Article 3(3).
+
+Amendment
+
+ 
+
+Article 10 a
+
+ 
+
+Non-refoulement, best interests of the child, family life and state of health
+
+ 
+
+Member States shall implement this Regulation in full respect of fundamental rights and the principle of non-refoulement and shall always take into consideration the best interests of the child, family life, and the state of health or condition of vulnerability of individuals concerned.
+
+Article 11
+
+Statistics
+
+Without prejudice to the provisions on statistics in Article 54 of Regulation (EU) 2018/xxx [Border checks], the Agency shall produce daily, monthly and annual statistics, both in total number and per each Member State on the number of alerts on return entered in SIS, including on the data referred to in Article 4(x), (xb) and (xc) of this Regulation, on the notifications referred to in Article 7(1) of this Regulation and the number of alerts on return deleted due to compliance with an obligation to return. The Agency shall produce monthly and annual statistics about the data provided by the Member States in accordance with Article 6(3) and Article 8(5) of this Regulation. Those statistics shall not contain personal data.
+
+All statistics shall be compiled by the Agency in an annual report which shall be published. The report shall be transmitted to the European Parliament, the Council and the Commission.
+
+Article 12
+
+Right to access data in SIS
+
+1.
+
+Access to data entered in SIS and the right to search such data shall be reserved to the national authoritie
+
+s referred to in points (a), (b), (c) and (d) of Article 29(1) and in Article 29 (2) of Regulation (EU) 2018/ xxx [Border checks] for the purpose of identification and return of third-country nationals.
+
+2.
+
+Europol shall have within their mandate the right
+
+to access and search data entered in SIS for the purpose of supporting and strengthening action by the competent authorities of the Member States and their mutual cooperation in preventing and combating migrant smuggling and facilitation of irregular migr
+
+ation in accordance with the conditions laid down in Article 30 of Regulation (EU) 2018/ xxx [Border checks].
+
+3.
+
+Members of the European Border and Coast Guard teams or teams of staff involved in return-related tasks as well as the members of the migration
+
+management support teams shall have within their mandate the right to access and search data entered in SIS for the purpose of carrying out border checks, border surveillance and return operations via the technical interface set up and maintained by the E
+
+uropean Border and Coast Guard Agency as referred to and in accordance with the conditions laid down in Articles 31 and Article 32(2) of Regulation (EU) 2018/ xxx [Border checks].
+
+Article 13
+
+Applicability of the provisions of Regulation (EU) 2018/xxx [Bord
+
+er checks]
+
+As far as not established in this Regulation, the provisions on responsibilities of the Member States and the Agency, the entry, processing, updating and compatibility of alerts, the conditions to access and retention of alerts, data processing, data protection, liability and monitoring and statistics laid down in Articles 3, 6 to 19, Article 20(3)-(4) as well as in Articles 21, 22, 23a, 28, 29(4) and 33 to 54 of Regulation (EU) 2018/ xxx [Border checks] shall apply to data entered and processed in SIS in accordance with this Regulation.
+
+Article 14
+
+Entry into force
+
+This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.
+
+It shall apply from the date fixed by the Commission in accordance with Article 58(2) of Regulation (EU) 2018/xxx [border checks].
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.Title of the proposal/initiative
+
+1.2.Policy area(s) concerned in the ABM/ABB structure
+
+1.3.Nature of the proposal/initiative
+
+1.4.Objective(s)
+
+1.5.Grounds for the proposal/initiative
+
+1.6.Duration and financial impact
+
+1.7.Management mode(s) planned
+
+2.
+
+MANAGEMENT MEASURES
+
+2.1.Monitoring and reporting rules
+
+2.2.Management and control system
+
+2.3.Measures to prevent fraud and irregularities
+
+3.
+
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+3.2.Estimated impact on expenditure
+
+3.2.1.Summary of estimated impact on expenditure
+
+3.2.2.Estimated impact on operational appropriations
+
+3.2.3.Estimated impact on appropriations of an administrative nature
+
+3.2.4.Compatibility with the current multiannual financial framework
+
+3.2.5.Third-party contributions
+
+3.3.Estimated impact on revenue
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.
+
+Title of the proposal/initiative
+
+Proposal for a Regulation of the European Parliament and of the Council on the use of the Schengen Information System for the return of illegally staying third-country nationals
+
+1.2.
+
+Policy area(s) concerned in the
+
+ABM/ABB structure
+
+Policy area: Migration and Home Affairs (Title 18)
+
+1.3.
+
+Nature of the proposal/initiative
+
+◻
+
+The proposal/initiative relates to
+
+a new action
+
+◻
+
+The proposal/initiative relates to
+
+a new action following a pilot project/preparatory
+
+action
+
+☑
+
+The proposal/initiative relates to
+
+the extension of an existing action
+
+◻
+
+The proposal/initiative relates to
+
+an action redirected towards a new action
+
+1.4.
+
+Objective(s)
+
+1.4.1.
+
+The Commission's multiannual strategic objective(s) targeted by the
+
+proposal/initiative
+
+Objective – Towards a new policy on migration
+
+The necessity to review the legal basis of SIS in order to include return decisions issued
+
+in accordance with Directive 2008/115/EC
+
+and address the ongoing migration and refugee crisis has
+
+been emphasised by the Commission on a number of occasions. For example, in the EU Action Plan on Return
+
+and in the Communication on Stronger and Smarter Information Systems for Borders and Security
+
+which implement the commitments of the European Agenda
+
+on Migration
+
+, the Commission identified the need to better exploit the large-scale IT systems for the purpose of building a more effective return system.
+
+One of the incentives for irregular migrants is the knowledge that the EU's return system, meant to
+
+return irregular migrants or those whose asylum applications are refused, works imperfectly.  In its Communication on EU Return Policy
+
+the Commission concluded that the potential of SIS in the field of return can be further enhanced. The present proposal
+
+for a Regulation intends to address this issue and improve the consistency between the return policy and SIS. It aims to set out the conditions and procedures for the use of SIS for the return of illegally staying third-country nationals in respect of who
+
+m a return decision has been issued by the competent national authorities
+
+in accordance with Directive 2008/115/EC
+
+.
+
+On the basis of a study, launched with the purpose to examine the feasibility and technical and operational implications of including return
+
+decisions
+
+issued in accordance with Directive 2008/115/EC
+
+in SIS, and fully in line with the Commission's objectives stated in the above-mentioned communications and the Strategic Plan 2016-2020 of DG Migration and Home Affairs
+
+, this proposal aims to ext
+
+end the use of SIS and, thereby, set up within the context of SIS an EU wide system for exchanging data on and monitoring compliance with return decisions; a change that will significantly reinforce the sharing of information about return decisions issued
+
+by Member States in accordance with the provisions of Directive 2008/115/EC.
+
+1.4.2.
+
+Specific objective(s) and ABM/ABB activity(ies) concerned
+
+Specific objective
+
+DG Migration and Home Affairs Strategic Plan 2016 – 2017 and Management Plan 2017
+
+Specific objective No 1.1: Reduce incentives for irregular migration (Effective return policies)
+
+ABM/ABB activity(ies) concerned
+
+Chapter 18 02 – Internal security
+
+1.4.3.
+
+Expected result(s) and impact
+
+Specify the effects which the proposal/initiative should have on the beneficiaries/groups targeted.
+
+Entering return decisions issued in accordance with Directive 2008/115/EC as alerts in SIS will result in tangible benefits, especially with regards to the visibility of information across Member States and streamlining follow-up actions.
+
+The proposal will support the competent national authorities in their efforts to:
+
+1. monitor whether the obligation to return has been complied with in relation to every return decision issued in accordance with Directive 2008/115/EC;
+
+2. enforce the decision in case of non-compliance;
+
+3. verify whether a third-country national who is found illegally on the territory is subject of a return decision issued by another Member State;
+
+4. enforce decisions on behalf of other Member States;
+
+5. identify illegally staying third-country nationals based on information about enforceable decisions;
+
+6. collect statistics on complied with and non-complied with return decisions.
+
+This proposal will have a positive impact upon the work of end-users. Field officers and issuing authorities will have better information at their disposal and this will enable them to take the most appropriate action in a timely manner. Essentially, the proposal for a Regulation provides the Member States' authorities with an additional tool for meeting their obligation to take all necessary measures to ensure the enforcement of return decisions issued in accordance with Directive 2008/115/EC in an effective manner.
+
+A number of technical and operational changes will have an impact upon current practices, organisation and infrastructure. The primary implications of introducing return decisions issued in accordance with Directive 2008/115/EC in SIS include new/amended operational procedures, additional data categories in alerts on return and new SIS functions (e.g. the function to notify the issuing authority when the period of voluntary departure has expired). These changes require the establishment of adequate infrastructures in Member States to enter and manage alerts on return in SIS and additional storage capacity in the Central SIS.
+
+A workload analysis has revealed that all stakeholders concerned (and, more specifically, border guards, police officers and the authorities issuing return decisions) will face additional workloads resulting from having to manage alerts on return and follow up an increased number of hits.
+
+There is also a need for a minimum level of harmonisation across Member States when dealing with persons who are already subject to a return decision issued by another Member State in accordance with Directive 2008/115/EC.
+
+Finally, as the proposal involves the processing of personal data, there is a potential impact upon individual's fundamental rights. However, this impact has been borne in mind during the drafting process and the necessary safeguards are put in place in order to respect the principles set out in the Charter of Fundamental Rights of the EU, particularly, Article 8.
+
+1.4.4.
+
+Indicators of results and impact
+
+Specify the indicators for monitoring implementation of the proposal/initiative.
+
+During the upgrading of the system
+
+After the approval of the draft proposal and the adoption of the technical specifications and implementing provisions, SIS will be upgraded in order to implement the proposed changes.. eu-LISA will coordinate the project management of upgrading the system. The Agency will establish a project management structure and provide a detailed timeline with milestones for implementing the proposed changes which will allow the Commission to closely monitor the implementation of the proposal.
+
+Specific objective – Entry into operations of the updated functionalities of SIS in 2020
+
+Indicator – successful completion of comprehensive pre-launch testing of the revised system.
+
+Once the system is operational
+
+Once the system is operational, eu-LISA will ensure that procedures are in place to monitor the functioning of SIS against objectives, relating to output, cost-effectiveness, security and quality of service. Two years after SIS is brought into operational and every two years thereafter, eu-LISA is required to submit to the European Parliament and the Council a report on the technical functioning of Central SIS and the Communication Infrastructure, including the security thereof, and the bilateral and multilateral exchange of supplementary information between Member States. Furthermore, eu-LISA produces daily, monthly and annual statistics showing the number of records per category of alert, the annual number of hits achieved per category of alert, how many times SIS was searched and how many times the system was accessed for the purpose of entering, updating or deleting an alert in total and for each Member State.
+
+Three years after SIS is brought into operation and every four years thereafter, the Commission produces an overall evaluation of Central SIS and the bilateral and multilateral exchange of supplementary information between Member States. This overall evaluation includes an examination of results achieved against objectives, and an assessment of the continuing validity of the underlying rationale, the application of this Regulation in respect of Central SIS, the security of Central SIS and any implications for future operations. The Commission sends the evaluation to the European Parliament and the Council.
+
+Specific objective –
+
+effective use of SIS for the purposes of returning illegally staying third-country nationals.
+
+Indicator –
+
+the statistical reports on the number of alerts, issued by eu-LISA and the number of hits, provided by the Member States will enable COM to assess the results and the impact of the initiative and how are the Member States implementing it.
+
+1.5.
+
+Grounds for the proposal/initiative
+
+1.5.1.
+
+Requirement(s) to be met in the short or long term
+
+1.Tackle irregular migration, improve the functioning of the return system and enhance the cooperation between Member States' competent authorities;
+
+2. Secure public trust in the EU migration and asylum policy and provide adequate support to persons in need of protection;
+
+3. Enable mutual recognition and enforcement EU wide of return decisions issued in accordance with Directive 2008/115/EC amongst migration authorities in compliance with the EU acquis;
+
+4. Verify compliance with return decisions and better inform the actions of the competent authorities;
+
+5. Provide more reliable data and statistics on the number of return decisions issued and on the rate of compliance;
+
+6. All return decisions issued by the Member State authorities in accordance with Directive 2008/115/EC shall be entered in SIS;
+
+7. Contribute to the identification and the information sharing between Member States on third-country nationals who are the subject of a return decision issued in accordance with Directive 2008/115/EC.
+
+1.5.2.
+
+Added value of EU in
+
+volvement
+
+The aim of the proposal, namely, establishing a system for sharing information about issued return decisions issued in accordance with Directive 2008/115/EC and for monitoring whether third-country nationals subject to such decisions issued in accordance with Directive 2008/115/EC have left the territory of the Member States, cannot be sufficiently achieved by the Member States acting alone. Information on return decisions held in national immigration systems is not systematically shared with other Member States. Consequently, other Member States are not aware of return decisions issued in respect of third-country nationals moving illegally around the EU and transiting other Member States. It is important to emphasise the added value of an EU -wide system which will have the capacity to effectively address the current return-policy information gaps, something which cannot be achieved by using separate national systems. Using national systems will perpetuate issues concerning the lack of harmonisation of return-decision management across Member States. Furthermore, entering the return decisions in SIS will also provide other Member States with the possibility to establish whether a person being checked has one (or several) return decisions related to them. Hence, the added value of EU involvement will lie in increasing the visibility of other Member States' return decisions.
+
+Creating alerts on return decisions and entry bans in SIS will also enhance the quality of information and enable field officers to retrieve sufficient, timely, pertinent, accurate and usefully-formatted information. The end-users will have better information at their disposal and, therefore, EU involvement will significantly reinforce the operational aspects of their work.
+
+1.5.3.
+
+Lessons learned from similar experiences in the past
+
+1.The development phase should commence only after the technical and operational requirements are fully defined. SIS will not be updated unless the underlying legal instruments, setting out its purpose, scope, functions and technical details have been definitevely adopted;
+
+2. The Commission conducted (and continues to conduct) continuous consultations with the relevant stakeholders, including delegates to the SISVIS Committee under the Comitology procedure and the Return Directive Contact Group. Discussions were held in several meetings of the SISVIS Committee (10 May 2016 and 30 June 2016) and the Return Directive Contact Group (16 November 2015, 18 March and 20 June 2016). On 5 February 2016 a joint workshop with delegates to the SISVIS Committee and the Return Directive Contact Group took place.
+
+3. The Commission also sought external expertise; the findings have been incorporated in the developments of this proposal:
+
+- In October 2015 the Commission la
+
+unched an external study
+
+with the purpose of assessing the feasibility and technical and operational implications of setting up within the context of SIS an EU wide system for exchanging data on and monitoring compliance with return decisions. The study w
+
+as concluded in April 2016.
+
+1.5.4.
+
+Compatibility and possible synergy with other appropriate instruments
+
+This proposal is compatible with and builds upon the provisions of Directive 2008/115/EC which sets common standards and procedures for returning illegally staying third-country nationals. It seeks to create visibility and a greater level of compliance in relation to return decisions issued by the competent authorities in accordance with procedures set out in Directive 2008/115/EC. By making it mandatory to enter return decisions in SIS, this proposal will support the enforcement of these decisions.
+
+This proposal is also consistent with other EU policies and Commission legislative proposals, namely:
+
+1. An effective EU return policy, so as to contribute to and enhance the EU system to return third-country nationals who have no right to stay in the territory of the Member States. This would contribute to reducing incentives to irregular migration, which is one of the main objectives of the European Agenda on Migration
+
+2. EURODAC and the Dublin system –the introduction of return decisions in SIS will support Member States in following up whether rejected-application asylum seekers have left the territory of the Member States and returned to a third-country in compliance with a return decision. It will also complement the Commission proposal to extend the use of EURODAC to identify illegally staying third-country nationals who do not claim asylum and who may move around the EU undetected;
+
+3. Entry/Exit system – the new Regulation will complement the Commission proposal on the Entry/Exit system and its use to identify and detect overstayers (also within the territory);
+
+4. Schengen Borders Code - as it will complement the amendment of the Schengen Borders Code
+
+rel
+
+ated to the obligation to systematically check third-country nationals against the relevant databases on exit.
+
+5. Commission proposal on the establishment, operation and use of the Schengen Information System (SIS) in the field of border checks and repealing Regulation (EC) No 1987/2006 as it will complement the provisions related to entering entry bans in SIS following the return of the third-country national concerned.
+
+1.6.
+
+Duration and financial impact
+
+◻
+
+Proposal/initiative of
+
+limited duration
+
+–
+
+◻
+
+Propo
+
+sal/initiative in effect from [DD/MM]YYYY to [DD/MM]YYYY
+
+–
+
+◻
+
+Financial impact from YYYY to YYYY
+
+☑ Proposal/initiative of
+
+unlimited duration
+
+–
+
+Implementation with a start-up period from 2018 to 2020
+
+–
+
+followed by full-scale operation.
+
+1.7.
+
+Management mode(s) pl
+
+anned
+
+☑
+
+Direct management
+
+by the Commission
+
+–
+
+☑ by its departments, including by its staff in the Union delegations;
+
+–
+
+◻
+
+by the executive agencies
+
+□
+
+Shared management
+
+with the Member States
+
+☑
+
+Indirect management
+
+by entrusting budget implementation tasks to:
+
+–
+
+◻ third countries or the bodies they have designated;
+
+–
+
+◻ international organisations and their agencies (to be specified);
+
+–
+
+◻the EIB and the European Investment Fund;
+
+–
+
+☑ bodies referred to in Articles 208 and 209 of the Financial Regulation;
+
+–
+
+◻ public law bodies;
+
+–
+
+◻ bodies governed by private law with a public service mission to the extent that they provide adequate financial guarantees;
+
+–
+
+◻ bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that provide adequate financial guarantees;
+
+–
+
+◻ persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act.
+
+–
+
+If more than one management mode is indicated, please provide details in the ‘Comments’ section.
+
+Comments
+
+The Commission will be responsible for the overall management of the policy and eu-LISA will be responsible for the development, operation and maintenance of the system.
+
+The expenses concerning the communication infrastructure (DG HOME appropriation) mentioned in the Legislative Financial Statements attached to the Commission propos
+
+al for a Regulation
+
+on the establishment, operation and use of the Schengen Information System (SIS) in the field of border checks
+
+and
+
+the
+
+Commission proposal for a Regulation
+
+on the establishment, operation and use of the Schengen Information System (SIS
+
+) in the field of police cooperation and judicial cooperation in criminal matters
+
+apply to the current proposal as well. The expenses referred to under the present proposal are complementary to the above-mentioned proposals as SIS constitutes one single i
+
+nformation system.
+
+2.
+
+MANAGEMENT MEASURES
+
+2.1.
+
+Monitoring and reporting rules
+
+Specify frequency and conditions.
+
+The review and monitoring provisions included in Article 54 (7) and (8) of the Proposal for a Regulation of the European Parliament and of the Council on the establishment, operation and use of the Schengen Information System (SIS) in the field of border checks are applicable.
+
+The Commission, Member States and the Agency will regularly review and monitor the use of SIS, to ensure that it continues to function effectively and efficiently. The Commission will be assisted by the Committee to implement technical and operational measures as described in this proposal.
+
+Every two years, eu-LISA is required to report to the European Parliament and the Council on the technical functioning – including security – of SIS, the communication infrastructure supporting it, and the bilateral and multilateral exchange of supplementary information between Member States.
+
+Furthermore, every four years, the Commission is required to carry out, and share with the Parliament and the Council, an overall evaluation of SIS and the exchange of information between Member States. This will:
+
+a) examine results achieved against objectives;
+
+b) assess whether the underlying rationale for the system remains valid;
+
+c) examine how the Regulation is being applied to the central system;
+
+d) evaluate the security of the central system;
+
+e) explore the implications for the future functioning of the system.
+
+2.2.
+
+Furthermore, eu-LISA is also now required to provide daily, monthly and annual statistics on the use of SIS, ensuring continuous monitoring of the system and its functioning against objectives.Management and control system
+
+2.2.1.
+
+Risk(s) identified
+
+The following risks are identified:
+
+1. Potential difficulties for eu-LISA in managing the developments presented in the current proposal in parallel with other ongoing developments (e.g. the implementation of AFIS in SIS) and future developments (e.g. the Entry-Exit system, ETIAS and the upgrade of Eurodac). This risk could be mitigated by ensuring eu-LISA has sufficient staff and resources to carry out these tasks and the ongoing management of the Maintenance in Working Order (MWO) contractor.
+
+2. Difficulties for the Member States:
+
+2.1 Difficulties of a financial nature as the implementation requires also investments at the side of the Member States This risk could be mitigated through the provision of EU funding for Member States, e.g. from the Borders component of the Internal Security Fund (ISF - Borders ).
+
+2.2 The national systems have to be aligned with central requirements and discussions with Member States on this may introduce delays in the development. This risk could be mitigated through early engagement with Member States on this issue to ensure action can be taken at the appropriate time.
+
+2.3 Risks related to procedures at the national level.
+
+2.3.1 Return decisions are not created, updated or deleted in a timely fashion:
+
+- the mechanism to verify that a person who is the subject of a return decision effectively returns within the period for voluntary departure will only function when return decisions are immediately entered as alerts in SIS as soon as they are issued;
+
+- it may occur that due to the temporary unavailability of SIS at the external borders or a human mistake, the departure of the person is not registered, i.e. the alert on return will remain in SIS and the alert relating to an entry ban will not be entered following the departure of the person . This risk can be mitigated by granting access to return decision alerts to border guards at entry so that they see the alert during the entry process and contact the competent authorities to determine further actions in case of a hit.
+
+2.2.2.
+
+Infor
+
+mation concerning the internal control system set up
+
+The responsibilities for the central components of SIS are exercised by eu-LISA. In order to enable better monitoring of the use of SIS to analyse trends concerning migratory pressure, border management and criminal offences, the Agency should be able to develop a state-of-the-art capability for statistical reporting to the Member States and the Commission.
+
+eu-LISA's accounts will be submitted for the approval of the Court of Auditors and subjected to the discharge procedure. The Commission's Internal Audit Service will carry out audits in cooperation with the Agency's internal auditor.
+
+2.2.3.
+
+Estimate of the costs and benefits of the controls and assessment of the expected level of risk of error
+
+N/A
+
+2.3.
+
+Measures to prevent fraud and irregularities
+
+Specify existing or envisaged prevention and protection measures.
+
+The measures foreseen to combat fraud are laid down in Article 35 of Regulation (EU) 1077/2011 which provides as follows:
+
+1. In order to combat fraud, corruption and other unlawful activities, Regulation (EC) No 1073/1999 shall apply.
+
+2. The Agency shall accede to the Interinstutional Agreement concerning internal investigations by the European Anti-Fraud Office (OLAF) and shall issue, without delay, the appropriate provisions applicable to all the employees of the Agency.
+
+3.The decisions concerning funding and the implementing agreements and instruments resulting from them shall explicitly stipulate that the Court of Auditors and OLAF may carry out, if necessary, on the spot checks among the recipients of the Agency's funding and the agents responsible for allocating it.
+
+In accordance with this provision, the decision of the Management Board of the European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice concerning the terms and conditions for internal investigations in relation to the prevention of fraud, corruption and any illegal activity detrimental to the Union's interests was adopted on 28 June 2012.
+
+DG HOME's fraud prevention and detection strategy will apply.
+
+3.
+
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.
+
+Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+
+
+Existing budget lines
+
+In order
+
+of multiannual financial framework headings and budget lines.
+
+Heading of multiannual financial framework
+
+Budget line
+
+Type of
+
+expenditure
+
+Contribution
+
+Heading 3 – Security and Citizenship
+
+Diff./Non-diff.
+
+from EFTA countries
+
+from candidate countries
+
+from third countries
+
+within the meaning of Article 21(2)(b) of the Financial Regulation
+
+18.0207 European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)
+
+Diff
+
+NO
+
+NO
+
+YES
+
+NO
+
+3.2.
+
+Estimated impact on expenditure
+
+3.2.1.
+
+Summary of estimated impact on expenditure
+
+EUR million (to three decimal places)
+
+Heading of multiannual financial
+
+framework
+
+3
+
+Security and Citizenship
+
+eu-LISA
+
+Year
+
+2018
+
+Year
+
+2019
+
+Year
+
+2020
+
+TOTAL
+
+• Operational appropriations
+
+Title 1: Staff Expenditure
+
+Commitments
+
+(1)
+
+0,070
+
+0,070
+
+0,070
+
+0,210
+
+Payments
+
+(2)
+
+0,070
+
+0,070
+
+0,070
+
+0,210
+
+Title 2: Infrastructure and operating expenditure
+
+Commitments
+
+(1a)
+
+0
+
+0
+
+0
+
+0
+
+Payments
+
+(2a)
+
+0
+
+0
+
+0
+
+0
+
+Title 3: Operational expenditure
+
+Commitments
+
+(1a)
+
+2,520
+
+0,447
+
+0,447
+
+3,414
+
+Payments
+
+(2a)
+
+1,008
+
+1,959
+
+0,447
+
+3,414
+
+TOTAL
+
+appropriations
+
+for eu-LISA
+
+Commitments
+
+=1+1a +3
+
+2,590
+
+0,517
+
+0,517
+
+3,624
+
+Payments
+
+=2+2a
+
++3
+
+1,078
+
+2,029
+
+0,517
+
+3,624
+
+•
+
+TOTAL operational appropriations
+
+Commitments
+
+(4)
+
+Payments
+
+(5)
+
+• TOTAL appropriations of an administrative nature financed from the envelope for specific programmes
+
+(6)
+
+TOTAL appropriations
+
+under HEADING <….>
+
+of the multiannual financial framework
+
+Commitments
+
+=4+ 6
+
+Payments
+
+=5+ 6
+
+If more than one heading is affected by the proposal / initiative:
+
+• TOTAL operational appropriations
+
+Commitments
+
+(4)
+
+Payments
+
+(5)
+
+• TOTAL appropriations of an administrative nature financed from the envelope for specific programmes
+
+(6)
+
+TOTAL appropriations
+
+under HEADINGS 1 to 4
+
+of the multiannual financial framework
+
+(Reference amount)
+
+Commitments
+
+=4+ 6
+
+2,590
+
+0,517
+
+0,517
+
+3,624
+
+Payments
+
+=5+ 6
+
+1,078
+
+2,029
+
+0,517
+
+3,624
+
+Heading of multiannual financial
+
+framework
+
+5
+
+‘Administrative expenditure’
+
+EUR million (to three decimal places)
+
+Year
+
+N
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+TOTAL
+
+DG: <…….>
+
+• Human resources
+
+• Other administrative expenditure
+
+TOTAL DG
+
+<…….>
+
+Appropriations
+
+TOTAL appropriations
+
+under HEADING 5
+
+of the multiannual financial framework
+
+(Total commitments = Total payments)
+
+EUR million (to three decimal places)
+
+Year
+
+N
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+TOTAL
+
+TOTAL appropriations
+
+under HEADINGS 1 to 5
+
+of the multiannual financial framework
+
+Commitments
+
+Payments
+
+3.2.2.
+
+Estimated impact on eu-LISA's operational appropriations
+
+–
+
+◻
+
+The proposal/initiative does not require the use of operational appropriations
+
+–
+
+☑
+
+The proposal/initiative req
+
+uires the use of operational appropriations, as explained below:
+
+Commitment appropriations in EUR million (to three decimal places)
+
+Indicate objectives and outputs
+
+⇩
+
+Year
+
+2018
+
+Year
+
+2019
+
+Year
+
+2020
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+TOTAL
+
+OUTPUTS
+
+Type
+
+Average cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+No
+
+Cost
+
+Total No
+
+Total cost
+
+SPECIFIC OBJECTIVE No 1
+
+Development Central System
+
+Contractor
+
+1
+
+0,770
+
+0,770
+
+Software
+
+1
+
+1,500
+
+1,500
+
+Hardware
+
+1
+
+0,250
+
+0,250
+
+Subtotal for specific objective No 1
+
+2,520
+
+2,520
+
+SPECIFIC OBJECTIVE No 2
+
+Maintenance Central System
+
+Contractor
+
+1
+
+0
+
+1
+
+0,078
+
+1
+
+0,078
+
+0,156
+
+Software
+
+1
+
+0
+
+1
+
+0,225
+
+1
+
+0,225
+
+0,450
+
+Hardware
+
+1
+
+0
+
+1
+
+0,075
+
+1
+
+0,075
+
+0,150
+
+Subtotal for specific objective No 2
+
+0
+
+0,378
+
+0,378
+
+0,756
+
+SPECIFIC OBJECTIVE No 3
+
+Meetings/Training
+
+Training activities
+
+1
+
+0,069
+
+1
+
+0,069
+
+0,138
+
+Subtotal for specific objective No 3
+
+0,069
+
+0,069
+
+0,138
+
+TOTAL COST
+
+2,520
+
+0,447
+
+0,447
+
+3,414
+
+3.2.3.
+
+Estimated impact on eu-LISA's human resources
+
+3.2.3.1.
+
+Summary
+
+–
+
+◻
+
+The proposal/initiative does not require the use of appropriations of an administrative nature
+
+–
+
+☑
+
+The proposal/initiative requires the use of appropriations of an administrative nature, as explained below:
+
+EUR million (to three decimal places)
+
+Year
+
+2018
+
+Year
+
+2019
+
+Year
+
+2020
+
+TOTAL
+
+Officials (AD Grades)
+
+Officials (AST Grades)
+
+Contract staff
+
+0,070
+
+0,070
+
+0,070
+
+0,210
+
+Temporary staff
+
+Seconded National Experts
+
+TOTAL
+
+0,070
+
+0,070
+
+0,070
+
+0,210
+
+Recruitment is planned for January 2018. Staff must be available as of early 2018 in order to allow starting the development in due time with a view of ensuring entry into operations in 2020. A Contractual Agent (CA) is needed to cover needs both for the project implementation as well as for operational support and maintenance after deployment to production. This resource will be used to:
+
+
+
+Support the project implementation as project team members, including activities as: the definition of requirements and technical specifications, cooperation and support to MS during the implementation, updates of the Interface Control Document (ICD), the follow-up of the contractual deliveries, documentation delivery and updates, etc.
+
+
+
+Support transition activities for putting the system into operations in cooperation with the contractor (releases follow-up, operational process updates, trainings (including MS training activities) etc.
+
+
+
+Support the longer term activities, definition of specifications, contractual preparations in case there is reengineering of the system or in case the new SISII Maintenance in Working Order (MWO) contract will need to be amended to cover additional changes (from technical and budgetary perspective).
+
+
+
+Enforce the second level support following Entry into Operation (EiO), during continuous maintenance and operations.
+
+It has to be noted that the new resource (FTE CA) will act on top of the internal teams resources which will be as well dedicated to the other projects and activities and to project/contractual and financial follow-up/ operational activities. The use of a CA position will provide adequate duration and continuity of the contracts to ensure business continuity and use of the same specialized people for operational support activities after the project conclusion. On top of that, the operational support activities require accesses to the Production environment that cannot be assigned to contractors or external staff.
+
+.
+
+3.2.3.2.
+
+Estimated requirements of human resources
+
+–
+
+◻
+
+The proposal/initiative does not require the use of human resources.
+
+–
+
+◻
+
+The proposal/initiative requires the use of human resources, as explained below:
+
+Estimate to be expressed in full time equivalent units
+
+Year
+
+N
+
+Year
+
+N+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+• Establishment plan posts (officials and temporary staff)
+
+XX 01 01 01 (Headquarters and Commission’s Representation Offices)
+
+XX 01 01 02 (Delegations)
+
+XX 01 05 01 (Indirect research)
+
+10 01 05 01 (Direct research)
+
+•
+
+External staff (in Full Time Equivalent unit: FTE)
+
+XX 01 02 01 (AC, END, INT from the ‘global envelope’)
+
+XX 01 02 02 (AC, AL, END, INT and JED in the delegations)
+
+XX
+
+01 04
+
+yy
+
+- at Headquarters
+
+- in Delegations
+
+XX
+
+01 05 02 (AC, END, INT - Indirect research)
+
+10 01 05 02 (AC, END, INT - Direct research)
+
+Other budget lines (specify)
+
+TOTAL
+
+XX
+
+is the policy area or budget title concerned.
+
+The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints.
+
+Description of tasks to be carried out:
+
+Officials and temporary staff
+
+External staff
+
+3.2.4.
+
+Compatibility with the current multiannual financial framework
+
+–
+
+◻
+
+The proposal/initiative is compatible the current multiannual financial framework.
+
+–
+
+☑
+
+The proposal/initiative will entail reprogramming of the relevant heading in the multiannual financi
+
+al framework.
+
+A re-programming of the remainder of the Smart Borders envelope of the Internal Security Fund is planned in order to implement the changes foreseen in this proposal. The ISF Borders Regulation is the financial instrument where the budget for the implementation of the Smart Borders package has been included. It provides in Article 5 that EUR 791 million shall be implemented through a programme for setting up IT systems supporting the management of migration flows across the external border under the conditions laid down in Article 15. Out of the above-mentioned EUR 791 million, EUR 480 million is reserved for the development of the Entry-Exit System and EUR 210 million for the development of the European Travel Information and Authorisation System (ETIAS). The remainder, EUR 100.828 million will be partly used to cover the costs for the changes, envisaged in the current proposal.
+
+–
+
+◻
+
+The proposal/initiative requires application of the flexibility instrument or revision of the multiannual financial framework.
+
+Explain what is required, specifying the headings and budget lines concerned and the corresponding amounts.
+
+3.2.5.
+
+Third-party contributions
+
+–
+
+☑The proposal/initiative does not provide for co-financing by third parties.
+
+–
+
+The proposal/initiative provides for the co-financing estimated below:
+
+Appropriations in EUR million (to three decimal places)
+
+Year
+
+N
+
+Year
+
+N+
+
+1
+
+Year
+
+N+2
+
+Year
+
+N+3
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+Total
+
+Specify the co-financing body
+
+TOTAL appropriations co-financed
+
+3.3.
+
+Estimated impact on revenue
+
+–
+
+◻
+
+The proposal/initiative
+
+has no financial impact on revenue.
+
+–
+
+☑
+
+The proposal/initiative has the following financial impact:
+
+–
+
+◻
+
+on own resources
+
+–
+
+☑
+
+on miscellaneous revenue
+
+EUR million (to three decimal places)
+
+Budget revenue line:
+
+Appropriations available for the current financial year
+
+Impact of the proposal/initiative
+
+Year
+
+2018
+
+Year
+
+2019
+
+Year
+
+2020
+
+Year
+
+2021
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+Article  6313
+
+p.m
+
+p.m
+
+p.m
+
+p.m
+
+For miscellaneous ‘assigned’ revenue, specify the budget expenditure line(s) affected.
+
+18.02.08 (Schengen Information System), 18.02.07 (eu-LISA)
+
+Specify the method for calculating the impact on revenue.
+
+The budget shall include a contribution from countries associated with the implementation, application and development of the Schengen acquis.

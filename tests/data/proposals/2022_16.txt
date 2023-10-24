@@ -1,0 +1,637 @@
+@import url(./../../../../css/com/com-c.css)
+
+EUROPEAN COMMISSION
+
+Brussels, 27.1.2022
+
+COM(2022) 26 final
+
+2022/0016(COD)
+
+Proposal for a
+
+DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Council Decision 2003/17/EC as regards its period of application and as regards the equivalence of field inspections carried out in Bolivia on cereal seed-producing crops and oil and fibre plant seed-producing crops and on the equivalence of cereal seed and oil and fibre plant seed produced in Bolivia
+
+(Text with EEA relevance)
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+•
+
+Reasons for and objectives of the proposal
+
+Council Decision 2003/17/EC recognises equivalence to certain third countries as regards field inspections and production of seed of certain species that are carried out in accordance with Directives 66/401/EEC, 66/402/EEC, 2002/54/EC, 2002/55/EC and 2002/57/EC.
+
+The national provisions governing seed harvested and controlled in those countries have been found to afford the same assurances as regards the seed's characteristics and the arrangements for its examination, for ensuring seed identification, for marking and for control as the provisions applicable to seed harvested and controlled within the European Union. Seed from those third countries can subsequently be marketed in the Union. This equivalence system contributes to the maintenance of the continuous supply of seed in the Union.
+
+Decision 2003/17/EC will expire on 31 December 2022. The objective of this proposal is to extend the duration of application of this Decision in order to avoid any risk of disruption of imports of seed into the Union. The production of seed certified in accordance with Union legislation requires a number of investments (for example registration of varieties in the Union’s Common Catalogues). Furthermore, obtaining sufficient seed quantities for placing on the market requires several years of multiplication. Taking into account these aspects, an extension of the period for which equivalence is recognised for seven years is considered appropriate.
+
+Additionally, this proposal aims to add Bolivia in the list of third countries for which equivalence is recognised. Bolivia is not included in the list of those third countries. Therefore, import into the European Union of cereal seed (maize and sorghum) and seed of oil and fibre plants (sunflower) harvested in Bolivia is currently not possible.
+
+Bolivia has submitted a request to the Commission on 29 January 2016, asking the Commission to consider seed of sorghum, maize and sunflower produced in Bolivia as offering the same assurances as seed produced in the EU with regard to the identity, health and quality of the seed through official controls carried out by the relevant authorities of the country.
+
+Following that request, the Commission
+
+has carried out an
+
+assessment
+
+of the
+
+current Bolivian legislation and
+
+conducted
+
+an
+
+audit
+
+in Bolivia
+
+on
+
+its seed
+
+production
+
+and
+
+certification system
+
+. The Commission
+
+recommended that some rules and technical standards
+
+applied in Bolivia
+
+for the production and certification of seed be brought in line with OECD
+
+Seed Schemes
+
+requirements and with Directives 66/402/EEC and 2002/57/EC.
+
+By 30 November 2018, Bolivia had adopted all the necessary Administrative Resolutions to implement the Commission’s recommendations, which led the Commission to consider that the Bolivian system
+
+in place
+
+offer
+
+s
+
+t
+
+he same assurance as the EU system.
+
+The proposal will stimulate seed trade between Bolivia and the EU. By investing in seed production capacities in Bolivia, EU-based companies that are entitled to multiply maize, sorghum and sunflower varieties included in the EU common catalogue of varieties can diversify their seed production areas to reduce risks of producing in one climate zone. The main advantage of Bolivia on the EU market would be the counter seasonal production of seed, guaranteeing the availability of certain seeds in springtime in the Northern hemisphere. Granting the EU equivalence would therefore contribute to the maintenance of the continuous supply of high quality seed in the EU. It could also make it more attractive for EU-based companies to invest in the agricultural development of Bolivia given that the EU would become an export market.
+
+For the above reasons it is appropriate to recognise the Bolivian seed production and certification system as equivalent to the EU’s, and imports from that country to the EU market of sorghum, maize and sunflower seed can be allowed.
+
+•
+
+Consistency with existing policy provisions in the
+
+policy area
+
+This is a technical implementation of existing requirements and thus consistent with existing policy provisions in the policy area of marketing of seeds.
+
+•
+
+Consistency with other Union policies
+
+By aiming to safeguard the smooth continuation of trade in seed and the maintenance of the continuous supply of seed in the Union, this proposal is consistent with the objectives of the common agricultural policy.
+
+Additionally, this proposal is in line with the aims of the EU’s Joint European Strategy for Bolivia, launched in 2018, because it will boost trade in seed that complies with the Union’s rules and will contribute to rural development in Bolivia.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+•
+
+Legal basis
+
+The legal basis of this act is Article 43(2) of the Treaty on the Functioning of the European Union (TFEU), which empowers the European Parliament and the Council to establish provisions necessary for the pursuit of the objectives of the common agricultural policy.
+
+•
+
+Subsidiarity (for non-exclusive competence)
+
+The initiative falls under the exclusive competence of the EU according to Article 43 of TFEU. Therefore, the subsidiarity principle does not apply.
+
+Furthermore, requirements for seed marketing are regulated at the Union level. In order to ensure that imported seed can move freely in the Single Market, action at Union level is necessary.
+
+•
+
+Proportionality
+
+This is the only possible form of Union action to achieve the pursued objective.
+
+•
+
+Choice of the instrument
+
+A Decision is the appropriate instrument for this technical implementation of existing requirements.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+•
+
+Ex-post evaluations/fitness checks of existing legislation
+
+N/A
+
+•
+
+Stakeholder consultations
+
+The Member States have been informed of the legal assessment of the relevant Bolivian legislation and of the audit performed to establish the equivalence of the Bolivian system and were consulted on the elements of the initiative. Bolivia itself has commented on the draft audit report and has implemented the recommended changes to deal with the shortcomings identified. A Roadmap as regards the granting of equivalence to Bolivia has been published for stakeholders’ feedback from 19 August 2021 to 30 September 2021 on the Better Regulation Portal. Only one contribution was submitted and it does not question the proposal to grant equivalence to Bolivia. The stakeholders and Member States have also been informed about the prolongation of the application of Council Decision 2003/17/EC.
+
+•
+
+Collection and use of expertise
+
+The EU system of equivalence is in place for several decades and has largely relied on the OECD Seed Schemes for the Varietal Certification of Seed moving in International Trade and the methods of the International Seed Testing Association (ISTA) or where appropriate, in accordance with the equivalent to ISTA rules of the Association of Official Seed Analysts (AOSA). This multilateral framework for the international trade of seeds provides additional guarantees for the quality of the imported seed and its compliance with the EU legislation.
+
+The seed imported from third countries under the equivalence system is subject to official inspections carried out in relation to the marketing of seed by the Member States, at least by random checks, to verify compliance with the requirements and conditions of the seed marketing Directives 66/401/EEC, 66/402/EEC, 2002/54/EC, 2002/55/EC and 2002/57/EC.
+
+The Commission has carried out a legislative assessment of the system in place in Bolivia. Furthermore, its services have carried out an audit in Bolivia and have produced a report describing the outcome of this audit, which is available on the website of the Commission. Furthermore, Bolivia is a member of the OECD Seed Schemes and sampling and testing of seed for OECD certification is carried out according to ISTA rules.
+
+•
+
+Impact assessment
+
+This is a Decision of purely technical nature, implementing existing rules. The granting of equivalence of field inspections carried out in third countries on seed-producing crops and of equivalence of seed produced in third countries is based on the OECD Seed Schemes for the Varietal Certification of Seed moving in International Trade and the methods of the International Seed Testing Association (ISTA). The EU and its Member States are closely involved in the development of these schemes and methods, on which also the Union legislation is based and in accordance to which exports of seed from Member States to third countries take place.  Hence, there is no requirement for an impact assessment.
+
+•
+
+Regulatory fitness and simplification
+
+This proposal is not linked to REFIT. The proposal has no impact on compliance costs for operators. The “Digital Check” is not applicable to this proposal.
+
+•
+
+Fundamental rights
+
+This proposal does not have consequences for the protection of fundamental rights.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+This proposal does not have budgetary implications.
+
+5.
+
+OTHER ELEMENTS
+
+•
+
+Implementation plans and
+
+monitoring, evaluation and reporting arrangements
+
+N/A
+
+•
+
+Explanatory documents (for directives)
+
+N/A
+
+•
+
+Detailed explanation of
+
+the
+
+specific provisions of the proposal
+
+The single substantive provision in the proposal amends Council Decision 2003/17/EC firstly by extending the period of its application to 31 December 2029 and secondly by adding Bolivia to the list of third countries for which field inspections on seed-producing crops and the seed produced in those countries are considered equivalent to the field inspections and seed production of the EU, but only in respect of sorghum, maize and sunflower.
+
+2022/0016 (COD)
+
+Proposal for a
+
+DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Council Decision 2003/17/EC as regards its period of application and as regards the equivalence of field inspections carried out in Bolivia on cereal seed-producing crops and oil and fibre plant seed-producing crops and on the equivalence of cereal seed and oil and fibre plant seed produced in Bolivia
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the
+
+European Economic and Social Committee
+
+,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+Council Decision 2003/17/EC
+
+provides that
+
+,
+
+under certain conditions
+
+,
+
+field inspections carried out on certain seed-producing crops in
+
+the third countries
+
+listed in Annex I to that Decision
+
+are to be considered equivalent to field inspections carried out in accordance with Union law
+
+.
+
+It also
+
+provides
+
+that, under certain conditions, seed of certain species
+
+produced in those countries is to be considered equivalent to seed produced in accordance with Union law.
+
+(2)
+
+Equivalence has been granted to those third countries by relying on the multilateral framework for international trade of seeds, namely
+
+the OECD
+
+Seed
+
+Schemes for the Varietal Certification of Seed moving in International Trade and the methods of the International Seed Testing Association (ISTA) or where appropriate, in accordance with the equivalent to ISTA rules o
+
+f
+
+the Association of Official Seed Analysts
+
+.
+
+The Commission has also carried out
+
+legislative a
+
+ssessments
+
+and
+
+audits at some of th
+
+ose
+
+third countries in order to verify
+
+whether
+
+they meet the requirements under U
+
+nion
+
+legislation before granting equivalence for the first time.
+
+Annual
+
+testing
+
+and reporting
+
+within the
+
+OECD
+
+framework
+
+, periodical re-auditing of laboratories for the ISTA accreditation,
+
+as well as official inspections in the context of U
+
+nion
+
+legislation indicate that
+
+field inspections carried out in
+
+those
+
+third countries continue to afford the same guarantees as field inspections carried out by Member S
+
+tates and that
+
+seed produced and certified in those third countries continues to afford the same guarantees as seed produced and certified in Member States.
+
+Those field inspections and seed
+
+should therefore continue t
+
+o
+
+be considered equivalent
+
+to U
+
+nion
+
+requirements
+
+.
+
+(3)
+
+In 2016
+
+Bolivia
+
+s
+
+ubmitted
+
+a request
+
+to the
+
+Commission
+
+for the granting of
+
+equivalence to its system of field inspections of
+
+seed-producing crops and t
+
+o
+
+seed
+
+of
+
+Sorghum
+
+spp. (sorghum),
+
+Zea mays
+
+(maize) and
+
+Helianthus annuus
+
+(sunflower)
+
+produced and certified in Bolivia
+
+.
+
+(4)
+
+The Commission
+
+assess
+
+ed the relevant legislation
+
+of
+
+Bolivia
+
+and
+
+carried out
+
+an audit in 201
+
+8
+
+concerning the system of official controls
+
+of seed production
+
+and
+
+seed
+
+certification of
+
+maize, sorghum and sunflower
+
+in
+
+Bolivia
+
+, and its equivalence with
+
+Union requirements
+
+.
+
+It
+
+published
+
+the
+
+findings
+
+of the audit
+
+in a report
+
+.
+
+(5)
+
+T
+
+hat audit
+
+show
+
+ed
+
+that there is a well-organised system for seed production and certification in Bolivia. The Commission identified some shortcomings and provided recommendations to Bolivia.
+
+Since
+
+Bolivia addressed those shortcomings by 30 November 2018
+
+, it satisfies the conditions set out in Annex II to Decision 2003/17/EC and the respective requirements set out in Council Directive
+
+s
+
+66/402/EEC
+
+and 2002/57/EC
+
+.
+
+(6)
+
+Therefore, it is appropriate to grant equivalence as regards
+
+field inspection
+
+s carried
+
+out
+
+in respect of seed-producing
+
+crops
+
+of sorghum, maize and sunflower
+
+in Bolivia
+
+and as regards seed
+
+of
+
+sorghum, maize and sunflower produced in Bolivia and officially certified by its authorities.
+
+(7)
+
+As Decision 2003/17/EC will expire on 31 December 2022, the period for which equivalence is recognised under that Decision should be extended, in order to avoid any risk of disruption of imports of seed into the Union. Considering the investments and the time needed for the production of seed certified
+
+in accordance with
+
+Union legislation, it is appropriate to extend that period by seven years.
+
+(8)
+
+Decision 2003/17/EC should therefore
+
+be
+
+amended accordingly,
+
+HAVE ADOPTED THIS DECISION:
+
+Article 1
+
+Amendment
+
+s
+
+to Decision 20
+
+0
+
+3/17/EC
+
+Decision 2003/17/EC is amended as follows:
+
+(1)
+
+in Article 6, the date ‘31 December 2022’ is replaced by the date ‘31 December 2029’;
+
+(2)
+
+Annex I is amended
+
+in accordance with the Annex to this Decision
+
+.
+
+Article 2
+
+Entry into force
+
+This Decision shall enter into force on the twentieth day following that of its publication in the
+
+Official Journal of the European Union
+
+.
+
+Article 3
+
+Addressees
+
+This Decision is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+EUROPEAN COMMISSION
+
+Brussels, 27.1.2022
+
+COM(2022) 26 final
+
+ANNEX
+
+to the Proposal for a
+
+DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Council Decision 2003/17/EC as regards its period of application and as regards the equivalence of field inspections carried out in Bolivia on cereal seed-producing crops and oil and fibre plant seed-producing crops and on the equivalence of cereal seed and oil and fibre plant seed produced in Bolivia
+
+ANNEX
+
+The table in Annex I to Decision 2003/17/EC is amended as follows:
+
+(1)
+
+the footnote to the heading of the first column, ‘Country’, is amended as follows:
+
+‘(
+
+1
+
+) AR — Argentina, AU — Australia, BO – Bolivia, BR — Brazil, CA — Canada, CL — Chile, GB — United Kingdom, IL — Israel, MA — Morocco, MD — the Republic of Moldova, NZ — New Zealand, RS — Serbia, TR — Turkey, UA — Ukraine, US — United States, UY — Uruguay, ZA — South Africa.’;
+
+(2)
+
+the following entry is inserted between the entries 'AU' and 'BR':
+
+‘
+
+BO
+
+Ministry of Rural Development and Land
+
+Bolivia
+
+Av. Camacho entre calles Loaya y Bueno N°1471, LA PAZ
+
+66/402/EEC – only in respect of
+
+Zea mays
+
+and
+
+Sorghum
+
+spp.;
+
+2002/57/EC – only in respect of
+
+Helianthus annuus
+
+’.

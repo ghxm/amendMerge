@@ -1,0 +1,595 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 52001PC0168 - EN
+
+Avis juridique important
+
+|
+
+52001PC0168
+
+Proposal for a Directive of the European Parliament and of the Council on financial collateral arrangements  /* COM/2001/0168 final - COD 2001/0086 */
+
+Official Journal 180 E , 26/06/2001 P. 0312 - 0318
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on financial collateral arrangements
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+1. General
+
+1.1. Background
+
+Since the beginning of the 1990's a number of professional bodies have raised awareness about the legal uncertainty faced by payment and securities settlement systems, central banks and participants in the financial markets. This is reflected in the increasing flows in these systems and their significance for a well functioning modern society. The increased volumes also caused a higher degree of credit exposure for market participants, giving them strong incentives to reduce risk through netting or collateralization.
+
+Many Member States have accordingly introduced netting legislation or revised their legislation, resulting in a considerable convergence of netting laws across the European Union. In particular, the 1998 Directive on Settlement Finality [1] constituted a milestone in establishing a sound legal framework for payment and securities settlement systems. The Directive also covers collateral security provided in connection with operations of the Central Banks of the Member States and the European Central Bank in the performance of their central banking functions (including their monetary policy). The Directive therefore promotes the efficiency of cross-border operations necessary for the smooth functioning of the Eurosystem (the European Central Bank and the national Central Banks of Member States participating in the Economic and Monetary Union).
+
+[1]  Directive 98/26/EC of 19th May 1998 - OJ L166.
+
+The Settlement Finality Directive is to date the only piece of European legislation regulating cross-border collateral in the context of financial transactions. Further measures are needed to facilitate the efficient use of cross-border collateral.
+
+The Financial Services Policy Group, a group of personal representatives of ECOFIN Ministers and the European Central Bank meeting under the Chairmanship of the Commission, has urged further progress in the field of collateral beyond the Finality Directive. In the Commission's "Financial Services Action Plan" a Directive on the cross-border use of collateral was given top priority. The Action Plan was fully endorsed by Heads of State and Government at the Lisbon European Council in March 2000. Under the Action Plan, the Commission undertook, in close co-operation with market experts and national authorities, to work on proposals for legislative action on collateral.
+
+In order to study the issue, in the autumn of 1999 the Commission constituted a Forum Group on Collateral, choosing experts from a list of suggested nominations received through European financial services organisations. The Group was well balanced with wide experience and interests, as well as sectoral and geographical expertise. The Group met five times ending in the spring of 2000.
+
+Against the background of excellent advice from the Forum Group on Collateral, the European Commission sent a Working Document on Collateral to relevant bodies for consultation. This paper contained a description of the principal features of the suggested legislative action and a series of questions for recipients to consider concerning the final terms and scope of the initiative. A group of government legal experts and Central Bank representatives chaired by the Commission examined these questions between June and December 2000.
+
+In the light of this process, the Commission has reached the conclusion that the most appropriate way forward is the adoption of a EU Directive on the use of Collateral, by which the sound legal basis laid down by the Settlement Finality Directive for payment and securities settlement systems would be extended generally to transactions in the financial markets.
+
+1.2. Overall assessment
+
+The Financial Services Action Plan is the Commission's response to the need to improve the single market in financial services. It calls for urgent action to secure the full benefits of the single currency and an optimally functioning European financial market. Accordingly, remaining capital market fragmentation should be eliminated, by removing unnecessary differences in the various jurisdictions of the EU, thus creating a single economic space.
+
+Work on the implementation of the Settlement Finality Directive shows the importance of common rules for collateral pledged to payment and securities settlement systems and central banks. The mutual acceptance and enforceability of cross-border collateral is indispensable for the stability of the EU financial system and for a cost-effective and integrated EU financial market, including the single monetary policy in the Economic and Monetary Union, which is only partially protected by EU legislation through the Finality Directive. The Finality Directive covers the first leg where the Eurosystem provides liquidity to the market as a whole by offering liquidity against collateral to credit institutions. In general, market participants balance this liquidity across the market by transactions among themselves that match individual surpluses and shortages of liquidity. Such transactions are effected through the money markets, generally on an uncollateralized basis for short-term transactions and on a collateralized basis for longer-term transactions. Neither the Finality Directive nor any other EU legislation cover this wider aspect of monetary policy.
+
+Participants in the EU market who seek to reduce credit risk through the use of collateral face fifteen different regimes as regards perfection requirements (procedures a collateral taker must follow to ensure the rights to the collateral are good against third parties including a liquidator in the event of bankruptcy). They also are confronted with uncertainties as regards the law applicable to cross-border transfers of book entry securities. They also have to consider the impact of all the different bankruptcy legislations which exist in Member States. As a result, administrative burdens hamper a cost-effective and integrated EU market and legal uncertainty results in unnecessary systemic risk in the financial markets, there being a higher risk of invalidation of cross-border use of collateral than for domestic use of collateral.
+
+In order to meet the objectives of the Action Plan to ensure an integrated European financial market and support the smooth functioning of the single monetary policy in the European Monetary Union, it is proposed to create a uniform minimum regime for the provision of securities and cash as collateral under both pledge and title transfer structures, including repurchase agreements, also called "repos" (where the securities are sold against cash, with a simultaneous agreement to repurchase equivalent securities at a specific price at a future date or on demand).
+
+While the Winding-up Directive for credit institutions [2], the Winding-up Directive for insurance undertakings [3] and the Regulation on insolvency proceedings [4] extended the application of the lex concursus principles by a mutual recognition of reorganisation measures and winding-up proceedings carried out in a debtor's home Member State and the Finality Directive protects netting in payment and securities settlement systems, insulates collateral given to the operators of these systems as well as to Central Banks of the Member States, in the performance of their central banking functions, from the effect of bankruptcy, this proposal focuses on the provision of collateral between two parties to a collateral arrangement.
+
+[2]  OJ L..., , p. .
+
+[3]  OJ L.. , , p. .
+
+[4]  OJ L160, 30.6.2000, p. 1
+
+2. Subsidiarity and proportionality assessment
+
+2.1. The objectives of the Directive with regard to Community obligations
+
+The principal objectives are:
+
+*Ensuring that effective and reasonably simple regimes exist for the creation of collateral under either title transfer (including repo) or pledge structures, (i.e. providing that the only perfection requirement or procedure to follow to protect a collateral agreement should be that the interest be notified to, and recorded by, the relevant intermediary maintaining the securities account. For bearer securities, the perfection requirement should be delivery of the collateral).
+
+*Providing limited protection of collateral arrangements from some rules of insolvency law, in particular those that would inhibit the effective realization of collateral or cast doubt on the validity of techniques such as close-out netting, the provision of top-up collateral, (i.e. additional collateral as a result of changes in the mark-to-market value of the exposure or the collateral) and substitution of collateral.
+
+*Creating legal certainty regarding the conflict of laws treatment of book entry securities used as collateral in a cross-border context by extending the principle adopted in Article 9(2) of the Settlement Finality Directive, (i.e. supplementing the interpretation of the broadly recognised lex rei sitae rule, according to which the applicable law is the law of the jurisdiction in which property is located, by determining where book entry securities are located).
+
+*Limiting the administrative burdens affecting the use of collateral in the financial markets by restricting the imposition of onerous formalities on either the creation or the enforcement of collateral arrangements.
+
+*Ensuring that agreements permitting the collateral taker to re-use the collateral for its own purposes under pledge structures are recognized as effective, as for repos.
+
+The proposal meet the objectives of the Action Plan leading to further integration of the EU financial market and supports the smooth functioning of the single monetary policy in the Economic and Monetary Union. The Directive will therefore support the free movement of capital provided for in Articles 56 to 60 and the freedom to provide services under Article 49 of the Treaty.
+
+2.2. The measure stems from an exclusive competence of the Community
+
+The action falls within the Community's exclusive competence according to Article 95 of the EC Treaty and is of importance for the functioning of the internal market. Accordingly, the Commission's proposal is addressed to the Council and the European Parliament for adoption under the co-decision procedure provided for in Article 251 of the Treaty. Consultation of the Economic and Social Committee is required under Article 95.
+
+2.3. The most suitable instrument for achieving the objectives
+
+The action proposed is intended to satisfy the needs of the market, (i.e. create a uniform minimum regime for the provision of securities and cash as collateral recognised all over the Community) with as little disturbance as possible to the legal framework currently in place in Member States.
+
+It has been considered whether or not a Recommendation would be a suitable instrument for achieving the objectives. As described in section 2.1, the objectives are rather complex dealing with creditors' rights, property, contract and insolvency law. Given the experience with similar efforts in the past which attempted rationalisation or harmonisation in such areas, it was concluded that a solution building on a Recommendation would lack transparency and legal certainty for the market participants. A legally binding instrument was therefore deemed necessary.
+
+A uniform legislation through a Regulation, legally binding without transposition in the Member States, is not necessary. Since this legislative act will complement, in particular, the Directive on Settlement Finality it is appropriate to do this through the same type of legislative act. Consequently a Directive setting out the general objectives as mentioned in section 2.1 is both more suitable and sufficient. This would allow the Member States to transpose the Directive either by creating a new regime or by modifying existing law to the extent necessary to comply with it. In developing a proposal for a Directive, the Commission has aimed at striking a balance between covering as broad a scope as possible on the one hand, i.e. including all kinds of normal financial collateral arrangements, and minimising interference in the laws of Member States on the other. The proposal therefore concentrates on the main issues of concern currently affecting the cross-border use of collateral in the wholesale financial markets, rather than attempting a more comprehensive harmonisation of this complex area of law.
+
+2.4. Benefits of the proposed Directive
+
+A sound and efficient legal regime for limiting credit risk through the use of collateral will improve the functioning and stability of the European financial markets. The functioning of the markets will be improved because the opportunities for conducting cross-border business in the internal market will increase, creating a more competitive European financial market. This is particularly the case for small and medium sized financial entities because counterparties may be prepared to deal with less highly rated, or unrated, entities if they receive collateral in which they have confidence. Stability will be enhanced because proper use of collateral will reduce the risk that a failure of one participant will cause other participants to be unable to meet their own obligations. The proposed Directive, in particular the provisions allowing re-use of pledged securities, will moreover enhance the liquidity in the market, thus reducing volatility and enabling investors to buy or sell securities more easily at a fair price.
+
+3. Examination of the articles
+
+Article 1
+
+According to this Article the purpose of this Directive is to protect the provision of financial collateral on a bi-lateral basis between two parties to a collateral arrangement.
+
+Article 2
+
+This Article defines the scope of the arrangements to which the Directive applies. The requirements in Article 2(3) and 2(5), in particular that collateral must actually be delivered or held in a special account or specially designated, is part of the reasoning supporting the suggested disapplication of registration requirements in Article 4.
+
+Article 2(3) makes it clear that financial collateral arrangements may apply to a specified cash or securities account, so that it will not be necessary for a new document to be executed in respect of each sum or delivery of securities credited to the account.
+
+Article 2(6) makes it clear that the liabilities under a financial collateral arrangement may include future and contingent liabilities (for example liabilities under a swap or other derivatives contract) and liabilities of a third party, and that an "all monies" arrangement is covered where the collateral is provided for any debt owed now or in the future to the collateral taker.
+
+Article 3
+
+This contains a number of defined terms used in the following Articles.
+
+The term "financial collateral arrangement" is used to describe the arrangements to which the regime created by the Directive would apply. The category is sub-divided into "title transfer financial collateral arrangement" (which would include repos and title transfer arrangements such as the ISDA Credit Support Annex) and "security financial collateral arrangement" (the more traditional pledge or charge structure).
+
+The terms "financial collateral", "book entry securities collateral", "relevant intermediary", "securities collateral account" and "close-out netting provision" are important for the provisions defining the scope of the Directive (Article 2), dealing with the "right of use" (Article 6), and replicating and extending the principle laid down by Article 9(2) of the Settlement Finality Directive (Article 10). The definition of the "close-out netting provision" means that this Directive do not protect a "walkaway" clause under which a defaulting party forfeits any amount due or credit arising in its favour as a result of the close-out process.
+
+The inclusion of collateral takers or collateral providers from third countries does not intend to give the Directive extraterritorial effect. The Directive only applies to the extent that a collateral provider or collateral taker is subject to the laws of a Member State including its insolvency laws. An institution will generally be subject to the insolvency laws of the state in which it is incorporated or formed. The requirement that Member States should modify their insolvency laws applies therefore generally to a Community collateral provider whether or not the collateral taker is from a Member State. Accordingly, a Community liquidator, when winding-up a counterparty from a Member State, should not distinguish between situations where the collateral taker is from another Member State or from a third country. This is generally in line with the Community legislation today and will at the same time make it more easy for a Community counterparty to conclude collateral arrangements abroad, (i.e. the burden of providing legal opinions, showing that the collateral agreement is enforceable in case of bankruptcy, will be less cumbersome).
+
+Article 4
+
+This Article restricts the formalities which may be required for the execution of a financial collateral arrangement. It precludes the imposition of any requirement for a "formal act" as a condition of validity, other than the steps referred to in Article 2. Some of these "formal acts" are described in paragraph 2 of this Article.
+
+The Directive is not intended to interfere with the laws or regulations of Member States as regards publicity and registration, except to the extent that the penalties for breach of such a law or regulation include the invalidity of a financial collateral arrangement. The reason why such a sanction should not be imposed is that the Directive applies to a financial collateral arrangement only if the collateral has been transferred to the collateral taker or its existence has been noted on the account or register in which the collateral provider's interest is recorded. Accordingly, third parties who deal with the collateral provider are not at risk of being misled about the status of the collateral provider's interest in the collateral as long as they make reasonable enquiries.
+
+Article 5
+
+This Article complements Article 4 by precluding the imposition of formal and procedural requirements on the enforcement of a financial collateral arrangement as well as the effect on the enforcement from insolvency law. It makes clear that provisions in a financial collateral arrangement (such as "automatic early termination" provisions) which make insolvency events a default trigger will be valid, and requires that the realisation of collateral and the operation of close-out netting provisions be exempted from any "stay" imposed generally by winding-up proceedings or reorganisation measures. It allows the collateral taker, upon default by the collateral provider, to liquidate the collateral speedily without being required to be subject to any waiting period, which could substantially impair the value of the collateral to the collateral taker and indeed could result in the collateral taker himself being unable to fulfil his obligations to other counterparties. The collateral taker is therefore allowed to realise the collateral without being subject to any requirement referred to in Article 5(1), e.g. that notice of the intention to sell shall have been given or approved by a public authority or that the sale has to be conducted by public auction or in any other prescribed manner. The ability to realise collateral speedily will reduce the overall market disruption caused by insolvency and thereby reduce systemic risk. Given the nature of the relevant collateral and the efficiency of the markets, such protections do not appear to subject the bankruptcy estate to the risk that a fair price would not be obtained for the collateral.
+
+Article 6
+
+This Article deals with the "right of use" or re-use of financial collateral provided under a security financial collateral arrangement.
+
+In a number of Member States collateral takers are allowed to re-use the pledged assets by repledging or rehypothecating them to a third party on the condition that the rights of the collateral provider are completely respected, (i.e. that the original pledgor's right on the return of the property, after redemption of the loan, is observed). In other Member States, the collateral provider can enable the collateral taker to re-use the pledged assets as if the collateral taker were the owner of these assets. In order to establish a clear statutory regime and increase liquidity in the market, it is proposed that the collateral provider should be able to allow the collateral taker to re-use collateral by way of sale etc., subject to the obligation to redeliver equivalent securities when the loan is reimbursed, as in a repo arrangement where the collateral taker becomes the owner of the collateral.
+
+In addition to the increase of liquidity in the market stemming from the re-use of pledged securities, both collateral providers and collateral takers can benefit from the right of re-use. This is because the collateral taker may generate income from the re-use of the collateral and may, as a result, be able to offer better financing terms to the collateral provider.
+
+The way in which such a legal system should be introduced in the Member States' legislation is described in Article 6(2 and 3) and 6(4) by stating that:
+
+(1) If financial collateral is re-used and subsequently recredited to a collateral account, any time periods under applicable laws dealing with invalidation (for example, "suspect periods" under insolvency rules as described under the examination of Article 9 paragraph 3(1)) run from when the original collateral was provided, (i.e. the returned collateral will again become subject to the arrangement as if the collateral securities had never been used).
+
+(2) If an enforcement event occurs while the collateral is actually re-used, the obligation to redeliver equivalent collateral may be the subject of a close-out netting provision, (i.e. the obligation of the collateral taker to deliver equivalent collateral will be expressed as a cash amount, based on current market values, and set off against the secured obligation of the collateral provider to the collateral taker, only the net balance being payable by one party to the other).
+
+Article 7
+
+This Article requires Member States to recognise the validity of title transfer arrangements including repos and precludes the recharacterisation of such arrangements as pledges. The consequence of recharacterisation is, in cases where the perfection requirements for a repo are different from the requirements vis-à-vis a pledge, that the latter would not be satisfied and therefore, the whole collateral arrangement might be void. Article 7 removes such risks by expressly providing that title transfer arrangements are not to be recharacterised.
+
+Article 8
+
+The word "netting" has entered into legal texts only recently and is used to refer in different contexts to a number of offsetting arrangements.
+
+The form of netting which is particularly linked to collateral arrangements, is "close-out" netting, which forms a key part of the enforcement mechanism for repo and other title transfer collateral arrangements. Under close-out netting the reciprocal obligations of the parties are accelerated or terminated and replaced by an obligation by one party to pay to the other a single net amount representing the difference between the estimated current values of the two parties' obligations. The validity of this form of netting may be questioned under some jurisdictions' insolvency laws on the ground that it conflicts with a mandatory rule prohibiting or restricting insolvency set-off.
+
+Article 8(1) confirms the validity of close-out netting provisions in a financial collateral arrangement, as defined in Article 3, paragraph 1(s) and Article 8(2) protects close-out netting provisions from intervention by assignees or persons seeking judicial attachment of rights, which are subject to such provisions.
+
+Article 9
+
+This Article ensures that winding-up proceedings or reorganisation measures do not have retroactive effects with regard to financial collateral arrangements such as "zero-hour rules" (these give retroactive effect to the commencement of insolvency events deeming them to have begun at midnight ("zero-hour")). This Article will protect financial collateral which has been delivered on the date, but prior to the time, that proceedings were initiated against automatic invalidation.
+
+Moreover, it deals with the interaction between some of the most important currently used terms in standard agreements concerning collateral and insolvency law, (i.e. "top-up" collateral and "substitution" of collateral).
+
+It is a common feature of collateral arrangements that, after the initial delivery of collateral, there will be further collateral movements as a result of changes in the market value of the collateral, the exposure or other events specified in the collateral arrangement. Such arrangements are commonly called "top-up" collateral arrangements and "substitution". Paragraph 1 and 2-below deal with two different types of top-up collateral while paragraph 3 deals with substitution of collateral:
+
+(1) Top-up collateral plays an important part in limiting counterparty risk, because it permits market participants to limit their credit exposure to each other. This is in general done by "mark-to-market" calculations, under which the current market value of the collateral is compared with the amount secured. If a shortfall of collateral occurs, the collateral taker asks for top-up collateral (and correspondingly, if the calculation reveals a collateral surplus, the collateral taker is obliged to return the surplus). Such arrangements are regarded as sound market practice and are favoured by regulators. It is therefore proposed to protect mark-to-market top-up collateral in this Directive. Such protection is needed because in some jurisdictions top-up collateral can be set aside on the ground that the collateral taker is being preferred over general creditors by receiving top-up collateral, if during a specified period after the provision of the top-up collateral (the so-called "suspect period") the collateral provider becomes insolvent.
+
+(2) Top-up collateral may also be required upon deterioration of the credit rating of the collateral provider. Credit risk top-up collateral is not protected by this proposal for a Directive because it conflicts more directly with the insolvency law policy, which in general discourages provisions under which a creditor's position is improved as a result of, or at the time of, an insolvency-related event or at least a context of degraded or deteriorating credit worthiness.
+
+(3) Where a portfolio of securities is provided as collateral, it will often be of key importance to the collateral provider to be able to withdraw particular securities by replacing them with other securities of equivalent value. This enables the collateral provider to continue to trade in the securities provided as collateral. Accordingly, many collateral arrangements provide for such a right of substitution. In the event of the insolvency of the collateral provider, should the substitution have occurred during the "suspect period", there may be additional vulnerability under insolvency law even though economically no new collateral has been provided. It is proposed to protect substitution by this Directive because the substitution would not involve any reduction of the assets of the collateral provider. At the same time, such a principle of law will increase both the intrinsic value of securities and the liquidity of financial markets, as with the principle of the collateral taker's right of re-use of pledged collateral as described under Article 6.
+
+Article 9 confers limited protection on top-up collateral which the collateral provider is required by the terms of the financial collateral arrangement and substitute collateral which it is permitted to provide in return for the withdrawal of other collateral. For the purposes of statutory invalidation rules (such as suspect periods under insolvency law), top-up and substitute collateral are to be treated as if provided at the date of the original execution of the financial collateral arrangement.
+
+Article 10
+
+The great majority of securities in the financial markets are now held in book entry form in securities accounts with custodians or depositories or settlement systems, which evidences the existence of proprietary rights in or for the delivery or transfer of the securities concerned. This has caused some difficulty in applying the traditional conflict of laws principle under which proprietary aspects of dispositions of property are governed by the law of the place where the property in question is situated at the time (the lex situs or lex rei sitae), since it is difficult to identify where such securities are located. This creates uncertainty with regard to the law which collateral providers and collateral takers need to comply with in the creation of interests in collateral and in their perfection. The difficulties are particularly acute where the securities are held through a chain of intermediaries in different countries.
+
+This Article creates certainty by an application of the principle laid down in Article 9(2) of the Settlement Finality Directive to financial collateral arrangements generally where the collateral consists of book entry securities or cash.
+
+This means that the matters referred to in paragraph 3 shall be governed by the law of the country of the relevant intermediary as specified in paragraph 2 through which the collateral taker holds its interest, which is the only place where there exists immediate evidence of the collateral taker's interest. This approach is also known as the "Place of the Relevant InterMediary Approach" (PRIMA).
+
+This Article applies whether or not the collateral is held within the Community. This is because financial collateral frequently consists of securities from a range of jurisdictions (including non-member States) and it is important to establish a clear and consistent treatment conflict of laws approach across the Community. The fact that the proposal for a Directive affects collateral held outside the Community does not mean that it has extraterritorial effect. The Directive only affects the law of Member States including their conflict of laws rules. These rules refer to the law of a non-member State, in cases where the collateral is held outside the Community, by an application of a Community conflict of laws rule. In other words, the Directive supplements the interpretation of the already existing lex rei sitae rule by determining the location of book entry collateral. The lex rei sitae rule already today points at legislation outside the Community and therefore in supplementing this rule the Directive has to do the same.
+
+The reference in paragraph 3 to the creation does not address the governing law of a financial collateral arrangement. It will be the law chosen by the parties according to the Rome Convention on the Law Applicable to Contractual Obligations.
+
+Articles 11 and 12
+
+The Commission assisted by the Securities Committee [5] will revise, when deemed necessary, the thresholds, which correspond to the capital base and to the gross assets as described in Article 2 regarding the collateral provider and collateral taker, in order to take account of new developments in the market practice.
+
+[5]  OJ L....., p.
+
+Articles 13 to 15
+
+These are standard formal Articles.
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on financial collateral arrangements
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+
+Having regard to the proposal from the Commission [6],
+
+[6]  OJ C , , p. .
+
+Having regard to the opinion of the European Central Bank [7]
+
+[7]  Opinion delivered on []
+
+Having regard to the opinion of the Economic and Social Committee [8],
+
+[8]  OJ C , , p. .
+
+Having regard to the opinion of the Committee of the Regions [9],
+
+[9]  OJ C , , p. .
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty [10],
+
+[10]  OJ C , , p. .
+
+Whereas:
+
+(1) Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems [11] constituted a milestone in establishing a sound legal framework for payment and securities settlement systems. Implementation of that Directive has demonstrated the importance of limiting systemic risk inherent in such systems stemming from the different influence of several jurisdictions, and the benefits of common rules in relation to collateral pledged to such systems.
+
+[11]  OJ L166, 11.6.1998, p. 45
+
+(2) In its Communication of 11 May 1999 to the European Parliament and to the Council on Financial Services: Implementing the Framework for Financial Markets: Action Plan [12] the Commission undertook, after consultation with market experts and national authorities, to work on further proposals for legislative action on collateral urging further progress in the field of collateral, beyond the Directive 98/26/EC.
+
+[12]  COM(1999)232 final
+
+(3) A Community regime should be created for the provision of securities and cash as collateral under both pledge and title transfer structures including repurchase agreements (repos). This will contribute to the integration and cost-efficiency of the financial market as well as to the stability of the financial system in the Community, thereby supporting the freedom to provide services and the free movement of capital in the single market in financial services. This Directive focuses on the provision of collateral between two parties to a collateral arrangement.
+
+(4) In order to improve the legal certainty of collateral arrangements, Member States should ensure that certain provisions of insolvency law do not apply to such arrangements, in particular, those that would inhibit the effective realisation of collateral or cast doubt on the validity of current techniques such as close-out netting, the provision of additional collateral in the form of top-up collateral and substitution of collateral.
+
+(5) The principle in Directive 98/26/EC, whereby the law applicable to book entry securities provided as collateral is the law of the jurisdiction where the relevant register, account or centralised deposit system is located, should be extended in order to create legal certainty regarding the use of such securities held in a cross-border context and used as collateral under the scope of this Directive.
+
+(6) In order to limit the administrative burdens for participants using book-entry securities as collateral the only perfection requirement should be that the interest be notified to, and recorded by, the relevant entity maintaining the account, while for bearer securities the perfection requirement should be delivery of the collateral.
+
+(7) The simplification of the use of collateral through the limitation of administrative burdens will promote the efficiency of the cross-border operations of the European Central Bank and the national Central Banks of Member States participating in the Economic and Monetary Union, necessary for the implementation of the common monetary policy. Furthermore, the provision of limited protection of collateral arrangements from some rules of insolvency law will in addition support the wider aspect of the common monetary policy, where the participants in the money market balance the overall amount of liquidity in the market among themselves, by cross-border transactions backed by collateral.
+
+(8) The lex rei sitae rule, according to which the applicable law for determining whether a collateral arrangement is properly perfected and therefore good against third parties is the law of the country where the collateral is located, including where the location is in a third country, is currently recognised by all Member States. The location of book entry collateral should be determined. If the collateral taker has a valid and effective collateral arrangement according to the governing law of the country in which the relevant account is maintained, whether or not that country is a Member State, then the validity against any competing title or interest and enforceability of the collateral should be governed solely by the law of that country, thus preventing legal uncertainty as a result of other unforeseen legislation.
+
+(9) The possibilities for Community counterparties to conclude collateral arrangements with counterparties from third countries should also be enhanced, by that Member States should ensure that certain provisions of insolvency law do not apply to such arrangements. Those exceptions should therefore also apply to a Community collateral provider where the collateral taker is from a third country.
+
+(10) The enforceability of close-out netting should be protected, not only as an enforcement mechanism for title transfer collateral arrangements including repurchase agreements but more widely, where close-out netting forms part of a collateral arrangement. Sound risk management practices commonly used in the financial market should be protected by enabling participants to manage and reduce their credit exposures arising from all kinds of financial transactions on a net basis, where the credit exposure is calculated by combining the estimated current exposures under all outstanding transactions with a counterparty, setting off reciprocal items to produce a single aggregated amount that is compared with the current value of the collateral.
+
+The sound market practice favoured by regulators where participants in the financial market use top-up collateral arrangements to manage and limit their credit risk to each other by mark-to-market calculations of the current market value of the credit exposure and the value of the collateral and accordingly ask for top-up collateral or return the surplus of collateral should be protected.
+
+(12) In order to limit the systemic risk in the Community financial market, the formalities, which may be required for the execution of a collateral arrangement should be limited. Penalties for breach of such formalities should not include the invalidity of a collateral arrangement.
+
+(13) It should be possible to provide cash as collateral under both title transfer and pledge structures respectively protected by the recognition of netting or by the pledge of cash collateral. The collateral provider should therefore be able to retain ownership of the pledged cash and consequently be protected in cases where the collateral taker becomes bankrupt. This is of particular importance in the frequent situations where cash is used in substitution for securities.
+
+[13]  OJ L 184, 17.7.1999, p. 23.
+
+(15) This Act complies with the fundamental rights and follows the principles laid down in particular in the Charter of Fundamental Rights of the European Union as general principles of Community law [14].
+
+[14]  OJ C 364, 18.12.2000, p. 1.
+
+(16) In accordance with the principles of subsidiarity and proportionality, the objectives of the proposed action, to create a minimum regime relating to the use of financial collateral, cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale and effect of the action be better achieved by the Community. This Directive confines itself to the minimum required in order to achieve those objectives and does not go beyond what is necessary for that purpose,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1 - Subject matter
+
+This Directive lays down a Community regime in relation to financial collateral arrangements between a collateral provider and a collateral taker.
+
+Article 2 - Scope of application
+
+1. This Directive shall apply to financial collateral arrangements which satisfy the requirements set out in paragraph 2, 3 and 4.
+
+This Directive only applies to financial collateral once it has been provided under a financial collateral arrangement and if that provision can be evidenced in writing.
+
+The financial collateral arrangement must contain the following provisions:
+
+(a) it must identify the financial collateral to which it applies; for this purpose it is sufficient if the arrangement identifies the account to which financial collateral can be credited from time to time;
+
+(b) it must describe the relevant financial obligations for which the collateral is provided. Where the relevant financial obligations consist of a specified class or kind of obligations, it must describe the class or kind of obligation for which the collateral is provided;
+
+(c) where the arrangement is a security financial collateral arrangement and the financial collateral consists of or includes cash, it must provide for the cash to be deposited with or transferred to the collateral taker or deposited with or transferred to a third party for the account of the collateral taker or to be deposited in an account with a third party designated as an account which is subject to the security financial collateral arrangement;
+
+(d) where the arrangement is a title transfer financial collateral arrangement and the financial collateral consists of or includes cash, it must provide for the cash to be deposited with or transferred to the collateral taker or a third party for the account of the collateral taker;
+
+(e) where the financial collateral consists of or includes bearer securities, it must provide for those securities to be delivered to the collateral taker or to another person acting as agent or custodian on behalf of the collateral taker;
+
+(f) where the arrangement is a security financial collateral arrangement and the financial collateral consists of or includes book entry securities collateral, it must provide for the book entry securities collateral:
+
+(i) to be transferred into a securities collateral account; or
+
+(ii) to be otherwise held and designated so as to indicate that it is held for the account of the collateral provider but subject to the security financial collateral arrangement;
+
+(g) where the arrangement is a title transfer financial collateral arrangement and the financial collateral consists of or includes book entry securities collateral, it must provide for the book entry securities collateral to be transferred into an account in the name of the collateral taker or an account in the name of another person designated by the collateral taker.
+
+4. Either the collateral provider or the collateral taker must belong to one of the following categories:
+
+(a)a public authority including (1) public sector bodies of member states charged with or intervening in the management of public debt and (2) public sector bodies of member states authorised to hold accounts for customers, but excluding publicly guaranteed undertakings, except as they fall under (d);
+
+a central bank, the European Central Bank, the Bank of International Settlements; a multilateral development bank as defined in the nineteenth indent of Article 1 of Directive 2000/12/EC or the International Monetary Fund; the European Investment Bank; or
+
+a financial institution under prudential supervision including:-
+
+i.   a credit institution as defined in the first indent of Article 1 of Directive 2000/12/EC, including the institutions set out in the list in Article 2.2. of Directive 2000/12/EC;
+
+ii.   an investment firm as defined in the first indent of Article 1 of Directive 93/22/EC;
+
+iii.   a financial institution as defined in the fifth indent of Article 1 of Directive 2000/12/EC;
+
+iv.   a central counterparty as defined in indent (c) of Article 2 of Directive 98/26/EC;
+
+v.   a settlement agent as defined in indent (d) of Article 2 of Directive 98/26/EC;
+
+vi.   a clearing house as defined in indent (e) of Article 2 of Directive 98/26/EC;
+
+vii.   an insurance undertaking as defined in indent (a) of Article 1 of Directive 92/96/EC and Directive 92/49/EC;
+
+viii.   an undertaking for collective investment in transferable securities (UCITS) as defined in Article 1.2 of Directive 85/611/EEC;
+
+ix.   a management company as defined in Article 1a.2 of Directive 85/611/EEC; o
+
+(b) a financial institution under prudential supervision; or
+
+(c) a person other than a natural person, including unincorporated firms, partnerships and persons acting in a trust or representative capacity on behalf of bondholders or holders of other forms of securitised debt, provided that the other party is an institution as defined in points (a) to (c)
+
+
+6. The relevant financial obligations under a financial collateral arrangement may consist of or include:
+
+(a) future, contingent or prospective obligations (including such obligations arising under a master agreement or similar arrangement);
+
+(b) obligations owed to the collateral taker by a person other than the collateral provider; or
+
+(c) obligations of a specified class or kind arising from time to time.
+
+Article 3 - Definitions
+
+1. For the purpose of this Directive:
+
+(a) "financial collateral arrangement" means a title transfer financial collateral arrangement or a security financial collateral arrangement;
+
+(b) "title transfer financial collateral arrangement" means a sale and repurchase agreement or an arrangement under which a collateral provider transfers ownership of financial collateral to a collateral taker, for the purpose of securing the performance of relevant financial obligations;
+
+(c) "security financial collateral arrangement" means an arrangement under which a collateral provider disposes of, or delivers financial collateral by way of security in favour of, or to a collateral taker, for the purpose of securing the performance of relevant financial obligations, where ownership of the financial collateral remains with the collateral provider unless and until the financial collateral is transferred or appropriated to the collateral taker or transferred to a third party as a result of:
+
+(i) the exercise of the rights of the collateral taker following the occurrence of an enforcement event; or
+
+(ii) the exercise of a right of use;
+
+(d) "sale and repurchase agreement" means an agreement under which a collateral provider sells financial instruments or interests in or in respect of financial instruments to a collateral taker subject to an agreement by the collateral provider to purchase and by the collateral taker to sell equivalent financial instruments at a future date (the "repurchase date") or on demand, and at a price (the "repurchase price"), specified in or determined as provided in the agreement and includes any term of such an agreement under which:
+
+(i) either party is obliged to transfer to the other full ownership of financial collateral in order to maintain a specified ratio or margin between the current market value of the equivalent financial instruments due to be purchased at the repurchase date and the repurchase price; or
+
+(ii) the collateral provider is entitled, before the repurchase date, to require the collateral taker to transfer to it full ownership of financial instruments equivalent to some or all of those sold in exchange for the transfer to the collateral taker of full ownership of other financial instruments by way of substitution;
+
+(e) "collateral provider" means the party providing financial collateral under a financial collateral arrangement, whether or not that party is from a Member State;
+
+(f) "collateral taker" means the party receiving financial collateral under a financial collateral arrangement, whether or not that party is from a Member State:
+
+(g) "financial collateral" means cash in any currency ("cash collateral") and financial instruments;
+
+(h) "financial instruments" means shares in companies and other securities equivalent to shares in companies and bonds and other forms of securitized debt if these are negotiable on the capital market and any other securities normally dealt in giving the right to acquire any such transferable securities by subscription or exchange or giving rise to a cash settlement excluding instruments of payment and it means as well units in collective investment undertakings, money market instruments and interests in or in respect of any of the foregoing;
+
+(i) "relevant financial obligations" means, in relation to a financial collateral arrangement, the obligations in respect of which the financial collateral is provided and on the discharge of which the collateral provider is entitled to the retransfer of the financial collateral or the transfer of equivalent collateral;
+
+(j) "book entry securities collateral" means financial collateral which consists of financial instruments, title to which is evidenced by entries in a register or account;
+
+(k) "relevant intermediary" means, in relation to book entry securities collateral which is subject to a financial collateral arrangement, the person - who may also be the collateral provider or the collateral taker - who maintains the relevant account;
+
+(l) "relevant account" means:
+
+(i) in relation to cash collateral, the account to which that cash collateral is credited;
+
+(ii) in relation to book entry securities collateral which is subject to a financial collateral arrangement, the register or account in which the entries by which that book entry securities collateral is transferred to or disposed of in favour of the collateral taker are made;
+
+(m) "securities collateral account" means, in relation to book entry securities, collateral provided under a security financial collateral arrangement:
+
+(i) an account with the relevant intermediary in the name of the collateral taker, or of a third party acting for the collateral taker, designated as an account for holding book entry securities collateral under that security financial collateral arrangement; or
+
+(ii) an account or sub-account with the relevant intermediary in the name of the collateral provider, or of a third party acting for the collateral provider, on which the interest of the collateral taker under that security financial collateral arrangement has been noted;
+
+(n) "equivalent collateral":
+
+(i) in relation to an amount of cash, means a payment of the same amount and in the same currency;
+
+(ii) in relation to financial instruments, means financial instruments of the same issuer or debtor, forming part of the same issue and of the same nominal amount, currency and description or, where a financial collateral arrangement provides for the transfer of other assets following the occurrence of any event relating to or affecting any financial instruments provided as financial collateral, those other assets;
+
+(o) "winding-up proceedings" means collective proceedings involving realisation of the assets and distribution of the proceeds among the creditors, shareholders or members as appropriate, which necessarily involve any intervention by administrative or judicial authorities, including where the collective proceedings are terminated by a composition or other analogous measure, whether or not they are founded on insolvency or are voluntary or compulsory;
+
+(p) "reorganisation measures"means measures involving any intervention by administrative bodies or judicial authorities which are intended to preserve or restore the financial situation and which affect pre-existing rights of third parties, including but not limited to measures involving the possibility of a suspension of payments, suspension of enforcement measures or reduction of claims;
+
+(q) "enforcement event" means an event on the occurrence of which, under the terms of a financial collateral arrangement, the collateral taker is entitled to realise or appropriate financial collateral or a close-out netting provision comes into effect;
+
+(r) "right of use" means the right of the collateral taker to use and dispose of financial collateral held under a security financial collateral arrangement as though he were the absolute owner of it, in accordance with the security financial collateral arrangement;
+
+(s) "close-out netting provision" means a provision of a financial collateral arrangement, or of an arrangement of which a financial collateral arrangement forms part, under which, on the occurrence of an enforcement event:
+
+(i) the relevant financial obligations are accelerated so as to be immediately due and expressed as an obligation to pay an amount representing their estimated current value, or are terminated and replaced by an obligation to pay such an amount, in either case in accordance with points (iii) and (iv);
+
+(ii) any obligation of the collateral taker to deliver equivalent collateral, or to cause equivalent collateral to be credited to a securities collateral account, is accelerated so as to be immediately performable and expressed as an obligation to pay an amount representing its current value or replacement value or its estimated current value or replacement value, or is replaced by an obligation to pay such an amount, in either case in accordance with points (iii) and (iv);
+
+(iii) any obligations arising under point (i) or (ii) which are expressed in different currencies are converted into one single currency; and
+
+(iv) an account is taken of what is due from each party to the other in respect of the obligations arising under points (i) to (iii) and those obligations fall to be discharged by the payment of an aggregate net sum equal to the balance of the account by the party from whom the larger amount is due.
+
+References in this Directive to "writing" include recording in electronic form and any other durable medium.
+
+
+2. References in this Directive to "writing" include recording in electronic form and any other durable medium.
+
+
+Article 4 - Formal requirements on financial collateral arrangement
+
+1. Member States shall ensure that the creation, validity, perfection, enforceability or admissibility in evidence of a financial collateral arrangement shall not be dependent on the performance by the collateral provider or the collateral taker or by a third party of any formal act beyond those specified in Article 2(1).
+
+2. The Formal acts referred to in the first paragraph include, but are not limited to:
+
+(a) the execution of a document in a particular form or in a particular manner;
+
+(b) the making of any filing with an official or public body or registration in a public or private register;
+
+(c) advertisement in a newspaper or journal, in an official register or publication or in any other manner;
+
+(d) notification to a public officer, to a custodian or agent or to any other person;
+
+(e) the provision of evidence in a particular form as to the date of execution of a document or instrument, the amount of the relevant financial obligations or any other matter.
+
+Article 5 - Enforcement of financial collateral arrangement
+
+1. On the occurrence of an enforcement event, the collateral taker shall be able to realise any of the following financial collateral provided under, and in accordance with the terms in, a security financial collateral arrangement:
+
+(a) financial instruments by sale or appropriation without any requirement:
+
+(i)   that notice of the intention to realise shall have been given;
+
+(ii)   that the terms of the realisation be approved by any court, public officer or other person;
+
+(iii)   that the realisation be conducted by public auction or in any other prescribed manner; or
+
+(iv) that any additional time period shall have elapsed.
+
+(b) cash collateral by setting it off against or applying it in discharge of relevant financial obligations without any requirement that prior notice of the intention to realise the cash collateral shall have been given.
+
+Appropriation is only possible if:
+
+(i)   this has been foreseen in the security financial collateral arrangement;
+
+(ii)   the parties have agreed in the security financial collateral arrangement on the valuation of the financial instruments
+
+2. On the occurrence of an enforcement event, it must be possible for a close-out netting provision to take effect in accordance with its terms without any requirement that prior notice shall have been given. Paragraph 1(a) applies where the value of any item taken into account in the close-out netting provision is or may be determined by reference to the sale of equivalent securities or any other asset.
+
+3. Member States shall ensure that a financial collateral arrangement can be enforced in the event of winding-up proceedings or reorganisation measures. Any of the following events may be enforcement events if the terms of a financial collateral arrangement so provide:
+
+(a) the commencement of winding-up proceedings or reorganisation measures in respect of the collateral provider or the collateral taker;
+
+(b) the occurrence of an event on the basis of which winding-up proceedings or reorganisation measures could be commenced in respect of the collateral provider or the collateral taker;
+
+(c) the occurrence of an event referred to in point (a) or (b) followed by the lapse of a specified period without the relevant insolvency event having been reversed or cancelled; or
+
+(d) the occurrence of an event referred to in point (a), (b) or (c) coupled with the giving of a notice by the collateral taker, where the relevant event occurs in relation to the collateral provider, or by the collateral provider, where the relevant event occurs in relation to the collateral taker, electing to treat such occurrence as an enforcement event.
+
+4. This Article is without prejudice to any requirement imposed by applicable law, that the realisation or valuation of financial collateral is conducted in a commercially reasonable manner.
+
+Article 6 - Right of use of financial collateral under security financial collateral arrangement
+
+1. If and to the extent that the terms of a security financial collateral arrangement so provide, Member States shall ensure that the collateral taker is entitled to exercise a right of use on financial collateral held under the security financial collateral arrangement.
+
+Where a collateral taker exercises a right of use, he thereby incurs an obligation to ensure that equivalent collateral replaces the original financial collateral at the latest on the due date for the performance of the relevant financial obligations covered by the security financial collateral arrangement.
+
+2. Where a collateral taker, in discharge of an obligation as described in paragraph 1, causes equivalent collateral to be transferred so as again to be held in the manner referred to in Article 2(3), that equivalent collateral shall be subject to the security financial collateral arrangement to which the original collateral was subject.
+
+3. For the purposes of any rule of law under which any disposition is deemed to be invalid or may be reversed or declared void by reason of or by reference to the time at which it is made, that equivalent collateral shall be treated as having been delivered or disposed of under that security financial collateral arrangement at the time when the original collateral was first transferred so as to be held in the manner referred to in Article 2(3).
+
+4. If an enforcement event occurs while an obligation as described in paragraph 1 remains outstanding, the obligation may be the subject of a close-out netting provision.
+
+Article 7 - Recognition of title transfer financial collateral arrangements
+
+If a financial collateral arrangement provides that ownership of financial collateral is to pass to the collateral taker on delivery or payment, subject to an obligation to deliver equivalent collateral, Member States shall recognise that ownership of the financial collateral passes to the collateral taker in accordance with the arrangement.
+
+Article 8 - Recognition of close-out netting provisions
+
+1. A close-out netting provision shall be effective notwithstanding the commencement or continuation of winding-up proceedings or reorganisation measures in respect of the collateral provider and/or the collateral taker.
+
+2. A close-out netting provision shall be effective in accordance with its terms notwithstanding any purported assignment, judicial or other attachment or other disposition of or in respect of such rights.
+
+Article 9 - Certain insolvency provisions disapplied
+
+1. Winding-up proceedings or reorganisation measures shall not have retroactive effects on the rights and obligations under a financial collateral arrangement.
+
+2. Where under a financial collateral arrangement a collateral provider:
+
+(a)   has an obligation to provide financial collateral or additional financial collateral in order to take account of changes in the value of the financial collateral, a change in the credit rating of the collateral provider or in the amount of the relevant financial obligations; or
+
+(b) has a right to withdraw financial collateral on providing, by way of substitution or exchange, financial collateral of substantially the same value;
+
+the provision of the financial collateral, additional financial collateral or substitute or replacement financial collateral shall not be treated as invalid, defective or voidable under any such rule of law as is described in paragraph 3 unless, and then only to the extent that, the financial collateral arrangement is itself treated as invalid, defective or voidable.
+
+3. Paragraph 1 and 2 apply to any rule of law under which a disposition or transfer of financial collateral is or may be deemed to be invalid, or may be reversed or declared void if made within a prescribed period defined by reference to the commencement of winding-up proceedings or reorganisation measures or by reference to the making of any order or decree or the taking of any other action or occurrence of any other event in the course of such proceedings or measures. This includes any rule under which an order or decree made in the course of such proceedings or measures takes effect from a time earlier than the time when it is actually made.
+
+Article 10 - Conflict of laws
+
+1. Any question with respect to any of the matters specified in paragraph 3 arising in relation to the application of a financial collateral arrangement to any book entry securities collateral or cash collateral shall be governed by the law of the country or, where appropriate, the law of the part of the country in which the relevant account is maintained, whether or not that country is a Member State. The reference to the law of a country or part of a country is a reference to its domestic law, disregarding any rule under which, in deciding the relevant question, reference would be made to the law of another country.
+
+3. The matters referred to in paragraph 1 are:
+
+(a) the creation of any title to or interest in the book entry securities collateral arising under the financial collateral arrangement and the ranking or priority of any such title or interest as against any competing title or interest claimed by another person;
+
+(b) any act or thing necessary to ensure that any title to or interest in the book entry securities collateral arising under the financial collateral arrangement may be asserted generally against third parties;
+
+(c) the steps required for the realisation of the collateral following the occurrence of an enforcement event, including any act or thing necessary to ensure that any disposal of the collateral will be effective generally as against persons who are not parties to the financial collateral arrangement.
+
+Article 13 - Implementation
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by [31 December 2003] at the latest. They shall forthwith inform the Commission thereof.
+
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+Article 14 - Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.
+
+Article 15 - Addressees
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+FINANCIAL STATEMENT
+
+1-9 Non applicable as no financial assistance provided by the Commission
+
+10. Administrative expenditure (Section III, Part A of the budget)
+
+10.1 Effect on the number of posts
+
+No additional posts required. Administration expenditure related to this Directive can be accommodated within existing Commission resources.
+
+IMPACT ASSESSMENT FORM  THE IMPACT OF THE PROPOSAL ON BUSINESS WITH SPECIAL REFERENCE TO SMALL AND MEDIUM-SIZED ENTERPRISES( SMEs)
+
+Title of proposal
+
+Directive on financial collateral arrangements
+
+Document reference number
+
+The proposal
+
+1. Taking account of the principle of subsidiarity, why is Community legislation necessary in this area and what are its main aims-
+
+Implementation of Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems has demonstrated the importance of limiting systemic risk inherent in such systems stemming from the different influence of several jurisdictions, and the benefits of common rules in relation to collateral pledged to such systems or Central Banks. Under the Financial Services Action Plan, the Commission undertook, after consultation with market experts and national authorities, to work on further proposals for legislative action on collateral urging further progress in the field of collateral, beyond the Directive 98/26/EC.
+
+These examinations demonstrate that differences between the laws of Member States create administrative burdens, which hamper the development of an integrated internal market as well as it creates legal uncertainties. There is therefore a need for significant improvement in the general legal framework through harmonisation of EU legislation in order to create a uniform minimum regime for the provision of securities as collateral under both pledge and title transfer structures. Since this proposal will complement, in particular, the Directive on Settlement Finality it is appropriate to create the necessary harmonisation through the same type of legislative act, i.e. a Directive.
+
+In the interest of subsidiarity, the proposal mainly applies to entities on the wholesale market as explained below.
+
+The impact on business
+
+2. Who will be affected by the proposal-
+
+-which sectors of business-
+
+Participants in the collateralised financial market in the EU, including the repo market.
+
+-which sizes of business (what is the concentration of small and medium-sized firms)-
+
+The proposal will be applicable to any financial institution under prudential supervision, central banks, public authorities and persons other than natural persons whose capital base exceeds EUR 100 million or whose gross assets exceed EUR 1000 million. Although the wholesale market is dominated by large entities, the proposal could enhance the opportunities for small and medium sized financial entities on the financial markets because counterparties may be prepared to deal with less highly rated, or unrated, entities if they receive collateral in which they have confidence.
+
+-are there particular geographical areas of the Community where these businesses are found-
+
+No, these kinds of businesses exist throughout the Community.
+
+3. What will business have to do to comply with the proposal-
+
+Apart from entry into a straightforward written contract outlining the terms of the collateral arrangement, no special procedures for establishing the collateral arrangement is necessary.
+
+4. What economic effects is the proposal likely to have-
+
+-on employment-
+
+-on investment and the creation of new businesses-
+
+-on the competitiveness of businesses-
+
+A sound and efficient legal regime for limiting credit risk will improve the stability of the European financial market. The increased possibilities for conducting cross-border business will create a more competitive market, which in macroeconomic terms are believed to enhance the potential for stronger growth in the gross domestic product and therefore also in job creation.
+
+5. Does the proposal contain measures to take account of the specific situation of small and medium-sized firms (reduced or different requirements etc)-
+
+No, there is no need for such measures.
+
+Consultation
+
+6. List the organisations which have been consulted about the proposal and outline their main views.
+
+In order to study the issue, in the autumn of 1999 the Commission constituted a Forum Group on Collateral, choosing experts from a list of suggested nominations received through European financial services organisations. The Group was well balanced with wide experience and interests, as well as sectoral and geographical expertise. The Group met five times ending in the spring of 2000. There was in general consensus in the Forum Group regarding the steps necessary to reform the European legislations.
+
+The issue has also been explored by many other working groups, e.g. the Report of the Giovannini Group "EU Repo Markets: Opportunities for Change" in October 1999, the Report "Collateral Arrangements in the European Financial Markets - The Need for National Law Reform" by the International Swaps and Derivatives Association, Inc. (ISDA), Collateral Law Reform Group in December 1999, and a report presented in June 2000 by the European Financial Markets' Lawyers Group, meeting at the ECB, just to mention some of them.
+
+The conclusions of these different working groups including the Forum Group are in general similar. The proposal is in line with these conclusions. There is therefore an overall support for this proposal, which is deemed essential by the sector itself.

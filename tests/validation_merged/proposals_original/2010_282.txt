@@ -1,0 +1,443 @@
+EUR-Lex - 52010PC0550 - EN
+
+|
+
+52010PC0550
+
+ | EUROPEAN COMMISSION |
+
+Brussels, 8.10.2010
+
+COM(2010) 550 final
+
+2010/0282 (COD)
+
+Proposal for a
+
+DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the detailed rules for access to the public regulated service offered by the global navigation satellite system established under the Galileo programme
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+1. CONTEXT OF THE PROPOSAL
+
+Regulation (EC) No 683/2008 of the European Parliament and of the Council of 9 July 2008[1] lays down the conditions for the further implementation of the two European satellite navigation programmes (EGNOS and Galileo). The provisions of the Annex to the Regulation define the specific objectives of the programmes. They provide that the system to be established under the Galileo programme will offer five services, including a "public regulated service", hereinafter "PRS", restricted to government-authorised users, for sensitive applications which require a high level of service continuity. They specify that the PRS uses strong, encrypted signals.
+
+The PRS is a service to which the general public will not have access and which is restricted exclusively to the Council, the Commission, Member States and, where appropriate, duly authorised European Union agencies, non-member countries and international organisations.Its use must be monitored for safety and security reasons, unlike the other unsecured services which will be offered by the two European GNSS systems. It is therefore essential to monitor users by means such as establishing an authorisation procedure, using encryption keys, receiver approval, etc. Moreover, certain applications of the service may be politically and strategically very sensitive. The characteristics of the PRS as a whole necessitate a precise legislative definition of the detailed rules for access to the PRS.
+
+Furthermore, even before Regulation (EC) No 638/2008 was adopted, the Transport Council (in the conclusions it adopted at its meeting on 12 October 2006) asked the Commission to actively pursue its work on the drawing up of the PRS access policy, so as to be able to determine the conditions under which the Member States will organise and manage their user groups, on the basis of preparatory work that had already been completed, and to present its proposals in due time for the Council's deliberation and approval. In these conclusions, the Transport Council pointed out that Member States' use of the PRS would be optional and that the operating costs of this service would be borne by users on a non-commercial basis.
+
+In view of the deadlines for implementing the various supervisory mechanisms and since the timetable for providing the initial services is now known, it has become not only appropriate but urgent to establish in legislation the detailed rules for access to the PRS.
+
+2. CONSULTATION OF INTERESTED PARTIES AND IMPACT ASSESSMENT
+
+Although it has not formally been the subject of an impact assessment, the draft text is nonetheless the result of very thorough preparatory work which closely involved the various stakeholders interested in the PRS, particularly the Member States, which will be the key participants in this service.
+
+A. DEFINITION OF THE PROBLEM
+
+In order to prevent any confusion, it is appropriate to make a semantic distinction between the PRS participants on the one hand, which are the Member States, the Council, the Commission and, where appropriate, the European Union agencies, non-member countries and international organisations, and the PRS users on the other, who are natural or legal persons duly authorised by the PRS participants to own or use a PRS receiver.
+
+Furthermore, the stakeholders in the detailed rules for access to the PRS are as follows:
+
+- the Commission, which deals with all matters relating to the security of the systems pursuant to the provisions of Article 13 of Regulation (EC) No 683/2008;
+
+- the Council, which is in particular responsible for the implementation of Joint Action 2004/552/CFSP[2];
+
+- the Member States, which will be the key participants in the PRS and to which this proposal for a Decision is addressed;
+
+- the European GNSS Agency set up by Regulation (EC) No xxx/2010 which, pursuant to Article 16 of Regulation (EC) No 683/2008 and in accordance with the guidelines issued by the Commission, both approves the security of the European satellite navigation systems and operates the Galileo Security Centre. In particular, the Security Centre is the Council's sole partner in implementing the instructions given under Joint Action 2004/552/CFSP with regard to all PRS participants and users;
+
+- the companies that design or manufacture PRS receivers, and which must comply with the approval standards laid down by the security approval authority within the European GNSS Agency.
+
+The security requirements relating to use of the PRS directly concern the security of the Union and its Member States. As such, they form part of a strategic challenge, and also touch on the Union's external policy. They require the establishment of a user monitoring framework, which is the essential aim of this proposal.
+
+The framework includes both technical measures, such as authorisations by encryption key, and institutional measures, such as, for example, the security approval procedures or the crisis procedures arising from Joint Action 2004/552/CFSP. It must take into account the fact that there may be multiple PRS users and they may, depending on the required use, have different needs or be subject to different reliability requirements.
+
+It is important that the monitoring framework is put in place ahead of the initial operation phase, scheduled for 2014. It will be required throughout that phase, i.e., for several decades, and its purpose will be mainly:
+
+- to anticipate a crisis situation; this would require permanent, institutionalised relationships, including a suitable decision-making procedure, between the various public and private stakeholders;
+
+- to strictly regulate the conditions of use of PRS receivers, in particular by means of effective user management;
+
+- to closely monitor the activity of companies responsible for manufacturing PRS receivers, in particular by imposing binding manufacturing rules.
+
+In order to achieve these aims, it is particularly important to specify and formalise the respective responsibilities of the Council, the Commission, the Member States, and all other public and private stakeholders. The conditions under which international organisations and non-member countries can potentially use the PRS and the conditions for exporting PRS equipment must also be defined. Management of the different user groups would also appear an essential aspect of the framework, in particular to minimise the negative effects of any failings on the part of one of these groups. Finally, it is essential to determine the approval and manufacturing standards which will be imposed on PRS receiver manufacturers, and for the European Union to verify compliance. Manufacturers must be capable not only of producing highly secure receivers, but also of designing mechanisms to prevent them being reproduced in the event of theft or loss.
+
+B. APPROACH CHOSEN AND ALTERNATIVE SOLUTIONS
+
+The various matters relating to the detailed rules for access to the PRS were carefully discussed by the Security Board, known as the GSB, which was established under Article 7 of Council Regulation (EC) No 876/2002[3] and repealed under Article 23 of Regulation (EC) No 683/2008. The GSB was set up to deal with security matters relating to the Galileo system and was composed of one representative from each Member State of the European Union and a representative of the Commission. In fact, it brought together the few experts within the European Union who had the necessary skills to ensure the security and safety of systems as complex as Galileo. It was replaced by a group of experts from the Commission[4].
+
+Under the GSB, four "PRS seminars" were held in 2006 and 2007, each of which was attended by about 60 experts from the Member States. The very detailed talks focused on the range of security problems posed by use of the PRS, in particular technical considerations and features, the institutional mechanisms to be set up, the timetable for the latter, the scope of PRS use, etc.
+
+Through this series of seminars, the participants reached a consensus on the need to quickly establish a suitable regulatory framework, the general principles of the detailed rules for access to the PRS, the security standards to be met at a technical level and the various stages of their implementation. The draft text reflects the results of this work, translated into a legal form and adapted to the new governance plan for European satellite navigation programmes established under Regulation (EC) No 683/2008.
+
+The main elements of the proposal are set out in point 3 below. They are informed by the conviction, shared by all the Member States, that the detailed rules for access to the PRS must comply with minimum security standards and authorisation procedures common to all Member States in order to ensure a high level of security. It should be noted that the text does not address the question of the nature of PRS use, which is left to each Member State to decide individually, but defines common criteria allowing PRS participants to select their users in a secure manner.
+
+Under the scheme adopted, the technical functions directly connected to the infrastructure are centralised at European level through the activities of the security centre used by the European GNSS Agency; conversely, the participant supervisory functions are decentralised at national level in order to take account of local constraints. The legal mechanisms provided ensure consistency between the two levels of functions and harmonisation of decision-making procedures, notably by means of the minimum common standards with which all stakeholders must comply.
+
+It should crucially be underlined that during the preparatory work carried out by the GSB and in the context of the "PRS seminars", the whole range of different possible schemes was carefully considered. Only the one that best satisfied both the interests of the European Union and the Member States and the security and safety requirements was selected. Several alternative options were thus discarded. For example:
+
+- take no action. As well as not complying with the conclusions adopted by the Council on 12 October 2006, this option effectively means abandoning all use of the PRS, which would also be contrary to the provisions of the Annex to Regulation (EC) No 683/2008. Effectively, neither the Commission, which is responsible for the security of the system, nor the Council, responsible for implementing Joint Action 2004/552/CFSP, nor, least of all, the Member States, could seriously contemplate using the PRS if no prior framework ensuring a high level of security had been established;
+
+- no monitoring of PRS users by the Member States. This option would also have been incompatible with the high level of security required for the PRS. It could not be considered in view of the sensitivity of the subject and its security implications for the Member States and the European Union;
+
+- entirely centralised management at European Union level of all authorisation standards and procedures, approval and monitoring relating to the detailed rules for access to the PRS, in particular manufacture of receivers and distribution of access-protection keys. This option proved to be both harmful to the development of the markets linked to PRS use and contrary to the subsidiarity principle. The European Union currently lacks the necessary technical capabilities to provide this kind of centralised management by itself, although in time it could acquire expertise in approval through the work of the European GNSS Agency. These capabilities, particularly with regard to encryption components, are currently concentrated in a small number of Member States. The European Union also lacks instruments that could centralise the management and monitoring of PRS receiver manufacture, an activity which is partly industrial in nature and which can only be carried out by the Member States as regards the security aspects;
+
+- conversely, entirely decentralised management of the same components at Member State level. This option was also rejected, as it makes it difficult to define minimum standards common to all Member States and, more importantly, to ensure compliance with such standards with the same level of stringency in all Member States. As a result, EU bodies are responsible for defining common standards and monitoring compliance with them.
+
+The option selected establishes a system which best strikes a balance between centralised management of certain elements at European Union level, where such centralisation is both possible and desirable, and decentralised management of other elements in cases where, although the infrastructure belongs to the EU, the Member States are best placed to manage it.
+
+C. IMPACT ON THE MEMBER STATES AND OTHER STAKEHOLDERS
+
+The Decision which is the subject of this proposal is likely to have an impact on the Member States, European Union bodies, international organisations and non-member countries and industrial companies.
+
+Firstly, with regard to the Member States, which are in principle the stakeholders most concerned by and interested in using the PRS, it should be highlighted that the Decision will affect only those Member States wishing to use the PRS and will have no impact, financial or otherwise, on those Member States that do not wish to use it. Any Member State wishing to use to the PRS will in principle need to designate a "Competent PRS Authority" which will manage its users, possibly deal with the manufacture of PRS receivers and, where appropriate, monitor compliance with PRS receiver manufacturing standards in its territory. It should be noted that a body already existing within a Member State may be designated as the "Competent PRS Authority".
+
+In order to assess the Member States' needs with regard to PRS use, the Commission sent out a questionnaire to them in 2008. The responses to this questionnaire, which are in no way formally binding on the Member States, are summarised in the two tables below (those Member States not mentioned did not reply to the questionnaire):
+
+
+
+
+
+It should be stressed that although the various potential uses of the PRS are left to the Member States' discretion, their requests will only be fulfilled in so far as they are compatible with the required minimum security standards. Member State requests that are incompatible or scarcely compatible with the standards will therefore not be covered by the PRS, but by the open service, which offers an equal performance in terms of reliability.
+
+The proposal lays down the same restrictions on use by EU bodies as by Member States. While the general principles agreed with the Member States in discussions prior to drafting the proposal fully authorise "EU" use of the PRS, they also result in identical access arrangements for all participants. It is up to the European Union bodies concerned, namely the Council, the Commission and, where appropriate, the EU agencies, to decide whether or not they want to use the PRS and for which purposes. Furthermore, the Council and the European GNSS Agency are called on to play a particular role under Joint Action 2004/552/CFSP.
+
+As for international organisations and non-member countries, if they wish to access the PRS service, they will have to conclude prior international agreements with the European Union laying down restrictions on PRS use. Such restrictions will be at least as binding as those imposed on the Member States.
+
+Finally, with regard to industrial companies, it is particularly important to stress that only those companies which have freely chosen to respond to the invitations to tender for the design or manufacture of PRS receivers will be subject to the restrictions regarding compliance with binding standards. Furthermore, since the PRS is a new service with no previous equivalent, the economic impact of its introduction cannot fail to be positive, despite the security-related restrictions.
+
+Furthermore, companies were consulted on numerous occasions on the conditions of use of the PRS, in particular through the PACIFIC study undertaken under the 6th Framework Programme for Research and Development. It is clear from this that companies:
+
+- recognise the specific security needs of the PRS;
+
+- are in favour of extensive use of the PRS in security-related sectors, in particular defence and law enforcement;
+
+- with regard to the defence sector, point out the need for interoperability with the military GPS signal;
+
+- with regard to law enforcement, highlight the interest in combining use of PRS receivers with other secure telecommunication methods;
+
+- consider it necessary to be able to export PRS receivers to non-member countries authorised to become participants in the PRS.
+
+The text of the proposal contains no provisions contrary to the wishes of companies, although it does provide a strict framework to ensure a high level of security for the conditions under which private sector stakeholders can manufacture and use PRS receivers.
+
+D. EXISTENCE OF GENUINE CONSENSUS
+
+As previously mentioned, the draft text is the result of very thorough preparatory work carried out in 2006 and 2007 involving the various stakeholders in the PRS, particularly the Member States, which will be the main participants in this service.
+
+The many discussions which have taken place since 2007 within the various bodies responsible for the security of the programmes and systems have merely confirmed the consensus on the various solutions chosen in the draft. These bodies, which are composed of representatives of the Member States, are primarily the expert group on the security of European GNSS systems and the working sub-group specifically dedicated to the PRS, which this expert group created.
+
+It is important to remember that, in view of their sensitive nature, matters relating to use of the PRS involve not only system security but also the security of the Member States themselves. It has for that reason proved to be politically and practically impossible for the Member States to reach a consensus on the options selected. Recourse to Joint Action 2004/552/CFSP, which falls under the unanimity rule, is furthermore explicitly provided for by Article 11 of the draft in any cases where the security of the European Union and its Member States could be undermined.
+
+3. LEGAL ELEMENTS OF THE PROPOSAL
+
+The legal basis of the Commission's proposal is Article 172 of the Treaty on the Functioning of the European Union, ex Article 156 of the Treaty establishing the European Community. Furthermore, it takes the form of a proposal for a decision of the European Parliament and of the Council, since the text is addressed to the Member States only.
+
+It contains the following key measures:
+
+- general principles on the detailed rules for access to the PRS, in particular the fact that the Council, the Commission and the Member States have unlimited, uninterrupted access to the PRS anywhere in the world, while an agreement would be required to grant access to the PRS to European Union agencies, non-member countries and international organisations;
+
+- the requirement for PRS participants to designate a "Competent PRS Authority" to manage and monitor manufacture, ownership and use of PRS receivers, and the establishment of minimum common standards to which the competent PRS authorities must comply;
+
+- the establishment of a framework of conditions for the manufacture and security of PRS receivers;
+
+- provisions on export control, control centres worldwide, and the implementation of joint actions under the “second pillar”.
+
+Finally, although the text may have implications for the Common Foreign and Security Policy, it must nonetheless be adopted under the procedures provided for under the Treaty on the Functioning of the European Union pursuant to the Court of Justice's case law resulting from the Judgment of 20 May 2008, C-91/05 (Commission of the European Communities v. Council of the European Union), known as "Small arms".
+
+4. BUDGETARY IMPLICATIONS
+
+The Commission's proposal has no direct negative impact on the European Union budget; in particular, it does not commit the European Union to any new policy and the various EU supervisory bodies to which it refers have already been established by means of other texts.
+
+5. ADDITIONAL INFORMATION
+
+Some applications of the PRS service may be very sensitive at a political and strategic level. However, the Commission's proposal does not aim to regulate the potential applications of the PRS per se, but rather the detailed rules for accessing this service. It is first and foremost technical in nature, rather than political.
+
+2010/0282 (COD)
+
+Proposal for a
+
+DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the detailed rules for access to the public regulated service provided by the global navigation satellite system established under the Galileo programme
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 172 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national Parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee[5],
+
+Having regard to the opinion of the Committee of the Regions[6],
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+1.  Regulation (EC) No 683/2008 of the European Parliament and of the Council of 9 July 2008 on the further implementation of the European satellite navigation programmes (EGNOS and Galileo)[7] makes provision in its Annex that the specific objectives of the Galileo programme are to ensure that the signals emitted by the system can be used in particular to offer a public regulated service (hereinafter "PRS") restricted to government-authorised users, for sensitive applications which require a high level of service continuity.
+
+2.  In the conclusions it adopted at its meeting on 12 October 2006, the Transport Council asked the Commission to actively pursue its work on drawing up the PRS access policy, in order to be able to define the conditions under which the Member States would organise and manage their user groups, on the basis of preparatory work, and to submit its proposals in due course for the Council's consideration and approval. In its conclusions, the Transport Council pointed out that Member States' use of the PRS would be optional and that the operating costs of the service would be borne by users on a non-commercial basis.
+
+3.  The Council has stated on several occasions that the system resulting from the Galileo programme is a civilian system under civilian control, that is, it was created in accordance with civilian standards based on civilian requirements and under the control of the European Union institutions.
+
+4.  Of the various services offered by European satellite navigation systems, the PRS is both the most secure and the most sensitive. It must ensure service continuity for its participants, even in the most serious crisis situations. The consequences of infringing the security rules when using this service are not restricted to the user concerned, but could potentially extend to other users. Use and management of the PRS is therefore the joint responsibility of Member States in order to protect the security of the European Union and their own security. Consequently, access to the PRS must be strictly limited to certain categories of user which are subject to continuous monitoring.
+
+5.  It is therefore necessary to define the detailed rules for access to the PRS and the rules for managing it, in particular specifying the general principles relating to access, the functions of the various management and supervisory bodies, the conditions relating to receiver manufacture and security, and the export monitoring system.
+
+6.  With regard to the general principles of access to the PRS, given the actual purpose of the service and its characteristics, its use must be strictly limited to the Council, the Commission, the Member States, duly authorised European Union agencies and international organisations, with the Council, the Commission and the Member States granted discretionary, unlimited and uninterrupted access worldwide. Furthermore, each Member State must be in a position to take its own sovereign decision on which PRS users to authorise and what uses may be made of the PRS, including uses relating to security, in accordance with minimum security standards.
+
+7.  Furthermore, in order to promote worldwide the use of European technology for secure government satellite radio navigation applications, the terms and conditions under which certain non-member countries and international organisations may use the PRS should be laid down – compliance with security requirements being in all cases essential.
+
+8.  Generally speaking, the European Union and the Member States must do their utmost to ensure that both the system derived from the Galileo programme and PRS technologies and equipment are safe and secure, to prevent signals emitted for the PRS from being used by non-authorised natural or legal persons, and to prevent any hostile use of the PRS against them.
+
+9.  It is important in this connection that the Member States determine the system of penalties applicable in the event of non-compliance with the obligations stemming from this Decision, and that they ensure that those penalties are applied. The penalties must be effective, proportionate and dissuasive.
+
+10.  In the case of management and supervisory bodies, the arrangement whereby each participant would designate a "Competent PRS Authority" responsible for managing and supervising users would appear to be the best way of effectively managing PRS use, by facilitating relations between the various stakeholders responsible for security and ensuring permanent supervision of users (in particular national users) in compliance with the common minimum standards. It should be noted that a Competent PRS Authority would not necessarily be linked to a particular Member State and that several different participants could designate one and the same Competent PRS Authority.
+
+11.  Furthermore, one of the tasks of the Security Centre referred to in Article 16(a)(ii) of Regulation (EC) No 683/2008 should be to provide a technical interface between the various stakeholders responsible for the security of the PRS.
+
+12.  The Council is also called upon to play a role in managing the PRS, both through the application of Council Joint Action 2004/552/CFSP of 12 July 2004 on aspects of the operation of the European satellite radio-navigation system affecting the security of the European Union[8], and through the approval of international agreements authorising a non-member country or an international organisation to use the PRS.
+
+13.  With regard to receiver manufacture and security, security requirements make it necessary for this task to be entrusted only to a Member State which has access to the PRS or to undertakings established on the territory of a Member State which has access to the PRS. Furthermore, the receiver manufacturer must have been duly authorised in advance by the European GNSS Agency established by means of Regulation (EC) No xxx/2010[9] and must comply with the rules laid down by its internal approval authority. It is the responsibility of the Competent PRS Authorities to continuously monitor compliance both with the approval standards issued by the approval authority and with specific technical requirements stemming from the minimum common standards.
+
+14.  With regard to export control, exports outside the European Union of equipment or technology relating to PRS use must be restricted to those non-member countries which are duly authorised to access the PRS under an international agreement with the European Union.
+
+15.  The Commission should be empowered to adopt delegated acts in accordance with Article 290 of the Treaty on the Functioning of the European Union, both in order to define the rules on the protection of classified information concerning the PRS, and to be able to amend the minimum common standards.
+
+16.  Since the purpose of this Decision – namely, to lay down the detailed rules under which the Member States, the Council, the Commission, the European Union agencies and international organisations can access the PRS – cannot be sufficiently achieved by the Member States and can, by reason of the scale of the proposed action, be better achieved at European Union level, the EU may adopt measures in accordance with the subsidiarity principle enshrined in Article 5 of the Treaty on European Union. Furthermore, in accordance with the proportionality principle set out in that Article, this Decision does not go beyond what is necessary in order to achieve that purpose .
+
+HAVE ADOPTED THIS DECISION:
+
+Article 1
+
+Subject
+
+This Decision lays down the detailed rules under which the Member States, the Council, the Commission, the European Union agencies and international organisations may access the public regulated service (hereinafter "PRS") offered by the global navigation satellite system (GNSS) established under the Galileo programme.
+
+Article 2
+
+General principles concerning access to the PRS
+
+17.  The PRS participants shall be the Council, the Commission and the Member States, as well as duly authorised European Union agencies, non-member countries and international organisations.
+
+18.  The Council, the Commission and the Member States shall have unlimited and uninterrupted access to the PRS worldwide.
+
+19.  It shall be for the Council, the Commission and each individual Member State to decide whether to use the PRS.
+
+20.  PRS users shall be natural or legal persons duly authorised by the PRS participants to own or use a PRS receiver.
+
+21.  The Council and the Commission shall decide which categories of their agents are authorised to own or use a PRS receiver, in accordance with the minimum common standards referred to in Article 6(6). Member States which have access to the PRS shall decide independently which categories of natural persons living on their territory and legal persons established on their territory are authorised to own or use a PRS receiver, as well as the uses to which it may be put, in accordance with the minimum standards referred to in Article 6(6). Such uses may include security-related uses.
+
+22.  European Union agencies may use the PRS only in the context of and according to the detailed rules laid down in an administrative agreement concluded between the Commission and the agency.
+
+23.  Non-member countries or international organisations may access the PRS only where:
+
+24.  A security agreement has been concluded between the European Union and the non-member country or international organisation, and
+
+25.  An agreement laying down the terms and conditions of the detailed rules for use of the PRS by the non-member country or international organisation has been concluded between the European Union and the non-member country or international organisation in accordance with the procedure provided for in Article 128 of the Treaty on the Functioning of the European Union.
+
+Article 3
+
+Access authorisation linked to system functioning
+
+Without prejudice to Article 2 and in order to ensure that the system functions smoothly, the following shall be authorised to access PRS technology and to own or use PRS receivers, subject to observance of the specific security rules laid down by the Commission and in strict compliance with the instructions issued to them by the Commission:
+
+-  the Commission, when acting as manager of the Galileo programme;
+
+-  operators of the system derived from the Galileo programme, strictly for the purposes of complying with their remit;
+
+-  the European GNSS Agency, in order to enable it to perform the tasks entrusted to it;
+
+-  the European Space Agency, strictly for the purposes of research, development and infrastructure roll-out.
+
+Article 4
+
+Protection of classified information
+
+26.  The Member States shall guarantee protection of classified information concerning the PRS.
+
+27.  The Commission shall lay down, by means of delegated acts in accordance with Articles 12, 13 and 14, rules relating to the protection of classified information concerning the PRS, in particular those relating to a natural or legal person's need for access to classified information in order to be able to perform a specific function or task. Each Member State shall notify the Commission of the specific provisions it adopts in order to implement this paragraph.
+
+28.  If it emerges that data relating to the PRS have been disclosed to third parties not authorised to receive them, the Commission shall launch an inquiry, inform the Council and the Parliament of the results of its investigations and take appropriate measures to remedy the consequences of the improper disclosure.
+
+Article 5
+
+Penalties
+
+Member States shall determine what penalties are applicable when national provisions enacted pursuant to this Decision are infringed. The penalties shall be effective, proportionate and dissuasive.
+
+Article 6
+
+Competent PRS Authority
+
+29.  All PRS participants which use the PRS shall designate a body known as the Competent PRS Authority. Several PRS participants may designate a common Competent PRS Authority.
+
+30.  The task of a Competent PRS Authority designated by a Member State shall be to manage and monitor the manufacture, ownership and use of PRS receivers by natural persons living on the territory of that Member State and legal persons established on the territory of the Member State.
+
+31.  The task of a Competent PRS Authority designated by the Council, the Commission, a European Union agency or an international organisation shall be to manage and monitor the ownership and use of PRS receivers by the respective agents of those institutions, agencies and organisations.
+
+32.  As the operator of the security centre referred to in Article 16(a)(ii) of Regulation (EC) No 683/2008 (hereinafter "Security Centre"), the European GNSS Agency may be designated as a Competent PRS Authority by a PRS participant.
+
+33.  Owners and users of PRS receivers shall be grouped into user categories by their respective Competent PRS Authority. The Competent PRS Authority shall determine the PRS access rights for each user category.
+
+34.  The Competent PRS Authorities shall comply with the minimum common standards for the management and monitoring of PRS receiver owners, users and manufacturers. Those minimum common standards are set out in the Annex. The Commission may, by means of delegated acts and in accordance with Articles 12, 13 and 14, amend this Annex in whole or in part, to take account of developments in the programme, in particular with regard to technology and changes in security needs.
+
+35.  The Commission shall, with the help of the Member States and the European GNSS Agency, ensure that the Competent PRS Authorities comply with the minimum common standards, in particular by carrying out audits or inspections.
+
+36.  Where a Competent PRS Authority does not comply with the minimum common standards, the Commission may require that authority to use the technical resources of the European GNSS Agency.
+
+Article 7
+
+Role of the Security Centre
+
+The Security Centre shall provide the technical interface between the Competent PRS Authorities, the Council acting under Joint Action 2004/552/CFSP and the monitoring centres. It shall inform the Commission of any event that may affect the smooth running of the PRS.
+
+Article 8
+
+Manufacture and security of receivers and security modules
+
+37.  Any Member State which uses the PRS may either manufacture PRS receivers and the associated security modules itself, or else assign the task to undertakings established on the territory of a Member State which uses the PRS. The Council or the Commission may assign the task of manufacturing PRS receivers and the associated security modules to a Member State which uses the PRS, or to undertakings established on the territory of a Member State which uses the PRS.
+
+38.  The bodies referred to in paragraph 1 which are responsible for manufacturing PRS receivers and the associated security modules may not manufacture such equipment until they have been duly authorised to do so by the authority established within the European GNSS Agency and responsible for approving the security of European satellite navigation systems. Equipment-manufacture authorisations shall have a limited period of validity and shall be renewable.
+
+39.  The bodies referred to in paragraph 1 which are responsible for manufacturing PRS receivers and the associated security modules shall comply both with the rules laid down by the authority established within the European GNSS Agency and responsible for approving the security of European satellite navigation systems (which in particular include the principle of two-fold assessment of security modules) and with the minimum common standards referred to in Article 6(6), insofar as they relate to their activity.
+
+40.  As part of their duties, the Competent PRS Authorities shall ensure compliance with the rules and standards referred to in paragraph 3.
+
+41.  The authority responsible for approving the security of European satellite navigation systems may at any time withdraw from a body referred to in paragraph 1 the authorisation it has granted to that body to manufacture PRS receivers and the associated security modules if it appears that the measures provided for in paragraph 3 have not been complied with.
+
+Article 9
+
+Export controls
+
+The export outside the European Union of equipment or technologies relating to PRS use (regardless of whether that equipment or those technologies are listed in Annex I to Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items[10]) shall not be authorised other than pursuant to the agreements referred to in Article 2(7) or under the detailed rules for hosting and operating reference stations referred to in Article 10.
+
+Article 10
+
+Reference stations housing PRS equipment
+
+A non-member country on whose territory a reference station housing PRS equipment and forming part of the system derived from the Galileo programme is installed shall not be considered merely by virtue of that fact to be a PRS participant. The Commission shall lay down in conjunction with the non-member country the detailed rules for hosting and operating the reference station housing PRS equipment.
+
+Article 11
+
+Application of Joint Action 2004/552/CFSP
+
+In any cases where application of this Decision could undermine the security of the European Union or its Member States, the procedures provided for in Joint Action 2004/552/CFSP shall apply.
+
+Article 12
+
+Exercise of delegation
+
+42.  The Commission shall be empowered for an indefinite period of time to adopt the delegated acts referred to in Articles 4 and 6.
+
+43.  As soon as it adopts a delegated act, the Commission shall simultaneously notify the European Parliament and the Council that it has done so.
+
+44.  The power to adopt delegated acts shall be conferred on the Commission subject to the conditions laid down in Articles 13 and 14.
+
+Article 13
+
+Revocation of delegation
+
+45.  The delegation of power referred to in Article 12 may be revoked at any time by the European Parliament or by the Council.
+
+46.  The institution which has initiated an internal procedure for deciding whether to revoke the delegation of power shall endeavour to inform the other institution and the Commission within a reasonable period of time before taking a final decision, indicating the delegated powers which could be subject to revocation and possible reasons for such revocation.
+
+47.  A revocation decision shall put an end to the delegation of the powers specified in that decision. It shall take effect immediately or at a later date specified in the decision. It shall not affect the validity of the delegated acts already in force. It shall be published in the Official Journal of the European Union.
+
+Article 14
+
+Objections to delegated acts
+
+48.  The European Parliament and the Council may object to the delegated act within a period of two months from the date of notification. At the initiative of the European Parliament or the Council, this period shall be extended by one month.
+
+49.  If, on expiry of that period, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the Official Journal of the European Union and shall enter into force at the date stated in the act. The delegated act may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+50.  If the European Parliament or the Council objects to a delegated act, it shall not enter into force. The institution which objects shall state the reasons for objecting to the delegated act.
+
+Article 15
+
+Entry into force
+
+This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union .
+
+Article 16
+
+Addressees
+
+This Decision is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+Annex
+
+Minimum common standards to be complied with by the PRS authorities responsible for the management and monitoring of PRS receiver owners, users and manufacturers
+
+51.  Each Competent PRS Authority shall have an operational structure known as a platform contact point (PCPO) which is permanently connected to the Security Centre.
+
+52.  Each Competent PRS Authority shall carry out the following tasks within its area of responsibility:
+
+53.  Management of PRS users, covering in particular all technical and operational aspects, especially records concerning PRS receiver security modules;
+
+54.  Management of encryption keys, in particular orders for, and deliveries of, such keys;
+
+55.  Monitoring and management of electromagnetic interference affecting the PRS service;
+
+56.  Management of any event affecting the security of the PRS;
+
+57.  Oral communication and encrypted data exchanges, particularly with users and the Security Centre;
+
+58.  Management of interfaces with PRS users.
+
+59.  Each Competent PRS Authority shall draw up detailed operational requirements to enable this Decision to be properly applied, with particular regard to the various user categories.
+
+60.  Each Competent PRS Authority shall have the means (in particular jamming or masking) to detect, locate, mitigate or neutralise any electromagnetic interference which would be considered a threat to the system or its services.
+
+61.  Each Competent PRS Authority shall keep the Security Centre constantly informed regarding the user categories for which it is responsible, as well as the security modules associated with each category.
+
+62.  Since any incident affecting the security of the PRS (such as the loss or theft of a receiver) must be notified, each Competent PRS Authority shall implement methods of detecting and rectifying the incident and of reporting it to the Security Centre.
+
+63.  The Competent PRS Authorities shall assess the risks associated with the performance of their tasks and shall take appropriate corrective and preventive action.
+
+64.  For the manufacture of PRS receivers or security modules, the Competent PRS Authorities shall refer to the technical arrangements and procedures set out in the following documents:
+
+65.  PRS receiver security requirements (SSRS-PRS);
+
+66.  PRS receiver interconnection security requirements (SSIRS-PRS);
+
+67.  PRS receiver concept of operations (Conops-PRS);
+
+68.  operational procedures for use of the secure PRS receivers (Secops-PRS);
+
+69.  protection profile for the PRS security module (PP-PRS-SM).
+
+70.  A Competent PRS Authority may not modify the software or electronic circuits of a security module unless it has obtained the prior agreement of the Security Centre.
+
+[1] OJ L 196, 24.7.2008, p. 1. Regulation (EC) No 683/2008 of the European Parliament and of the Council of 9 July 2008 on the further implementation of the European satellite navigation programmes (EGNOS and Galileo).
+
+[2] OJ L 246, 20.07.2004, p. 30. Council Joint Action 2004/552/CFSP of 12 July 2004 on aspects of the operation of the European satellite radio-navigation system affecting the security of the European Union.
+
+[3] OJ L 138, 21.5.2002, p.1. Council Regulation (EC) No 876/2002 of 21 May 2002 setting up the Galileo Joint Undertaking.
+
+[4] OJ L 101, 21.04.2009, p. 22. Commission Decision of 20 April 2009 establishing an expert group on the security of the European GNSS systems.
+
+[5] OJ C , , p. .
+
+[6] OJ C , , p. .
+
+[7] OJ L 196, 24.7.2008, p. 1.
+
+[8] OJ L 246, 20.7.2004, p. 30.
+
+[9] OJ L xxx, aa.bb.2010, p. tt.
+
+[10] OJ L 134, 29/05/2009, p. 1.

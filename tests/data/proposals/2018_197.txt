@@ -1,0 +1,1971 @@
+@import url(./../../../../css/com/com-c.css)
+
+EUROPEAN COMMISSION
+
+Strasbourg, 29.5.2018
+
+COM(2018) 372 final
+
+2018/0197(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the European Regional Development Fund and on the Cohesion Fund
+
+{SEC(2018) 268 final}
+
+{SWD(2018) 282 final}
+
+{SWD(2018) 283 final}
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+On 2 May 2018, the Commission adopted a proposal for the next multi-annual financial framework for the period 2021-2027
+
+. This includes the European Regional Development Fund ('ERDF') and the Cohesion Fund.
+
+Administrative simplification has been defined as a key objective in reflection paper on EU finances as well as the ex post evaluation and the public consultation. Experience suggests that the rules are overcomplex and fragmented, leading to an unnecessary burden on programme managers and final beneficiaries.
+
+To enable consistency
+
+with other EU policies under shared management, the rules on delivery and implementation of ERDF and the Cohesion Fund are governed as far as possible by the Common Provisions Regulation ('CPR'). This sets out common provisions for seven shared management funds at the EU level:
+
+·
+
+CF:
+
+Cohesion Fund
+
+·
+
+EMFF:
+
+European Maritime and Fisheries Fund
+
+·
+
+ERDF:
+
+European Regional Development Fund
+
+·
+
+ESF+:
+
+European Social Fund Plus
+
+·
+
+AMIF:
+
+Asylum and Migration Fund
+
+·
+
+ISF:
+
+Internal Security Fund
+
+·
+
+BMVI:
+
+Border Management and Visa Instrument
+
+To enable consistency with Horizon Europe, this latter will focus on "European excellence" (the generation and exploitation of new knowledge) while ERDF will focus on "regional relevance" (diffusion of existing knowledge and technology to places that need it, embedding it locally via smart specialization strategies).
+
+To enable consistency with the Connecting Europe Facility (CEF), there is enhanced synergy and complementarity where the CEF will focus in particular on the "core network" while the  the ERDF and the Cohesion Fund will also provide support for the "comprehensive network", including ensuring regional and local access thereto as well as transport connections within urban areas.
+
+To simplify and clarify the legislation, this Regulation defines provisions applicable to both ERDF and Cohesion Fund intervening under the "Investment for jobs and growth" goal and, with regard to the ERDF, under the "European territorial cooperation" goal (Interreg).
+
+However, due to the specific nature of programmes under the "European territorial cooperation" goal (Interreg) which involve several Member States and third countries, a specific regulation on the "European territorial cooperation" goal (Interreg) Regulation sets out specific rules additional to the Common Provisions Regulation and this Regulation.
+
+This proposal provides for a date of application as of 1 January 2021 and are presented for a Union of 27 Member States, in line with the notification by the United Kingdom of its intention to withdraw from the European Union and Euratom based on Article 50 of the Treaty on European Union received by the European Council on 29 March 2017.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+EU action is justified by Article 174 of The Treaty on the Functioning of the European Union ('TFEU'): "The Union shall develop and pursue its actions leading to the strengthening of its economic, social and territorial cohesion. In particular, the Union shall aim at reducing disparities between the levels of development of the various regions and the backwardness of the least favoured regions".
+
+The aims of the ERDF are set out in Article 176 TFEU: "The European Regional Development Fund is intended to help to redress the main regional imbalances in the Union through participation in the development and structural adjustment of regions whose development is lagging behind and in the conversion of declining industrial regions".
+
+The aims of the Cohesion Fund are set out in Article 177 TFEU: "A Cohesion Fund set up in accordance with the same procedure shall provide a financial contribution to projects in the fields of environment and trans-European networks in the area of transport infrastructure".
+
+In addition, Article 174 TFEU mandates particular attention to rural areas, areas affected by industrial transition, and regions which suffer from severe and permanent natural or demographic handicaps such as the northernmost regions with very low population density and island, cross-border and mountain regions.
+
+Article 349 TFEU mandates specific measures to take account of the structural social and economic situation of the outermost regions, which is compounded by certain specific features that severely restrain their development.
+
+Subsidiarity and proportionality
+
+The impact assessment
+
+identified various reasons why action at EU level adds value to action at national level. These include:
+
+·
+
+In many countries, the ERDF and the Cohesion Fund represent at least 50% of public investment – these Member States would not otherwise have the
+
+financial capacity to make such investments
+
+.
+
+·
+
+There are significant potential
+
+spillovers
+
+across national and regional boundaries, for example for investments in innovation and SMEs. The EU level has an important role in delivering these spillovers and preventing underinvestment. Moreover, investments need to be designed to maximise spillovers.
+
+·
+
+In most regions, including more developed ones,
+
+smart specialisation strategies
+
+(RIS3) represent a consistent strategic framework for investments and bring about high added value. These were triggered by the strategic programming requirement for ERDF support and the corresponding pre-condition. In fact, the benefits of such strategies tend to be highest in the most developed regions (particularly in the Nordic countries, Austria, Germany, Benelux and France).
+
+·
+
+Promotion of EU priorities
+
+, including structural reforms of labour market, transport, environment, climate change adaptation and mitigation, energy, education and social policies and programmes, as well as administrative modernisation.
+
+·
+
+The ERDF and the Cohesion Fund deliver
+
+tangible results in areas which matter to European citizens
+
+- "The EU budget helps to deliver on the things that matter for Europeans"
+
+. Helping regions adapt to the challenge of globalisation, creating 420,000 jobs and supporting 1.1 million SMEs
+
+, tackling urban poverty – all these are priorities for Europeans. It is noteworthy that many of these results are particularly evident outside the cohesion countries.
+
+Moreover, the policy choices in the Regulation are proportionate, for reasons including:
+
+·
+
+Shared management: programmes are not managed directly by the European Commission, but
+
+instead implemented in partnership with the Member States.
+
+·
+
+The combined rules (the associated CPR plus this Regulation) are substantially simpler and
+
+consolidated compared to the previous period.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+Ex post
+
+evaluation
+
+In terms of the strategy, priorities and impact of the policy, the ex post evaluation noted:
+
+·
+
+Support to SMEs has high potential impact. However, s
+
+upport should focus more on helping dynamic SMEs grow, on smart specialisation strategies and facilitating regions to move up the economic chain, rather than trying to maintain the economy of the past.
+
+·
+
+Certain activities tend to have low impact, such as support to large enterprises (the most effective strategy to attract large enterprises is not through financial incentives but by improving local conditions such as the local business environment, etc.).
+
+Similarly, a
+
+irport investments have tended to perform poorly – only in the outermost regions can a strong case be made.
+
+·
+
+High added value contributions in themes such as the low carbon economy, sustainable urban development and regional co-operation.
+
+These issues have been taken on board in the present ERDF and the Cohesion Fund Regulation which:
+
+·
+
+Maintains thematic concentration, with the top priorities: support to innovation, digital economy and SMEs delivered through a smart specialisation strategy;
+
+the low carbon and circular economy in line with the overall 25 % commitment for the climate objective.
+
+·
+
+Makes a list of activities not to be supported, including direct support to large enterprises, airport infrastructure (outside the outermost regions) and some waste management operations (e.g. landfills).
+
+·
+
+Further develops regional cooperation and sustainable urban development.
+
+In addition, the
+
+ex post
+
+evaluation had various lessons for the delivery system (including simplification, flexibility, financial instruments). These are taken on board in the CPR.
+
+Stakeholder consultation
+
+An online public consultation took place between 10 January and 9 March 2018. The consultation covered cohesion policy, i.e. ERDF and the Cohesion Fund combined with ESF.
+
+·
+
+In terms of the most important challenges, the largest proportion (94% of respondents) identified ‘reducing regional disparities’ as very important or rather important, followed by ‘reducing unemployment, quality jobs and labour mobility’ and ‘promoting social inclusion and combating poverty’ (91%).
+
+·
+
+On the challenges, ‘Fostering research and innovation’ was regarded as the most successfully addressed (by 61%), followed by ‘territorial cooperation’ (59%).
+
+·
+
+Some 76% of respondents considered that the funds add value to a large or fairly large extent and under 2% that they have no added-value at all.
+
+·
+
+For preventing the achievement of objectives, complex procedures were seen by a long way as the most important obstacle (86%), followed by audit and control procedures (68%), and lack of flexibility to react to unforeseen circumstances (60%).
+
+·
+
+For simplification, the most frequent choice was ‘fewer, clearer, shorter rules’ (90%), followed by ‘alignment of rules between EU funds’ (79%) and ‘increased flexibility’, in terms of allocating resources both to and within a programme area (76-77%).
+
+In answering the open questions, respondents on balance strongly supported:
+
+·
+
+Cohesion policy for all regions (though with a continued focus on the less developed).
+
+·
+
+Policy innovation, including smart specialisation strategies and smart investment more generally.
+
+·
+
+The continuation and development of thematic concentration.
+
+·
+
+A focus on local challenges (especially sustainable urban development).
+
+·
+
+Interregional cooperation, both cross-border and across Europe. Co-operation at the EU level is essential for smart specialisation – innovation in high tech sectors often depends on exchanges and spill-overs from cooperation between clusters or knowledge hubs across Europe.
+
+These issues are addressed in the ERDF and the Cohesion Fund Regulation which:
+
+·
+
+Continues to focus on tackling regional disparities and the challenges facing regions across Europe.
+
+·
+
+Continues and enhances thematic concentration on smart growth via smart specialisation strategies and on the low-carbon and circular economy.
+
+·
+
+Maintains support for inter-regional cooperation, extending this to smart specialisation.
+
+·
+
+Promotes local development based on integrated territorial and local strategies and encourages sustainable urban development as well as capacity building in this field.
+
+In addition, the CPR Regulation will provide a framework for the ERDF and the Cohesion Fund to:
+
+·
+
+Simplify the complex procedures associated with the ERDF and Cohesion Fund.
+
+·
+
+Increase flexibility to respond to emerging challenges.
+
+·
+
+Align rules between the various EU funds covered.
+
+Impact assessment
+
+This proposal is supported by an impact assessment. However, the main options and preferred option can only be finalised and the economic impacts assessed once the financial envelopes and allocation mechanism are decided.
+
+The options deal with a 7% reduction in the budget by:
+
+·
+
+Option 1: A cut across the board
+
+·
+
+Option 2: Reducing the contribution to the more developed regions.
+
+·
+
+Option 3: Maintaining support in key areas (thematic concentration) and reduction in other themes.
+
+Option 3 is the preferred option, for reasons including:
+
+·
+
+To maintain a focus on the themes of highest EU added value, where evaluation evidence suggests the policy has had the highest impact.
+
+·
+
+Many of the greatest challenges (globalisation and economic transformation, transition to the low carbon and circular economy, environmental challenges, migration and pockets of urban poverty) increasingly affect many regions across the EU, including more developed ones. EU investment is both necessary and a sign of solidarity.
+
+·
+
+Maintaining critical mass - investments in the more developed regions are already small in per capita terms.
+
+·
+
+A vast majority of stakeholders in the public consultation support ERDF in all regions. This scenario ensures also better visibility of cohesion policy funds in all Member States.
+
+The report was submitted twice to the Regulatory Scrutiny Board and received the following comments:
+
+RSB opinion
+
+How addressed
+
+Round 1: Negative opinion
+
+(1)
+
+The report does not consider implications of reducing ERDF and CF funding capacities.
+
+(2)
+
+The report does not explain how changed objectives and allocation criteria
+
+would redirect the programme.
+
+(3)
+
+It does not consider possible (sub-) options for geographic coverage, regional eligibility and means for financial allocations under the ERDF/CF.
+
+(4)
+
+The report does not sufficiently explore implications of changes to the delivery mechanisms.
+
+(1) A 10% cut in funding is now modelled in section 3.2, using three different options.
+
+(2) The text and graphs of section 3.2 show how the programme would be redirected under the various options.
+
+(3) Three options for geographic and thematic allocations are outlined in section 3.2, with indications of the main line of redirection.
+
+(4) The chapter on delivery mechanisms has been developed along the lines requested by the RSB (see section on comment 8 below).
+
+Round 2: positive opinion, with the following reservations:
+
+(1) The content and the implications of the preferred option (thematic concentration) are not sufficiently clear. The revised report does not provide sufficient evidence that thematic concentration will contribute to reducing regional and national disparities.
+
+(2) The report does not spell out future modalities for the implementation of the 'Berlin method' for financial allocation and reasons for not considering alternative options.
+
+(3) The report does not describe the scope and the potential impacts of a European cross-border mechanism.
+
+(4) The report does not clarify the consistency/complementarity between the ERDF/CF and the new Reform Support Programme.
+
+(1) The content of all options is now spelled out on pages 28-29 and compared in tabular form in table 7. Figure 5 considers the thematic impact of the preferred option by Member State. The impacts of the various options on regional and national growth rates are examined and compared by the QUEST macroeconomic model in the text on pages 30-31 as well as in the numbers in table 9 and figures 6 and 7.
+
+(2) The Berlin method is now described in a box on page 29, along with the reasons for retaining this method and not considering alternative options.
+
+(3) The cross-border mechanism is described on pages 41-42. A report on potential impacts is quoted and the source footnoted.
+
+(4) The relationship with the reform support programme is now detailed on page 60.
+
+Simplification
+
+There is evidence of substantial administrative costs associated with the ERDF and the Cohesion Fund, estimated in a recent study
+
+at 3% of average programme costs for the ERDF and 2.2% for the Cohesion Fund. The administrative burden on beneficiaries (including SMEs) are higher.
+
+Most of the measures simplifying ERDF and Cohesion Fund will be created by the CPR. Many are difficult to quantify financially in advance, but the study estimated that:
+
+·
+
+Greater use of simplified cost options (or payments based on conditions) for the ERDF and the Cohesion Fund could substantially reduce total administrative costs – by 20-25% if these options are applied across the board.
+
+·
+
+The more proportionate approach to control and audits would imply a major reduction
+
+in the number of verifications and
+
+the audit burden for 'low risk' programmes. This would reduce total administrative costs of the ERDF and the Cohesion Fund by 2-3% and costs for affected programmes by a much greater amount.
+
+E-cohesion and data exchange
+
+The 2014-2020 programmes required a system of electronic data exchange between beneficiaries and managing authorities as well as between different authorities of the management and control system. This Regulation builds on this and develops further certain aspects in terms of gathering data. All data necessary for monitoring progress in implementation including results and performance of programmes will now be transmitted electronically and every two months, meaning the open data platform will be updated in almost real time.
+
+Beneficiary and operations data will similarly be made public in electronic form, on a website run by the managing authority.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The Commission's proposal for a multi-annual financial framework foresees an amount of EUR 273 billion for the ERDF and the Cohesion Fund for the period 2021-2027.
+
+ERDF and CF envelope for 2021-2027 in millions
+
+ERDF and CF total
+
+241 978
+
+European Regional Development Fund (ERDF)
+
+200 629
+
+·
+
+Investment for jobs and growth
+
+190 752
+
+·
+
+European territorial cooperation
+
+8 430
+
+·
+
+Outermost regions and sparsely populated areas
+
+1 447
+
+Cohesion Fund (CF)
+
+41 349
+
+·
+
+of which contribution to CEF Transport
+
+10 000
+
+5.
+
+SUMMARY OF THE CONTENT OF THE REGULATION
+
+Much of the delivery and implementation of the ERDF and the Cohesion Fund is covered in the CPR. This Regulation should therefore be seen in that context and the main focus is on key strategic issues, notably:
+
+·
+
+The main priorities and themes targeted.
+
+·
+
+The indicator framework to track this.
+
+·
+
+The approach to specific territories, including sustainable urban development, as well as the outermost regions.
+
+Chapter I – Common provisions
+
+Intervention approach
+
+The ERDF and the Cohesion Fund Regulation takes the policy objectives set in the CPR and develops them into specific objectives of relevance to the ERDF and the Cohesion Fund, which can be tracked with appropriate indicators.
+
+It also defines a limited list of non-eligible activities that fall outside the intervention scope of the Funds. The scope of the Funds and the list of non-eligible activities aim to ensure that investment support is consistent with evaluation evidence and with the political and sustainability objectives of the European Union: landfills, airport infrastructure, the tobacco industry, decommissioning of nuclear facilities will not be supported.
+
+Thematic concentration
+
+In order to ensure that, in a context of budget reduction, there is still a critical mass of investment, the ERDF and the Cohesion Fund Regulation maintains requirements for thematic concentration. The majority (65% to 85%) of resources will be concentrated on contributing to the policy objectives which evaluation evidence and the impact assessment suggest have the highest added value, as well as the greatest contribution to EU priorities:
+
+·
+
+PO1:"a smarter Europe by promoting innovative and smart economic transformation";
+
+·
+
+PO2: "a greener, low-carbon Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate adaptation and risk prevention and management".
+
+In order to enable flexibility, thematic concentration criteria will apply at national level.
+
+For countries with:
+
+minimum % "PO1"
+
+minimum % "PO2"
+
+GNI below 75%
+
+35%
+
+30%
+
+GNI 75-100%
+
+45%
+
+30%
+
+GNI above 100%
+
+60%
+
+not applicable
+
+PO1 and PO2 min. 85%
+
+Indicators
+
+In order to ensure consistent monitoring of progress towards performance the Regulation also maintains and refines the common set of output indicators, while adding for the first time a common set of results indicators. These latter enable reporting results in real time on the Open Data Platform and comparison across programmes and Member States. They will also feed into discussions on performance and successful evaluations and facilitate tracking for obligations related to EU legislation.
+
+Evaluations will be carried out in line with paragraphs 22 and 23 of the Interinstitutional Agreement of 13 April 2016
+
+, where the three institutions confirmed that evaluations of existing legislation and policy should provide the basis for impact assessments of options for further action. The evaluations will assess programme effects on the ground based on the programme indicators/targets and a detailed analysis of the degree to which the programme is relevant, effective, efficient, provides EU added value and is coherent with other EU policies.
+
+Evaluations will include lessons learned, problems and opportunities to further improve the actions and their impacts.
+
+Chapter II – Specific provisions on the treatment of particular territorial features
+
+The Regulation also provides for an increased focus on sustainable urban development by dedicating 6% of ERDF resources to this area, delivered through territorial instruments. Integrated territorial and local development strategies are expected to ensure coherence in interventions. In order to facilitate and support capacity building of actors, innovative actions, knowledge, policy development and communication in the area of sustainable urban development, the Regulation also provides for the setting up of a European Urban Initiative to be managed by the Commission.
+
+All urban tools are combined in a single programme (the European Urban Initiative) implemented under direct or indirect management to provide a coherent product to cities. This includes exchanges, capacity building, pilot actions, and communication.
+
+The Regulation also sets out special measures to accommodate the specific situation of outermost regions. These include schemes to offset transport costs and investments. The thematic concentration requirements are also less stringent for these regions than the nationally applicable rates would suggest.
+
+2018/0197 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the European Regional Development Fund and on the Cohesion Fund
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular the second paragraph of Article 177, Article 178 and Article 349 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+,
+
+Having regard to the opinion of the Committee of the Regions
+
+,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+Article 176 of the Treaty on the Functioning of the European Union ('TFEU') provides that the European Regional Development Fund ('ERDF') is intended to help to redress the main regional imbalances in the Union. Under that Article and the second and third paragraphs of Article 174 of the TFEU, the ERDF is to contribute to reducing disparities between the levels of development of the various regions and to reducing the backwardness of the least favoured regions, among which particular attention is to be paid to regions which suffer from severe and permanent natural or demographic handicaps such as the northernmost regions with very low population density and island, cross-border and mountain regions.
+
+(2)
+
+The Cohesion Fund was set up in order to contribute to the overall objective of strengthening economic, social and territorial cohesion of the Union by providing financial contributions in the fields of environment and trans-European networks in the area of transport infrastructure ('TEN-T'),
+
+as set out in Regulation (EU) No 1315/2013
+
+of the European Parliament and of the Council
+
+.
+
+(3)
+
+Regulation (EU) 2018/XXX of the European Parliament and of the Council [new CPR]
+
+sets out common rules applicable to various funds including the European Regional Development Fund ('ERDF'), the European Social Fund Plus ('ESF+'), the Cohesion Fund, the European Maritime and Fisheries Fund ('EMFF'),
+
+the
+
+Asylum and Migration Fund ('AMIF'), the Internal Security Fund ('ISF') and the Border Management and Visa Instrument ('BMVI')
+
+which operate under a common framework ('the Funds').
+
+(4)
+
+In order to simplify the rules applicable to both the ERDF and the Cohesion Fund for the 2014-2020 programming period, a single Regulation should set out the applicable rules covering both funds.
+
+(5)
+
+Horizontal principles as set out in Article 3 of the Treaty on European Union ('TEU') and in Article 10 of the TFEU, including principles of subsidiarity and proportionality as set out in Article 5 of the TEU, should be respected in the implementation of the ERDF and the Cohesion Fund, taking into account the Charter of Fundamental Rights of the European Union. Member States should also respect the obligations of the UN Convention on the Rights of Persons with Disabilities and ensure accessibility in line with its article 9 and in accordance with the Union law harmonising accessibility requirements for products and services. Member States and the Commission should aim at eliminating inequalities and at promoting equality between men and women and integrating the gender perspective, as well as at combating discrimination based on sex, racial or ethnic origin, religion or belief, disability, age or sexual orientation. The Funds should not support actions that contribute to any form of segregation. The objectives of the ERDF and the Cohesion Fund should be pursued in the framework of sustainable development and the Union's promotion of the aim of preserving, protecting and improving the quality of the environment as set out in Articles 11 and 191(1) of the TFEU, taking into account the polluter pays principle. In order to protect the integrity of the internal market, operations benefitting undertakings shall comply with State aid rules as set out in Articles 107 and 108 of the TFEU.
+
+(6)
+
+It is necessary to cover provisions for the ERDF for its support both to the Investment for jobs and growth goal and the European territorial cooperation goal (Interreg) (‘ETC/Interreg’).
+
+(7)
+
+In order to identify the type of activities which can be supported by the ERDF and the Cohesion Fund, specific policy objectives for providing support from those funds should be laid down to ensure that they contribute to one or more of common policy objectives set out in Article 4(1) of Regulation (EU) 2018/xxx [new CPR] .
+
+(8)
+
+In an increasingly interconnected world and in view of the demographic and migration dynamics, it is clear that Union migration policy requires a common approach that relies on the synergies and complementarities of the different funding instruments. In order to ensure coherent, strong and consistent support for solidarity and responsibility-sharing efforts between Member States in managing migration, the ERDF should provide support to facilitate the long-term integration of migrants.
+
+(9)
+
+In order to support the efforts of Member States and regions in facing new challenges and ensuring a high level of security for their citizens as well as the prevention of radicalisation, while relying on the synergies and complementarities with other Union policies, investments under the ERDF should contribute to security in areas where there is a need to ensure safe and secure public spaces and critical infrastructure, such as transport and energy.
+
+(10)
+
+In addition, investments under the ERDF should contribute to the development of a comprehensive high-speed digital infrastructure network, and to
+
+promoting clean and sustainable multimodal urban mobility.
+
+(11)
+
+As a result of the overall aim of the Cohesion Fund provided for in the TFEU, it is necessary to set out and limit the specific objectives to which the Cohesion Fund should support.
+
+(12)
+
+In order to improve the overall administrative capacity of institutions and governance in Member States implementing programmes under the Investment for jobs and growth goal, it is necessary to enable supporting measures under all of the specific objectives.
+
+(13)
+
+In order to encourage and boost cooperation measures, within programmes implemented under the Investment for jobs and growth goal, it is necessary to enhance cooperation measures with partners within a given Member State or between different Member States in relation to support provided under all of the specific objectives. Such enhanced cooperation is additional to the cooperation under ETC/Interreg and should in particular support cooperation among structured partnerships with a view to implementing regional strategies as referred to in the Communication from the Commission ‘Strengthening Innovation in Europe's Regions: Strategies for resilient, inclusive and sustainable growth’
+
+. Partners may therefore come from any region in the Union, but may also include cross-border regions and regions which are all covered by a macro-regional or sea-basin strategy or a combination of the two.
+
+(14)
+
+Reflecting the importance of tackling climate change in line with the Union's commitments to implement the Paris Agreement and the United Nations Sustainable Development Goals, the Funds will contribute to mainstream climate actions and to the achievement of an overall target of 25 % of the EU budget expenditure supporting climate objectives. Operations under the ERDF are expected to contribute 30 % of the overall financial envelope of the ERDF to climate objectives.
+
+Operations under the Cohesion Fund are expected to contribute 37% of the overall financial envelope of the Cohesion Fund to climate objectives.
+
+(15)
+
+In order to enable the ERDF to provide support under ETC/Interreg in terms of both investments in infrastructure and the associated investments, training and integration activities, it is necessary to provide that the ERDF may also provide support for activities under the specific objectives of the ESF+, set up under Regulation (EU) 2018/XXX of the European Parliament and of the Council [new ESF+]
+
+.
+
+(16)
+
+In order to concentrate the use of limited resources in the most efficient way, the support given to by the ERDF to productive investments under the relevant specific objective, should be limited to only micro, small and medium-sized enterprises ('SMEs') within the meaning of Commission Recommendation 2003/361/EC
+
+, except where investments involve cooperation with SMEs in research and innovation activities.
+
+(17)
+
+The ERDF should help to redress the main regional imbalances in the Union and to reduce disparities between the levels of development of the various regions and the backwardness of the least favoured regions including those facing challenges due to the decarbonisation commitments. ERDF support under the Investment for jobs and growth goal should therefore be concentrated on key Union priorities in line with policy objectives laid down in Regulation (EU) 2018/xxx [new CPR]. Therefore support from the ERDF should be concentrated on the policy objectives of 'a smarter Europe by promoting innovative and smart economic transformation' and 'a greener, low-carbon Europe by promoting clean and fair energy transition, green and blue
+
+investment, the circular economy, climate adaptation and risk prevention and management'. That thematic concentration should be attained at national level while allowing for flexibility at the level of individual programmes and between the three groups of Member States formed according to respective gross national income. In addition, the methodology to classify Member States should be set out in detail taking into account the specific situation of the outermost regions.
+
+(18)
+
+In order to concentrate the support on key Union priorities, it is also appropriate that thematic concentration requirements should be respected throughout the programming period, including in the case of transfer between priorities within a programme or between programmes.
+
+(19)
+
+This Regulation should set out the different types of activities the costs of which may be supported by means of investments from the ERDF and the Cohesion Fund, under their respective objectives as set out in the TFEU. The Cohesion Fund should be able to support investments in the environment and in TEN-T. With regard to the ERDF, the list of activities should be simplified and it should be able to support investments in infrastructure, investments in relation to access to services, productive investments in SME's, equipment, software and intangible assets, as well as measures with regard to information, communication, studies, networking, cooperation, exchange of experiences and activities involving clusters. In order to support the programme implementation, both funds should also be able to support technical assistance activities. Finally, in order to support provide for a broader range of interventions for Interreg programmes, the scope should be enlarged to also include the sharing a broad range of facilities and human resources and costs linked to measures within the scope of the ESF+.
+
+(20)
+
+Trans-European transport networks projects in accordance with Regulation (EU) No 1316/2013 shall continue to be financed from the Cohesion Fund via both shared management and the direct implementation mode under the Connecting Europe Facility ('CEF').
+
+(21)
+
+At the same time, it is important to clarify those activities which fall outside the scope of the ERDF and the Cohesion Fund, including investments to achieve the reduction of greenhouse gas emissions from activities listed in Annex I to Directive 2003/87/EC of the European Parliament and of the Council
+
+in order to avoid duplication of available financing, which already exists as part of that Directive. In addition, it should be explicitly set out that the overseas countries and territories listed in Annex II of the TFEU are not eligible for support from the ERDF and the Cohesion Fund.
+
+(22)
+
+Member States should regularly transmit to the Commission information on the progress made using the common output and result indicators set out in Annex I. Common output and result indicators could be complemented, where necessary by programme-specific output and result indicators. The information provided by the Member States should be the basis on which the Commission should report on the progress towards the achievement of specific objectives over the whole programming period using for this purpose a core set of indicators set out in Annex II.
+
+(23)
+
+Pursuant to paragraph 22 and 23 of the Inter-institutional agreement for Better Law-Making of 13 April 2016, there is a need to evaluate the Funds on the basis of
+
+information collected through specific monitoring requirements, while avoiding overregulation and administrative burdens, in particular on Member States. These requirements, where appropriate, can include measurable indicators, as a basis for evaluating the effects of the Funds on the ground.
+
+(24)
+
+In order to maximise the contribution to territorial development, actions in this field should be based on integrated territorial strategies including in urban areas. Therefore, the ERDF support should be delivered through the forms set out in Article 22 of Regulation (EU) 2018/xxxx [new CPR] ensuring appropriate involvement of local, regional and urban authorities.
+
+(25)
+
+Within the framework of sustainable urban development, it is considered necessary to support integrated territorial development in order to more effectively tackle the economic, environmental, climate, demographic and social challenges affecting urban areas, including functional urban areas, while taking into account the need to promote urban-rural linkages. The principles for selecting the urban areas where integrated actions for sustainable urban development are to be implemented, and the indicative amounts for those actions, should be set out in the programmes under the Investment for jobs and growth goal with a minimum target of 6% of the ERDF resources allocated at national level for that purpose. It should also be established that this percentage should be respected throughout the programming period in the case of transfer between priorities within a programme or between programmes, including at the mid-term review.
+
+(26)
+
+In order to identify or provide solutions which address issues relating to sustainable urban development at Union level, the Urban Innovative Actions in the area of sustainable urban development should be replaced by a European Urban Initiative, to be implemented under direct or indirect management. That initiative should cover all urban areas and support the Urban Agenda for the European Union
+
+.
+
+(27)
+
+Specific attention should be paid to outermost regions, namely by adopting measures under Article 349 of the TFEU providing for an additional allocation for the outermost regions to offset the additional costs incurred in these regions as a result of one or several of the permanent restraints referred to in Article 349 of the TFEU, namely remoteness, insularity, small size, difficult topography and climate, economic dependence on a few products, the permanence and combination of which severely restrain their development. This allocation can cover investments, operating costs and public service obligations aimed at offsetting additional costs caused by such restraints. O
+
+perating aid may cover
+
+expenditure on freight transport services and start-up aid for transport services as well as expenditure on operations linked to storage constraints, the excessive size and maintenance of production tools, and the lack of human capital in the local market. In
+
+order to protect the integrity of the internal market, and as is the case for all operations co-financed by the ERDF and the Cohesion Fund, any ERDF
+
+support to the financing of operating and investment aid in the outermost regions
+
+should comply with State aid rules as set out in Articles 107 and 108 of the TFEU.
+
+(28)
+
+In order to amend certain non-essential elements of this Regulation, the power to adopt acts in accordance with Article 290 of the TFEU should be delegated to the Commission in respect of
+
+making adjustments, where justified, to the Annex II which sets out list of
+
+indicators used as a basis t
+
+o provide information to the European Parliament and to the Council on performance of programmes
+
+. It is of particular
+
+importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement on Better Law-Making of 13 April 2016
+
+. In particular, in order to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States’ experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
+
+(29)
+
+Since the objective of this Regulation, namely to reinforce economic, social and territorial cohesion by redressing the main regional imbalances in the Union, cannot be sufficiently achieved by the Member States but can rather, by reason of the extent of the disparities between the levels of development of the various regions and the backwardness of the least favoured regions and the limit on the financial resources of the Member States and regions, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the TEU. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective,
+
+HAVE ADOPTED THIS REGULATION:
+
+CHAPTER I
+
+Common provisions
+
+Article 1
+
+Subject matter
+
+1.
+
+This Regulation sets out the specific objectives and the scope of support from the European Regional Development Fund ('ERDF') with regard to the Investment for jobs and growth goal and the European territorial cooperation goal (Interreg) referred to in Article [4(2)] of Regulation (EU) 2018/xxxx [new CPR].
+
+2.
+
+This Regulation also sets out the specific objectives and the scope support from the Cohesion Fund with regard to the Investment for jobs and growth goal ('the Investment for jobs and growth goal') referred to in [point (a) of Article 4(2)] of Regulation (EU) 2018/xxxx [new CPR].
+
+Article 2
+
+Specific objectives for the ERDF and the Cohesion Fund
+
+1.
+
+In accordance with the policy objectives set out in Article [4(1)] of Regulation (EU) 2018/xxxx[new CPR], the ERDF shall support the following specific objectives:
+
+(a)
+
+'a smarter Europe by promoting innovative and smart economic transformation
+
+' (
+
+'PO
+
+1
+
+'
+
+) by:
+
+(i)
+
+enhancing research and innovation capacities and the uptake of advanced technologies;
+
+(ii)
+
+reaping the benefits of digitisation for citizens, companies and governments;
+
+(iii)
+
+enhancing growth and competitiveness of SMEs;
+
+(iv)
+
+developing skills for smart specialisation, industrial transition and entrepreneurship;
+
+(b)
+
+'a greener, low-carbon Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate adaptation and risk prevention and management ('PO 2') by:
+
+(i)
+
+promoting energy efficiency measures;
+
+(ii)
+
+promoting renewable energy;
+
+(iii)
+
+developing smart energy systems, grids and storage at local level;
+
+(iv)
+
+promoting climate change adaptation, risk prevention and disaster resilience;
+
+(v)
+
+promoting sustainable water management;
+
+(vi)
+
+promoting the transition to a circular economy;
+
+(vii)
+
+enhancing biodiversity, green infrastructure in the urban environment, and reducing pollution;
+
+(c)
+
+'a more connected Europe by enhancing mobility and regional ICT connectivity' ('PO 3') by:
+
+(i)
+
+enhancing digital connectivity;
+
+(ii)
+
+developing a sustainable, climate resilient, intelligent, secure and intermodal TEN-T;
+
+(iii)
+
+developing sustainable, climate resilient, intelligent and intermodal national, regional and local mobility, including improved access to TEN-T and cross-border mobility;
+
+(iv)
+
+promoting sustainable multimodal urban mobility;
+
+(d)
+
+'a more social Europe implementing the European Pillar of Social Rights' ('PO 4') by:
+
+(i)
+
+enhancing the effectiveness of labour markets and access to quality employment through developing social innovation and infrastructure;
+
+(ii)
+
+improving access to inclusive and quality services in education, training and life long learning through developing infrastructure;
+
+(iii)
+
+increasing the socioeconomic integration of marginalised communities, migrants and disadvantaged groups, through integrated measures including housing and social services;
+
+(iv)
+
+ensuring equal access to health care through developing infrastructure, including primary care;
+
+(e)
+
+'a Europe closer to citizens by fostering the sustainable and integrated development of urban, rural and coastal areas and local initiatives' ('PO 5') by:
+
+(i)
+
+fostering the integrated social, economic and environmental development, cultural heritage and security in urban areas;
+
+(ii)
+
+fostering the integrated social, economic and environmental local development, cultural heritage and security, including for rural and coastal areas also through community-led local development.
+
+2.
+
+The Cohesion Fund shall support PO 2 and specific obejctives under PO 3 set out in points (ii), (iii) and (iv) of paragraph 1(c).
+
+3.
+
+With regard to the specific objectives set out in parargraph 1, the ERDF or the Cohesion Fund, as appropriate, may also support activities under the Investment for jobs and growth goal, where they either:
+
+(a)
+
+improve the capacity of programme authorities, and bodies linked to the implementation of the Funds;
+
+(b)
+
+enhance cooperation with partners both within and outside a given Member State.
+
+Cooperation referred to in point (b) shall include cooperation with partners from cross-border regions, from non-contiguous regions or from regions located in the territory covered by a macro-regional or sea-basin strategy or a combination thereof.
+
+Article 3
+
+Thematic concentration of ERDF support
+
+1.
+
+With regard to programmes implemented under the Investment for jobs and growth goal, the total ERDF resources in each Member State shall be concentrated at national level in accordance with paragraphs 3 and 4.
+
+2.
+
+With regard to the thematic concentration of support for Member States comprising outermost regions, the ERDF resources allocated specifically to programmes for the outermost regions and those allocated to all other regions shall be treated separately.
+
+3.
+
+Member States shall be classified, in terms of their gross national income ratio, as follows:
+
+(a)
+
+those with a gross national income ratio equal to or above 100 % of the EU average ('group 1');
+
+(b)
+
+those with a gross national income ratio equal to or above 75 % and below 100 % of the EU average ('group 2');
+
+(c)
+
+those with a gross national income ratio below 75 % of the EU average ('group 3').
+
+For the purposes of this Article, the gross national income ratio means the ratio between the gross national income
+
+per capita
+
+of a Member State, measured in purchasing power standards and calculated on the basis of Union figures for the period from 2014 to 2016, and the average gross national income per capita in purchasing power standards of the 27 Member States for that same reference period.
+
+With regard to programmes under the Investment for Jobs and growth goal for the outermost regions, they shall be classified as falling within group 3.
+
+4.
+
+Member States shall comply with the following thematic concentration requirements:
+
+(a)
+
+Member States of group 1 shall allocate at least 85 % of their total ERDF resources under priorities other than for technical assistance to PO 1 and PO 2, and at least 60 % to PO 1;
+
+(b)
+
+Member States of group 2 shall allocate at least 45 % of their total ERDF resources under priorities other than for technical assistance to PO 1, and at least 30 % to PO 2;
+
+(c)
+
+Member States of group 3 shall allocate at least 35 % of their total ERDF resources under priorities other than for technical assistance to PO 1, and at least 30 % to PO 2.
+
+5.
+
+The thematic concentration requirements set out in paragraph 4 shall be complied with throughout the entire programming period, including when ERDF allocations are transferred between priorities of a programme or between programmes and at the mid-term review in accordance with Article [14] of Regulation (EU) 2018/xxxx [new CPR].
+
+6.
+
+Where the ERDF allocation with regard to PO 1 or PO 2 or both of a given programme is reduced following a decommitment under Article [99] of Regulation (EU) 2018/xxxx [new CPR], or due to financial corrections by the Commission in accordance with Article [98] of that Regulation, compliance with the thematic concentration requirement set out in paragraph 4 shall not be re-assessed.
+
+Article 4
+
+Scope of support from the ERDF
+
+1.
+
+The ERDF shall support the following:
+
+(a)
+
+investments in infrastructure;
+
+(b)
+
+investments in access to services;
+
+(c)
+
+productive investments in SMEs;
+
+(d)
+
+equipment, software and intangible assets;
+
+(e)
+
+information, communication, studies, networking, cooperation, exchange of experience and activities involving clusters;
+
+(f)
+
+technical assistance.
+
+In addition, productive investments in enterprises other than SMEs can be supported when they involve cooperation with SMEs in research and innovation activities supported under point (a)(i) of Article 2 (1).
+
+In order to contribute to the specific objective under PO 1 set out in point (a) (iv) of Article 2(1), the ERDF shall also support training, life long learning and education activities.
+
+2.
+
+Under the European territorial cooperation goal (Interreg), the ERDF may also support:
+
+(a)
+
+sharing of facilities and of human resources;
+
+(b)
+
+accompanying soft investments and other activities linked to PO 4 under the European Social Fund Plus as set out in Regulation (EU) 2018/xxxx [new ESF+].
+
+Article 5
+
+Scope of support from the Cohesion Fund
+
+1.
+
+The Cohesion Fund shall support the following:
+
+(a)
+
+investments in the environment, including investments related to sustainable development and energy presenting environmental benefits;
+
+(b)
+
+investments in
+
+TEN-T
+
+;
+
+(c)
+
+technical assistance.
+
+Member States shall ensure an appropriate balance between investments under points (a) and (b).
+
+2.
+
+The amount of the Cohesion Fund transferred to the Connecting
+
+Europe Facility
+
+shall be used
+
+for TEN-T projects
+
+.
+
+Article 6
+
+Exclusion from the scope of the ERDF and the Cohesion Fund
+
+1.
+
+The ERDF and the Cohesion Fund shall not support:
+
+(a)
+
+the decommissioning or the construction of nuclear power stations;
+
+(b)
+
+investment to achieve the reduction of greenhouse gas emissions from activities listed in Annex I to Directive 2003/87/EC of the European Parliament and of the Council
+
+;;
+
+(c)
+
+the manufacturing, processing and marketing of tobacco and tobacco products;
+
+(d)
+
+undertakings in difficulty, as defined in point 18 of Article 2 of Commission Regulation (EU) No 651/2014
+
+;
+
+(e)
+
+investment in airport infrastructure except for outermost regions;
+
+(f)
+
+investment in disposal of waste in landfill;
+
+(g)
+
+investment in facilities for the treatment of residual waste;
+
+(h)
+
+investment related to production, processing, distribution, storage or combustion of fossil fuels, with the exception of investment related to clean vehicles as defined in Article 4 of Directive 2009/33/EC of the European Parliament and of the Council
+
+;
+
+(i)
+
+investment in broadband infrastructure in areas in which there are at least two broadband networks of equivalent category;
+
+(j)
+
+funding for the purchase of rolling stock for use in rail transport, except if it is linked to the:
+
+(i) discharge of a publicly tendered public service obligation under Regulation 1370/2007 as amended;
+
+(ii) provision of rail transport services on lines fully opened to competition, and the beneficiary is a new entrant eligible for funding under Regulation (EU) 2018/xxxx [Invest EU regulation].
+
+2.
+
+In addition, the Cohesion Fund shall not support investment in housing unless related to the promotion of energy efficiency or renewable energy use.
+
+3.
+
+Overseas countries and territories shall not be eligible for support from the ERDF or the Cohesion Fund, but may participate in Interreg programmes in accordance with the conditions set out in Regulation (EU) 2018/xxxx [ETC (Interreg].
+
+Article 7
+
+Indicators
+
+1.
+
+Common output and result indicators, as set out in the Annex I with regard to the ERDF and to the Cohesion Fund, and, where necessary, programme-specific output and result indicators shall be used in accordance with point (a) of the second subparagraph of Article [12(1)], point (d)(ii) of Article [17(3)] and point (b) of Article [37(2)] of Regulation (EU) 2018/xxxx [new CPR].
+
+2.
+
+For output indicators, baselines shall be set at zero. The milestones set for 2024 and targets set for 2029 shall be cumulative.
+
+3.
+
+In compliance with its reporting requirement pursuant to Article [38(3)(e)(i)] of the Financial Regulation, the Commission shall present to the European Parliament and the Council information on performance in accordance with Annex II.
+
+4.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 13 to amend Annex I in order to make the necessary adjustments to the list of indicators to be used by Member States and to amend Annex II in order to make the necessary adjustments to the information on performance to be provided to the European Parliament and the Council.
+
+CHAPTER II
+
+Specific provisions on the treatment of particular territorial features
+
+Article 8
+
+Integrated territorial development
+
+1.
+
+The ERDF may support integrated territorial development within programmes under both goals referred to in Article 4(2) of Regulation (EU) 2018/xxxx [new CPR] in accordance with Chapter II of Title III of that Regulation
+
+[new CPR]
+
+.
+
+2.
+
+Member States shall implement integrated territorial development, supported by the ERDF, exclusively through the forms referred to in Article [22] of Regulation (EU) 2018/xxxx [new CPR].
+
+Article 9
+
+Sustainable urban development
+
+1.
+
+The ERDF shall support integrated territorial development based on territorial strategies in accordance with Article [23] of Regulation (EU) 2018/xxxx [new CPR]
+
+focused on urban areas ('sustainable urban development') within programmes under both goals referred to in Article 4(2) of that Regulation.
+
+2.
+
+At least 6% of the ERDF resources at national level under the Investment for jobs and growth goal,
+
+other than for technical assistance,
+
+shall be allocated to sustainable urban development in the form of community-led local development, integrated territorial investments or another territorial tool under PO5.
+
+The programme or programmes concerned shall set out the planned amounts for this purpose under point (d)(vii) of Article [17(3)] of Regulation (EU) 2018/xxxx [new CPR].
+
+3.
+
+The percentage allocated to sustainable urban development under paragraph 2 shall be complied with throughout the entire programming period when ERDF allocations are transferred between priorities of a programme or between programmes, including at the mid-term review in accordance with Article [14] of Regulation (EU) 2018/xxxx [new CPR].
+
+4.
+
+Where the ERDF allocation is reduced following a decommitment under Article [99] of Regulation (EU) No [new CPR], or due to financial corrections by the Commission in accordance with Article [98] of that Regulation, compliance with paragraph 2 shall not be re-assessed.
+
+Article 10
+
+European Urban Initiative
+
+1.
+
+The ERDF shall also support the European Urban Initiative, implemented by the Commission in direct and indirect management.
+
+This initiative shall cover all urban areas and shall support the Urban Agenda of the Union.
+
+2.
+
+The European Urban Initiative shall consist of the following three strands, all with regard to sustainable urban development:
+
+(a)
+
+support of capacity-building;
+
+(b)
+
+support of innovative actions;
+
+(c)
+
+support of knowledge, policy development and communication.
+
+Upon request from one or more Member States, the European Urban Initiative may also support inter-governmental cooperation on urban matters.
+
+Article 11
+
+Outermost regions
+
+1.
+
+The specific additional allocation
+
+for the outermost regions
+
+shall be used to offset the additional costs
+
+incurred in these regions as a result of
+
+one or several of the permanent restraints to their development listed in Article 349 of the TFEU.
+
+2.
+
+The allocation referred to in paragraph 1 shall support:
+
+(a)
+
+the activities within the scope as set out in Article 4
+
+;
+
+(b)
+
+by way of derogation from Article 4, measures covering operating costs with
+
+a view to offsetting the additional costs incurred in the outermost regions as a
+
+result of one or several of the permanent restraints to their development listed in Article 349 of the TFEU.
+
+The allocation referred to in paragraph 1 may also support expenditure covering compensation granted for the provision of public service obligation and contracts in the outermost regions.
+
+3.
+
+The allocation, referred to in paragraph 1, shall not support:
+
+(a)
+
+operations involving products listed in Annex I to the TFEU;
+
+(b)
+
+aid for the transport of persons authorised under point (a) of Article 107(2) of the TFEU;
+
+(c)
+
+tax exemptions and exemption of social charges
+
+(d)
+
+p
+
+ublic services obligations not discharged by undertakings and where the State acts by exercising public power.
+
+CHAPTER III
+
+Final provisions
+
+Article 12
+
+Transitional provisions
+
+Regulations (EC) No 1300/2013 and 1301/2013 or any act adopted thereunder shall continue to apply to programmes and operations supported by the ERDF or the Cohesion Fund under the 2014-2020 programming period.
+
+Article 13
+
+Exercise of the delegation
+
+1.
+
+The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2.
+
+The power to adopt delegated acts referred to in Article 7(4) shall be conferred on the Commission for an indeterminate period of time from the date of the entry into force of this Regulation.
+
+3.
+
+The delegation of power referred to in Article 7(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the
+
+Official Journal of the European Union
+
+or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4.
+
+Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement on Better Law-Making of 13 April 2016
+
+.
+
+5.
+
+As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6.
+
+A delegated act adopted pursuant to Article 7(4) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+Article 14
+
+Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the
+
+Official Journal of the European Union
+
+.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Strasbourg,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+EUROPEAN COMMISSION
+
+Strasbourg, 29.5.2018
+
+COM(2018) 372 final
+
+ANNEX
+
+to the
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the European Regional Development Fund and on the Cohesion Fund
+
+{SEC(2018) 268 final}
+
+{SWD(2018) 282 final}
+
+{SWD(2018) 283 final}
+
+ANNEX I
+
+Common output and result indicators for the ERDF and the Cohesion Fund - Article 7(1)
+
+Table 1: Common output and result indicators for ERDF (Investment for jobs and growth and Interreg) and the Cohesion Fund**
+
+Policy objective
+
+Outputs
+
+Results
+
+(1)
+
+(2)
+
+(3)
+
+1. A smarter Europe by promoting innovative and smart economic transformation
+
+RCO
+
+01 - Enterprises supported (of which: micro, small, medium, large)
+
+*
+
+RCO 02 - Enterprises supported by grants
+
+*
+
+RCO 03 - Enterprises supported by financial instruments
+
+*
+
+RCO 04 - Enterprises with non-financial support
+
+*
+
+RCO 05 - Start-ups supported
+
+*
+
+RCO 06 - Researchers working in supported research facilities
+
+RCO 07 - Research institutions participating in joint research projects
+
+RCO 08 - Nominal value of research and innovation equipment
+
+RCO 10 - Enterprises cooperating with research institutions
+
+RCO 96 – Interregional investments in EU projects
+
+*
+
+RCR
+
+01 - Jobs created in supported entities
+
+*
+
+RCR 02 - Private investments matching public support (of which: grants, financial instruments)
+
+*
+
+RCR 03 – SMEs introducing product or process innovation
+
+*
+
+RCR 04 - SMEs introducing marketing or organisational innovation
+
+*
+
+RCR 05 - SMEs innovating in-house
+
+*
+
+RCR 06 - Patent applications submitted to European Patent Office
+
+*
+
+RCR 07 - Trademark and design applications
+
+*
+
+RCR 08 - Public-private co-publications
+
+RCO 12 - Enterprises supported to digitise their products and services
+
+RCO 13 - Digital services and products developed for enterprises
+
+RCO 14 - Public institutions supported to develop digital services and applications
+
+RCR 11 - Users of new public digital services and applications
+
+*
+
+RCR 12 - Users of new digital products, services and applications developed by enterprises
+
+*
+
+RCR 13 - Enterprises reaching high digital intensity
+
+*
+
+RCR 14 - Enterprises using public digital services
+
+*
+
+RCO 15 - Capacity of incubation created
+
+*
+
+RCR 16 - High growth enterprises supported
+
+*
+
+RCR 17 - 3-year-old enterprises surviving in the market
+
+*
+
+RCR 18 - SMEs using incubator services one year after the incubator creation
+
+RCR 19 - Enterprises with higher turnover
+
+RCR 25 - Value added per employee in supported SMEs
+
+*
+
+RCO 16 - Stakeholders participating in entrepreneurial discovery process
+
+RCO 17 - Investments in regional/ local ecosystems for skills development
+
+RCO 101 – SMEs investing in skills development
+
+RCO 102 - SMEs investing in training management systems
+
+*
+
+RCR 24 - SMEs benefiting
+
+from activities for skills development delivered by a local/ regional ecosystem
+
+RCR 97 – Apprenticeships supported in SMEs
+
+RCR 98 – SMEs staff completing Continuing Vocational Education and Training (CVET) (by type of skill: technical, management, entrepreneurship, green, other)
+
+RCR 99 – SMEs staff completing alternative training for knowledge intensive service activities (KISA) (by type of  skills: technical, management, entrepreneurship, green, other)
+
+RCR 100 – SMEs staff completing formal training for skills development (KISA) (by type of skills: technical, management, entrepreneurship, green, other)
+
+*
+
+2. A greener, low-carbon Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate adaptation and risk prevention and management
+
+RCO 18 - Households supported to improve energy performance of their dwelling
+
+RCO 19 - Public buildings supported to improve energy performance
+
+RCO 20 - District heating network lines newly constructed or improved
+
+RCR 26 - Annual final energy consumption (of which: residential, private non-residential, public non-residential)
+
+RCR 27 - Households with improved energy performance of their dwellings
+
+RCR 28 - Buildings with improved energy classification  (of which: residential, private non-residential, public non-residential)
+
+RCR 29 - Estimated greenhouse gas emissions
+
+*
+
+RCR 30 - Enterprises with improved energy performance
+
+RCO 22 - Additional production capacity for renewable energy  (of which: electricity, thermal)
+
+RCO 97 – Number of energy communities and renewable energy communities supported
+
+*
+
+RCR 31 - Total renewable energy produced (of which: electricity, thermal)
+
+RCR 32 – Renewable energy: Capacity connected to the grid (operational)
+
+*
+
+RCO 23 - Digital management systems for smart grids
+
+RCO 98 – Households supported to use smart energy grids
+
+RCR 33 - Users connected to smart grids
+
+RCR 34 - Roll-out of projects for smart grids
+
+RCO 24 - New or upgraded disaster monitoring, preparedness, warning and response systems
+
+*
+
+RCO 25 - Coastal strip, river banks and lakeshores, and landslide protection newly built or consolidated to protect people, assets and the natural environment
+
+RCO 26 - Green infrastructure built for adaptation to climate change
+
+RCO 27 - National/ regional/ local strategies addressing climate change adaptation
+
+RCO 28 - Areas covered by protection measures against forest fires
+
+RCR 35 - Population benefiting from flood protection measures
+
+RCR 36 - Population benefiting from forest fires protection measures
+
+RCR 37 - Population benefiting from protection measures against climate related natural disasters (other than floods and forest fires)
+
+RCR 96 – Population benefiting from protection measures against non-climate related natural risks and risks related to human activities
+
+*
+
+RCR 38 - Estimated average response time to disaster situations
+
+*
+
+RCO 30 - Length of new or consolidated pipes for  household water connections
+
+RCO 31 - Length of sewage collection networks newly constructed or consolidated
+
+RCO 32 - New or upgraded capacity for waste water treatment
+
+RCR 41 - Population connected to improved water supply
+
+RCR 42 - Population connected to at least secondary waste water treatment
+
+RCR 43 - Water losses
+
+RCR 44 - Waste water properly treated
+
+RCO 34 - Additional capacity for waste recycling
+
+RCR 46 - Population served by waste recycling facilities and small waste management systems
+
+RCR 47 - Waste recycled
+
+RCR 48 - Recycled waste used as raw materials
+
+RCR 49 - Waste recovered
+
+RCO 36 - Surface area of green infrastructure supported in urban areas
+
+RCO 37 - Surface of Natura 2000 sites covered by protection and restoration measures in accordance with the prioritised action framework
+
+RCO 99 - Surface area outside Natura 2000 sites covered by protection and restoration measures
+
+RCO 38 - Surface area of rehabilitated land supported
+
+RCO 39 - Systems for monitoring air pollution installed
+
+RCR 50 - Population benefiting from measures for air quality
+
+RCR 95 -Population having access to new or upgraded green infrastructure in urban areas
+
+RCR 51 - Population benefiting from measures for noise reduction
+
+RCR 52 - Rehabilitated land used for green areas, social housing, economic or community activities
+
+3. A more connected Europe by enhancing mobility and regional ICT connectivity
+
+RCO 41 - Additional households with broadband access of very high capacity
+
+RCO 42 - Additional enterprises with broadband access of very high capacity
+
+RCR 53 - Households with broadband subscriptions to a very high capacity network
+
+RCR 54 - Enterprises with broadband subscriptions to a very high capacity network
+
+RCO 43 - Length of new roads supported - TEN-T
+
+RCO 44 - Length of new roads supported - other
+
+RCO 45 - Length of roads reconstructed or upgraded - TEN-T
+
+RCO 46 - Length of roads reconstructed or upgraded - other
+
+RCR 55 - Users of newly built, reconstructed or upgraded roads
+
+RCR 56 - Time savings due to improved road infrastructure
+
+RCR 101 – Time savings due to improved rail infrastructure
+
+RCO 47 - Length of new rail supported - TEN-T
+
+RCO 48 - Length of new rail supported - other
+
+RCO 49 - Length of rail reconstructed or upgraded - TEN-T
+
+RCO 50 - Length of rail reconstructed or upgraded - other
+
+RCO 51 - Length of new or upgraded inland waterways - TEN-T
+
+RCO 52 - Length of new or upgraded inland waterways - other
+
+RCO 53 - Railways stations and facilities - new or upgraded
+
+RCO 54 - Intermodal connections - new or upgraded
+
+RCO 100 – Number of ports supported
+
+RCR 57 - Length of European Rail Traffic Management System equipped railways in operation
+
+RCR 58 - Annual number of passengers on supported railways
+
+RCR 59 - Freight transport on rail
+
+RCR 60 - Freight transport on inland waterways
+
+RCO 55 - Length of tram and metro lines- new
+
+RCO 56 - Length of tram and metro lines- reconstructed/ upgraded
+
+RCO 57 - Environmentally friendly rolling stock for public transport
+
+RCO 58 - Dedicated cycling infrastructure supported
+
+RCO 59 - Alternative fuels infrastructure (refuelling/ recharging points) supported
+
+RCO 60 - Cities and towns with new or upgraded digitised urban transport systems
+
+RCR 62 - Annual passengers of public transport
+
+RCR 63 - Annual users of new/ upgraded tram and metro lines
+
+RCR 64 - Annual users of dedicated cycling infrastructure
+
+4. A more social Europe implementing the European Pillar of Social Rights
+
+RCO 61 - Annual unemployed persons served by enhanced facilities for employment services (capacity)
+
+RCR 65 - Job seekers using annually the services of the employment services supported
+
+RCO 63 - Capacity of temporary reception infrastructure created
+
+RCO 64 - Capacity of rehabilitated housing – migrants, refugees and persons under or applying for international protection
+
+RCO 65 - Capacity of rehabilitated housing - other
+
+RCR 66 - Occupancy of temporary reception infrastructure built or renovated
+
+RCR 67 - Occupancy of rehabilitated housing – migrants, refugees and persons under or applying for international protection
+
+RCR 68 - Occupancy of rehabilitated housing - other
+
+RCO 66 - Classroom capacity of supported childcare infrastructure (new or upgraded)
+
+RCO 67 - Classroom capacity of supported education infrastructure (new or upgraded)
+
+RCR 70 - Annual number of children using childcare infrastructure supported
+
+RCR 71 - Annual number of students using education infrastructure supported
+
+RCO 69 - Capacity of supported health care infrastructure
+
+RCO 70 - Capacity of supported social infrastructure (other than housing)
+
+RCR 72 - People with access to improved health care services
+
+RCR 73 - Annual number of persons using the health care facilities supported
+
+RCR 74 - Annual number of persons using the social care facilities supported
+
+RCR 75 - Average response time for medical emergencies in the area supported
+
+5. A Europe closer to citizens by fostering the sustainable and integrated development of urban, rural and coastal areas and local initiatives
+
+RCO 74 - Population covered by strategies for integrated urban development
+
+RCO 75 - Integrated strategies for urban development
+
+RCO 76 - Collaborative projects
+
+RCO 77 - Capacity of cultural and tourism infrastructure supported
+
+RCR 76 - Stakeholders involved in the preparation and implementation of strategies of urban development
+
+RCR 77 - Tourists/ visits to supported sites
+
+*
+
+RCR 78 - Users benefiting from cultural infrastructure supported
+
+RCO 80 – Community-led local development strategies for local development
+
+Horizontal - Implementation
+
+RCO 95 - Staff financed by ERDF and Cohesion Fund
+
+RCR 91 - Average time for launch of calls, selection of projects and signature of contracts
+
+*
+
+RCR 92 - Average time for tendering (from launch of procurement until signature of contract)
+
+*
+
+RCR 93 - Average time for project implementation (from signature of contract to last payment)
+
+*
+
+RCR 94 - Single bidding for ERDF and Cohesion Fund interventions
+
+*
+
+** For presentational reasons, indicators are grouped under, but not limited to, a policy objective. In particular, under policy objective 5, specific objectives from policy objectives 1-4 may be used with the relevant indicators. In addition, in order to develop a full picture of the expected and actual performance of the programmes, the indicators marked with (*) may be used by specific objectives under more than one of the policy objectives 1 to 4, when relevant.
+
+Table 2: Additional common output and result indicators for the ERDF for Interreg
+
+Interreg-specific indicators
+
+RCO 81 - Participants in cross-border mobility initiatives
+
+RCO 82 - Participants in joint actions promoting gender equality, equal opportunities and social inclusion
+
+RCO 83 - Joint strategies/ action plans developed or implemented
+
+RCO 84 - Joint pilot activities implemented in projects
+
+RCO 85 - Participants in joint training schemes
+
+RCO 96 – Legal or administrative obstacles identified
+
+RCO 86 - Joint administrative or legal agreements signed
+
+RCO 87 - Organisations cooperating across borders
+
+RCO 88 - Projects across national borders for peer-learning to enhance cooperation activities
+
+RCO 89 - Projects across borders to improve multilevel governance
+
+RCO 90 - Projects across national borders leading to networks/clusters
+
+RCR 79 - Joint strategies/ action plans taken up by organisations at/ after project completion
+
+RCR 80 - Joint pilot activities taken up or up-scaled by organisations at/ after project completion
+
+RCR 81 - Participants completing joint training schemes
+
+RCR 82 - Legal or administrative obstacles addressed or alleviated
+
+RCR 83 - Persons covered by signed joint agreements signed
+
+RCR 84 - Organisations cooperating across borders 6-12 months after project completion
+
+RCR 85 - Participants in joint actions 6-12 months after project completion
+
+RCR 86 - Stakeholders/ institutions with enhanced cooperation capacity beyond national borders
+
+EUROPEAN COMMISSION
+
+Strasbourg, 29.5.2018
+
+COM(2018) 372 final
+
+ANNEX
+
+to the
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the European Regional Development Fund and on the Cohesion Fund
+
+{SEC(2018) 268 final}
+
+{SWD(2018) 282 final}
+
+{SWD(2018) 283 final}
+
+ANNEX II
+
+Core set of performance indicators for the ERDF and the Cohesion Fund referred to in Article 7(3)
+
+Policy objective
+
+Specific objective
+
+Outputs
+
+Results
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1. A smarter Europe by promoting innovative and smart economic transformation
+
+(i) Enhancing research and innovation capacities
+
+and the uptake of advanced technologies
+
+CCO 01 - Enterprises supported to innovate
+
+CCO 02 - Researchers working in supported research facilities
+
+CCR 01 – (SMEs introducing product, process, marketing or organisational  innovation
+
+(ii) Reaping the benefits of digitisation for citizens, companies and governments
+
+CCO 03 - Enterprises and public institutions supported to develop digital products, services and applications
+
+CCR 02 - Additional users of new digital products, services and applications developed by enterprises and public institutions
+
+(iii) Enhancing growth and competitiveness of SMEs
+
+CCO 04 - SMEs supported to create jobs and growth
+
+CCR 03 - Jobs created in SMEs supported
+
+(iv) Developing skills for smart specialisation, industrial transition and entrepreneurship
+
+CCO 05 - SMEs investing in skills development
+
+CCR 04 - SMEs staff benefiting from training for skills development
+
+2. A greener, low-carbon Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate adaptation and risk prevention and management
+
+(i) Promoting energy efficiency measures
+
+CCO 06 – Investments in measures to improve energy efficiency
+
+CCR 05 – Beneficiaries with improved energy classification
+
+(ii) Promoting renewable energy
+
+CCO 07 - Additional renewable energy production capacity
+
+CCR 06 – Volume of additional renewable energy produced
+
+(iii) Developing smart energy systems, grids and storage at local level
+
+CCO 08 - Digital management systems developed for smart grids
+
+CCR 07 - Additional users connected to smart grids
+
+(iv) Promoting climate change adaptation, risk prevention and disaster resilience
+
+CCO 09 - New or upgraded disaster monitoring, warning and response systems
+
+CCR 08 - Additional population benefiting from protection measures against floods, forest fires, and other climate related natural disasters
+
+(v) Promoting sustainable water management
+
+CCO 10 - New or upgraded capacity for waste water treatment
+
+CCR 09 - Additional population connected to at least secondary waste water treatment
+
+(vi) Promoting the transition to a circular economy
+
+CCO 11 – New or upgraded capacity for waste recycling
+
+CCR 10 - Additional waste recycled
+
+(vii) Enhancing biodiversity, green infrastructure in the urban environment, and reducing pollution
+
+CCO 12 - Surface area of green infrastructure in urban areas
+
+CCR 11 - Population benefiting from measures for air quality
+
+3. A more connected Europe by enhancing mobility and regional ICT connectivity
+
+(i) Enhancing digital connectivity
+
+CCO 13 - Additional households and enterprises with coverage by very high capacity broadband networks
+
+CCR 12 - Additional households and enterprises with broadband subscriptions to a very high capacity networks
+
+(ii) Developing a sustainable, climate resilient, intelligent, secure and intermodal TEN-T
+
+CCO 14 – Road TEN-T: New and upgraded roads
+
+CCR 13 - Time savings due to improved road infrastructure
+
+(iii) Developing sustainable, climate resilient, intelligent and intermodal national, regional and local mobility, including improved access to TEN-T and cross-border mobility
+
+CCO 15 – Rail TEN-T: New and upgraded railways
+
+CCR 14 - Annual number of passengers served by improved rail transport
+
+(iv) Promoting sustainable multimodal urban mobility
+
+CCO 16 - Extension and modernisation of tram and metro lines
+
+CCR 15 - Annual users served by new and modernised tram and metro lines
+
+4. A more social Europe implementing the European Pillar of Social Rights
+
+(i) Enhancing the effectiveness of labour markets and access to quality employment through developing social innovation and infrastructure
+
+CCO 17 - Annual unemployed persons served by enhanced facilities for employment services
+
+CCR 16 - Job seekers using annually enhanced facilities for employment services
+
+(ii) Improving access to inclusive and quality services in education, training and lifelong learning through developing infrastructure
+
+CCO 18 - New or upgraded capacity for childcare and education infrastructure
+
+CCR 17 - Annual users served by new or upgraded childcare and education infrastructure
+
+(iii) Increasing the socio-economic integration of marginalised communities, migrants and disadvantaged groups, through integrated measures including housing and social services;
+
+CCO 19 - Additional capacity of reception infrastructures created or upgraded
+
+CCR 18 - Annual users served by new and improved reception and housing facilities
+
+(iv) Ensuring equal access to health care through developing infrastructure, including primary
+
+care
+
+CCO 20 - New or upgraded capacity for health care infrastructure
+
+CCR 19 - Population with access to improved health care services
+
+5. A Europe closer to citizens by fostering the sustainable and integrated development of urban, rural and coastal areas and local initiatives
+
+(i) Fostering the integrated social, economic and environmental development, cultural heritage and security in urban areas
+
+CCO 21 - Population covered by strategies for integrated urban development

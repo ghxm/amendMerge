@@ -1,0 +1,1115 @@
+@import url(./../../../../css/com/com-c.css)
+
+EUROPEAN COMMISSION
+
+Brussels, 30.11.2016
+
+COM(2016) 765 final
+
+2016/0381(COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Directive 2010/31/EU on the energy performance of buildings
+
+(Text with EEA relevance)
+
+{SWD(2016) 408 final}
+
+{SWD(2016) 409 final}
+
+{SWD(2016) 414 final}
+
+{SWD(2016) 415 final}
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+•
+
+Reasons for and objectives of the proposal
+
+"Energy efficiency first" is a key element of the Energy Union – this proposal puts it into practice.
+
+One of the ways to improve energy efficiency is to tap the huge potential for efficiency gains in the building sector which is the largest single energy consumer in Europe, absorbing 40% of final energy. About 75% of buildings are energy inefficient and, depending on the Member State, only 0.4-1.2% of the stock is renovated each year.
+
+The main objective of this proposal is to accelerate the cost-effective renovation of existing building, which represents a 'win-win' option for the EU economy as a whole. As a matter of fact, the European construction industry has the potential to respond to a number of economic and societal challenges such as jobs and growth, urbanisation, digitalisation, demographic changes, and at the same time energy and climate challenges.
+
+The construction industry generates about 9% of European GDP and accounts for 18 million direct jobs. Construction activities that include renovation
+
+work and energy retrofits add almost twice as much value as the construction of new buildings, and SMEs contribute more than 70% of the value added in the EU building sector
+
+.
+
+In line with the above mentioned objectives,
+
+t
+
+his proposal will update the Ener
+
+gy Performance of Buildings Directive ('EPBD'
+
+) by:
+
+
+
+integrating long term building renovation strategies (Article of 4 Energy Efficiency Directive), supporting the mobilisation of financing and creating a clear vision for a decarbonised building stock by 2050;
+
+
+
+encouraging the use of ICT and smart technologies to ensure buildings operate efficiently; and
+
+
+
+streamlining provisions where they have not delivered the expected results.
+
+More specifically, it introduces building automation and control systems as an alternative to physical inspections, encourages the roll-out of the required infrastructure for
+
+e-mobility (with a focus on large commercial buildings and excluding public buil
+
+dings and SMEs), and introduces a smartness indicator to assess the technological readiness of the building to interact with their occupants and the grid and to manage themselves efficiently. This update of the EPBD will also strengthen the links between p
+
+ublic funding for building renovation and energy performance certificates and will incentivise tackling energy poverty through building renovation.
+
+Better performing buildings provide higher comfort levels and wellbeing for their occupants and improve health by reducing mortality and morbidity from a poor indoor climate. Adequately heated and ventilated dwellings alleviate negative health impacts caused by dampness, particularly amongst vulnerable groups such as children and the elderly and those with pre-existing illnesses.
+
+The energy performance of buildings also has a major impact on the affordability of housing and energy poverty. Energy savings and efficiency improvement of the housing stock would enable many households to escape energy poverty. This proposal could contribute to taking out from energy poverty between 515 000 and 3.2 million households in the EU (from a total of 23.3 million households living in energy poverty - Eurostat).
+
+To ensure that this proposal has maximum impact, the Smart Finance for Smart Buildings initiative will contribute to mobilise and unlock private investments in a larger scale. Relying on the Investment Plan for Europe, including the European Fund for Strategic Investments and the European Structural Investment Funds, this initiative will support the effective use of public funds, support promoters and investors to bring good ideas to maturity with more project development assistance and project aggregation mechanisms. Ultimately, the Smart Finance for Smart Buildings initiative will contribute to generate trust and attract more investors to the energy efficiency market.
+
+This proposal takes into account the results of a review process based on a broad public consultation, studies, and meetings with stakeholders and is supported by an evaluation and an impact assessment.
+
+Only those articles of the Directive which need to be updated to reflect the 2030 timeframe are included in this proposal.
+
+•
+
+Consistency with existing policy provisions in the policy area
+
+The evaluation carried out in advance of this review concluded that the EPBD is consistent with other pieces of EU legislation. The proposal is also coherent with the other elements of the Clean Energy for All Europeans package, such as the new Governance regulation and the update of legislation on renewable energy. The EPBD will directly contribute to the proposed Energy Efficiency Directive (EED)  target of a 30% increase in energy efficiency by 2030. It complements measures that Member States are required to take under the EED  as well as EU legislation on energy efficiency of products. Ecodesign and energy labelling legislation set requirements for the energy efficiency of
+
+building-related products
+
+such as boilers, while Member States set minimum requirements for the energy performance of installed retrofitted or replaced
+
+building elements
+
+under their national building codes. Building elements usually consist of several products, e.g. a heating system is made up of a boiler, piping and controls. Consistency is ensured on a case-by-case basis during the process of developing specific ecodesign and/or energy labelling implementing measures, bearing in mind the requirements of the EPBD. For instance, it was decided not to set ecodesign requirements for thermal insulation as they are already well covered by the national implementation of the EPBD.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+•
+
+Legal basis
+
+The EPBD is based on Article 194(2) of the Treaty on the Functioning of the European Union, which provides a legal basis for a Union policy to promote energy efficiency and energy saving. As the Treaty contains a specific energy-related legal basis, it is considered appropriate to use it for this proposal.
+
+•
+
+Subsidiarity (for non-exclusive competence)
+
+There are several reasons why a collective EU approach is beneficial.
+
+First, the added value of addressing building energy performance at EU level resides mainly in the creation of an internal market, supporting the EU’s competitiveness and taking advantage of synergies with climate policy and the modernisation of national regulations in the building sector across the EU.
+
+Second, the finance sector needs more comparability of energy performance measurements across the EU. Financial institutions have clearly indicated that work is needed at both national/local and EU levels to increase public and private investments' effectiveness and to contribute to the development of attractive financing products on the market.
+
+Third, although countries have different building code requirements, building typologies and local and climatic conditions, there are multinational users too. Owners of service-providing chains (such as supermarkets or hotels) have requested more unified and comparable methods of certification of the energy performance of buildings.
+
+Finally, EU action leads to a modernisation of national regulations in the building sector, opening wider markets for innovative products and enabling cost reduction. Before the adoption of the 2002 EPBD, many Member States did not have energy efficiency requirements or promotional instruments in their regulation and building codes. As a result of the 2002 and 2010 Directives, all Member States have now energy efficiency requirements for existing and new buildings in their building codes. The 2010 EPBD has resulted in significant modernisation of national building codes through the introduction of the concept of cost optimality, followed by the adoption of nearly zero energy requirements.
+
+The proposed amendments respect the principle of subsidiarity, and Member States will retain the same flexibility as today, allowing adaptation to national circumstances and local conditions (e.g. building type, climate, costs of comparable renewable technologies and accessibility, optimal combination with demand side measures, building density, etc.).
+
+•
+
+Proportionality
+
+In accordance with the principle of proportionality, the proposed modifications do not go beyond what is necessary to achieve the objectives set.
+
+As explained above, EU policies on energy efficiency have expanded prudently, limiting their intervention to areas where they are necessary to achieve the Energy efficiency objectives. This is covered in Section 3 of the impact assessment. The scope of the amendments is limited to the aspects that require EU action.
+
+•
+
+Choice of the instrument
+
+A Directive is the appropriate instrument to ensure Member States comply while leaving them the margin of manoeuvre adapting to the different national and regional specificities. A regulation would not allow for this element of flexibility. Several Member States and stakeholders made it very clear during the consultation that this combination of enforcement and flexibility is the best combination and the right instrument for policies in this field.
+
+Furthermore, as this proposal amends an existing Directive, an amending Directive is the only appropriate instrument.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+•
+
+Ex-post evaluations of existing legislation
+
+The evaluation shows that the Directive is effective and is delivering on its general and specific objectives. Implementation to date shows broadly good performance on the other four analysed criteria: efficiency, relevance, coherence, and EU added value.
+
+The evaluation identified the following key findings and lessons regarding implementation and the scope to improve the functioning of certain provisions and take advantage of technological progress to accelerate the decarbonisation of buildings.
+
+Key findings
+
+There is evidence of around 48.9Mtoe additional final energy savings in 2014 compared to the 2007 baseline of the EPBD. These savings occurred mainly within the scope of the EPBD – space heating, cooling and domestic hot water – and a significant part can be attributed to factors influenced by policy interventions.
+
+The figure of 48.9Mtoe in 2014 seems therefore in line with the 2008 Impact Assessment supporting the EPBD which estimated that the EPBD would deliver 60 to 80Mtoe of final energy savings by 2020.
+
+The evaluation shows that the overall architecture of the Directive, combining minimum requirements and certification, is working, in particular for new buildings. The choice of the cost-optimal methodology to steer existing national energy performance requirements towards cost-efficient levels has proved to be an effective approach.
+
+Targets for all new buildings to deliver nearly zero-energy consumption by 2020 have ensured a 'future-proof' vision for the sector and stakeholders have mobilised accordingly. However, the same level of ambition is missing for existing buildings.
+
+Consequently, a considerable cost effective energy saving potential subsists in the building sector. Increasing the rate, quality and effectiveness of building renovation is the biggest challenge for the coming decades. The long-term renovation strategies developed by Member States under Article 4 of the EED should result in increased renovation rates through mobilising finance and investments in buildings’ renovation. These strategies should include a clear forward looking vision with 2030 and 2050 perspectives, sending sufficient market signals to households, building owners/managers, businesses and investors.
+
+The certification of the energy performance of buildings is delivering a demand-driven market signal for energy efficient buildings and is achieving its aim of encouraging consumers to buy or rent more energy efficient buildings. However, the evaluation shows that national certification schemes and independent control systems are still at early stages in several Member States and their usefulness could be improved.
+
+Due to the diversity and disaggregation of the building sector value chain, it remains challenging to acquire reliable data on building characteristics, energy use, and financial implications of renovation in terms of cost savings or asset values. This generalised lack of data has negative consequences on the market perception of the cost-effective energy saving potential of the EU building stock, and on the enforcement, monitoring and evaluation of the Directive. Existing energy performance certificate ('EPC') registers/databases can be a key instrument for reinforced compliance, improving knowledge of the building stock and better informing policy makers and supporting the decisions of market players.
+
+Scope for improvements
+
+The evaluation reveals relatively limited regulatory failures. There is, however, scope for simplifying and streamlining outdated requirements, and for enhancing compliance through fine tuning of existing provisions and better linking them with financial support. Additionally there is a need to modernise the Directive in the light of technological developments and to increase building renovation rates while supporting the decarbonisation of buildings in the long-term.
+
+The evaluation identifies aspects of the national transposition and implementation that could be further developed through better enforcement, compliance monitoring and evaluation. Opportunities for simplification or modernisation of outdated provisions and streamlining existing provisions in the light of technological progress were also detected, in particular:
+
+–
+
+the requirement to assess the technical, environmental and economic feasibility of high-efficiency alternative systems under Article 6(1) of the EPBD is effectively redundant because the obligation for all new buildings to be nearly zero-energy buildings implicitly requires an assessment of locally available high-efficiency alternative systems. That requirement of Article 6(1) becomes an unnecessary burden and is therefore deleted;
+
+–
+
+the regular inspection of heating and air conditioning systems under Articles 14 and 15 of the EPBD ensures that buildings operate efficiently over time. The option of alternative measures is deleted as these have not proven to be effective and is replaced by the possibility of electronic monitoring and control systems which have been found to be a cost effective alternative to inspections.
+
+In fact, technological progress towards ‘smarter’ building systems offers opportunities to support a more efficient implementation of the EPBD and also creates enabling conditions: to provide information to consumers and investors on operational energy consumption; to adjust to the needs of the user; to run the efficient and comfortable operation of the buildings; its ability to connect to electric vehicle charging; to host energy storage,  and to support demand response in a modernised electricity market.
+
+•
+
+Stakeholder consultations
+
+The evaluation began in June 2015. It looked at past and current performance and was based on the assessment of outcomes, results and impacts of the EPBD with a view to its effectiveness, efficiency, relevance, coherence and the added value of action at EU level. A literature review, information on the implementation of current policies, analyses of previous monitoring and evaluation activities, input from stakeholders and specific studies and projects were the main sources of information.
+
+Stakeholders were consulted through:
+
+–
+
+an open internet-based public consultation that ran from 30 June 2015 to 31 October 2015;
+
+–
+
+more specific consultation of Member States, according to the terms of Article 19 of the Directive, was organised in particular through the EPBD Concerted Action meeting on 26 and 27 November 2015, and a meeting of the Energy Performance of Buildings Committee on 1 February 2016;
+
+–
+
+thematic technical workshops on specific topics that were held from June 2015 to January 2016;
+
+–
+
+stakeholder event on 14 March 2016.
+
+The internet consultatio
+
+n closed on 31 October 2015 and summarised results of the 308 response are available on line
+
+. More than half (58 %) of respondents were organisations, mainly representing the construction sector industry, followed by companies (20 %) operating in Member S
+
+tates. Individuals, public authorities and others represent 7-8 % of the respondents.
+
+Overall, most respondents consider that the EPBD established a good framework for improving energy performance in buildings and that it has raised awareness on energy consumption in buildings, giving it a more prominent role in energy policy. Its contribution to 2030 and 2050 energy and climate targets was recognised. A majority of respondents think that the EPBD has been successful while a third believes it has not. Several respondents said that it is too early to say how successful the EPBD has been as it is difficult to isolate its effect. Others consider that the EPBD is not as effective as it could be, considering the huge potential for improving energy consumption that remains in the building sector.
+
+The negative responses mentioned as reasons for limited effectiveness the delayed and inconsistent implementation in the Member States, poor quality of EPCs, slow uptake of measures and a low renovation rate, as well as the missing definition of nearly zero-energy buildings and the need for an improved use of financing instruments. Several respondents also highlight poor compliance and enforcement of measures while others recognise that the economic crisis in the construction sector has slowed improvements. Several respondents stated that while the EPBD has been successful in improving energy performance for new buildings it does not sufficiently incentivise energy efficiency renovations.
+
+•
+
+Collection and use of expertise
+
+In
+
+formation on the implementation of the EPBD is also available from the work of the EPBD Concerted Action
+
+, the regular dialogue with Member States and the work of the Energy Performance of Buildings Committee.
+
+The outcomes of projects funded under the 'Ene
+
+rgy efficiency' chapter of 'Secure, clean and efficient energy' under H2020 and its predecessor the Intelligent Energy for Europe programme were analysed
+
+and referenced where relevant.
+
+In addition to the consultation activities undertaken by the European Commission, the evaluation made use of other sources of information, e.g. research papers identified through literature review.
+
+•
+
+Impact assessment
+
+The impact assessment was submitted twice to the Commission’s Regulatory Scrutiny Board. A draft dated 1 Ju
+
+ly 2016 received a positive opinion on 26 July. The executive summary of the impact assessment and the two opinions of the Board can be found on the Commission’s website
+
+.
+
+The following options were considered by the impact assessment:
+
+No-change option
+
+The no-change of the EPBD option means no additional measures beyond the existing ones. It implies that the current EPBD and related regulatory and non-regulatory instruments continue to be implemented as now. This approach could be complimented by measures to maximise the EPBD's impact. Sharing of good practices, stimulated by exchange platforms (e.g. Concerted Action), could help to improve compliance. It is assumed that under the no-change option, this work would continue.
+
+Policy options
+
+Most of the proposed measures can be implemented via soft law (Option I) and/or targeted amendments (Option II). Some measures go beyond the current legal framework and would require fundamental revision of the current Directive (Option III).
+
+Option I: Enhanced implementation and further guidance
+
+This option considers a set of proposals that enhance the implementation of the existing regulatory framework without amending the Directive. It builds on the work being done at EU, national and regional levels to actively implement the Directive. It goes one step further than the no-change option, proposing soft law and guidance that could improve the implementation and enforcement of the legislation and could encourage the use of voluntary measures which have not yet been explored by Member States.
+
+Option II: Enhanced implementation, including targeted amendments for strengthening current provisions
+
+This option includes the Option I proposals, but goes beyond and requires targeted amendments of the current EPBD to address the problem drivers more extensively. However, contrary to Option III, this option stays in line with the framework of the current EPBD, with better information provided to the end-users and adequate minimum performance requirements that avoid sub-optimal intervention on buildings.
+
+Option III: Enhanced implementation with further harmonization and higher ambition
+
+This policy option is the most ambitious one, and goes beyond the current approach of the EPBD, by requiring for building owners to renovate their buildings.
+
+The comparison of the three options led to the following conclusions:
+
+–
+
+Option I focusses on continuous enforcement of the current EPBD, while supporting Member States by providing guidance and support. The ability to address possibilities for improvement identified in the evaluation report and public consultation to further enhance the removal of barriers to energy efficiency in buildings will not be fulfilled.
+
+–
+
+Option III includes ambitious measures for increasing the renovation rate and therefore the resulting impact is very high.  It introduces a significant change in the building sector, in particular by making mandatory the renovation of thousands of buildings. However, this measure raises some issues such as obligatory investment, which might not be considered cost-effective in a financial perspective. It also raises practical concerns (e.g. further harmonisation of energy performance calculation methodologies, or EPCs) and may be thought to not fully respect the principle of subsidiarity (e.g. obligations to renovate buildings when changing ownership or tenancy, public financial support for mandatory thermal building renovation and mandatory training for builders and installers).
+
+–
+
+Option II is the preferred option because it is best aligned with the outcome and findings of the evaluation of the EPBD and the existing framework. This option introduces significant improvements and simplifications to the EPBD and the overall regulatory framework and will improve the energy performance of buildings via targeted amendments whilst allowing a high level of flexibility for the implementation at national level, as follows:
+
+–
+
+It allows keeping the existing prudent scope underpinning EU action on building efficiency whilst ensuring subsidiarity, proportionality and cost-effectiveness and leaving significant flexibility with Member States.
+
+–
+
+It preserves the main objectives, principles and overall architecture of the Directive which is working well and is supported by stakeholders, including Member States.
+
+–
+
+It includes only targeted amendments, allowing the continued implementation of key provisions in the current Directive that are already delivering and are cost-effective.
+
+–
+
+It strikes a balance between guidance and limited legal revisions to introduce new focussed provisions to address in particular existing building and the link to finance.
+
+Following up on the European Strategy for Low-Emission Mobility and building upon the leading example of some Member States, the preferred option also proposes a measure to support the development of electro-mobility and contribute further to the decarbonisation of the economy.
+
+The estimated impacts are the following:
+
+–
+
+Economic impact: a slightly positive impact on growth, driven by the extra energy efficiency investment and reduction in energy imports, a boost to construction and engineering which are highly related to additional investment, positive impacts on the  insulation and flat glass sector and investment in building renovation benefiting especially SMEs.
+
+–
+
+Social impact: the employment impact will follow a similar pattern to GDP, albeit smaller in scale. Improvements to the indoor climate will significantly reduce mortality, morbidity, and health care costs. A moderate positive impact is expected on energy poverty.
+
+–
+
+Environmental impact: greenhouse gas emissions decrease slightly in all Member States.
+
+•
+
+Regulatory fitness and simplification
+
+Taken together, the measures of the preferred policy option would reduce the administrative burden of the EPBD by EUR 98.1 million per year. The calculation of the impact on administrative burden for the preferred option can be found in Annex 9 to the Impact assessment.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The proposal does not have any implication for the EU budget.
+
+5.
+
+OTHER ELEMENTS
+
+•
+
+Implementatio
+
+n plans and monitoring, evaluation and reporting arrangements
+
+This proposal makes no change to the Member States' current reporting obligations. The legislative proposal on Energy Union governance will ensure that a transparent and reliable planning, reporting and monitoring system will be put in place, based on integrated national energy and climate plans and streamlined progress reports by Member States, regularly assessing the implementation of national plans in terms of the five dimensions of the Energy Union. This will ease the administrative burden on Member States but still allow the Commission to monitor Member States' progress towards their energy efficiency targets and the overall EU target.
+
+The proposal introduces new obligations that will be monitored under decarbonisation of buildings, building renovation, technical building systems, financial incentives and market barriers, while it will simplify obligations for new buildings, on inspections and reports for heating and air-conditioning systems.
+
+•
+
+Detailed explanation of the specific provisions of the proposal
+
+The proposal for a Regulation on the Governance of the Energy Union aims to reduce and streamline Member States' reporting and planning obligations as well as the Commission's monitoring obligations. The Governance proposal will also set up an iterative process between Member States and the Commission in order to collectively meet the objectives of the Energy Union. The plans and reports required under the Governance proposal should enable the Commission to assess and monitor the progress of Member States in reaching the objectives of the Directive.
+
+The Directive is amended as follows:
+
+–
+
+the definition of technical building systems under Article 2(3) is extended to on-site electricity generation and on-site infrastructure for electro-mobility;
+
+–
+
+the current Article 4 EED on building renovation is moved to this Directive for greater consistency, and will include additionally the consideration of energy poverty issues, support for smart financing of building renovations and a vision for the decarbonisation of buildings by 2050, with specific milestones in 2030. The long-term building renovation strategies will become part of (and annexed to) the integrated national energy and climate plans and will be notified by Member States to the Commission by 1 January 2019 for the period post 2020 following the procedure set out in the Regulation on the Governance of the Energy Union. The strategy will cover the renovation of the national stock of residential and non-residential buildings;
+
+–
+
+Article 6 on new building is simplified by limiting it to the provision identified in the impact assessment as the most useful, i.e. the general obligation for new buildings to meet the minimum energy performance requirements. Other provisions that were more cumbersome are deleted;
+
+–
+
+Article 8 is updated to take into account the revised definition of technical building systems. A new paragraph introduces requirements as regards:
+
+(a)
+
+infrastructure for electro-mobility; new n
+
+on-residential buildings with more than ten parking spaces, and non-residential buildings with more than ten parking spaces undergoing major renovation will have to equip one parking space per ten for electro-mobility. This will apply to all non-residentia
+
+l with more than ten parking spaces buildings as of 2025, including buildings where the installation of recharging points are sought under public procurement. New residential buildings with over ten parking spaces, and those undergoing major renovation, wi
+
+ll have to put in place the pre-cabling for electric recharging. Member States will be able to choose to exempt buildings owned and occupied by SMEs, as well as public buildings covered by the Alternative Fuels Infrastructure Directive
+
+;
+
+(b)
+
+reinforcing the use of building electronic monitoring, automation and control in order to streamline inspections; and
+
+(c)
+
+the introduction of a ‘smartness indicator’ rating the readiness of the building to adapt its operation to the needs of the occupant and of the grid, and to improve its performance.
+
+–
+
+Article 10 is updated to include two new provisions on using EPCs to assess savings from renovations financed with public support are to be assessed by comparing EPCs before and after renovation; and public buildings with a surface over a certain threshold must disclose their energy performance;
+
+–
+
+Articles 14 and 15 on inspections are streamlined, while more effective approaches to regular inspections are implemented with the updated Article 14 and 15, and could be used instead to ensure that building performance is maintained and/or improved; and
+
+–
+
+Annex I is updated to improve transparency and consistency in the way energy performance is determined at national or regional level and to take into account the importance of the indoor environment.
+
+2016/0381 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Directive 2010/31/EU on the energy performance of buildings
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 194(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+,
+
+Having regard to the opinion of the Committee of the Regions
+
+,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+The Union is committed to a sustainable, competitive, secure and decarbonised energy system. The Energy Union and the Energy and Climate Policy Framework for 2030 establish ambitious Union c
+
+ommitments to reduce greenhouse gas emissions further (by at least 40 % by 2030, as compared with 1990), to increase the proportion of renewable energy consumed (by at least 27 %) and to make energy savings of at least 27 %, reviewing this level having in
+
+mind an Union level of 30 %
+
+, and to improve Europe’s energy security, competitiveness and sustainability.
+
+(2)
+
+To reach these objectives, the 2016 review of the Energy Efficiency legislation combines: (i) reassessment of the EU's energy efficiency target f
+
+or 2030 as requested by the European Council in 2014; (ii) review of the core articles of the Energy Efficiency Directive and the Energy Performance of Buildings Directive; (iii) reinforcing the enabling financing environment including the European Structu
+
+ral and Investment Funds (ESIF) and the European Fund for Strategic Investments (EFSI), which will ultimately improve the financial conditions of energy efficiency investments on the market.
+
+(3)
+
+Article 19 of Directive 2010/31/EU of the European Parliamen
+
+t and of the Council
+
+requires the Commission to carry out a review by 1 January 2017 at the latest, in the light of the experience gained and progress made during its application, and if necessary, to make proposals.
+
+(4)
+
+To prepare for this review, the Co
+
+mmission took a series of steps to gather evidence on how Directive 2010/31/EU has been implemented in the Member States, focusing on what works and what could be improved.
+
+(5)
+
+The outcome of the evaluation and impact assessment indicated that a series of
+
+amendments are required to strengthen the current provisions of Directive 2010/31/EU and to simplify certain aspects.
+
+(6)
+
+The Union is committed to developing a secure, competitive and decarbonised energy system by 2050
+
+. To meet this goal, Member States
+
+and investors need milestones to ensure that buildings are decarbonised by 2050. In order to ensure this decarbonised building stock by 2050, Member States should identify the intermediary steps to achieving the mid
+
+term (2030) and long
+
+term (2050) objecti
+
+ves.
+
+(7)
+
+The provisions on long-term renovation strategies provided for in
+
+Directive 2012/27/EU
+
+of the European Parliament and of the Council
+
+should be moved to
+
+Directive 2010/31/EU
+
+, where they fit more coherently.
+
+(8)
+
+The agendas of the Digital Single M
+
+arket and the Energy Union should be aligned and serve common goals. The digitalisation of the energy system is quickly changing the energy landscape, from the integration of renewables to smart grids and smart
+
+ready buildings. In order to digitise the bui
+
+lding sector, targeted incentives should be provided to promote smart
+
+ready systems and digital solutions in the built environment
+
+.
+
+(9)
+
+In order to adapt this Directive to the technical progress, the power to adopt acts in accordance with Article 290 of th
+
+e Treaty on the Functioning of the European Union should be delegated to the Commission to supplement it by defining the smartness indicator and enabling its implementation. The smartness indicator should be used to measure buildings’ capacity to use ICT a
+
+nd electronic systems to optimise operation and interact with the grid.
+
+The smartness indicator will raise awareness amongst building owners and occupants of the value behind building automation and electronic monitoring of technical building systems and w
+
+ill give confidence to the occupant about the actual savings of these new enhanced-functionalities.
+
+(10)
+
+Innovation and new technology also make it possible for buildings to support the overall decarbonisation of the economy. For example, buildings can le
+
+verage the development of the infrastructure necessary for the smart charging of electric vehicles
+
+also provide a basis for Member States, if they choose to, to use car batteries as a source of power
+
+.
+
+To reflect this aim, the definition of technical build
+
+ing systems should be extended.
+
+(11)
+
+The impact assessment identified two existing sets of provisions, whose aim could be achieved in a more efficient manner compared to the current situation. First the obligation, before any construction starts, to carry out a feasibility study on highly-eff
+
+iciency alternative systems becomes an unnecessary burden. Second, provisions related to inspections of heating systems and air-conditioning systems were found to not sufficiently ensure, in an efficient manner, the initial and maintained performance of th
+
+ese technical systems. Even cheap technical solutions with very short payback periods, such as hydraulic balancing of the heating system and installation/replacement of thermostatic control valves, are insufficiently considered today. Provisions related to
+
+inspections are amended to ensure a better result from inspections.
+
+(12)
+
+Notably for large installations, building automation and electronic monitoring of technical building systems have proven to be an effective replacement for inspections. The installa
+
+tion of such equipment should be considered as the most cost-effective alternative to inspections in large non-residential and multifamily buildings of a sufficient size that allow a payback of less than three years. The current possibility to opt for alte
+
+rnative measures is therefore deleted. For small scale installations, the documentation of the system performance by installers and the registration of this information in the databases on energy performance certification will support the verification of c
+
+ompliance with the minimum requirements set for all technical building systems and reinforce energy performance certificates role. In addition, existing regular safety inspections and programmed maintenance work will remain an opportunity to provide direct
+
+advice on energy efficiency improvements.
+
+(13)
+
+To ensure their best use in building renovation, financial measures related to energy efficiency should be linked to the depth of the renovation, which should be assessed by comparing energy performance cert
+
+ificates (EPCs) issued before and after the renovation.
+
+(14)
+
+Access to financing is easier when good
+
+quality information is available. Public buildings with a total useful floor area over 250 m² should therefore be required to disclose their actual energy
+
+consumption.
+
+(15)
+
+The current independent control systems for EPCs should be strengthened to ensure certificates are of good quality, can be used for compliance checking and for producing statistics on the regional/national building stocks. High
+
+quality da
+
+ta on the building stock is needed and this could be partially generated by the registers and databases that almost all Member States are currently developing and managing for EPCs.
+
+(16)
+
+To meet the objectives of energy efficiency policy for buildings, th
+
+e transparency of EPCs should be improved by ensuring that that all necessary parameters for calculations, for both certification and minimum energy performance requirements, are set out and applied consistently.
+
+Member States should put in place adequate
+
+measures to ensure, for example, that the performance of installed, replaced or updated technical building systems is documented in view of building certification and compliance checking.
+
+(17)
+
+Commission Recommendation (EU) 2016/1318 of 29 July 2016 on nea
+
+rly zero-energy buildings presented how the implementation of the Directive could simultaneously ensure the transformation of the building stock and the shift to a more sustainable energy supply, which also supports the heating and cooling strategy
+
+. To ma
+
+ke sure appropriate implementation takes place, the general framework for the calculation of the energy performance of buildings should be updated with the support of the work elaborated by the European Committee for Standardisation (CEN), under Mandate M/
+
+480 that was given by the European Commission.
+
+(18)
+
+The provisions of this Directive should not prevent Member States from setting more ambitious energy performance requirements at building level and for building elements as long as such measures are compa
+
+tible with Union law. It is consistent with the objectives of this Directive and of Directive 2012/27/EC that these requirements may, in certain circumstances, limit the installation or use of products subject to other applicable Union harmonisation legisl
+
+ation, provided that such requirements should not constitute an unjustifiable market barrier.
+
+(19)
+
+The objectives of this Directive, namely to reduce the energy needed to meet the energy demand associated with the typical use of buildings, cannot be adequa
+
+tely achieved by the Member States acting alone. The objectives of the Directive can be more effectively ensured by acting at Union level because this guarantees consistency shared objectives, understanding and political drive. Therefore, the Union adopts
+
+measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on the European Union. In accordance with the principle of proportionality, as also set out in that Article, this Directive does not go beyond what is necessary
+
+to achieve those objectives.
+
+(20)
+
+In accordance with the Joint Political Declaration of 28 September 2011 of Member States and the Commission on explanatory documents
+
+, Member States have undertaken to accompany, in justified cases, the notification of t
+
+heir transposition measures with one or more documents explaining the relationship between the components of a directive and the corresponding parts of national transposition instruments. With regard to this Directive, the legislator considers the transmis
+
+sion of such documents to be justified.
+
+(21)
+
+Directive 2010/31/EU should therefore be amended accordingly,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Directive 2010/31/EU is amended as follows:
+
+(1)
+
+in Article 2, point 3 is replaced by the following:
+
+‘3.
+
+‘tech
+
+nical building system’ means technical equipment for space heating, space cooling, ventilation, domestic hot water, built-in lighting, building automation and control, on-site electricity generation, on-site infrastructure for electro
+
+mobility, or a combin
+
+ation of such systems, including those using energy from renewable sources, of a building or building unit;’;
+
+(2)
+
+after Article 2, an Article 2a ‘Long-term renovation strategy
+
+’
+
+, to be submitted in accordance with the integrated national energy and climate
+
+plans of the Regulation (EU)
+
+XX/20XX
+
+[Governance of the Energy Union], is inserted:
+
+(a)
+
+the first paragraph consists of Article 4 of the Directive 2012/27/EU
+
+on energy efficiency
+
+, other than its last
+
+subparagraph;
+
+(b)
+
+the following paragraphs 2 and 3 are
+
+inserted:
+
+‘2.
+
+In
+
+their
+
+long-term renovation strategy referred to in paragraph 1, Member States shall set out a roadmap with clear milestones and measures to deliver on the long-term 2050 goal to decarbonise their national building stock, with specific milestones for 2030.
+
+In addition, the long term renovation strategy shall contribute to the alleviation of energy poverty.
+
+3.
+
+To guide investment decisions as referred to in point (d) in paragraph 1, Member States shall introduce mechanisms for:
+
+(a)
+
+the
+
+aggregation
+
+of projects, to
+
+make it easier for investors to fund the renovations referred to in points (b) and (c) in paragraph 1;
+
+(b)
+
+de-risking energy efficiency operations for investors and the private sector; and
+
+(c)
+
+the use of public funding to leverage additional private-secto
+
+r investment or address specific market failures.’;
+
+(3)
+
+Article 6 is amended as follows:
+
+(a)
+
+in paragraph 1, the second subparagraph is deleted;
+
+(b)
+
+paragraphs 2 and 3 are deleted;
+
+(4)
+
+in Article 7, the fifth subparagraph is deleted;
+
+(5)
+
+Article 8 is amended as
+
+follows:
+
+(a)
+
+in paragraph 1, the third subparagraph is deleted;
+
+(b)
+
+paragraph 2 is replaced by the following:
+
+‘2. Member States shall ensure that in all new non-residential buildings and in all existing non-residential buildings undergoing major renovation with mo
+
+re than ten parking spaces, at least one of every ten is equipped with a recharging point within the meaning of Directive 2014/94/EU on the deployment of alternative fuels infrastructure
+
+, which is capable of starting and stopping charging in reaction to p
+
+rice signals. This requirement shall apply to all non-residential buildings, with more than ten parking spaces, as of 1 January 2025.
+
+Member States may decide not to set or apply the requirements referred to in the previous subparagraph to buildings owned and occupied by small and medium-sized enterprises as defined in Title I of the Annex to Commission Recommendation 2003/361/EC of 6 May 2003.
+
+3. Member States shall ensure that newly built residential buildings and those undergoing major renovations, with more than ten parking spaces, include the pre-cabling to enable the installation of recharging points for electric vehicles for every parking space.
+
+4. Member States may decide not to set or apply the requirements referred to in  paragraphs 2 and 3 to public buildings which are already covered by Directive 2014/94/EU.’;
+
+(c)
+
+the following paragraphs 5 and 6 are added:
+
+‘
+
+5.
+
+Member States shall ensure that, when a technical building system is installed, replaced or upgraded, the overall energy performance of the c
+
+omplete altered system is assessed, documented it and passed on to the building owner, so that it remains available for the verification of compliance with the minimum requirements set pursuant to paragraph 1 and the issue of energy performance certificate
+
+s. Member States shall ensure that this information is included in the national energy performance certificate database referred to in Article 18(3).
+
+6.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 23 supplementing this Di
+
+rective with a definition of ‘
+
+smartness
+
+indicator’ and with the conditions under which the ‘
+
+smartness
+
+indicator’ would be provided as additional information to prospective new tenants or buyers.
+
+The smartness indicator shall cover flexibility features, enhanced functionalities and capabilities resulting from more interconnected and built-in intelligent devices being integrated into the conventional technical building systems. The features shall enhance the ability of occupants and the building itself to react to comfort or operational requirements, take part in demand response and contribute to the optimum, smooth and safe operation of the various energy systems and district infrastructures to which the building is connected.’;
+
+(6)
+
+Article 10 is amended as
+
+follows:
+
+(a)
+
+paragraph 6 is replaced by the following:
+
+‘6.
+
+Member States shall link their financial measures for energy efficiency improvements in the renovation of buildings to the energy savings achieved due to such renovation. These savings shall be determi
+
+ned by comparing energy performance certificates issued before and after renovation.’;
+
+(b)
+
+the following paragraphs 6a and, 6b are inserted:
+
+‘6a. When Member States put in place a database for registering EPCs  it shall allow tracking the actual energy consumption of the buildings covered, regardless of their size and category. The database shall contain the actual energy consumption data of buildings frequently visited by the public with useful floor area of over 250 m² which shall be regularly updated.
+
+6b. Aggregated anonymised data compliant with EU data protection requirements shall be made available on request, at least for the public authorities for statistical and research purposes.’;
+
+(7)
+
+Article 14 is amended as follows:
+
+(a)
+
+paragraph 1 is replaced by th
+
+e following:
+
+‘1. Member States shall lay down the necessary measures to establish a regular inspection of the accessible parts of systems used for heating buildings, such as the heat generator, control system and circulation pump(s) for non-residential buildings with total primary energy use of over 250MWh and for residential buildings with a centralised technical building system of a cumulated effective rated output of over 100 kW. That inspection shall include an assessment of the boiler efficiency and the boiler sizing compared with the heating requirements of the building. The assessment of the boiler sizing does not have to be repeated as long as no changes were made to the heating system or as regards the heating requirements of the building in the meantime.’;
+
+(b) paragraphs 2, 3, 4 and 5 are deleted and replaced by the following:
+
+‘2. As an alternative to paragraph 1 Member States may set requirements to ensure that non-residential buildings with total primary energy use of over 250 MWh per year are equipped with building automation and control systems. These systems shall be capable of:
+
+(a)
+
+continuously monitoring, analysing and adjusting energy usage;
+
+(b)
+
+benchmarking the building’s energy efficiency, detecting losses in efficiency of technical buil
+
+ding systems, and informing the person responsible for the facilities or technical building management about opportunities for energy efficiency improvement;
+
+(c)
+
+allowing communication with connected technical building systems and other appliances inside
+
+the building, and being interoperable with technical building systems across different types of proprietary technologies, devices and manufacturers.
+
+3. As an alternative to paragraph 1 Member States may set requirements to ensure that residential buildings with centralised technical building systems of a cumulated effective rated output of over 100 kW are equipped:
+
+(a)
+
+with
+
+continuous
+
+electronic monitoring
+
+that measures systems' efficiency and inform building owners or managers when it has fallen significantly and when system servicing is necessary, and
+
+(b)
+
+with effective control functionalities to
+
+ensure optimum generation, distribution and use of energy.
+
+’
+
+;
+
+(8)
+
+Article 15 is amended as follows:
+
+(a)
+
+paragraph 1 is replaced by the following:
+
+‘1. Member States shall lay down the necessary measures to establish a regular inspection of the accessible parts of air-conditioning systems for non-residential buildings with total primary energy use of over 250MWh and for residential buildings with a centralised technical building system of a cumulated effective rated output of over 100 kW. The inspection shall include an assessment of the air-conditioning efficiency and the sizing compared to the cooling requirements of the building. The assessment of the sizing does not have to be repeated as long as no changes were made to this air-conditioning system or as regards the cooling requirements of the building in the meantime.’;
+
+(b) paragraphs 2, 3, 4 and 5 are deleted and replaced by the following:
+
+‘2. As an alternative to paragraph 1 Member States may set requirements to ensure that non-residential buildings with total primary energy use of over 250 MWh per year are equipped with building automation and control systems. These systems shall be capable of:
+
+(a)
+
+continuously monitoring, analysing and adjusting energy usage;
+
+(b)
+
+benchmarking the building’s energy efficiency, detecting losses in efficiency of technical building systems, and informing the person responsible for the facilities or technical building management about opportunities for energy efficiency improvement;
+
+(c)
+
+allowing communication with connected technical building systems and other appliances inside the building, and being interoperable with technical building systems across different types of proprietary technologies, devices and manufacturers.
+
+3. As an alternative to paragraph 1 Member States may set requirements to ensure that residential buildings with centralised technical building systems of a cumulated effective rated output of over 100 kW
+
+(a)
+
+with continuous electronic monitoring that measures systems' efficiency and inform building owners or managers when it has fallen significantly and when system servicing is necessary, and
+
+(b)
+
+with effective control functionalities to ensure optimum generation, distribution and use of energy.’;
+
+(9)
+
+in Article 19, ‘2017’ is replaced by ‘2028’;
+
+(10)
+
+in Article 20(2), the first subparagraph is replaced by the following:
+
+‘Member States shall in particular provide information to the owners or tenants of buildings on energy performance certificates, their purpose and objectives, on cost-effective ways to improve the energy performance of the building and, where appropriate, on financial instruments available to improve the energy performance of the building.’;
+
+(11)
+
+Article 23 is replaced by the following:
+
+‘Article 23
+
+Exercise of the delegation
+
+1. The power to adopt delegated acts referred to in Articles 5, 8 and 22 is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Article 5, 8 and 22 shall be conferred on the Commission for an indeterminate period of time from
+
+[
+
+date of the entry into force…
+
+]
+
+.
+
+3. The delegation of power referred to in Articles 5, 8 and 22 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. Before the adoption of a delegated act, the Commission
+
+shall consult experts designated by each Member State in accordance with the principles laid down in the Inter-institutional Agreement on Better Law-Making of 13 April 2016
+
+.
+
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6. A delegated act adopted pursuant to Articles 5, 8 and 22 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.’;
+
+(12)
+
+Articles 24 and 25 are deleted;
+
+(13)
+
+The Annexes are amended in accordance with the Annex to this Directive.
+
+Article 2
+
+With the exception of its last subparagraph, the provisions of Articl
+
+e 4 of the Directive 2012/27/EU
+
+on energy efficiency
+
+are
+
+deleted.
+
+Article 3
+
+1.
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by XXXX [
+
+Please insert the date 12 months
+
+following the date of entry into force
+
+] at the latest. They shall immediately communicate to the Commission the text of those provisions.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2.
+
+Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field co
+
+vered by this Directive.
+
+Article 4
+
+This Directive shall enter into force on the twentieth day following that of its publication in the
+
+Official Journal of the European Union
+
+.
+
+Article 5
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+Fo
+
+r the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+EUROPEAN COMMISSION
+
+Brussels, 30.11.2016
+
+COM(2016) 765 final
+
+ANNEX
+
+to the
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Directive 2010/31/EU on the energy performance of buildings
+
+{SWD(2016) 408 final}
+
+{SWD(2016) 409 final}
+
+{SWD(2016) 414 final}
+
+{SWD(2016) 415 final}
+
+ANNEX
+
+to the
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Directive 2010/31/EU on the energy performance of buildings
+
+ANNEX
+
+Annexes to the Directive are amended as follows:
+
+1.
+
+Annex I is amended as follows:
+
+(a)
+
+point 1 is replaced by the following:
+
+‘1.
+
+The energy performance of a building shall reflect its typical energy use for heating, cooling, domestic hot water, ventilation and lighting.
+
+The energy performance of a building shall be expressed by a numeric indicator of primary energy use in kWh/(m².y), harmonised for the purpose of both energy performance certification and compliance with minimum energy performance requirements. The energy performance and the methodology applied for its determination shall be transparent and open to innovation.
+
+Member States shall describe their national calculation methodology following the national annex framework of related European standards developed under mandate M/480 given by the European Commission to the European Committee for Standardisation (CEN).’;
+
+(b)
+
+point 2 is replaced by the following:
+
+‘2.
+
+The energy needs
+
+for space heating, space cooling, domestic hot water and adequate ventilation
+
+shall be calculated in order to ensure minimum
+
+health and comfort
+
+levels defined by Member States.
+
+The calculation of primary energy shall be based on primary energy factors per energy carrier, which may be based on national or regional annual weighted averages or on more specific information made available for individual district system.
+
+Primary energy factors shall discount the share of renewable energy in energy carriers so that calculations equally treat: (a) the energy from renewable source that is generated on-site (behind the individual meter, i.e. not accounted as supplied), and (b) the energy from renewable energy sources supplied through the energy carrier.’;
+
+(c)
+
+in point 4, the introductory phrase is replaced by the following:
+
+‘
+
+4.
+
+The positive influence of the following aspects shall be taken into account:’
+
+;
+
+2.
+
+Annex II is amended as follows:
+
+(a)
+
+first paragraph of point 1 is replaced by the following:
+
+‘1. The competent authorities or bodies to which the competent authorities have delegated the responsibility for implementing the independent control system shall make a random selection of all the energy performance certificates issued annually and subject them to verification. The sample shall be of a sufficient size to ensure statistically significant compliance results.’;
+
+(b)
+
+point 3 is added:
+
+‘3. When information is added to a database it shall be possible for national authorities to identify the originator of the addition, for monitoring and verification purposes.’.

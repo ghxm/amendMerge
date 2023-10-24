@@ -1,0 +1,385 @@
+EUR-Lex - 52010PC0145 - EN
+
+|
+
+52010PC0145
+
+Proposal for a Regulation of the European Parliament and of the Council amending Council Regulation (EC) No 861/2006 of 22 May 2006 establishing Community financial measures for the implementation of the common fisheries policy and in the area of the Law of the Sea  /* COM/2010/0145 final - COD 2010/0080 */
+
+ | EUROPEAN COMMISSION |
+
+Brussels, 29.4.2010
+
+COM(2010)145 final
+
+2010/0080 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Council Regulation (EC) No 861/2006 of 22 May 2006 establishing Community financial measures for the implementation of the common fisheries policy and in the area of the Law of the Sea
+
+EXPLANATORY MEMORANDUM
+
+1. The proposed amendments to Council Regulation (EC) No 861/2006 of 22 May 2006 establishing Community financial measures for the implementation of the Common Fisheries Policy and in the area of the Law of the Sea[1] are intended to ensure coherence between the Regulation and other elements of the relevant legislative framework. In some cases, experience has demonstrated the need to ensure that the provisions of the Regulation are slightly adapted to better fit the needs. It is also proposed to clarify when necessary the scope of the measures financed and to improve the drafting of some articles.
+
+This revision does not entail any fundamental changes to Council Regulation (EC) No 861/2006: the objectives, the type of measures financed, the architecture and the financial envelope are not affected.
+
+2. Modifications due to the evolution of the legislative framework:
+
+Articles 2(b), 3(b), 5, 9, 10, 16, 17, 22 and the heading of section 2. The scope of the new data collection framework[2] is larger than the previous framework[3]. It covers not only the collection of data by Member States but also its management and use. While the current wording of the Regulation is sufficiently broad to cover data management and use, the above provisions have been modified to include an express reference to this in the interest of legal certainty.
+
+Article 12(c) has been redrafted to reflect the fact that in Council Decision 2007/409/EC of 11 June 2007 amending Decision 2004/585/EC establishing Regional Advisory Councils under the Common Fisheries Policy[4] the Regional Advisory Councils have been granted the status of bodies pursuing an aim of general European interest. They can be granted financial support to cover their operating costs and the restriction which limited support to their start up phase has been deleted.
+
+Article 5 has been modified to mirror the provisions of the new data collection framework, under which the data to be collected also comprises socio-economic variables in the fisheries, aquaculture and processing sector, such as income, capital costs, employment, etc. These elements are foreseen by the Commission Decision 949/2008 of 6 November 2008 adopting a multiannual Community programme pursuant to Council Regulation (EC) No 199/2008 establishing a Community framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy[5], in particular Appendices VI, X and XII.
+
+Article 9 has been reformulated and simplified in order to align the description with the other areas of expenditure covered by the Regulation, by identifying only the main categories of measures. The eligible measures are defined in detail by Council Regulation (EC) No 199/2008 of 25 February 2008 concerning the establishment of a Community framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the Common Fisheries Policy[6].
+
+Articles 16 and 24 have been modified to take account of the relevant provisions of the new data collection framework which define in detail the programming procedures in Articles 4, 5 and 6 of Council Regulation (EC) No 199/2008 and Articles 1, 2 and 4 of Commission Regulation (EC) No 665/2008 of 14 July 2008 laying down detailed rules for the application of Council Regulation (EC) No 199/2008[7].
+
+Article 23 has been deleted as it has become obsolete since the programming procedures are now defined in the new data collection framework.
+
+3. Limited modification of the scope of some measures to better respond to the needs:
+
+Article 11 is modified to allow the Commission to sign procurement contracts with the international bodies in charge of stock assessments.
+
+Articles 12(a) and 18(2) have been adapted to extend the possibility of financing the costs related to the preparation of Advisory Committee on Fisheries and Aquaculture (ACFA) meetings to other representative organisations in ACFA. This possibility already exists for European Trade Organisations. Furthermore, the article now allows for financial support for translation, interpretation and room hire costs related to these meetings.
+
+Article 20(1) has been modified to advance the date for the submission of applications for Community support. This is designed to accelerate procedures and programme implementation.
+
+Article 20(2) has been amended to give a more detailed description of the information to be provided in order to standardise the data received on the projects and to reinforce sound financial management. It also specifies information required for joint projects conducted by more than one Member State.
+
+A modified article 20(3)(b) requires the provision of information on the mechanisms which will allow verification on the use of the co financed control resources.
+
+A new article 20(4) is designed to improve the transmission of data on the projects.
+
+4. Clarification of the scope of the actions to be undertaken:
+
+Article 32(a). Council Decision 2000/439/EC of 29 June 2000 on a financial contribution from the Community towards the expenditure incurred by Member States in collecting data, and for financing studies and pilot projects for carrying out the common fisheries policy[8] was repealed by Council Regulation 861/2006 with effect of 1 January 2007, as many of the provisions laid down in that decision were incorporated in the regulation. However, some elements were not covered, notably the lower co-financing rate of 35% for extended programmes (article 3, 2nd indent), more detailed rules on the submission of programmes and budget forecasts, technical and financial reports, payment modalities by the Commission (article 4 and 6) and the definition of eligible expenditure under national programmes (annex to the decision). As no implementing rules were adopted to cover these elements, there was a lack of rules in place governing the national programmes in 2007 and 2008 although both the Member States and the Commission continued to work on the basis of the previous rules. This situation continued until the adoption of the new data collection framework and in the interest of legal certainty it should be made clear that certain provisions continued to apply for the 2007 and 2008 national programmes.
+
+Article 7(c) has been clarified to indicate that the partnerships in the international field may be at bilateral, regional or multilateral level.
+
+Article 8(a)(i) and (iii) has been redrafted to provide clarity and certainty on eligible expenditure. Furthermore, the actions foreseen by the Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy[9] are explicitly mentioned, i.e. vessel detection systems, automatic identification systems, exchange and analysis of data between Member States, the setting up of websites related to fisheries control.
+
+In article 8(a)(ii) the words "civil servants" have been replaced by "personnel" to cater for the fact that training participants, although representing a Member State authority, are not necessarily civil servants.
+
+In article 8(a)(v) the words "irresponsible and illegal fishing" are replaced by the formulation "illegal, unreported and unregulated fishing", which is the used notably in the Council Regulation (EC) No 1005/2008.
+
+Article 8(b) has been amended to better reflect the tasks carried out by the Joint Research Centre, which not only analyses the implementation of control activities, but also gives advice and is involved in developing new technologies.
+
+Article (8) (d) has been amended to delete a superfluous category of expenditure for the Community Fisheries Control Agency.
+
+Article 12(b). The list of consultative bodies for the meetings of which the ACFA plenary designates a representative is updated.
+
+Article 13(e) has been modified to reflect the range of cooperation which the Commission may need to establish with international organisations.
+
+5. In addition, amendments to improve and clarify the wording of the text of the Regulation have been made in recital (12) and articles 2(b), 3(b), 5, 10, 13(e), 18(3), 20(1), 24.
+
+6. The modifications introduced by this amending proposal do not entail financial consequences on the EU budget. They will simply allow better execution of the budget amounts as quantified in the Financial Statement attached to Council Regulation (EC) No 861/2006.
+
+2010/0080 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Council Regulation (EC) No 861/2006 of 22 May 2006 establishing Community financial measures for the implementation of the common fisheries policy and in the area of the Law of the Sea
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43 thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the Economic and Social Committee,
+
+After transmission of the proposal to the national Parliaments,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1) Council Regulation (EC) No 861/2006 of 22 May 2006 establishing Community financial measures for the implementation of the Common Fisheries Policy and in the area of the Law of the Sea[10] provides for financing in the following areas: international relations, governance, data collection and scientific advice and control and enforcement of the Common Fisheries Policy.
+
+(2) In each field of action, Council Regulation (EC) No 861/2006 is completed by other regulations or decisions. Several elements of the related legislation have evolved since the adoption of Regulation 861/2006 which should be amended in order to ensure coherence between all the elements of the legislative framework.
+
+(3) Experience has demonstrated the need to amend the Regulation in order to slightly adapt some provisions to better fit the needs.
+
+(4) It is also proposed to clarify when necessary the scope of the measures financed and to improve the drafting of some articles.
+
+(5) Partnerships in the international field may be at bilateral, regional or multilateral level.
+
+(6) Regional Advisory Councils have been granted the status of bodies pursuing an aim of general European interest in Council Decision 409/2007/EC of 11 June 2007 amending Decision 2004/585/EC establishing Regional Advisory Councils under the Common Fisheries Policy[11]and this should be reflected in the Regulation.
+
+(7) For the preparatory meetings of the Advisory Committee on Fisheries and Aquaculture (ACFA), there should be a possibility of financial support to representatives other than those from the European Trade Organisations and to allow for the financing of translation, interpretation and room hire costs. The list of consultative bodies for the meetings of which the ACFA plenary designates a representative should be updated.
+
+(8) Council Regulation (EC) No 199/2008 of 25 February 2008 concerning the establishment of a Community framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the Common Fisheries Policy[12] has enlarged the scope of data collection in order to cover the collection, the management and the use of data and this should be explicitly acknowledged in the Regulation.
+
+(9) Commission Decision 949/2008 of 6 November 2008 adopting a multiannual Community programme pursuant to Regulation (EC) No 199/2008 establishing a Community framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy[13] provides that the data to be collected comprises socio-economic variables.
+
+(10) Eligible measures for Community financial support in the field of data collection and scientific advice are defined in Regulation (EC) No 199/2008 and Regulation (EC) No 861/2006 should be aligned with those definitions.
+
+(11) The programming measures in the field of data collection and scientific advice are set out in Regulation (EC) No 199/2008 and the implementing Commission Regulation (EC) No 665/2008 of 14 July 2008 laying down detailed rules for the application of Regulation (EC) No 199/2008[14].
+
+(12) A number of provisions of Decision 2000/439/EC of 29 June 2000 on a financial contribution from the Community towards the expenditure incurred by Member States in collecting data, and for financing studies and pilot projects for carrying out the common fisheries policy[15] were not taken over in Regulation (EC) 861/2006 and were also not converted into implementing rules. This created a legal void for the years 2007 and 2008 in which the Commission had to apply the rules previously in force as laid down in Decision 2000/439/EC. In the interest of legal certainty it should be retroactively provided that those rules continued to be applicable in that period.
+
+(13) It is necessary to allow the Commission to sign procurement contracts with the international bodies in charge of stock assessments.
+
+(14) The indications on the eligible expenditure in the field of control should be presented in a clearer and more detailed way and a link should be made with Council Regulation (EC) No 1224/2009 of 20 November 2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy[16] and to the Council Regulation (EC) No 1005/2008 of 29 September 2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing[17].
+
+(15) Training participants in the area of control and enforcement, although representing a Member State authority, are not necessarily always civil servants. Therefore expenditure incurred for training of other personnel should also be eligible for financial measures.
+
+(16) The Joint Research Centre not only analyses the implementation of control activities, but also gives advice and is involved in developing new technologies.
+
+(17) The programming rules for the control expenditure need to be adapted in order to improve sound financial management, notably through advancing the date of the submission of the applications for Community support, further specifying the information to be communicated on the projects and the format under which it should be provided.
+
+(18) Regulation (EC) No 861/2006 should therefore be amended accordingly.
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Regulation (EC) 861/2006 is amended as follows:
+
+(1) In Article 2, point (b) is replaced by the following:
+
+"(b) conservation measures, collection and management of data and use of data to generate scientific advice for the CFP;"
+
+(2) In Article 3, point (b) is replaced by the following:
+
+"(b) improving the collection, management and use of data necessary for the CFP;"
+
+(3) Article 5 is replaced by the following:
+
+"Article 5
+
+Specific objectives in the area of data collection, management and use and scientific advice
+
+Community financial measures referred to in Articles 9, 10 and 11 shall contribute to the objective of improving data collection, management and use and scientific advice on the state of the resources, the level of fishing, the impact that fisheries have on the resources and the marine eco-system and on the performance of the fishing industry, within and outside Community waters, by providing financial support to the Member States to establish multi-annual aggregated and science based datasets which incorporate biological, technical, environmental and socio-economic information."
+
+(4) Article 7, paragraph 1, point (c) is replaced by the following:
+
+"(c) developing, through partnership at bilateral, regional or multilateral level, the fisheries resource management and control capacities of third countries to ensure sustainable fishing and promoting the economic development of the fisheries sector in those countries by improving the scientific and technical evaluation of the fisheries concerned, monitoring and control of fishing activities, health conditions and the business environment in the sector;"
+
+(5) Article 8 is amended as follows:
+
+(a) point (a)(i) is replaced by the following:
+
+"(i) investments, relating to control activities carried out by administrative bodies or by the private sector, in:
+
+- purchase and installation of technology, including hard- and software, vessel detection systems (VDS) and IT networks allowing to gather, administer, validate, analyse, develop sampling methods and exchange data related to fisheries;
+
+- purchase and installation of the components necessary to ensure data transmission from actors involved in fishing and the marketing of fisheries products to the relevant Member State and Community authorities, including the necessary components for electronic recording and reporting systems (ERS), vessel monitoring systems (VMS), and automatic identification systems (AIS);
+
+- implementation of programs aiming at exchanging and analysing data between Member States;
+
+- purchase and modernisation of control means;
+
+(b) point (a)(ii) is replaced by the following:
+
+"(ii) training and exchange programmes, including between Member States, of personnel responsible for monitoring, control and surveillance of fisheries activities;"
+
+(c) point (a)(iii) is replaced by the following:
+
+"(iii) implementation of pilot projects related to fisheries control, including development of web-sites related to control;"
+
+(d) point (a)(v) is replaced by the following:
+
+"(v) initiatives, including seminars and media tools, aimed at enhancing awareness both among fishermen and other players such as inspectors, public prosecutors and judges, and among the general public of the need to fight illegal, unreported and unregulated fishing and on the implementation of the CFP rules;"
+
+(e) point (b) is replaced by the following:
+
+"(b) expenditure relating to administrative arrangements with the Joint Research Centre, or any other Community consultative body, to assess and develop new control technologies;"
+
+(f) point (d) is replaced by the following:
+
+"(d) contribution to the budget of the Community Fisheries Control Agency (CFCA) to cover staff, administrative and operating expenditure relating to the annual work plan of CFCA."
+
+(6) Article 9 is replaced by the following:
+
+"Article 9
+
+Measures in the area of basic data collection, management and use
+
+In the area of data collection, management and use, the following expenditure shall be eligible for Community financial support in the framework of multi-annual national programmes:
+
+(a) expenditure incurred for the collection of biological, technical, environmental and socio-economic data in relation to commercial and recreational fisheries, including sampling, at-sea-monitoring and research surveys, and the collection of socio-economic data in the aquaculture and processing industry, as laid down in the multi-annual Community programme;
+
+(b) expenditure incurred for measures related to the management, development, enhancement and exploitation of data referred to in point (a);
+
+(c) expenditure incurred for measures related to the use of the data referred to in point (a), such as estimates of biological parameters, production of data sets for scientific analysis and advice;
+
+(d) expenditure incurred for the participation in Regional Coordination Meetings, relevant scientific meetings of regional fisheries management organisations of which the Community is a contracting party or observer, and in meetings of international bodies in charge of providing scientific advice."
+
+(7) Article 10 is amended as follows:
+
+(a) the heading is replaced by the following:
+
+"Measures in the area of additional data collection, management and use"
+
+(b) the second sentence in the introduction of paragraph 1 is replaced by the following:
+
+"The activities which may be eligible for Community financial support shall include:"
+
+(c) paragraph 1, point (a) is replaced by the following:
+
+"(a) methodological studies and projects aimed at optimising and standardising methods of collecting data needed for scientific advice;"
+
+(8) In Article 11, point (a) is replaced by the following:
+
+"(a) expenditure for partnership contracts with national research institutions or international bodies in charge of stock assessments for the provision of scientific advice and data;"
+
+(9) Article 12 is amended as follows:
+
+(a) point (a) is replaced by the following:
+
+"(a) travelling and accommodation costs of members of representative organisations in ACFA related to preparatory meetings in advance of ACFA meetings, and translation, interpretation and room hire costs incurred for those preparatory meetings ;"
+
+(b) point (b) is replaced by the following:
+
+"(b) the cost of the participation of the representatives designated by the ACFA to represent it at meetings of the Regional Advisory Councils (RACs), the International Council for the Exploration of the Sea (ICES) and the Scientific, Technical and Economic Committee for Fisheries (STECF);"
+
+(c) point (c) is replaced by the following:
+
+"(c) operating costs of the RACs as provided for in Council Decision 2004/585/EC;"
+
+(10) In Article 13, paragraph 1, point (e) is replaced by the following:
+
+"(e) voluntary financial contributions to work or programmes carried out by international organisations which are of special interest to the Community;"
+
+(11) Article 16 is amended as follows:
+
+(a) the heading is replaced by the following:
+
+"Rates of co-financing in the area of basic data collection, management and use"
+
+(b) the words "Article 23 (1)" are replaced by the words "Article 4 of Regulation (EC) No 199/2008".
+
+(12) The heading of article 17 is replaced by the following:
+
+"Rates of co-financing in the area of additional data collection, management and use"
+
+(13) Article 18 is amended as follows:
+
+(a) paragraph 2 is replaced by the following:
+
+"2. Drawing rights shall be allocated, under a financing agreement with the Commission, to each representative organisation which is a member of the ACFA plenary, in proportion to entitlements within the plenary committee of the ACFA and depending on the financial resources available."
+
+(b) paragraph 3 is replaced by the following:
+
+"3. Those drawing rights and the average cost of a journey by a member of a representative organisation shall determine the number of journeys for which each organisation may be financially responsible for the purpose of preparing meetings. Within the overall limit of the drawing right, 20% of the actual eligible expenditure shall be retained as a lump sum by each representative organisation to cover its organisational and administrative costs strictly linked with the organisation of the preparatory meetings."
+
+(14) Article 20 is amended as follows:
+
+(a) in paragraph 1, the first subparagraph is replaced by the following:
+
+"Applications by Member States for Community financial measures shall be submitted to the Commission by 31 October prior to the year of implementation concerned."
+
+(b) paragraph 2 is replaced by the following:
+
+"2. For each project the fisheries control programme shall specify to which measure referred to in Article 8(a) it relates, the aim and a detailed description with the following particulars: owner, location, estimated cost, the timetable for completion of the project and the public procurement procedure to be followed. When a project is conducted jointly by more than one Member State, the fisheries control programme shall also include a list of the Member States conducting the project, the estimated entire costs for the project as well as the estimated costs per Member State."
+
+(c) in paragraph 3, point (b) is replaced by the following::
+
+"(b) how many hours or days over a year they are likely to be used for fishery control purposes and which system is put in place in the Member State in order to make it possible for the Commission or the European Court of Auditors to check their effective use for control purposes;"
+
+(d) the following paragraph 4 is added:
+
+"4. Member States shall provide the information requested in paragraphs 1, 2 and 3 by submitting the electronic form communicated to them by the Commission both electronically and as a hardcopy."
+
+(15) The Heading of Section 2 is replaced by the following:
+
+"Procedures in the area of data collection, management and use"
+
+(16) Article 22 is replaced by the following:
+
+"Article 22
+
+Introductory provision
+
+The Community financial contribution to the expenditure incurred by the Member States for the collection, management and use of the basic fisheries data referred to in Article 9 shall be provided in accordance with the procedures set out in this Section."
+
+(17) Article 23 is deleted
+
+(18) Article 24 is amended as follows:
+
+(a) the heading is replaced by the following:
+
+"Commission financing decision"
+
+(b) paragraph 1 is replaced by the following:
+
+"1. On the basis of the multi-annual programmes submitted by the Member States in accordance with article 4(4) of Regulation (EC) No 199/2008 and approved by the Commission in accordance with Article 6(3) of that Regulation, decisions on the Community financial contribution to the national programmes shall be taken each year, in accordance with the procedure referred to in Article 30(2)."
+
+(c) paragraph 2 is deleted.
+
+(19) The following Article 32a is inserted:
+
+"Article 32a
+
+Transitional measures
+
+Notwithstanding Article 32 of this Regulation, the second indent of Article 3 and Articles 4 and 6 of Decision 2000/439/EC, as well as the Annex to that Decision, shall continue to apply to the 2007 and 2008 national programmes in the field of data collection and management."
+
+Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union .
+
+[Article 1(19) shall apply from 1 January 2007.]
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+
+
+[1] OJ L 160, 14.6.2006, p. 1
+
+[2] The new data collection framework is composed of several legislative acts adopted in 2008:
+
+- Commission Regulation (EC) No 1078/2008 of 3 November 2008 laying down detailed rules for the implementation of Council Regulation (EC) No 861/2006 as regards the expenditure incurred by Member States for the collection and management of the basic fisheries data. OJ L 295, 4.11.2008, p. 24
+
+- Council Regulation (EC) No 199/2008 of 25 February 2008 concerning the establishment of a Community framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the Common Fisheries Policy. OJ L 60, 5.3.2008, p. 1
+
+- Commission Regulation (EC) No 665/2008 of 14 July 2008 laying down detailed rules for the application of Council Regulation (EC) No 199/2008 concerning the establishment of a Community framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the Common Fisheries Policy. OJ L 186, 15.7.2008, p. 3
+
+- Commission Decision 2008/949/EC of 6 November 2008 adopting a multiannual Community programme pursuant to Council Regulation (EC) No 199/2008 establishing a Community framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy. OJ L 346, 23.12.2008, p. 37
+
+[3] The previous data collection framework was composed of:
+
+- Council Regulation (EC) No 1543/2000 of 29 June 2000 establishing a Community framework for the collection and management of the data needed to conduct the common fisheries policy. OJ L 176, 15.7.2000, p. 1
+
+- Commission Regulation (EC) No 1639/2001 of 25 July 2001 establishing the minimum and extended Community programmes for the collection of data in the fisheries sector and laying down detailed rules for the application of Council Regulation (EC) No 1543/2000. OJ L 222, 17.8.2001, p. 53
+
+[4] OJ L 155, 15.6.2007, p. 68
+
+[5] OJ L 346, 23.12.2008, p. 37
+
+[6] OJ L 60, 5.3.2008, p. 1
+
+[7] OJ L 186, 15.7.2008, p. 3
+
+[8] OJ L 176, 15.7.2000, p. 42
+
+[9] OJ L 343, 22.12.2009, p. 1
+
+[10] OJ L 160, 14.6.2006, p. 1
+
+[11] OJ L 155, 15.6.2007, p. 68
+
+[12] OJ L 60, 5.3.2008, p. 1
+
+[13] OJ L 346, 23.12.2008, p. 37
+
+[14] OJ L 186, 15.7.2008, p. 3
+
+[15] OJ L 176, 15.7.2000, p. 42
+
+[16] OJ L 343, 22.12.2009, p. 1
+
+[17] OJ L 286, 29.10.2008, p. 1

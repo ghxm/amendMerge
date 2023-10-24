@@ -1,0 +1,1263 @@
+EUR-Lex - 52003PC0453 - EN
+
+Avis juridique important
+
+|
+
+52003PC0453
+
+Proposal for a Directive of the European Parliament and of the Council On establishing a framework for the setting of Eco-design requirements for Energy-Using Products and amending Council Directive 92/42/EEC  /* COM/2003/0453 final - COD 2003/0172 */
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL On establishing a framework for the setting of Eco-design requirements for Energy-Using Products and amending Council Directive 92/42/EEC
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+1. INTRODUCTION
+
+This is a proposal for a framework Directive which will be followed by implementing measures establishing eco-design requirements adopted by the Commission assisted by a regulatory committee. Each implementing measure will be accompanied by an explanatory memorandum, an impact assessment and will be subject to a consultation procedure. The present text explains the underlying considerations and concepts of the framework Directive as well as the need for its establishment.
+
+2. OBJECTIVE AND SCOPE
+
+2.1. Eco-design Requirements for Energy-using Products: the context
+
+It is generally acknowledged that the production, distribution, use and end of life management of energy-using products (hereafter EuP) is associated with a considerable number of important impacts on the environment such as climate change linked to energy consumption, consumption of other materials and natural resources such as water, waste generation and release of hazardous substances to the environment.
+
+It is estimated that over 80% of all product-related environmental impacts are determined during the product design phase [1]. Integrating environmental considerations as early as possible into the product development process is therefore the most effective way of introducing changes and improvements to products.
+
+[1]  "How to do EcoDesign?", a guide for environmentally and economically sound design edited by the German federal Environmental Agency, Verlag form, 2000
+
+It is expected that with the wide dissemination and considerable environmental impacts of energy-using products, growing public awareness of environmental issues will result in the environmental aspects and performance of such products being increasingly targeted. It is important to avoid market fragmentation through diverging national requirements as regards the environmental aspects of these products. It consequently appears necessary to create a coherent harmonised Community framework in which to address these "eco-design" requirements.
+
+2.2. The objective
+
+The present proposal aims to create a comprehensive and coherent legislative framework for addressing eco-design requirements with the aim of:
+
+* ensure the free movement of energy-using products within the EU,
+
+* improve the overall environmental performance of these products and thereby protect the environment,
+
+* contribute to the security of energy supply and enhance the competitiveness of the EU economy,
+
+* preserve the interests of both industry and consumers.
+
+The proposal is therefore fully in line with the promotion of sustainable development and at the same time constitutes a concrete example of integration of environmental aspects in other Community policies.
+
+These different considerations, of environmental and energy objectives together with internal market and competitiveness considerations, provide the background to the development of eco-design requirements for products as described in the following chapters.
+
+2.3. The scope
+
+The proposed framework Directive is in principle applicable to any product using energy to perform the function for which it was designed, manufactured and put on the market. All energy sources are covered, although it is likely that only those using electricity, solid, liquid and gaseous fuels will be the subject of implementing measures.
+
+The proposed scope is very large. However in practice, the framework Directive defines the criteria for selecting products that can be covered by implementing measures.
+
+Some stakeholders expressed the wish that the proposal should list the products to be addressed as a priority by implementing measures and deadlines for carrying out the various activities. However, setting such priorities is difficult, not least because the relative importance of environmental priorities, and other priorities, changes over time. It could also be counterproductive by reducing the incentive for those industrial sectors not listed to be pro-active. The proper application of the framework Directive must be protected from developments that would be detrimental to some of its main advantages, such as flexibility, speed of decision-making and incentive for self regulation (see also chapters 5.1 and 5.2 of the present explanatory memorandum). Some stakeholders also questioned the availability of resources within the Commission services for preparing and monitoring potentially large numbers of implementing measures. At this point it should be made clear that the Commission cannot and should not produce a large number of implementing measures but rather a limited number for well justified cases selected in conformity with the criteria laid down in the framework Directive.
+
+Therefore, instead of trying to define a restricted scope, it is proposed that the framework directive lays down eligibility criteria for adopting implementing measures (see Article 12). For example a product will be selected only if it represents an important volume of sales in the EU market and an important environmental impact at European level. This is fully in line with the conditions and methodologies outlined in the Community Eco-label scheme [2]. Another criterion is the potential for improvement, which should not entail excessive costs and could take into account both existing legislation and pro-active initiatives from industry. Additional aspects (product performance, health and safety, impact on consumers, manufacturers' competitiveness) are integrated in the analysis.
+
+[2]  Commission Decision of 21/12/2001 establishing the Community eco-label working plan (OJ L 7 of 11.01.2002 p.28)
+
+The scope also covers parts, which are intended to be incorporated into EuP, which are placed on the market as individual parts for end-users and whose environmental performance can be assessed in an independent manner. Both conditions must be fulfilled. For example, although a part may be sold directly to a customer e.g. an individual resistor or capacitor, major environmental aspects may depend upon the way that this part is used in the final product. In this case an independent analysis of its environmental performance is neither possible nor meaningful; in any case the criteria of Article 12 apply. However this part can fall under Article 10, meaning that adequate basic information (e.g. on material composition, consumption of energy, etc.) will have to be provided to the equipment manufacturer if needed for the establishment of the ecological profile. It should be clear that unless implementing measures are adopted, no legal obligations flow from the framework Directive for manufacturers.
+
+It is proposed to exclude vehicles from the scope because it is already very broad and also because motor vehicles are already subject to a vast number of regulatory and voluntary measures (e.g. detailed legislation on design, voluntary agreement on CO2 emissions).
+
+The implementation of the present Directive will contribute to the integration of life-cycle thinking, one of the basic principles of the Integrated Product Policy [3] (IPP), into product design. The experiences with its implementation will contribute to judging the appropriateness of establishing similar parallel framework Directives for other products, or general obligations on producers to undertake eco-design. Activities that will be pursued in the follow-up to the Communication on IPP.
+
+[3]  COM(2001)68FINAL
+
+3. JUSTIFICATION FOR ACTION AT COMMUNITY LEVEL
+
+3.1. Policy context
+
+Sustainable development is one of the major policy goals of the European Union. Article 2 of the EC Treaty calls for a sustainable development of the economy of the Community. Article 6 of the EC Treaty requires environmental considerations to be integrated into the other Community policies and activities, with a view to promoting sustainable development. The Cardiff European Council in 1998 reaffirmed the need for integration of environment into other policies. In December 1999, the Helsinki European Council emphasised the three dimensions of sustainability: economic, social, and environmental.
+
+3.1.1. Setting requirements for energy-using products, which are traded within the Community, has an important internal market dimension. There are several examples of measures, adopted or envisaged at national level, concerning the use of substances, which are hazardous or otherwise of concern for the environment. In response to that the Community has adopted harmonised rules for the use of certain hazardous substances in electrical and electronic equipment; such equipment lies within the scope of the present proposal. Similar problems have emerged concerning the energy efficiency requirements of some products. Given the variety of environmental aspects of energy-using products and the increasing incorporation of environmental aspects into other policy areas, it is appropriate to create a coherent and comprehensive framework for harmonising eco-design requirements at Community level, thereby preventing potential barriers to trade. Such a framework will enhance transparency where product-related environmental considerations are integrated in fiscal policies and public procurement.
+
+3.1.2. Another major contribution to sustainable development comes from security of energy supply. In its Green Paper "Towards a European Strategy for Energy Supply" [4] the Commission highlighted that the European Union's rising need of affordable energy supplies will lead it to become increasingly dependent on external energy sources; enlargement will reinforce this trend. Since the EU has very limited scope to influence energy supply conditions, it is essential that the EU is able to intervene on the demand side, not by affecting economic activity but by making efficient use of energy wherever possible.
+
+[4]  COM (2000) 769 of 29 November 2000.
+
+Reducing the energy consumption of products contributes to:
+
+- security of supply: energy efficiency reduces the dependence on energy resources ;
+
+- competitiveness: energy efficiency can improve the competitive position of industry and commerce in the EU, since less energy is used for a given output. The value of energy saved can repay the cost of efficiency within a few years;
+
+- protecting the environment: the European Climate Change Programme (ECCP) has highlighted the great cost-effective potential for improving the energy efficiency of products, which are responsible for about 30% of total primary energy use and about 40% of CO2 emissions into the atmosphere. Reducing the energy consumption of EuP can make a substantial contribution to the Community's efforts to meet the Kyoto target for 2012 on the reduction of greenhouse gases. It should play an even more important role in the period beyond 2012, where the Community Sixth Environmental Action Programme provides fore a 20-40% reduction by 2020.
+
+However the setting of energy efficiency requirements, like any other eco-design requirement, will follow the IPP principle that environmental impacts are not merely transferred from one phase of the life cycle to another. Energy efficiency requirements are therefore integrated into this overall framework.
+
+3.1.3. One priority to ensure sustainable development for future generations is to reduce the negative effects created by products on the environment. However given the many environmental aspects of products, the risk exists that sectoral policies may focus on particular aspects or phases of the product's life cycle to the detriment of others, which may lead to contradictory and counterproductive legislation. This situation can be avoided by using an IPP approach. This has been elaborated in the aforementioned Green Paper on IPP and is further expanded in the Communication on the issue [5]. IPP seeks to reduce the environmental impacts of all products and services across the whole of their life-cycles. It is based on life-cycle thinking, stakeholder involvement , the continuous improvement of products and the use of a variety of different policy instruments, including eco-design measures.
+
+[5]  COM(2003) 302final of 18 June 2003
+
+Finally, building a sustainable world for future generations should not lead to disregarding the needs of present generations. Consequently, the setting of eco-design requirements for products should also take into account the socio-economic conditions.
+
+In conclusion, the present proposal aims to create the framework for improving the environmental performance of energy-using products while preserving and enhancing a sound economic environment for this significant sector of activity with regard to the free movement of goods within the EU and the competitiveness of industry. It is therefore fully in line with the requirements for promotion of sustainable development and at the same time constitutes a concrete example of integration of environmental aspects in other Community policies and of implementation of the IPP concepts in a wide product area.
+
+4. SUBSIDIARITY
+
+While many manufacturers have made substantial efforts to reduce the environmental impact of their products, thousands of new products showing a poor environmental performance continue to be put on the EU market although they could perform better at little or no cost.
+
+The objectives of this proposal are to reduce the environmental impacts flowing from energy-using products while preserving security of supply and the internal market for these products. Environmental protection and free movement of goods are issues of common responsibility for the Member States and the Community, and a legal initiative at Community level is therefore justified. Moreover, both these issues are cross-border in character and it is therefore considered that the objectives cannot be sufficiently achieved by the Member States but will be better achieved by the Community. The proposal thus fulfils the criterion of subsidiarity, as outlined in Article 5 of the Treaty.
+
+A number of studies have demonstrated that regulation is a motor for eco-design activities [6], in particular amongst SMEs [7]. Legislative action is needed to stimulate adequate integration of environmental considerations by the manufacturers in their design process. Even within large companies, the dissemination and implementation of eco-design in the various departments is often problematic [8]. Furthermore, it has to be kept in mind that although eco-design measures might very well prove profitable in the medium term, they do not always bring a direct and visible financial benefit; this aspect is very important in particular for small and very small enterprises and for low-income consumers. Strong competition from manufacturers who have little concern for the environmental impact of the products they place on the EU market hinders improvements.
+
+[6]  STUDY BY ESTO/IPTS : "ECO-DESIGN: EUROPEAN STATE OF THE ART", P.39
+
+[7]  OBSERVATORY OF EUROPEAN SME'S 2002/NO4: "EUROPEAN SMES AND SOCIAL AND ENVIRONMENTAL RESPONSIBILITY"P.40,AVAILABLE IN:  HTTP://EUROPA.EU.INT/COMM/ENTERPRISE/ENTERPRISE_POLICY/ANALYSIS/DOC/SMES_OBSERVATORY_2002_REPORT4_EN.PDF
+
+[8]  "TOWARDS THE ACTUAL IMPLEMENTATION OF ECO-DESIGN IN INDUSTRY" - THE "HAVES" AND "NEEDS" VIEWED BY THE EUROPEAN ECODESIGN COMMUNITY", MCALOONE, BEY ET AL., PRESENTED IN CARE INNOVATION 2002
+
+5. PROPORTIONALITY AND "BETTER REGULATION"
+
+5.1. The choice of the legal instrument
+
+Notwithstanding the urgent need for addressing the environmental impacts of EuPs and the acknowledged risk for the internal market if this is not done in a harmonised manner at Community level, it is necessary to ensure that any legislative act is based on adequate scientific knowledge and practical experience. Therefore it is proposed to establish a framework Directive that does not create immediate obligations; instead it provides the possibility to swiftly establish eco-design requirements on the basis of technical and economic analysis.
+
+This is an essential point to be kept in mind while examining the proposal: the effects on manufacturers, consumers and the environment will be produced by the implementing measures to be adopted through comitology procedure by the Commission after the adoption of this framework Directive by the Council and the European Parliament.
+
+The Commission is fully aware of the sensitive character of this issue from the institutional point of view. On the one hand efficient procedures must be established, allowing for fast progress and a sizeable contribution towards major objectives such as attaining the Kyoto targets; this is particularly relevant for highly technical matters such as the establishment and timely revision of eco-design requirements for energy-using products. On the other hand, the legal soundness of any proposed solution (also in the light of international obligations) must be ensured and the spirit of co-operation among the institutions of the EU must be maintained.
+
+It is clear that the appropriate balance has to be struck between these two basic requirements. In this context, it is worthwhile mentioning that in any case Council Decision 1999/468/EC laying down the procedures for the exercise of implementing powers conferred on the Commission provides for extensive information of the European Parliament and the possibility for Parliament to express its disagreement to Council and Commission. This balance will even be reinforced with the recent Commission proposal to amend Council Decision 1999/468/EC [9] which aims at placing both branches of the legislature on an equal footing as supervisors of the executive tasks conferred on the Commission for matters subject to codecision.
+
+[9]  COM(2002)719 final of 11.12.2002
+
+Therefore, in line with the proposed Institutional Architecture [10], the present proposal provides for a framework Directive setting the general principles and criteria for the establishment of eco-design requirements, but leaving the development and adoption of implementing measures for individual products to the Commission assisted by a regulatory committee. The framework Directive circumscribes very clearly the limits within which the implementing measures can be adopted by stating the criteria which will govern the choice of products (Article 12), the environmental aspects which may be dealt with by implementing measures (Annex I) as well as the methodology for setting specific requirements (Annex II).
+
+[10]  COM(2002)728 of 5.12.2002
+
+This process would maximise the environmental improvements through faster adoption of implementing measures and the taking into account of current environmental priorities for a larger number of energy-using products. It will also ensure that any proposal will be fully compatible with the principle of proportionality, since the detailed implementing measures will be based on adequate information and analysis, including impact assessment (which is far easier to collect and develop when the measure concerns a specific product or a given environmental aspect) and will take into account any self-commitments or other proactive measures that industry will take as a result of the adoption of this framework Directive.
+
+Implementing measures will be fixed after appropriate consultation with the interested parties, e.g. the manufacturing industry and other stakeholders, including environmental protection NGOs, consumer and user associations. Such consultation may reveal the need inter alia, for a staged introduction of some requirements and/or transitional provisions (for example in terms of implementation dates, nature or levels of the eco-design requirements, etc.); these aspects will be duly taken into account by the Commission when proposing implementing measures.
+
+5.2. Maximising the impact by spurring self-regulation
+
+Until now in most cases product environmental performance requirements have been introduced by mandatory, legislative measures. Some sectors of the industry have expressed their preference for the conclusion of voluntary agreements. This has been particularly successful in the area of energy efficiency: recently two agreements, the first one covering stand-by losses of Televisions and Videocassette Recorders, and the second covering domestic refrigerators and washing machines have been implemented successfully as unilateral commitments by industry. Other similar agreements cover dishwashers, electric motors, electric storage water heaters (standing losses) and audio equipment (stand-by consumption).
+
+Voluntary agreements can present some advantages compared with regulation fixing mandatory standards. They can provide for quick progress due to rapid and cost-effective implementation. They need not necessarily await the development of recognised methods of testing to the same extent, as would a regulatory measure. They allow for flexible and adjusted adaptation to technological options and market sensitivities.
+
+However self-regulation is not always a feasible option, in particular in sectors where the market is very fragmented. This is relevant for energy-using products, given the size and lack of homogeneity of the sectors involved; it cannot be expected that credible and coherent voluntary actions of the economic operators to address environmental aspects of energy-using products throughout their life cycle will emerge spontaneously.
+
+Finally there are also some drawbacks: self-regulation is not binding on all industry members (there is the possibility of having "free riders") and cannot, like legislation, be enforced in the courts; compliance consequently cannot be guaranteed.
+
+The adoption of a framework directive on eco-design requirements would reinforce the potential impact of self-regulation by the industry. Industry, aware that the Community possesses an efficient tool to set requirements rapidly through the adoption of implementing measures, could either conclude satisfactory self-commitments or support compulsory requirements where it is clear that too many "free riders" would not share the same environmental improvement targets. It would also provide for a quick alternative should a self-commitment prove not to work.
+
+5.3. Reduction and simplification of the "Acquis"
+
+Directives already exist on minimum energy efficiency requirements for some types of products [11]. These can be considered as implementing measures of the present framework Directive regarding energy consumption during use; a consolidation and simplification of Community legislation is thereby achieved.
+
+[11]  Directive 92/42/EEC on energy efficiency requirements for new hot water boilers (OJ L 167, 22.6.1992, p17; Directive 96/57/EC on energy efficiency requirements for household refrigerators, freezers and combinations thereof, OJ L 236, 18.9.1996, p.36; Directive 2000/55/Ec on energy efficiency requirements for ballasts for fluorescent lighting, OJ L 279, 1.11.2000, p. 33.
+
+If appropriate, these implementing measures can be amended by the procedure described in the present framework Directive so that requirements can be adapted and/or additional aspects can be included.
+
+Council Directive 78/170/EEC of 13 February 1978 on the performance of heat generators for space heating and the production of hot water in new or existing non-industrial buildings and on the insulation of heat and domestic hot-water distribution in new non-industrial buildings [12] laid down requirements which are now superseded by provisions of Directive 92/42/EEC, of Directive 90/396/EEC relating to appliances burning gaseous fuels and of Directive 2002/91/EC on the energy performance of buildings [13]. Considering that Directive 78/170/EEC (as amended by Directive 82/885/EC) is now becoming obsolete, it is proposed to repeal it.
+
+[12]  OJ L 52, 23.2.1978, p. 32
+
+[13]  OJ L 1, 4.1.2003, p. 1
+
+Article 6 of Directive 92/42/EEC provides for an optional star rating system aiming at ascertaining the energy performance of boilers. The provisions regarding the star rating system failed to deliver the expected result and can therefore be repealed.
+
+Directive 86/594 [14] establishes a standard method for sampling and testing the levels of noise emitted by household appliances. Member States which decide to make the publication of information on noise emissions mandatory must require manufacturers to use this standard method. However, the Directive does not make the publication of information on noise emissions mandatory, and no Member State currently requires the publication of this information. Directive 92/75/EEC, on the indication by labelling, at the point of sale, of the consumption of energy and other resources by household appliances, includes an optional noise element linked in to 86/594. It leaves to the individual member States to require the information on noise to be displayed on the label or not. In addition, many manufacturers are unhappy with the method set out in 86/594/EEC. As a consequence this information is not made available in practice to consumers. Such a situation does not ensure proper harmonisation, and lacks effectiveness. For reasons of coherence with the Internal Market approach, and considering that the Directive does not deliver the expected results, it is more appropriate to include noise emissions in a more integrated assessment of environmental performance. The present Directive provides such a coherent framework that will allow to address this concern, as noise emissions will be assessed along with the other environmental aspects of the product. Directive 86/594/EEC and references to it in Community legislation can therefore be repealed.
+
+[14]  OJ L 344, 6.12.1986, p.24
+
+5.4. Coherence with other Community legislation
+
+The present proposal is compatible with other EU legislation and initiatives concerning environmental aspects of products; it will increase their integration and effectiveness.
+
+The proposed framework Directive has a wider scope than any related existing Community legislation both in terms of products to be covered and in terms of environmental aspects, and in this sense it may be used for covering gaps that are deemed important. On the other hand there are already examples of certain environmental aspects of some products being regulated at Community level; in these cases the present proposal will provide a coherent framework allowing their adaptation in view of a fast and efficient improvement of their environmental performance.
+
+The WEEE Directive [15] regulates the management of waste from some of the products falling under the scope of the present proposal (electrical and electronic equipment) and prescribes collection, recycling and recovery targets; it also establishes the principle of producers' financial responsibility for waste treatment. The present proposal will further promote the design of products to facilitate reuse and recycling by allowing for the systematic introduction of those aspects in the early stages of the design process and by providing concrete indicators for monitoring progress in this respect.
+
+[15]  Directive 2002/96/EC on waste from electrical and electronic equipment, adopted by Council and European Parliament, OJ L37, 13.02.2003, p.24
+
+Concerning the use of substances, the RoHS [16] Directive regulates the use of certain hazardous substances used in electrical and electronic equipment. It is clear that beyond these substances a number of other substances are used in energy-using products the release of which in the environment should be controlled or indeed eliminated. The present proposal will encourage producers to examine possibilities for minimising the use of these substances and their release in the environment during the various life-cycle stages of the product. Moreover, with the extensive information supply along the chain to the product manufacturers and from them to end-users and treatment facilities, it will assist the correct and speedy implementation and monitoring of RoHS.
+
+[16]  Directive 2002/95/EC on the restriction of the use of certain hazardous substances in electrical and electronic equipment adopted by Council and European Parliament, OJ L37, 13.02.2003, p.19
+
+It will be possible to address energy consumption throughout the life cycle of the product and not only during its use phase, as is currently the case. It will also be possible to establish rapidly quantitative energy efficiency requirements in the form of specific eco-design requirements to achieve quick progress in the context of climate change and security of energy supply. In this respect, several directives laying down minimum energy efficiency requirements of equipment during use have already been adopted.
+
+Actions to improve energy efficiency of equipment have been envisaged for all three major consuming sectors: residential, tertiary and industrial. Up to now, the Commission has been following a dual approach of promoting greater consumer awareness of the availability of more energy-efficient models of appliances (energy labelling) and the production of more efficient appliances by manufacturers (efficiency requirements).
+
+Special attention has been paid in the initial phase to household appliances, because it was felt that particularly in the domestic sector barriers to the penetration of energy-efficient appliances were difficult to remove. The main barrier in the domestic sector is lack of consumer awareness, information, and technical knowledge on energy consumption of individual appliances and possible energy savings.
+
+Energy efficiency requirements directly promote energy efficiency improvements at the product design stage. They are a very powerful tool to transform the market and to achieving substantial energy savings at low cost, especially when information and labels are not appropriate to influence the final users. If efficiency improvements are set at the product design stage, we can be sure that the desired savings will be achieved. Several main economic partners of the EU [17] have adopted or are considering adopting efficiency requirements as the key policy action to improve energy efficiency of equipment.
+
+[17]  These countries include: USA, Canada, Japan, China, Thailand, Switzerland, South Korea, Philippines, Mexico, New Zealand, Australia, Taiwan.
+
+Efficiency requirements guarantee an improvement in energy efficiency by ensuring that the worst-performing appliances for a given function are not put on the market. They complement other initiatives such as the labelling of products (e.g. Directive 92/75/EEC on the labelling of domestic appliances).
+
+Mandatory minimum specific eco-design requirements or requirements for improving the overall environmental performance of a product are also complementary to the Eco-label initiative. The Eco-label [18] provides for the voluntary labelling of products conforming to very high quality and environmental criteria aiming to highlight and reward the best-performing products, and it consequently does not have the same objective as the present proposal. However, information gathered during the Eco-label exercise will be very useful in identifying major environmental aspects of relevant products. Conversely, the environmental information to be created and made available as a result of the implementation of the proposed framework Directive may be used for further activities in the context of Eco-label. Finally, the measurement standards to assess some important environmental or functionality parameters used for the Eco-label can also be used for the present framework Directive (see energy consumption: currently, the same standards are used for the Eco-label, for the energy label under Directive 92/75 and for the energy efficiency requirements Directives).
+
+[18]  Regulation 1980/2000 of the European Parliament and of the Council of 17/07/2000 on a revised Community eco-label award scheme (OJ L 237 of 21/09/2000, p.1)
+
+The proposed framework Directive, through the consideration of the entire life cycle, will also facilitate compliance with other EU legal acts not directly related to products, such as the IPPC Directive [19] or the legislation on the quality of the various environmental compartments (air, water) and the emissions they receive. It is also expected to increase dissemination and visibility of the EMAS [20] scheme, to the extent that enterprises with an EMAS covering product design will be able to use it for demonstrating conformity of their products with implementing measures resulting from the present Directive.
+
+[19]  Council Directive 96/61/EC of 24/09/1996 concerning integrated pollution prevention and control (OJ L 257 of 10/10/1996, p.26)
+
+[20]  Regulation (EC) 761/2001 of the European Parliament and of the Council of 19/03/2001 allowing voluntary participation by organisations in a Community eco-management and audit scheme (EMAS)
+
+Finally there remain many product characteristics with considerable or potentially important environmental impact, but which are not yet covered by EU legislation (e.g. nature and variety of materials, use of water and other consumables, air and water emissions). Improvements in the environmental impact of energy-using products will be reached faster and more efficiently through the introduction of a coherent framework for assessing the overall environmental performance of the product rather than by addressing individual environmental aspects of these products. Such a fragmented approach, aiming at specific improvements on individual aspects, might indeed have negative repercussions on other environmental aspects.
+
+In conclusion, the proposed framework Directive on eco-design of energy-using products will complement and facilitate implementation and monitoring of existing EU measures; it will also provide the right framework for addressing emerging environmental issues swiftly.
+
+6. LEGAL BASIS
+
+The present Directive will regulate the conditions for placing energy-using products on the EU market by harmonising product-related environmental protection requirements. The objective will be to address environmental protection while eliminating or avoiding barriers to trade and preventing distortion of competition due to possible divergent regulatory systems. The focus is therefore on sustainable development, protecting the public interest while improving conditions for the functioning of the internal market and increasing security of energy supply.
+
+It is not the first example of EU legislation based on Article 95 of the Treaty while having also other policy objectives such as environmental protection: the packaging and the batteries Directives in the waste management area, as well as the forthcoming RoHS Directive are based on Article 95. A recently-adopted Directive on noise from equipment for use outdoors is also based on Article 95. The same goes for legislation on emissions from engines for mobile equipment (other than road vehicles), for the existing directives on minimum energy efficiency requirements and for the framework directive on labelling concerning energy consumption of domestic appliances.
+
+At the same time, Article 95(3) of the EC Treaty explicitly states that "the Commission in its proposals [...] concerning health, safety, environmental protection, and consumer protection, will take as a basis a high level of protection". Moreover, Article 95(4) and (5) provides the possibility for Member States to maintain or introduce national provisions relating to the protection of the environment on the grounds of a specific problem and based on new scientific evidence.
+
+In conclusion, Article 95 is appropriate for harmonising design requirements of products for improving their environmental performance and increasing security of energy supply.
+
+7. EXTERNAL CONSULTATION
+
+The present proposal is the outcome of the merger of two initiatives which were previously being developed separately by Commission services: one on the impact on the environment of electrical and electronic equipment (the "EEE" draft Directive) and the other on energy efficiency requirements for end use equipment. On EEE the formal consultation process began in September 2000 with bilateral meetings with European industry associations. Large companies (Siemens, Phillips, Motorola, IBM, Intel, Ericsson, Nokia, etc.) and SME associations were involved. These meetings were relatively small (25-30 participants) and were based around a very informal working draft of a directive in order to focus attention on the basic concepts and principles which needed to be addressed and to identify key issues, rather than having detailed discussions on specific text. In parallel, bilateral discussions took place with environmental NGOs, emphasising the New Approach and how it works, and with CENELEC standardisers, to examine how the standardisation requirements for the directive could be addressed. In November 2000, a much larger multilateral meeting took place with all stakeholders, including manufacturers, suppliers, waste management facilities, NGOs, and officials from the Member States (approximately 70 people attended). In view of the industrial and environmental dimensions of the initiative, officials from both ministries were invited. The meeting focused on the principles lying behind the proposal with the aim of stimulating interest and creating a basic level of understanding amongst all stakeholders.
+
+Following this initial round, the Commission services presented a new draft during a meeting of more than 100 representatives from Member States, industry, standardisers, and NGOs in early March 2001. While some stakeholders supported the need for a legislative framework for introducing environmental considerations in product design there were also several critical comments concerning the clarity and possibility of enforcement of the requirements of the EEE working document as well as on the coherence of this initiative with other existing or forthcoming EU policy measures on the environmental aspects of these products. Bilateral discussions on this text continued throughout 2001 and a number of practical implementation issues were identified; these were potential difficulties for SMEs and means to address them, role of standardisation, life-cycle thinking for introduction of environmental aspects in EEE design and data inventory and declaration process needs. A technical workshop with the participation of more than 130 participants was organised in February 2002 to discuss these issues in four parallel sessions. The results of this workshop as well as the comments received by the stakeholders on the working document were placed on the Internet.
+
+In parallel the draft framework Directive on minimum energy efficiency requirements was being prepared. Stakeholders have been consulted on the basis of a working document shadowing an explanatory memorandum and including questions on the options to retain concerning the main points intended to be addressed in the articles. Stakeholders had the possibility to express their views during a workshop on 30April 2002 where representatives of Member States, Commission services, industry, consumers and NGOs were invited to participate. The minutes of the workshop were circulated together with the comments made by the stakeholders. There was a broad acceptance of the proposed approach. However, representatives from the industry asked the Commission services to avoid possible overlapping and/or contradiction with the EEE initiative.
+
+Following these consultations the Commission services concluded that the objectives of both initiatives would be better served by a single coherent framework giving to the Community the possibility to adopt implementing measures for given products when appropriate on the basis of a number of criteria. At the same time the possibility would be created of setting concrete measurable requirements on specific parameters, such as energy consumption during use. These concepts and the corresponding mechanisms have been incorporated in the present framework Directive on eco-design of energy-using products.
+
+A first draft of the present framework Directive was presented to the stakeholders for comments and discussed with them on 18 November 2002. A list of the organisations represented in this meeting is annexed to this explanatory memorandum. Some Member States' representatives, although favouring an integrated approach, sought an assurance that the advent of energy efficiency requirements would not be delayed by their inclusion in the proposed Directive. For the same reason, environment NGOs criticised the text and some even asked that the idea of merging the two proposals be dropped. Industry representatives were keen to maximise the possible role of self-regulatory undertakings; together with consumer protection organisations, they welcomed the merger of the two initiatives. Both consumers and environment protection organisations expressed concern about the availability of resources within the Commission to deal with a sufficient number of implementing measures and for themselves to be able to follow closely the preparation of those measures. Minutes together with comments received were circulated. Final contributions were welcomed by 15 December 2002. Many stakeholders responded in writing. In general there was an acceptance of the main building blocks (framework Directive, comitology, legal basis) but doubts were voiced on certain aspects (involvement of stakeholders in the preparation of implementing measures, scope, enforceability of the generic requirements, commitment to environmental targets). The comments were carefully considered by the Commission services and the text was modified to take them into account as far as possible; these comments are available on the Internet [21]. The revised text introduces a number of important clarifications in the definitions and the implementation of the generic eco-design requirements; several technical aspects in the annexes have also been improved in response to the stakeholders' comments.
+
+[21]  HTTP://EUROPA.EU.INT/COMM/ENTERPRISE/ELECTR_EQUIPMENT/EEE/INDEX.HTM
+
+8. ENVIRONMENTAL IMPACTS
+
+Throughout their life cycle, energy-using products interact with the environment in a number of ways. The extraction (e.g. metals) or production (e.g. polymers) of the raw materials, the transformation of these materials into functional components and the assembly of those in whole equipment pieces are associated with environmental impacts; so are the transport and installation and, obviously, the use of this equipment and its management at the end of life.
+
+Examples of such interactions with the environment are the utilisation of material resources, including fresh water, for the manufacturing but also for the proper functioning (e.g. in the form of packaging or consumables such as inks and toners or detergents) of the products; the consumption of energy during the various stages of the life cycle, in particular use; emissions associated with the extraction of materials (e.g. from mining activities), manufacturing (e.g. cleaning, surface treatment operations), transport, use (e.g. emissions of particles, NOx, etc from engines) and end-of-life management (e.g. possible emissions of ozone-depleting substances during the treatment of end of life refrigerators or air conditioning equipment, release of toxic substances such as heavy metals during landfilling of electronics etc.); generation of waste material throughout the various life-cycle stages, in particular at the end of the useful life of the product.
+
+For some categories of energy-using products, market developments and technological progress may aggravate their environmental impact; while this aggravation is an obvious side-effect of increased consumption, it can also accompany enhanced functionality and complexity of the products since the improvement of these characteristics may necessitate the use of a greater variety of materials, of new materials etc. Fast innovation in conjunction with modern consumption patterns result often, especially for consumer products, in frequent replacement of products, before they reach their end of technical lifetime.
+
+As an illustration, home appliances and office equipment account for over 25% of final electricity use and are one of the fastest growing sector of energy use [22]; domestic lighting accounts for an electricity consumption representing 17% of all residential electricity use [23]. About 75% of approximately 1.2 million tonnes of special glass produced in the EU are used in electrical and electronic equipment [24]. This equipment accounts also for approximately 7.3% of the overall plastics consumption in Western Europe, and the quantities used have been rising steadily since 1990 (by 25% since 1995). [25]
+
+[22]  IEA report on energy labels and standards
+
+[23]  « Revising the ecolabel criteria for lamps », 1999. AEA report produced for DG Environment, p.11
+
+[24]  data provided by the special glass industry federation in 2003
+
+[25]  While few types and big pieces of plastics are used in large appliances, IT and telecom equipment (accounting for 26% of the overall plastics consumption in electrical and electronic equipment) incorporates a variety of polymer types Brochure of the Association of Plastics Manufacturers in Europe (APME), 2001
+
+In many cases, in particular for long-living consumer products such as household appliances, the use phase and in particular energy consumption during use, have an overriding role in determining the overall environmental performance of the product; there are however examples where the production of materials has the major role (e.g. mobile phones) or where the end-of-life management is a major constituent (e.g. medical devices). Moreover, it is often not straightforward to identify one single environmental aspect of the product with an overriding role, but trade-offs between the various environmental aspects across the product's life cycle must be made during design. For example, while fluorescent lamps are more energy efficient than incandescent lamps, they require the use of mercury which is a hazardous substance; in a cleaning machine reduced use of detergents will normally lead to increased water temperature (and hence higher energy consumption); optimising a product for weight and/or volume reduction might negatively affect its recyclability.
+
+Further and beyond these trade-offs among environmental issues, the product designer has to take into account other technical (e.g. safety, functionality) as well as economic aspects.
+
+It can therefore be concluded that the size and variety of the environmental impacts of energy-using products require an integrated approach allowing in principle all environmental aspects of the product to be addressed. Fragmented attempts to optimise individual environmental aspects risk shifting the problem elsewhere instead of solving it, and also depriving the designer of the flexibility to balance environmental and other requirements within the product appropriately. Obviously, products will have to comply with any quantitative requirement set by the legislator.
+
+Although it is generally accepted that the major environmental aspects are focused around the use of materials, the consumption of energy and the toxicity of some of the constituents, it is not possible to establish in advance the priorities and targets to be achieved for all energy-using products. This can only be done at product level or, for given environmental parameters, at product family level, which is the appropriate level for collecting meaningful information and establishing quantitative objectives.
+
+Furthermore, new scientific knowledge or market developments may bring into light or, respectively, create, hitherto unforeseen needs, which have to be addressed in a coherent manner, allowing for quick targeted action. This is ensured by the proposed framework Directive which establishes clear criteria for the selection of products to be subjected to eco-design requirements, provides indicators for monitoring improvement of environmental performance and creates the possibility for introducing quantitative requirements on given aspects when justified.
+
+A clear distinction has to be made between the actual environmental impacts (e.g. climate change, forest degradation due to acid rain, eutrophication, ozone depletion etc), partly due to products and the environmental aspects of the product which can be correlated to those impacts (energy consumption and emissions of greenhouse gases, emissions of acid substances, emissions of substances disturbing the oxygen balance, emission of substances affecting the stratospheric ozone).
+
+Given that the enforcement of a Directive aiming to ensure free movement of goods and of the implementing measures can only be possible and transparent if it is ultimately based on concrete, measurable and comparable characteristics of the products, and that the actual environmental impact of the product depends not only on its design but also on the way it is manufactured, used and treated at its end of life as well as the location and other circumstances of the various life-cycle stages, the proposed framework Directive focuses on measurable environmental aspects of the product rather than on all the actual environmental impacts which are difficult to quantify and fully evaluate.
+
+Moreover it has to be remembered that in many cases the actual environmental impacts of the product are beyond the control of the designer and the manufacturer. For example, the manufacturer may design the product so that is easily recyclable but be unable in a global market to effectively verify whether the product when it becomes waste will be recycled according to the design specifications or indeed even collected separately. Another example is the energy consumption during use, which can vary considerably for the same design, depending on consumers' habits and discipline. Also the actual environmental impact from energy consumption varies considerably depending on the way the energy has been produced: the environmental impact of producing the same number of kilowatt-hours of electricity may be quite different if they have been produced from fossil or renewable sources of energy. This is why the intention of the framework Directive is to give priority on environmental aspects of the product that can be influenced in a substantial manner through product design.
+
+Obviously, the overall impact of the framework Directive will depend on the number of implementing measures adopted and on the number of self-commitments concluded by the industry as a consequence of the initiative. It is estimated that the impact of e.g. requirements envisaged on the energy consumption of equipment during use and subsequent CO2 [26] emission reductions would become very substantial in time, reaching 200 million tonnes/year by the year 2020, when the all currently-installed equipment has been replaced. A more detailed evaluation of the potential effect of the proposed measure concerning CO2 savings is given later in this explanatory memorandum.
+
+[26]  BASED ON THE COMMUNITY ELECTRICITY GENERATION MIX FORECAST FOR THE PERIOD IN QUESTION.
+
+9. ECONOMIC IMPACT ON MANUFACTURERS
+
+At this point it is worth clarifying once more that the present framework Directive will not directly create legal obligations and requirements for manufacturers; this will happen only when the implementing measures are adopted. Prior to the adoption of each implementing measure a specific impact assessment will be carried out which will include consideration of the impact on manufacturers, in terms of competitiveness, innovation, market access and costs.
+
+It should be kept in mind that environmental considerations can be an integral part of product design and that environmental improvements are often complementary with other product requirements [27]. Also, there is increasing market demand from consumers and business customers (through subcontracting relationships) but also from shareholders for adopting environmentally responsible solutions in general and environmental management systems in particular [28]. Promoting a sustainable structure of industrial production, in particular through the implementation of life-cycle approaches to products, is becoming a driver of growth and productivity, as reflected in the outcome of the World Summit on Sustainable development in Johannesburg [29].
+
+[27]  See APPLE, March 2000 -"A case-study of the Power Mac G4 desktop Computer", p.4
+
+[28]  "European SMEs and social and environmental responsibility" p.40
+
+[29]  "Industrial Policy in an Enlarged Europe", Communication from the Commission COM(2002)714final of 11.12.2002
+
+In some cases integration of environmental aspects in product design during the initial phases may incur costs for the adaptation of internal company structures, the acquisition of the necessary environmental information and expertise and the implementation of the appropriate design solutions. Production and maintenance of conformity documentation will also create some additional costs; their level will depend on the degree to which companies have already integrated environmental aspects for the above mentioned reasons. For the increasing number of companies which will have done so before an implementing measure is adopted, the cost will be minimal.
+
+However, even in the cases where some costs do occur, they are expected to decrease gradually taking into account that the implementation of the Directive and standardisation will contribute to the greater availability of comparable data and design tools in the public domain and thus render their use for environmental assessments easier and more cost-effective. [30] Moreover, experience has confirmed the hypothesis that improvements to environmental performance also have positive economic repercussions for the manufacturers in terms of direct savings (e.g. reduced materials and energy costs; reduced manufacturing cost, for example through reduction of time for assembly and product optimisation [31]; decreased costs for compliance with environmental legislation such as reduced waste management and pollution abatement costs; enhanced reliability of the products). In particular, design which facilitates reuse and recycling will reduce manufacturers' costs for the end-of-life management of their products. Apart from these gains there are also other economic benefits such as increased acceptance by customers (private, industrial or in the context of public procurement) and by financial markets.
+
+[30]  "In terms of business-to-business communications, there are strong market drivers within the sector for the provision of product environmental information. These include requests for information from public procurers, voluntary environmental management and eco-design initiatives... As a result, several of the large multinational end-product manufacturers developed their own supply chain questionnaires, which typically focused on the hazardous chemical and heavy metal content of the components being supplied. However, providing and requesting information in different formats presented difficulties for both procurers and suppliers. It made it difficult for procurers to compare the information provided, and from a supplier's perspective, filling in different questionnaires is extremely time consuming and inefficient. As a result there was clearly a need to develop standardised responses and information formats". Study for the Commission, DG Environment on Environmental Product Declaration schemes, 2002
+
+[31]  reduced time for disassembly increases recyclability for most energy using equipment; by aiming at its reduction during design, a reduction of the time necessary for assembly of the product during manufacturing is simultaneously achieved. Reduced energy consumption in the internal circuits of electronic equipment will also reduce the waste heat released and therefore the necessity for ventilation, thereby contributing to simplicity of production and lower costs.
+
+These factors support the assumption that the marginal cost for manufacturers of introducing eco-design requirements will not be substantial. In any case, they will be carefully evaluated in the context of the impact assessments which will accompany the implementing measures. Furthermore they will apply to all manufacturers competing on the same market.
+
+It is highly likely that integrating environmental considerations into product design will lead to a general improvement in manufacturers' insight into the design and manufacturing process as well as into the supply chain, the distribution and the servicing of their products. This might lead to increased resource productivity and to a fall in costs which will outweigh initial expenses. This hypothesis is being confirmed by a number of case studies [32]. Such a process could be considered similar to the introduction of quality aspects during the 1980s: instead of proving expensive or incompatible with other requirements on the product, the systematic and generalised quest for quality has been at the source of many innovations and has become an integral part of daily life in enterprises [33].
+
+[32]  See report from the GreenPack project "Green is the colour of money -- Commercial success stories from eco-design", August 2001
+
+[33]  See also "Environmental concern in electronics Product development" , G.Johansson, IVF, March 2002
+
+These reasons have certainly been important in the decision of a substantial number of companies (especially larger ones) to introduce eco-design activities over many years. For those companies it can reasonably be assumed that the marginal cost of the Directive will be minimal.
+
+The situation might differ in some respects in the case where manufacturers have no particular motivation to implement technical solutions that would improve the environmental performance. For example, except where it is properly promoted towards consumers (e.g. through product labelling) and marketed, manufacturers usually do not immediately benefit from a better energy efficiency of their products in use. This means that the establishment of eco-design requirements will in some cases impose constraints on manufacturers, which need to be taken into consideration.
+
+Therefore particular precautions need be considered such as:
+
+* appropriate adaptation period and calendar for introducing a requirement, with particular attention to SMEs;
+
+* adequate balance between the level of the requirement envisaged and its technical/economical feasibility, including particular market sensitivities;
+
+* suitable range of technological options available to achieve the level required; with proprietary solutions ruled out in principle;
+
+* assuring proper and timely consultation;
+
+* maintaining coherence and consistency with other Community legislation or policy initiatives (such as energy labelling classifications, criteria for Eco-labelling, restriction of use of hazardous substances, management of waste from electrical and electronic equipment).
+
+Specific eco-design requirements at Community level have positive implications for manufacturers in terms of clear rules for engineering, easier enforcement by market surveillance authorities and minimisation of legal challenge and market uncertainty.
+
+Finally, systematic integration of environmental aspects in product design will significantly facilitate cost-effective compliance with specific eco-design requirements. Indeed, manufacturers with a good knowledge of the environmental aspects and potential for improvement of their products will already largely comply with specific eco-design requirements that may be adopted.
+
+10. CONFORMITY ASSESSMENT
+
+Methods of assessing the conformity of products with essential requirements or harmonised standards based on the so-called "global approach", have been adopted at Community level [34],  [35] and have been incorporated in this proposal. A conformity assessment procedure based only on self-assessment is proposed as a general rule.
+
+[34]  Council Resolutions on a global approach to conformity assessment, OJ N° C 10/1 of 16.1.90, p.1.
+
+[35]  Council Decision 90/683/EEC concerning the modules for the various phases of the conformity assessment procedures which are intended to be used in technical harmonisation directives, OJ N° L 380 of 31.12.1990, p. 13.
+
+Under the self-assessment mode, manufacturers are required to draw up technical documentation and accompanying test reports in support of the declaration of conformity they are required to make. All these documents must be kept available for inspection by the public authorities responsible for market surveillance at any time and in particular if doubts arise about the conformity of a particular model of appliance. These are formal procedures, which must be followed before the manufacturer can legitimately affix the CE marking, allowing the product to be placed, and to circulate freely, on the Community market. Some commentators have expressed doubts about the effectiveness of a self-assessment procedure without pre-market third party intervention. However under the circumstances as described above, it is felt to be sufficient, all the more so when account is taken of the threat of prosecution under the appropriate trades description legislation in a country and the very negative publicity which could accompany a false claim. It is considered that in principle, such a self-assessment procedure is also more convenient for SMEs.
+
+However pre-market procedures (covering type-and/or product controls by third parties) might be more appropriate for some particular products. Therefore it is proposed to keep the possibility to set these procedures in the specific implementing measure but only where duly justified and documented.
+
+An innovative aspect of the present proposal is that it allows the use of environmental management systems which take the product design and environmental performance adequately into account as a method for conformity assessment. This does not mean that any product manufactured in a site or by a company having an environmental management system according to Annex V of this proposal is deemed to comply with the Directive. The eco-design requirements specified in the applicable implementing measure must be complied with. In the case where an EMAS certification covering product design is available, it is presumed to comply with the requirements of Annex V. Article 7(2) 3 gives the possibility that an ISO 14001 system to the extent that it covers product design might be used as a basis for building an environmental management system according to Annex V.
+
+11. PRESUMPTION OF CONFORMITY
+
+The Ecolabel is an EU quality label programme aiming at distinguishing products that reach a very high environmental performance. The process of determining the criteria for awarding the Eco-label is managed at EU level through agreed institutional arrangements ensuring clear requirements, adequate analysis and representation of stakeholders. Eco-labelled products are therefore presumed to conform with eco-design requirements set in this framework where that requirement is part of the criteria for awarding the label. It is not deemed appropriate to grant the same status to other national or international environmental labels, which are not under control of the Community legal process.
+
+The standardisation could be helpful in establishing methods for measuring the environmental parameters identified in the implementing measures. In some cases standardisation may be helpful in better describing the parameter (e.g. recyclability) through simpler physical units/indicators. Moreover, standardisation can be useful in terms of information supply, databases, checklists etc.
+
+In no case will the standardisers be invited to fix a limit for a given environmental aspect.
+
+On the basis of the experience from the implementation of the present Directive and taking into account developments in other related areas, other means of presumption of conformity might become available and be used in the future; for example it may be appropriate to re-evaluate the potential for the use of Environmental Product Declarations (EPD) if an appropriate Community framework for their use is put in place.
+
+12. ASSESSMENT OF THE ENVIRONMENTAL PERFORMANCE AND ECOLOGICAL PROFILE
+
+The ecological profile is a description of the significant environmental aspects of the product throughout its life cycle, expressed in terms of measurable inputs and outputs. As explained earlier, the focus is on contributing to the management of environmentally relevant aspects (e.g. energy consumption and emissions of greenhouse gases, emissions of acid substances, emissions of substances disturbing the oxygen balance, emission of substances affecting the stratospheric ozone). This will lead to a reduction of the environmental load associated with the product and thereby help to lessen the impacts (e.g. climate change, forest degradation due to acid rain, eutrophication, ozone depletion) associated with the product's environmental aspects. It is clear that eco-design requirements will be applied on environmental aspects of energy-using products which imply an ascertainable environmental impact.
+
+In order to establish the ecological profile it is not obligatory to make a life cycle analysis (LCA) according to relevant international standards; such an obligation could create a disproportionate financial and human resources burden on enterprises, in particular SMEs. In addition, it has to be kept in mind that the concept of applying Life Cycle Analysis is not yet fully mature and the results of such an analysis are not always easy to interpret [36]. At the same time it is acknowledged that the LCA concept is developing towards becoming useful and affordable, even for smaller firms. Whenever data from LCAs are available and can contribute to the creation of the ecological profile, they could be used. Moreover it should be borne in mind that the intention of the framework Directive is to focus on factors which can be substantially influenced through product design. Annex I lists a number of indicators of environmental performance which are generally deemed to be relevant for the targeted products. Implementing measures will include the relevant parameters for the products to which they apply.
+
+[36]  In particular the assessment of the actual impact on the environment which is an integral part of the ISO 14040 standards' series, has a number of limitations (spatial and temporal differentiation of environmental processes and ecosystems, absence of linear response between system loading and the environment, different underlying values and principles of parties, leading to different formulation of environmental issues and interpretation of results) see "Evolution and development of the conceptual framework and methodology of life-cycle impact assessment", SETAC, January 1998
+
+Much information has been produced on the environmental performance of energy-using products, e.g. through studies already carried out by companies, the studies prepared in the context of the Eco-label, other publicly available databases and web-based eco-design tools etc. This information can be very useful in establishing the ecological profile. It can be reasonably expected that specific industry sectors will develop systems dedicated to their products for carrying out the analysis; the information that will be created and made available in the public domain as a result of this Directive and the implementing measures (for example following the information requirements of Annex I) will also be very helpful in acquiring a more generally acceptable idea about which are the appropriate specific environmental parameters; it will therefore become increasingly easy and straightforward to "measure" and benchmark the environmental performance of products.
+
+The nature and depth of the analysis to be performed must comply with the overall environmental aim of this draft Directive which is to make the energy-using products overall more environmentally sound. It should take into account the "state of the art"; this term does not refer to the latest scientific achievements but reflects a good level of technical performance taking into account industrial feasibility as well as current standards and practices. A "reasonable balance" needs to be respected, meaning that the manufacturer needs to take into account several different requirements and, in order to do so properly, needs flexibility. Standardisation can be helpful but will not be used for establishing the boundaries on environmental issues.
+
+Some stakeholders have criticised the absence of legally-binding targets and of clear environmental priorities in Annex I. In this respect it should be mentioned that this is a framework Directive aiming at giving the possibility to the Community to act swiftly and adequately for addressing identified and emerging needs and that binding limits cannot be established at this stage; however, the possibility to create them is clearly described.
+
+In conclusion, Annex I aims to describe a process for making the life-cycle thinking with regard to environmental aspects an integral part of the design process, for monitoring its results and for supplying the necessary information to the interested parties so that the design improvements are actually translated into real-life benefits for the environment; it does not introduce an obligation for a full LCA of energy-using products before they are placed in the market. The evaluation of the environmental aspects throughout the product life cycle should be carried out on the basis of environmentally relevant inputs and outputs; implementing measures which include generic eco-design requirements will guide this evaluation by specifying the relevant eco-design parameters for the products that they cover, following impact assessment; this evaluation must be done in such a way that it can reasonably be implemented by companies without incurring excessive expenditure.
+
+13. METHODOLOGY TO ESTABLISH THE LEVEL OF SPECIFIC ECO-DESIGN REQUIREMENTS
+
+The Directive also provides the option of adopting implementing measures introducing specific eco-design requirements.
+
+Specific eco-design requirements are quantified and measurable requirements on a selected environmental aspect of the product such as energy consumption during use. They can be introduced when an important environmental aspect is clearly identified and justifies action (e.g. energy consumption and associated greenhouse gases in the context of Kyoto). The identification of such important environmental aspect emerges from information and analysis covering the entire life cycle of the product. However, even when such comprehensive information is not (yet) available but action is deemed necessary, specific eco-design requirements can be adopted after having checked that the intended measure will result in a reduction of the environmental impact of the product during its life cycle.
+
+An important step in establishing specific eco-design requirements is to define accurate measurement methods, which take into account a normalised use of the product (e.g. full or part load, climatic conditions, etc.), performances and features which provide extra comfort or utility to users. If harmonised standards for measurements do not exist already, this is normally achieved through mandates to the European standardisation bodies. Once the measurement method has been established, an assessment of the performance of equipment present on the market is carried out; this allows the total spread and the performance of the average equipment to be evaluated. In accordance with the international obligations of the EU, notably those of the WTO Agreement on Technical Barriers to Trade, international standards should always be taken into account in the context of the implementing measures unless they are not effective or appropriate to achieve the intended goals.
+
+Following the market analysis, a technical/economic analysis is carried out, the purpose of which is to identify economically viable and technically feasible improvements without unacceptable loss of performance or utilities to consumers.
+
+The design options that are technically feasible and economically attractive to consumers are identified and compared with existing models. The economic advantage to consumers is quantified by the difference in the life-cycle cost of the product (LCC), which is the sum of the purchase price and of the operating expenses (primarily energy but also other resources such as water, detergents, etc.) discounted over the lifetime of the product.
+
+In economic terms, the optimum for consumers corresponds to the minimum of the life cycle cost. Therefore this level represents in principle a benchmark for setting the level of the specific eco-design requirement.
+
+However, there are other factors that need to be taken into account, namely:
+
+* Performance of the equipment: where the level of the specific eco-design requirement would adversely affect the way the equipment performs;
+
+* Variation in the use of the equipment: if a substantial group of consumers/users would be significantly disadvantaged, for example because they use the equipment less often or in a different way from the average consumer;
+
+* Variation in estimates of the value of certain elements (rate of inflation, prices of consumables, of energy, etc.);
+
+* Affordability of the equipment: if the subsequent price increase would either deter users from buying the equipment or cause users to hold onto and perhaps repair existing inefficient equipment close to its end of life;
+
+* Possible environmental effects - positive and negative - on other resources;
+
+* Impact on the industry: where the level of the specific eco-design requirement would have an impact on the manufacturing cost that could not simply be reflected in the extra cost/price charged.
+
+* Competition: where the level required would impose a proprietary technology.
+
+This methodology has been successfully applied for setting energy efficiency requirements for equipment. External environmental costs may be included in the sensitivity analysis. A similar approach could be applied to other resources such as water. Ongoing R&D work for developing life cycle costing methods for improving the overall environmental performance of products will be very helpful in potentially extending the above described methodology to other environmental aspects.
+
+In practice the analysis made to prepare for existing energy efficiency requirements (and voluntary agreements) has been conservative. In particular it has not taken into account the ability of manufacturers to minimise the cost of achieving the required improvements by careful design and optimisation of the development of new (or currently unused) technology that was not considered in the analysis. Experience in several countries has shown that the real impact on manufacturers is less than that predicted by the analysis.
+
+Considering that the impact of a particular requirement depends on numerous factors specific to each envisaged implementing directive (specific product, precise level of the efficiency requirement, timing for implementation, speed of technical changes to adapt, etc.), detailed impact assessments would be meaningful only when carried out in the context of individual implementing measures, taking into account the market particularities of the equipment concerned and the likely effect including on SMEs.
+
+In any case an adaptation period is foreseen between the adoption of specific eco-design requirements and their implementation, with a view to ensure minimising the possible impact on the industry. During this period most suppliers would have replaced some of their model range in any case, so there will be considerable opportunity to make requirement-compliance one of the design criteria for the new models.
+
+Finally, as an alternative or as a complement to the general approach described above, evidence made available in the framework of the work carried out in the context of other Community instruments (Energy Labelling Directive, Eco-label, Energy Star, etc.) and related studies could also be used as an input, in particular when it comes to setting efficiency requirements relating to specific functions or consumption modes of an equipment (e.g. stand-by consumption). Similar programmes from other parts of the world could also be used as an input in particular as regards products traded worldwide (e.g. office equipment or consumer electronics) for which consistency of standards at international level is of paramount importance for the global competitiveness of the EU industry.
+
+14. EXTERNAL ASPECTS
+
+The implementing measures to be adopted on the basis of the present draft Directive will apply equally to products from EU and third country manufacturers and therefore no trade barrier or distortion will be created. Experience from other EU legislation (in particular from New Approach Directives on safety and electromagnetic compatibility requiring the CE marking) will help to ensure that the obligations are complied with by all products placed on the EU market, irrespective of the country where they are manufactured. If necessary, the implementing measures might set out more detailed arrangements for the traceability of each individual piece of equipment. Potential impacts of implementing measures on international trade will be carefully considered in the context of the impact assessment to be conducted prior to the adoption of the implementing measures. Trading partners of the EU will be invited to participate in the consultation process when preparing the implementing measures, as was the case with the present Directive. International standards (e.g. from ISO or IEC) will be taken into account and used in line with the international obligations of the EU, notably those of the WTO Agreement on Technical Barriers to Trade. Finally, the adoption of implementing measures by the Commission will be subject to prior notification to WTO to ensure that no barriers to trade will be introduced.
+
+As regards acceding countries it should be stressed once more that the proposed Directive establishes a legal framework the effect of which will materialize only as a consequence of the adoption of implementing measures. Acceding countries will by that time participate fully to the decision-making process as Member States. In addition, the impact assessment and consultation preceding the drafting of the implementing measures will take account of all stakeholders of the enlarged Union.
+
+15. POTENTIAL EFFECT OF THE PROPOSED MEASURE ON CO2 EMISSIONS SAVINGS
+
+To illustrate as an example of the potential of eco-design requirements, reference can be made to the very detailed investigations made to evaluate the energy efficiency improvements potential for a large number of energy-using products. These studies were used as input for the ECCP (European Climate Change Programme) process to identify cost-effective CO2 reduction potential. The ECCP gathered industry representatives of the major energy-using equipment (CECED, EACEM, EICTA, CEMEP, CELMA, EUROPUMP, PNEUROP, ELC), independent experts and other stakeholders. Consensus was reached among the participants on the potential cost-effective savings and the most effective policies to achieve this potential.
+
+The ECCP estimated a theoretical case: the consumption of major energy-using products for the residential, tertiary and industry sectors in year 2010, based on the present consumption and stock model, if no new policies were introduced and no technological progress occurs (Business as Usual (BaU) scenario). The participants also estimated the consumption assuming that the existing stock of equipment would be gradually replaced by more efficient equipment that is close to the least life-cycle cost for the user.
+
+The aggregate CO2 emission reduction 1990-2010 for the three sectors was identified as follows (the total CO2 emission increase, if no actions were implemented, is indicated as well).
+
+&gt;TABLE POSITION&gt;
+
+The analysis of energy saving potential indicates that the scope for energy savings lies mainly in the following equipment sectors, though in practice the scope for savings by implementing measures under this directive will be smaller, for the reasons outline above (figures in brackets show the estimated CO2 emission reduction potential):
+
+- heating and water heating equipment [37] ( 12 Mt CO2 )
+
+[37]  It should be noted that the figure applies to electric appliances only, the potential in heating equipment using other sources of energy being much bigger.
+
+- electric motor systems ( 39 Mt CO2 )
+
+- lighting in both the domestic and tertiary sectors ( 24 Mt CO2 )
+
+- domestic appliances ( 12 Mt CO2 )
+
+- office equipment in both the domestic and tertiary sectors ( 34 Mt CO2 )
+
+- consumer electronics ( 14 Mt CO2 )
+
+- commercial HVAC (heating ventilating air conditioning) systems ( 8 Mt CO2)
+
+The ECCP has demonstrated the large potential for CO2 reduction of specific energy efficiency requirements. The Commission will therefore come forward with implementing measures for energy efficiency of specific products as soon as this Framework Directive is adopted.
+
+16. CONCLUSIONS
+
+* The present proposal lays down a comprehensive and coherent legislative framework for addressing eco-design requirements of energy-using products with a view to contributing to sustainable development by ensuring their free movement in the internal market, increasing security of energy supply and promoting a higher level of environmental performance.
+
+* Given the responsibilities of the Community and the transboundary nature of these issues the objectives will be better achieved by action at Community level.
+
+* Continuing to propose directives with a high technical content under the co-decision procedure as has been done in the past for individual products would result in slow progress; in line with the recently proposed Institutional Architecture and better regulation package, it is proposed that the eco-design requirements will be fixed in implementing measures through a comitology procedure after appropriate consultation with the interested parties and impact assessment. In this way a flexible adaptation to technological options and market sensitivities is ensured and the potential impact of self-regulation by the industry is reinforced.
+
+* The present draft Directive complements and facilitates implementation of existing EU measures; it also provides the right framework for addressing emerging environmental issues in a swift way.
+
+* It is expected that a systematic integration of environmental considerations in product design will lead to increased resource productivity and reduced costs throughout the product life cycle which will outweigh initial expenses, if any. The experience of the "Energy Labelling Directive" shows that Community legislation in the field of environmental performance of products can be a win-win-win-win policy action (energy, environment, consumer and industry) when appropriate adaptation period and consultation process are applied.
+
+17. CONTENTS OF THE PROPOSAL
+
+Article 1 defines the objectives and the scope of the framework Directive. Its aim is to ensure free movement of products; it contributes to sustainable development through increased security of energy supply and high environmental protection.
+
+Article 2 includes the definitions of the main terms and concepts used in the proposal; generic eco-design requirements concern the overall environmental performance of the product taking into account the most significant environmental aspects; specific eco-design requirements refer to a given environmental aspect and define appropriate limit values.
+
+Article 3 clarifies that only energy-using products which comply with the applicable implementing measure, if any, may be placed on the market and Article 4 lays down provisions for the marking and the declaration of conformity.
+
+Article 5 provides that the free circulation of energy-using products may not be hindered on grounds of eco-design requirements if the product complies with the applicable implementing measure.
+
+Taking into account procedures used in existing New Approach Directives, Article 6 sets the procedure for restrictions of placing in the market of products bearing the CE marking without complying with the requirements of the applicable implementing measure.
+
+Article 7 lays down provisions for conformity assessment. In principle a self-assessment procedure and the availability of technical documentation without third party intervention are considered sufficient. The possibility to use environmental management systems which include the product design dimension is also included. Manufacturers will be given the choice between these two procedures.
+
+Article 8 explains that compliance with the implementing measure is presumed when the product has been awarded the EU eco-label and how harmonised standards can contribute to presumption of conformity.
+
+Article 9 clarifies some aspects of the procedure for the adoption and publication of harmonised standards.
+
+Article 10 deals with the issue of components and sub-assemblies which as such cannot be the object of an implementing measure under this framework Directive; on the other hand environmental information on these components may be required for the establishment of the ecological profile by the manufacturer.
+
+Article 11 calls for effective co-operation between Member States for the proper functioning of the Directive.
+
+Article 12 lays down the criteria for selecting products to be addressed by implementing measures as well as essential factors for determining the content of such implementing measures. It also clarifies that implementing measures can include generic or specific eco-design requirements, or both.
+
+Article 13 provides for the integration as implementing measures of this framework Directive with regard to energy efficiency during use of the three existing Directives setting energy efficiency requirements for boilers, refrigerators and ballasts for fluorescent lighting.
+
+Article 14 defines the procedure (regulatory committee) for adopting implementing measures
+
+Article 15 concerns the rules on penalties to be laid down by the Member States
+
+Articles 16 and 17 relate to the reduction/simplification of the acquis communautaire.
+
+Articles 18-20 deal with administrative aspects of the proposal.
+
+Annex I describes the process and the relevant parameters for the establishment of the ecological profile by the manufacturer of products covered by an implementing measure setting generic eco-design requirements.
+
+Annex II outlines the method for setting the level of specific eco-design requirements.
+
+Annex III sets provisions about the CE marking.
+
+Annexes IV and V describe procedures available to the manufacturer for ensuring and declaring that its EuP satisfies the provisions of the applicable implementing measure.
+
+Annex VI lays down the details required for the declaration of conformity.
+
+Annex VII defines the main elements that an implementing measure shall include.
+
+ANNEX  Organisations present in the stakeholders meeting of 18/11/2002
+
+Belgium:  //  Permanent Representation
+
+Belgium:  //  Département de l'environnement
+
+Belgium:  //  Ministère des affaires économiques
+
+Belgium:  //  Ministère de la Région wallone - département de l'office des déchets (DGRNE)
+
+Belgium:  //  IBGE Brussels Environment Administration
+
+Belgium:  //  OVAM Public Waste agency of the Flemish region
+
+Denmark:  //  ENS Danish energy authority
+
+Denmark:  //  MST Danish environmental protection agency
+
+Finland:  //  Ministry of Trade and Industry
+
+France:  //  Ministère de l'économie,des finances et de l'industrie
+
+France:  //  Ministère de l'écologie et du développement durable
+
+France:  //  DIGITIP: département du ministère de l'économie, des finances et de l'industrie
+
+Germany:  //  Ministry of environment
+
+Germany:  //  German Energy Agency
+
+Ireland:  //  Department of Enterprise, Trade and Employment
+
+Italy:  //  ENEA Ente Nazionale per le Energie Alternative
+
+Netherlands:  //  Environment ministry of the Netherlands
+
+Netherlands:  //  Ministry of Economic Affairs of the Netherlands
+
+Norway  //  Mission of Norway to the EU
+
+Spain:  //  Permanent Representation: Environment attaché
+
+Sweden:  //  Ministry of Industry
+
+Sweden:  //  Ministry of Environment
+
+United Kingdom:  //  Department of Trade and Industry
+
+United Kingdom:  //  DEFRA (Department for the Environment, Food and Rural Affairs)
+
+AeA Europe:  //  American Electronics Association
+
+AENOR:  //  Spanish national standardisation organisation
+
+ANEC:  //  Consumers' NGO
+
+ANIE:  //  Italian industry association of electrical and electronic industries
+
+Apple:  //  Manufacturer
+
+ASERCOM:  //  Association of European Refrigeration Compressors and Controls Manufacturers
+
+AVAYA Inc. :  //  Manufacturer
+
+BEUC:  //  Consumers' NGO
+
+CAPIEL:  //  European federation of Electrical Switchgear and Controlgear manufacturers
+
+CECAPI:  //  European committee of installation equipment manufacturers
+
+CECED:  //  European federation of domestic appliances manufacturers
+
+CECIMO:  //  European Committee for Co-operation of the Machine Tool Industries
+
+CELMA:  //  Federation of lamps and luminaires' industries of Europe
+
+CENELEC:  //  European Standardisation body
+
+COCIR:  //  European federation of medical equipment manufacturers
+
+DAIKIN Europe:  //  Manufacturer
+
+DI:  //  Confederation of Danish industry
+
+DIN:  //  German national standardisation organisation
+
+E.H.I:  //  Association of the European Heating Industry
+
+ECOS:  //  European Environmental Citizen organisation for standardisation
+
+EEB:  //  European Environment Bureau, Environmental NGO
+
+EFCEM:  //  European federation of catering equipment manufacturers
+
+EFTA Secretariat:  //  European Free Trade Association
+
+EHA:  //  Swedish association for appliance manufacturers,
+
+EICTA:  //  EU association of ICT and consumer electronics' industries
+
+Electronics Coalition:  //  Industry association
+
+EPEE:  //  Industry association for refrigerants
+
+EPTA:  //  European Power Tool Association
+
+ESIA:  //  European Semiconductors Industry Association
+
+EU Committee:  //  American Chamber of Commerce
+
+EURELECTRIC:  //  Union of the Electricity industry
+
+Eurocommerce:  //  Retail, wholesale and international trade representation in the EU
+
+EUROMOT:  //  European Association of internal Combustion Engine Manufacturer
+
+EVA:  //  European Vending Association
+
+FEE:  //  Belgian industry association of electrical and electronic industries
+
+FIEEC:  //  French industry association of electrical, electronic and communication industries
+
+Fujitsu Limited:  //  Manufacturer
+
+General Electric:  //  Manufacturer
+
+IEA:  //  International Energy Agency
+
+Intel:  //  Manufacturer
+
+JBCE:  //  Japanese Business Council in Europe
+
+JISC:  //  Japanese Industrial Standards Committee
+
+Lucent Technologies:  //  Manufacturer
+
+Marcogaz:  //  Technical association of the European gas industry
+
+ORGALIME:  //  Federation of mechanical, electrical, electronic and metalworking industries of Europe
+
+Remanufactured:  //  Association of inkjet/toner cartridges reuse and recycling industry
+
+Schneider Industry:  //  Manufacturer
+
+TIE:  //  Federation of Toys' Industries of Europe
+
+UEAPME:  //  European federation of small and medium enterprises
+
+UNICE:  //  Confederation of European Industries
+
+WKÖ:  //  Austrian Chamber of Commerce
+
+WWF:  //  Environmental NGO
+
+2003/0172 (COD)
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL On establishing a framework for the setting of Eco-design requirements for Energy-Using Products and amending Council Directive 92/42/EEC
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+
+Having regard to the proposal from the Commission [38],
+
+[38]  OJ C [...], [...], p.[...]
+
+Having regard to the opinion of the European Economic and Social Committee [39],
+
+[39]  OJ C [...], [...], p.[...]
+
+Having regard to the opinion of the Committee of the Regions [40],
+
+[40]  OJ C [...], [...], p.[...]
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty [41],
+
+[41]  OJ C [...], [...], p.[...]
+
+Whereas:
+
+(1) The disparities between the laws or administrative measures adopted by the Member States as regards the eco-design of energy using products can create barriers to trade and distort competition in the Community and may thus have a direct impact on the establishment and functioning of the internal market. The harmonisation of national laws is the only means to prevent such barriers to trade and unfair competition.
+
+(2) Energy using Products (hereafter "EuP) account for a large proportion of the consumption of natural resources and energy in the Community. They also have a number of other important environmental impacts. For the vast majority of product categories available on the Community market, very different degrees of environmental impact can be noted though they provide similar functional performances. In the interest of sustainable development, continuous improvement in the overall environmental impact of those products should be encouraged, notably when this improvement does not entail excessive costs.
+
+(3) A coherent framework for the application of Community eco-design requirements for EuPs should be established with the aim of ensuring the free movement of those products which comply and of improving their overall environmental impact. Such Community requirements should respect the principles of international trade.
+
+(4) This Directive seeks to achieve a high level of protection for the environment by improving resource efficiency of EuPs, which will ultimately be beneficial to consumers and other end users. Sustainable development also requires proper consideration of the health, social and economic impact of the measures envisaged. Improving the energy efficiency of products contributes to the security of energy supply which is a precondition of sound economic activity and therefore of sustainable development
+
+(5) The approach set out in the Green Paper on Integrated Product Policy [42], which is a major innovative element of the 6th Environment Action Programme laid down in Decision No 1600/2002/EC of the European Parliament and of the Council [43], aims to reduce the environmental impacts of products across the whole of their life cycle. Considering at the design stage, a product's environmental impact throughout the whole life cycle has a high potential to facilitate environmental improvement in a cost-effective way. There should be sufficient flexibility to enable those factors to be integrated in product design whilst taking account of technical, functional and economic considerations.
+
+[42]  COM(2001)68final
+
+[43]  OJ L 242, 10.9.2002, p. 1
+
+(6) It may be necessary and justified to establish specific quantified eco-design requirements for some products or environmental aspects thereof in order to ensure that their environmental impact is minimised. Such priority measures should be introduced taking into account, in particular, their potential for reducing greenhouse gases emissions at low cost. Such measures can contribute to the achievement of the goal set in the Kyoto Protocol to the United Nations Framework Convention on Climate Changes (UNFCCC), approved by Council Decision 2002/358/EC [44], which calls for an 8% reduction in emissions of greenhouse gases for the Community by the year 2012 as well as to further reductions beyond 2012. They can also contribute to a sustainable use of resources and constitute a major contribution to the ten-year framework of programmes on sustainable production and consumption agreed at the World Summit on Sustainable Development in Johannesburg in September 2002.
+
+[44]  OJ L 130, 15.5.2002, p.1
+
+(7) The level of eco-design requirements should normally be established on the basis of technical, economic and environmental analysis. Flexibility in the method for establishing the level of requirements can make swift improvement of environmental performance easier. The setting of mandatory measures requires proper consultation of the parties involved. Such consultation may highlight the need for a phased introduction or transitional measures. The introduction of interim targets increases the predictability of the policy, allows for accommodating product development cycle and facilitates long term planning for the interested parties.
+
+(8) Priority should be given to alternative courses of actions such as self-regulation by the industry where such actions are likely to deliver the policy objectives faster or less costly than mandatory requirements. Legislative measures can be needed where the market forces fail to evolve in the right direction or at an acceptable speed.
+
+(9) EuPs complying with the eco-design requirements laid down in implementing measures to this Directive should bear the "CE" marking and associated information, in order to enable them to be put on the internal market and move freely.
+
+(10) Regard should be given to the modules and rules intended for use in technical harmonisation Directives set out in Council Decision 93/465/EEC of 22 July 1993 concerning the modules for the various phases of the conformity assessment procedures and the rules for the affixing and use of the CE conformity marking [45].
+
+[45]  OJ L 220 of 30.8.1993, p. 23
+
+(11) Surveillance authorities should exchange information on the measures envisaged within the scope of this Directive with a view to improving surveillance of the market. Such co-operation should make the utmost use of electronic means of communication and relevant Community programmes.
+
+(12) It is in the interest of the functioning of the internal market to have standards which have been harmonised at Community level. Once the reference to such a standard has been published in the Official Journal of the European Union, compliance with it should raise a presumption of conformity with the corresponding requirements set out in the implementing measure adopted on the basis of this Directive, although other means of demonstrating such conformity should be permitted.
+
+(13) Harmonised standards are technical specifications adopted by the European Standardisation bodies, as referred to in Annex I to Directive 98/34/EC of 22 June 1998 of the European Parliament and the Council laying down a procedure for the provision of information in the field of technical standards and regulations  [46], on mandates given by the Commission in conformity with that Directive and in accordance with the general guidelines for co-operation between the Commission and those bodies. In the interest of international trade, international standards should be used wherever appropriate.
+
+[46]  OJ L 204 of 21.07.1998, p. 37, as amended by Directive 98/48/EC (OJ L 217, 5.8.1998, p.18)
+
+(14) This Directive is in accordance with the principles for the implementation of the new approach as set out in the Council Resolution of 7 May 1985 on a new approach to technical harmonisation and standards [47] and of making reference to harmonised European standards. The Council Resolution of 28 October 1999 [48] recommended that the Commission should examine whether the New Approach principle could be extended to sectors not yet covered as a means of improving and simplifying legislation wherever possible.
+
+[47]  OJ C 136, 4.6.1985, p. 1.
+
+[48]  OJ C 141, 19.5.2000, p.1.
+
+(15) Synergies and complementarity of this Directive with existing Community instruments such as Council Directive 92/75/EEC of 22 September 1992 on the indication by labelling and standard product information of the consumption of energy and other resources by household appliances [49], Regulation (EC) N°1980/2000 of 17 July 2000 on a revised Community eco-label award scheme [50], Regulation (EC) N°2422/2001 of 6 November 2001 on a Community energy efficiency labelling programme for office equipment [51], Directive 2002/96/EC on waste from electrical and electronic equipment [52], Directive 2002/95/EC on the restriction of the use of certain hazardous substances in electrical and electronic equipment [53] should contribute to increasing their respective impact and building coherent requirements for manufacturers to apply.
+
+[49]  OJ L 297, 13.10.1992, p.. 16.
+
+[50]  OJ L 237, 21.9.2000, p. 1.
+
+[51]  OJ L 332, 12.12.2001, p..1.
+
+[52]  OJ L37, 13.02.2003, p.24
+
+[53]  OJ L37, 13.02.2003, p.19
+
+(16) Since Council Directive 92/42/EEC of 21 May 1992 on efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels [54], Directive 96/57/EC of the European Parliament and of the Council of 3 September 1996 on energy efficiency requirements for household electric refrigerators, freezers and combinations thereof [55] and Directive 2000/55/EC of 18 September 2000 of the European Parliament and of the Council on energy efficiency requirements for ballasts for fluorescent lighting [56]already contain provisions for the revision of the energy efficiency requirements, they should be integrated into the present framework.
+
+[54]  OJ L 167, 22.6.1992, p. 17.
+
+[55]  OJ L 236, 18.9.1996, p. 36.
+
+[56]  OJ L 279, 1.11.2000, p. 33.
+
+(17) Directive 92/42/EEC provides for a star rating system intended to ascertain the energy performance of boilers. Since Member States and the industry agree that the star rating system has proved not to deliver the expected result, Directive 92/42/EEC should be amended accordingly.
+
+(18) The requirements laid down in Council Directive 78/170/EEC of 13 February 1978 on the performance of heat generators for space heating and the production of hot water in new or existing non-industrial buildings and on the insulation of heat and domestic hot-water distribution in new non-industrial buildings [57] have been superseded by provisions of Directive 92/42/EEC, Council Directive 90/396/EEC of 29 June 1990 on the approximation of the laws of the Member States relating to appliances burning gaseous fuels [58] and Directive 2002/91/EC of the European Parliament and of the Council of 16 December 2002 on the energy performance of buildings [59]. Directive 78/170/EEC should therefore be repealed.
+
+[57]  OJ L 52, 23.2.1978, p. 32, as amended by Directive 82/885/EEC (OJ L 378, 31.12.1982, p.19).
+
+[58]  OJ L 196, 26.7.1990, p. 15, as amended by Directive 93/68/EEC.
+
+[59]  OJ L 1, 4.1.2003, p. 65.
+
+(19) Directive 86/594/EEC of 1 December 1986 on airborne noise emitted by household appliances [60] lays down the conditions under which publication of information on the noise emitted by such appliances may be required by Member States, and defines a procedure to determine the level of noise. For harmonisation purposes noise emissions should be included in an integrated assessment of environmental performance. Since this Directive provides for such an integrated approach, Directive 86/594/EEC should be repealed.
+
+[60]  OJ L 344, 6.12.1986, p.24
+
+(20) The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred to the Commission [61].
+
+[61]  OJ L 184, 17.07.1999, p.23
+
+(21) Member States should determine the penalties to be applied in the event of infringements of the national provisions adopted pursuant to this Directive. Those penalties should be effective, proportionate and dissuasive.
+
+(22) Since the objectives of the proposed action, namely to ensure the functioning of the internal market by requiring products to reach an adequate level of environmental performance, cannot be sufficiently achieved by Member States acting alone and can therefore, by reason of their scale and effects, be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1 Subject matter and scope
+
+1. This Directive establishes a framework for the integration of environmental aspects in product design and development to ensure the free movement of energy-using products within the internal market.   It provides for the definition of requirements which the energy using products covered by implementing measures must fulfil with a view to their placing on the market. It contributes to sustainable development by increasing security of energy supply and by aiming at a high level of environmental protection.
+
+2. This Directive shall not apply to means of transport for persons or goods by inland, sea and air.
+
+Article 2 Definitions
+
+For the purposes of this Directive the following definitions shall apply:
+
+(1) "Energy-using Product (EuP)" means a product which is dependent on energy input (electricity, fossil and renewable fuels) to work as intended and a product for the generation, transfer and measurement of such energy, including parts which are intended to be incorporated into EuP which are placed on the market as individual parts for end-users, the environmental performance of which can be assessed independently;
+
+(2) "Components and sub-assemblies" means parts intended to be incorporated into EuP, and which are not placed on the market as individual parts for end users or the environmental performance of which can not be assessed independently;
+
+(3) "Implementing measures" means measures adopted pursuant to this Directive laying down eco-design requirements which are necessary for achieving the aim of this Directive for defined EuPs or for environmental aspects thereof;
+
+(4) "Placing on the market" means making a EuP available for the first time on the Community market with a view to its distribution or use within the Community whether for reward or free of charge;
+
+(5) "Manufacturer" means any natural or legal person responsible for the conformity of an EuP with this Directive in view of its placing on the market under its own name or trademark or for its own use;
+
+(6) "Authorised representative" means any natural or legal person established in the Community who, explicitly designated by the manufacturer, acts on its behalf and may be addressed by authorities and bodies in the Community instead of the manufacturer with regard to the latter's obligations under this Directive;
+
+(7) "Materials" means raw materials, intermediate products and auxiliary materials
+
+(8) "Product design" means the set of processes that transform legal, technical, safety, functional, market or other requirements to be met by the product into the technical specification of a EuP;
+
+(9) "Environmental aspect" means an element or function of a EuP that can interact with the environment;
+
+(10) "Environmental impact" means any adverse change to the environment, wholly or partially resulting from EuPs;
+
+(11) "Life cycle" means the consecutive and interlinked stages of a EuP from its design to its final disposal;
+
+(12) "End of life" means state of a EuP having reached the end of its first use;
+
+(13) "Re-use" means any operation by which a EuP or its components, having reached the end of their first use, are used for the same purpose for which they were conceived, including the continued use of a EuP, which is returned to collection points, distributors, recyclers or manufacturers, as well as re-use of a EuP following refurbishment;
+
+(14) "Recycling" means the reprocessing in a production process of waste materials for the original purpose or for other purposes but excluding energy recovery. Energy recovery means the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;
+
+(15) "Recovery" means any of the applicable operations provided for in Annex II B to Council Directive 75/442/EEC [62];
+
+[62]  OJ L 194, 25.07.1975, p. 39.
+
+(16) "Waste" means any substance or object in the categories set out in Annex I to Directive 75/442/EEC which the holder discards or intends or is required to discard;
+
+(17) "Ecological profile" means a description, in accordance with the implementing measure applicable to the EuP, of the inputs and outputs including, as appropriate, raw materials, intermediate products, emissions and waste, associated with a EuP throughout its lifecycle which are significant from the point of view of its environmental impact and are expressed in physical quantities that can be measured;
+
+(18) "Environmental performance" of a EuP means the results of the manufacturer's management of the environmental aspects of the EuP, as reflected in its ecological profile;
+
+(19) "Improvement of the environmental performance" means the process of enhancing, the overall environmental performance of a EuP, over successive generations, although not necessarily in respect of all environmental aspects of the product simultaneously;
+
+(20) "Eco-design" means the systematic integration of environmental aspects into product design with the aim to improve the environmental performance of the EuP throughout its whole life cycle;
+
+(21) "Eco-design requirement" means any requirement in relation to a EuP, or the design of a EuP, intended to improve its environmental performance or any requirement for the supply of information with regard to the environmental aspects of a EuP;
+
+(22) "Generic eco-design requirement" means any eco-design requirement based on the ecological profile as a whole and not setting limit values on particular environmental aspects;
+
+(23) "Specific eco-design requirement" means a quantified and measurable eco-design requirement relating to a particular environmental aspect of a EuP, such as energy consumption during use, calculated for a given unit of output performance;
+
+(24) « Harmonised standard » means a technical specification adopted by a recognised standards body under a mandate from the Commission in accordance with the procedures laid down in Directive 98/34/EC for the purpose of establishing a European requirement, compliance with which is not compulsory.
+
+Article 3 Placing on the market and putting into service
+
+Member States shall take all appropriate measures to ensure that EuP covered by implementing measures may be placed on the market and/or put into service only if they comply with those measures.
+
+Article 4 Marking and declaration of conformity
+
+1. Before a EuP covered by implementing measures is placed on the market, CE conformity marking shall be affixed and a declaration of conformity issued, whereby the manufacturer or its authorised representative ensures and declares that the EuP complies with all relevant provisions of the applicable implementing measure.
+
+2. The CE conformity marking consists of the initials "CE" as shown in Annex III.
+
+3. The declaration of conformity shall contain the elements specified in Annex VI.
+
+4. The affixing of markings on EuP which are likely to mislead users as to the meaning or form of the CE marking shall be prohibited.
+
+5. Member States may require the information to be supplied pursuant to part 2.3(n) of Annex I to be in their official language(s) when the EuP reaches the final user. Member States may also authorise this to be provided in one or more other official Community language(s).
+
+When applying the first subparagraph, Member States shall take into account in particular:
+
+(a) whether the information can be supplied by harmonised symbols or recognised codes or other measures;
+
+(b) the type of user anticipated for the EuP and the nature of the information which is to be provided.
+
+Article 5 Free movement
+
+1. Member States shall not create any obstacle to the placing on the market and/or putting into service, within their territories, on grounds of eco-design requirements, of a EuP that complies with all the relevant provisions of the applicable implementing measure and bears the CE marking in accordance with Article 4.
+
+2. Member States shall not prevent the showing, for example at trade fairs, exhibitions and demonstrations, of EuP which are not in conformity with the provisions of the applicable implementing measure, provided that a visible sign clearly indicates their non-conformity and the fact that they are not available for sale until brought into conformity.
+
+Article 6  Restriction of placing on the market
+
+1. Where a Member State ascertains that a EuP bearing the CE marking referred to in Article 4 and used in accordance with its intended use, does not comply with all the relevant provisions of the applicable implementing measure, and/or that the CE marking has been fixed unduly, the manufacturer or its authorised representative shall be obliged to make the EuP comply with the provisions of the applicable implementing measure and/or with the CE marking and to end the infringement under conditions imposed by the Member State.   Where non compliance continues, the Member State shall restrict or prohibit the placing on the market of the EuP in question or ensure that it is withdrawn from the market.
+
+2. Any decision by a Member State pursuant to this Directive which restricts the placing on the market and/or the putting into service of a EuP shall state the exact grounds on which it is based.   Such decision shall be notified forthwith to the party concerned, who shall at the same time be informed of the legal remedies available under the laws in force in the Member State concerned and of the time limits to which such remedies are subject.
+
+3. The Member State shall immediately inform the Commission and the other Member States of any measure referred to in paragraph 1, indicating the reasons therefor, and, in particular, whether non-compliance is due to:
+
+(a) failure to satisfy the requirements of the applicable implementing measure;
+
+(b) incorrect application of the harmonised standards referred to in Article 9(2);
+
+(c) shortcomings in the harmonised standards referred to in Article 9(2).
+
+4. The Commission shall enter into consultation with the parties concerned without delay and may draw upon technical advice from independent external experts.  Where, following that consultation, the Commission considers, that the measure is justified, it shall immediately inform the Member State which took the initiative and the other Member States to that effect.   Where the Commission considers that the measure is unjustified, it shall immediately inform the Member States to that effect.
+
+5. Where the decision referred to in the first subparagraph of paragraph 1 of this Article is based on a shortcoming in the harmonised standards, the Commission shall immediately initiate the procedure set out in Article 9 (2), (3) and (4). The Commission shall at the same time inform the Committee referred to in Article 14 (1).
+
+6. Where a EuP, which does not comply with all the relevant provisions of the applicable implementing measure, bears the CE marking, the Member State concerned shall take appropriate action against the manufacturer or its authorised representative having affixed the CE marking and shall inform the Commission and the other Member States to that effect.
+
+7. The Member States and the Commission shall take the necessary measures to guarantee confidentiality with regard to information provided during that procedure, where justified.
+
+8. The decisions taken by Member States pursuant to this Article shall be made public.  The Commission's opinion on those decisions shall be published in the Official Journal of the European Union.
+
+Article 7 Conformity assessment
+
+1. Before placing a EuP covered by implementing measures on the market, the manufacturer shall perform a conformity assessment of the EuP with all the relevant provisions of the applicable implementing measure.
+
+2. The conformity assessment procedures shall be specified by the implementing measures and shall leave to manufacturers the choice between the internal design control set out in Annex IV and the environmental management system set out in Annex V. When duly justified and proportionate to the risk, the conformity assessment procedure shall be specified among modules B,C,D,E as described in Decision 93/465/EEC.
+
+If a EuP covered by implementing measures is designed by an organisation registered in accordance with Regulation (EC) No 761/2001 of the European Parliament and of the Council [63] and the design function is included within the scope of that registration, the environmental management scheme of that organisation shall be presumed to comply with the requirements of Annex V to this Directive.
+
+[63]  OJ L 114, 24.04.2001, p.1
+
+If a EuP covered by implementing measures is designed by an organisation having an environmental management system which includes the product design function and which is implemented in accordance with harmonised standards, the reference numbers of which have been published in the Official Journal of the European Union, that environmental management system shall be presumed to comply with the corresponding requirements of Annex V.
+
+3. After placing a EuP covered by implementing measures on the market, the manufacturer or its authorised representative shall keep relevant documents relating to the conformity assessment performed and declarations of conformity issued available for inspection by Member States for a period of 10 years after the last EuP has been manufactured.   The relevant documents shall be made available within 10 days upon receipt of a request by the competent authority of a Member State.
+
+4. Where the manufacturer is not established within the Community and in the absence of an authorised representative, the obligation to ensure that the EuP placed on the market conforms with the requirements of the applicable implementing measure shall lie with the person placing the EuP on the Community market.
+
+5. Documents relating to the conformity assessment and declaration of conformity referred to in Article 4 shall be drawn up in one of the official languages of the Community.
+
+Article 8 Presumption of conformity
+
+1. Member States shall regard EuP bearing the CE marking referred to in Article 4 as conforming to the relevant provisions of the applicable implementing measure.
+
+2. EuP for which harmonised standards have been applied, the reference numbers of which have been published in the Official Journal of the European Union, shall be presumed to comply with all the relevant provisions of the applicable implementing measure to which such standards relate.
+
+3. EuP which have been awarded the Eco-label pursuant to Regulation (EC) No 1980/2000 shall be presumed to comply with the eco-design requirements of the applicable implementing measure insofar as those requirements are met by the Eco-label.
+
+Article 9 Harmonised Standards
+
+1. Member States shall ensure that appropriate measures are taken to enable interested parties to be consulted at national level on the process of preparing and monitoring the harmonised standards.
+
+2. Where a Member State or the Commission considers that the harmonised standards, the application of which is deemed to satisfy specific provisions of an applicable implementing measure, do not entirely satisfy those, the Member State concerned or the Commission shall inform the Standing Committee set up by Article 5 of Directive 98/34/EC to that effect giving the reasons.   The Committee shall issue an opinion as a matter of urgency.
+
+3. In the light of the Committee's opinion, the Commission shall decide to publish, not to publish, to publish with restriction, to maintain or to withdraw the references to the harmonised standards concerned in the Official Journal of the European Union.
+
+4. The Commission shall inform the European Standardisation body concerned and, if necessary, issue a new mandate with a view to the revision of the harmonised standards concerned.
+
+Article 10  Requirements for components and sub-assemblies
+
+In accordance with implementing measures, Member States shall ensure that manufacturers of components or sub-assemblies of EuP provide, at the request of other manufacturers making use of the component or sub-assembly in a EuP covered by an implementing measure, all information necessary for the establishment of the ecological profile of the EuP.
+
+In particular, implementing measures may require manufacturers to provide information on the material composition and the consumption of energy and/or resources of the components or sub-assemblies they produce, and where available, the results of environmental assessments and/or case reference studies which relate to the use and end-of-life management of the components or sub-assemblies concerned.
+
+Article 11 Administrative co-operation and exchange of information
+
+1. Member States shall designate the authorities responsible for applying this Directive.  They shall encourage those authorities to co-operate with each other and provide each other with information in order to facilitate the application of this Directive.  The administrative co-operation and exchange of information shall take utmost advantage of electronic means of communication and may be supported by relevant Community programmes.
+
+2. Specifications and structure of the exchange of information between the Commission and Member States shall be decided in accordance with the procedure referred to in Article 14(2).
+
+Article 12 Implementing measures
+
+1. The Commission, acting in accordance with the procedure referred to in Article 14(2), may adopt implementing measures, applying the following criteria:
+
+(a) with regard to the selection of the EuP to be covered:
+
+(i) the EuP shall represent a significant volume of sales and trade;
+
+(ii) the EuP shall have a significant environmental impact;
+
+(iii) the EuP shall present significant potential for improvement in relationship to the environmental impact without entailing excessive costs;
+
+(iv) Community environmental priorities, such as those set out in Decision N° 1600/2002/EC, shall be taken into account.
+
+(b) with regard to the content of the measure:
+
+(i) the entire life cycle of the product shall be considered;
+
+(ii) the performance of the product, from the perspective of the user, shall not be significantly affected;
+
+(iii) health and safety shall not be adversely affected
+
+(iv) there should be no significant negative impact on consumers in particular as regard the affordability and the life cycle cost of the product;
+
+(v) there should be no significant negative impact on manufacturers' competitiveness is taken into account, including on markets outside the Community.
+
+2. The implementing measures shall lay down generic eco-design requirements in accordance with Annex I and/or specific eco-design requirements in accordance with Annex II.
+
+Specific eco-design requirements shall be introduced for selected environmental aspects which have a significant environmental impact.
+
+3. The implementing measures shall include the elements listed in Annex VII.
+
+Article 13 Existing implementing measures
+
+Directives 92/42/EEC, 96/57/EC and 2000/55/EC shall be considered as implementing measures within the meaning of this Directive for domestic hot-water boilers, domestic refrigeration appliances and ballasts for fluorescent lighting respectively with regard to energy efficiency during use.
+
+Article 14 Committee
+
+1. The Commission shall be assisted by a committee, hereinafter referred to as the "Committee", composed of representatives of the Member States and chaired by the representative of the Commission.
+
+2. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period referred to in Article 5(6) of Decision 1999/468/EC shall be three months.
+
+3. The Committee shall adopt its rules of procedure.
+
+Article 15 Penalties
+
+The Member States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. The Member States shall notify those provisions to the Commission by the date specified in the first subparagraph of Article 18 at the latest and shall notify it without delay of any subsequent amendment affecting them.
+
+Article 16 Amendment
+
+Directive 92/42/EEC is amended as follows:
+
+(1) Article 6 is deleted.
+
+(2) Annex I, section 2, is deleted.
+
+Article 17 Repeals
+
+Directives 78/170/EC and 86/594/EEC are repealed.
+
+Article 18 Transposition
+
+1. Member States shall adopt and publish, by 31 December 2005 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.
+
+They shall apply those provisions with effect from 1 July 2006.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field governed by this Directive.
+
+Article 19 Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 20 Addressees
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+ANNEX I: (referred to in Article 12(3))  Method for setting generic eco-design requirements
+
+Implementing measures laying down eco-design requirements pursuant to Article 12(3) shall include the following provisions as appropriate for the EuP covered by the implementing measure.
+
+Part 1. General Provisions
+
+1. Manufacturers of EuP shall perform an assessment of the environmental aspects of a a representative EuP model throughout its lifecycle, based upon the realistic assumptions about normal conditions and for the purposes of use.
+
+On the basis of this assessment manufacturers will establish the ecological profile of a representative EuP model. It shall be based on environmentally relevant product characteristics and inputs/outputs occurring throughout the product life cycle expressed in physical quantities that can be measured.
+
+The assessment shall concentrate on and give priority to those factors, which are capable of being influenced in a substantial manner through product design
+
+2. The manufacturer shall make use of this assessment to evaluate alternative design solutions with the aim of achieving an improvement of the environmental performance of the product taking into account the state of the art in eco-design.
+
+The choice of a specific design solution shall achieve a reasonable balance between the various environmental aspects and between environmental aspects and other relevant considerations, such as safety and health, technical requirements for functionality, quality, and performance, and economic aspects, including manufacturing costs and marketability, while complying with all relevant legislation.
+
+The design process for EuP shall include, in particular, elements among those set out under part 2 of this annex.
+
+The relevant eco-design parameters will be specified in the implementing measure.
+
+Part 2. Eco-Design parameters for EuP
+
+2.1 The assessment described in part 1 of this Annex shall address, in accordance with the implementing measure, the following phases of the lifecycle of the product in so far as they relate to product design:
+
+(a) raw material acquisition
+
+(b) manufacturing
+
+(c) packaging, transport, and distribution
+
+(d) installation and maintenance
+
+(e) use
+
+(f) end-of-life.
+
+2.2 For each phase, the following environmental aspects shall be assessed where relevant:
+
+(a) predicted consumption of materials, of energy and of other resources such as fresh water
+
+(b) anticipated emissions to air, water or soil
+
+(c) anticipated pollution through physical effects such as noise, vibration, radiation, electromagnetic fields
+
+(d) expected generation of waste material
+
+(e) possibilities for reuse, recycling and recovery of materials and/or of energy taking into account Directive 2002/96/EC on WEEE.
+
+2.3 In particular, the following parameters shall be used, as appropriate, and supplemented by others, where necessary, for evaluating the potential for improvement on the environmental aspects mentioned in the previous paragraph:
+
+(a) Weight and volume of the product
+
+(b) use of materials issued from recycling activities
+
+(c) energy consumption throughout the life cycle
+
+(d) use of substances classified as hazardous to health and/or the environment according to Directive 67/548/EEC [64] and taking into account legislation on the marketing and use of specific substances, such as 76/769/EEC [65] or 2002/95/EC.
+
+[64]  OJ 196, 16.08.1967, p.1-5
+
+[65]  OJ L 262, 27.09.1976, p.201-203
+
+(e) quantity and nature of consumables needed for proper use and maintenance
+
+(f) Ease for reuse and recycling as expressed through: number of materials and components used, use of standard components, time necessary for disassembly, complexity of tools necessary for disassembly, use of component and material coding standards for the identification of components and materials suitable for re-use and recycling (including marking of plastic parts according to ISO), use of easily recyclable materials, easy access to valuable and other recyclable components and materials; easy access to components and materials containing hazardous substances
+
+(g) Incorporation of used components
+
+(h) Avoidance of technical solutions detrimental to reuse and recycling of components and whole appliances
+
+(i) Extension of lifetime as expressed through: minimum guaranteed lifetime, minimum time for availability of spare parts, modularity, upgradeability, reparability
+
+(j) Amounts of waste generated and amounts of hazardous waste generated
+
+(k) Emissions to air (greenhouse gases, acidifying agents, volatile organic compounds, ozone depleting substances, persistent organic pollutants, heavy metals, fine particulate and suspended particulate matter) without prejudice to Directive 97/68/EC relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery [66]
+
+[66]  OJ L 59, 27.02.1998, p.1
+
+(l) Emissions to water (heavy metals, substances with an adverse effect on the oxygen balance, persistent organic pollutants).
+
+(m) Emissions to soil (especially leakage and spills of dangerous substances during usage phase of products, and the potential for leaching upon disposal as waste).
+
+(n) Information, that may influence the way the EuP is handled, used or recycled by parties other than the manufacturer including, where applicable
+
+- Instructions relating to the manufacturing process.
+
+- Information for consumers on the significant environmental characteristics and performance of a product, accompanying the product when it is placed on the market to allow the consumer to compare these aspects of the products
+
+- Instructions for consumers/users on how to install, use and maintain the product in order to minimise its impact on the environment and to ensure optimal life-expectancy, as well as how to return the product at the end of life.
+
+- Information for treatment facilities concerning disassembly, recycling, or disposal at end-of-life. Basic information shall be found on the product itself wherever possible.
+
+This information shall take into account obligations under other Community legislation, such as Directive 2002/96/EC on WEEE.
+
+ANNEX II Method for Setting the level of Specific Eco-Design Requirements
+
+(Referred to in Article 12(3))
+
+Specific eco design requirements aim at improving a selected environmental aspect of the product. They may take the form of requirements for reduced consumption of a given resource, such as limits for the use of this resource in the various stages of the life cycle, as appropriate (e.g. limits in the water consumption in the use phase or in the quantities of a given material incorporated in the product or minimum required quantities of recycled material).
+
+The level of a specific eco-design requirement for given EuP shall be set as follows:
+
+1. A technical and economic analysis selects a number of representative models of the EuP in question on the market and identifies the technical options for improving the environmental performance of the product, keeping sight of the economic viability of the options and avoiding any significant loss of performance or of usefulness for consumers.
+
+On the basis of this analysis and taking into account economic and technical feasibility as well as potential for improvement, concrete measures are taken with a view to reducing the product's environmental impact.
+
+Concerning energy consumption in use, the level of energy efficiency or consumption shall be set aiming at the life cycle cost minimum to final users for representative EuP models. The life cycle cost analysis method uses a real discount rate of 5% and a realistic lifetime for the EuP; it is based on the sum of the variations in purchase price (resulting from the variations in industrial costs) and in operating expenses, which result from the different levels of technical improvement options, discounted over the lifetime of the representative EuP models considered. The operating expenses cover primarily energy consumption and, , additional expenses in other resources (such as water or detergent).
+
+A sensitivity analysis covering the relevant elements (such as price of energy or other resource, cost of raw material or production cost, discount rates) and, where appropriate, the inclusion of external environmental costs, shall be carried out to check if there are significant changes and if the overall conclusions are robust. The requirement shall be adapted accordingly.
+
+A similar methodology could be applied to other resources such as water.
+
+2. The level of the specific eco-design requirement can be set by using evidence available in the framework of other Community activities including regulation No1980/2000 on an EU Eco-label, the forthcoming thematic strategies on sustainable use of resources and recycling, Directive 92/75/EEC on energy labelling of domestic appliances and Regulation (EC) No 2422/2001 on energy labelling of office equipment.
+
+Evidence available from existing programs applied in other parts of the world can be used for setting the specific eco-design requirement of EuP traded with the EU's economic partners.
+
+3. In principle, the setting of a specific eco-design requirement shall not have as a consequence that a proprietary technology is imposed to manufacturers. When the requirement would imply that a significant proportion of models currently produced would be removed from the market, the date of entry into force of the requirement shall take the redesign cycle for the product into account.
+
+ANNEX III CE Marking
+
+(Referred to in Article 4(2))
+
+&gt;REFERENCE TO A GRAPHIC&gt;
+
+The CE marking must have a height of at least 5 mm. If the CE marking is reduced or enlarged the proportions given in the above graduated drawing must be respected.
+
+The CE marking must be affixed to the EuP. Where this is not possible, it must be affixed to the packaging and to the accompanying documents.
+
+ANNEX IV Internal design control
+
+(Referred to in Article 7)
+
+1. This module describes the procedure whereby the manufacturer or its authorised representative who carries out the obligations laid down in section 2 of this Annex ensures and declares that EuP satisfies the relevant provisions of the applicable implementing measure. The manufacturer, or its authorised representative, must affix the CE marking provided for in Article 4 to each item of EuP and draw up a written declaration of conformity. The declaration of conformity may cover one or more products and must be kept by the manufacturer.
+
+2. A technical documentation file enabling an assessment of the conformity of the EuP with the requirements of the applicable implementing measure shall be compiled by the manufacturer.
+
+The documentation shall specify, in particular:
+
+a) a general description of the EuP and of its intended use,
+
+b) the results of relevant environmental assessment studies carried out by the manufacturer, and/or references to environmental assessment literature or case studies, which are used by the manufacturer in determining product design solutions,
+
+c) the ecological profile of the product,
+
+d) elements of the product design specification relating to environmental design aspects of the product,
+
+e) a list of the appropriate documents referred to in Article 9, applied in full or in part, and a description of the solutions adopted to meet the requirements of the applicable implementing measure where the documents referred to in Article 9 have not been applied or where these documents do not cover entirely the requirements of the applicable implementing measure,
+
+f) a copy of the information concerning the environmental design aspects of the product which is provided in accordance with the requirements specified in Annex I, part 2.3(n)
+
+g) the results of measurements on the eco-design requirements carried out including details of the conformity of these measurements as compared with the eco-design requirements set out in the applicable implementing measure.
+
+3. The manufacturer must take all measures necessary to ensure that the product will be manufactured in compliance with the design specifications referred to in section 2 and with the requirements of the measure which apply to it.
+
+ANNEX V Environmental Management System
+
+(Referred to in Article 7)
+
+1. This module describes the procedure whereby the manufacturer who satisfies the obligations of section 2 of this Annex ensures and declares that the EuP satisfies the requirements of the applicable implementing measure. The manufacturer, or its authorised representative, must affix the CE marking provided for in Article 4 to each item of EuP and draw up a written declaration of conformity. The declaration of conformity may cover one or more products and must be kept by the manufacturer.
+
+2. The manufacturer must implement the environmental management system elements specified in section 3 of this Annex.
+
+3. Environmental management system (EMS)
+
+This section defines the environmental management system elements and procedures that are necessary for improving the environmental performance of products in order to ensure compliance of the EuP with the requirements of the applicable implementing measure.
+
+3.1. The environmental product performance policy
+
+The manufacturer shall be able to demonstrate improvement in overall environmental product performance and providing a framework for setting and reviewing environmental product performance objectives and indicators, taking into account the requirements of the implementing measure.
+
+All the provisions adopted by the manufacturer to establish and improve the ecological profile of the product through design and manufacturing must be documented in a systematic and orderly manner in the form of written procedures and instructions.
+
+They must contain in particular an adequate description of:
+
+- the significant environmental aspects and impacts of the products and an explanation of their nature.
+
+- the environmental product performance objectives and indicators and the organisational structure, responsibilities, powers of the management and allocation of resources with regard to their implementation and maintenance,
+
+- the checks and tests to be carried out after manufacture to verify product performance against environmental performance indicators,
+
+- procedures for controlling the required documentation and ensuring that it is kept up to date
+
+- the method of verifying the implementation and effectiveness of the environmental management system.
+
+3.2. Planning
+
+The manufacturer shall establish and maintain
+
+a) procedures for the establishment of the ecological profile of the product
+
+b) environmental product performance objectives and indicators, which consider technological options taking into account technical and economic requirements
+
+c) a programme for achieving these objectives.
+
+3.3 Implementation
+
+a) responsibilities and authorities shall be defined and documented in order to ensure effective environmental product performance and reporting on its operation for review and improvement
+
+b) documents shall be established indicating the design control and verification techniques implemented and processes and systematic measures used when designing the product
+
+c) documents describing the results of measurements on the eco-design requirements carried out including details of the conformity of these measurements as compared with the eco-design requirements set out in the applicable implementing measure;
+
+d) the manufacturer shall establish specifications indicating, in particular, standards which have been applied; where standards referred to in Article 9 are not applied or where they do not cover entirely the requirements of the relevant implementing measure, the means used to ensure compliance
+
+e) the manufacturer shall establish and maintain information to describe the core elements of the environmental management system and procedures for controlling all documents required.
+
+3.4 Checking and corrective action
+
+a) the manufacturer shall establish and maintain procedures to investigate and handle non conformance, and implement changes in the documented procedures resulting from corrective action
+
+b) the manufacturer shall carry out at least every three years a full internal environmental management system audit.
+
+ANNEX VI Declaration of conformity
+
+(Referred to in Article 4(3))
+
+the EC declaration of conformity must contain the following particulars:
+
+1. The name and address of the manufacturer or of its authorized representative;
+
+2. A description of the model sufficient for unambiguous identification;
+
+3. Where appropriate, the references of the harmonized standards applied;
+
+4. Where appropriate, the other technical standards and specifications used;
+
+5. Where appropriate, the reference of other Community legislation providing for the affixing of the CE mark that is applied.
+
+6. Identification and signature of the person empowered to bind the manufacturer or its authorised representative.
+
+ANNEX VII
+
+Contents of the implementing measures
+
+(Referred to in Article 12(4))
+
+the implementing measure shall specify, in particular:
+
+1. The exact definition of the type(s) of EuP covered;
+
+2. The eco-design requirement(s) for the EuP covered, implementing date(s), any staged or transitional measure;
+
+- in case of generic eco-design requirement(s) the relevant parameters among those mentioned in Annex I, part 2;
+
+- in case of specific eco-design requirement(s), its (their) level(s);
+
+3. The requirements on installation of the EuP where it has a direct relevance to the environmental performance considered;
+
+4. The measurement standards and/or measurement methods to be used; when available, harmonised standards the reference numbers of which have been published in the Official Journal of the European Union shall be used.
+
+5 The details for conformity assessment under Decision 93/465/EEC
+
+- where the module(s) to be applied is (are) different from Module A; the factors leading to the selection of that specific procedure;
+
+- where relevant the criteria for approval and/or certification of the third parties.
+
+Where different modules are laid down in other CE requirements for the same EuP, the module defined in the implementing measure shall prevail for the requirement concerned;
+
+6. Requirements on data to be provided by manufacturers to the authorities for enhanced monitoring of compliance;
+
+7. The duration of the transitional period during which Member States must permit the placing on the market of EuP which comply with the regulations in force in their territory at the date of adoption of the implementing measure.

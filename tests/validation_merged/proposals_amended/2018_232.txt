@@ -1,0 +1,2186 @@
+@import url(./../../../../css/com/com-c.css)
+
+EUROPEAN COMMISSION
+
+Brussels, 8.6.2018
+
+COM(2018) 442 final
+
+2018/0232(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+establishing the 'Customs' programme for cooperation in the field of customs
+
+{SEC(2018) 295 final}
+
+{SWD(2018) 321 final}
+
+{SWD(2018) 322 final}
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+On 2 May 2018, the Commission adopted a package on the next Multi-Annual Financial Framework for the period 2021-2027
+
+. The Commission proposed a new, modern long-term budget, tightly geared to the political priorities of the Union at 27. The proposed budget combines new instruments with modernised programmes to deliver efficiently on the Union’s priorities. Building on those foundations the Commission is proposing a new Customs programme under the “Single Market, Innovation and Digital” budget heading. This programme will support the work of and cooperation between customs authorities as described in the Communication accompanying the Multi-Annual Financial Framework proposal
+
+.
+
+This proposal provides for a date of application as of 1 January 2021 and is presented for a Union of 27 Member States, in line with the notification by the United Kingdom of its intention to withdraw from the European Union and Euratom based on Article 50 of the Treaty on European Union received by the European Council on 29 March 2017.
+
+•
+
+Reasons for and objectives of the proposal
+
+For 50 years, the customs union has been a significant example of successful integration in the EU. It is one of the few areas of exclusive competence of the EU without which the elimination of internal frontiers would not have been possible. The EU is the largest trading block in the world and has a share of 15% of total world trade. The total number of customs declarations has been constantly growing over the last five years reaching the level of 313 million in 2016 or 10 declarations per second, with 98% of customs declarations being made electronically.
+
+Customs help safeguarding the financial interests of the Union and of the Member States and, in their role as guardians of the external EU border for goods, also protect the public against terrorist, health, environmental and other threats. Customs apply a list of more than 60 non-customs legislations relating to, inter alia, dual use goods, firearms, drug precursors, movement of cash, intellectual property rights, public health, product safety and consumer protection, the protection of wildlife and of the environment. Customs authorities play also a critical role in securing the integrity of the supply chain and preventing terrorist organisations from freely moving their funds. The future Import Control System 2 (ICS2) for customs risk management will contribute decisively to the security of the Union, its citizens and its businesses. In addition, new challenges arising through rapidly changing technologies (digitalisation, connected-ness, Internet of things, blockchain) and business models (e-commerce, supply chain optimisation), reduced public financial means, increasing volumes of world trade and a persistent transnational crime and security threat constantly increase the pressure to improve the performance of the customs union and enlarge the scope of the tasks to be performed by customs administrations.
+
+Since 2016, the Union Customs Code is the new legal customs framework. The major goals of the Union Customs Code are the end of paper-based procedures and the digitalisation of interactions between trade and customs, as well as a reinforced risk management with a view to advance cargo information. As such, the Union Customs Code has triggered a massive digitalisation project with 17 different electronic systems to be mostly in place by 2020. Some systems will be deployed gradually up to 2025. These electronic systems touch upon all customs procedures and will therefore be at the heart of the functioning of the customs union. When fully implemented, the Union Customs Code will enhance the competitiveness of European businesses and rebalance the important equilibrium between customs controls and facilitation of the legitimate flow of goods transiting or moving in and out of the Union.
+
+The upcoming withdrawal of the United Kingdom from the EU implies disentangling the United Kingdom as a Member State from all existing customs electronic systems financed by Customs 2020. These implications and costs however cannot be precisely estimated and are therefore not covered in this paper as they are still largely unknown at this stage of the ongoing negotiations between the EU and the United Kingdom.
+
+The implementation of all these aspects can only be achieved through intense operational cooperation between customs administrations of the Member States, between them and other authorities, with trade and other third parties. The proposed programme, which is the successor programme of Customs 2020, will support cooperation in the field of customs.
+
+Customs cooperation and capacity building will be clustered around human networking and competency building actions, on the one hand, and information technology (IT) capacity building actions on the other hand. The first cluster will streamline the exchange of good practices and operational knowledge amongst the Member States and other countries participating in the programme, with a specific focus on project-based structured collaboration allowing for deep and integrated forms of cooperation between participating countries, thus paving the way for further evolution of the customs union. The second cluster enables the programme to fund a complete set of IT infrastructure and systems, including the digitalisation of interactions between trade and customs as well as a reinforced risk management that will allow Union customs administrations becoming fully-fledged e-administrations.
+
+•
+
+Consistency with existing policy provisions
+
+The current proposal is consistent with the Union Customs Code
+
+and other legislation that the customs authorities have to apply.
+
+The current proposal is also consistent with the existing Customs 2020 programme, which objective is to support the functioning and modernisation of the customs union in order to strengthen the internal market by means of cooperation between participating countries, their customs authorities and their officials. Similarly, the current proposal will provide the operational, organisational, methodological and budgetary framework to implement EU customs policy objectives and activities.
+
+As such, the proposal is a continuation of the current programme. But it will entail greater intensity in the way cooperation will take place and as regards the number of electronic systems, as well as the possibility to take on board a certain level of innovation.
+
+•
+
+Consistency with other Union policies
+
+The proposal is consistent with other Union policies and in particular with other proposed EU actions programmes and funds that pursue similar objectives in related fields of competence.
+
+The programme is closely linked with the new Customs Control Equipment Instrument (one of the two components of the new Integrated Border Management Fund), which will support the purchase, maintenance and upgrade of the eligible equipment. The customs programme will instead be used to support all relating actions, such as cooperation activities for the assessments of equipment needs, training in relation to the equipment purchased, etc.
+
+In addition, as the customs programme aims at supporting the customs authorities,
+
+inter alia
+
+, in protecting the EU financial interests, it has connections with the activities carried out by the European Anti-Fraud Office as regards combating fraud for the protection of Union financial interests in accordance with Art. 325 TFEU and with the EU anti-fraud programme. There will be synergies between the latter, which pursues specifically the objective of protecting the financial interests of the Union, and the customs programme, which supports the proper functioning of the customs union and, in so doing, contributes to the protection of those financial interests. The focus of each programme will be therefore distinct, but with potential for complementary action. Synergies will also be possible with the activities of the European Public Prosecutor Office and with the Justice Programme of the Justice, Rights and Values Fund in relation to training on the application of EU customs law.
+
+The customs programme also intends to ensure product safety and the protection of European consumers, as well as to ensure a level-playing field for EU industry. It therefore ties in with the initiatives of the Single Market programme aiming to strengthen market surveillance and to ensure that only compliant and safe products enter the EU market.
+
+To address security challenges and counter criminal activities, synergies with the Internal Security Fund could be explored. Economies of scale could especially relate to multi-agencies cooperation, custom control equipment and other capacity building actions.
+
+Moreover, significant synergies exist at operational level with the Fiscalis programme that supports cooperation in the field of taxation. In the field of electronic systems, there is cross-fertilisation and joint funding of shared components such as Data Centre infrastructure and the Common Communication Network. Identical IT management approaches and common horizontal support mechanisms are in place. The same type of joint actions is used and a similar approach for human capacity building and training is followed. The programme management in terms of proposal, management, action management, implementing acts, performance monitoring is fully streamlined. In addition, there is an emerging and growing need for joint activities between taxation and customs, in particular in the domain of e-commerce.
+
+Decision 70/2008/EC of the European Parliament and of the Council of 15 January 2008 on a paperless environment for customs and trade foresees a Multi-Annual Strategic Plan (MASP) for customs to coordinate the development and operation of customs electronic systems, which are mainly funded by the Programme. In order to ensure coherence and coordination between the Programme and the MASP, the relevant provisions of the Decision will be included in the Programme. The new proposal will accordingly repeal the current e-Customs decision
+
+and will therefore become the basis for the Multi-Annual Strategic Plan for Customs electronic systems (MASP-C).
+
+Finally, there are
+
+possibly further
+
+synergies to exploit in the IT area with various Union initiatives such as the Digital Europe Programme
+
+,
+
+all programmes that run (significant) electronic systems,
+
+the reuse of the building blocks
+
+of the Connecting Europe Facility (CEF), the European Interoperability Framework
+
+, the Rolling Plan for ICT standardisation
+
+, the action plan on FinTech
+
+,
+
+the
+
+Horizon Europe
+
+, the work of the EU Blockchain Observatory and Forum
+
+and other initiatives about fraud and cybersecurity risks.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+•
+
+Legal basis
+
+This proposal requires combining several legal bases as it may have several distinct but correlated purposes:
+
+–
+
+Article 33 of the Treaty on the Functioning of the European Union (TFEU), which calls for Union action with regard to customs cooperation and the EU customs union;
+
+–
+
+Article 114 TFEU, which calls for Union action with regard to the internal market; and
+
+–
+
+Article 207 TFEU, which calls for Union action with regard to common commercial policy.
+
+Article 33 TFUE is foreseen as a continuation of the customs cooperation under the current programme. In addition and in order to contemplate and cover the wide variety of tasks that customs authorities need to perform at borders in a multitude of domains other than mere customs cooperation, the proposal is also based on Article 114 TFUE and on Article 207 TFUE.
+
+EU action is also required because of obligations stemming from international agreements, in particular under the remit of the World Trade Organisation.
+
+•
+
+Subsidiarity (for non-exclusive competence)
+
+Action at Union level rather than at national level is necessary for the following reasons:
+
+–
+
+The customs union is an exclusive competence of the Union. By transferring their powers to the Union, Member States agreed that actions in the customs area will be better taken at Union level. However, the Union legal framework in itself does not ensure sufficiently the proper functioning of the Customs Union. It should be complemented by supporting measures as provided by the Customs programme in order to ensure that Union customs legislation is applied in a convergent and harmonised way.
+
+–
+
+Many of the activities in the customs area are of a cross-border nature, involving and affecting all Member States, and therefore they cannot be effectively and efficiently delivered by individual Member States. Union action is needed to underpin the European dimension of customs work, to avoid internal market distortions and to support the effective protection of the Union external borders.
+
+–
+
+In this regard, Union action is justified to ensure the proper functioning and further development of the customs union and its common regulatory framework, as it has been shown to be the most efficient and effective response to shortcomings and challenges in implementing the customs union and customs cooperation.
+
+•
+
+Proportionality
+
+Action at EU level is much more efficient than if it was to be left to Member States.
+
+The vast majority of the proposed budget will be spent on IT capacity building activities. The backbone of the customs cooperation is a highly secured dedicated communication network. This common network ensures that every national administration only needs to connect once to this common infrastructure to be able to exchange any kind of information. If such an infrastructure were not available Member States would have to link 26 times to the national systems of each of the other Member States. The chosen approach is based on an IT architecture model where European electronic systems are made up of a combination of common and national components. This model has been favoured above a fully centralised IT architecture model as the former leaves part of the budgetary responsibility with Member States which will develop the national electronic components at national level taking into account also national preferences, requirements and constraints. Enhancing the interoperability and interconnectivity for the sake of the internal market is therefore achieved in a proportionate manner.
+
+The Commission shall exercise coordinating, executive and management functions, as laid down in the Treaties. Coordination by the Commission needs to be undertaken with national customs authorities, with specialised representatives, at operational level and on a long term basis in view of existing and future challenges for the Union identified in the customs field. The various fora and tools of the programme provide an appropriate framework for the Commission to take on its coordinating role in the customs area.
+
+•
+
+Choice of the instrument
+
+In line with the conclusion of the Impact Assessment, EU intervention by means of a funding programme is appropriate. A successor to the Customs 2020 programme is being proposed by the Commission.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+•
+
+Retrospective evaluations/fitness checks of existing legislation
+
+The proposal takes into account the recommendations of the final evaluation of the Customs 2013 as well as the preliminary results of the ongoing mid-term evaluation of Customs 2020 programmes. The findings of the Customs 2013 final evaluation
+
+were broadly positive with regard to the Customs 2013 programme’s contribution to policy-level objectives and in terms of helping customs authorities to work as one. The biggest gains can be summarised as follows:
+
+–
+
+Enhancing safety and security, including the full implementation of the Import Control System and the Customs Risk Management System as well as the mainstreaming of the Authorised Economic Operator and Economic Operator Systems.
+
+–
+
+Facilitation of trade, allowing the Customs Union to expedite the movement, release and clearance of goods, including goods in transit, while guaranteeing the safety of the goods.
+
+–
+
+Protection of the EU’s financial interests, due to the use of centralised databases and the enhanced effectiveness of risk management systems.
+
+The achievements made during the period under review were not assessed as a simple evolution of already on-going trends. Rather, they were significant and path breaking (especially regarding the introduction of electronic systems related to security and safety) and indicative of major developments towards the realisation of the key programme objectives.
+
+The evaluation identified a strong case for the EU added value of the programme, particularly regarding its role in supporting the implementation of EU legislation at national level. The electronic systems funded through the programme are highly complementary to national initiatives and mostly relate to implementing such legislation. This led to reductions in administrative costs that would result from each Member State needing to develop similar electronic systems on its own. The networking fostered through the joint actions of the programme was also considered crucial for several reasons, including ensuring the consistent application of common legislation, spreading best practices and building the trust needed for administrations to act as if they were one administration.
+
+The preliminary findings of the ongoing mid-term evaluation of Customs 2020 can be summarised as follows
+
+:
+
+–
+
+Relevance: the level of interest shown by national administrations in actively engaging in the programme suggests there is alignment between the programme activities and actual need. Working visits were considered by national authorities as the most useful type of joint actions, followed closely by seminar, workshops, project groups and the newly introduced Expert Teams.
+
+–
+
+Effectiveness: customs authorities agree that the programme's joint actions contributed to improving the exchange of information between administrations. The training modules developed under the programme had led to a more uniform approach to the application of EU customs law among participating countries.
+
+–
+
+Efficiency: procedures for preparing the programme cycle and the Annual Work Programmes were in general positive. In relation to the Performance Monitoring Framework (PMF), its implementation was mostly considered successful. Though the data generated is mainly self-reported, it appears to be collected systematically and generate useful information. However, it is not clear to what extent the PMF data is used to take management decisions or is used as an early warning system to steer programme interventions. There is a need to simplify the current monitoring system, especially regarding the number of impact indicators and the length of action follow-up forms.
+
+–
+
+Coherence: broad levels of agreement exist on joint actions' contribution to national initiatives by supporting the consistent application of EU law and by managing the European electronic systems. It has also been reported that supported initiatives under the programme are complementary to initiatives at national level.
+
+–
+
+EU added value: national customs administrations were generally positive about the extent to which the programme is achieving results that would not have been possible by national administrations acting alone. A high proportion of respondent to evaluation questionnaires also found that the programme is instrumental for building trust and leading to convergence with the customs administration of EU Member States and other participating countries (candidate countries and potential candidates). Initial interviews also point to efficiency gains through pooling of resources, especially in the area of IT (economies of scale ad reduced development costs). Initial findings also suggest challenges for national authorities to align national considerations with EU customs requirements: diverging interests may in some cases act as a barrier to realise EU added value and few national authorities also expressed frustration when having to adjust their ambition to that of less advanced national customs administrations.
+
+•
+
+Stakeholder consultations
+
+The Commission contracted an external study to support the Impact Assessment which included dedicated consultation to gather more broadly the view from stakeholders. Considering the particular scope of the programme (customs administrations are the only direct beneficiaries), these consultations concentrated on the customs administrations by means of discussions in a project group, country visits/case studies and dedicated surveys. Interviews with business associations and economic operators, academics as well as Customs 2020 programme participants and international organisations (e.g. World Customs Organisation) complemented these activities.
+
+An open public consultation on "EU funds in the area of investment, research & innovation, SMEs and single market" was carried out. It gathered the views of citizens on, among others, policy challenges and needs for EU intervention as regards the customs union.
+
+•
+
+External expertise
+
+The Commission contracted an external study to support this impact assessment by providing quantitative and qualitative information. The objective of this assignment was to: (1) identify the key drivers setting the customs scene in a post 2020 context, the problems to be faced by the customs union and the Member States' customs administrations and the objectives for an EU-level intervention based on the identified drivers and problems; (2) identify the possible EU policy options to achieve the objectives and deploy a future EU financing intervention and assess the identified options' expected economic, social and environmental impacts; and (3) compare the options according to the set criteria (such as efficiency, effectiveness, relevance, coherence) and rank them with reasoned arguments.
+
+The external study and the related consultation activities confirmed the challenging times ahead of customs administrations and the need for an ambitious programme around two key dimensions: on the one hand, continuity and reinforcement of (IT and human) capacity building and cooperation actions for an equal interpretation and implementation of the customs union and, on the other hand, more enhanced operational cooperation and better addressing innovation.
+
+•
+
+Impact assessment
+
+On 27 April 2018, the Regulatory Scrutiny Board gave a positive opinion on the accompanying impact assessment, with a recommendation to further improve the report with respect to some key aspects such as providing further elements on electronic systems for justifying the increase of budget and to elaborate on the simplification of monitoring arrangements and indicators beyond the legal base indicators.
+
+Those two aspects were considered in the final version of the impact assessment. Clarifications were provided on the legal context (obligations stemming from the Union Customs Code in particular) and the complexity of European electronic systems for explaining the significant increase in budget. Performance information indicators will be simplified as this part of the monitoring system placed substantial burdens on administrations and DG TAXUD, without leading to big improvements in the programme’s design and management.
+
+Four main scenarii were analysed:
+
+–
+
+The EU 27 baseline scenario: the Union would have to review its customs legislation and repeal a significant part of the enhancements brought to customs operations by the adoption of the new UCC in 2016. As a result, this could impact the EU's international commitments and would also compromise other EU policy objectives, in particular the security agenda.
+
+–
+
+The critical mass scenario: no other development would be possible after their implementation and cooperation would be limited to supporting the implementation of the UCC. This would be in essence a regression in terms of IT and overall customs operations.
+
+–
+
+The continuity plus scenario: both the necessary minimum for the customs union – to continue to function and deliver – and the next logical step – after the adoption of the UCC.
+
+–
+
+The structural centralisation scenario: centralisation – whether transitional or directly fully structural – could strengthen the performance of customs administrations in the EU and deliver on the programme’s objectives. It would however represent a change of operating model, which requires preparation and is therefore largely unrealistic for the next MFF.
+
+The chosen scenario after analysis at political level is the continuity plus scenario. Current cooperation mechanisms and tools must be further optimised if the maximum benefits of the customs union and the internal market are to be obtained: in line with EU international commitments at the World Trade Organisation, the customs administrations of Member States should work and operate as if they were one single entity. This would be aligned with the political messages in the recent Commission Communication on developing the EU customs union and its governance. Achieving all this in times of increased expectations towards the Union delivering on its fundamentals – of which the customs union is a part – is therefore politically and economically vital. This decision is also reflected in the post-2020 MFF proposal package that the Commission presented on 2 May 2018
+
+.
+
+Further to a technical comment transmitted by the Regulatory Scrutiny Board, an additional indicator has been included as regards the UCC completion rate, allowing providing also an insight in the development of the UCC electronic systems that is supported by the Programme and consumes a substantial part of its budget.
+
+•
+
+Simplification
+
+The on-going programme is already streamlined with a strong focus on outputs and results. It implements all simplifications identified in past evaluations. The main additional simplification identified would consist in an extended use of lump sums / unit costs and the possibility to adopt multi-annual work programmes to avoid the annual administrative burden of comitology.
+
+•
+
+Fundamental rights
+
+The proposal has no particular bearing on fundamental rights.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The timing of the review of EU funding programmes is linked to the proposal for a new Multiannual Financial Framework, as proposed on 2 May 2018
+
+. In accordance with this proposal, this Regulation on the Customs programme contains a budgetary framework of EUR 950 million (in current prices) for the period 2021-2027.
+
+The Customs programme will be implemented in direct management mode and in a priority-based manner. Work programmes are established – together with the stakeholders – stipulating the priorities for a specific period.
+
+The Customs programme will have an impact on the Union and Member States revenue. Although not quantifiable, it will facilitate and streamline the work done by Customs authorities for the collection of customs duties, as well as of VAT and excise duties at import. By increasing the quality of work through cooperation and IT and human capacity building, customs administrations will be more efficient for protecting the financial interests of the Union and of Member States.
+
+5.
+
+OTHER ELEMENTS
+
+•
+
+Implementation plans and monitoring, evaluation and reporting arrangements
+
+The impact of the proposed Customs programme will be assessed through interim and final evaluations, as well as by monitoring on an ongoing basis a set of high-level key performance indicators. These evaluations will be carried out in line with paragraphs 22 and 23 of the Interinstitutional Agreement of 13 April 2016
+
+, where the three institutions confirmed that evaluations of existing legislation and policy should provide the basis for impact assessments of options for further action. The evaluations will assess the Instrument's effects on the ground, based on indicators and targets and on a detailed analysis of the degree to which the instrument can be deemed relevant, effective, and efficient, provides enough EU added value and is coherent with other EU policies. They will include lessons learnt to identify any lacks/problems or any potential to further improve the actions or their results and to help maximise their impact. They will also include identification and quantification of regulatory costs, benefits and savings.
+
+The evaluation reporting system shall ensure that data for programme evaluation are collected efficiently, effectively, in a timely manner and at the appropriate level of granularity; such data and information shall be communicated to the Commission, in a way that complies with other legal provisions; for instance, when necessary, personal data shall be made anonymous. To that end, proportionate reporting requirements shall be imposed on recipients of Union funds.
+
+The results and outputs of the programme will be regularly subject to assessment through a comprehensive monitoring system, based on defined indicators, in view of setting accountability for the delivery of value for money.
+
+Data for measuring performance will be drawn from various electronics systems and data collection tools. The main tools envisaged at present are action follow-up forms, event assessment forms and regular polls of customs officials.
+
+Since the programme plays a supporting role, helping participating country administrations to share information and boost their capacity, the monitoring system focuses on following the progress of the programme’ activities in terms of indicators at outputs levels. Whenever possible, it also follows indicators in areas related to the programme’s high-level objectives.
+
+The Commission will, on a yearly basis, issue a programme progress report containing a summary of performance towards the programme objectives and the related output and result indicators.
+
+•
+
+Detailed explanation of the specific provisions of the proposal
+
+Chapter I - General Provisions
+
+The proposed programme will provide support to customs union and customs authorities to protect the financial and economic interests of the Union and its Member States, to protect the Union from unfair and illegal trade while supporting legitimate business activity, to ensure the security and safety of the Union and its residents and to maintain a proper balance between customs controls and facilitation of legitimate trade. This objective has been adjusted to allow providing support in a more comprehensive manner to the customs union and customs authorities as regards the whole range of their mission, as defined in the Union Customs Code, and in view of emerging needs, as further detailed in the impact assessment.
+
+Like the ongoing Customs 2020 programme, the new programme will be open for participation to Member States, acceding countries, candidate countries and potential candidates. In line with overall Union policy, countries of the European Neighbourhood Policy and third countries in accordance with the conditions laid down in specific agreements between the Union and those countries will also have the possibility to take part in the programme under certain conditions.
+
+As in the past, the Programme will provide funding in any of the forms laid down in the Financial Regulation, in particular grants, procurement and reimbursement of costs. If deemed appropriate, prizes may also be considered for specific actions, in which case the implementation criteria and modalities would be detailed in the work programmes.
+
+Chapter II - Eligibility
+
+The types of actions considered eligible for programme funding are in essence similar to the ones under the current programme. Their typology has however been simplified and reduced in order to provide for more flexibility. The indicative list in Annex 1 provides an overview of concrete actions that could be funded under the programme.
+
+Based on the lessons learnt with the current Expert Teams tool under the current Customs 2020 programme, the proposal provides specific focus on project-based structure cooperation aimed at boosting enhanced operational cooperation allowing for deep and integrated forms of cooperation between participating countries, thus paving the way for the further evolution of the customs union.
+
+A novelty compared to the current Customs 2020 programme is represented by the inclusion of actions complementing or supporting the actions implementing the objectives of the newly established Customs Control Equipment Instrument, which is part of the Integrated Border Management Fund. In particular, the Customs Control Equipment Instrument will only support the purchase, maintenance and upgrade of the eligible equipment while the Customs programme will support all relating actions, such as cooperation actions for the assessment of equipment needs or, where appropriate, training in relation to the equipment purchased.
+
+Considering the importance of globalisation, the Programme will continue to provide the possibility of involving representatives of governmental authorities, including from third countries, as well as representatives of international organisations, economic operators or civil society as external experts, where beneficial for the actions implementing the objective of the Programme.
+
+Chapter III - Grants
+
+The implementation of the programme will occur through the most commonly used spending mechanisms of Union budget, namely public procurement and grants. As regards grants, the proposal stipulates that no call for proposal will apply where the eligible entities are customs authorities.
+
+As in the past, the Programme should fund actions up to 100% given their strong EU added value. Where actions require the awarding of grants, the applicable co-financing rate will be set out in the work programmes.
+
+Chapter IV - Specific provisions for IT capacity building actions
+
+The provisions under this chapter aim at providing an improved framework and governance for the IT capacity building actions carried out under the programme. Building on the experience of previous Customs programmes and in view of the increasing number of European electronic systems, some novelties are proposed. An improved definition of the European electronic systems ‘common components’ and ‘national components’ reflecting better the reality of electronic systems and their features has been integrated. The tasks incumbent on the Commission on the one hand and the Member States on the other hand have been listed. Finally, a Multi-Annual Strategic Plan for Customs (MASP-C), to be drawn up by the Commission, in partnership with the Member States, will allow for a better planning of budgetary and human resources both at national and EU level. Accompanying reporting duties have been introduced to allow for a better monitoring of IT capacity building actions.
+
+Chapter V - Programming, monitoring, evaluation and control
+
+In view of the mid- to long-term nature of the objectives pursued and building on experience gained over time, work programmes should cover several years. This is a novelty compared to the current Customs 2020 programme which foresees annual work programmes. The shift from annual to multiannual work programmes will reduce the administrative burden for both the Commission and Member States.
+
+A list of core indicators has been added in Annex 2 to improve the monitoring of the programme and its performance from the outset. The Commission will be empowered to adopt delegated acts in order to develop the provisions for a monitoring and evaluation framework, including through amendments to Annex 2 to review and/or complement the list of indicators where necessary.
+
+Interim and final evaluations will be carried out in a timely manner to feed into the decision-making process.
+
+Chapter VI - Exercise of the delegation and committee procedure
+
+The Commission is empowered to adopt delegated powers as regards the review of the performance monitoring framework and related indicators.
+
+A Customs Programme committee (examination procedure) will assist the Commission.
+
+Chapter VII - Transitional and final provisions
+
+Coherent, effective and proportionate targeted information to multiple audiences will be ensured, including the media and public.
+
+2018/0232 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+establishing the 'Customs' programme for cooperation in the field of customs
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 33, 114 and 207 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)  The Customs 2020 programme, established by Regulation (EU) No 1294/201318 and its predecessors have contributed significantly to facilitating and strengthening customs cooperation. Many of the customs activities are of a cross-border nature, involving and affecting all Member States and therefore cannot be effectively and efficiently implemented by each Member State alone. A Union-wide customs programme implemented by the Commission provides Member States with a framework at Union level to develop such cooperative activities, which is more cost-effective than if each Member State set up an individual cooperation framework at bilateral or multilateral level. The customs programme also plays an essential role in safeguarding the financial interests of the Union and of the Member States by ensuring the effective collection of customs duties and thus representing an important source of revenue for the Union and national budgets, also by focusing on IT capacity building and increased cooperation in the field of customs. Furthermore, harmonised and standardised controls are necessary in order to track illegal cross-border flows of goods and fight fraud . It is therefore appropriate and in the interest of efficiency to ensure the continuity of the Union's financing activities in the field of customs cooperation by establishing a new programme in the same field, the ‘Customs’ programme (‘the Programme’).
+
+(1 a)  For 50 years, the customs union, implemented by national customs authorities, has been a cornerstone of the Union, one of the largest trading blocks in the world. The customs union is a significant example of successful Union integration, and is essential for the proper functioning of the single market for the benefit of both businesses and citizens. The European Parliament, in its resolution adopted on 14th March 2018, entitled ‘The next MFF: Preparing the Parliament’s position on the MFF post-2020’, expressed particular concern regarding customs fraud. A stronger and a more ambitious Union can only be achieved if it is provided with reinforced financial means, continuous support for existing policies, and increased resources.
+
+(2)  The customs union has evolved considerably over the last 50 years, and customs administrations are now successfully fulfilling a wide range of border tasks. Working together, they strive to facilitate ethical and fair trade and reduce bureaucracy, collect revenue for national and Union budgets, and help to protect the population against terrorist, health and environmental threats, as well as other threats. In particular, by introducing a common framework19 for customs risk management at Union level and by controlling large amounts of cash flows to combat money laundering and terrorist financing, the customs authorities take a leading role in the fight against terrorism, organised crime and unfair competition. Given their extensive mandate, the customs authorities are now in reality the main authorities for the control of goods at the Union's external borders. In this context, the Customs programme should not only cover customs cooperation but also provide support for the wider customs mission as provided for in Article 3 of Regulation (EU) No 952/2013, namely the supervision of the Union's international trade, the implementation of the external aspects of the internal market, the common commercial policy and other Union common policies having an influence on trade and the security of the supply chain. The legal basis of this Regulation should therefore cover customs cooperation (Article 33 TFEU), the internal market (Article 114 TFEU) and commercial policy (Article 207 TFEU).
+
+(3)  The Programme should, as a general objective, assist the Member States and the Commission by providing a framework for actions that aims to support the customs union and customs authorities with the long-term objective that all customs administrations in the Union work together as closely as possible; contribute to protecting the financial and economic interests of the Union and its Member States; protect the Union from unfair and unlawful commercial practices, while encouraging legitimate business activities, guaranteeing the security and safety of the Union and its residents, thereby enhancing consumer protection; and facilitate legitimate trade so that businesses and citizens can benefit from the full potential of the internal market and world trade.
+
+(3 a)  As it has become evident that some of the systems referred to in Article 278 of the Union Customs Code can only be partially deployed by 31 December 2020, which implies that non-electronic systems will continue in use beyond that date, and in the absence of legislative amendments that extend that deadline, companies and customs authorities will be unable to perform their duties and legal obligations as regards customs operations, one of the primary specific objectives of the Programme should be to assist the Member States and the Commission to set up such electronic systems.
+
+(3 b)  Customs management and control is a dynamic policy area, facing new challenges generated by constantly evolving global business models and supply chains, as well as changing consumption patterns and digitalisation, such as e-commerce, including the internet of things, data analytics, artificial intelligence and block chain technology. The Programme should support customs management in such situations and enable the use of innovative solutions. Such challenges further underline the need to enforce cooperation between customs authorities and the need for a uniform interpretation and implementation of the customs legislation. When public finances are under pressure, the volume of world trade increases and fraud and smuggling are a growing concern; the Programme should contribute to tackling those challenges.
+
+(3 c)  In order to ensure maximum efficiency and to avoid overlaps, the Commission should coordinate the implementation of the Programme with related Union programmes and funds. This includes in particular the Fiscalis Programme, the EU anti-fraud Programme and Single Market Programme, as well as with the Internal Security Fund and Integrated Border Management Fund, the Reform Support Programme, the Digital Europe Programme, the Connecting Europe Facility and the Council Decision on the system of Own Resources of the European Union, as well as the implementing regulations and measures.
+
+(3 d)  With regard to the potential withdrawal of the United Kingdom from the Union, the financial envelope of the Programme does not take into account the costs resulting from the signing of the withdrawal agreement and the potential future relationship between the United Kingdom and the Union. The signing of that agreement, the disengagement of the United Kingdom from all existing customs systems and cooperation, and the lapsing of its legal obligations in this area, could lead to additional costs, which cannot be precisely estimated at the time of establishment of tha Programme. The Commission should therefore consider reserving sufficient resources to prepare for those potential costs. However, those costs should not be covered by the envelope of the Programme, as the budget provided for in the Programme will only be sufficient to cover the costs which could realistically be foreseen at the time of establishment of the Programme.
+
+(4)
+
+This Regulation lays down a financial envelope for the Programme, which is to constitute the prime reference amount, within the meaning of point 17 of the Interinstitutional Agreement of 2 December 2013 between the European Parliament, the Council and the Commission on budgetary discipline, on cooperation in budgetary matters and on sound financial management
+
+, for the European Parliament and the Council during the annual budgetary procedure.
+
+(5)  In order to support the process of accession and association of third countries, the Programme should be open to the participation of acceding and candidate countries as well as potential candidates and partner countries of the European Neighbourhood Policy, if all conditions are met. It may also be open to other third countries under the conditions provided for in specific agreements between the Union and the countries concerned on the participation of those countries in any Union programme, if that participation is of interest to the Union and if it has a positive impact on the internal market without affecting consumer protection.
+
+(6)  The Programme should be covered by Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council21 (hereinafter referred to as ‘the Financial Regulation’). The Financial Regulation provides for the rules for the implementation of the Union budget, including the rules on grants, prizes, procurement and reimbursement of external experts.
+
+(7)  The actions which applied under the Customs 2020 programme and have proven to be adequate should therefore be maintained, while others that have proven to be inadequate should be terminated. In order to provide greater simplicity and flexibility in the execution of the Programme and thereby better deliver on its objectives, the actions should be defined only in terms of overall categories with a list of illustrative examples of concrete activities. Through cooperation and capacity building, the Programme should also promote and support the uptake and leverage of innovation to further improve the capabilities to deliver on the core priorities of customs.
+
+
+(8)  Regulation [2018/XXX] establishes, as part of the Integrated Border Management Fund, a Customs Control Equipment Instrument22 (‘CCE Instrument’). In order to preserve the coherence and horizontal coordination of all cooperation actions relating to customs and customs control equipment, it is appropriate to implement all of them under one single legal act and set of rules, that act and those rules being this Regulation. Therefore, the CCE Instrument should only support the purchase, maintenance and upgrade of the eligible equipment, while this Programme should support all other related actions, such as cooperation actions for the assessment of equipment needs or, where appropriate, training in relation to the equipment purchased.
+
+(9)
+
+Exchanges of customs and related information are key for a proper functioning of customs and they extend well beyond the exchanges within the customs union. Adaptations or extensions of European electronic systems to third countries not associated to the Programme and international organisations could indeed have an interest for the Union or the Member States. Therefore, when duly justified by such an interest, adaptations of or extensions to European electronic systems for cooperation with third countries and international organisations should be eligible costs under the Programme.
+
+(10)  Considering the importance of globalisation, the Programme should continue to provide for the possibility of involving external experts within the meaning of Article 238 of the Financial Regulation. Those external experts should mainly be representatives of governmental authorities, including from non-associated third countries, as well as academics and representatives of international organisations, economic operators or civil society.
+
+(11)  In line with the Commission's commitment to ensure the coherence and simplification of funding programmes, set out in its Communication of 19 October 2010 entitled 'The EU Budget Review23, resources should be shared with other Union funding instruments if the envisaged actions under the Programme pursue objectives that are common to various funding instruments, taking into account that the amount allocated to the Programme is calculated without taking into account that there could be unforeseen expenses, excluding however double financing. Actions under the Programme should ensure coherence in the use of the Union's resources supporting the customs union and customs authorities.
+
+ 
+
+(11 a)  The purchase of software that is needed to perform tight border controls should be eligible for funding under the Programme. Furthermore, the purchase of software that can be used in all Member States should be encouraged in order to facilitate exchange of data.
+
+(12)  Information Technology (IT) capacity building actions are set to attract a greater part of the budget under the Programme. Specific provisions should describe, respectively, the common and national components of the European electronic systems. Moreover, the scope of actions and the responsibilities of the Commission and the Member States should be clearly defined. In order to ensure coherence and coordination of IT capacity-building actions, the Programme should provide that the Commission develops and updates a Multiannual Strategic Customs Plan ('MASP-C'), with the aim of creating an electronic environment which ensures consistency and interoperability of the customs systems in the Union.
+
+(13)
+
+Decision No 70/2008/EC of the European Parliament and of the Council
+
+requests the Commission to draw up a Multi-Annual Strategic Plan for Customs for creating a coherent and interoperable electronic customs environment for the Union. The development and operation of the electronic systems included in the Multi-Annual Strategic Plan are mainly funded by the Programme. In order to ensure coherence and coordination between the Programme and the Multi-Annual Strategic Plan, the relevant provisions of the Decision should be included in this Regulation. As all relevant provisions of Decision No 70/2008/EC are now taken over either by Regulation (EU) No 952/2013 or by this Regulation, Decision No 70/2008/EC should be repealed.
+
+(14)
+
+This Regulation should be implemented by means of work programmes. In view of the mid- to long-term nature of the objectives pursued and building on experience gained over time, work programmes should be able to cover several years. The shift from annual to multiannual work programmes will reduce the administrative burden for both the Commission and Member States.
+
+(14a)   In line with the findings contained on the two special reports adopted recently by the European Court of Auditors in the field of customs, namely special report No 19/2017 of 5 December 2017 entitled ‘Import procedures: shortcomings in the legal framework and an ineffective implementation impact the financial interests of the EU’, and special report No 26/2018 of 10 October 2018 entitled ‘A series of delays in Customs IT systems: what went wrong?’, the actions undertaken within the ‘Customs’ programme for cooperation in the field of customs should aim at tackling the shortcomings signalled.
+
+(14b)   On 4 October 2018 the European Parliament adopted a resolution on the fight against customs fraud and the protection of the Union’s own resources. The conclusions contained in that resolution should be taken into account during the actions implemented in the framework of the Programme.
+
+(15)
+
+In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred to the Commission. Those powers should be
+
+exercised
+
+in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council
+
+.
+
+(16)
+
+Pursuant to paragraph 22 and 23 of the Inter-institutional agreement for Better Law-Making of 13 April 2016
+
+, there is a need to evaluate this programme on the basis of information collected through specific monitoring requirements, while avoiding overregulation and administrative burdens, in particular on Member States. These requirements, where appropriate, can include measurable indicators, as a basis for evaluating the effects of the Instrument on the ground.
+
+(17)
+
+In order to respond appropriately to changes in policy priorities, the power to adopt acts in accordance with Article 290 of the Treaty on the Functioning of the European Union should be delegated to the Commission in respect of amending the list of indicators to measure the achievement of the specific objectives of the Programme. It is of particular importance that the Commission carries out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement on Better Law-Making of 13 April 2016. In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States' experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
+
+(18)
+
+In accordance with the Financial Regulation, Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council
+
+, Council Regulation (Euratom, EC) No 2988/95
+
+, Council Regulation (Euratom, EC) No 2185/96
+
+and Council Regulation (EU) 2017/1939
+
+, the financial interests of the Union are to be protected through proportionate measures, including the prevention, detection, correction and investigation of irregularities and fraud, the recovery of funds lost, wrongly paid or incorrectly used and, where appropriate, the imposition of administrative sanctions. In particular, in accordance with Regulation (EU, Euratom) No 883/2013 and Regulation (Euratom, EC) No 2185/96, the European Anti-Fraud Office (OLAF) may carry out administrative investigations, including on-the-spot checks and inspections, with a view to establishing whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union. In accordance with Regulation
+
+(EU) 2017/1939, the European Public Prosecutor's Office (EPPO) may investigate and prosecute fraud and other criminal offences affecting the financial interests of the Union, as provided for in Directive (EU) 2017/1371 of the European Parliament and of the Council
+
+. In accordance with the Financial Regulation, any person or entity receiving Union funds is to fully cooperate in the protection of the Union’s financial interests, to grant the necessary rights and access to the Commission, OLAF, the EPPO and the European Court of Auditors
+
+and to ensure that any third parties involved in the implementation of Union funds grant equivalent rights
+
+.
+
+(19)
+
+Horizontal financial rules adopted by the European Parliament and the Council on the basis of Article 322 of the Treaty on the Functioning of the European Union apply to this Regulation. These rules are laid down in the Financial Regulation and determine in particular the procedure for establishing and implementing the budget through grants, procurement, prizes, indirect implementation, and provide for checks on the responsibility of financial actors. Rules adopted on the basis of Article 322 TFEU also concern the protection of the Union's budget in case of generalised deficiencies as regards the rule of law in the Member States, as the respect for the rule of law is an essential precondition for sound financial management and effective EU funding.
+
+(20)  The types of financing and the methods of implementation under this Regulation should be chosen on the basis of their ability to achieve the specific objectives of the actions and to deliver the best results, taking into account, in particular, the costs of controls, the administrative burden, and the expected risk of non-compliance. This should include consideration of the use of lump sums, flat rates and unit costs, as well as financing not linked to costs as referred to in Article 125(1) of the Financial Regulation.
+
+(21)
+
+Since the objective of this Regulation cannot be sufficiently achieved by the individual Member States but can rather, by reason of its scale and effects, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity, as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective.
+
+(22)
+
+This Regulation replaces Regulation (EU) No 1294/2013 of the European Parliament and of the Council, which should therefore be repealed,
+
+HAVE ADOPTED THIS REGULATION:
+
+CHAPTER I
+
+GENERAL PROVISIONS
+
+Article 1
+
+Subject matter
+
+1.
+
+This Regulation establishes the 'Customs' programme for cooperation in the field of customs ('Programme').
+
+2.
+
+It lays down the objectives of the Programme, the budget for the period 2021 – 2027, the forms of Union funding and the rules for providing such funding.
+
+Article 2
+
+Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1)
+
+'customs authorities' means the authorities defined in point (1) of Article 5 of Regulation (EU) No 952/2013;
+
+(2)
+
+'European electronic systems' means electronic systems necessary for the customs union and for the execution of the mission of customs authorities
+
+(3)
+
+'third country' means a country that is not member of the Union.
+
+Article 3
+
+Programme objectives
+
+1.  With a view to achieving the long-term aim that all customs administrations in the Union work together as closely as possible, and in order to guarantee the security and safety of the Member States and to protect the Union against fraud, unfair and unlawful commercial practices, and at the same time, promote legitimate business activities and a high level of consumer protection, the general objective of the Programme is to support the customs union and the customs authorities in protecting the financial and economic interests of the Union and its Member States..
+
+2.  The Programme has the following specific objectives:
+
+	
+(1) to support the preparation and uniform implementation of customs legislation and policy as well as customs cooperation;
+
+ 
+
+(2) to assist with IT capacity building, which consists in developing, maintaining and operating the electronic systems as referred to in Article 278 of the Union Customs Code, and enabling a smooth transition to a paperless environment and trade in line with Article 12 of this Regulation.
+
+ 
+
+(3) to finance joint actions, which consist in cooperation mechanisms enabling officials to carry out joint operational activities under their core responsibilities, share experience in the customs field and join efforts to deliver on customs policy;
+
+ 
+
+(4) to enhance human competencies, supporting the professional skills of customs officials and empowering them to fulfill their role on a uniform basis;
+
+ 
+
+(5) to support innovation in the area of customs policy.
+
+2 a.  The Programme shall be consistent with and exploit any synergies with other Union action programmes and funds with similar objectives in related fields.
+
+2 b.  The implementation of the Programme shall respect the principles of transparency, proportionality, equal treatment and non-discrimination.
+
+	
+2 c.  The Programme shall also support the continuous evaluation and monitoring of the cooperation between customs authorities with a view to identifying weaknesses and possible improvements.
+
+
+Article 4
+
+Budget
+
+1.  The financial envelope for the implementation of the Programme for the period 2021 – 2027 shall be EUR 842 844 000 in 2018 prices (EUR 950 000 000 in current prices).
+
+2.  When necessary and duly justified, the amount referred to in paragraph 1 may also cover expenses for preparation, monitoring, control, audit, evaluation and other activities for managing the Programme and evaluating its performance and the achievement of its objectives. It may moreover cover expenses relating to studies, meetings of experts, information and communication actions by the Commission addressed to Member States and economic operators, in so far as they are related to the objectives of the Programme, as well as expenses linked to information technology networks focusing on information processing and exchange, including corporate information technology tools and other technical and administrative assistance needed in connection with the management of the Programme , in so far as such activities are required for the achievement of the objectives of the Programme.
+
+2 a.  The Programme shall not be used to cover costs relating to the potential withdrawal of the United Kingdom from the Union. The Commission shall reserve upon its own assessment resources in order to cover the costs relating to the disengagement of the United Kingdom from all Union customs systems and cooperation, and the lapsing of its legal obligations in this area.
+
+ 
+
+Before reserving those resources, the Commission shall make an estimate of the potential costs, and shall inform the European Parliament once data relevant for that estimate become available.
+
+Article 5
+
+Third countries associated to the Programme
+
+The Programme shall be open to the following third countries:
+
+(a)
+
+acceding countries, candidate countries and potential candidates, in accordance with the general principles and general terms and conditions for the participation of those countries in Union programmes established in the respective framework agreements and Association Council decisions, or similar agreements, and in accordance with the specific conditions laid down in agreements between the Union and those countries;
+
+(b)
+
+countries covered by the European Neighbourhood Policy, in accordance with the general principles and general terms and conditions for the participation of those countries in Union programmes established in the respective framework agreements and association Council decisions, or similar agreements, and in accordance with the specific conditions laid down in agreements between the Union and those countries, provided that those countries have reached a sufficient level of approximation of the relevant legislation and administrative methods to those of the Union;
+
+(c)  other third countries, under the conditions laid down in a specific agreement on the participation of a third country in any Union programme, provided that the agreement:
+
+–
+
+ensures a fair balance as regards the contributions and benefits of the third country participating in the Union programmes;
+
+–
+
+–  establishes the conditions for participation in the programmes, including the calculation of financial contributions to individual programmes and their administrative costs. These contributions shall constitute assigned revenue in accordance with Article 21(5) of the Financial Regulation;
+
+–
+
+does not confer to the third country a decisional power on the Programme;
+
+–
+
+guarantees the rights of the Union to ensure sound financial management and to protect its financial interests.
+
+Article 6
+
+Implementation and forms of EU funding
+
+1.
+
+The Programme shall be implemented in direct management in accordance with the Financial Regulation.
+
+2.
+
+The Programme may provide funding in any of the forms laid down in the Financial Regulation, in particular grants, prizes, procurement and reimbursement of travel and subsistence expenses incurred by external experts.
+
+CHAPTER II
+
+ELIGIBILITY
+
+Article 7
+
+Eligible actions
+
+1.
+
+Only actions implementing the objectives referred to in Article 3 shall be eligible for funding.
+
+2.  Actions complementing or supporting the actions implementing the objectives referred to in Article 3 of Regulation (EU) [2018/XXX] [CCE instrument] and/or complementing or supporting the actions implementing the objectives referred to in Article 2 of Regulation (EU) [2018/XXX] [Anti-Fraud Programme] shall also be eligible for funding under this Programme.
+
+3.
+
+Actions referred to in paragraphs 1 and 2 shall include the following:
+
+(a)
+
+meetings and similar ad-hoc events;
+
+(b)  project-based structured collaboration, such as collaborative IT development by a group of Member States;
+
+(c)
+
+IT capacity building actions, in particular the development and operation of European electronic systems;
+
+(d)  human competency and capacity building actions, including training and exchange of best practices;
+
+
+
+(e)
+
+support and other actions, including:
+
+(1)
+
+studies;
+
+(2)
+
+innovation activities, in particular proof-of-concepts, pilots and prototyping initiatives;
+
+(3)
+
+jointly developed communication actions;
+
+	
+(3 a)  monitoring activities; 
+
+(4)
+
+any other action provided for in the work programmes referred to in Article 13, which is necessary for attaining or in support of the objectives set out in Article 3.
+
+Possible forms of actions referred to in points (a), (b) and (d) are presented in a non-exhaustive list in Annex 1.
+
+4.  Actions consisting in the development, deployment, maintenance and operation of adaptations or extensions to the common components of the European electronic systems for cooperation with third countries not associated to the Programme or international organisations shall be eligible for funding when they are of interest to the Union. The Commission shall put in place the necessary administrative arrangements, which may provide for a financial contribution from the third parties concerned to these actions.
+
+5.
+
+Where an IT capacity building action referred to in point (c) of paragraph 3 concerns the development and operation of a European electronic system, only the costs related to the responsibilities entrusted to the Commission pursuant to Article 11(2) shall be eligible for funding under the Programme. Member States shall bear the costs related to the responsibilities entrusted to them pursuant to Article 11(3).
+
+Article 8
+
+External experts
+
+1.  Wherever beneficial for the achievement of the actions implementing the objectives referred to in Article 3, representatives of governmental authorities, including those from third countries not associated to the Programme pursuant to Article 5, academics and representatives of international and other relevant organisations, of economic operators and organisations representing economic operators and of civil society may take part as external experts to actions organised under the Programme.
+
+2.
+
+Costs incurred by the external experts referred to in paragraph 1 shall be eligible for reimbursement under the Programme in accordance with the provisions of Article 238 of the Financial Regulation.
+
+3.  External experts shall be selected by the Commission on the basis of their competence, experience in the field of application of this Regulation and their relevant knowledge of the specific action being taken, avoiding any potential conflict of interest. The selection shall strike a balance between business representatives and other civil society experts, as well as take into account the principle of gender equality. The list of external experts shall be regularly updated and made accessible to the public.
+
+CHAPTER III
+
+GRANTS
+
+Article 9
+
+Award, complementarity and combined funding
+
+1.  Grants under the Programme shall be awarded and managed in accordance with Title VIII of the Financial Regulation, and specifically with the principles of sound financial management, transparency, proportionality, non-discrimination and equal treatment.
+
+
+
+2.
+
+An action that has received a contribution from another Union programme may also receive a contribution under the Programme, provided that the contribution do not cover the same costs. The rules of each contributing Union programme shall apply to its respective contribution to the action. The cumulative funding shall not exceed the total eligible costs of the action and the support from the different Union programmes may be calculated on a pro-rata basis in accordance with the documents setting out the conditions for support.
+
+3.
+
+In accordance with Article 198(f) of the Financial Regulation, the grants shall be awarded without a call for proposals where the eligible entities are customs authorities of the Member States and of the third countries associated to the Programme as referred to in Article 5 of this Regulation, provided that the conditions set out in that Article are met.
+
+Article 10
+
+Co-financing rate
+
+1.  By way of derogation from Article 190 of the Financial Regulation, the Programme may finance up to 100% of the eligible costs of an action according to the relevance of the action and the estimated impact.
+
+2.
+
+The applicable co-financing rate where actions require the awarding of grants shall be set out in the multiannual work programmes referred to in Article 13.
+
+CHAPTER IV
+
+SPECIFIC PROVISIONS FOR IT CAPACITY BUILDING ACTIONS
+
+Article 11
+
+Responsibilities
+
+1.  The Commission and the Member States shall jointly ensure the development and operation of the European electronic systems listed in the Multi-Annual Strategic Plan for Customs referred to in Article 12, including its design, specification, conformance testing, deployment, maintenance, evolution, modernisation, security, quality assurance and quality control.
+
+2.
+
+The Commission shall, in particular, ensure the following:
+
+(a)
+
+the development and operation of common components as established under the Multi-Annual Strategic Plan for Customs provided for in Article 12;
+
+(b)  the overall coordination of the development and operation of European electronic systems with a view to their operability, cyber-resilience, inter­connectivity and continuous improvement and their synchronised implementation;
+
+(c)
+
+the coordination at Union level of European electronic systems with a view to their promotion and implementation at national level;
+
+(d)
+
+the coordination of the development and operation of European electronic systems as regards their interactions with third parties, excluding actions designed to meet national requirements;
+
+(e)
+
+the coordination of European electronic systems with other relevant actions relating to e-Government at Union level.
+
+(e a)  an efficient and swift communication with and between Member States with a view to streamlining the governance of the Union’s electronic systems;
+
+(e b)  a timely and transparent communication with the stakeholders concerned with the implementation of IT systems at Union and Member States level, in particular about delays in the implementation of and spending relating to Union and national components. 
+
+3.
+
+The Member States shall, in particular, ensure the following:
+
+(a)
+
+the development and operation of national components as established under the Multi-annual Strategic Plan for Customs provided for in Article 12;
+
+(b)
+
+the coordination of the development and operation of the national components of European electronic systems at national level;
+
+(c)
+
+the coordination of European electronic systems with other relevant actions relating to e-Government at national level;
+
+(d)  providing the Commission with regular information on the measures taken to enable the authorities or economic operators concerned to make full and effective use of the European electronic systems;
+
+(e)
+
+the implementation at national level of European electronic systems.
+
+Article 12
+
+Multi-Annual Strategic Plan for Customs (MASP-C)
+
+1.  The Commission shall draw up and update a Multi-Annual Strategic Plan for the customs field listing all the tasks relevant for the development and operation of European electronic systems and classifying each system or part of a system as:
+
+a)  a common component: a component of European electronic systems developed at Union level, which is available to all Member States or identified by the Commission as being common for reasons of efficiency, security of rationalisation and reliability;
+
+(b)  a national component: a component of the European electronic systems developed at national level, which is available in the Member State that created such a component or contributed to its joint creation, for instance as part of a collaborative IT development project by a group of Member States;
+
+(c)
+
+or a combination of both.
+
+2.
+
+The Multi-Annual Strategic Plan for Customs shall also include innovation and pilot actions as well as the supporting methodologies and tools related to the European electronic systems.
+
+3.  Member States shall notify the Commission of the completion of each task allocated to them under the Multi-Annual Strategic Plan for Customs referred to in paragraph 1. They shall also regularly report to the Commission on progress with their tasks and where applicable about foreseeable delays in their implementation.
+
+
+
+4.
+
+No later than 31 March of each year, the Member States shall submit to the Commission annual progress reports on the implementation of the Multi-Annual Strategic Plan for Customs referred to in paragraph 1 covering the period 1 January to 31 December of the preceding year. Those annual reports shall be based on a pre-established format.
+
+5.  No later than 31 October of each year, the Commission shall, on the basis of the annual reports referred to in paragraph 4, establish a consolidated report assessing the progress made by Member States and the Commission in the implementation of the plan referred to in paragraph 1, including information on necessary adaptations of or on delays with the plan, and make that report public.
+
+CHAPTER V
+
+PROGRAMMING, MONITORING, EVALUATION AND CONTROL
+
+Article 13
+
+Work programme
+
+1.  The Programme shall be implemented by multiannual work programmes referred to in Article 110 of the Financial Regulation. The multiannual work programmes shall in particular set out the objectives to be pursued, the expected results, the method of implementation and the total amount of the financing plan. They shall also set out in detail a description of the actions to be financed, an indication of the amount allocated to each action and an indicative implementation timetable. The multiannual work programmes shall be, communicated to the European Parliament where applicable.
+
+2.  The multiannual work programmes shall be adopted by the Commission by means of implementing acts and communicated to the European Parliament and the Council. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 18(2).
+
+ 
+
+2 a.  The multiannual work programmes shall build on lessons learned from previous programmes.
+
+
+
+Article 14
+
+Monitoring and reporting
+
+1.  In compliance with its reporting requirements pursuant to point (h) of Article 41(3) of the Financial Regulation, the Commission shall present to the European Parliament and the Council information on the performance of the Programme. Reporting on performance shall include information on both progress and shortfalls.
+
+2.  Indicators for reporting on the performance of the Programme towards the achievement of the specific objectives provided for in Article 3 are set out in Annex 2. To ensure effective assessment of progress of the Programme towards the achievement of its objectives, the Commission is empowered to adopt delegated acts in accordance with Article 17 to amend Annex 2 to review or complement the indicators where considered necessary and to supplement this Regulation with provisions on the establishment of a monitoring and evaluation framework in order to provide the European Parliament and the Council with updated qualitative as well as quantitative information on the performance of the Programme.
+
+
+3.  The performance reporting system shall ensure that the data for the monitoring of the implementation and the results of the Programme are comparable and complete as well as collected in an efficient, effective and timely manner. To this end, proportionate and relevant reporting requirements shall be imposed on the recipients of Union funds. The Commission shall provide the European Parliament and the Council with reliable information on the quality of the performance data used.
+
+Article 15
+
+Evaluation
+
+1.
+
+Evaluations shall be carried out in a timely manner to feed into the decision-making process.
+
+2.  The interim evaluation of the Programme shall be carried out as soon as sufficient information on its implementation is available, but no later than three years after the start of the programme implementation.
+
+	
+2 a.  The interim evaluation shall present findings necessary to make a decision about a follow-up to the Programme beyond 2027 and its objectives.
+
+
+3.  At the end of the implementation of the Programme, but no later than three years after the end of the period referred to in Article 1, the Commission shall carry out a final evaluation of the Programme.
+
+4.  The Commission shall present and communicate the conclusions of the evaluations, accompanied by its observations and lessons learned, to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions.
+
+Article 16
+
+Audits and investigations
+
+Where a third country participates in the programme by a decision under an international agreement or by virtue of any other legal instrument, the third country shall grant the necessary rights and access required for the authorizing officer responsible, the European Anti-Fraud Office (OLAF), the European Court of Auditors and the European Public Prosecutor's Office (EPPO) to comprehensively exert their respective competences. In the case of OLAF and the EPPO, such rights shall include the right to carry out investigations, including on-the-spot checks and inspections, provided for in Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council1a and in Council Regulation (EU) 2017/19391b.
+
+CHAPTER VI
+
+EXERCISE OF THE DELEGATION AND COMMITTEE PROCEDURE
+
+Article 17
+
+Exercise of the delegation
+
+1.
+
+The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2.
+
+The power to adopt delegated acts referred to in Article 14(2) shall be conferred on the Commission until 31 December 2028.
+
+3.
+
+The delegation of power referred to in Article 14(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect the day following the publication of the decision in the
+
+Official Journal
+
+of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4.
+
+Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement on Better Law-Making of 13 April 2016.
+
+5.
+
+As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6.
+
+A delegated act adopted pursuant to Article 14(2) shall enter into force if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+Article 18
+
+Committee procedure
+
+1.
+
+The
+
+Commission shall be assisted by a committee referred to as the "Customs Programme Committee". That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2.
+
+Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+CHAPTER VII
+
+TRANSITIONAL AND FINAL PROVISIONSArticle 19
+
+Information, communication and publicity
+
+1.  The recipients of Union funding shall acknowledge the origin and ensure maximum visibility of the Union funding (in particular when promoting the actions and their results) by providing coherent, effective and proportionate targeted information to multiple audiences, including the media and the public.
+
+2.  The Commission shall implement information and communication actions on the Programme, on the actions financed under the Programme, and on the results achieved by those financed actions. The financial resources allocated to the Programme shall also contribute to the institutional communication of the Union's political priorities in so far as they are linked to the objectives set out in Article 3.
+Article 20
+
+Repeal
+
+1.
+
+Regulation
+
+(EU) No 1294/2013 is repealed with effect from 1 January 2021.
+
+2.
+
+Decision No 70/2008/EC is repealed with effect from 1 January 2021.
+
+Article 21
+
+Transitional provisions
+
+1.
+
+This Regulation shall not affect the continuation or modification of the actions concerned, until their closure, under Regulation (EU) No 1294/2013, which shall continue to apply to the actions concerned until their closure.
+
+2.
+
+The financial envelope for
+
+the Programme may also cover technical and administrative assistance expenses necessary to ensure the transition between the Programme and the measures adopted under its predecessor, the
+
+Regulation
+
+(EU) No 1294/2013.
+
+3.
+
+If necessary, appropriations may be entered in the budget beyond 2027 to cover the expenses provided for in Article 4(2), to enable the management of actions not completed by 31 December 2027.
+
+Article 22
+
+Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the
+
+Official Journal of the European Union
+
+.This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.Title of the proposal/initiative
+
+1.2.Policy area(s) concerned
+
+(programme cluster)
+
+1.3.Nature of the proposal/initiative
+
+1.4.Grounds for the proposal/initiative
+
+1.5.Duration and financial impact
+
+1.6.Management mode(s) planned
+
+2.
+
+MANAGEMENT MEASURES
+
+2.1.Monitoring and reporting rules
+
+2.2.Management and control system
+
+2.3.Measures to prevent fraud and irregularities
+
+3.
+
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+3.2.Estimated impact on expenditure
+
+3.2.1.Summary of estimated impact on expenditure
+
+3.2.2.Estimated impact on appropriations of an administrative nature
+
+3.2.3.Third-party contributions
+
+3.3.Estimated impact on revenue
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.
+
+Title of the proposal/initiative
+
+Proposal for a Regulation of the European Parliament and of the Council establishing the Customs programme for cooperation in the field of customs
+
+1.2.
+
+Policy area(s) concerned
+
+(Programme cluster)
+
+Single market, Innovation and Digital
+
+1.3.
+
+The proposal/initiative relates to:
+
+◻
+
+a new action
+
+◻
+
+a new action following a pilot project/preparatory action
+
+X
+
+the extension of an existing action
+
+◻
+
+a merger or redirection of one or more actions towards another/a new action
+
+1.4.
+
+Grounds for the proposal/initiative
+
+1.4.1.
+
+Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative
+
+The programme will be implemented through an implmenting act adopting a multiannual work programme. The adoption is planned for Q1 2021 after the consultation of the Customs programme Committee. The execution of the multiannual work programme will be carried out through the conclusion of grant agreements with the beneficiaries and the conclusion of public procurements contracts with the service providers starting in Q2 2018 at the latest.
+
+1.4.2.
+
+Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone.
+
+Reasons for action at European level (ex-ante)
+
+Customs help safeguarding the financial interests of the Union and of the Member States and, in their role as guardians of the external EU border for goods, also protect the public against terrorist, health, environmental and other threats. Customs apply a list of more than 60 non-customs legislations relating to, inter alia, dual use goods, firearms, drug precursors, movement of cash, intellectual property rights, public health, product safety and consumer protection, the protection of wildlife and of the environment. Customs authorities play also a critical role in securing the integrity of the supply chain and preventing terrorist organisations from freely moving their funds. New challenges arising through rapidly changing technologies (digitalisation, connected-ness, Internet of things, blockchain) and business models (e-commerce, supply chain optimisation), reduced public financial means, increasing volumes of world trade and a persistent transnational crime and security threat constantly increase the pressure to improve the performance of the customs union and enlarge the scope of the tasks to be performed by customs administrations.
+
+Since 2016, the Union Customs Code (UCC) is the new legal customs framework. The UCC has triggered a massive digitalisation project with 17 different electronic systems to be fully in place by 2025.
+
+The implementation of all this can only be achieved through intense operational cooperation between customs administrations of the Member States, between them and other authorities, with trade and other third parties. The proposed programme, which is the successor programme of Customs 2020, will support the customs union and customs authorities
+
+through administrative and IT capacity building activities and operational cooperation.
+
+Expected generated Union added value (ex-post)
+
+The vast majority of the proposed budget will be spent on IT capacity building activities. The backbone of the customs cooperation is a highly secured dedicated communication network that ensures that every national administration only needs to connect once to this common infrastructure to be able to exchange any kind of information. If such an infrastructure were not available Member States would have to link 27 times to the national systems of each of the other Member States.
+
+1.4.3.
+
+Lessons learned from similar experiences in the past
+
+Final evaluation of Customs 2013 programme
+
+:
+
+Findings were broadly positive with regard to the programme’s contribution to policy-level objectives and in terms of helping customs authorities to work as one. The biggest gains can be summarised as follows:
+
+-
+
+Enhancing safety and security, including the full implementation of the Import Control System and the Customs Risk Management System as well as the mainstreaming of the Authorised Economic Operator and Economic Operator Systems.
+
+-
+
+Facilitation of trade, allowing the Customs Union to become more secure while carrying out fewer of the manual controls that slows down the flow of trade and speeding the transit process.
+
+-
+
+Protection of the EU’s financial interests, due to the use of centralised databases and the enhanced effectiveness of risk management systems.
+
+The achievements made during the period under review were not a simple continued evolution of already on-going trends. Rather, they were significant and path breaking (especially regarding the introduction of electronic systems related to security and safety) and indicative of major developments towards the realisation of the key programme objectives.
+
+The evaluation identified a strong case for the EU added value of the programme, particularly regarding its role in supporting the implementation of EU legislation at national level. The electronic systems funded through the programme are highly complementary to national initiatives and mostly relate to implementing such legislation. This led to reductions in administrative costs that would result from each Member State needing to develop similar electronic systems on its own. The networking fostered through the joint actions of the programme was also considered crucial for several reasons, including ensuring the consistent application of common legislation, spreading best practices and building the trust needed for administrations to act is if they were one administration.
+
+The initial findings of the
+
+mid-term evaluation of the Customs 2020 programme
+
+revealed that
+
+national customs administrations are generally positive about the extent to which the programme is achieving results that would not have been possible by national administrations acting alone. A high proportion of respondents to evaluation questionnaires also found that the programme is instrumental for building trust and leading to convergence with the customs administration of EU Member States and other participating countries (candidate countries and potential candidates). Interviews also point to efficiency gains through pooling of resources, especially in the area of IT (economies of scale ad reduced development costs). Findings also suggest challenges for national authorities to align national considerations with EU customs requirements: diverging interests may in some cases act as a barrier to realise EU added value and few national authorities also expressed frustration when having to adjust their ambition to that of less advanced national customs administrations.
+
+1.4.4.
+
+Compatibility and possible synergy with other appropriate instruments
+
+The programme is closely linked with the new Customs Control Equipment Instrument which will support the purchase, maintenance and upgrade of the eligible equipment.
+
+In addition, it has connections with the activities carried out by the European Anti-Fraud Office OLAF as regards combating fraud for the protection of Union financial interests in accordance with Art. 325 TFEU.
+
+Moreover, significant synergies exist with the Fiscalis programme that supports cooperation in the field of taxation. In the field of IT, there is cross-fertilisation and joint funding of common IT components such as the Common Communication Network. Identical IT management approaches and common horizontal support mechanisms are in place. The same type of joint actions is used and a similar approach for human capacity building and training is followed. The programme management in terms of proposal, management, action management, implementing acts, performance monitoring is fully streamlined.
+
+1.5.
+
+Duration and financial impact
+
+X
+
+limited duration
+
+–
+
+X
+
+in effect from 01/01/2021 to 31/12/2027
+
+–
+
+X
+
+Financial impact from 2021 to 2027 for commitment appropriations and from 2021 to 2030 for payment appropriations.
+
+◻
+
+unlimited duration
+
+–
+
+Implementation with a start-up period from YYYY to YYYY,
+
+–
+
+followed by full-scale operation.
+
+1.6.
+
+Management mode(s) planned
+
+X
+
+Direct management
+
+by the Commission
+
+–
+
+X by its departments, including by its staff in the Union delegations;
+
+–
+
+◻
+
+by the executive agencies
+
+◻
+
+Shared management
+
+with the Member States
+
+◻
+
+Indirect management
+
+by entrusting budget implementation tasks to:
+
+–
+
+◻
+
+third countries or the bodies they have designated;
+
+–
+
+◻
+
+international organisations and their agencies (to be specified);
+
+–
+
+◻
+
+the EIB and the European Investment Fund;
+
+–
+
+◻
+
+bodies referred to in Articles 70 and 71 of the Financial Regulation;
+
+–
+
+◻
+
+public law bodies;
+
+–
+
+◻
+
+bodies governed by private law with a public service mission to the extent that they provide adequate financial guarantees;
+
+–
+
+◻
+
+bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that provide adequate financial guarantees;
+
+–
+
+◻
+
+persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act.
+
+–
+
+If more than one management mode is indicated, please provide details in the ‘Comments’ section.
+
+Comments
+
+2.
+
+MANAGEMENT MEASURES
+
+2.1.
+
+Monitoring and reporting rules
+
+Specify frequency and conditions.
+
+The impact of the proposed Customs programme will be assessed through interim and final evaluations as well as by monitoring on an ongoing basis a set of high-level key performance indicators.
+
+The results and outputs of the programme will be regularly subject to assessment through a comprehensive monitoring system, based on defined indicators in view of accountability for value for money. Data for measuring performance will be drawn from various data collection tools including action follow-up forms, event assessment forms and regular polls of customs officials.
+
+Since the programme plays a supporting role, helping participating country administrations to share information and boost their capacity, the monitoring system focuses on following the progress of the programme’ activities in terms of indicators at outputs levels. Whenever possible, it also follows indicators in areas related to the programme’s high-level objectives.
+
+The Commission will, on a yearly basis, issue a programme progress report containing a summary of performance towards the programme objectives and the related output and result indicators.
+
+2.2.
+
+Management and control system(s)
+
+2.2.1.
+
+Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed
+
+The programme will be implemented in direct management mode given the nature of the programme’s activities, its focus on customs administrations as beneficiaries and the EU's exclusive competence for the customs union, it provides for the most efficient allocation of financial resources and greatest impact possible. Indeed, it offers both flexibility and steering power to the Commission for allocating yearly through its financing decision the appropriate funds according to priorities agreed with Member States through comitology, including emerging needs.Concretely, the Commission services have to review and accept every single action in view of: the objectives and conditions embedded in the regulation; the adopted annual work programme; and the eligibility criteria contained in the financing decision/grant agreements.
+
+Implementation will be achieved mostly via procurement and, to a lesser extent, via grant agreements established with the National Administrations.
+
+For procurement, the payment modalities are fully aligned with corporate standards (no pre-financing; all payments are linked to the acceptance of pre-defined deliverables).
+
+For grants, pre-financing up to 90% is envisaged. Final payment/recoveries for grants are done on the basis of financial reports combined with ex-post on-the-spot audits.
+
+The control system for procurment is based on a thorough ex-ante verification of 100% of all transactions therefore excluding any error at payment time.
+
+For grants, the control strategy has a dual approach :
+
+(1) the National Administrations's financial reports are closed after a quick desk review followed by the final payment/recovery order (therefore reducing the payment delays). These payment/recovery orders remain verified by the usual ex-ante controls embedded in the financial circuits (ex-ante verification of 100% of the transactions).
+
+(2) the above controls are underpinned by ex-post on-the-spot audits in the Member States. DG TAXUD targets on-the-spot audit missions in 3 to 5 Member States per year with the intention to cover the majority of the participating countries before the end of the programme period.
+
+2.2.2.
+
+Information concerning the risks identified and the internal control system(s) set up to mitigate them
+
+The risks associated to the financial transactions implementing the programme are limited.
+
+(1) For procurement, the bulk of transactions (mostly linked to developing and operating IT systems) are implemented using existing framework contracts and/or via co-delegation to other Commission services.
+
+The overall internal control system in place at DG TAXUD (based upon thorough ex-ante verification of 100% of the related transactions), allowed keeping the error rates in the previous programme well below the materiality threshold (i.e. at an estimated level of 0,5%). This control system will continue to be used and applied for all transactions under the new programme thus ensuring error rates well below the materiality treshold.
+
+(2) For grants, the transactions are equally of low risk level, in particular since :
+
+•
+
+the beneficiaries are the customs administrations of Member States, candidate countries and potential candidates – in such case there are no calls for proposals;
+
+•
+
+expenditure is mostly linked to numerous actions with relatively small amounts involved for each action (mainly reimbursements of travel and subsistence expenditure);
+
+•
+
+obligatory use of ART2 (the IT system for monitoring the expenditure) for recording the actions and compiling financial reports - this system embeds certain controls;
+
+•
+
+all projects and actions under the programme are ex-ante approved by DG TAXUD, the controls related to the selection and contracting phases ensure the legality and regularity of the grants commitments;
+
+•
+
+the analysis of the most common errors detected during past ex-post verifications or ex-post on-the-spot audits confirm that the related financial transactions are of low risk.
+
+Under the former programme, the error rate for the part implemented via grants was also consistently below the materiality threshold (i.e. around 1%). This control system will continue to be applied thus ensuring error rates well below the materiality threshold.
+
+2.2.3.
+
+Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure)
+
+The total annual cost of controls under the former programme has been consistenly around 1,5% (cost of all controls (procurement and grants) over payments made throughout the year) and is considered cost-effective.
+
+The risk of error, as indicated above, is limited considering the nature and implementation method of the related financial transactions. Furthermore, the global internal control system, based on thorough ex-ante verifications, aims to remove all potential errors prior to the payment/closure.
+
+The ex-post on-the-spot controls for grants further reduce the potential risk of error at payment/closure due to their strong deterring effect.
+
+The applied control strategy has proven to be effective and efficient under the former programme and the cost of control has shown to be limited.
+
+Considering that the same control systems will be used for the new programme, the anticipated cost of controls and expected level of risk of error at payment/closure under the new programme will be similar.
+
+2.3.
+
+Measures to prevent fraud and irregularities
+
+Specify existing or envisaged prevention and protection measures, e.g. from the Anti-Fraud Strategy.
+
+DG TAXUD's anti-fraud strategy (AFS) focusses on developing a strong anti-fraud culture within the DG through awareness raising activities on potential fraud risks and ethical behaviour among DG TAXUD staff. The strategy furthermore addresses an active cooperation with OLAF and the integration of fraud aspects into the Strategic Planning and Programming (SPP) cycle of the DG.
+
+Considering that the programme will be implemented (mostly) through procurement, objective 3 of DG TAXUD's AFS (i.e. " Raising awareness on possible conflict of interest in dealing with external stakeholders such as lobbyists, tenderers, contractors") with focus on 1) maintaining records of contacts with lobbyists, 2) centralised management of procurement procedures and contacts with tenderers, 3) dedicated training on contacts with lobbyists, will be particularly applicable to the implementation of the programme. The obligatory consultation of the Early Detection and Exclusion System prior to awarding contracts (and any financial transaction) will further contain any potential fraud and irregularity.
+
+3.
+
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.
+
+Heading of the multiannual financial framework and new expenditure budget line(s) proposed
+
+Heading of multiannual financial framework
+
+Budget line
+
+Type of
+
+expenditure
+
+Contribution
+
+Number
+
+Diff./Non-diff.
+
+from EFTA countries
+
+from candidate countries
+
+from third countries
+
+within the meaning of Article [21(2)(b)] of the Financial Regulation
+
+1
+
+03.01 Single Market – Administrative line
+
+03.05 Single Market – Cooperation in the field of customs (CUSTOMS)
+
+Diff.
+
+NO
+
+YES
+
+YES
+
+NO
+
+3.2.
+
+Estimated impact on expenditure
+
+3.2.1.
+
+Summary of estimated impact on expenditure
+
+EUR million (to three decimal places)
+
+Heading of multiannual financial
+
+framework
+
+1
+
+Single Market, Innovation and Digital
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+Post 2027
+
+TOTAL
+
+Operational appropriations (split according to the budget lines listed under 3.1)
+
+Commitments
+
+(1)
+
+126.587
+
+130.144
+
+132.753
+
+135.414
+
+138.129
+
+140.897
+
+143.976
+
+947.900
+
+Payments
+
+(2)
+
+30.975
+
+94.322
+
+117.123
+
+122.203
+
+124.928
+
+127.061
+
+129.462
+
+201.826
+
+947.900
+
+Appropriations of an administrative nature financed from the envelope of the programme
+
+Commitments = Payments
+
+(3)
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+2.100
+
+TOTAL appropriations for the envelope of the programme
+
+Commitments
+
+=1+3
+
+126.887
+
+130.444
+
+133.053
+
+135.714
+
+138.429
+
+141.197
+
+144.276
+
+950.000
+
+Payments
+
+=2+3
+
+31.275
+
+94.622
+
+117.423
+
+122.503
+
+125.228
+
+127.361
+
+129.762
+
+201.826
+
+950.000
+
+Heading of multiannual financial
+
+framework
+
+7
+
+‘Administrative expenditure’
+
+EUR million (to three decimal places)
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+Post 2027
+
+TOTAL
+
+Human resources
+
+16.864
+
+16.864
+
+16.864
+
+16.864
+
+16.864
+
+16.864
+
+16.864
+
+118.048
+
+Other administrative expenditure
+
+0.686
+
+0.686
+
+0.686
+
+0.686
+
+0.686
+
+0.686
+
+0.686
+
+4.802
+
+TOTAL appropriations under HEADING 7 of the multiannual financial framework
+
+(Total commitments = Total payments)
+
+17.550
+
+17.550
+
+17.550
+
+17.550
+
+17.550
+
+17.550
+
+17.550
+
+122.850
+
+EUR million (to three decimal places)
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+Post 2027
+
+TOTAL
+
+TOTAL appropriations
+
+across HEADINGS
+
+of the multiannual financial framework
+
+Commitments
+
+144.437
+
+147.994
+
+150.603
+
+153.264
+
+155.979
+
+158.747
+
+161.826
+
+1072.850
+
+Payments
+
+48.825
+
+112.172
+
+134.973
+
+140.053
+
+142.778
+
+144.911
+
+147.312
+
+201.826
+
+1072.850
+
+3.2.2.
+
+Summary of estimated impact on appropriations of an administrative nature
+
+–
+
+◻
+
+The proposal/initiative does not require the use of appropriations of an administrative nature
+
+–
+
+X
+
+The proposal/initiative requires the use of appropriations of an administrative nature, as explained below:
+
+EUR million (to three decimal places)
+
+Years
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+TOTAL
+
+HEADING 7
+
+of the multiannual financial framework
+
+Human resources
+
+16.864
+
+16.864
+
+16.864
+
+16.864
+
+16.864
+
+16.864
+
+16.864
+
+118.048
+
+Other administrative expenditure
+
+0.686
+
+0.686
+
+0.686
+
+0.686
+
+0.686
+
+0.686
+
+0.686
+
+4.802
+
+Subtotal HEADING 7
+
+of the multiannual financial framework
+
+17.550
+
+17.550
+
+17.550
+
+17.550
+
+17.550
+
+17.550
+
+17.550
+
+122.850
+
+Outside HEADING 7
+
+of the multiannual financial framework
+
+Human resources
+
+Other expenditure
+
+of an administrative nature
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+2.100
+
+Subtotal
+
+outside HEADING 7
+
+of the multiannual financial framework
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+0.300
+
+2.100
+
+TOTAL
+
+17.850
+
+17.850
+
+17.850
+
+17.850
+
+17.850
+
+17.850
+
+17.850
+
+124.950
+
+The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DG that are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints.
+
+3.2.2.1.
+
+Estimated requirements of human resources
+
+–
+
+◻
+
+The proposal/initiative does not require the use of human resources.
+
+–
+
+X
+
+The proposal/initiative requires the use of human resources, as explained below:
+
+Estimate to be expressed in full time equivalent units
+
+Years
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+• Establishment plan posts (officials and temporary staff)
+
+Headquarters and Commission’s Representation Offices
+
+108
+
+108
+
+108
+
+108
+
+108
+
+108
+
+108
+
+Delegations
+
+Research
+
+•
+
+External staff (in Full Time Equivalent unit: FTE) - AC, AL, END, INT and JED
+
+Heading 7
+
+Financed from HEADING 7 of the multiannual financial framework
+
+- at Headquarters
+
+18
+
+18
+
+18
+
+18
+
+18
+
+18
+
+18
+
+- in Delegations
+
+Financed from the envelope of the programme
+
+- at Headquarters
+
+- in Delegations
+
+Research
+
+Other (specify)
+
+TOTAL
+
+The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints.
+
+Description of tasks to be carried out:
+
+Officials and temporary staff
+
+Figures include both staff working on the programme's direct management and implementation and staff working on policy areas supported/funded by the programme.
+
+External staff
+
+Figures include both staff working on the programme's direct management and implementation and staff working on policy areas supported/funded by the programme.
+
+3.2.3.
+
+Third-party contributions
+
+The proposal/initiative:
+
+–
+
+X
+
+does not provide for co-financing by third parties
+
+–
+
+◻
+
+provides for the co-financing by third parties estimated below:
+
+Appropriations in EUR million (to three decimal places)
+
+Years
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+TOTAL
+
+Specify the co-financing body
+
+TOTAL appropriations co-financed
+
+3.3.
+
+Estimated impact on revenue
+
+–
+
+◻
+
+The proposal/initiative has no financial impact on revenue.
+
+–
+
+X
+
+The proposal/initiative has the following financial impact:
+
+X
+
+on own resources
+
+◻ on other revenue
+
+please indicate, if the revenue is assigned to expenditure lines
+
+◻
+
+EUR million (to three decimal places)
+
+Budget revenue line:
+
+Impact of the proposal/initiative
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+Article ………….
+
+For assigned revenue, specify the budget expenditure line(s) affected.
+
+Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information).
+
+The impact of the programme may indirectly affect the revenue of the EU as improved and more efficient customs are expected to lead, amongst others, to more customs duties and VAT at importation being collected. Such effect is however not quantifiable.
+
+EUROPEAN COMMISSION
+
+Brussels,8.6.2018
+
+COM(2018) 442 final
+
+ANNEXES
+
+to the Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+establishing the 'Customs' programme for cooperation in the field of customs
+
+{SEC(2018) 295 final}
+
+{SWD(2018) 321 final}
+
+{SWD(2018) 322 final}
+
+ANNEX 1
+
+Non-exhaustive list of possible forms of actions
+
+referred to in points (a), (b) and (d) of the first sub-paragraph of Article 7(3)
+
+Actions referred to in points (a), (b) and (d) of the first sub-paragraph of Article 7(3) may take the forms, among others, of:
+
+(a)
+
+As regards meetings and similar ad-hoc events:
+
+–
+
+Seminar and workshop, generally attended by all countries and at which presentations are made and participants engage in intensive discussion and activity on a particular subject;
+
+–
+
+Working visit, organised to enable officials to acquire or increase their expertise or knowledge in customs matters;
+
+(b)
+
+As regards project-based structured collaboration:
+
+–
+
+Project group, generally composed of a limited number of countries, operational during a limited period of time to pursue a predefined objective with a precisely defined outcome, including coordination or benchmarking;
+
+–
+
+Task force, namely structured forms of cooperation, with a non-permanent or permanent character, pooling expertise to perform tasks in specific domains or carry out operational activities, possibly with the support of online collaboration services, administrative assistance and infrastructure and equipment facilities;
+
+–
+
+Monitoring activity, carried out by joint teams made up of Commission officials and officials of the eligible authorities to analyse customs practices, identify any difficulties in implementing rules and, where appropriate, make suggestions for the adaptation of Union rules and working methods;
+
+(d)
+
+As regards human competency and capacity building actions:
+
+–
+
+Common training or development of eLearning to support the build-up of the necessary professional skills and knowledge relating to customs;
+
+–
+
+Technical support, aimed at improving administrative procedures, enhancing administrative capacity and improving customs authorities’ functioning and operations by initiating and sharing good practices.
+
+ANNEX 2
+
+Indicators
+
+Specific objective: Support the preparation and uniform implementation of customs legislation and policy as well as customs cooperation and administrative capacity building, including human competency and the development and operation of the European electronic systems for customs.
+
+1. Capacity Building (administrative, human and IT capacity):
+
+1.
+
+Union Law and Policy Application and Implementation Index (Number of actions under the Programme organised in this area and recommendations issued following those actions)
+
+2.
+
+Learning Index (Learning modules used; number of officials trained; quality score by participants)
+
+3.
+
+Availability of European electronic systems (in time percentage terms)
+
+4.
+
+Availability of the Common Communication Network (in time percentage terms)
+
+5.
+
+Use of key European electronic systems aimed at increasing interconnectivity and moving to a paper-free Customs Union (number of messages exchanged and consultations carried out)
+
+6.
+
+UCC completion rate (percentage of milestones reached for implementing UCC systems)
+
+2. Knowledge sharing and networking:
+
+1.
+
+Collaboration Robustness Index (degree of networking generated, number of face-to-face meetings, number of on-line collaboration groups)
+
+2.
+
+Best Practices and Guideline Index (number of actions under the Programme organised in this area; percentage of participants that made use of a working practice/guideline developed with the support of the Programme)

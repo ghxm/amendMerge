@@ -1,0 +1,1409 @@
+EUR-Lex - 52007PC0560 - EN
+
+Important legal notice
+
+|
+
+52007PC0560
+
+Proposal for a Regulation of the European Parliament and of the Council on the protection of pedestrians and other vulnerable road users {SEC(2007)1244} {SEC(2007)1245}  /* COM/2007/0560 final - COD 2007/0020 */
+
+ | COMMISSION OF THE EUROPEAN COMMUNITIES |
+
+Brussels, 3.10.2007
+
+COM(2007)560 final
+
+2007/0201(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the protection of pedestrians and other vulnerable road users {SEC(2007)1244}{SEC(2007)1245}
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+1. Context of the proposal
+
+110
+
+Grounds for and objectives of the proposal
+
+The objective of the proposal is to strengthen Community requirements aimed at improving the safety of pedestrians and other vulnerable road users in case of injuries resulting from a collision with a motor vehicle.
+
+These requirements are presently governed by Directive 2003/102/EC([1]). As a result of the requirements of Article 5 of that Directive a review was undertaken as to the feasibility of certain requirements under the second phase of the Directive and the possible use of active safety systems. The review resulted in the conclusion that these requirements are not feasible.
+
+The Commission therefore proposes a new Regulation which will form the basis for a combination of feasible requirements with active safety systems. This approach has the advantage that the Regulation is directly applicable throughout the EU, does not require transposition into national law and provides enterprises and approval authorities with a single set of rules.
+
+In addition, Directive 2005/66/EC, of 26 October 2005, relating to the use of frontal protection systems provides for control on the use of such systems and the provision of levels of protection to vulnerable road users in the event of collision with vehicles making use of them. The Commission now proposes to combine the requirements of this Directive with those of the Directive 2003/102/EC relating to pedestrian protection.
+
+120
+
+General context
+
+On 21 December 2000, the Commission adopted a communication discussing the possibility of using a voluntary industry commitment to improve the safety of pedestrians and other vulnerable road users as a result of collision with a motor vehicle. In that Communication the Commission agreed to undertake discussions with the European Automobile Manufacturers Association (ACEA) with a view to reach such a commitment and to engage in parallel discussions with the Japan Automobile Manufacturers Association (JAMA) and the Korea Automobile Manufacturers Association (KAMA).
+
+In a communication([2]) adopted on 11 July 2001, the Commission presented the commitment undertaken by ACEA on pedestrian protection to the Council and the European Parliament. The commitment included a series of tests aimed at improving the construction of the frontal structures of motor vehicles, as well as a number of additional active and passive safety measures also conducive to enhanced pedestrian protection. Those measures concerned: the equipping of all motor vehicles with Antilock Brake Systems - ABS - as well as Daytime Running Lights - DRL -, the future introduction of advanced active safety new technology systems and a voluntary ban on the sale of rigid bull bars. Since then, the Japan Automobile Manufacturers Association (JAMA) and the Korea Automobile Manufacturers Association (KAMA) have undertaken commitments similar to the one undertaken by ACEA, with the result that 99% of the existing manufacturers are covered by identical commitments.
+
+In the July 2001 Communication, the Commission announced that it would decide whether to accept the industry commitment by means of a recommendation or to propose legislation in the field of pedestrian protection after having consulted the European Parliament and the Council.
+
+Both the European Parliament and the Council welcomed the main elements of the industry commitment as regards the measures for improving the design of car fronts.
+
+The European Parliament, in its resolution of 13 June 2002, asked for a "framework" directive laying down the application dates, the goals to be achieved and the method to monitor their application. As a result, the Commission agreed to propose framework legislation, based on the relevant content of the commitments.
+
+This proposal for legislation was presented for co-decision and the result was Directive 2003/102/EC relating to the protection of pedestrians and other vulnerable road users.
+
+Subsequent to this the Commission, in line with the wishes of the Council and the European Parliament, proposed measures for the control of frontal protection systems. This was published as Directive 2005/66/EC. It is now thought to be suitable that this Directive should be closely aligned with any proposal to amend the pedestrian protection Directive by including the necessary provisions in the proposed regulation.
+
+130
+
+Existing provisions in the area of the proposal
+
+The present Directive is 2003/102/EC relating to the protection of pedestrians and other vulnerable road users. Under Article 5 of this Directive the study completed on feasibility issues for the implementation of the second phase requirements has shown these requirements to be not feasible. The present proposal builds on the previous requirements by providing amendments to ensure feasibility.
+
+Directive 2005/66/EC relating to the use of frontal protection systems provides for the control of these systems either as original equipment or in the aftermarket. The proposal combines these requirements with those providing pedestrian protection and thus provides consistency in provision of protection for pedestrians and other vulnerable road users.
+
+141
+
+Consistency with the other policies and objectives of the Union
+
+The proposal is fully in line with the objectives of reducing the number of fatalities on the road, as outlined in the Commission white paper on European Transport Policy.
+
+141
+
+2. Consultation of interested parties and impact assessment
+
+141
+
+Consultation of interested parties
+
+211
+
+Consultation methods, main sectors targeted and general profile of respondents
+
+All consultations held were concerned solely with the provision of amended specifications for the second phase of the pedestrian protection Directive, as the inclusion of the requirements for frontal protection systems are considered to remain as they presently are.
+
+A consultation meeting was held with representatives of the European, Japanese and Korean automotive manufacturers. This meeting discussed the requirements of the second phase of the existing Directive and what would be considered necessary to ensure feasible solutions which could be complied with.
+
+An open consultation was conducted over the Internet in June and July 2005. The Commission received 17 responses of which the results are available on http://ec.europa.eu/comm/enterprise/automotive/pagesbackground/pedestrianprotection/consultation_phase_II/contributions.htm.
+
+212
+
+Summary of responses and how they have been taken into account
+
+In general, the results of the consultation showed that the present proposal can be accepted by virtually all parties as being both feasible and ensuring the intended level of safety for vulnerable road users.
+
+The responses from the internet consultation were concerned with issues which have been taken account of in the proposal or which will be incorporated into implementing legislation.
+
+A fuller account of the responses is provided in the impact assessment that accompanies this proposal.
+
+213
+
+141
+
+Collection and use of expertise
+
+221
+
+Scientific/expertise domains concerned
+
+Analysis of vehicle construction as well as vehicle accident and injury statistics.
+
+222
+
+Methodology used
+
+Analysis of injury records from accident databases and simulation of results for different scenarios with respect to speed and area of impact between vehicle and vulnerable road user.
+
+223
+
+Main organisations/experts consulted
+
+The Transport Research Laboratory in the UK (TRL).
+
+2249
+
+Summary of advice received and used
+
+The TRL report indicated the need to revise certain requirements existing under the present Directive to ensure the feasibility of the requirements and recommended the use of an active safety system as a requirement in the legislation to ensure an improved level of safety provided to the vulnerable road user.
+
+226
+
+Means used to make the expert advice publicly available
+
+The TRL report, which includes an extended examination of the evaluation of the benefits of Brake Assist, is available on the website at:
+
+http://ec.europa.eu/enterprise/automotive/pagesbackground/pedestrianprotection/index.htm
+
+230
+
+Impact assessment
+
+Options which were not considered in the impact assessment are the following:
+
+(1) Legislation by Member States
+
+The existing Directive is part of the whole vehicle type-approval system which has established, at EU level, full harmonisation of legislation for vehicle construction. This type-approval system has been in existence since 1970 to ensure the proper working of the internal market for the automotive industry whilst ensuring safety and quality in vehicle construction.
+
+If the Directive was to be repealed, Member States would be free to enact their own legislation in this area. The result would be disharmony in the operation of the internal market and the free circulation of vehicles would no longer be guaranteed.
+
+Thus it is not proposed that the legislation should be removed.
+
+(2) Use of a voluntary agreement
+
+It must be remembered that the Directive came about as a result of direct requests for legislation from Parliament and Council following the examination of a consultative document presented by the Commission concerning a previous voluntary agreement on the subject of pedestrian protection. As a result of these requests the main body of the voluntary agreement was incorporated into the existing Directive. In addition, and also requested by the legislators, the subject of a voluntary ban on 'bull-bars' was also incorporated into a directive([3]).
+
+A new voluntary agreement on the subject was, therefore, not considered appropriate.
+
+The following options are considered in the assessment:
+
+(3) Continue with the existing Directive
+
+A possible approach would have been that no action should be taken to change the specifications for phase II and a possible time delay be proposed for the implementation dates. However, the Commission cannot ignore the fact that requirements of phase II of the existing Directive have been found to be not feasible and it is considered that time will not necessarily make them so. The Commission is, therefore, constrained to take the necessary and suitable form of action to amend the requirements and to provide the necessary certainty with respect to the issue of feasibility([4])
+
+The option of continuing with the existing Directive was therefore rejected. The existing Directive, however, serves as a basis of reference for comparison of the benefits of other options.
+
+(4) Accept an Industry Proposal
+
+The industry, following examination of the feasibility issues, proposed that the use of the phase I requirements should continue in place of the phase II requirements and that the use of Brake Assist should be required. This option was examined and finally rejected as it was the opinion of the Commission that more stringency could be applied in some of the passive requirements. The potential results of using this option are, however, referenced as a point of comparison with the final option.
+
+(5) Provide amendments to the passive safety requirements only.
+
+A proposal to only amend the existing requirements and make them more technically feasible would ensure an improvement of vehicle fronts in a feasible manner. However, it is recognised that, as a result, the expected safety value would be reduced and this is not in accordance with the requirements of Article 5 of the existing Directive. Thus, as this option would not "afford at least the same level of protection as the existing provisions" it was not considered further.
+
+(6) Provide amendments to the existing Directive for phase II requirements and provide a combination using an active safety measure to ensure the levels of safety afforded
+
+It has been stated and accepted that the existing requirements are not feasible and must be changed. The TRL report examined and evaluated the use of Brake Assist in combination with a change to the existing passive requirements. Under Article 5 of the existing Directive the Commission is now required to submit a proposal which will "afford at least the same level of protection as the existing provisions". The results from the report indicate that the proposed combination of amended passive measures and the use of new active measures would together be capable of providing a significantly improved level of safety to the vulnerable road user over and above the existing requirements.
+
+This is thus the option pursued in the proposal.
+
+141
+
+3. Legal elements of the proposal
+
+305
+
+Summary of the proposed action
+
+Proposal for a Regulation of the European Parliament and of the Council on the protection of pedestrians and other vulnerable road users before and in the event of a collision with a motor vehicle and amending the Framework Directive on the type-approval of motor vehicles.
+
+310
+
+Legal basis
+
+Article 95 of the Treaty
+
+320
+
+Subsidiarity principle
+
+The subsidiarity principle applies insofar as the proposal does not fall under the exclusive competence of the Community.
+
+The objectives of the proposal cannot be sufficiently achieved by the Member States because the proposed Regulation will be a part of the EU type-approval system for vehicles.
+
+Community action will better achieve the objectives of the proposal because it will avoid barriers to trade between Member States which would otherwise arise. The present use and application of the EU type-approval system for vehicles demonstrates the acceptance and worth of such a system in the European context. It provides clear requirements for the construction of vehicles to enhance their level of safety in a uniform and agreed manner.
+
+The proposal therefore complies with the subsidiarity principle.
+
+141
+
+Proportionality principle
+
+The proposal complies with the proportionality principle because it does not go beyond what is necessary in order to achieve the objectives of providing safety for vulnerable road users.
+
+331
+
+The TRL report displayed a cost benefit analysis which demonstrates that the proposal provides considerable benefits for society as a whole.
+
+141
+
+Choice of instruments
+
+Proposed instrument: regulation.
+
+342
+
+Other means would not be adequate for the following reason:
+
+The use of a regulation is considered to be appropriate in providing the required assurance for early compliance whilst not requiring the transposition into Member States’ legislation.
+
+141
+
+4. Budgetary implication
+
+The proposal has no implications for the Community budget.
+
+141
+
+5. Additional information
+
+141
+
+Simulation, pilot phase and transitory period
+
+There are several transitory periods in the proposal in order to allow sufficient lead times for manufacturers in the design and production processes of vehicles.
+
+510
+
+Simplification
+
+The proposal provides for simplification of administrative procedures for national authorities and for the Commission.
+
+513
+
+As a result of the use of a Regulation there will be no need for transposition into national legislation.
+
+520
+
+Repeal of existing legislation
+
+The adoption of the proposal will lead to the repeal of Directives 2003/102/EC and 2005/66/EC.
+
+141
+
+Review/revision/sunset clause
+
+The proposal includes review clauses to ensure a continuance of safety levels in the future.
+
+560
+
+European Economic Area
+
+The proposed act concerns an EEA matter and should therefore extend to the European Economic Area.
+
+2007/0201(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the protection of pedestrians and other vulnerable road users
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+
+Having regard to the proposal from the Commission([5]),
+
+Having regard to the opinion of the European Economic and Social Committee([6]),
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty([7])
+
+Whereas:
+
+(1) The internal market comprises an area without internal frontiers in which the free movement of goods, persons, services and capital must be ensured. To that end a Community type-approval system for motor vehicles is in place. The technical requirements for the type-approval of motor vehicles with regard to pedestrian protection should be harmonised to avoid the adoption of requirements that differ from one Member State to another and to ensure the proper functioning of the internal market.
+
+(2) This Regulation is one of the separate regulatory acts in the context of the Community type-approval procedure under Directive [ …/…/EC ] of the European Parliament and of the Council of [date] establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive)([8]).
+
+(3) Experience has shown that legislation concerning motor vehicles has often been of a highly detailed technical content. It is therefore appropriate to adopt a regulation instead of a directive in order to avoid discrepancies between transposing measures and an unnecessary level of legislation in the Member States. Therefore, Directive 2003/102/EC of the European Parliament and of the Council of 17 November 2003 relating to the protection of pedestrians and other vulnerable road users before and in the event of a collision with a motor vehicle and amending Council Directive 70/156/EEC([9]) and Directive 2005/66/EC of the European Parliament and of the Council of 26 October 2005 relating to the use of frontal protection systems on motor vehicles and amending Council Directive 70/156/EEC([10]) which provides requirements for the installation and use of frontal protection systems on vehicles and thus a level of protection for pedestrians should be replaced by this Regulation in order to ensure consistency in this area. This implies that Member States repeal the transposing legislation of the repealed Directives.
+
+(4) Directive 2003/102/EC has been shown to be not feasible in the requirements for the second phase of implementation. In this respect Article 5 of that Directive requested the Commission to make necessary proposals which would overcome problems of feasibility with these requirements and possibly make use of active safety systems, whilst ensuring there was no degradation in the safety levels provided to the vulnerable road user. However, new technologies have been developed in the case of passive measures which could help meet the Phase II requirements. Such technologies must be taken into account.
+
+(5) A study commissioned by the Commission shows that the requirements for pedestrian protection can be significantly improved by use of a combination of passive and active measures which afford a higher level of protection than the previously existing provisions. In particular, the active safety system ‘Brake Assist’ has been identified which, in combination with changes to passive safety requirements, will significantly increase the level of protection provided.Providing for the obligatory installation of Brake Assist systems in new motor vehicles is therefore appropriate. This should however not replace high-level passive safety systems, but rather complement them.
+
+(6)Vehicles equipped with collision avoidance systems may not be required to fulfil certain requirements laid down in this Regulation to the extent that they will be able to avoid collisions with pedestrians rather than merely mitigating the effects of such collisions. After assessing that the use of such technology can effectively avoid collisions with pedestrians and other vulnerable road users, the Commission may present proposals amending this Regulation to allow for the use of such systems.
+
+(7) With the increasing number of heavier vehicles being used on urban roads, it is appropriate that provisions on pedestrian protection apply not only to vehicles of maximum mass not exceeding 2500kg , but also, after a limited transitional period, to vehicles of categories M1 and N1 exceeding that limit.
+
+(8a)The Commission shall intensify its efforts to reduce speeding, driving under the influence of alcohol and to increase the use of lighter motor vehicles by campaigning and proposing stricter legislation, in order to make this Regulation more effective.
+
+(8) In order to enhance better protection of pedestrians at the earliest possible stage, manufacturers, who wish to apply for a type-approval in compliance with new requirements before they become mandatory, should be able to do so under the condition that necessary implementing measures are already in force.
+
+(9) The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred to the Commission([11]).
+
+(10) In particular, power should be conferred on the Commission to adopt technical provisions for the application of the test requirements, and implementing measures based on results of monitoring. Since those measures are of general scope and are designed to amend non-essential elements of this Regulation by the addition of new non-essential elements, they should be adopted in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC.
+
+(11) In order to ensure a smooth transition from the provisions of Directives 2003/102/EC and 2005/66/EC to this Regulation, the application of this Regulation should be deferred by a certain period after its entry into force.
+
+(12) The objectives of this Regulation, namely the realisation of the internal market through the introduction of common technical requirements concerning pedestrian protection, cannot be sufficiently achieved by the Member States. Due to the scale of the action required, the objectives can be better achieved at Community level. Therefore, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives,
+
+HAVE ADOPTED THIS REGULATION:
+
+CHAPTER I
+
+Subject matter, scope and definitions
+
+Article 1
+
+Subject matter
+
+This Regulation lays down requirements for the construction and functioning of vehicles and frontal protection systems in order to reduce the number and severity of injuries to pedestrians and other vulnerable road users who are hit by the fronts of those vehicles and in order to avoid such collisions.
+
+Article 2
+
+Scope
+
+1. This Regulation shall apply to the following:
+
+(a) motor vehicles of category M1 as defined in Article [3(11)] of Directive [ …/…/EC ] and in Section A of Annex II thereto;
+
+(b) motor vehicles of category N1 as defined in Article [3(11)] of Directive [ …/…/EC ] and in Section A of Annex II thereto and subject to paragraph 2 of this Article.
+
+(c) frontal protection systems fitted as original equipment to the vehicles referred to in points (a) and (b) or sold as separate technical units intended for fitting to such vehicles.
+
+2. Sections 2 and 3 of Annex I shall not apply to:
+
+(a) vehicles of category N1,
+(b) vehicles of category M1 derived from N1 and of maximum mass exceeding 2500 kg,
+
+where the driver position ‘R-point’ is either forward of the front axle or longitudinally rearwards of the front axle transverse centreline by less than 1050 +/- 50 mm.
+
+Article 3
+
+Definitions
+
+For the purposes of this Regulation the following common definitions shall apply:
+
+1.  'A-pillar' means the foremost and outermost roof support extending from the chassis to the roof of the vehicle;
+
+2.  'brake assist system' means a system which assists the driver by ensuring the application of the maximum achievable deceleration in emergency braking situations;
+
+3.  'bumper' means any front, lower, outer structures of a vehicle, including attachments thereto, which are intended to give protection to a vehicle when involved in a low speed frontal collision with another vehicle;
+
+4.  'frontal protection system' means a separate structure or structures, such as a bull bar, or a supplementary bumper which is intended to protect the external surface of the vehicle, in addition to the original-equipment bumper, from damage in the event of a collision with an object with the exception of structures having a mass of less than 0,5 kg, intended to protect only the lights;
+
+5.  'maximum mass' means the technically permissible maximum laden mass stated by the manufacturer pursuant to point 3.8 of Annex I to Directive […/…/EC];
+
+6.  'vehicles of category N1 derived from M1' means those vehicles of N1 category and of maximum mass not exceeding 2500 kg which, forward of the A-pillars, have the same general structure and shape as a pre-existing M1 category vehicle;
+
+(6 a) 'vehicles of category M1 derived from N1' means those vehicles of M1 category and of maximum mass exceeding 2500 kg which, forward of the A-pillars, have the same general structure and shape as a pre-existing N1 category vehicle;
+
+Chapter II
+
+Obligations of the manufacturers
+
+Article 4
+
+Obligations of the Manufacturers
+
+1. In accordance with Article 9, manufacturers shall ensure that vehicles placed on the market are equipped with a verified Brake Assist system in accordance with the requirements of section 4 of Annex I and comply with the requirements of sections 2 or 3 of Annex I.
+
+2. In accordance with Article 10, manufacturers shall ensure that frontal protection systems either fitted as original equipment to vehicles placed on the market or supplied as separate technical units comply with the requirements of section 5 of Annex I.
+
+3. Manufacturers shall provide to the approval authorities appropriate data on the specifications and test conditions of the vehicle and frontal protection system. The data shall include information required for the purposes of functional checking of the operation of any active safety devices installed in the vehicle.
+
+4. In the case of frontal protection systems sold as separate technical units, manufacturers shall provide to the approval authorities appropriate data about the systems specifications and test conditions. The data shall include information on the vehicles for which the system has been tested and full installation instructions.
+
+5. Frontal protection systems, as separate technical units, may not be distributed, offered for sale or sold unless accompanied by a list of vehicle types for which the frontal protection system is type-approved and clear assembly instructions. The assembly instructions shall contain specific installation prescriptions, including fixing modes for the vehicles for which the unit has been approved, to enable the approved components to be mounted on that vehicle in a manner that complies with the relevant provisions of Section 6 of Annex I.
+
+6. The Commission shall adopt implementing measures laying down technical provisions for the application of the requirements set out in Annex I.
+
+Those measures, designed to amend non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 40(2) of Directive [ …/…/EC ].
+
+Article 5
+
+Application for EC type-approval
+
+1. The manufacturer shall submit to the approval authority the information document, established in accordance with the model set out in Part 1 of Annex II, when applying for EC type-approval of a type of a vehicle with regard to pedestrian protection.
+
+The manufacturer shall submit to the technical service responsible for conducting the type-approval tests a vehicle which is representative of the vehicle type to be approved.
+
+2. The manufacturer shall submit to the approval authority the information document, established in accordance with the model set out in Part 2 of Annex II, when applying for EC type-approval of a type of a vehicle with regard of it being fitted with a frontal protection system.
+
+The manufacturer shall submit to the technical service responsible for conducting the type-approval tests a vehicle which is representative of the vehicle type to be approved fitted with a frontal protection system. At the request of that technical service, the manufacturer shall also submit specific components or samples of materials used.
+
+3. The manufacturer shall submit to the approval authority the information document, established in accordance with the model set out in Part 3 of Annex II, when applying for EC separate technical unit type-approval of a type of a frontal protection system.The manufacturer shall submit to the technical service responsible for conducting the type-approval tests one sample of the type of frontal protection system to be approved. Where that technical service considers it necessary, it may request further samples. The samples shall be clearly and indelibly marked with the applicant’s trade name or mark and the type designation. The manufacturer shall make provision for the subsequent compulsory display of the EC type-approval mark.
+
+Chapter III
+
+Obligations of the Authorities of the Member States
+
+Article 6
+
+Granting of EC type-approval
+
+1. If the relevant requirements are met, the approval authority shall grant EC type-approval and issue a type-approval number in accordance with the numbering system set out in Annex VII of Directive [ …/…/EC ]
+
+An approval authority may not assign the same number to another type of a vehicle or of a frontal protection system.
+
+2. For the purposes of paragraph 1, the approval authority shall deliver the EC type-approval certificate established in accordance with the following:
+
+(a) the model set out in Part 1 of Annex III for a type of a vehicle with regard to pedestrian protection;
+
+(b) the model set out in Part 2 of Annex III for a type of a vehicle with regard of it being fitted with a frontal protection system;
+
+(c) the model set out in Part 3 of Annex III for a type of a frontal protection system as a separate technical unit.
+
+Article 7
+
+EC separate technical unit type-approval mark
+
+Every frontal protection system conforming to the type approved in respect of which an EC separate technical unit type-approval has been granted shall bear an EC separate technical unit type-approval mark as set out in Annex IV.
+
+Article 8
+
+Modification of the type and amendments to approvals
+
+Any modification of the vehicle forward of the A-pillars or of the frontal protection system which affects either the structure, the main dimensions, the materials of the outer surfaces of the vehicle, the fixing methods or the external or internal component arrangement, and which may have a significant influence on the results of the tests, shall be regarded as an amendment pursuant to Article [13] of Directive [ …/…/EC ] and thus require a new application for type-approval.
+
+Article 9
+
+Timetable for application to vehicles
+
+1. With effect from the date set out in the second paragraph of Article 15, the national authorities shall refuse, on grounds relating to pedestrian protection, to grant EC type-approval or national type-approval, in respect of any of the following new vehicle types:
+
+(a) category M1 which do not comply with the technical provisions set out in Section 4 of Annex I;
+
+(b) category M1 of maximum mass not exceeding 2500 kg which do not comply with the technical provisions set out in Section 2 or Section 3 of Annex I;
+
+(c) category N1 derived from M1 and of maximum mass not exceeding 2500kg which do not comply with the technical provisions set out in Sections 2 and 4 or Sections 3 and 4 of Annex I.
+
+2. With effect from [DATE thirty-three months following entry into force of this Regulation ], in the case of new vehicles of category M1, or N1 derived from M1, and of maximum mass not exceeding 2500 kg, which do not comply with the technical provisions set out in Section 4 of Annex I, national authorities shall, on grounds related to pedestrian protection, consider the certificates of conformity to be no longer valid for the purposes of Article [26] of Directive[…/…/EC], and shall prohibit the registration, sale and entry into service of such vehicles.
+
+3. With effect from 48 months following entry into force of this Regulation, national authorities shall refuse, on grounds relating to pedestrian protection, to grant EC type-approval or national type-approval, in respect of any of the following new vehicle types:
+
+(a) category M1 which do not comply with the technical provisions set out in Section 4 of Annex I;
+
+(b) category M1 of maximum mass not exceeding 2500 kg which do not comply with the technical provisions set out in Section 3 of Annex I;
+
+(c) category N1 derived from M1 and of maximum mass not exceeding 2500 kg which do not comply with the technical provisions set out in Sections 3 and 4 of Annex I.
+
+4. With effect from 1 December 2012, in the case of new vehicles of category M1, or N1 derived from M1, and of maximum mass not exceeding 2500kg, which do not comply with the technical provisions set out in Sections 2 or Sections 3 of Annex I , national authorities shall, on grounds related to pedestrian protection, consider the certificates of conformity to be no longer valid for the purposes of Article [26] of Directive 2007/46/EC, and shall prohibit the registration, sale and entry into service of such vehicles.
+
+5. With effect from 72 months following entry into force of this Regulation, in the case of a new vehicle type which does not comply with the technical provisions set out in Sections 3 of Annex I, national authorities shall refuse, on grounds relating to pedestrian protection, to grant EC type-approval or national type-approval.
+
+6. With effect from [DATE seventy-eight months following entry into force of this Regulation ], national authorities shall, on grounds related to pedestrian protection, consider the certificates of conformity to be no longer valid for the purposes of Article [26] of Directive[…/…/EC], and shall prohibit the registration, sale and entry into service of either of the following new vehicles;
+
+(a) category N1 which do not comply with the technical provisions set out in Section 4 of Annex I;
+
+
+7. With effect from 108 months following entry into force of this Regulation, national authorities shall, on grounds related to pedestrian protection, consider the certificates of conformity to be no longer valid for the purposes of Article [26] of Directive 2007/46/EC, and shall prohibit the registration, sale and entry into service of new vehicles of all category M1 vehicles and category N1 vehicles derived from M1 and of maximum mass not exceeding 2500kg, which do not comply with the technical provisions set out in Section 3 of Annex I
+
+
+8. With effect from 126 months following entry into force of this Regulation, in the case of new vehicles which do not comply with the technical provisions set out in Sections 3 of Annex I, national authorities shall, on grounds related to pedestrian protection, consider the certificates of conformity to be no longer valid for the purposes of Article [26] of Directive 2007/46/EC, and shall prohibit the registration, sale and entry into service of such vehicles.
+
+9. Without prejudice to paragraphs 1 to 8 of this Article and subject to the entry into force of the measures adopted pursuant to Article 4(6), if a manufacturer so requests, the national authorities may not, on grounds relating to pedestrian protection, refuse to grant EC type-approval or national type-approval for a new type of vehicle or prohibit the registration, sale or entry into service of a new vehicle, where the vehicle concerned complies with the technical provisions set out in Sections 3 or 4 of Annex I.
+
+Article 10
+
+Application to frontal protection systems
+
+1. National authorities shall refuse to grant EC type-approval or national type-approval of a new type of vehicle fitted with a frontal protection system, or of a new type of frontal protection system supplied as a separate technical unit, which does not comply with the requirements laid down in Sections 5 and 6 of Annex I.
+
+2. National authorities shall, on grounds relating to frontal protection systems, consider certificates of conformity to be not valid for the purposes of Article [26] of Directive […/…/EC] and shall prohibit the registration, sale and entry into service of new vehicles which do not comply with the requirements laid down in Sections 5 and 6 of Annex I to this Regulation.
+
+3. The requirements set out in Sections 5 and 6 of Annex I to this Regulation, shall apply to frontal protection systems made available as separate technical units for the purposes of Article [28] of Directive […/…/EC].
+
+Article 11
+
+Collision Avoidance Systems
+
+1. Upon assessment by the Commission vehicles equipped with collision avoidance systems may not have to fulfil the test requirements laid down in Sections 2 and 3 of Annex I in order to be granted an EC type-approval or a national type-approval for a type of a vehicle with regard to pedestrian protection, or to be sold, registered or to enter into service.
+
+2. The Commission shall propose to the European Parliament and the Council any implementing measures necessary for the application of paragraph 1.
+
+
+The requirements shall ensure levels of protection which are at least equivalent, in terms of actual effectiveness, to those provided by Sections 2 and 3 of Annex I to this Regulation.
+
+Article 12
+
+Monitoring
+
+1. The national authorities shall provide the Commission with the results of the monitoring referred to in points 2.2, 2.4 and 3.2 of Annex I on a yearly basis and at the latest by 28 February of the year following that of their acquisition.
+
+The requirement to provide those results shall cease to apply from [ date, five years following entry into force of this Regulation ].
+
+2. The Commission may, on the basis of the results of the monitoring completed under points 2.2, 2.4 and 3.2 of Annex I adopt implementing measures as appropriate.
+
+Those measures designed to amend non-essential elements of this Regulation, inter alia, by supplementing it shall be adopted in accordance with the procedure referred to in Article 40(2) of Directive […/…/EC].
+
+3. The Commission, acting on the basis of relevant information communicated by the approval authorities and interested parties as well as on the basis of independent studies, shall monitor the technical developments of enhanced passive safety requirements, Brake Assist and other active safety technologies which may provide improved protection to vulnerable road users.
+
+By Five years following entry into force of this Regulation, at the latest, the Commission shall review the feasibility and use of any such enhanced passive safety requirements. It shall review the functioning of this Regulation with regard to the use and effectiveness of Brake Assist and other active safety technologies.
+
+The Commission shall submit a report to the European Parliament and the Council, accompanied by proposals on the subject as appropriate.
+
+Article 13
+
+Penalties
+
+1. Member States shall lay down the provisions on penalties applicable for infringement by manufacturers of the provisions of the present Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall notify those provisions to the Commission no later than [ date, 18 months after entry into force of this Regulation ] and shall notify it without delay of any subsequent amendment affecting them.
+
+2. The types of infringements which are subject to a penalty shall include at least the following:
+
+(a) making false declarations during the approval procedures or procedures leading to a recall;
+
+(b) falsifying test results for type-approval;
+
+(c) withholding data or technical specifications which could lead to recall or withdrawal of type-approval;
+
+(d) refusal to provide access to information.
+
+Chapter IV
+
+Transitional and final provisions
+
+Article 14
+
+Repeal
+
+With effect from the date set out in the second paragraph of Article 15, Directives 2003/102/EC and 2005/66/EC are repealed.
+
+References to the repealed Directives shall be construed as references to this Regulation.
+
+Article 15
+
+Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from [DATE 9 months after entry into force ] with the exception of Article 9(9) which shall apply from the day of entry into force.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+ANNEX
+
+ANNEX I
+
+TECHNICAL PROVISIONS FOR THE TESTING OF VEHICLES AND FRONTAL PROTECTION SYSTEMS
+
+1. For the purposes of this Annex, the following definitions shall apply:
+
+1.1. 'bonnet leading edge' means the front upper outer structure including the bonnet and wings, the upper and side members of the headlight surround and any other attachments;
+
+1.2. ‘bonnet leading edge reference line’ means the geometric trace of the points of contact between a straight edge 1 000 mm long and the front surface of the bonnet, when the straight edge, held parallel to the vertical longitudinal plane of the car and inclined rearwards by 50° and with the lower end 600 mm above the ground, is traversed across and in contact with the bonnet leading edge. For vehicles having the bonnet top surface inclined at essentially 50°, so that the straight edge makes a continuous contact or multiple contacts rather than a point contact, the reference line is determined with the straight edge inclined rearwards at an angle of 40°. For vehicles of such shape that the bottom end of the straight edge makes first contact, then that contact is taken to be the bonnet leading edge reference line, at that lateral position. For vehicles of such shape that the top end of the straight edge makes first contact, then the geometric trace of 1 000 mm wrap around distance will be used as the bonnet leading edge reference line at that lateral position. The top edge of the bumper shall also be regarded as the bonnet leading edge for the purposes of this Regulation, if it is touched by the straight edge during this procedure;
+
+1.3. ‘1 000 mm wrap around distance’ means the geometric trace described on the frontal upper surface by one end of a 1 000 mm long flexible tape, when it is held in a vertical fore and aft plane of the car and traversed across the front of the bonnet bumper and frontal protection system. The tape is held taut throughout the operation with one end held in contact with the ground reference level, vertically below the front face of the bumper and the other end held in contact with the frontal upper surface. The vehicle is positioned in the normal ride attitude;
+
+1.4. 'bonnet top' means the outer structure which includes the upper surface of all outer structures except the windscreen, the A-pillars and structures rearwards of them; It therefore includes, but is not limited to, the bonnet, wings, scuttle, wiper spindle and lower windscreen frame;
+
+1.5. 'frontal upper surface' means the outer structure that includes the upper surface of all outer structures except the windscreen, the A-pillars and structure rearwards of them;
+
+1.6. 'ground reference level' means the horizontal plane parallel to the ground level, representing the ground level for a vehicle placed at rest on a flat surface with the hand brake on, with the vehicle positioned in its normal ride attitude;
+
+1.7. 'normal ride attitude' means the vehicle attitude in running order positioned on the ground, with the tyres inflated to the recommended pressures, the front wheels in the straight-ahead position, with maximum capacity of all fluids necessary for operation of the vehicle, with all standard equipment as provided by the vehicle manufacturer, with a mass of 75 kg placed on the driver's seat and with a mass of 75 kg placed on the front passenger's seat, and with the suspension set for a driving speed of 40 km/h or 35 km/h in normal running conditions specified by the manufacturer (especially for vehicles with an active suspension or a device for automatic levelling);
+
+1.8. 'windscreen' means the frontal glazing of the vehicle which meets all the relevant requirements of Annex I to Council Directive 77/649/EEC([12]).
+
+1.9. 'Head Performance Criterion' (HPC) means a calculation, over a specified time period, of the maximum resultant acceleration experienced during the impact. It shall be calculated from the resultant of accelerometer time histories as the maximum (depending on t1 and t2) of the equation:
+
+
+
+In that formula, 'a' is the resultant acceleration as a multiple of 'g' and t1 and t2 are the two time instants (expressed in seconds) during the impact, defining the beginning and the end of the recording for which the value of HPC is a maximum. Values of HPC for which the time interval (t1 - t2) is greater than 15 ms are ignored for the purposes of calculating the maximum value;
+
+1.10. 'radius of curvature' means the radius of the arc of a circle which comes closest to the rounded form of the component under consideration;
+
+2. The following tests are required to be carried out on vehicles:
+
+2.1. Legform to Bumper:
+
+One of the following tests is required to be performed:
+
+(a) Lower legform to bumper: The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 21,0°, the maximum dynamic knee shearing displacement shall not exceed 6,0 mm, and the acceleration measured at the upper end of the tibia shall not exceed 200 g;
+
+(b) Upper legform to bumper: The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 7,5 kN and the bending moment on the test impactor shall not exceed 510 Nm.
+
+2.2. Upper legform to bonnet leading edge:
+
+The test is performed at an impact speed up to 40 km/h. The instantaneous sum of the impact forces with respect to time should not exceed a possible target of 5,0 kN and the bending moment on the test impactor shall be recorded and compared with the possible target of 300 Nm.
+
+This test shall be completed for monitoring purposes only and the results shall be fully recorded.
+
+2.3. Child/Small Adult headform to bonnet top:
+
+The test is performed at an impact speed of 35 km/h using a 3,5 kg test impactor. The Head Performance Criterion (HPC) shall not exceed 1000 over 2/3 of the bonnet test area and 2000 for the remaining 1/3 of the bonnet test area.
+
+2.4. Adult headform to windscreen:
+
+The test is performed at an impact speed of 35 km/h using a 4,8 kg test impactor. The HPC shall be recorded and compared with the possible target of 1000.
+
+This test shall be completed for monitoring purposes only and the results shall be fully recorded.
+
+3. The following tests are required to be carried out on vehicles:
+
+3.1. Legform to Bumper:
+
+One of the following tests is required to be performed:
+
+(a) Lower legform to bumper: The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 19,0°, the maximum dynamic knee shearing displacement shall not exceed 6,0 mm, and the acceleration measured at the upper end of the tibia shall not exceed 170 g.
+
+In addition, the manufacturer may nominate bumper test widths of up to 264 mm in total where the acceleration measured at the upper end of the tibia shall not exceed 250 g.
+
+(b) Upper legform to bumper: The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 7,5 kN and the bending moment on the test impactor shall not exceed 510 Nm.
+
+3.2. Upper legform to bonnet leading edge:
+
+The test is performed at an impact speed up to 40 km/h. The instantaneous sum of the impact forces with respect to time shall be compared with a possible maximum of 5,0 kN and the bending moment on the test impactor shall be compared with a possible maximum of 300 Nm.
+
+This test shall be completed for monitoring purposes only and the results shall be fully recorded.
+
+3.3. Child/Small Adult headform to bonnet top:
+
+The test is performed at an impact speed of 35 km/h using a 3,5 kg test impactor. The HPC shall comply with the requirements of point 3.5.
+
+3.4. Adult headform to bonnet top:
+
+The test performed at an impact speed of 35 km/h using a 4,5 kg test impactor. The HPC shall comply with the requirements of point 3.5.
+
+3.5. The HPC recorded shall not exceed 1000 over one half of the Child headform test area and, in addition, shall not exceed 1000 over 2/3 of the combined Child and Adult Headform test areas. The HPC for the remaining areas shall not exceed 1700 for both headforms.
+
+4. The following tests are required to be carried out on vehicles:
+
+4.1. A reference test to identify the system operation point at which the Anti-lock Braking System (ABS) activates.
+
+4.2. A test to verify that the operation of the Brake Assist system is correctly triggered so as to apply the maximum achievable deceleration characteristics of the vehicle.
+
+5. The following tests are required to be carried out on frontal protection systems (FPS):
+
+5.1. Lower legform to FPS:
+
+The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 21,0°, the maximum dynamic knee shearing displacement shall not exceed 6,0 mm, and the acceleration measured at the upper end of the tibia shall not exceed 200 g.
+
+5.1.1. However, with respect to FPS approved as Separate Technical Units for use only on specified vehicles of maximum mass not exceeding 2,5 tonnes which have been type approved before 1 October 2005, or vehicles of maximum mass exceeding 2,5 tonnes, the test set out in point 5.1 may be replaced by the test set out in either point 5.1.1.1 or point 5.1.1.2.
+
+5.1.1.1. The test is performed at an impact speed of 40 km/h. The maximum dynamic knee bending angle shall not exceed 24,0°, the maximum dynamic knee shearing displacement shall not exceed 7,5 mm, and the acceleration measured at the upper end of the tibia shall not exceed 215 g.
+
+5.1.1.2. A pair of tests shall be performed on the vehicle, one with the FPS fitted, and a second without the FPS fitted, at an impact speed of 40 km/h. Each pair of tests shall be performed in equivalent locations as agreed with the relevant test authority. The values for the maximum dynamic knee bending angle, the maximum dynamic knee shearing displacement and the acceleration measured at the upper end of the tibia shall be recorded. In each case the value recorded for the vehicle fitted with the FPS shall not exceed 90% of the value recorded for the vehicle without the FPS fitted.
+
+5.1.2. If the lower FPS height is greater than 500 mm the lower legform to FPS test shall be replaced by the upper legform to FPS test, as specified in point 5.2.
+
+5.2. Upper legform to FPS:
+
+The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 7,5 kN and the bending moment on the test impactor shall not exceed 510 Nm.
+
+5.2.1. However, with respect to FPS approved as Separate Technical Units for use only on specified vehicles of maximum mass not exceeding 2,5 tonnes which have been type approved before 1 October 2005, or vehicles of maximum mass exceeding 2,5 tonnes, the test set out in point 5.2 may be replaced by the test set out in either point 5.2.1.1 or point 5.2.1.2;
+
+5.2.1.1. The test is performed at an impact speed of 40 km/h. The instantaneous sum of the impact forces with respect to time shall not exceed 9,4 kN and the bending moment on the test impactor shall not exceed 640 Nm;
+
+5.2.1.2. A pair of tests shall be performed on the vehicle, one with the FPS fitted, and a second without the FPS fitted, at an impact speed of 40 km/h. Each pair of tests shall be performed in equivalent locations as agreed with the relevant test authority. The values for the instantaneous sum of the impact forces and the bending moment on the test impactor shall be recorded. In each case the value recorded for the vehicle fitted with the FPS shall not exceed 90% of the value recorded for the vehicle without the FPS fitted
+
+5.2.2. If the lower FPS height is less than, or equal to 500 mm the upper legform to FPS test shall be replaced by the lower legform to FPS test, as specified in point 5.1.
+
+5.3. Upper legform to FPS leading edge. The test is performed at an impact speed 40 km/h. The instantaneous sum of the impact forces with respect to time, to the top and the bottom of the impactor, should not exceed a possible target of 5,0 kN and the bending moment on the test impactor should not exceed a possible target of 300 Nm. Both results shall be recorded for monitoring purposes.
+
+5.4. Child/Small Adult headform to FPS. The test is performed at an impact speed of 35 km/h using a 3,5 kg headform test impactor for the child/small adult. The Headform Performance Criterion (HPC), calculated from the resultant of the accelerometer time histories shall not exceed 1000 in all cases.
+
+6. Construction and Installation Provisions for FPS:
+
+6.1. The following requirements apply equally to FPS as supplied fitted to new vehicles and to FPS supplied as separate technical units for fitting to specified vehicles.
+
+6.1.1. The components of the FPS shall be so designed that all rigid surfaces which can be contacted by a 100mm sphere, have a minimum radius of curvature of 5 mm.
+
+6.1.2. The total mass of the FPS, including all brackets and fixings, shall not exceed 1,2% of the maximum mass of the vehicle for which it is designed, subject to a maximum of 18 kg.
+
+6.1.3. The height of the FPS, when fitted to a vehicle, shall be no more than 50 mm above the height of the bonnet leading edge reference line.
+
+6.1.4. The FPS shall not increase the width of the vehicle to which it is fitted. If the overall width of the frontal protection system is more than 75% of the width of the vehicle, the ends of the system shall be turned in towards the external surface in order to minimise the risk of fouling. This requirement is considered to be satisfied if either the frontal protection system is recessed or integrated within the bodywork or the end of the system is turned so that it is not contactable by a 100 mm sphere and the gap between the end of the system and the surrounding bodywork does not exceed 20 mm.
+
+6.1.5. Subject to point 6.1.4, the gap between the components of the FPS and the underlying external surface shall not exceed 80 mm. Local discontinuities in the general contour of the underlying body (such as apertures in grilles, air intakes, etc.) shall be ignored.
+
+6.1.6. At any lateral position across the vehicle, in order to preserve the benefits of the vehicle bumper, the longitudinal distance between the most forward part of the bumper and the most forward part of the FPS shall not exceed 50 mm.
+
+6.1.7. The FPS shall not reduce significantly the effectiveness of the bumper. This requirement shall be considered to be satisfied if there are no more than two vertical components and no horizontal components of the FPS overlapping the bumper.
+
+6.1.8. The FPS shall not be inclined forward of the vertical. The top parts of the FPS shall not extend upwards or rearwards (towards the windscreen) more than 50 mm from the bonnet leading edge reference line of the vehicle with the FPS removed.
+
+6.1.9. Conformity with the requirements of the vehicle type-approval shall not be compromised by the fitting of a FPS.
+
+7. By derogation to sections 2, 3 and 5, the relevant approval authority may consider the requirements for any of the tests laid down therein to be fulfilled by any equivalent testing carried out under the requirements of another test pursuant to this Annex.
+
+7.  ANNEX II
+
+Model Information documents to be supplied by the manufacturer.
+
+Part 1:
+
+Information document relating to the type-approval of a vehicle with regard to pedestrian protection.
+
+Part 2
+
+Information document relating to the type-approval of a vehicle with regard of it being fitted with a frontal protection system.
+
+Part 3
+
+Information document relating to the type-approval of a frontal protection system as a separate technical unit.
+
+Part 1
+
+(MODEL)
+
+Information document No ............
+
+relating to the EC type-approval of a vehicle with regard to
+
+pedestrian protection.
+
+The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, must show sufficient detail.
+
+If the systems, components or separate technical units have electronic controls, information concerning their performance must be supplied.
+
+0 GENERAL
+
+0.1. Make (trade name of manufacturer):
+
+0.2. Type:
+
+0.2.1. Commercial name(s) (if available):
+
+0.3. Means of identification of type, if marked on the vehicle(b) (1):
+
+0.3.1. Location of that marking:
+
+0.4. Category of vehicle(c):
+
+0.5 Name and address of manufacturer:
+
+0.8. Name(s) and address(es) of assembly plant(s):
+
+0.9. Name and address of the manufacturer’s representative (if any)…...........................
+
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+
+1.1. Photographs and/or drawings of a representative vehicle:
+
+1.6. Position and arrangement of the engine:
+
+9. BODYWORK
+
+9.1. Type of bodywork:
+
+9.2. Materials used and methods of construction:
+
+9.23 Pedestrian protection
+
+9.23.1 A detailed description, including photographs and/or drawings, of the vehicle with respect to the structure, the dimensions, the relevant reference lines and the constituent materials of the frontal part of the vehicle (interior and exterior) shall be provided. This description should include detail of any active protection system installed.
+
+Part 2
+
+(MODEL)
+
+Information document No ............
+
+relating to the EC type-approval of a vehicle with regard of it being fitted with a frontal protection system
+
+The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, must show sufficient detail.
+
+If the systems, components or separate technical units make use of specialist materials, information concerning their performance must be supplied.
+
+0. GENERAL
+
+0.1 Make (trade name of manufacturer):
+
+0.2 Type:
+
+0.2.1. Commercial name(s) (if available):
+
+0.3 Means of identification of type, if marked on the vehicle (b) (1):
+
+0.3.1 Location of that marking:
+
+0.4 Category of vehicle(c):
+
+0.5 Name and address of manufacturer:
+
+0.8 Name(s) and address(es) of assembly plant(s):
+
+0.9. Name and address of the manufacturer’s representative (if any)…...........................
+
+1. GENERAL CONSTRUCTION CHARACTERISTICS OF THE VEHICLE
+
+1.1 Photographs and/or drawings of a representative vehicle:
+
+2. MASSES AND DIMENSIONS: (in kg and mm) (Refer to drawing where applicable)
+
+2.8 Technically permissible maximum laden mass stated by the manufacturer:
+
+2.8.1. Distribution of this mass among the axles (max. and min.):
+
+9. BODYWORK
+
+9.1. Type of bodywork:
+
+9.24. Frontal Protection System
+
+9.24.1. General arrangement (drawings or photographs) indicating the position and attachment of the frontal protection systems:
+
+9.24.2. Drawings and/or photographs, where relevant, of air intake grilles, radiator grille, decorative trim, badges, emblems and recesses and any other external projections and parts of the exterior surface which can be regarded as critical (e.g. lighting equipment,). If the parts listed in the previous sentence are not critical, for documentation purposes they may be replaced by photographs, accompanied if necessary by dimensional details and/or text:
+
+9.24.3. Complete details of fittings required and full instructions, including torque requirements, for fitting:
+
+9.24.4. Drawing of bumpers:
+
+9.24.5 Drawing of the floor line at the vehicle front end:
+
+Part 3
+
+(MODEL)
+
+Information document No ............
+
+relating to the EC type-approval of a frontal protection system
+
+as a separate technical unit.
+
+The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, must show sufficient detail.
+
+If the systems, components or separate technical units make use of specialist materials, information concerning their performance must be supplied.
+
+0. GENERAL
+
+0.1 Make (trade name of manufacturer):
+
+0.2 Type:
+
+0.2.1. Commercial name(s) (if available):
+
+0.5 Name and address of manufacturer:
+
+0.7. Location and method of affixing of the EC type-approval mark:
+
+1. DESCRIPTION OF THE DEVICE
+
+1.1 Detailed technical description (including photographs or drawings):
+
+1.2. Assembly and mounting instructions, including required torques:
+
+1.3. Listing of vehicle types to which it may be fitted:
+
+1.4 Any restrictions of use and conditions for fitting:
+
+ANNEX III
+
+EC Type-Approval Model Certificates.
+
+Part 1:
+
+EC type-approval certificate relating to the type-approval of a vehicle with regard to pedestrian protection.
+
+Part 2:
+
+EC type-approval certificate relating to the type-approval of a vehicle with regard of it being fitted with a frontal protection system
+
+Part 3:
+
+EC type-approval certificate relating to the type-approval of frontal protection systems as separate technical unit
+
+Part 1
+
+(MODEL)
+
+(maximum format: A4 (210 x 297 mm)
+
+EC TYPE-APPROVAL CERTIFICATE
+
+STAMP OF EC Type-Approval Authority |
+
+Communication concerning the
+
+-  EC type-approval ([13])
+
+-  extension of EC type-approval (1)
+
+-  refusal of EC type-approval (1)
+
+-  withdrawal of EC type-approval (1)
+
+of a type of vehicle with regard to pedestrian protection
+
+with regard to Regulation (EC) No .........../.......... as implemented by………
+
+last amended by Regulation (EC) No.........../...........
+
+EC type-approval Number: ______________
+
+Reason for extension
+
+SECTION I
+
+0.1. Make (trade name of manufacturer):
+
+0.2. Type:
+
+0.2.1. Commercial name(s) (if available)
+
+0.3. Means of identification of type, if marked on the vehicle (2):
+
+0.3.1. Location of that marking:
+
+0.4. Category of vehicle(3):
+
+0.5. Name and address of manufacturer:
+
+0.8. Names and address(es) of assembly plant(s):
+
+0.9. Representative of the manufacturer:
+
+SECTION II
+
+1. Additional information (where applicable) (see Addendum)
+
+2. Technical service responsible for carrying out the tests:
+
+3. Date of test report:
+
+4. Number of test report:
+
+5. Remarks (if any) (see Addendum)
+
+6. Place:
+
+7. Date:
+
+8. Signature:
+
+Attachments:
+
+Information package.
+
+Test report.
+
+Addendum
+
+to EC type-approval certificate No. ............
+
+concerning the type-approval of a vehicle with regard to pedestrian protection
+
+with regard to Regulation (EC) No...............…/..............
+
+1. Additional information
+
+1.1. Brief description of the vehicle type as regards its structure, dimensions, lines and constituent materials:
+
+1.2. Site of engine : forward/rear/central ([14])
+
+1.3. Drive : front-wheel : rear-wheel (1)
+
+1.4. Mass of vehicle submitted for testing:
+
+-  Front axle :
+
+-  Rear axle :
+
+-  Total :
+
+1.5. Test results according to the requirements of Annex I to Regulation (EC) No …/….:
+
+1.5.1. Section 2 test results:
+
+Test | Value recorded | Pass/Fail([15]) |
+
+Lower legform to Bumper (where performed) | Bending angle | degrees |
+
+Shear displacement | mm |
+
+Acceleration at tibia | g |
+
+Upper legform to bumper. (where performed) | Sum of impact forces | kN |
+
+Bending moment | Nm |
+
+Upper legform to bonnet leading edge | Sum of impact forces | kN | ([16]) |
+
+Bending moment | Nm | (2) |
+
+Child/Small Adult headform (3,5 kg) to bonnet top | HPC values in Zone A (12 results([17])) |
+
+HPC values in Zone B (6 results(3)) |
+
+Adult headform (4,5 kg) to windscreen | HPC values (5 results([18])) | (2) |
+
+1.5.2. Section 3 test results:
+
+Test | Value recorded | Pass/Fail([19]) |
+
+Lower legform to Bumper (where performed) | Bending angle | degrees |
+
+Shear displacement | mm |
+
+Acceleration at tibia | g |
+
+Upper legform to bumper. (where performed) | Sum of impact forces | kN |
+
+Bending moment | Nm |
+
+Upper legform to bonnet leading edge | Sum of impact forces | kN | ([20]) |
+
+Bending moment | Nm | (6) |
+
+Child/Small Adult headform (3,5 kg) to bonnet top | HPC values (9 results([21])) |
+
+Adult headform (4,5 kg) to bonnet top | HPC values (9 results(7)) |
+
+Remarks: (e.g., valid for left-hand drive and right-hand drive vehicles)
+
+8.  1.5.3. Section 4 requirements:
+
+Details of Brake Assist system supplied.([22]) |
+
+Remarks: ([23]) |
+
+Part 2
+
+(MODEL)
+
+(maximum format: A4 (210 x 297 mm))
+
+EC TYPE-APPROVAL CERTIFICATE
+
+STAMP OF EC Type-Approval Authority |
+
+Communication concerning the
+
+-  EC type-approval ([24])
+
+-  extension of EC type-approval (1)
+
+-  refusal of EC type-approval (1)
+
+-  withdrawal of EC type-approval (1)
+
+of a type of a vehicle with regard of it being fitted with a frontal protection system
+
+with regard to Regulation (EC) No …/…. as implemented by…..
+
+last amended by Regulation (EC) No.........../............
+
+EC type-approval number:
+
+Reason for extension:
+
+SECTION I
+
+0.1 Make (trade name of manufacturer):
+
+0.2 Type
+
+0.2.1 Commercial name(s) (if available):
+
+0.3 Means of identification of type if marked on the vehicle(2):
+
+0.3.1 Location of that marking:
+
+0.4 Category of vehicle(3):
+
+0.5 Name and address of manufacturer:
+
+0.8 Address(es) of assembly plant(s):
+
+0.9. Representative of the manufacturer:
+
+SECTION II
+
+1. Additional information (where applicable): See Addendum
+
+2. Technical service responsible for carrying out the tests:
+
+3. Date of test report:
+
+4. Number of test report:
+
+5. Remarks (if any): See Addendum
+
+6. Place:
+
+7. Date:
+
+8. Signature:
+
+Attachments:
+
+Information package.
+
+Test report.
+
+Addendum
+
+to EC type-approval certificate No …….
+
+concerning the type-approval of a vehicle with regard of it being fitted with a frontal protection system
+
+with regard to Regulation (EC) No...............…/..............
+
+1. Additional information, if any:
+
+2. Remarks:
+
+3. Test results according to the requirements of Section 5 of Annex I to Regulation (EC) No …/…
+
+Test | Values recorded | Pass/Fail |
+
+Lower legform to Frontal Protection System - 3 test positions (where performed) | Bending angle | …… …… Degrees …… |
+
+Shear displacement | …… …… mm …… |
+
+Acceleration at tibia | …… …… g …… |
+
+Upper legform to Frontal Protection System - 3 test positions (where performed) | Sum of impact forces | …… …… kN …… |
+
+Bending moment | …… …… Nm …… |
+
+Upper legform to Frontal Protection System leading edge - 3 test positions (monitoring only) | Sum of impact forces | …… …… kN …… |
+
+Bending moment | …… …… Nm …… |
+
+Child/Small Adult headform (3.5 kg) to Frontal Protection System | HPC values (at least 3 values) | …… …… …… |
+
+Part 3
+
+(MODEL)
+
+(maximum format: A4 (210 x 297 mm))
+
+EC TYPE-APPROVAL CERTIFICATE
+
+STAMP OF EC Type-Approval Authority |
+
+Communication concerning the
+
+-  EC type-approval ([25])
+
+-  extension of EC type-approval (1)
+
+-  refusal of EC type-approval (1)
+
+-  withdrawal of EC type-approval (1)
+
+of a type of frontal protection system as a separate technical unit
+
+with regard to Regulation (EC) No …/…. as implemented by………
+
+last amended by Regulation (EC) No.........../...........
+
+EC type-approval number:
+
+Reason for extension:
+
+SECTION I
+
+0.1 Make (trade name of manufacturer):
+
+0.2 Type:
+
+0.3 Means of identification of type if marked on the frontal protection system(2):
+
+0.3.1 Location of that marking:
+
+0.5 Name and address of manufacturer:
+
+0.7. Location and method of the affixing of the EC approval mark:
+
+0.8. Name(s) and address(es) of assembly plant(s):
+
+0.9. Name and address of the manufacturer’s representative (if any):
+
+SECTION II
+
+1. Additional information: See Addendum
+
+2. Technical service responsible for carrying out the tests:
+
+3. Date of test report:
+
+4. Number of test report:
+
+5. Remarks (if any): See Addendum
+
+6. Place:
+
+7. Date:
+
+8. Signature:
+
+Attachments:
+
+Information package.
+
+Test report.
+
+Addendum
+
+to EC type-approval certificate No ……
+
+concerning the type approval of a type of frontal protection system as a separate technical unit
+
+with regard to Regulation (EC) No...............…/..............
+
+1. Additional information,
+
+1.1. Method of attachment:
+
+1.2. Assembly and mounting instructions:
+
+1.3 List of vehicles on which the frontal protection system may be fitted, any usage restrictions and necessary conditions for fitting:
+
+………………………………………………..
+
+2. Remarks:
+
+3. Test results according to the requirements of Section 5 of Annex I to Regulation (EC) No …/…
+
+Test | Values recorded | Pass/Fail |
+
+Lower legform to Frontal Protection System - 3 test positions (where performed) | Bending angle | …… …… Degrees …… |
+
+Shear displacement | …… …… mm …… |
+
+Acceleration at tibia | …… …… g …… |
+
+Upper legform to Frontal Protection System - 3 test positions (where performed) | Sum of impact forces | …… …… kN …… |
+
+Bending moment | …… …… Nm …… |
+
+Upper legform to Frontal Protection System leading edge - 3 test positions (monitoring only) | Sum of impact forces | …… …… kN …… |
+
+Bending moment | …… …… Nm …… |
+
+Child/Small Adult headform (3.5 kg) to Frontal Protection System | HPC values (at least 3 values) | …… …… …… |
+
+ANNEX IV
+
+EC TYPE-APPROVAL MARKING
+
+9.  This mark shall consist of:
+
+10.  A rectangle surrounding the lower-case letter “e” followed by the distinguishing number or letter(s) of the Member State which has granted the EC separate technical unit type-approval
+
+11.  1 for Germany
+
+12.  2 for France
+
+13.  3 for Italy
+
+14.  4 for the Netherlands
+
+15.  5 for Sweden
+
+16.  6 for Belgium
+
+17.  7 for Hungary
+
+18.  8 for Czech Republic
+
+19.  9 for Spain
+
+20.  11 for United Kingdom
+
+21.  12 for Austria
+
+22.  13 for Luxembourg
+
+23.  17 for Finland
+
+24.  18 for Denmark
+
+25.  19 for Romania
+
+26.  20 for Poland
+
+27.  21 for Portugal
+
+28.  23 for Greece
+
+29.  24 for Ireland
+
+30.  26 for Slovenia
+
+31.  27 for Slovak Republic
+
+32.  29 for Estonia
+
+33.  32 for Latvia
+
+34.  34 for Bulgaria
+
+35.  36 for Lithuania
+
+36.  49 for Cyprus
+
+37.  50 for Malta
+
+38.  In the vicinity of the rectangle the “base approval number” contained in section 4 of the type-approval number referred to in [Annex VII of Directive …/…/EC], preceded by the two figures indicating the sequence number assigned to the latest major technical amendment to this Regulation on the date the EC type-approval was granted. In this Regulation, the sequence number is 01.
+
+39.  An asterisk inserted after the sequence number will indicate that the frontal protection system was approved under the consideration, for the legform impactor test, allowed by points 5.1.1 or 5.2.1 of Annex I. If this consideration is not granted by the approval authority the asterisk is replaced by a space.
+
+40.  The EC type-approval mark must be clearly legible and indelible.
+
+Appendix
+
+Example of the EC Type-Approval Mark
+
+
+
+(a ≥ 12 mm)
+
+The device bearing the EC type-approval mark shown above is for a frontal protection system type-approved in Germany (e1) pursuant to this Regulation (01) under the base approval number 1471.
+
+The asterisk indicates that the frontal protection system was approved under the consideration, for the legform impactor test, allowed by point 5.1 of Annex I. If this consideration is not granted by the approval authority the asterisk is replaced by a space.
+
+[1] OJ L 321, 6.12.2003, p. 15.
+
+[2] OJ C 261, 30.10.2003, p. 576, COM(2001)389 final.
+
+[3] Directive 2005/66/EC of the European Parliament and of the Council of 26 October 2005 relating to the use of frontal protection systems on motor vehicles and amending Council Directive 70/156/EEC, OJ L 309, 25.11.05, p. 37.
+
+[4] See Directive 2003/102/EC, Article 5.
+
+[5] OJ C
+
+[6] OJ C
+
+[7] OJ C
+
+[8] [Proposal for the new ‘Framework Directive’ currently under adoption process. COM(2003)418 and COM(2004)738.]
+
+[9] OJ L 321, 6.12.2003, p. 15.
+
+[10] OJ L 309, 25.11.2005, p. 37.
+
+[11] OJ L 184, 17.7.1999, p. 23. Decision as amended by Decision 2006/512/EC (OJ L 200, 22.7.2006, p. 11).
+
+[12] OJ L 267, 19.10.1977, p. 1.
+
+(b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol .?. (e.g. ABC??123??).
+
+(1) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable.)
+
+(c) Classified according to the definitions listed in Section A of Annex II to Directive […/…/EC].
+
+(b) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol .?. (e.g. ABC??123??).
+
+(1) Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable.)
+
+(c) Classified according to the definitions listed in Section A of Annex II to Directive […/…/EC].
+
+([13]) Delete where not applicable.
+
+(2) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).
+
+(3) As defined in Section A of Annex II to Directive […/…/EC].
+
+[14] Delete where not applicable.
+
+[15] According to the values specified in Section 2 of Annex I to Regulation (EC) No[…../….].
+
+[16] For monitoring purposes only
+
+[17] According to Commission [implementing legislation].
+
+[18] According to Commission [implementing legislation].
+
+[19] According to the values specified in Section 3 of Annex I to Regulation (EC) No […./….].
+
+[20] For monitoring purposes only
+
+[21] According to Commission [implementing legislation].
+
+[22] Provide details of system operation method.
+
+[23] Provide details of testing completed to verify system.
+
+([24]) Delete where not applicable
+
+(2) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).
+
+(3) As defined in Section A of Annex II to Directive […/…/EC].
+
+([25]) Delete where not applicable
+
+(2) If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information, such characters shall be represented in the documentation by the symbol '?' (e.g. ABC??123??).

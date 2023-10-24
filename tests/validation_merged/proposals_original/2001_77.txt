@@ -1,0 +1,881 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 52001PC0125(01) - EN
+
+Avis juridique important
+
+|
+
+52001PC0125(01)
+
+Proposal for a Directive of the European Parliament and of the Council amending Directives 96/92/EC and 98/30/EC concerning common rules for the internal market in electricity and natural gas  /* COM/2001/0125 final - COD 2001/0077 */
+
+Official Journal 240 E , 28/08/2001 P. 0060 - 0071
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directives 96/92/EC and 98/30/EC concerning common rules for the internal market in electricity and natural gas
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+REVISION OF THE ELECTRICITY AND GAS DIRECTIVES
+
+1. Introduction
+
+The European Council in Lisbon of 23-24 March 2000 called for "rapid work" to complete the internal market and asked "the Commission, the Council and the Member States, each in accordance with their respective powers ... to speed up liberalisation in areas such as gas, electricity ... The aim is to achieve a fully functional operational internal market in these areas; the European Council will assess progress achieved when it meets next Spring on the basis of a Commission report and appropriate proposals". The European Parliament equally requested the Commission to adopt a detailed timetable for the achievement of accurately defined objectives with a view to gradually by completely liberalising the energy markets [1].
+
+[1]  Resolution 'Liberalisation of energy markets' A5-0180/2000 of 6 July 2000.
+
+The Energy Council of 30 May 2000 stressed "the importance and urgency of the conclusions reached at the Lisbon European Council" and invited the Commission "to present timely proposals for further action".
+
+In the Commission Communication "Completing the Internal Energy Market" [2], the conclusion is reached that proposals aimed at completing the internal gas and electricity markets can now be made to the Parliament and Council, which would not only achieve this primary objective but also be compatible with, and contribute to, the Community's other relevant policies in this area.
+
+[2]  OJ C
+
+The attached proposal to amend Directives 96/92/EC and 98/30/EC therefore meets the request of the European Council and the Energy Council; it follows the recent Green Paper on Security of Supply [3] which highlighted the links between the acceleration of the integration of energy markets within Europe and the need to ensure security of supply.
+
+[3]  COM(2000) 769, p. 71.
+
+2. Objectives pursued
+
+As explained in the abovementioned Communication, if the Community is to create a real and effective internal market for electricity and gas, any proposal must contain both quantitative and qualitative elements:
+
+-The progressive freeing of all electricity and gas consumers to choose their supplier ("quantitative proposal"). There are three reasons for pursuing an ambitious program in this respect. First, to ensure that all EU companies receive the benefits of competition  in terms of increased efficiency and lower prices, leading to increased EU competitiveness and employment. Secondly, to ensure that EU consumers receive the full benefits of market opening in terms of lower domestic bills for electricity and gas. Thirdly, to ensure a level playing field between Member States in terms of market opening and hence to fully integrate the 15 national markets into one true and fully operational single market.
+
+-Improving, in structural terms, the Community electricity and gas markets ("qualitative proposals"). Experience in market opening, not only in the Community but also in other countries, has clearly demonstrated that certain approaches to market opening are far more likely to bring about the development of effective competition. The clear majority of Member States have adopted such an approach for electricity and a large number of Member States have also done so for gas.
+
+As the internal market develops, particularly in terms of the abovementioned quantitative acceleration, it is therefore essential that methods by which market opening is implemented gradually converge between Member States if a real internal market is to develop on the basis of undistorted competition. This is equally necessary if all the possible benefits from the creation of the internal markets for electricity and gas are to be exploited and passed on to consumers.
+
+It is generally acknowledged that third party access based on published and non-discriminatory tariffs, and a high level of unbundling, are not only conducive but necessary to ensure effective competition. To complete the internal market, it is not sufficient therefore to fully liberalise demand, but effective market structures must also exist. In addition to the need to ensure that the maximum benefits of competition develop to the profit of Community citizens, such measures are necessary to guarantee a level playing field between Member States and to ensure non-discrimination, notably in relation to vertically integrated companies enjoying a dominant position. Indeed, it has become increasingly clear that this issue is just as, if not more, important as the level of quantitative market opening if real reciprocity is to be attained between Member States.
+
+In addition, it is appropriate that this proposal updates the Directives: certain provisions and options in the Directives have either become redundant, or have not been selected by Member States. This concerns the tendering procedure for liberalising generation (except as a back-up measure that can be taken for reasons of security of supply) and the single buyer model for network access. These can therefore be deleted from the Directive. This clarification is particularly important in terms of providing for a level playing field in terms of market structures of the gas and electricity markets in the countries that are candidates for accession to the Community. In addition, a number of administrative issues have been simplified in order to reduce red tape. This concerns obligations in the Directives that, in the light of experience, can be alleviated. Furthermore, a clarification has been made with respect to the provisions of both Directives with respect to the accounting unbundling requirements.
+
+It also appears appropriate to repeal Council Directives 90/547/EEC and 91/296/EEC on the transit of electricity and natural gas in order to ensure homogeneous and non-discriminatory access regimes for transmission including when this involves cross-border transport in the Community. In order to ensure consistency and avoid confusion related to access regimes and terms, it is proposed to incorporate and streamline the rules of the transit directives into the proposal for a new directive on the completion of the internal energy market thereby allowing transmission system operators access, if necessary, to the grid of other transmission system operators on conditions that are non-discriminatory.
+
+Finally, it is appropriate to improve the existing provisions regarding public service objectives, to permit an effective and continual benchmarking exercise, and to ensure that all citizens enjoy the right to be supplied with electricity at affordable and reasonable prices (universal service) and that they enjoy a minimum set of consumer protection rights.
+
+These improvements to the Directives and the removal of redundant provisions will also provide more clarity and guidance to the candidate countries in the adoption of reforms of their electricity and gas sectors.
+
+3. The proposals
+
+3.1. Quantitative proposals - making all consumers progressively free to choose their supplier
+
+It is proposed that Member States make all non-domestic electricity customers (i.e.  all industrial and commercial properties) free to choose their electricity supplier by 1 January 2003, and that this be extended to all customers (i.e. 100% market opening) by 1 January 2005.
+
+As the opening of gas markets is still behind electricity (Member States had to implement the Gas Directive 18 months after the Electricity Directive), and gas companies have had less time to prepare, it is proposed that all non-domestic gas customers be eligible by 1 January 2004, i.e. one year later than for electricity. The same deadline is however proposed as that for electricity for the introduction of full market opening: 1 January 2005, as this period is sufficiently long to permit the EU gas industry to fully prepare for full competition, and will then ensure that both internal markets are operating in parallel. This is particularly important due to the increasing convergence between the two sectors.
+
+These proposals are made taking into account the experience of those countries that have already successfully introduced full competition, and the time that has been necessary to make all the necessary preparations, both administrative, technical and legal/regulatory, to ensure consumer protection and the respect of necessary public service objectives. In particular, it takes account of the fact that the eligibility of domestic consumers, unlike the industrial and commercial sector, often requires important preparation in terms of billing arrangements and the development of customer load profiling [4]. It also takes into account the intentions of a majority of Member States to introduce full competition under a timetable similar to the one proposed. The Commission Communication on completing the internal energy market clearly demonstrates that the main objectives of the Community in this area, notably high standards of public service and consumer protection, environmental protection, security of supply and socially consensual market opening, can be fully met in the context of such progress.
+
+[4]  Under a standardised load profile, an assumption on the consumption of electricity of a type of small consumer is made, in volume and timing of demand. Any discrepancies with the profile are settled after periodic readings of the existing meter, eliminating the need for expensive minute-to-minute reading of the consumer's actual consumption and off-setting that against his/her contracted volume.
+
+3.2. Qualitative proposals
+
+Two proposals are made in this respect, concerning unbundling and network access methodology. Almost all those that have commented in the context of the public hearing on the completion of the internal energy market, which the Commission organised in September 2000, stressed that high standards and clear measures with respect to both these issues are essential if effective competition is to be ensured throughout the internal market, and effective reciprocity is to exist between Member States and companies.
+
+Unbundling: In order to ensure a common minimum standard of unbundling throughout the internal market for electricity and gas, it is proposed that Member States ensure, as a minimum, that transmission be carried out via a subsidiary company that is legally and functionally separate vis-à-vis its day to day operations from generation and sales activities of its parent company (an independent transmission system operator - TSO). A number of measures are specified that must be respected to ensure that the transmission subsidiary company is able to operate in functional terms independently of the other commercial interests of the group to which it belongs. The minimum requirements in terms of functional separation are the following:
+
+-those responsible for the management of the transmission system may not participate in company structures responsible, directly or indirectly, for the day-to-day running of the generation/production, and supply functions of the integrated group;
+
+-appropriate measures must be taken to ensure that the personal interests of the management of the transmission system company are taken into account in a manner that ensures that they are capable of acting independently;
+
+-the transmission system operator must exercise full control over all assets necessary to operate, maintain and develop the network;
+
+-the transmission system operator must establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded. The programme must set out the specific obligations of employees to meet this objective. It must be drawn up and its respect monitored by a compliance officer appointed by and reporting to the President/Chief Executive of the integrated company to which the transmission system operator belongs. An annual report, setting out the measures taken, must be submitted by the compliance officer to the national regulatory authority and published.
+
+Many respondents at the public hearing further argued that distribution should also be unbundled in a similar manner, requiring legal separation [5], and stressed the importance of non-discriminatory access to distribution as vital [6].
+
+[5]  The Gas and Electricity Directives require only accounting unbundling at distribution level together with measures to ensure the non-disclosure of commercially sensitive information.
+
+[6]  Distribution costs are relatively significant. For gas, total investments in gas distribution will typically be twice as high as in transmission. In a country without gas production, gas distribution investment can account for 70% to 80% of total investment in the supply chain to the end user.
+
+Further opening of the market will render independent distribution system operation as important as independent transmission system operation. For this reason, the Commission proposes a legal separation of electricity distribution system operators by 2003 and of gas distribution system operators by 2004 on largely the same conditions as those described above for the transmission system operator. However, Member States may decide to introduce a de minimis threshold, because it might not be proportional to impose this unbundling obligation on small local distribution companies.
+
+It should be noted that this modification represents a greater development with respect to gas than to electricity. In the Gas Directive, only internal accounting unbundling of transmission, together with measures to ensure the non-disclosure of commercially sensitive information is required. However, six Member States have in fact moved to ownership, legal, or management unbundling, or are preparing to do so. In addition, it is worth noting that several integrated gas undertakings are pursuing similar policies of separating management and operation of transportation functions from the gas supply function. It is generally accepted that such a development will lead to a more effective and equivalent competitive structure throughout the internal market and will permit more market entry, as potential entrants will be confident of non-discriminatory access. Moreover, within integrated companies it will provide clearer cost signals and incentives to the different business functions. The adoption of this measure will thus lead to a more rapid and equitable development of an effective internal market for gas.
+
+These provisions were the ones underlined as important by an overwhelming majority of those commenting during the hearing. In the light of experience in implementing the existing Directives, they have also proven to be the most important in ensuring effective functional independence.
+
+Many respondents at the hearing argued that storage and LNG facilities for gas should be further unbundled and subject to regulated access. Many also argued that full ownership unbundling for transmission should take place. It is clear that measures such as these would result in more effective guarantees of non-discriminatory access. Furthermore, the Commission fully recognises the fundamental role that access to gas storage and other key ancillary facilities must play if a competitive market is to develop [7]. In this light, the Commission has decided to propose a clarification of the importance of access to storage, other ancillary services and flexibility instruments; strengthening the method of third party access regarding distribution and LNG facilities (see below); and to require that gas companies be obliged to identify and create separate operators responsible for storage and LNG activities (storage and LNG operators); thus increasing transparency for those requesting access to these key facilities. The Commission expects that these measures will be sufficient to ensure effective and non-discriminatory access to the gas and electricity systems. It has decided not to require, at least at present, unbundling requirements additional to this with respect to storage and LNG (i.e. not to require separate legal entities for these activities). Furthermore it is proposed to include a provision on non-discriminatory provision of balancing services for both gas and electricity.
+
+[7]  Gas offtake varies for all customers greatly, both within a single day and between seasons during the year. Gas supply, however, is more constant as gas producers wish to maximise the capacity usage of their pipeline infrastructure. Non-discriminatory access to flexibility instruments such as storage may therefore be crucial for an efficient access to the overall gas system and for ensuring a level playing field between incumbent utilities having significant storage facilities at their disposal and new entrants and customers without such facilities.
+
+However, the Commission will continue to monitor carefully whether effective and non-discriminatory access develops for transmission (including upstream pipelines), distribution, LNG, storage and other key ancillary facilities. In order to ensure continued examination of these issues by all Community institutions, it is proposed that the Directives be revised to require the Commission to submit a report to the European Parliament and Council, inter alia on these issues before the end of the second and fourth years following the entry into force of this revision (Articles 1 and 2), together, if necessary, with appropriate proposals for further action.
+
+Third party access: As mentioned above, effective third party access was also identified by all respondents at the hearing as vital to ensure the development of effective competition. It is almost universally considered that the minimum system necessary to ensure non-discrimination and the necessary transparency and predictability to create effective competition to develop is published and regulated tariffs, which are applied under non-discriminatory terms and conditions to all system users, be they customers or companies, including those belonging to the group to which the TSO belongs. Such tariffs may be divided into objective classes of customers, providing that this does not result in discrimination. This system has been adopted by almost all Member States with respect to electricity, but not concerning gas [8]. It is therefore proposed that a published and regulated tariff structure be the minimum norm for transmission and distribution tariffs in both markets. It is important to ensure that future accession countries also implement structures compatible with the approach pursued by Member States.
+
+[8]  For gas, the following Member States have either a system of negotiated access, or a hybrid published/negotiated system: Austria, Belgium (who, however, recently decided to change to regulated TPA), Denmark, France, Germany and The Netherlands.
+
+In order to ensure that non-discrimination is effective in practice, Member States and national regulatory authorities will have to carefully monitor the behaviour of the legally separated transmission and distribution system operators. Thus, Member States and national regulatory authorities will need, inter alia, to ensure that transmission and distribution operators reply to access requests within a reasonable period of time. In the Commission's view a period of two weeks should, in principle, not be exceeded. They will equally need to ensure that transmission and distribution system operators do not ask questions to companies requesting access to the network, which relate to the source of the energy, the destination or the onward transport route that are not necessary for the carrying out of their responsibilities in relation to the operation of the network.
+
+Regulation: Independent national regulatory authorities play a pivotal role in ensuring non-discriminatory access to the network, as they have the power to fix or approve transmission and distribution tariffs prior to their entry into force. Competition authorities can only act on competition distortions ex-post, while regulators have an active ex-ante function. These authorities also play a major role in issues relating to cross border trade, in the creation of a truly internal market. They also bring about regulatory continuity and transparency to the market. The proposed Directive therefore requires Member States to establish independent regulatory authorities with the competence, inter alia, to set and/or approve tariffs and conditions for access to gas and electricity transmission and distribution networks. Thus, the regulatory authority must approve the transmission and distribution tariffs prior to their entry into force. This approval may be on the basis of a proposal by thetransmission/distribution system operator(s), or on the basis of a proposal agreed between the transmission/distribution system operator(s) and the users of the network. Indeed, it is in any event appropriate for transmission/distribution system operators to consult closely with all categories of their network users prior to proposingtariffs to their regulatory authority. Although independent, these organisations will need to work closely with other government bodies such as competition authorities where these still retain the responsibility for settling other types of disputes relating to TPA, for example, questions of discrimination in individual cases.
+
+Trade with non-EU countries: In a liberalised market there may be increased opportunities for EU businesses to trade with suppliers and customers outside the EU. Significant benefits could arise from such trade as in other industries. However, there must be agreement between the EU and third countries on reciprocal access to markets and on environmental and safety standards to prevent potential danger to the environment in the Community, particularly for the electricity market. A framework for bilateral or regional agreements could be envisaged to cover these matters. However, some Member States may already have separate arrangements with non-EU countries to exchange electricity. These agreements need to be monitored so that they are compatible with the Community objectives on, for example, nuclear power safety. Hence, the Directive requires Member States to inform the Commission of the imports of electricity from those countries to which the Electricity Directive does not apply.
+
+3.3. Updating provisions
+
+To reflect the fact that a number of options in the present Electricity Directive are implemented by no Member State, and are generally accepted to be less likely to lead to the development of competitive markets than those actually implemented, it is proposed that these are deleted from the Directive. This is important in ensuring a continued level playing field with potential accession countries. Thus, it is proposed that the tendering procedure with respect to generation be deleted. However, Member States are required to make provision for the launch of tenders for new capacity that might be used as an exceptional measure for reasons of security of supply. The "Single buyer" option with respect to TPA for electricity is also deleted.
+
+An administrative improvement is also proposed to remove a procedural requirement that, in the light of experience, has been shown to be unnecessary, and can be deleted without reducing the effectiveness of the Directive. This concerns the requirement that in the event of a refusal to grant authorisation to construct new generating capacity, a copy of the relevant decision is forwarded to the Commission. It has become evident that this procedure is unnecessarily onerous as many such refusals take place for small facilities on simple planning grounds (Article 5(3) of Directive 96/92/EC). The benefits of this procedure are therefore outweighed by the administrative burdens it imposes, particularly on local authorities. This requirement is therefore dropped. Companies that are refused authorisations retain the right, however, to refer any case they may wish to the Commission.
+
+Article 14(3) of the Electricity Directive and 13(3) of the Gas Directive require that integrated undertakings maintain separate accounts for their different activities. According to the definitions contained in Article 2(5) and (6) of the Electricity Directive and 2(3) and (5) of the Gas Directive both transmission and distribution mean the transport of electricity/gas "with a view to its delivery to final consumers". Certain companies have argued that this means that it is unnecessary to maintain separate accounts for distribution and supply activities. The Commission believes this to be incorrect and incompatible with the wording and objective of this provision, notably to create transparency and effective regulation. Nonetheless to ensure full clarity on this issue, the draft Directive proposes a modification of Article 14(3) of the Electricity Directive and 13(3) of the Gas Directive.
+
+With respect to the reciprocity provision, contained in Article 19 of both Directives, it is now possible to fix a final date at which this provision shall cease to be valid. As it is proposed that all Member States must designate all consumers to be eligible by 1 January 2005, the clause becomes invalid on that date.
+
+Finally, it is proposed to repeal the Gas and Electricity Transit Directives (Council Directives 90/547/EEC and 91/296/EEC) to avoid different regimes, publication requirements, dispute settlement systems, etc. for access to the network. Transmission system operators shall, if necessary and for the purpose of carrying out their functions including in relation to transit, have access to the network of other transmission system operators based on non-discriminatory terms and conditions.
+
+3.4. Public service objectives
+
+As mentioned in the Communication on completing the internal market, the attainment of public service objectives is one of the most fundamental objectives of the Commission in this area. Whilst existing provisions of the Gas and Electricity Directives have operated well to date, room for improvement exists, in particular in the context of full market opening. First, in order to ensure that universal service in electricity is ensured as market opening progresses, the Commission feels it is important to include a provision in the proposal stating that Member States should ensure universal service, meaning supply of high quality electricity to all customers in their territory (Article 3(3)). Equally, and as a complement to this, requirements (Article 3(3) and (4)) are introduced upon Member States, both for electricity and gas, to introduce appropriate provisions to ensure the attainment of the public service objectives and notably:
+
+*The protection of vulnerable customers: Member States will, for example, need to ensure appropriate protection from unjustified disconnection of, inter alia, the elderly, the unemployed, the handicapped, etc.;
+
+*The protection of final customers' basic rights: Member States will, for example, need to ensure a minimum set of conditions for contracts, transparency of information, and the availability of low-cost and transparent dispute settlement mechanisms [9];
+
+[9]  Appropriate provisions to ensure these basic rights can be found in Article 17 of the Commission proposal for a Directive of the European Parliament and of the Council on universal service and users' rights relating to electronic communications networks and services, COM(2000) 392 of 12 July 2000.
+
+*Social and economic cohesion: beyond universal service, where necessary, Member States will need to take appropriate measures to ensure supplies at appropriate prices to, for example, peripheral areas;
+
+*Environmental protection; and
+
+*Security of supply; notably through ensuring appropriate levels of maintenance and development of infrastructure, and in particular interconnections.
+
+Furthermore, and again as a complement to the above, in order to ensure that it is clear that Member States have available all necessary instruments to guarantee network maintenance and development, it is proposed that a new Article be inserted in the Gas and Electricity Directives (Article 8(5) of the Electricity Directive and Article 7(5) of the Gas Directive), which states that "Member States may require Transmission System Operators to meet minimum levels of investment for the maintenance and development of the transmission system, including interconnection capacity".
+
+Finally, given the vital importance of continued secure supplies of electricity as highlighted in the Green Paper of Energy Supply - probably the most important public service objective - it is necessary to take a number of additional complementary measures to reinforce the existing safeguards contained in the Electricity and Gas Directives on this point. In particular, and in addition to the requirements on Member States to provide for the possibility of launching tenders for new capacity when necessary, it would be appropriate for Member States to be required to carefully monitor the state of the domestic electricity and gas markets, and in particular the existing demand/supply balance, the level of expected future demand, envisaged additional capacity under planning or construction, and the level of competition existing on the market. On an annual basis, the Member States should be required to publish a report outlining their findings, and indicating any measures envisaged to ensure supply security. Furthermore, given that due to the highly interconnected nature of the EU electricity and gas network, the relationship between demand and supply at the Community level is of vital importance for overall system security, the Commission, on the basis of the national reports and its own monitoring work, should publish a similar Communication covering the Community as a whole. For this reason, it is proposed to include these provisions in Article 6(6) of the revised Electricity Directive and in Article 4a of the revised Gas Directive.
+
+Article 3(2) of the existing Directives requires Member States to notify public service objectives to the Commission. However, as no Member State has adopted such objectives, which require a derogation from either Directive, no such notifications have been made. In order to permit an effective benchmarking exercise by the Commission, enabling Member States to ensure that they maintain the highest levels of public service, it is appropriate to amend this provision to ensure that Member States notify, every two years, all measures taken to achieve public service objectives, irrespective of whether they require a derogation from the Directive and notably the new requirements mentioned above. On this basis, the Commission should be obliged to publish a report every two years analysing the different measures adopted, and, if necessary, make recommendations as to measures to be taken to achieve high public service standards.
+
+Finally, a fully opened market needs an internalisation of external costs to ensure a true level  playing field. The Commission will therefore promote initiatives in this sense, e.g.  an EU-wide energy/CO2 tax, strict rules on State aid, demand-side management measures, measures to promote cogeneration and renewables which have a competitive disadvantage as long as external costs are not fully integrated.
+
+4. Conclusion
+
+All the evidence available to the Commission on the basis of the operation of the gas and Electricity Directives demonstrates that all the basic objectives pursued by the internal market; lower prices, increased competitiveness, high standards of public service, security of supply, and environmental protection, are being achieved; and in a socially consensual context. Experience in countries that have moved to full market opening demonstrates that these objectives can be and are met under conditions of full competition, and can indeed be better pursued under such circumstances. The overwhelming view of those commenting in the context of the public hearing on completing the internal gas and electricity markets, and comments received in writing, support this approach.
+
+The rapid completion of the internal market in this area represents, therefore, an important step in meeting the Community's objectives set out at the European Council at Lisbon in spring 2000. The adoption of these proposals can be expected to bring important benefits in terms of competitiveness and employment, and provide competitive prices and higher standards of service to Community citizens for gas and electricity.
+
+2001/0077 (COD)
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directives 96/92/EC and 98/30/EC concerning common rules for the internal markets in electricity and natural gas
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 47(2), Article 55 and Article 95 thereof,
+
+Having regard to the proposal from the Commission [10],
+
+[10]  OJ C
+
+Having regard to the opinion of the Economic and Social Committee [11],
+
+[11]  OJ C
+
+Having regard to the opinion of the Committee of the Regions [12],
+
+[12]  OJ C
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty [13],
+
+[13]  OJ C
+
+Whereas:
+
+(1) Directive 96/92/EC of the European Parliament and of the Council of 19 December 1996 concerning common rules for the internal market in electricity [14] and Directive 98/30/EC of the European Parliament and of the Council of 22 June 1998 concerning common rules for the internal market in natural gas [15] have made very important contributions towards the creation of internal markets for electricity and gas.
+
+[14]  OJ L 27, 30.1.1997, p. 20.
+
+[15]  OJ L 204, 21.7.1998, p. 1.
+
+(2) Experience in implementing those Directives demonstrates the important benefits that have begun to result from the internal markets in electricity and gas, in terms of efficiency gains, price reductions, higher standards of service and increased competitiveness. However, important shortcomings and possibilities for improving the functioning of the markets remain.
+
+(3) At its meeting in Lisbon on 23 and 24 March 2000, the European Council called for rapid work to be undertaken to complete the internal market in both electricity and gas sectors and to speed up liberalisation in these sectors with a view to achieving a fully operational internal market. The European Parliament, in its Resolution of 6 July 2000 on the Commission's second report on the state of liberalisation of energy markets, requested the Commission to adopt a detailed timetable for the achievement of accurately defined objectives with a view to gradually but completely liberalising the energy market.
+
+(4) The main obstacles in arriving at a fully operational internal market are related to issues of access to the network and different degrees of market opening between Member States.
+
+(5) In order to achieve non-discriminatory access to the network, the independence of the transmission system operator is of paramount importance. The provisions on unbundling should therefore be strengthened. In order to ensure non-discriminatory access to the distribution network, unbundling requirements for the distribution system  operator should be introduced for both electricity and gas distribution system operators.
+
+(6) To avoid imposing a disproportionate financial and administrative burden on small distribution companies, Member States should be able, where necessary, to exempt such companies from the unbundling requirements.
+
+(7) Further measures should be taken in order to ensure transparent, predictable and non-discriminatory tariffs for access to essential transportation and related infrastructure, including storage and other ancillary facilities. Those tariffs should be applicable to all system users on a non-discriminatory basis.
+
+(8) In the light of the experience gained with the operation of Council Directive 90/547/EEC of 29 October 1990 on the transit of electricity through transmission grids [16] and Council Directive 91/296/EEC of 31 May 1991 on the transit of natural gas through grids [17], measures should be taken to ensure homogeneous and non-discriminatory access regimes for transmission, including across borders between Member States.
+
+[16]  OJ L 313, 13.11.1990, p. 30; Directive as last amended by Commission Directive 98/75/EC (OJ L 276, 13.10.1998, p. 9).
+
+[17]  OJ L 147, 12.6.1991, p. 37; Directive as last amended by Commission Directive 95/49/EC (OJ L 233, 30.9.1995, p. 86).
+
+(9) The presence of independent national regulatory authorities, is an important feature in guaranteeing non-discriminatory access to the network. Those authorities should at least have the competence to fix or approve transmission and distribution tariffs and tariffs for access to liquefied natural gas (LNG) facilities, prior to their entry into force.
+
+(10) National regulatory authorities should be able to approve tariffs on the basis of a proposal by the transmission system operator or distribution system operator(s) or LNG system operator, or on the basis of a proposal agreed between these operator(s) and the users of the network.
+
+(11) The benefits resulting from the internal market should be available to all Community industry and commerce, including small and medium-sized enterprises and to all Community citizens as quickly as possible for reasons of competitiveness and employment.
+
+(12) Gas and electricity customers should be able to choose their supplier freely. Nonetheless a phased approach to completing the internal market for electricity and gas should be taken to enable industry to adjust and ensure that adequate measures and systems are in place to protect the interests of customers and ensure they have a real and effective right to choose supplier.
+
+(13) Progressive market opening towards full competition will gradually remove differences between Member States. Transparency and certainty in the implementation of this Directive should be ensured.
+
+(14) Directive 98/30/EC provides for access to storage as part of the gas system. In the light of the experience gained in implementing the internal market, additional measures should be taken to clarify the provisions for access to storage and other ancillary services and to reinforce the separation of the operation of transmission and distribution systems, and gas storage and LNG facilities.
+
+(15) Nearly all Member States have chosen to ensure competition in the electricity generation market through a transparent authorisation procedure. However, Member States should have the possibility to ensure security of supply through the launching of a tendering procedure in the event that sufficient electricity generation capacity is not built on the basis of the authorisation procedure.
+
+(16) In the interest of security of supply, the supply/demand balance in individual Member States should be monitored and appropriate action taken if security of supply is compromised.
+
+(17) Member States should ensure that all customers enjoy the right to be supplied with electricity of a specified quality at affordable and reasonable prices. In order to ensure the maintenance of the highest possible standards of public service in the Community, all measures taken by Member States to achieve the objectives of this Directive should be regularly notified to the Commission. The Commission should regularly publish a report analysing measures taken at national level to achieve public service objectives and comparing their effectiveness, with a view to making recommendations as regards measures to be taken at national level to achieve high public service standards.
+
+(18) The requirement to notify the Commission of any refusal to grant authorisation to construct new generation capacity has proven to be an unnecessary administrative burden and should therefore be dispensed with.
+
+(19) Directives 96/92/EC and 98/30/EC should therefore be amended accordingly.
+
+(20) In accordance with the principles of subsidiarity and proportionality as set out in Article 5 of the Treaty, the objectives of the proposed action, namely the creation of fully operational internal electricity and gas markets, in which fair competition prevails, cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale and effects of the action, be better achieved by the Community. This Directive confines itself to the minimum required in order to achieve those objectives and does not go beyond what is necessary for that purpose.
+
+(21) To ensure homogeneity in the treatment of access to the electricity and gas networks, also in the case of transit, Directives 90/547/EEC and 91/296/EEC should be repealed,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Amendments to Directive 96/92/EC
+
+Directive 96/92/EC is amended as follows:
+
+(1) Article 2 is amended as follows:
+
+(a) point (9) is replaced by the following:
+
+"9. 'final customer' shall mean a consumer buying electricity for his own use."
+
+(b) point (22) is replaced by the following:
+
+"22. 'non-domestic customer' shall mean a consumer purchasing electricity which is not for his own household use and shall include producers, transmission and distribution undertakings and wholesale customers."
+
+(2) Article 3 is replaced by the following:
+
+"Article 3
+
+1. Member States shall ensure, on the basis of their institutional organisation and with due regard for the principle of subsidiarity, that, without prejudice to paragraph 2, electricity undertakings are operated in accordance with the principles of this Directive, with a view to achieving a competitive market in electricity. Member Statesshall not discriminate between these undertakings as regards either rights or obligations.
+
+2. Having regard to the relevant provisions of the Treaty, in particular Article 86, Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies and to environmental protection. Such obligations shall be clearly defined, transparent, non-discriminatory and verifiable. As a means of carrying out public service obligations in relation to security of supply, Member States may introduce the implementation of long-term planning, taking into account the possibility of third parties seeking access to the system.
+
+3. Member States shall ensure that all customers enjoy universal service, that is the right to be supplied with electricity of a specified quality within their territory at affordable and reasonable prices. They shall take appropriate measures to protect final customers and to ensure high levels of consumer protection, particularly with respect to transparency regarding contractual terms and conditions, general information and dispute settlement mechanisms. These measures shall include, in particular, those set out in the Annex.
+
+4. Member States shall implement appropriate measures to achieve the objectives of social and economic cohesion, environmental protection and security of supply, notably through the maintenance and construction of necessary network infrastructure including interconnection capacity.
+
+5. Member States may decide not to apply the provisions of Articles 5, 6, 16 and 21 in so far as their application would obstruct the performance, in law or in fact, of the obligations imposed on electricity undertakings in the general economic interest and in so far as the development of trade would not be affected to such an extent as would be contrary to the interests of the Community. The interests of the Community include, inter alia, competition with regard to eligible customers in accordance with this Directive and Article 86 of the Treaty."
+
+(3) The following Article 3a is inserted:
+
+"Article 3a
+
+1. Member States shall, every two years, notify the Commission of all measures adopted to fulfill universal service and public service obligations, whether or not such measures require a derogation from the provisions of this Directive. This notification shall relate, inter alia, to the requirements of Article 3(4) and the maintenance of service standards.
+
+2. The Commission shall publish, every two years, a report analysing the different measures taken in the Member States to meet high public service standards, together with an examination of the effectiveness of those measures.
+
+Where appropriate, the Commission shall make recommendations as to measures to be taken at national level to achieve high public service standards."
+
+(4) Article 4 is deleted.
+
+(5) Article 5 is replaced by the following:
+
+"Article 5
+
+1. For the construction of new generating capacity, Member States shall adopt an authorisation procedure, which shall be conducted in accordance with objective, transparent and non-discriminatory criteria.
+
+2. Member States shall lay down the criteria for the grant of authorisations for the  construction of generating capacity in their territory. These criteria may relate to:
+
+(a) the safety and security of the electricity system, installations and associated equipment;
+
+(b) protection of public health and safety;
+
+(c) protection of the environment;
+
+(d) land use and siting;
+
+(e) use of public ground;
+
+(f) energy efficiency;
+
+(g) the nature of the primary sources;
+
+(h) characteristics particular to the applicant, such as technical, economic and financial capabilities;
+
+(i) compliance with measures adopted pursuant to Article 3.
+
+3. The authorisation procedures and criteria shall be made public.
+
+4. Applicants shall be informed of the reasons for any refusal to grant an authorisation. The reasons must be objective, non-discriminatory, well founded and duly substantiated. Appeal procedures shall be made available to the applicant."
+
+(6) Article 6 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+"1. Member States shall ensure the possibility, in the interests of security of supply, to tender for new capacity on the basis of published criteria. A tendering procedure can, however, only be launched if on the basis of the authorisation procedure the capacity being built is not sufficient to ensure security of supply."
+
+(b) Paragraph 2 is deleted.
+
+(c) Paragraph 6 is deleted.
+
+(7) The following Article 6a is inserted:
+
+"Article 6a
+
+1. Member States shall designate a body, which may be the independent regulatory authority referred to in Article 22, to monitor security of supply issues. This body shall monitor, in particular, the supply/demand balance on the national market, the level of expected future demand and envisaged additional capacity planned or under construction, and the level of competition on the market. The body shall publish, by 31 July each year at the latest a report outlining its findings on these issues, as well as any measures taken or envisaged to address them and forward this report to the Commission forthwith.
+
+2. On the basis of the report referred to in paragraph 1 the Commission shall, on an annual basis, forward a Communication to the European Parliament and the Council examining issues relating to security of supply of electricity in the Community, and in particular the existing and projected balance between  demand and supply. Where appropriate, the Commission shall issue recommendations."
+
+(8) In Article 7, paragraph 6 is replaced by the following:
+
+"6. Unless the system operator is already fully independent from other activities not relating to the transmission system in terms of ownership, the system operator shall be independent at least in terms of its legal form, organisation and decision making from other activities not relating to transmission.
+
+In order to ensure the independence of the system operator, the following criteria shall apply:
+
+(a) those persons responsible for the management of the transmission system may not participate in company structures of the integrated electricity undertaking responsible, directly or indirectly, for the day-to-day operation of the generation, distribution and supply of electricity;
+
+(b) appropriate measures must be taken to ensure that the personal interests of the persons responsible for the management of the transmission system are taken into account in a manner that ensures that they are capable of acting independently;
+
+(c) the system operator must exercise full control over all assets necessary to maintain and develop the network;
+
+(d) the system operator must establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded. The programme must set out the specific obligations of employees to meet this objective. It must be drawn up and its respect monitored by a compliance officer appointed by and reporting to the President/Chief Executive of the integrated electricity undertaking to which the system operator belongs. An annual report, setting out the measures taken, must be submitted by the compliance officer to the national regulatory authority and published."
+
+(9) The following Article 7a is inserted:
+
+"Article 7a
+
+Transmission system operators shall procure the energy they use for the carrying out of their functions according to transparent, non-discriminatory and market based procedures."
+
+(10) In Article 8, the following paragraphs 5 and 6 are added:
+
+"5. Member States may require transmission system operators to meet minimum levels of investment for the maintenance and development of the transmission system, including interconnection capacity.
+
+6. Rules adopted by transmission and distribution system operators for balancing, in real time, generation and consumption of electricity, shall be transparent and non-discriminatory. Tariffs and terms and conditions for the provision of such services by system operators shall be established in a non-discriminatory way reflecting prevailing market prices and shall be fixed or approved by the national regulatory authority prior to their entry into force."
+
+(11) In Article 10, the following paragraph 4 is added:
+
+"4. Unless the system operator is already fully independent from other activities not relating to the distribution system in terms of ownership, the system operator shall be independent at least in terms of its legal form, organisation and decision making from other activities not relating to distribution.
+
+In order to ensure the independence of the system operator, the following criteria shall apply:
+
+(a) those persons responsible for the management of the distribution system may not participate in company structures of the integrated electricity undertaking responsible, directly or indirectly, for the day-to-day operation of the generation, transmission and supply of electricity;
+
+(b) appropriate measures must be taken to ensure that the personal interests of the persons responsible for the management of the distribution system are taken into account in a manner that ensures that they are capable of acting independently;
+
+(c) the system operator must exercise full control over all assets necessary to maintain and develop the network;
+
+(d) the system operator must establish a compliance programme, which sets  out measures taken to ensure that discriminatory conduct is excluded. The programme must set out the specific obligations of employees to meet this objective. It must be drawn up and its respect monitored by a compliance officer appointed by and reporting to the President/Chief Executive of the integrated electricity undertaking to which the system operator belongs. An annual report, setting out the measures taken, must be submitted by the compliance officer to the national regulatory authority and published.
+
+The provisions of the first and second subparagraphs shall apply from 1 January 2003. Member States may decide not to apply those provisions to integrated electricity undertakings serving less than 100 000 customers at that date."
+
+(12) The following Article 12a is inserted:
+
+"Article 12a
+
+The rules in Articles 7(6) and 10(4) do not prevent the operation of a combined transmission and distribution system operator, which is fully independent in terms of its legal form, organisation and decision making from other activities not relating to transmission or distribution system operation and which meets the requirements of Article 7(6)."
+
+(13) In Article 14, paragraph 3 is replaced by the following:
+
+"3. Integrated electricity undertakings shall, in their internal accounting, keep separate accounts for their generation, distribution and supply activities, and, where appropriate, consolidated accounts for other, non-electricity activities, as  they would be required to do if the activities in question were carried out by  separate undertakings, with a view to avoiding discrimination, cross-subsidisation and distortion of competition. The internal accounts shall include a balance sheet and a profit and loss account for each activity."
+
+(14) Article 15 is deleted.
+
+(15) Article 16 is replaced by the following:
+
+"Article 16
+
+1. Member States shall ensure the implementation of a system of third party access to the transmission and distribution systems based on published tariffs, applicable to all eligible customers and applied objectively and without discrimination between system users. These tariffs shall be approved prior to their entry into force by a national regulatory authority established in conformity with Article 22.
+
+2. The operator of a transmission or distribution system may refuse access where it lacks the necessary capacity. Duly substantiated reasons must be given for such refusal, in particular having regard to Article 3."
+
+(16) Articles 17 and 18 are deleted.
+
+(17) Article 19 is replaced by the following:
+
+"Article 19
+
+1. Member States shall ensure that all non-domestic customers are free to purchase electricity from the supplier of their choice from 1 January 2003 at the latest. They shall ensure that all customers are free to choose their supplier from 1 January 2005 at the latest.
+
+2. To avoid imbalance in the opening of electricity markets:
+
+(a) contracts for the supply of electricity with an eligible customer in the system of another Member State shall not be prohibited if the customer is considered as eligible in both systems involved;
+
+(b) in cases where transactions as described in subparagraph (a) are refused because of the customer being eligible only in one of the two systems, the Commission may oblige, taking into account the situation in the market and the common interest, the refusing party to execute the requested electricity supply at the request of the Member State where the eligible customer is located."
+
+(18) In Article 20, paragraph 4 is replaced by the following:
+
+"4. In the event of cross-border disputes, the dispute settlement authority shall be the dispute settlement authority covering the system operator which refuses use of, or access to, the system."
+
+(19) Article 22 is replaced by the following:
+
+"Article 22
+
+1. Member States shall establish national regulatory authorities. These authorities shall be wholly independent of interests of the electricity industry. They shall at least have the sole responsibility:
+
+(a) to fix or approve terms and conditions for connection and access to national networks, including transmission and distribution tariffs;
+
+(b) to fix or approve tariffs, or changes in tariffs at national level, to reflect costs or revenues related to cross border transmission of electricity;
+
+(c) to define the rules on the management and allocation of interconnection capacity, in conjunction with the national regulatory authority or authorities of those Member States with which interconnection exists;
+
+(d) to fix or approve any mechanisms to deal with congested capacity within the national electricity system;
+
+(e) to ensure the respect of the requirements set out in Article 3(3) and (4).
+
+2. Member States shall create appropriate and efficient mechanisms for regulation, control and transparency so as to avoid any abuse of dominant position, in particular to the detriment of consumers, and any predatory behaviour. These mechanisms shall take account of the provisions of the Treaty, and in particular Article 82 thereof.
+
+3. Member States shall ensure that the appropriate measures be taken, including administrative action or criminal proceedings in conformity with their national law, against the natural or legal persons responsible where confidentiality rules imposed by this Directive have not been respected."
+
+(20) The following Article 23a is inserted:
+
+"Article 23a
+
+Member States shall inform the Commission by 31 March of each year at the latest of imports of electricity that have taken place during the previous calendar year from third countries."
+
+(21) Article 26 is replaced by the following:
+
+"Article 26
+
+The Commission shall review the application of this Directive and submit a report to the European Parliament and the Council, by [indicate a date] at the latest and by [indicate a date] at the latest, on the experience gained and progress made in creating a complete and fully operational internal market in electricity in order to allow the European Parliament and the Council to consider, in due time, the possibility of provisions for further improving the internal market in electricity. In particular, the report shall examine the extent to which the unbundling and tarification requirements of this Directive have been successful in ensuring fair and non-discriminatory access to the Community's electricity system. The report shall also examine possible  necessary harmonisation requirements that are not linked to the provisions of this Directive."
+
+(22) The Annex, the text of which is set out in Annex I to this Directive, is added.
+
+Article 2
+
+Amendments to Directive 98/30/EC
+
+Directive 98/30/EC is amended as follows:
+
+(1) Article 2 is amended as follows:
+
+(a) the following point 12a is inserted:
+
+"12a. 'ancillary services' shall mean all services necessary for the operation of transmission and/or distribution networks and/or LNG facilities, including storage facilities and equivalent flexibility instruments, load balancing and blending;"
+
+(b) the following point 20a is inserted:
+
+"20a. 'non-domestic customer' shall mean a consumer purchasing natural gas which is not for his own household use and shall include power generators, natural gas undertakings and wholesale customers;"
+
+(2) Article 3 is replaced by the following:
+
+"Article 3
+
+1. Member States shall ensure, on the basis of their institutional organisation and with due regard for the principle of subsidiarity, that, without prejudice to paragraph 2, natural gas undertakings are operated in accordance with the principles of this Directive with a view to achieving a competitive market in natural gas. Member States shall not discriminate between such undertakings as regards either rights or obligations.
+
+2. Having regard to the relevant provisions of the Treaty, in particular Article 86 thereof, Member States may impose on natural gas undertakings, in the general economic interest, public-service obligations which may relate to security, including security of supply, regularity, quality and price of supplies, and to environmental protection. Such obligations shall be clearly defined, transparent, non-discriminatory and verifiable. As a means of carrying out public-service obligations in relation to security of supply, Member States may introduce the implementation of long-term planning, taking into account the possibility of third parties seeking access to the system.
+
+3. Member States shall take appropriate measures to protect final customers and to ensure high levels of consumer protection, particularly with respect to transparency regarding contractual terms and conditions, general information and dispute settlement mechanisms. These measures shall include, in particular, those set out in the Annex.
+
+4. Member States shall implement appropriate measures to achieve the objectives of social and economic cohesion, environmental protection and security of supply, notably through the maintenance and construction of necessary network infrastructure including interconnection capacity.
+
+5. Member States may decide not to apply the provisions of Article 4 with respect to distribution in so far as their application would obstruct, in law or in fact, the performance of the obligations imposed on natural gas undertakings in the general economic interest and in so far as the development of trade would not be affected to such an extent as would be contrary to the interests of the Community. The interests of the Community include, inter alia, competition with regard to eligible customers in accordance with this Directive and Article 86 of the Treaty."
+
+(3) The following Article 3a is inserted:
+
+"'Article 3a
+
+1. Member States shall, every two years, notify the Commission of all measures adopted to fulfil public service obligations, whether or not such measures require a derogation from the provisions of this Directive. This notification shall relate, inter alia, to measures regarding environmental protection, security of supply, protection of customers, including final customers, social and regional cohesion, and the maintenance of service standards.
+
+2. The Commission shall publish, every two years, a report analysing the different measures taken in the Member States to meet high public service standards, together with an examination of the effectiveness of those measures. Where appropriate, the Commission shall make recommendations as to measures to be taken at national level to achieve high public service standards."
+
+(4) The following Article 4a is inserted:
+
+"Article 4a
+
+1. Member States shall designate a body, which may be the independent regulatory authority referred to in Article 22, to monitor security of supply issues. This body shall monitor, in particular, the supply/demand balance on the national market, the level of expected future demand and available supplies, and the level of competition on the market. The body shall publish, by 31 July each year at the latest, a report outlining its findings on these issues, as well as any measures taken or envisaged to address them, and shall forward this report to the Commission forthwith.
+
+2. On the basis of the report referred to in paragraph 1, the Commission shall forward a Communication to the European Parliament and the Council each year examining issues relating to security of supply of natural gas in the Community, and in particular the existing and projected balance between demand and supply. Where appropriate, the Commission shall issue recommendations."
+
+(5) Article 7 is replaced by the following:
+
+"Article 7
+
+1. Member States shall designate or shall require undertakings which own transmission, storage or LNG facilities to designate, for a period of time to be determined by Member States having regard to considerations of efficiency and economic balance, one or more system operators to be responsible for operating, ensuring the maintenance of, and developing the transmission, storage and LNG facilities in a given area and their interconnections with other systems, in order to guarantee security of supply.
+
+2. Each transmission, storage and/or LNG system operator:
+
+(a) shall operate, maintain and develop under economic conditions secure, reliable and efficient transmission, storage and/or LNG facilities, with due regard to the environment;
+
+(b) shall not discriminate between system users or classes of system users, particularly in favour of its related undertakings;
+
+(c) shall provide any other transmission undertaking, any other storage undertaking, any other LNG undertaking and/or any distribution undertaking, sufficient information to ensure that the transport and storage of natural gas may take place in a manner compatible with the secure and efficient operation of the interconnected system.
+
+3. Rules for balancing the gas system adopted by transmission and distribution system operators shall be transparent and non-discriminatory. Tariffs and terms and conditions for the provision of such services by system operators shall be established in a non-discriminatory way reflecting prevailing market prices and shall be fixed or approved by the national regulatory authority prior to their entry into force."
+
+(6) The following Articles 7a and 7b are inserted:
+
+"Article 7a
+
+1. Member States may require transmission system operators to meet minimum levels of investment for the maintenance and development of the transmission system, including interconnection capacity.
+
+2. Unless the transmission system operator is already fully independent from other activities not relating to the transmission system in terms of ownership, the transmission system operator shall be independent at least in terms of its legal form, organisation and decision making from other activities not relating to transmission.
+
+In order to ensure the independence of the transmission system operator, the following criteria shall apply:
+
+(a) those persons responsible for the management of the transmission system may not participate in company structures of the integrated natural gas undertaking responsible, directly or indirectly, for the day-to-day operation of the production, distribution and supply of gas;
+
+(b) appropriate measures must be taken to ensure that the personal interests of persons responsible for the management of the transmission system are taken into account in a manner that ensures that they are capable of acting independently;
+
+(c) the transmission system operator must exercise full control over all assets necessary to maintain and develop the network;
+
+(d) the transmission system operator must establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded. The programme must set out the specific obligations of employees to meet this objective. It must be drawn up and its respect monitored by a compliance officer appointed by and reporting to the President/Chief Executive of the integrated natural gas undertaking to which the transmission system operator belongs. An annual report, setting out the measures taken, must be submitted by the compliance officer to the national regulatory authority and published.
+
+Article 7b
+
+Transmission system operators shall procure the energy they use for the carrying out  of their functions according to transparent, non-discriminatory and market based procedures."
+
+(7) In Article 10, the following paragraph 4 is added:
+
+"4. Unless the distribution system operator is already fully independent from other activities not relating to the distribution system in terms of ownership, the distribution system operator shall be independent at least in terms of its legal form, organisation and decision making from other activities not relating to distribution.
+
+In order to ensure the independence of the distribution system operator, the following criteria shall apply:
+
+(a) those persons responsible for the management of the distribution system may not participate in company structures of the integrated natural gas undertaking responsible, directly or indirectly, for the day-to-day operation of the production, transmission and supply of gas;
+
+(b) appropriate measures must be taken to ensure that the personal interests of persons responsible for the management of the distribution system are taken into account in a manner that ensures that they are capable of acting independently;
+
+(c) the distribution system operator must exercise full control over all assets necessary to maintain and develop the network;
+
+(d) the distribution system operator must establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded. The programme must set out the specific obligations of employees to meet this objective. It must be drawn up and its respect monitored by a compliance officer appointed by and reporting to the President/Chief Executive of the integrated natural gas undertaking to which the distribution system operator belongs. An annual report, setting out the measures taken, must be submitted by the compliance officer to the national regulatory authority and published.
+
+The provisions of the first and second subparagraphs shall apply from 1 January 2004. Member States may decide not to apply those provisions to integrated natural gas undertakings serving less than 100 000 customers at that date."
+
+(8) The following Article 11a is inserted:
+
+"Article 11a
+
+The rules in Article 7a(2) and Article 10(4) do not prevent the operation of a combined transmission and distribution system operator, which is fully independent in terms of its legal form, organisation and decision making from other activities not relating to transmission or distribution system operation and which meets the requirements of Article 7a(2)."
+
+(9) In Article 13, paragraph 3 is replaced by the following:
+
+"3. Integrated natural gas undertakings shall, in their internal accounting, keep separate accounts for their natural gas transmission, distribution, supply, LNG and storage activities, and, where appropriate, consolidated accounts for non-gas activities, as they would be required to do if the activities in question were carried out by separate undertakings, with a view to avoiding discrimination, cross-subsidisation and distortion of competition. The internal accounts shall include a balance sheet and a profit and loss account for each activity."
+
+(10) Articles 14 and 15 are replaced by the following:
+
+"Article 14
+
+1. Member States shall ensure the implementation of a system of third party access to the transmission and distribution system and LNG facilities based on published tariffs, applicable to all eligible customers and applied objectively and without discrimination between system users. These tariffs shall be approved prior to their entry into force by a national regulatory authority established in conformity with Article 22.
+
+2. Transmission system operators shall, if necessary and for the purpose of carrying out their functions including in relation to cross-border transmission, have access to the network of other transmission system operators based on the same conditions and principles as set out in paragraph 1.
+
+Article 15
+
+1. For the organisation of access to storage and equivalent flexibility instruments when technically and/or economically necessary for providing efficient access to the system for the supply of customers, as well as for the organisation of access to other ancillary services, Member States may choose either or both procedures referred to in paragraphs 2 and 3. These procedures shall operate in accordance with objective, transparent and non-discriminatory criteria
+
+2. In the case of negotiated access, Member States shall take the necessary measures for natural gas undertakings and eligible customers either inside or outside the territory covered by the interconnected system to be able to negotiate access to the system so as to conclude supply contracts with each other on the basis of voluntary commercial agreements. The parties shall be obliged to negotiate access to the system in good faith.
+
+Contracts for access to the system shall be negotiated with the relevant system operator or natural gas undertakings. Member States shall require natural gas undertakings to publish their main commercial conditions for the use of the system by [indicate date] at the latest and every year thereafter.
+
+3. Member States opting for a procedure of regulated access shall take the necessary measures to give natural gas undertakings and eligible customers either inside or outside the territory covered by the interconnected system a right of access to the system, on the basis of published tariffs and/or other terms and obligations for use of that system. This right of access for eligible customers may be given by enabling them to enter into supply contracts with competing natural gas undertakings other than the owner and/or operator of the system or a related undertaking."
+
+(11) Article 16 is deleted.
+
+(12) Articles 18 and 19 are replaced by the following:
+
+"Article 18
+
+1. Member States shall ensure that all non-domestic customers are free to purchase gas from the supplier of their choice and shall have the rights of eligible customers for third party access in order to execute such supplies in accordance with Articles 14 and 15 from 1 January 2004 at the latest.
+
+2. Member States shall ensure that all customers are free to purchase gas from the supplier of their choice and have the rights of eligible customers for third party access in order to execute such supplies in accordance with Articles 14 and 15 from 1 January 2005 at the latest.
+
+Article 19
+
+1. To avoid imbalance in the opening of gas markets:
+
+(a) contracts for the supply of gas with an eligible customer in the system of another Member State shall not be prohibited if the customer is considered as eligible in both systems involved;
+
+(b) in cases where transactions as described in subparagraph (a) are refused because the customer is eligible in only one of the two systems, the Commission may oblige, taking into account the situation in the market and the common interest, the refusing party to execute the requested gas supply, at the request of the Member State where the eligible customer is located."
+
+(13) Article 22 is replaced by the following:
+
+"Article 22
+
+1. Member States shall establish national regulatory authorities. These authorities shall be wholly independent of the interests of the gas industry. They shall at least have the sole responsibility:
+
+(a) to fix or approve terms and conditions for connection and access to national networks, including transmission and distribution tariffs, and terms, conditions and tariffs for access to LNG facilities;
+
+(b) to define the rules on the management and allocation of interconnection capacity, in conjunction with the national regulatory authority or authorities of those Member States with which interconnection exists;
+
+(c) to fix or approve any mechanisms to deal with congested capacity within the national gas system;
+
+(d) to ensure the respect of the requirements set out in Article 3(3) and (4).
+
+2. Member States shall create appropriate and efficient mechanisms for regulation, control and transparency so as to avoid any abuse of dominant position, in particular to the detriment of consumers, and any predatory behaviour. These mechanisms shall take account of the provisions of the Treaty, and in particular Article 82 thereof.
+
+3. Member States shall ensure that the appropriate measures be taken, including administrative action or criminal proceedings in conformity with their national law, against the natural or legal persons responsible where confidentiality rules imposed by this Directive have not been respected."
+
+(14) Article 28 is replaced by the following:
+
+"Article 28
+
+The Commission shall review the application of this Directive and submit a report to the European Parliament and the Council, by [indicate date] at the latest and by [indicate date] at the latest, on the experience gained and progress made in creating a complete and fully operational internal market in natural gas in order to allow the European Parliament and the Council to consider, in due time, the possibility of provisions for further improving the internal market in natural gas. In particular, the report shall examine the extent to which the unbundling and tarification requirements of this Directive have been successful in ensuring fair and non-discriminatory access to the Community's gas system The report shall also examine possible necessary harmonisation requirements which are not linked to the provisions of this Directive."
+
+(15) The Annex, the text of which is set out in Annex II to this Directive, is added.
+
+Article 3
+
+Directives 90/547/EEC and 91/296/EEC are repealed with effect from 1 January 2003.
+
+Article 4
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 December 2002 at the latest. They shall forthwith inform the Commission thereof.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+Article 5
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.
+
+Article 6
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+Annex I
+
+"Annex
+
+(Article 3)
+
+Without prejudice to Community rules on consumer protection, in particular Directive 97/7/EC of the European Parliament and of the Council [18] and Council Directive 93/13/EC [19]:
+
+[18]  OJ L 144, 4.6.1997, p. 19.
+
+[19]  OJ L 95, 21.4.1993, p. 29.
+
+(a) Member States shall ensure that final customers have a right to a contract with their electricity service provider that specifies:
+
+-the identity and address of the supplier;
+
+-services provided, the service quality levels offered, as well as the time for the initial connection;
+
+-the types of maintenance service offered;
+
+-the means by which up-to-date information on all applicable tariffs and maintenance charges may be obtained;
+
+-the duration of the contract, the conditions for renewal and termination of services and of the contract;
+
+-Any compensation and the refund arrangements which apply if contracted service quality levels are not met; and
+
+-The method of initiating procedures for settlement of disputes in accordance with point (f).
+
+(b) Member States shall ensure that final customers shall be given adequate notice of any intention to modify contractual conditions and shall be free to withdraw from contracts if they do not accept the new conditions.
+
+(c) Member States shall ensure that transparent information on applicable prices and tariffs, and on standard terms and conditions, in respect of access to and use of electricity services is available to the public, and particularly to final customers.
+
+(d) Member States shall ensure that electricity suppliers specify in the bills sent to each final consumer, the composition of the fuel mix used to generate the electricity that is consumed by the final consumers they supply. The relative costs of the different fuels used to generate a unit of electricity supplied to the final consumers shall be specified and the relative importance of each energy source with respect to the production of greenhouse gases.
+
+(e) Member States shall also implement appropriate measures to protect vulnerable customers.
+
+(f) Member States shall ensure that transparent, simple and inexpensive procedures are available for dealing with final customer complaints. Member States shall adopt measures to ensure that such procedures enable disputes to be settled fairly and promptly with provision, where warranted, for a system of reimbursement and/or compensation. They should follow, wherever possible, the principles set out in Commission Recommendation 98/257/EC [20]."
+
+[20]  OJ L 115, 17.4.1998, p. 31.
+
+Annex II
+
+"Annex
+
+(Article 3)
+
+Without prejudice to Community rules on consumer protection, in particular Directive 97/7/EC of the European Parliament and of the Council [21] and Council Directive 93/13/EC [22]:
+
+[21]  OJ L 144, 4.6.1997, p. 19.
+
+[22]  OJ L 95, 21.4.1993, p. 29.
+
+(a) Member States shall ensure that final customers have a right to a contract with their gas service provider that specifies:
+
+-the identity and address of the supplier;
+
+-services provided, the service quality levels offered, as well as the time for the initial connection;
+
+-the types of maintenance service offered;
+
+-the means by which up-to-date information on all applicable tariffs and maintenance charges may be obtained;
+
+-the duration of the contract, the conditions for renewal and termination of services and of the contract;
+
+-any compensation and the refund arrangements which apply if contracted service quality levels are not met; and
+
+-the method of initiating procedures for settlement of disputes in accordance with point (e).
+
+(b) Member States shall ensure that final customers shall be given adequate notice of any intention to modify contractual conditions and shall be free to withdraw from contracts if they do not accept the new conditions.
+
+(c) Member States shall ensure that transparent information on applicable prices and tariffs, and on standard terms and conditions, in respect of access to and use of gas services is available to the public, and particularly to final customers.
+
+(d) Member States shall also implement appropriate measures to protect vulnerable customers.
+
+(e) Member States shall ensure that transparent, simples and in-expensive procedures are available for dealing with final customers complaints. Member States shall adopt measures to ensure that such procedures enable  disputes to be settled fairly and promptly with provision, where warranted, for a system of reimbursement and/or compensation. They should follow, wherever possible, the principles set out in Commission Recommendation 98/257/EC [23]."
+
+[23]  OJ L 115, 17.4.1998, p. 31.
+
+REGULATION ON CONDITIONS FOR ACCESS TO THE NETWORK FOR CROSS-BORDER EXCHANGES IN ELECTRICITY
+
+EXPLANATORY MEMORANDUM
+
+I. Introduction
+
+The ultimate objective of the Electricity Directive is the creation of a real integrated single market, as opposed to a situation characterised by fifteen more or less liberalised but largely national markets. This objective has not yet been achieved. It is true that cross-border trade - in terms of physical exchanges of electricity between countries - has been progressing over time and is currently equivalent to around 8% of total electricity production. However, this figure is still relatively modest when compared to other sectors of the economy.
+
+There are strong indications that whilst nearly all Member States have implemented the Directive and transmission capacity would be in most cases physically available, for many eligible customers, it still remains organisationally and economically difficult to choose a supplier situated in another Member State.
+
+As regards tariffs, each transmission system operator ("TSO") concerned will require a transmission fee, which is not necessarily coordinated with the transmission fees already payable to other TSOs. As a consequence, due to differences in the structure of the tarification system applied in Member States, the actual amount payable for cross-border access to the system can vary considerably, depending on the TSOs involved and without necessarily a link to the costs actually incurred. Furthermore, in cases were several Member States have to be transited, this situation can lead to "pancaking" of tariffs, if in all systems concerned the operators charge a tariff.
+
+The second key aspect in this context is the limited capacity of the interconnections between national transmission systems. It is expected that in the next decade congestion at the international borders will remain a major limiting factor to free electricity trade between certain regions of Europe. This will result not only from an increasing volume of flows but also from a changing pattern of flows. Therefore, the number of interconnections between systems and the capacity of the existing installations need to be extended.
+
+Given the limitations of interconnection capacities, the principles of allocation of this capacity to market operators will be important in determining which players will profit from the trading possibilities that the internal market offers. Discrimination between market players will occur if no transparent, non-discriminatory rules are set. Incumbents might ward off new market entry, in particular if substantial parts of this capacity are tied up under long-term contracts. This will hinder the development of trade resulting in significantly less advantages from the internal market.
+
+In view of this situation, a harmonised Community framework on tariffs for cross-border transactions and on the allocation of available interconnection capacities is necessary.
+
+The Electricity Directive does not contain specific rules for cross-border transactions. However, this does not mean that this issue can be solved by relying exclusively on national measures. It was in the logic of a gradual approach to implementing the internal electricity market that specific issues remain to be addressed after the principal strategic implementation choices have been made by the Member States. Experience has confirmed the assessment made by the Commission already at an early stage that the issue needs to be addressed through joint action at the Community level.
+
+As a first response, the Commission, in 1998, initiated the creation of the European Regulatory Forum for electricity, the so called "Florence Forum". The Forum brings together representatives of the Commission, of the national administrations, of the European Parliament, of the Council of European Regulators and of the Association of European Transmission System Operators (ETSO). Producers, consumers and operators on the market are also represented. Its objective has been to clarify and discuss possible solutions with all key players, in particular on cross-border tarification and congestion management.
+
+The Florence Forum has proven a highly effective tool in developing consensus on highly complicated, rapidly evolving and controversial issues. Whilst it will remain an important instrument in this respect, in particular because it ensures the representation of industry and consumers, recent experience has demonstrated that the process suffers from a number of disadvantages when it is necessary to reach concrete decisions on specific issues :
+
+*the process is an informal one, based on bi-annual meetings lasting two days. As such it is inappropriate to take concrete decisions on very detailed issues that require in-depth discussions;
+
+*to make progress on any issue requires full consensus of all parties;
+
+*any decisions reached can only be implemented if all parties respect them; there are no procedures to ensure implementation;
+
+*certain issues such as the calculation of the correct level of inter-TSO payments require regular detailed decisions to be taken. The Forum is not able to appropriately address such issues.
+
+In this light, the Commission has concluded that for making final progress on the issues of cross-border transmission tarification and congestion management on interconnections it is now necessary to adopt a legislative instrument for a clear decision-making process, building on the progress achieved at the Forum,.
+
+Against this background, the objective of the draft Regulation is to establish a robust framework for cross-border trade in electricity. The rules contained in the Regulation are as simple as possible and are limited to what is necessary to regulate in EC legislation, in compliance with the principle of subsidiarity. The main objective is to ensure that costs actually incurred by transmission system operators are accurately reflected in charges for access to the system, including interconnections, whilst at the same time excluding excessive transactions costs for cross-border operations.
+
+II. Basic structure of the draft Regulation
+
+With regard to tarification, the system envisaged is based on the principle of compensations between TSOs for transit flows of electricity that they cause one another, including for transit flows commonly denominated as "loop-flows" or "parallel-flows". The draft Regulation provides, therefore, for compensation payments to be received by transmission system operators hosting transit flows of electricity on their network, financed through contributions of those TSOs causing these transit flows. Furthermore, the Regulation provides for a certain degree of harmonisation of charges for access to national systems, as far as such harmonisation is necessary in order to exclude possible distortive effects stemming from different national approaches.
+
+As regards the allocation of available interconnection capacity, the Regulation lays down the main principles, which shall be respected when such allocation is made. In an Annex to the Regulation, further technical details are outlined.
+
+In addition to the basic principles with regard to tarification and congestion management, the draft Regulation provides for the subsequent adoption of guidelines detailing further relevant principles and methodologies. These guidelines can be adopted and amended without changing the Regulation in order to allow rapid adaptation to changed circumstances. In fact, for instance, on issues such as cost calculation methodologies and the concrete identification and measurement of physical flows, there has been continuous progress in the past and further refinements and improvements can be expected in future.
+
+The Regulation empowers the Commission with certain regulatory competencies, as far as this is necessary to ensure the functioning of the internal market. Thus, the Commission adopts and amends the above mentioned guidelines and determines, on a regular basis, the level of the compensation payments to be made between TSOs. In order to ensure the involvement of Member States' regulatory authorities in this process, the Commission would take these decisions after consultation of a committee made up of representatives of Member States, created in accordance with Council Decision 1999/468 laying down the procedures for the exercise of implementing powers conferred on the Commission ("Comitologie"). For the purpose of the determination of the level of the compensation payments, the draft Regulation foresees an advisory committee [24], to allow rapid decisions, whereas for the purpose of the adoption of the guidelines, a regulatory committee [25] is foreseen.
+
+[24]  Before taking a decision, the Commission consults the committee, which delivers an opinion of which the Commission shall take utmost account.
+
+[25]  Unlike in case of an advisory committee, under a regulatory committee procedure the Commission can be forced to incorporate the committee's opinion in the intended decision.
+
+Regarding the representation of Member States in the committee, it is important to note that Article 22 of the Electricity Directive, after its amendment proposed by the Commission [26], stipulates that national regulatory authorities shall, inter alia, have the sole responsibility at national level with respect to the definition of methodologies for cross-border transmission, including the setting of tariffs.
+
+[26]  Proposal from the Commission for a Directive of the European Parliament and of the Council amending Directives 96/92/EC and 98/30/EC concerning common rules for the internal market in electricity and natural gas.
+
+III. Main contents of the rules contained in the draft Regulation
+
+1. Compensations for transit flows of electricity
+
+Unlike in other sectors involving transport, such as rail and road transport, tariffs for the transmission of electricity cannot be fixed with reference to the distance between the producer and the consumer of the electricity. In fact, the physical flows of electricity do not necessarily coincide with the contractual relationship between the seller and the buyer: if a generator in northern Europe sells electricity to a consumer in southern Europe, this does not mean that the electrons produced by the generator will actually flow from north to south. It will rather mean a shift of the power balance towards the south.
+
+However, even if not clearly attributable to individual economic transactions, trade in electricity gives rise to physical flows within and between transmission systems. It implies in practice that a certain amount of power is injected into the transmission system of the exporting Member States while at the same time the same amount of power is extracted for consumption from the transmission system of the importing Member State. It is thus appropriate and generally accepted that exporters and/or importers pay the national network charges applicable to generation in the exporting country and/or to consumption in the importing country.
+
+However, in the interconnected European electricity system, exports of electricity not only affect the networks of the exporting and the importing countries. Export transactions are susceptible to cause flows of electricity also in countries where the electricity is neither injected into the network nor taken out for consumption. This seems plausible in case of a transaction between non-neighbouring countries, i.e. where the "direct path" to the consumer necessarily leads through the transmission system of a third. In addition, however, due to the physical laws determining the "behaviour" of electricity on the network, export transactions often cause physical flows in countries which are not on the - theoretical - direct path of the  electricity [27]. Such transit flows are commonly denominated as "loop-flows" or "parallel-flows".
+
+[27]  In a simulation, it has been shown, for instance, that in case of a transport of 1 000 MW from Northern France only around 60% of the electricity reaches Italy "directly", i.e. by crossing the French-Italian border or through Switzerland. The remainder reaches Italy "indirectly" causing flows on the network in Belgium, the Netherlands, Germany, Austria and Slovenia.
+
+In a liberalised, competitive market, transmission system operators need to be compensated for costs incurred by such transit flows of electricity. Otherwise, the local network users would be burdened with those costs, despite the fact that the flows of electricity concerned are entirely caused by market actors located in other transmission system areas.
+
+Against this background, the draft Regulation contains a system based on three elements:
+
+First, it stipulates that transmission system operators shall receive compensations for costs incurred by hosting transit flows of electricity on their network (Article 3(1)).
+
+Secondly, it sets rules on the determination of the costs incurred from transits. In fact, whilst a compensation for such costs is necessary, it must be ensured that these compensations are indeed cost-reflective. The costs actually incurred by such flows need to be accurately determined, in order to avoid windfall profits and excessive transaction costs.
+
+The draft Regulation opts in this respect for a model under the forward looking long-run average incremental costs that a network bears from hosting transits are identified and taken into account, compared to a situation without transits.
+
+The reasoning underlying this approach is the prevention of "windfall contributions" by TSOs hosting transits, in practice to the benefit of TSOs of those Member States which are located in the centre of the European electricity system and at the expense of those in peripheral countries. In fact, the core horizontal network of every national network is constructed for the service of domestic customers. This core network must be constructed irrespective of the existence of transits.On the other hand, TSOs may have additional costs in taking specific measures to deal with transits. This may involve, for example, additional administrative measures, additional operational requirements for the management of transits, arrangements regarding losses, and additional investment through new lines or the reinforcement of existing lines. Such costs are clearly specific costs incurred by transits and TSOs must be able to recover them. It will be necessary to ensure adequate return on investment for new installations needed to host transits, in order to provide appropriate incentives for operators to make such investment. Finally, in order to be cost-reflective, benefits stemming from transits should also be taken into account, for instance in case transit flows contribute to the overall stabilisation of a national network.
+
+Finally, the appropriate way of financing the compensations must be determined. In this context, it must be taken into account that transits are caused by export/import transactions. However, apart from exceptional cases, it is technically not - yet - possible to identify whether and to what extent an individual exporter/importer causes transits. Therefore, the draft Regulation does not foresee a mechanism whereby individual exporters or importers are directly held responsible for transit flows. Instead, it stipulates that the operators of transmission systems from which transits originate and/or the operators of the systems where these flows end (exporting and/or importing TSOs) shall - on a pro rata basis - pay the compensations (Article 3(2)).
+
+In order to ensure accurate and rapid decisions on the level of the compensations to be made and received between TSOs, the draft Regulation stipulates that the Commission would make, on a regular basis, the decisions on these compensation payments (Article 3(3)). Member States' regulatory authorities would, however, be involved in this process through an advisory committee made up of representatives of Member States, created in accordance with Council Decision 1999/468/EC laying down the procedures for the exercise of implementing powers conferred on the Commission. ("Comitologie"), which the Commission would consult prior to making its final decision.
+
+It should be noted that the Community budget will not be affected by these compensation payments since they would be made directly between TSOs concerned.
+
+In order to recuperate the payments made to finance the compensations, the TSOs are required to adapt their national tariff system accordingly (Article 4(3)).
+
+As regards the manner in which this adaptation is made, one possibility could be to charge exporters and/or importers with these costs, on the grounds that this is the fair and cost-reflective solution since the exporters and/or importers cause the flows in question.
+
+However, such a solution would result in some important disadvantages. First, as already explained, it is in general impossible to determine whether and to what extent individual export transactions lead to physical transit and loop-flows. Commercial export transactions may not lead to any physical flows, namely in case of two cross-border transactions involving counterflows between systems. To require in such a situation exporters to pay a specific charge could not be considered fair or cost-reflective. Also, participants of an internationally operating power exchange would not know the exact amount of due cross-border charges before the daily close of exchange, because only after that, the exchange could determine the traded energy per TSO area. This would lead to the unpredictability of transmission charges and, thus, prices of electricity. Finally, low transaction costs and the resulting potential for trade benefit all consumers and generators in the internal market. It leads to increased competition and a bigger market for generators, which is particularly important in case of over-capacities at the national level.
+
+In view of these considerations, the draft Regulation stipulates that whilst payments and receipts resulting from the compensation mechanism shall be taken into account when setting network tariffs, this shall not lead to a specific tariff to be paid only by exporters or importers (Article 4(4)).
+
+2. Harmonisation of national network charges
+
+As explained, exporters and/or importers pay the national network charges applicable to generation in the exporting country and/or to consumption in the importing country. If these charges, in particular those on generation, differ considerably between Member States, the market will be distorted. In fact, since generators will have to incorporate in their power pricing the costs arising from the network charges they have to pay, generators with low network charges will have a competitive advantage compared to those with high charges.
+
+The levels of the network charges depend on the general structure of the national tariff system, the cost calculation principles applied and, of course, the particularities of the national networks concerned.
+
+An important element of the structure of national tariff systems in the context of cross-border trade is therefore the ratio between the costs allocated to generation and the costs allocated to consumption. It is clear, for instance, that generators in a country where all network costs are paid by consumers are in a better position than a producer from a country where generators are charged a proportion of these costs when competing in the internal market. Therefore, this ratio and/or the absolute level of the network charges applied to generation need to be harmonised in order to ensure competitive neutrality.
+
+In view of these considerations, the draft Regulation foresees that the network costs shall mainly be recovered through charges imposed on consumption (Article 4(2)). However, a lower proportion of the total costs charged on network users may be recovered through a charge on generation. This enables national regulatory authorities to include locational signals in the tariff structure, in order to send signals on the most appropriate and inappropriate zones to locate new generation, e.g. in view of local circumstances with regard to network losses and network congestion. The draft Regulation stipulates that, where appropriate, charges should contain elements providing such locational signals. Such locational signals, for example, will need to be in place as an integral part of the cross-border tarification system established by this Regulation, and in particular taking into account of Article 4(4).
+
+Even if a sufficient degree of harmonisation of the ratio between generation and consumption charges and/or of the absolute level of the charges applied to generation is achieved, considerable differences in the level will persist if cost accounting principles differ significantly. On the other hand, the specific circumstances prevailing in each national system need to be taken into account. Therefore, complete harmonisation of the level of the charges would not be appropriate However, basic principles should be identical in all Member States. Therefore, the draft Regulation stipulates that access charges shall be cost-reflective, transparent, approximated to those of an efficient network operator and be applied in a non-discriminatory manner. They shall also not be related to the distance between the generator and the consumer.
+
+As regards the payments and receipts resulting from the compensation mechanism for transits, the draft Regulation stipulates that they shall be taken into account when setting the charges. In fact, in order to ensure a maximum of cost-reflectiveness of the charges actually applied and fixed in advance, i.e. before the precise result of the compensation mechanism is known, it is necessary to anticipate, as far as reasonably possible, the likely outcome of the mechanism (Article 4(3)).
+
+3. Guidelines on details with regard to principles and methodologies (Article 7)
+
+The draft Regulation contains in Article 3 and 4 the main principles with regard to cross-border tarification.
+
+However, in order to ensure that these basic principles are applied in a consistent manner throughout the Community, it may prove necessary to provide more detail with regard to those principles. On the other hand, in particular with regard to technical details, such as cost calculation methodologies and technical possibilities to identify and measure physical flows, there has been continuous progress in the past and further refinements and improvements can be expected in future.
+
+In view of these considerations, the draft Regulation does not fix these details but provides for their determination in guidelines (Article 7). These guidelines must be in compliance with the principles laid down in the Regulation. They would be adopted and amended by the Commission, after consultation of a regulatory committee made up of Member States' experts, created in accordance with Council Decision 1999/468 laying down the procedures for the exercise of implementing powers conferred on the Commission ("Comitologie"), in order to ensure involvement of Member States regulatory authorities in this process, in particular their National Regulator.
+
+The guidelines would be adopted, where appropriate, with regard to the following issues:
+
+(a) With regard to the inter-transmission system operator compensation mechanism mentioned in Article 3 of the Regulation:
+
+-the precise details of methodologies to determine the amount of transits hosted and exports/imports of electricity made, in accordance with the principles mentioned in Article 3(5) of the Regulation;
+
+-the methodology to determine the costs incurred by hosting transits of electricity, in accordance with the principles mentioned in Article 3(6) of the Regulation;
+
+-details on the determination of the TSOs which have to pay the compensations for transit flows, in accordance with Article 3(2) of the Regulation;
+
+-details of the payment procedure to be followed, in accordance with the principles mentioned in Article 3(3) of the Regulation, including the determination of the first period of time for which compensations shall be made;
+
+-details on the participation of national systems which are interconnected through direct current lines in the inter-transmission system operator compensation mechanism.
+
+(b) With regard to national tariff systems mentioned in Article 4 of the Regulation:
+
+-details regarding the harmonisation of the levels of tariffs applied to generators and consumers (load) under national tariff systems, in accordance with the principles mentioned in Article 4(2) of the Regulation.
+
+National regulatory authorities would ensure that national tariffs are set and applied in compliance with the principles laid down in this Regulation and the guidelines adopted (Article 8).
+
+4. Allocation of interconnection capacity (Articles 5 and 6)
+
+Congestion in the sense of the draft Regulation is a situation in which the capacity of an interconnection between national transmission systems is insufficient to accommodate all transactions resulting from international trade by market operators [28]. In such a situation, it is important that the limited available capacity is allocated to undertakings under conditions compatible with the competitive circumstances that now prevail on the internal electricity market. At the same time, special measures need to be taken to ensure system security.
+
+[28]  It should be noted that in the technical jargon the term "congestion" is often also used to describe a situation of lack of capacity within a national transmission system.
+
+The draft Regulation lays down the main principles, which shall be respected when meeting these requirements. In order to maintain the reliability of the European network, information exchange and cooperation between transmission system operators is of primordial importance, in particular in view of the changing patters of transactions and thus physical flows under the new circumstances of an open market. Transmission system operators have to know in advance the flows that they can expect on their network. Therefore, the draft Regulation contains in Article 5(1) an obligation to implement coordination and information exchange mechanisms for this purpose. In order to allow an optimal use of the available interconnection capacity, information regarding the capacity actually available must be made public to market parties. Currently, the transfer capacities on the interconnections in Europe are being published for winter and summer values. However, to ensure an optimal use of the available capacities, its publication must be more regular than that, i.e. at several time intervals before the day of transport, which is therefore required by the draft Regulation (Article 5(3)). Furthermore, it contains an obligation on TSOs to publish their security standards and their operational and planning standards in open and public documents, in order to ensure full transparency of the methodologies used by TSOs when establishing the amount of available capacity (Article 5(2)).
+
+The draft Regulation also stipulates that the maximum capacity of the interconnections shall be made available to market operators, that complies with the safety standards of secure network operation, and that any allocated capacity that is not used by a market actor should be reattributed to the market.
+
+As regards the allocation of interconnection capacity by TSOs in case of network congestion problems, the draft Regulation stipulates that market-based solution shall be applied which give efficient economic signals to market operators and transmission system operators involved (Article 6(1)). There are several specific methodologies, which comply with this requirement. An examination of the current state of the European markets leads to the conclusion that in Continental Europe the - in practice - most feasible methods seem to be for the moment implicit and explicit auctions combined with cross border coordinated redispatching. Recent experience, however, illustrates the significant limitations of this approach. Thus, further improvements in this respect and continued re-examination of alternative approaches are necessary. In particular, regarding the medium term, it is widely recognised that a very efficient and transparent way to deal with scarce interconnection capacity is the system of market splitting [29] currently operated in the Nordpool. Its introduction as soon as possible should be envisaged, however adapted to the network topology and market circumstances of Continental Europe.
+
+[29]  Under a system of market splitting, the optimal use of the interconnection is determined on the basis of a comparison of market prices prevailing in the interconnected markets concerned.
+
+As regards the revenues from congestion management, the Regulation stipulates that they shall be used to guarantee the reliability of the allocated capacity, towards investment into the network maintaining or increasing the capacity of the interconnection, or towards the lowering of the network tariffs. In any event, the congestion revenues shall not constitute a source of extra profit (Article 6(6)).
+
+Based on the above rules and principles, detailed technical provisions and requirements regarding the management and allocation of interconnection capacities, based on the guidelines agreed between the Commission, national regulators and Member States at the Florence Forum, are contained in an Annex to the draft Regulation. In order to allow that experience which is constantly being developed can be taken into account in a flexible manner, for instance with regard to various allocation methods, the Commission would amend these guidelines, after consultation of the regulatory committee made up of Member States' experts, which the draft regulation provides for (see above under point 3 and Article 7(2) of the draft regulation).
+
+National regulatory authorities would ensure that methodologies for congestion management are designed and applied in compliance with the principles laid down in the Regulation and the guidelines (Article 8).
+
+5. Provision of information and confidentiality (Article 9)
+
+In order to adopt the guidelines and decide on the compensations to be made for transits between TSOs, the Commission needs to have access to the relevant information and data. Consequently, the draft Regulation stipulates that this information shall be provided by Member States and national regulatory authorities, on request.
+
+The Commission shall in turn ensure that this information is treated confidentially.
+
+In addition, the Commission may obtain all necessary information directly from the undertakings concerned, where necessary to fulfil its tasks under the Regulation.
+
+6. Conclusions
+
+The adoption of this draft Regulation is an important part of the Community strategy to complete the internal electricity market. Through the provision of fair, cost-reflective, transparent and directly applicable rules with regard to tarification and the allocation of available interconnection capacities - completing the provisions contained in the Electricity Directive, it will ensure efficient access to transmission systems for the purpose of cross-border transactions.
+
+Its entry into force at this time, i.e. together with the revision of the Electricity Directive providing for complete market opening, will ensure that such market opening translates into effective cross-border trade in practice. The Regulation is thus a key instrument to promote the creation of a real internal electricity market, as opposed to a situation characterised by fifteen more or less liberalised but largely national markets.
+
+The financial implications of the Regulation for the Community budget would amount to around EUR 850 000 per year. In the year 2002, these financial needs would be made available under the Energy Framework Programme (ETAP programme). As regards the subsequent years, a proposal for a new Energy Framework Programme, succeeding the current one which expires in 2002, will be made in 2001, in accordance with the work programme of the Commission for 2001. This new proposal will take into account the financial needs for the action in the coming years.

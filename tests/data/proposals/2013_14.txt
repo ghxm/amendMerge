@@ -1,0 +1,2243 @@
+EUR-Lex - 52013PC0027 - EN
+
+|
+
+52013PC0027
+
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Railways and repealing Regulation (EC) No 881/2004 /* COM/2013/027 final - 2013/0014 (COD) */
+
+EXPLANATORY MEMORANDUM
+
+1.           CONTEXT OF THE PROPOSAL
+
+1.1.        Recent EU policydevelopments in the railway field
+
+In its White Paper ‘Roadmap to a SingleEuropean Transport Area — Towards a competitive and resource efficienttransport system’, adopted on 28 March 2011 (‘the 2011 White Paper’), theCommission set out its vision of a Single European Railway Area, i.e. an internalrailway market in which European railway undertakings could provide serviceswithout unnecessary technical and administrative barriers.
+
+The European Council conclusions of January2012 also highlight the importance of releasing the growth-creating potentialof a fully integrated Single Market, for network industries as well as others[1].Furthermore, the Commission Communication on Action for Stability, Growth andJobs adopted on 30 May 2012[2] stresses the importanceof reducing further the regulatory burden and barriers to entry in the railsector, making country-specific recommendations for this purpose. And on 6 June2012, the Commission adopted the Communication on strengthening the governanceof the single market, which likewise stresses the importance of the transportsector[3].
+
+In the last decade, the EU railway markethas seen massive changes, gradually introduced by three legislative ‘railwaypackages’ (and some accompanying acts) intended to open up the national marketsand make railways more competitive and interoperable at EU level, whilemaintaining a high level of safety. However, despite the considerabledevelopment of EU laws and other measures (the ‘EU acquis’) establishingan internal market for rail transport services, the railways’ share of intra-EUtransport has remained modest. The Commission has therefore come forward with aFourth Railway Package to enhance the quality and efficiency of rail servicesby removing the remaining market obstacles.
+
+The present Regulation is a component ofthe Fourth Railway Package focusing on the removal of remaining administrativeand technical barriers, in particular by establishing a common approach tosafety and interoperability rules to increase economies of scale for railwayundertakings active across the EU, decreasing administrative costs andaccelerating administrative procedures, as well as avoiding disguiseddiscrimination, through a European Union Agency for Railways. It is intended toreplace the original founding Regulation, and add new important tasks to theAgency making it a truly European Railway Authority in the field ofinteroperability and safety.
+
+1.2.        Why to replace existing Regulation881/2004 (as amended) with a new act?
+
+Since 2004, when the original foundingRegulation was drafted, a number of developments have taken place in relationto the European railways and the Agency. There has been mounting evidence onthe functioning of the EU railway internal market, also in relation to itsinteroperability and safety aspects. New legislation emerged which resulted inamending the Agency Regulation (2008) or which developed the existing tasks ofERA without changing its Regulation (e.g. Decision 2011/155/EU).
+
+The impact assessment report accompanyingthis proposal has identified a number of measures which would give new powersto the Agency and streamline existing processes.
+
+Moreover, a number of changes have to beintroduced to improve the functioning of the Agency in result of the evaluationof ERA founding Regulation and of the Agency (2009-2010) as well as therecommendations of the Joint Statement of the Commission, the EuropeanParliament and the Council on decentralised agencies (2012), and the Position paperof the Administrative Board on the future of the Agency (2012). This concernsparticularly improvements to internal structure, governance and decision-makingof the Agency, and its relations with stakeholders.
+
+A new Regulation will also help to clarify thestructure of the legal act (e.g. by removing and renumbering the Articles) andmake it more logical (e.g. by moving some Articles to more relevant Chapters,creating new Chapters and deleting the obsolete ones). Finally, theInteroperability and Safety Directives are also being amended within thislegislative package and they are closely related to the tasks of ERA, thereforethis Regulation has to properly take this into account.
+
+On the basis above, and taking into accountthe advice of the Legal Service, the Commission intends to propose a new ERA Regulationreplacing original Regulation 881/2004. There is a number of changes inrelation to Regulation 881/2004, which can be grouped in three differentcategories:
+
+·                        New provisions: newtasks of the Agency (issuing vehicle authorisations for placing on the market, authorisationsfor placing in service of trackside control-command and signalling sub-systems andsafety certificates), reinforced control over national authorities, more powersin relation to national rules, new source of ERA’s budget (fees and charges),the Board of Appeal; some new provisions – especially in the internalorganisation part – result from the Common Approach on the EU agencies.
+
+·                        Clarification/simplification of existingprovisions: especially in relation to workingmethods, the ERTMS, railway staff, registers, other tasks.
+
+·                        Updates due tothe evolution of the legislative and political framework: provisions concerninginternal structure and operation, as well as references to comitologyprocedures and delegated acts.
+
+·                        Editorial changesin relation to the original Regulation.
+
+1.3.        Links between thisRegulation and the Interoperability and Safety Directives
+
+Directive 2008/57/EC (RailwayInteroperability Directive) and Directive 2004/49/EC (Railway Safety Directive)are closely linked with original Regulation 881/2004. In the 4thrailway package, these Directives are proposed to be recast; they will,nevertheless, remain closely linked with the present Regulation. Thispredominantly stems from the fact that the Agency acts in the fields of railwayinteroperability and safety for which those directives provide the legal basis.
+
+In the present Regulation, the links concernin particular:
+
+–                        technical specifications for interoperability(TSIs; Interoperability Directive), common safety targets (CSTs; SafetyDirective) and common safety methods (CSMs; Safety Directive): the Agency isresponsible for drawing up recommendations for them to be adopted by theCommission, and for issuing opinions to the Commission regardingnon-application of TSIs;
+
+–                        safety certificates: the Agency is responsiblefor issuing them, while the full procedure is provided in the Safety Directive;
+
+–                        registers: the Agency is responsible for issuingrecommendations to the Commission regarding specification for registers(referred to in the Interoperability Directive) and their revision, andensuring there are accessible to the public;
+
+–                        authorisations for placing on the market forrailway vehicles and types of vehicles and authorisation for placing in serviceof trackside control-command and signalling sub-systems: the Agency isresponsible for issuing them, while the full procedure for applying for them isprovided in the Interoperability Directive;
+
+–                        telematics applications and European RailTraffic Management System (ERTMS): these are specific areas governed byrelevant TSIs adopted under the Interoperability Directive where the Agency hasan important role to play being a system authority;
+
+–                        notified conformity assessment bodies: theAgency is responsible for supporting and monitoring their activities while theyare created and given tasks by the Interoperability Directive;
+
+–                        national safety authorities: the Agency isresponsible for supporting and monitoring their activities while they arecreated and given tasks by the Safety Directive;
+
+–                        national railway rules: the Agency isresponsible for their examination with a view to their reduction while theprocedure for their notification is provided for in the Safety and InteroperabilityDirectives.
+
+2.           RESULTS OF CONSULTATIONS WITH THEINTERESTED PARTIES AND IMPACT ASSESSMENTS
+
+The Commission services have discussed thedevelopments of the Single European Railway Area with sector representatives onan on-going basis. In 2010-2011 it conducted an ex post evaluation ofRegulation 881/2004 and the functioning of the European Union Agency forRailways[4]. This evaluation, togetherwith the general evaluation of the EU Agencies in 2009, showed the added valueprovided by the Agency and in general a positive opinion of stakeholders inrelation to ERA and its outputs. The results of the evaluation have been usedas an important input and preparatory work to the subsequent process of impactassessment linked with the revision of the Regulation.
+
+The European Commission carried out athorough impact assessment to support legislative proposals on improving the efficiencyand competitiveness of the Single European Railway Area in the field ofinteroperability and safety. An Impact Assessment Steering Group (IASG) wascreated in June 2011 to which all DGs were invited by DG MOVE to participate.
+
+An external consultant drafted an impactassessment support study and conducted a targeted consultation of stakeholders.The targeted consultation started on 18 November 2011 with an internet surveythat finished on 30 December 2011. It was followed by interviews with the mostsignificant stakeholders and a stakeholder workshop at the end of February2012.
+
+Since then, DG MOVE has engaged inbilateral meetings with the sector to gauge their views on what should be donein the Fourth Package in the area of interoperability and safety.
+
+Given the technical nature of theinitiative, no public consultation was carried out. However, the Commission tookcare that all interested parties were consulted in due time and discussionscovered all the key elements of the initiative.
+
+Impact Assessment Board:
+
+On 5 September 2012 the Impact AssessmentBoard met and subsequently gave a positive opinion. The Board’s main recommendationswere incorporated in the impact assessment report:
+
+–                        more statistics and information on stakeholders’consultation were added;
+
+–                        expected synergies with other elements of the FourthRailway Package were added and indirect impacts clarified;
+
+–                        the core measures common to options 2-5 weredescribed in more detail and clarified regarding their differentiation;
+
+–                        the methods used to assess impact were clarifiedand better explained; the logic was brought out by better cross-referencing;
+
+–                        administrative costs for economic actors(railway operators) and the cost to public administrations (nationalauthorities, ERA and the Commission) were distinguished more clearly.
+
+Options identified:
+
+Based on the screening of individualmeasures, the Commission has identified five policy options (options 2-6),besides the baseline scenario. By construction, options 2-5 concern primarilythe level of interaction between the European Union Agency for Railways (ERA orthe Agency) and national authorities and are all capable of tackling the threeoperational objectives. Option 6 is a set of horizontal measures which aremostly independent of the interactions between ERA and national authorities andcan be applied on top of any of the option 2-5, with expected reinforcement ofthe overall final impact.
+
+Option 1: Baseline scenario (do nothing) —continuing on the path that is currently set out for the sector
+
+Option 2: Greater coordination role for theAgency in ensuring a consistent approach to certification of railwayundertakings and vehicle authorisation
+
+Option 3: ERA as a one-stop-shop, where thefinal decision on certification and authorisation remains with the NSAs but ERAperforms entry and exit checks of applications and of the decisions
+
+Option 4: ERA and NSAs share competencies,where the final decision on certification and authorisation is taken by theAgency
+
+Option 5: ERA takes over activities of NSAsin relation to certification of railway undertakings and vehicle authorisation
+
+Option 6: Horizontal measures, includesother legislative and soft measures (beyond sharing the responsibilitiesbetween national authorities and ERA) that could be implemented to improve thecompetitiveness of the rail sector, like    enhancing the role of ERA in thedissemination of railway-related information and training or migrating fromnational technical and safety rules to a system of EU rules (through theidentification of unnecessary rules by ERA and NSAs and then the requirementfor national authorities to remove those rules, as well as limiting thepossibility of adopting new rules).
+
+Impacts of the options: The environmentalimpact of all the options was assessed as positive, though low. The socialimpact of all the options was assessed as low/marginal.
+
+The table below presents the economic benefits(efficiency) and number of objectives met (effectiveness) for combined options:
+
+Option || Efficiency (Total Net Benefit € m) || Effectiveness (number of operational objectives met)
+
+Option 2+6: Further ERA ‘Coordination’ + horizontal measures || 411 || 1
+
+Option 3+6: ERA as One-Stop-Shop+ horizontal measures || 461 || 2
+
+Option 4+6: ERA and NSAs share competencies + horizontal measures || 497 || 3
+
+Option 5+6: ERA takes over activities of NSAs regarding authorisation & certification+ horizontal measures || 476 || 3
+
+It was concluded that Option 4 (combinedwith option 6) was the preferred option as it provides the best balance ofoutcomes in relation to:
+
+–                        the industry, in terms of reduced costs andtimescales for safety certification and vehicle and other sub-systemauthorisation;
+
+–                        cost implications for the EU budget;
+
+–                        the cost impacts on national institutions;
+
+–                        accordance with the subsidiarity andproportionality principles;
+
+–                        addressing the problems identified, and
+
+–                        meeting the objectives.
+
+More information on the impact assessmentand the results of the stakeholder consultation is provided in the Commissionstaff working document accompanying legislative proposals to eliminateremaining administrative and technical barriers in the field ofinteroperability and safety on the EU railway market. It will be published onthe website of the Secretariat-General of the Commission following the adoptionof this legal act.
+
+3.           LEGAL ELEMENTS OF THE PROPOSAL
+
+This section comments on and explains the mainprovisions of the new ERA Regulation, when necessary in relation to amendmentsto the original text of Regulation 881/2004.
+
+CHAPTER 1 PRINCIPLES:
+
+Article 1: the objectives have been revisedto reflect new tasks of the Agency and moved to the recitals; instead, a"subject matter and scope" is given, for clarity.
+
+Article 2: legal status moved here as moreappropriate (previously original Article 22).
+
+Article 3: amended to properly reflect newtypes of acts of the Agency.
+
+CHAPTER 2WORKING METHODS:
+
+New chapter added to cover issues whichwere originally in other chapters but which in fact relate to the methods by whichERA attains its objectives.
+
+Article 4: "working parties"article rewritten for legal clarity, in particular: the reference to AEIF is obsoletenow and can be deleted; original Article 24(4) was moved here instead of thearticle on ERA staff; rules of procedure to be adopted by the Board.
+
+Article 7: "impact assessment"; theoriginal text limited cost-benefit analysis to safety only (Article 6(4)); thistask should not be part of any particular Agency activity, hence the need tomove the paragraphs into a general section, make it generally applicable andprovide clear tasks; this is in accordance with the Position paper of the Boardon the future of ERA and the principles of activity-based budgeting and management.
+
+Article 8: "studies"; previouslyArticle 20 — moved as studies are means of achieving the objectives and nottasks as such.
+
+Article 9: "opinions"; formerlyArticle 10 on Technical Opinions; the word ‘technical’ is deleted, in line withthe directives; paragraph 2a(b) removed as obsolete; paragraph 3 (original paragraph2b) amended to broaden its scope (previously limited to TSIs only, without aclear rationale).
+
+Article 10: "visits to MemberStates"; previously Article 33 — moved to this section as the visits aremeans of achieving the Agency’s objectives.
+
+CHAPTER 3 TASKSRELATING TO RAILWAY SAFETY:
+
+Article 11: "technical support –safety"; minor changes clarifying the Agency’s tasks.
+
+Article 12: "safetycertificates"; new role of ERA (issuing of safety certificates), asproposed in the IA report, in line with the revised Safety Directive.
+
+Article 13: "maintenance of vehicles";new article — left over from original Chapter 3a, simplified and moved to thesafety part as being the most relevant.
+
+Article 14: "transport of dangerousgoods by rail"; new article, formalising what ERA is actually doingalready in the field of transport of dangerous goods by rail.
+
+CHAPTER 4 TASKSRELATING TO INTEROPERABILITY:
+
+Article 15: "technical support – interoperability";amended slightly to reflect changes in the Interoperability Directive (points band c) and to clarify the existing tasks of ERA.
+
+Article 16: "vehicle authorisations";new article — covering ERA’s new role in issuing vehicle authorisations forplacing on the market, as proposed in the IA report, in line with the amendedInteroperability Directive.
+
+Article 17: "authorisations for typeof vehicles"; new article — covering ERA’s new role in issuing authorisationsfor placing on the market for types of vehicles, in line with the amendedInteroperability Directive.
+
+Article 18: "authorisation for placingin service of trackside control-command and signalling sub-systems"; newarticle — covering ERA’s new role regarding authorisation of track-side control-commandand signalling equipment; linked with ERA’s role as the system authority andthe consequences of the new task of issuing of vehicle authorisations forplacing on the market for the ERTMS (in order to ensure that the authorisationsfor placing on the market issued for vehicles with ERTMS equipment on board areconsistent with track-side systems).
+
+Article 19: "telematicsapplications"; new article added to formalise the existing role ERA playsalready, according to TAP/TAF TSI, and in line with the IA report.
+
+Article 20: "support for the notifiedconformity assessment bodies"; amended — provisions on Commissionmonitoring of notified bodies have been moved to the new section on monitoring;the remainder is support for notified bodies (the Commission assigned tasksrelating to the Technical Secretariat of the NB Rail to the Agency as of 20April 2011 and this activity is already on-going; this needs to be properlyreflected in the legislation).
+
+CHAPTER 5 TASKSRELATING TO NATIONAL RULES (moved after the chapter on interoperability):
+
+Articles 21, 22 and 23: "nationalrules"; new articles which incorporate original Articles 9a and 9b, amendedto align procedures with the Interoperability and Safety Directives and takeinto account the extended powers of ERA in relation to national rules resultingfrom the IA report and draft report of the Task Force on National Safety Rules;management of the IT database given clearly to ERA, in order to clarifyprevious mixed responsibilities (Commission and ERA) and to overcome currenttechnical, coordination and ownership problems.
+
+CHAPTER 6 TASKSRELATING TO ERTMS: the ERTMS section deserves a separate new chapter.
+
+Articles 24-28: "ERTMS tasks" theseincorporate the original Article 21a, amended to clarify the responsibilitiesof the Agency and other actors in relation to the ERTMS, to improve ERTMS deployment,and to reflect what ERA is already currently doing in this field; Article 13e amendedin line with preliminary Commission evaluation of four years of technicalfollow-up.
+
+CHAPTER 7 TASKSRELATING TO MONITORING SINGLE EUROPEAN RAILWAY AREA: new chapter — varioustasks related to monitoring are now combined together in one chapter for bettervisibility and clarity.
+
+Article 29: "monitoring of nationalsafety authorities"; new article — new ERA task: control over NSAs, asproposed in the IA report (and in the evaluation of the ERA Regulation).
+
+Article 30: "monitoring of notifiedbodies"; new article — new ERA task: control over notified bodies, asproposed in the IA report.
+
+Article 31: "monitoring progress ofinteroperability and safety"; partly based on original Article 9 (newparagraphs 1 and 2, with ERA’s tasks in relation to safety monitoring nowclarified), on original Article 14 (new paragraphs 3 and 4, with two separatereports on interoperability and safety now merged into one); paragraph 5 — basedon Article 21b (2a), in accordance with the IA report and the evaluation of theERA Regulation.
+
+CHAPTER 8 OTHERTASKS – new chapter combining previous chapters on registers, railway staff andother tasks:
+
+Article 32: "railway staff";combines original Articles 16b, 16c and 17 to simplify: some tasks areobsolete, others are described in Directive 2007/59; amended to avoid legalambiguity and repetition.
+
+Article 33: "registers"; thisarticle combines original Articles 18 and 19, updated and aligned withlegislation.
+
+Article 34: "networks of nationalsafety authorities, investigating bodies and representative bodies"; previouslypartly in original Article 6(5) and Article 9; the network of representativebodies has been added (paragraph 2) to improve and structure coordination ofstakeholders at Agency level; paragraph 3 has been added to improve andstructure consultation of all stakeholders, and ultimately to obtain higherquality outputs from the Agency (in line with the evaluation of ERA Regulationand Position paper on the future of ERA).
+
+Article 35: "communication anddissemination"; new article, formalising partly the existing activities ofERA and stemming from IA report, the evaluation of the ERA Regulation and thePosition paper on the future of the Agency.
+
+Article 36: "research and promotion ofinnovation"; original article with research added, formalising what ERA isalready doing to a large extent; in line with the Position paper of the Boardon the Future of ERA.
+
+Article 37: "assistance to theCommission"; amended slightly.
+
+Article 38: "assistance with theassessment of rail projects"; originally Article 15, scope was extended tocover safety.
+
+Article 39: "assistance to MS andstakeholders"; new article, following the IA report (measure from Option6) and the results of the evaluation of the ERA Regulation.
+
+Article 40: "international relations";new article formalising what ERA is already doing to a large extent; in linewith the IA report and the Position paper of the Board on the Future of ERA.
+
+Article 41: "spare parts"; newarticle — new task in line with the IA report.
+
+CHAPTER 9 ORGANISATIONOF THE AGENCY: drafted largely to follow the Joint Statement of the Commission,the European Parliament and the Council on decentralised agencies and theCommon Approach (2012), in particular in relation to: extended competences ofthe Management Board (previously Administrative); creation of Executive Board;multi-annual work programme; other standard provisions regarding HR andbudgetary issues.
+
+Other important changes:
+
+Article 48: "annual and multi-annualwork programmes"; new, separate article on work programmes deemed usefulfor clarity; in accordance with the Joint Statement and recommendations of the CoA,EP, the evaluation of the ERA Regulation and the Position paper of the ERABoard on the Future of the Agency (multi-annual perspective, ABB and ABM,relations with stakeholders).
+
+Articles 51-57: "Board ofAppeal"; new articles — Board of Appeal necessary following extension ofERA competences (issuing of vehicle authorisations for placing on the marketand safety certificates); IA report provides for the creation of an independentAppeal Body outside the Agency, however, it seems that the solution already inplace at the EASA is more appropriate; based on the relevant provisions of theEASA Regulation.
+
+CHAPTER 10FINANCIAL PROVISIONS:
+
+Article 58(2): new point (c) — new sourcesof ERA income added (external fees and charges for issuing vehicle authorisationsfor placing on the market and safety certificates (new tasks)); new point (e) —to bring it into line with the EASA regulation
+
+CHAPTER 11 STAFF:new chapter, following largely standard provisions resulting from the CommonApproach on agencies (Articles 62 and 63).
+
+Article 61: "staff – generalprovisions"; originally Article 24, amended in accordance with the JointStatement on agencies, the evaluation of the ERA Regulation and the Position paperof the ERA Board on the Future of the Agency; previous limitations of maximumcontract deleted.
+
+CHAPTER 12 GENERALPROVISIONS:
+
+Articles 64, 66-68, 70-72: moved from otherparts of the original Regulation, amended if necessary following JointStatement on agencies.
+
+Article 65: "headquarters agreementand operating conditions"; new article, following the Joint Statement ondecentralised agencies (2012).
+
+Article 69: "cooperation with nationalauthorities and bodies"; new articles resulting from new powers of ERA toissue certificates and authorisations; cooperation with national bodies andauthorities in some cases deemed necessary due to their expertise; possibilityof (sub)contract part of ERA's tasks.
+
+CHAPTER 13 FINALPROVISIONS: new chapter
+
+Article 73 and 74: "delegatedacts"; new articles — following ERA’s new powers (to issue safetycertificates and vehicle authorisations for placing on the market, ownresources) there is a need to adopt delegated measures; this is similar to thecase of EASA.
+
+Article 75: "committee procedure";new article, made in order not to refer to other acts (InteroperabilityDirective).
+
+Article 76: "evaluation andreview"; original article amended in accordance with the Joint Statementon agencies.
+
+ARTICLES WHICH STAYED THE SAME AS INREGULATION 881/2004: 5, 6, 58, 59, 60.
+
+4.           BUDGETARY IMPLICATION
+
+This new Regulation provides a legislativebasis for budgetary and staff commitments in relation to the European UnionAgency for Railways. The detailed calculations are provided in the Annex, inthe Legislative Financial Statement.
+
+It is important to point out that, as faras ERA staffing is concerned, the present act incorporates:
+
+1.           resources calculationsfrom two previous Financial Legislative Statements attached to the originalRegulation 881/2004 and the 2008 amendment to it (Regulation 1335/2008), whichprovided for 104 temporary staff for ERA;
+
+2.           budgetary procedures for 2005-2013by which the Budgetary Authority granted ERA an extra 39 posts to coveradditional tasks not reflected in the founding Regulation, resulting in total143 temporary staff posts in 2013;
+
+3.           the estimated resourcesimplications of the new tasks and enhanced powers of ERA envisaged in thecurrent new Regulation, set at 43 persons.
+
+Regarding point 2, note that thenumber of posts has gradually increased since ERA was set up in 2005. Thischange has been subject to detailed annual scrutiny and has been adopted by thebudgetary authority every year in accordance with the number of posts proposedby the Commission. The main explanation for the difference between point 1 and2 is that a number of functions and activities such as legal affairs, DataProtection Officer, Secretariat for the Administrative Board, internal audit,quality and business planning, economic evaluation (impact assessment),procurement, facilities management, and a Head of Administration were not providedfor in the founding Regulation — or at least not planned to be carried out bydedicated staff. For some areas of activity, including HR, IT and Finance,resource needs were considerably underestimated.
+
+Concerning economic evaluation, thisactivity follows from the fact that ERA was set up to contribute to anintegrated and competitive railway area. It has been an integral part of theAgency’s activities from the beginning — even if no dedicated staff wereprovided for in the financial statement. The need for this activity isunquestionable and has recently grown in line with the Activity-Based Budgetingapproach; this is reflected in the fact that a new Article is proposed forinclusion in the new Agency Regulation.
+
+In addition to these developments, variousCommission acts have given the Agency additional tasks with resourceimplications, without being properly reflected in the financial statement. Forexample, Commission Decision 2011/155/EU on the publication and management ofthe reference document referred to in Article 27(4) of Directive 2008/57/EC putadditional tasks on the Agency in relation to making transparent andsimplifying the processes and rules used for authorising railway vehicles andsubsystems. More specifically, ERA’s role concerns documentation ofauthorisation processes in Member States, documentation of national rulesapplied to the authorisation of railway vehicles and checking of dataconsistencies, support to National Safety Authorities and management andmaintenance of data.
+
+Regarding point 3, the budgetary andstaff implications of new and extended tasks stem principally from the impactassessment calculations, implementation of the recommendations in the JointStatement by the Commission, the European Parliament and the Council ondecentralised agencies, Court of Auditors and Internal Audit Servicerecommendations, and the evaluation of the ERA Regulation. All the changes inlegislation are substantially explained in part 3 of this Memorandum. The totalof 70 persons is estimated to be needed to deal with these new and extendedtasks, with 43 additional staff in relation to the current level of staffing ofthe Agency. These 43 new persons will be dealing with issuing authorisationsand certificates and will be covered by external fees and charges while the remainingneeds of 27 persons will be covered by internal redeployment of existing staffof the Agency. Therefore, there will be no additional impact on the EU budget(except for years 2015 and 2016, when external fees and charges will not beavailable yet).
+
+The planned additional personnel of 43 wouldcover the following categories:
+
+·                        Technical experts (41 persons), to deal withissuing of authorisations for placing on the market of vehicles and vehiclestypes (30), authorisations for placing in service of trackside control-commandand signalling sub-systems (6) and safety certificates (5);
+
+·                        Linked administrative staff (2), including an accountantto deal with management of a planned system of external fees and charges,including cooperation with national authorities.
+
+The external fees and charges would alsocover linked overhead costs, mainly:
+
+·                        Translation of decisions issued by ERA intonational languages;
+
+·                        IT system needed for accountancy purposes(external fees and charges).
+
+The remaining 27 persons, to be covered byinternal redeployment of existing staff of the Agency, would deal with:
+
+·                        Monitoring of national safety authorities andnotified bodies, and implementationof national safety and interoperability legislation ;
+
+·                        Reduction of number of national rules ;
+
+·                        Advice and support to Member States andstakeholders, dissemination of railway-related information and training andcoordination of potential spare parts to be standardised .
+
+The overall budgetary implication of ERA forthe EU budget in 2015-2020 is estimated at € 157.113 M. The cost to the EUbudget of new tasks amounts to € 0.4113 M as from 2017 onwards they will becovered by fees and charges paid by the industry.
+
+There is also impact on Commission resources (inthe DG MOVE). With regard to this, the present Regulation incorporates:
+
+1.           resources calculationsfrom two previous Legislative Financial Statements attached to the originalRegulation 881/2004 and the 2008 amendment to it (Regulation 1335/2008), whichprovided for two officials/temporary staff for the Commission;
+
+2.           changes for 2005-2013, withthree extra Commission staff dealing with ERA-related issues, to coveradditional tasks not reflected in the founding Regulation;
+
+The overall total for the Commission linkedto the current initiative will be 5 persons, with no new staff requested.
+
+2013/0014 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENTAND OF THE COUNCIL
+
+on the European Union Agency for Railways
+
+and repealing Regulation (EC) No881/2004
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THECOUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on theFunctioning of the European Union, and in particular Article 91(1)thereof,
+
+Having regard to the proposal fromthe European Commission,
+
+After transmission of the draft legislativeact to the national Parliaments,
+
+Having regard to the opinion of theEuropean Economic and Social Committee[5],
+
+Having regard to the opinion of theCommittee of the Regions[6],
+
+Acting in accordance with the ordinarylegislative procedure,
+
+Whereas:
+
+(1)       The progressiveestablishment of a European railway area without frontiers requires Unionaction in the field of the technical regulations applicable to railways withregard to the technical aspects (interoperability) and the safety aspects, thetwo being inextricably linked and both requiring higher level of harmonisationat the Union level. Relevant railway legislation, in particular three railwaypackages, was adopted in the last two decades, with Directive 2004/49/EC of theEuropean Parliament and of the Council of 29 April 2004 on safety on theCommunity’s railways and Directive 2008/57/EC of the European Parliament and ofthe Council of 17 June 2008 on the interoperability of the rail system withinthe Community being the most relevant.
+
+(2)       Simultaneous pursuit ofthe goals of railway safety and interoperability requires substantial technicalwork which must be led by a specialised body. That is why it was necessary, aspart of the Second Railway Package in 2004, to create within the existinginstitutional framework, and with respect for the balance of power in the Union,a European agency responsible for railway safety and interoperability(hereinafter referred to as the Agency).
+
+(3)       The European RailwayAgency was originally established by Regulation (EC) 881/2004 of the European Parliament and of the Council of29 April 2004[7], in order to promote the establishment of a European railway area withoutborders and to help revitalise the railway sector while reinforcing itsessential advantages in terms of safety. Regulation 881/2004 has to be replaced by a new act due tosubstantial amount of changes to the tasks of the Agency and its internalorganisation.
+
+(4)       TheFourth Railway Package proposes important changes to improve the functioning ofthe Single European railway area through amendments by way of recast to Directive 2004/49/EC and Directive2008/57/EC, both directly linked to the tasks of the Agency. Those Directives,together with this Regulation, provide in particular for performing tasksrelated to issuing vehicle authorisations and safety certificates at the Unionlevel. It implies a greater role of the Agency.
+
+(5)       The Agency shouldcontribute to the creation and effective functioning of a Single Europeanrailway area without frontiers and guaranteeing a high level of safety whileimproving the competitive position of the railway sector. That should beattained by contributing, on technical matters, to the implementation ofEuropean Union legislation by enhancing the level of interoperability of railwaysystems and to developing a common approach to safety on the European railwaysystem. The Agency should also perform the role of European authorityresponsible for issuing authorisations for placing on the market for railwayvehicles and for types of vehicles, safety certificates for railwayundertakings and authorisations for placing in service of tracksidecontrol-command and signalling sub-systems. Moreover, it should monitor nationalrailway rules and the performance of national authorities acting in the railwayinteroperability and safety fields.
+
+(6)       In pursuing itsobjectives, the Agency should take full account of the process of enlargementof the Union and of the specific constraints relating to rail links with thirdcountries. The Agency should have sole responsibility for the functions andpowers assigned to it.
+
+(7)       The Agency, whileperforming its tasks, and particularly in relation to drafting recommendations,should take upmost account of external railway expertise. This expertise shouldpredominantly consist of professionals from the railway sector and the relevantnational authorities. They should form competent and representative workingparties of the Agency.
+
+(8)       In order to provideinsight into the economic effects on the railway sector and its impact onsociety, to allow others to make informed decisions, and to manage the workpriorities and resource allocation more effectively within the Agency, theAgency should further develop its engagement in the impact assessment activity.
+
+(9)       The Agency should provideindependent and objective technical support, predominantly to the Commission. Directive…. [Railway Interoperability] provides the basis for drafting and revising TechnicalSpecifications for Interoperability (TSIs) while Directive … [Railway Safety] providesthe basis for drafting and revising Common Safety Methods (CSMs) and CommonSafety Targets (CSTs). The continuity of the work and the development of theTSIs, CSMs and CSTs over time require a permanent technical framework and a dedicatedstaff of a specialised body. To this end, the Agency should be responsible forproviding the Commission with recommendations in relation to drafting andrevising the TSIs, CSMs and CSTs. The national safety organisations andregulatory bodies should be equally able to request an independent technicalopinion from the Agency.
+
+(10)     Railway undertakings havebeen faced with various problems when applying for safety certificates tocompetent national authorities, ranging from protracting procedures andexcessive costs to unfair treatment, especially of new entrants. Thecertificates issued in one Member State have not been unconditionallyrecognised in other Member States, with a detriment to the Single European railarea. In order to make the procedures for issuing safety certificates torailway undertakings more efficient and impartial, it is essential to migratetowards a single safety certificate valid throughout the Union and issued bythe Agency. The revised Directive … [Railway Safety Directive] provides a basisfor this.
+
+(11)     Currently Directive 2008/57/ECprovides, in the case of rail vehicles, an authorisation of placing in servicein each Member State, except in specific cases. The Task Force on vehicleauthorisation set up by the Commission in 2011 discussed several cases wheremanufacturers and railway undertakings have suffered from excessive durationand cost of the authorisation process and proposed a number of improvements. Assome problems are due to the complexity of the current vehicle authorisation process,it should be simplified. Each rail vehicle should only receive oneauthorisation and this authorisation for placing on the market for vehicles andfor types of vehicles should be issued by the Agency. This would bring tangiblebenefits for the sector by reducing the costs and time of the procedure, andwould diminish the risk of potential discrimination, especially of newcompanies wishing to enter a railway market. The revised Directive … [Railway Interoperability]provides a basis for this.
+
+(12)     In order to further pursuethe development of Single European rail area, in particular with relation toproviding appropriate information to freight customers and passengers, andtaking into account current involvement of the Agency, it is necessary to giveit a strengthened role in the field of telematics applications. This wouldensure their consistent development and swift deployment.
+
+(13)     Given the importance of theEuropean Rail Traffic Management System (ERTMS) for the smooth development ofthe Single European railway area and its safety, and taking into account itsfragmented development to date, it is necessary to strengthen its s overallcoordination at the Union level. Therefore the Agency, as the most competentUnion body, should be given a more prominent role in this field to ensureconsistent development of the ERTMS, to contribute to ensuring that ERTMSequipment complies with the specifications in force and to ensure thatERTMS-related European research programmes are coordinated with the developmentof ERTMS technical specifications. Moreover, in order to make the proceduresfor issuing authorisations for placing in service of trackside control-commandand signalling sub-systems more efficient and impartial, it is essential to migratetowards a single authorisation valid in the Union and issued by the Agency. Therevised Directive … [Railway Interoperability Directive] provides a basis forthis.
+
+(14)     Competent nationalauthorities have been normally charging for issuing vehicle authorisations and safetycertificates. With the transfer competence to the Union level, the Agencyshould be entitled to charge the applicants for issuing the certificates andauthorisations mentioned in the preceding recitals. The level of those chargesshould be equal to or lower than the current average in the Union and should bedetermined in a delegated act to be adopted by the Commission.
+
+(15)     It is a general objectivethat the transfer of functions and tasks from the Member States to the Agencyshould be done efficiently, without any reduction in the current high levels ofsafety. The Agency should have sufficient resources for its new tasks, and thetiming of the allocation of these resources should be based on clearly definedneeds. Taking into account the know-how of national authorities, in particularthe National Safety Authorities, the Agency should be allowed to makeappropriate use of that expertise when granting the relevant authorisations andcertificates. To this end, secondment of national experts to the Agency shouldbe encouraged.
+
+(16)     Directive … [RailwaySafety] and Directive … [Railway Interoperability] provide for examinationof national measures from the point of view of safety and interoperability, andcompatibility with competition rules. They also limit the possibility forMember States to adopt new national rules. The current system in which a largenumber of national rules continue to exist leads to possible conflicts with Unionrules and creates a risk of insufficient transparency and disguiseddiscrimination of foreign operators, especially the smaller and new ones. Inorder to migrate towards a system of truly, transparent and impartial railway rulesat Union level, gradual reduction of national rules needs to be reinforced. Anopinion based on independent and neutral expertise is essential at Union level.To this end, the role of the Agency needs to be strengthened.
+
+(17)     Performance, organisationand decision-making procedures in the field of railway interoperability andsafety vary substantially among the national safety authorities and notified conformityassessment bodies, with a detrimental effect to smooth operation of the SingleEuropean rail area. In particular, small and medium companies wishing to enterthe railway market in another Member State can be negatively affected.Therefore, a strengthened coordination with a view to greater harmonisation atthe Union level is essential. To this end, the Agency should monitor thenational safety authorities and notified conformity assessment bodies throughaudits and inspections.
+
+(18)     In the field of safety, itis important to ensure the greatest possible transparency and an effective flowof information. An analysis of performance, based on common indicators andlinking all parties in the sector, is important and should be carried out. Asregards statistics, close collaboration with Eurostat is necessary.
+
+(19)     In order to monitorprogress with the railway interoperability and safety, the Agency should beresponsible for publishing a relevant report every two years. Given itstechnical expertise and impartiality, the Agency should also assist theCommission with monitoring the implementation of Union railway safety andinteroperability legislation.
+
+(20)     The interoperability of theTrans-European network should be enhanced and the new investment projectschosen for support by the Union should be in line with the objective ofinteroperability set in Decision No 1692/96/EC of the European Parliamentand of the Council of 23 July 1996 on Community guidelines for thedevelopment of the Trans-European transport network[8].The Agency is the right institution to contribute to these objectives.
+
+(21)     Rolling stock maintenanceis an important part of the safety system. There has been no genuine Europeanmarket for the maintenance of rail equipment owing to the lack of a system forcertification of maintenance workshops. This situation has been adding to thecosts for the sector and results in journeys without loads. A Europeancertification system for maintenance workshops should therefore gradually bedeveloped and updated, with the Agency being the most appropriate body topropose adequate solutions to the Commission.
+
+(22)     The vocational qualificationsrequired for train drivers are a major factor in both safety andinteroperability in the Union. They are also a precondition for the freemovement of workers in the railway industry. This question should be tackledwith respect to the existing framework for social dialogue. The Agency should providethe technical support necessary in order to take account of this aspect at Unionlevel.
+
+(23)     The Agency should organiseand facilitate cooperation between the national safety authorities, the nationalinvestigating bodies and representative bodies from the railway sector actingon at European level, in order to promote good practices, exchange of relevantinformation, collection of railway-related data and monitor the overall safetyperformance of the railway system.
+
+(24)     In order to ensure the greatestpossible transparency and equal access for all parties to relevant information,the documents envisaged for the railway interoperability and safety processesshould be accessible to the public. The same applies to licences, safetycertificates and other relevant railway documents. The Agency should provide anefficient means of exchanging and publishing this information.
+
+(25)     Promotion of innovation andresearch in the railway field is an important task which the Agency shouldencourage, given its reputation and position. Any financial assistance providedwithin the framework of the Agency’s activities in this respect should not leadto any distortion in the relevant market.
+
+(26)     In order to increase theefficiency of the Union financial support, its quality and compatibility withrelevant technical regulations, the Agency, as the only Union body withreputable competence in the railway field, should play an active role in the assessmentof rail projects.
+
+(27)     Railway interoperabilityand safety legislation, implementation guides or recommendations of the Agencymay sometimes pose interpretation and other problems to the stakeholders.Proper and uniform understanding of those acts is a precondition for effectiveimplementation of the railway acquis and the functioning of the railway market.Therefore, the Agency should actively engage in training and explanatoryactivities in that regard.
+
+(28)     In order to perform itstasks properly, the Agency should have legal personality and an autonomousbudget funded mainly through a contribution by the Union and through fees andcharges paid by applicants. In order to ensure independence in its dailymanagement and in the opinions, recommendations and decisions which it issues,the Agency’s organisation should be transparent, the Executive Director shouldhave full responsibility. The Agency’s staff should be independent and should representan appropriate balance of short-term and long-term contracts, in order tomaintain its organisational knowledge and business continuity while keepingnecessary and on-going exchange of expertise with the railway sector.
+
+(29)     In order to ensureeffectively the accomplishment of the functions of the Agency, the MemberStates and the Commission should be represented on a Management Board vestedwith the necessary powers, including to establish the budget and approve the annualand multi-annual work programmes.
+
+(30)     In order to guarantee thetransparency of the Management Board’s decisions, representatives of thesectors concerned should attend its meetings, but without the right to vote,that right being reserved for the representatives of public authorities who areaccountable to the democratic control authorities. The representatives of thesector should be appointed by the Commission on the basis of theirrepresentativeness at Union level of railway undertakings, infrastructuremanagers, railway industry, workers unions, passengers and freight customers.
+
+(31)     In order to properlyprepare the meetings of the Management Board and to advice it in relation tothe decisions to be taken, an advisory Executive Board should be created.
+
+(32)     It is necessary to ensurethat parties affected by decisions made by the Agency enjoy the necessaryremedies in an independent and impartial manner. An appropriate appealmechanism should be set up so that decisions of the Executive Director can besubject to appeal to a specialised Board of Appeal, whose decisions are, inturn, open to action before the Court of Justice.
+
+(33)     A broader strategicperspective in relation to the activities of the Agency would help to plan andmanage its resources more effectively and would contribute to higher quality ofits outputs. Therefore, a multi-annual work programme should be adopted andupdated regularly by the Management Board, after proper consultation of therelevant stakeholders.
+
+(34)     The Agency’s work should betransparent. Effective control by the European Parliament should be ensuredand, to this end, the European Parliament should have the possibility ofhearing the Executive Director of the Agency and being consulted on themulti-annual work programme. The Agency should also apply the relevant Union legislationconcerning public access to documents.
+
+(35)     Over the past years, asmore decentralised agencies have been created, the budgetary authority haslooked to improve transparency and control over the management of the Union fundingallocated to them, in particular concerning the budgetisation of fees,financial control, power of discharge, pension scheme contributions and theinternal budgetary procedure (code of conduct). In a similar way, Regulation(EC) No 1073/1999 of the European Parliament and of the Council of 25 May1999 concerning investigations conducted by the European Anti-Fraud Office(OLAF)[9] should apply withoutrestriction to the Agency, which should accede to the Inter-institutionalAgreement of 25 May 1999 between the European Parliament, the Council ofthe European Union and the Commission of the European Communities concerninginternal investigations by the European Anti-Fraud Office[10].
+
+(36)     Since the objectives of theaction proposed, namely to establish a specialised body to formulate commonsolutions on matters concerning railway safety and interoperability, cannot besufficiently achieved by the Member States by reason of the joint nature of thework to be done, and can therefore be better achieved at Union level, the Unionmay adopt measures in accordance with the principle of subsidiarity as set outin Article 5 of the Treaty. In accordance with the principle ofproportionality as set out in that Article, this Regulation does not go beyondwhat is necessary in order to achieve those objectives,
+
+(37)     In order to properlydetermine the level of fees and charges which the Agency is entitled to levy, thepower to adopt acts in accordance with Article 290 of the Treaty on theFunctioning of the European Union should be delegated to the Commission inrespect of articles dealing with issuing and renewal of authorisations forplacing in service of trackside control-command and signalling subsystems,authorisations for placing on the market for vehicles and for types of vehicles,and safety certificates. It is of particular importance that the Commissioncarry out appropriate consultations during its preparatory work, including atexpert level.         The Commission, when preparing and drawing-up delegated acts, should ensure asimultaneous, timely and appropriate transmission of relevant documents to theEuropean Parliament and Council.
+
+(38)     In order to ensure theimplementation of Articles 21 and 22 of this Regulation concerning examinationof draft national rules and rules in force, implementing powers should beconferred on the Commission.
+
+(39)     In order to ensure uniformconditions for the implementation of Articles 29, 30, 31, and 51 of thisRegulation, implementing powers should be conferred on the Commission. Thosepowers should be exercised in accordance with Regulation (EU) No 182/2011 ofthe European Parliament and of the Council laying down the rules and generalprinciples concerning mechanisms for control by the Member States of theCommission's exercise of implementing powers.
+
+(40)     Itis necessary to implement certain principles regarding the governance of theAgency in order to comply with the Joint Statement and Common Approach agreedby the Inter-Institutional Working Group on EU decentralised agencies in July2012, the purpose of which is to streamline the activities of agencies andincrease their performance.
+
+(41)     This Regulation respectsthe fundamental rights and observes the principles recognised in particular bythe Charter of Fundamental Rights of the European Union,
+
+HAVE ADOPTED THIS REGULATION:
+
+CHAPTER 1
+
+PRINCIPLES
+
+Article 1
+
+Subjectmatter and scope
+
+1.           This Regulationestablishes a European Union Agency for Railways (the “Agency”).
+
+2.           This Regulation providesfor:
+
+(a)         the establishment and tasks of theAgency;
+
+(b)         the tasks of the Member States.
+
+3.           This Regulation shallapply to:
+
+(a)         interoperability within the Union rail systemprovided for in Directive ../../.EU [Interoperability Directive];
+
+(b)         safety of the rail system within the Unionprovided for in Directive ../../.EU [Railway safety Directive];
+
+(c)         certification of train drivers provided for inDirective 2007/59/EC of the European Parliament and of the Council of 23October 2007 on the certification of train drivers operating locomotives andtrains on the railway system in the Community [Train Drivers Directive].
+
+Article 2
+
+Legalstatus
+
+1.           The Agency shall be a bodyof the Union with legal personality.
+
+2.           In each of the MemberStates, the Agency shall enjoy the most extensive legal capacity accordedto legal persons under their laws. It may in particular, acquire ordispose of movable and immovable property and may be a party tolegal proceedings.
+
+3.           The Agency shall berepresented by its Director.
+
+Article 3
+
+Typesof acts of the Agency
+
+The Agency may:
+
+(a)          address recommendations to theCommission concerning the application of Articles 11, 13, 14, 15, 23, 24, 26,30, 32, 31, 33 and 41;
+
+(b)          address recommendations to MemberStates concerning the application of Articles 21, 22 and 30;
+
+(c)          issue opinions to the Commissionpursuant to Articles 9, 21, 22 and 38, and to the authoritiesconcerned in the Member States pursuant to Article 9;
+
+(d)          issue decisions pursuant toArticle 12, 16, 17, 18;
+
+(e)          issue opinions constitutingacceptable means of compliance pursuant to Article 15;
+
+(f)           issue technical documents pursuantto Article 15;
+
+(g)          issue audit reports pursuant toArticles 29 and 30;
+
+(h)          issue guidelines and othernon-binding documents facilitating application of railway interoperability andsafety legislation pursuant to Articles 11, 15 and 24.
+
+CHAPTER 2
+
+WORKING METHODS
+
+Article 4
+
+Creationand composition of the working parties
+
+1.           The Agency shall set up alimited number of working parties for drawing up recommendations, in particularrelated to technical specifications for interoperability (TSIs), common safetytargets (CSTs) and common safety methods (CSMs).
+
+The Agency may set up working parties in otherduly justified cases at the request of the Commission or on its own initiative,after having consulted the Commission.
+
+2.           The Agency shall appointexperts to the working parties.
+
+The Agency shall appoint to the working partiesrepresentatives nominated by the competent national authorities for the workingparties in which they wish to participate.
+
+The Agency shall appoint to the working partiesprofessionals from the railway sector from the list referred to in paragraph 3.It shall ensure adequate representation of those sectors of the industry and ofthose users which could be affected by measures the Commission may propose onthe basis of the recommendations addressed to it by the Agency.
+
+The Agency may, if necessary, appoint to theworking parties independent experts and representatives of internationalorganisations recognised as competentin the field concerned. Staff of the Agency may not be appointed to the workingparties.
+
+3.           Each representative bodyreferred to in Article 34 shall forward to the Agency a list of the mostqualified experts mandated to represent them in each working party.
+
+4.           Whenever the work of suchworking parties has a direct impact on the working conditions, health andsafety of workers in the industry, representatives from the workers’organisations shall participate in the relevant working parties as full members.
+
+5.           Travel and subsistenceexpenses of the members of the working parties, based on rules and scalesadopted by the Management Board, shall be met by the Agency.
+
+6.           The working parties shallbe chaired by a representative of the Agency.
+
+7.           The work of the workingparties shall be transparent. The Management Board shall lay down rules of procedureof the working parties.
+
+Article 5
+
+Consultationof the social partners
+
+Whenever the work provided for in Articles11, 12, 15, and 32 has a direct impact on the social environment or workingconditions of workers in the industry, the Agency shall consult the socialpartners within the framework of the sectoral dialogue committee set up pursuantto Decision 98/500/EC[11].
+
+These consultations shall be held beforethe Agency submits its recommendations to the Commission. The Agency shall takedue account of these consultations, and shall, at all times, be available toexpound on its recommendations. The opinions expressed by the sectoral dialoguecommittee shall be forwarded by the Agency to the Commission and by theCommission to the committee referred to in Article 75.
+
+Article 6
+
+Consultationof rail freight customers and passengers
+
+Whenever the work provided for inArticles 11 and 15 has a direct impact on rail freight customers andpassengers, the Agency shall consult the organisations representing them. Thelist of organisations to be consulted shall be drawn up by the Commission withthe assistance of the committee referred to in Article 75.
+
+These consultations shall be held beforethe Agency submits its proposals to the Commission. The Agency shall takedue account of these consultations, and shall, at all times, be available toexpound on its proposals. The opinions expressed by the organisations concernedshall be forwarded by the Agency to the Commission and by the Commission to thecommittee referred to in Article 75.
+
+Article 7
+
+Impactassessment
+
+1.           The Agency shall conduct animpact assessment of its recommendations and opinions. The Management Boardshall adopt impact assessment methodology based on the methodology of theCommission. The Agency shall liaise with the Commission to ensure that relevantwork at the Commission is duly taken into account.
+
+2.           Before launching anactivity included in the work programme, the Agency shall conduct an earlyimpact assessment in relation to it which shall state:
+
+(a)         the issue to be solved and likely solutions;
+
+(b)         the extent to which a specific action, includingissuing a recommendation or an opinion of the Agency, would be required;
+
+(c)         the expected Agency contribution to the solutionof the problem.
+
+Moreover, each activity and project in the workprogramme shall be subject to an efficiency analysis individually and inconjunction with each other, to make best use of the budget and resources ofthe Agency.
+
+3.           The Agency may conduct anex post assessment of the legislation resulting from its recommendations.
+
+4.           Member States shallprovide the Agency with the data necessary for the impact assessment.
+
+Article 8
+
+Studies
+
+Where required for the implementation of itstasks, the Agency shall order studies and finance them from its budget.
+
+Article 9
+
+Opinions
+
+1.           The Agency shall issueopinions at request of the national regulatory bodies referred to in Article 55of Directive 2012/34/EU [Directive establishing a Single European Rail Area (recast)]concerning safety-related and interoperability-related aspects of matters drawnto their attention.
+
+2.           The Agency shall issue opinionsat request of the Commission on amendments to any act adopted on the basis ofDirective … [Interoperability Directive] or … [Railway Safety Directives],especially where any alleged deficiency is signalled.
+
+3.           With regard to opinionsreferred to in previous paragraphs and in other articles of this Regulation, theAgency shall give its opinions within two months, unless otherwise agreed. The opinionsshall be made public by the Agency within two months in a version from whichall commercially confidential material has been removed.
+
+Article 10
+
+Visitsto Member States
+
+1.           The Agency may carry outvisits to the Member States in order to perform its tasks, in particular those referredto in Articles 12, 21, 22, 16, 17, 27, 29, 30, 31 and 38, in accordance withthe policy defined by the Management Board.
+
+2.           The Agency shall informthe Member State concerned of the planned visit, the names of the delegatedAgency officials, and the date on which the visit is to start. The Agencyofficials delegated to carry out such visits shall do so on presentation of adecision by the Executive Director specifying the purpose and the aims of theirvisit.
+
+3.           The national authoritiesof the Member States shall facilitate the work of the Agency’s staff.
+
+4.           The Agency shall draw up areport on each visit and send it to the Commission and to the Member Stateconcerned.
+
+5.           The preceding paragraphsare without prejudice to inspections referred to in Articles 29 (6) and 30 (6) whichshall be pursued in accordance with the procedure described therein.
+
+CHAPTER 3
+
+TASKS RELATING TO RAILWAY SAFETY
+
+Article 11
+
+Technicalsupport - recommendations on railway safety
+
+1.           The Agency shall issue recommendationsto the Commission on the Common Safety Methods (CSMs) and the Common SafetyTargets (CSTs) provided for in Articles 6 and 7 of Directive … [the RailwaySafety Directive]. The Agency shall also issue recommendations on periodicrevision of CSMs and CSTs to the Commission.
+
+2.           The Agency shall issue recommendationsto the Commission, at the request of the Commission or on its own initiative, onother measures in the field of safety
+
+3.           The Agency may issue guidelinesand other non-binding documents to facilitate the implementation of railwaysafety legislation.
+
+Article 12
+
+Safetycertificates
+
+The Agency shall issue single safetycertificates in accordance with Articles 10 and 11 of Directive … [the SafetyDirective].
+
+Article 13
+
+Maintenance of vehicles
+
+1.           The Agency shall assist theCommission with regard to the system of certification of the entities in chargeof maintenance in accordance with Article 14 (6) of Directive … [Railway SafetyDirective].
+
+2.           The Agency shall issuerecommendation to the Commission with a view of Article 14 (7) of Directive …[Railway Safety Directive].
+
+3.           The Agency shall analyse anyalternative measures decided in accordance with Article 15 of Directive… [RailwaySafety Directive] in the report referred to in Article 30 (2) of thisRegulation.
+
+Article 14
+
+Transport of dangerous goods byrail
+
+The Agency shall follow developments in thelegislation dealing with the transport of dangerous goods by rail within themeaning of Directive 2008/68/EC of the European Parliament and of the Council[12]and compare them with the legislation dealing with rail interoperability andsafety, in particular the essential requirements. To this end the Agency shallassist the Commission and may issue recommendations at the Commission’s requestor on its own initiative.
+
+CHAPTER 4
+
+TASKS RELATING TO INTEROPERABILITY
+
+Article 15
+
+Technical support in the field of railwayinteroperability
+
+1.           The Agency shall:
+
+(a)         issue recommendations to the Commission on theTSIs, and their revision, in accordance with Article 5 of Directive …[Interoperability Directive];
+
+(b)         issue recommendations to the Commission on thetemplates for the 'EU' declaration of verification and for documents of thetechnical file that has to accompany it, in accordance with Article 15 ofDirective … [Interoperability Directive];
+
+(c)         issue recommendations to the Commission onspecifications for registers, and their revision, in accordance with Articles 43,44 and 45 of Directive … [Interoperability Directive];
+
+(d)         issue opinions which constitute acceptable meansof compliance concerning TSI deficiencies, in accordance with Article 6(2) ofDirective … [ Interoperability Directive], and provide it to the Commission;
+
+(e)         issue opinions to the Commission regardingrequests for non-application of TSIs by Member States, in accordance withArticle 7 of Directive … [Interoperability Directive];
+
+(f)           issue technical documents in accordance withArticle 4(9) of Directive … [Interoperability Directive];
+
+(g)         issue recommendations to the Commission relatingto the working conditions of all staff carrying out safety-critical tasks.
+
+2.           For draftingrecommendations referred to in paragraph 1, points (a) and (b), the Agencyshall:
+
+(a)         ensure that the TSIs and the specifications forregisters are adapted to technical progress and market trends and to socialrequirements;
+
+(b)         ensure that the development and updating of theTSIs on the one hand and the development of any European standards which provenecessary for interoperability on the other, are coordinated and maintain therelevant contacts with European standardisation bodies.
+
+3.           The Agency may issue guidelinesand other non-binding documents to facilitate the implementation of railwayinteroperability legislation.
+
+Article 16
+
+Authorisations for placing on themarket for vehicles
+
+The Agency shall issue authorisations forplacing on the market for railway vehicles in accordance with Article 20 ofDirective … [the Interoperability Directive].
+
+Article 17
+
+Authorisations for placing on themarket for types of vehicles
+
+The Agency shall issue authorisations forplacing on the market for types of vehicles in accordance with Article 22 ofDirective … [the Interoperability Directive].
+
+Article 18
+
+Authorisations for placing inservice of trackside control-command and signalling sub-systems
+
+The Agency shall issue authorisations forplacing in service of the trackside control-command and signalling subsystemslocated or operated in the entire Union in accordance with Article 18 ofDirective … [the Interoperability Directive].
+
+Article 19
+
+Telematics applications
+
+1.           The Agency shall act asthe system authority, being responsible for maintaining the technical specificationsfor the telematics applications, in accordance with relevant TSIs.
+
+2.           The Agency shall define,publish and apply the procedure for managing requests for changes to thosespecifications. To this end, the Agency shall set up and maintain a register ofrequests for changes to telematics applications specifications and theirstatus.
+
+3.           The Agency shall developand maintain the technical tools for managing the different versions of thetelematics applications' specifications.
+
+4.           The Agency shall assistthe Commission in the monitoring of deployment of telematics applications inaccordance with relevant TSIs.
+
+Article 20
+
+Support for the notified conformity assessment bodies
+
+1.           The Agency shall supportthe activities of notified conformity assessment bodies referred to in Article 27of Directive … [Interoperability Directive]. That support shall in particular includedrafting guidelines for assessing the conformity or suitability for use of aninteroperability constituent referred to in Article 9 of Directive … [InteroperabilityDirective] and guidelines for the EC verification procedure referred to inArticle 10 of Directive … [Interoperability Directive].
+
+2.           The Agency shall facilitatecooperation of notified conformity assessment bodies, in particular act as thetechnical secretariat for their coordination group.
+
+CHAPTER 5
+
+TASKS RELATING TO NATIONAL RULES
+
+Article 21
+
+Examination of draft national rules
+
+1.           The Agency shall, withintwo months of their reception, examine the draft national rules submitted to itin accordance with:
+
+(a)         Article 8(2) of Directive … [Railway SafetyDirective],
+
+(b)         Article 14 of Directive … [InteroperabilityDirective].
+
+2.           Where after the examinationreferred to paragraph 1 the Agency considers that national rules enable theessential requirements for interoperability to be fulfilled, CSMs to berespected and the CSTs to be achieved, and that they would not result inarbitrary discrimination or a disguised restriction on rail transport operationbetween Member States, the Agency shall inform the Commission and the MemberState concerned about its positive assessment. The Commission may validate therule in the IT system referred to in Article 23.
+
+3.           Where the examinationreferred to in paragraph 1 leads to a negative assessment, the Agency shall:
+
+(a)         issue a recommendation addressed to the MemberState concerned stating the reasons why the rule in question should not entryinto force and/or be applied;
+
+(b)         inform the Commission about its negativeassessment.
+
+4.           Where no action was takenby the Member State within 2 months after receiving the recommendation of theAgency referred to in point (a) of paragraph 3, the Commission, after receivinginformation referred to in point (b) of paragraph 3 and after having heard thereasons of the Member State concerned, may adopt a decision addressed to theMember State concerned requesting it to modify the draft rule in question,suspend its adoption, entry into force or implementation.
+
+Article 22
+
+Examinationof national rules in force
+
+1.           The Agency shall, withintwo months of their reception, examine national rules submitted to it inaccordance with Article 14(3) of Directive … [Interoperability Directive].
+
+2.           Where after examinationreferred to in paragraph 1 the Agency considers that national rules enable theessential requirements for interoperability to be fulfilled, CSMs to berespected and the CSTs to be achieved, and that they would not result inarbitrary discrimination or a disguised restriction on rail transport operationbetween Member States, the Agency shall inform the Commission and the MemberState concerned about its positive assessment. The Commission may validate therule in the IT system referred to in Article 23.
+
+3.           Where the examinationreferred to in paragraph 1 leads to a negative assessment, the Agency shall:
+
+(a)         issue a recommendation addressed to the MemberState concerned stating the reasons why the rule in question should be modifiedor repealed;
+
+(b)         inform the Commission about its negativeassessment.
+
+4.           Where no action was takenby the Member State within 2 months after receiving the recommendation of theAgency referred to in point (a) of paragraph 3, the Commission, after receivinginformation referred to in point (b) of paragraph 3 and after having heard thereasons of the Member State concerned, may adopt a decision addressed to theMember State concerned requesting it to modify or repeal the rule in question.
+
+5.           The procedure described inparagraphs 2 and 3 shall apply, mutatis mutandis, in cases where the Agencybecomes aware of any national rule, notified or not, being redundant or inconflict with the CSMs, CSTs, TSIs or any other Union legislation in therailway field.
+
+Article 23
+
+ITsystem to be used for notification purposes and classification of nationalrules
+
+1.           The Agency shall set upand manage a dedicated IT system containing national rules referred to inArticles 21(1) and 22(1) and make it accessible to stakeholders and the public.
+
+2.           Member States shall notifynational rules referred to in Articles 21(1) and 22(1) to the Agency and to theCommission through the IT system referred to in paragraph 1. The Agency shall publishthe rules in this system and use it for informing the Commission in accordancewith Articles 21 and 22.
+
+3.           The Agency shall classifynotified national rules in accordance with Article 14(8) of Directive ….[Interoperability Directive]. To this end, it shall use the system referred toin the first paragraph of this Article.
+
+4.           TheAgency shall classify nationalrules notified in accordance with Article 8(2) ofDirective … [Railway Safety Directive], taking into account development of EUlegislation. To this end, the Agency shall develop a Rule Management Tool to beused by Member States for simplifying their systems of national rules. TheAgency shall use the system referred to in the first paragraph of this Articleto publish the Rule Management Tool.
+
+CHAPTER 6
+
+Tasks Relating To European Rail Traffic ManagementSystem (ERTMS)
+
+Article 24
+
+System authority for the ERTMS
+
+1.           The Agency shall act asthe system authority, being responsible for maintaining the technicalspecifications for the ERTMS.
+
+2.           The Agency shall define,publish and apply the procedure for managing requests for changes to thosespecifications. To this end, the Agency shall set up and maintain a register ofrequests for changes to ERTMS specifications and their status.
+
+3.           The Agency shall recommendthe adoption of a new version of ERTMS Technical specifications. However, itshall only do so when the previous version has been deployed at a sufficientrate. The development of new versions shall not be detrimental to the rate ofdeployment of the ERTMS, the stability of the specifications which is needed tooptimise the production of ERTMS equipment, the return on investment forrailway undertakings and efficient planning of the deployment of the ERTMS.
+
+4.           The Agency shall developand maintain the technical tools for managing the different versions of theERTMS with a view to ensuring technical and operational compatibility betweennetworks and vehicles fitted with different versions and to providingincentives for the swift implementation of the versions in force.
+
+5.           In accordance withArticle 5(10) of Directive … [Railway Interoperability Directive], theAgency shall ensure that successive versions of ERTMS equipment are technicallycompatible with earlier versions.
+
+6.           The Agency shall prepareand disseminate relevant application guidelines for stakeholders andexplanatory documentation related to the technical specifications for theERTMS.
+
+Article 25
+
+ERTMS Ad hoc working group of notified conformity assessment bodies
+
+1.           The Agency shall set upand chair an ERTMS ad hoc working group of notified conformity assessmentbodies referred to in Article 27 of Directive … [Interoperability Directive].
+
+The working group shall check the consistencyof application of the procedure for assessing the conformity or suitability foruse of an interoperability constituent referred to in Article 9 of Directive …[Interoperability Directive] and of the 'EC' procedures for verificationreferred to in Article 10 of Directive … [Interoperability Directive] andcarried out by notified conformity assessment bodies.
+
+2.           The Agency shall reportevery two years to the Commission on the activities of the working groupreferred to in paragraph 1, including statistics on attendance of notified conformityassessment bodies’ representatives in the working group.
+
+3.           The Agency shall evaluatethe application of the procedure for conformity assessment of interoperabilityconstituents and of the 'EC' verification procedure for ERTMS equipment andevery two years shall submit a report proposing to the Commission, whereappropriate, improvements to be made.
+
+Article 26
+
+Supporting technical and operational compatibility between ERTMSon-board and trackside subsystems
+
+1.           The Agency may assist therailway undertakings, at their request, in checking the technical andoperational compatibility between ERTMS on-board and trackside subsystemsbefore placing a vehicle in service.
+
+2.           Where the Agency findsthat there is a risk of a lack of technical and operational compatibilitybetween networks and vehicles fitted with ERTMS equipment in the context ofspecific ERTMS projects, it may request the appropriate actors, in particular manufacturers,notified conformity assessment bodies, railway undertakings, infrastructuremanagers and national safety authorities, to provide any information relevantto the procedures applied for 'EC' verification and placing in service, and tooperational conditions. The Agency shall inform the Commission about such arisk and, if necessary, recommend appropriate measures to the Commission.
+
+Article 27
+
+Supporting ERTMS deployment and ERTMS projects
+
+1.           The Agency shall monitorthe deployment of the ERTMS in accordance with the deployment plan set out inDecision 2012/88/EU[13] and shall monitorcoordination of ERTMS installation along the Trans-European Transport Corridorsand Rail Freight Corridors as provided for in Regulation (EU) No 913/2010[14].
+
+2.           The Agency shall ensuretechnical follow up of Union-funded projects for the deployment of the ERTMS,including, where applicable, analysis of tendering documents at the time of thecall for tenders. The Agency shall also assist, if necessary, the beneficiariesof the Union funds to ensure that the technical solutions implemented withinprojects are fully compliant with the TSIs relating to control-command andsignalling and are therefore fully interoperable.
+
+Article 28
+
+Accreditation of laboratories
+
+1.           The Agency shall support,in particular by giving appropriate guidelines to the accreditation bodies,harmonised accreditation of ERTMS laboratories inaccordance with Regulation (EC) No 765/2008 of the European Parliament and ofthe Council[15].
+
+2.           The Agency may participateas an observer in the peer reviews required by Regulation(EC) No 765/2008.
+
+CHAPTER 7
+
+TASKS RELATING TO MONITORING THE SINGLE EUROPEANRAILWAY AREA
+
+Article 29
+
+Monitoringof national safety authorities
+
+1.           The Agency shall monitorthe performance and decision-making of national safety authorities throughaudit and inspections.
+
+2.           The Agency shall beentitled to audit:
+
+(a)         the capacity of national safety authorities toexecute tasks related to railway safety and interoperability;
+
+(b)         the effectiveness of national safety authorities'monitoring of safety management systems of actors as referred to in Article 16in Directive […] [Railway Safety Directive].
+
+The procedure for performing the audits shallbe adopted by the Management Board.
+
+3.           The Agency shall issue auditreports and send them to the national safety authority concerned and to theCommission. Each audit report shall include, in particular, a list of anydeficiencies identified by the Agency as well as recommendations forimprovement.
+
+4.           If the Agency considersthat the deficiencies referred to in paragraph 3 prevent the national safetyauthority concerned from effectively performing its tasks in relation torailway safety and interoperability, the Agency shall recommend to the nationalsafety authority to take appropriate steps within a time limit to be definedtaking into account the importance of the deficiency.
+
+5.           Where a national safetyauthority disagrees with the Agency's recommendation referred to in paragraph 4,or where no action is taken by a national safety authority as a result of theAgency's recommendation within 3 months from its reception, the Commission may takea decision within six months in accordance with the advisory procedure referredto in Article 75.
+
+6.           The Agency shall be also entitledto conduct announced or unannounced inspections in national safety authorities,to verify specific areas of their activities and operation, in particularreview documents, processes and records related to their tasks referred to inArticle 16 of Directive … [Railway Safety Directive]. The inspections may beconducted on an ad-hoc basis or in accordance with a plan developed by theAgency. The duration of an inspection shall not exceed two days. The nationalauthorities of the Member States shall facilitate the work of the Agency’sstaff. The Agency shall provide the Commission with a report on eachinspection.
+
+Article 30
+
+Monitoringof notified conformity assessment bodies
+
+1.           The Agency shall monitorthe notified conformity assessment bodies through assistance to accreditationbodies, audit and inspections, as provided for in paragraphs 2-5.
+
+2.           The Agency shall supportharmonised accreditation of notified conformity assessment bodies, inparticular by giving appropriate guidance on evaluation criteria and proceduresto assess whether notified bodies meet the requirements referred to in Art. 27of Directive … [Interoperability Directive] to the accreditation bodies, viathe European Accreditation infrastructure recognised by Art. 14 of Regulation(EC) No. 765/2008 of the European Parliament and of the Council setting out therequirements for accreditation and market surveillance relating to themarketing of products and repealing Regulation (EEC) No. 339/93
+
+3.           In case of notified conformityassessment bodies which are not accredited according to Article 24 of Directive…[Interoperability Directive], the Agency may audit their capacities to meet therequirements referred to in Article 27 of that Directive. The procedure forperforming audits shall be adopted by the Management Board.
+
+4.           The Agency shall issue auditreports covering the activities referred to in paragraph 3 and send them to thenotified conformity assessment body concerned and to the Commission. Each auditreport shall include, in particular, any deficiencies identified by the Agencyand recommendations for improvement. If the Agency considers that thesedeficiencies prevent the notified body concerned from effectively performingits tasks in relation to railway safety and interoperability, the Agency shall adopta recommendation requesting the Member State in which that notified body isestablished to take appropriate steps within a time limit.
+
+5.           Where a Member Statedisagrees with the recommendation referred to in paragraph 4, or where noaction is taken by a notified body as a result of the Agency's recommendationwithin 3 months from its reception, the Commission may adopt an opinion withina period of six months in accordance with advisory procedure referred to inArticle 75.
+
+6.           The Agency may, includingin cooperation with the relevant national accreditation bodies, conductannounced or unannounced inspections of notified conformity assessment bodies toverify specific areas of their activities and operation, in particular reviewdocuments, certificates and records related to their tasks referred to inArticle 27 of Directive […] [Interoperability Directive]. The inspections maybe conducted on an ad-hoc basis or in accordance with a plan developed by theAgency. The duration of an inspection shall not exceed two days. The notifiedconformity assessment bodies shall facilitate the work of the Agency’s staff.The Agency shall provide the Commission with a report on each inspection.
+
+Article 31
+
+Monitoringprogress of interoperability and safety
+
+1.           The Agency, together withthe network of national investigation bodies, shall collect relevant data on accidentsand incidents and monitor the contribution of the national investigation bodiesto the safety of the railway system as a whole.
+
+2.           The Agency shall monitorthe overall safety performance of the railway system. The Agency may inparticular seek the assistance of the networks referred to in Article 34,including collection of data. The Agency shall also draw on the data collectedby Eurostat and shall cooperate with Eurostat to prevent any duplication ofwork and to ensure methodological consistency between the common safetyindicators and the indicators used in other modes of transport.
+
+3.           At the Commission’s request,the Agency shall issue recommendations on how to improve the interoperabilityof the railway systems, in particular by facilitating coordination betweenrailway undertakings and infrastructure managers, or between infrastructuremanagers.
+
+4.           The Agency shall monitorprogress on the interoperability and safety of the railway systems. Every twoyears it shall present to the Commission and publish a report on progress on interoperabilityand safety in the Single European Railway Area.
+
+5.           The Agency shall, at theCommission’s request, provide reports on the state of implementation andapplication of the Union legislation on safety and interoperability in a givenMember State.
+
+CHAPTER 8
+
+OTHER TASKS
+
+Article 32
+
+Railwaystaff
+
+1.           The Agency shall performthe appropriate tasks relating to railway staff set out in Articles 4, 20, 22,23, 25, 28, 33, 34, 35 and 37 of Directive 2007/59/EC of the EuropeanParliament and of the Council[16] .
+
+2.           The Agency may berequested by the Commission to perform other tasks relating to railway staff inaccordance with Directive 2007/59/EC.
+
+3.           The Agency shall consultthe authorities competent on railway staff issues on the tasks referred to inparagraphs 1 and 2. The Agency may promote cooperation between thoseauthorities, including by organising appropriate meetings with their representatives.
+
+Article 33
+
+Registersand their accessibility
+
+1.           The Agency shall set upand keep European registers provided for in Article 43, 44 and 45 of Directive …[Interoperability Directive]. The Agency shall act as the system authority forall registers and databases referred to in the Safety, Interoperability andTrain Drivers Directives. This shall include, in particular:
+
+(a)         developing and maintaining specifications of theregisters;
+
+(b)         coordinating of developments in the MemberStates in relation to the registers;
+
+(c)         providing guidance on the registers to relevantstakeholders;
+
+(d)         making recommendations to the Commissionregarding improvements to the specification of existing registers and any needto set up new ones.
+
+2.           The Agency shall make thefollowing documents and registers provided for by Directive … [InteroperabilityDirective] and Directive … [Railway Safety Directive] publicly available:
+
+(a)         the EC declarations of verification ofsubsystems;
+
+(b)         the EC declarations of conformity ofinteroperability constituents and EC declarations of suitability ofuse of interoperability constituents;
+
+(c)         the licences issued in accordance with Directive… [Directive on the establishment of the Single European Rail Area (recast)];
+
+(d)         the safety certificates issued in accordancewith Article 10 of Directive … [Railway Safety Directive];
+
+(e)         the investigation reports sent to the Agency inaccordance with Article 24 of Directive … [Railway Safety Directive];
+
+(f)           the national rules notified to the Commission inaccordance with Article 8 of Directive … [Railway Safety Directive] andArticles 14 of Directive … [Interoperability Directive];
+
+(g)         the vehicle registers, including via links torelevant national registers;
+
+(h)         the infrastructure registers, including via linksto relevant national registers;
+
+(i)           the European register of authorised types ofvehicles;
+
+(j)           the register of requests for changes and plannedchanges to the ERTMS specifications;
+
+(k)         the register of requests for changes and plannedchanges to the Telematics Applications for Passengers (TAP) TSI/Telematics Applicationsfor Freight (TAF) TSI specifications;
+
+(l)           the register of vehicle keeper markings kept bythe Agency in accordance with the TSI on operation and traffic management;
+
+(m)       quality reports issued in accordance withArticle 28(2) of Regulation (EC) No 1371/2007.
+
+3.           The practical arrangementsfor sending the documents referred to in paragraph 2 shall be discussedand agreed by the Commission and the Member States on the basis of a draft preparedby the Agency.
+
+4.           When sending the documentsreferred to in paragraph 2, the bodies concerned may indicate whichdocuments are not to be disclosed to the public for reasons of security.
+
+5.           The national authoritiesresponsible for issuing the licences and certificates referred to in points (c)and (d) of paragraph 2 shall notify the Agency within one month of eachindividual decision to issue, renew, amend or revoke those licenses andcertificates.
+
+6.           The Agency may include anypublic document or link relevant to the objectives of this Regulation in thepublic database, taking into account applicable Union legislation on dataprotection.
+
+Article 34
+
+Networksof national safety authorities, investigating bodies and representative bodies
+
+1.           The Agency shall establisha network of the national safety authorities and a network of the investigatingbodies referred to in Article 21 of Directive…/… [Railway SafetyDirective]. The Agency shall provide them with a secretariat. The tasks of thenetworks shall, in particular, be:
+
+(a)         exchange of information related to railwaysafety and interoperability;
+
+(b)         promotion of good practices;
+
+(c)         provision of data on railway safety to theAgency, in particular data relating to common safety indicators.
+
+The Agency shall facilitate cooperation betweenthose networks, in particular it may decide to hold joint meetings of bothnetworks.
+
+2.           The Agency shall establisha network of representative bodies from the railway sector acting at the Unionlevel. The list of these bodies shall be defined in an implementing act adoptedby the Commission, in accordance with advisory procedure referred to in Article75. The Agency shall provide the network with a secretariat. The tasks of thenetwork shall, in particular, be:
+
+(a)         exchange of information related to railwaysafety and interoperability;
+
+(b)         promotion of good practices;
+
+(c)         provision of data on railway safety andinteroperability to the Agency.
+
+3.           The networks referred toin paragraphs 1 and 2 may issue non-binding opinions on draft recommendationsreferred to in Article 9(2).
+
+4.           The Agency may establishother networks with bodies or authorities with responsibility for a part of therailway system.
+
+5.           The Commission mayparticipate in meetings of networks referred to in this Article.
+
+Article 35
+
+Communicationand dissemination
+
+The Agency shall communicate and disseminateto relevant stakeholders the European framework of railway legislation,standards and guidance, in accordance with relevant communication anddissemination plans adopted by the Management Board. Those plans, based on ananalysis of needs, shall be regularly updated by the Management Board.
+
+Article 36
+
+Researchand promotion of innovation
+
+1.           The Agency shallcontribute, upon request of the Commission, to railway research activities at Unionlevel, including through support to relevant Commission services and representativebodies. This contribution shall be without prejudice to other researchactivities at the Union level.
+
+2.           The Commission may entrustthe Agency with the task of promoting innovation aimed at improving railwayinteroperability and safety, particularly the use of new informationtechnologies and tracking and tracing systems.
+
+Article 37
+
+Assistance to the Commission
+
+1.           The Agency shall, at the Commission’srequest, assist the Commission with the implementation of Union legislationaimed at enhancing the level of interoperability of railway systems and atdeveloping a common approach to safety on the European railway system.
+
+2.           This assistance may include:
+
+(a)         providing technical advice in matters requiringspecific know-how;
+
+(b)         collecting information through the networksreferred to in Article 34.
+
+Article 38
+
+Assistancewith the assessment of rail projects
+
+Without prejudice to the derogationsprovided for by Article 9 of Directive […] [Railway InteroperabilityDirective], the Agency shall, at the Commission’s request, examine, from thepoint of view of interoperability and safety, any project involving the design,construction, renewal or upgrading of the subsystem for which an applicationfor Union financial support has been submitted.
+
+Within a period to be agreed with theCommission according to the importance of the project and the resourcesavailable and which may not exceed two months, the Agency shall give an opinionon whether the project complies with the relevant railway interoperability andsafety legislation.
+
+Article 39
+
+Assistanceto Member States, candidate countries and stakeholders
+
+1.           On its own initiative orat the request of the Commission, Member States, candidate countries or thenetworks referred to in Article 34, the Agency shall engage in training andother appropriate activities concerning the application and explanation ofrailway interoperability and safety legislation and related Agency’s productssuch as registers, implementation guides or recommendations.
+
+2.           The nature and extent ofthe activities referred to in paragraph 1 shall be decided by the Board andincluded in the work programme.
+
+Article 40
+
+Internationalrelations
+
+1.           In so far as is necessaryto achieve the objectives set out in this Regulation and without prejudice tothe respective competences of the Member States and the Union institutions,including the European External Action Service, the Agency may develop contactsand enter into administrative arrangements with supervisory authorities,international organisations and the administrations of third countriescompetent in matters covered by Agency activities in order to keep up withscientific and technical developments and to ensure promotion of the EuropeanUnion railways legislation and standards.
+
+2.           Those arrangements shallnot create legal obligations in respect of the Union and its Member States norshall they prevent Member States and their competent authorities fromconcluding bilateral or multilateral arrangements with those supervisoryauthorities, international organisations and the administrations of thirdcountries. Those arrangements and cooperation shall be subject to priordiscussion with the Commission and regular reporting to it.
+
+3.           The Management Board shalladopt a strategy for relations with third countries or international organisationsconcerning matters for which the Agency is competent. This strategy shall be includedin the annual and multi-annual work programme of the Agency, with aspecification of associated resources.
+
+Article 41
+
+Coordinationregarding spare parts
+
+The Agency shall contribute to identifyingpotential railway spare parts to be standardised. To this end, the Agency may establisha working party in order to coordinate the stakeholders’ activities and mayestablish contacts with the European standardisation bodies. The Agency shallpresent the Commission with appropriate recommendations.
+
+CHAPTER 9
+
+ORGANISATION OF THE AGENCY
+
+Article 42
+
+Administrative and management structure
+
+The Agency's administrative and management structure shall comprise:
+
+(a)                   A Management Board, which shall exercise thefunctions set out in Article 47;
+
+(b)                   An Executive Board which shall exercise thefunctions set out in Article 49;
+
+(c)                   An Executive Director who shall exercise theresponsibilities set out in Article 50;
+
+(d)                   A Board of Appeal who shall exercise theresponsibilities set out in Articles 54 to 56.
+
+Article 43
+
+Compositionof the Management Board
+
+1.           The Management Boardshall be composed of one representative from each Member State and fourrepresentatives of the Commission, all with a right to vote.
+
+The Management Board shall also include sixrepresentatives, without the right to vote, representing at European level thefollowing groups:
+
+(a)         railway undertakings;
+
+(b)         infrastructure managers;
+
+(c)         the railway industry;
+
+(d)         trade unions;
+
+(e)         passengers;
+
+(f)           freight customers.
+
+For each of these groups, the Commission shallappoint a representative and an alternate from a shortlist of four namessubmitted by their respective European organisations.
+
+2.           Board members and theiralternates shall be appointed in light of their knowledge of the agency'score business, taking into account relevant managerial, administrative andbudgetary skills. All parties shall make efforts to limit turnover of theirrepresentatives in the Board, in order to ensure continuity of the Board'swork. All parties shall aim to achieve a balanced representation between menand women on the Management Board.
+
+3.           Member States and theCommission shall appoint their members of the Management Board and analternate who will represent the member in his/her absence.
+
+4.           The term of office of the membersshall be four years and may be renewed.
+
+5.           When appropriate, theparticipation of representatives of third countries and the conditions thereofshall be established in the arrangements referred to in Article 68.
+
+Article 44
+
+Chairpersonof the Management Board
+
+1.           The Management Boardshall elect, by a two-thirds majority of its members entitled to vote, aChairperson from among the representatives of the Member States and aDeputy Chairperson from among its members.
+
+The Deputy Chairperson shall replace theChairperson in the event of the Chairperson being unable to attend to his/herduties.
+
+2.           The term of office of theChairperson and Deputy Chairperson shall be four years and may be renewed. If,however, their membership of the Management Board ends at any time during theirterm of office, their term of office shall automatically expire on that datealso.
+
+Article 45
+
+Meetings
+
+1.           Meetings of the ManagementBoard shall be convened by its Chairperson. The Executive Director of theAgency shall participate in the meetings.
+
+2.           The Management Boardshall meet at least twice a year. It shall also meet on the initiative of theChairperson, at the request of the Commission, at the request of the majorityof its members or of one-third of the Member States’ representatives on theBoard.
+
+Article 46
+
+Voting
+
+Unless stated otherwise in this Regulation,the Management Board shall take its decisions by an absolute majority of itsmembers entitled to vote. Each member entitled to vote shall have one vote.
+
+Article 47
+
+Functionsof the Management Board
+
+1.           In order to ensure thatthe Agency carries out its tasks, the Management Board shall:
+
+(a)         adopt the Annual Report on the Agency'sactivities for the previous year, send it, by 1 July, to the EuropeanParliament, the Council, the Commission and the Court of Auditors and make itpublic;
+
+(b)         adopt each year, by a two-thirds majority of itsmembers entitled to vote, after having received the opinion of the Commissionand in accordance with Article 48, the annual work programme of the Agency forthe coming year and a strategic multi-annual work programme;
+
+(c)         adopt, by a two-thirds majority of its membersentitled to vote, the annual budget of the Agency and exercise other functionsin relation to the Agency’s budget, in accordance with Chapter 10;
+
+(d)         establish procedures for decision-making by theExecutive Director;
+
+(e)         adopt a policy on visits pursuant toArticle 10;
+
+(f)           establish its rules of procedure;
+
+(g)         adopt and update the communication and disseminationplans referred to in Article 35;
+
+(h)         adopt procedures for performing the auditsreferred to in Articles 29 and 30;
+
+(i)           in accordance with paragraph 2, exercise, withrespect to the staff of the Agency, the appointing authority powers conferredby the Staff Regulations on the Appointing Authority and by the Conditions ofEmployment of Other Servants on the Authority Empowered to Conclude Contract ofEmployment ("the appointing authority powers");
+
+(j)           adopt appropriate implementing rules to theStaff Regulations and the Conditions of Employment of Other Servants inaccordance with the procedure provided for in Article 110 of the StaffRegulations;
+
+(k)         appoint the Executive Director and may extendhis term of office or remove him from the office, by a two-thirds majority ofits members entitled to vote, in accordance with Article 62;
+
+(l)           adopt an anti-fraud strategy, which isproportionate to the fraud risks having regard to cost-benefit of the measuresto be implemented;
+
+(m)       ensure adequate follow-up to the findings andrecommendations stemming from investigations of the European Anti-fraud Office(OLAF) and the various internal or external audit reports and evaluations;
+
+(n)         adopt rules for the prevention and management ofconflicts of interest in respect of members of the Management Board and of theBoard of Appeal.
+
+2.           The Management Board shalladopt, in accordance with the procedure provided for in Article 110 of theStaff Regulations, a decision based on Article 2(1) of the Staff Regulationsand on Article 6 of the Conditions of Employment of Other Servants delegatingthe relevant appointing authority powers to the Executive Director and definingthe conditions under which this delegation of powers can be suspended. TheExecutive Director is authorised to sub-delegate these powers.
+
+In application of the previous subparagraph, whereexceptional circumstances so require, the Management Board may, by way of adecision, suspend temporarily the delegation of appointing authority powers tothe Executive Director and those sub-delegated by the latter and exercise themitself or delegate them to one of its members or to a staff member other thanthe Executive Director.
+
+Article 48
+
+Annualand multi-annual work programmes
+
+1.           The Board of the Agencyshall adopt the work programme by 30 November each year, taking intoaccount the opinion of the Commission, and forward it to the Member States, theEuropean Parliament, the Council, the Commission and to the networks referredto in Article 34.
+
+2.           The work programme shallbe adopted without prejudice to the Union’s annual budgetary procedure. If,within 15 days of the date of adoption of the work programme, the Commissionexpresses its disagreement with the programme, the Management Board shallre-examine the programme and adopt it, as amended if necessary, within a periodof two months, in second reading either by a two-thirds majority of its membersentitled to vote, including by all Commission representatives, or by unanimityof the representatives of the Member States.
+
+3.           The Agency’s work programmeshall identify the objectives of each activity. As a general rule, eachactivity and project shall be clearly linked with the resources required tocarry it out, in accordance with the principles of activity-based budgeting andmanagement and the early impact assessment procedure provided for in paragraph2 of Article 7.
+
+4.           The Management Board shall,if necessary, amend the adopted work programme when a new task is given to theAgency. Inclusion of such a new task shall be subject to an analysis of the humanand budgetary resources implications and may be subject to a decision topostpone other tasks.
+
+5.           The Management Board shallalso adopt and update a strategic multi-annual work programme by30 November each year. The opinion of the Commission shall be taken intoaccount. The European Parliament and the networks referred to in Article 34 shallbe consulted on the draft. The adopted multi-annual work programme shall beforwarded to the Member States, the European Parliament, the Council, theCommission and to the networks referred to in Article 34.
+
+Article 49
+
+ExecutiveBoard
+
+1.           The Management Board shallbe assisted by an Executive Board.
+
+2.           The Executive Board shallprepare decisions to be adopted by the Management Board. Where necessary,because of urgency, it shall take certain provisional decisions on behalf ofthe Management Board, in particular on administrative and budgetary matters.
+
+Together with the Management Board, it shallensure adequate follow-up to the findings and recommendations stemming frominvestigations of OLAF and the various internal or external audit reports andevaluations.
+
+Without prejudice to the responsibilities ofthe Executive Director, as set out in Article 30, it shall assist and advisehim/her in the implementation of the decisions of the Management Board, with aview to reinforcing supervision of administrative and budgetary management.
+
+3.           The Executive Board shallbe composed of the Chairperson of the Management Board, one representative ofthe Commission and [four] other members of the Management Board. The ManagementBoard shall appoint members of the Executive Board and its chairperson.
+
+4.           The term of office ofmembers of the Executive Board shall be the same as that of members of theManagement Board.
+
+5.           The Executive Board shallmeet at least once every three months. The chairperson of the Executive Boardshall convene additional meetings at the request of its members.
+
+6.           The Management Board shalllay down the rules of procedures of the Executive Board.
+
+Article 50
+
+Dutiesof the Executive Director
+
+1.           The Agency shall bemanaged by its Executive Director, who shall be completely independent in theperformance of his/her duties. The Executive Director shall be accountable tothe Management Board for his/her activities.
+
+2.           Without prejudice to thepowers of the Commission, the Management Board, or the Executive Board, theExecutive Director shall neither seek nor take instructions from any governmentor from any other body.
+
+3.           The Executive Directorshall report to the European Parliament on the performance of his/her dutieswhen invited. The Council may invite the Executive Director to report on theperformance of his/her duties.
+
+4.           The Executive Directorshall be the legal representative of the Agency. He/she shall adopt decisions,recommendations, opinions and other formal acts of the Agency.
+
+5.           The Executive Directorshall be responsible for the administrative management of the Agency and forthe implementation of the tasks assigned to it by this Regulation. In particular,the Executive Director shall be responsible for:
+
+(a)         the day-to-day administration of the Agency;
+
+(b)         implementing the decisions adopted by theManagement Board;
+
+(c)         preparing the annual work programme andstrategic multi-annual work programme and, submit them to the Management Boardafter consultation of the Commission;
+
+(d)         implementing the annual work programme and thestrategic multi-annual work programme and as far as possible, responding torequests for assistance from the Commission in relation to the tasks of theAgency in accordance with this Regulation;
+
+(e)         reporting to the Management Board on theimplementation of the strategic multi-annual work programme;
+
+(f)           taking the necessary steps, in particular theadoption of internal administrative instructions and the publication of orders,to ensure that the Agency operates in accordance with this Regulation;
+
+(g)         establishing an effective monitoring system inorder to compare the Agency's results with its operational objectives andestablishing a regular assessment system corresponding to recognisedprofessional standards;
+
+(h)         preparing each year a draft general report onthe basis of the monitoring and assessment systems referred to in point (g), andsubmitting it to the Management Board;
+
+(i)           preparing the Agency's draft statement ofestimates of the revenue and expenditure of the Agency pursuant toArticle 58 and implementing the budget pursuant to Article 59;
+
+(j)           preparing the annual report on the Agency'sactivities and presenting it to the Management Board for assessment;
+
+(k)         preparing an action plan following-up on theconclusions of the retrospective evaluations and reporting on progressbi-annually to the Commission;
+
+(l)           protecting the financial interests of the Unionby the application of preventive measures against fraud, corruption and anyother illegal activities, by effective checks and, if irregularities aredetected, by the recovery of the amounts wrongly paid and, where appropriate,by effective, proportionate and dissuasive administrative and financialpenalties;
+
+(m)       preparing an anti-fraud strategy of the Agencyand presenting it to the Management Board for approval;
+
+(n)         preparing the Agency's draft financialregulation for adoption by the Management Board under Article 60, and itsimplementing rules.
+
+Article 51
+
+Creationand composition of the Boards of Appeal
+
+1.           The Agency shall establishone or more Boards of Appeal.
+
+2.           A Board of Appeal shall becomposed of a Chairperson and two other members. They shall have alternates torepresent them in their absence.
+
+3.           The Management Board shallappoint the Chairperson, the other members and their alternates from a list ofqualified candidates established by the Commission.
+
+4.           Where the Board of Appealconsiders that the nature of the appeal so requires, it may request theManagement Board to appoint two additional members and their alternates fromthe list referred to in paragraph 3.
+
+5.           On the proposal of theAgency, the Commission shall establish the rules of procedure of the Board ofAppeal, after having consulted the Management Board and in accordance with the advisoryprocedure referred to in Article 75.
+
+Article 52
+
+Membersof the Board of Appeal
+
+1.           The term of office of themembers and alternates of a Board of Appeal shall be four years and may berenewed.
+
+2.           The members of a Board ofAppeal shall be independent and may not perform any other duties within theAgency. In making their decisions they shall not be bound by any instructions.
+
+3.           The members of a Board ofAppeal may not be removed from office or from the list of qualified candidatesduring their term of office, unless there are serious grounds for such removaland the Commission, after obtaining the opinion of the Management Board takes adecision to that effect.
+
+Article 53
+
+Exclusionand objection
+
+1.           The members of the Boardof Appeal may not take part in any appeal proceedings if they have any personalinterest in the proceedings, if they have previously been involved asrepresentatives of one of the parties to the proceedings, or if theyparticipated in the decision under appeal.
+
+2.           Members of the Board ofAppeal who consider that they should not take part in any appeal proceeding, forone of the reasons referred to in paragraph 1 or for any other reason, shallinform the Board of Appeal which decides on the exclusion accordingly.
+
+Article 54
+
+Decisionssubject to appeal
+
+1.           An appeal may be brought beforethe Board of Appeal against decisions taken by the Agency pursuant to Articles 12,16, 17 and 18.
+
+2.           An appeal lodged pursuantto paragraph 1 shall not have a suspensory effect. The Agency may, however,suspend the application of the decision appealed against, if it considers thatcircumstances so permit.
+
+Article 55
+
+Personsentitled to appeal, time limit and form
+
+1.           Any natural or legalperson may appeal against a decision addressed to that person by the Agencypursuant to Articles 12, 16, 17 and 18.
+
+2.           The appeal, together withthe statement of grounds thereof, shall be filed in writing at the Agencywithin two months of the notification of the measure to the person concerned,or, if the person is not notified of the measure, within two months of the dayon which it came to their knowledge.
+
+Article 56
+
+Examinationand decisions on appeals
+
+1.           When examining the appeal,the Board of Appeal shall act expeditiously. It shall, as often as necessary,invite the parties to the appeal proceedings to file, within specified timelimits, observations on its notifications or on communications from otherparties to the appeal proceedings. Parties to the appeal proceedings shall beentitled to make oral presentations.
+
+2.           The Board of Appeal mayexercise appropriate power which lies within the competence of the Agency ormay remit the case to the competent body of the Agency. The latter shall bebound by the decision of the Board of Appeal.
+
+Article 57
+
+Actionsbefore the Court of Justice
+
+1.           Actions for the annulmentof Agency decisions taken pursuant to Articles 12, 16, 17 and 18 may be broughtbefore the Court of Justice of the European Union only after all appealprocedures within the Agency have been exhausted.
+
+2.           The Agency shall take allnecessary measures to comply with the judgment of the Court of Justice of theEuropean Union.
+
+CHAPTER 10
+
+FINANCIAL PROVISIONS
+
+Article 58
+
+Budget
+
+1.           Estimates of all therevenue and expenditure of the Agency shall be prepared for each financialyear, corresponding to the calendar year, and shall be set out in the budget ofthe Agency. Revenue and expenditure shall be in balance.
+
+2.           The revenue of the Agencyshall consist of:
+
+(a)         a contribution from the Union,
+
+(b)         any contribution from third countriesparticipating in the work of the Agency, as provided for by Article 68,
+
+(c)         the fees paid by applicants for, and holders of,certificates and authorisations issued by the Agency in accordance withArticles 12, 16, 17 and 18;
+
+(d)         charges for publications, training and any otherservices provided by the Agency;
+
+(e)         any voluntary financial contribution from MemberStates, third countries or other entities, provided such a contribution doesnot compromise the independence and impartiality of the Agency.
+
+3.           The expenditure of theAgency shall include staff, administrative, infrastructure and operationalexpenses.
+
+4.           Revenue and expenditureshall be in balance.
+
+5.           Each year, the Management Board,on the basis of a draft drawn up by the Executive Director on the basis ofactivity-based budgeting, shall produce a statement of estimates of revenue andexpenditure for the Agency for the following financial year. This statement ofestimates, which shall include a draft establishment plan, shall be forwardedby the Management Board to the Commission by 31 January at the latest.
+
+6.           The statement of estimatesshall be forwarded by the Commission to the European Parliament and the Council(hereinafter referred to as the budgetary authority) together with thepreliminary draft general budget of the Union.
+
+7.           On the basis of thestatement of estimates, the Commission shall enter in the preliminary draftgeneral budget of the Union the estimates it considers necessary for theestablishment plan and the amount of the subsidy to be charged to the generalbudget, which it shall place before the budgetary authority in accordance withArticle 314 of the Treaty, together with a description of and justification forany difference between the Agency's statement of estimates and the subsidy tobe charged to the general budget.
+
+8.           The budgetary authorityshall authorise the appropriations for the subsidy to the Agency. The budgetaryauthority shall adopt the establishment plan for the Agency.
+
+9.           The budget shall beadopted by the Management Board, by a two-thirds majority of its membersentitled to vote. The Budget of the Agency shall become final following finaladoption of the general budget of the Union. Where appropriate, it shall beadjusted accordingly.
+
+10.         The Management Boardshall notify the budgetary authority as soon as possible of its intention toimplement any project which may have significant financial implications for thefunding of the budget, in particular any projects relating to property such asthe rental or purchase of buildings. It shall inform the Commission thereof.Where a branch of the budgetary authority has notified its intention to deliveran opinion on the project, it shall forward its opinion to the Management Boardwithin six weeks after the date of notification of the project.
+
+Article 59
+
+Implementationand control of the budget
+
+1.           The Executive Directorshall implement the budget of the Agency.
+
+2.           By 1 March at thelatest following each financial year, the Agency’s accounting officer shallcommunicate the provisional accounts to the Commission’s accounting officertogether with a report on the budgetary and financial management for thatfinancial year. The Commission’s accounting officer shall consolidate theprovisional accounts of the institutions and decentralised bodies in accordancewith Article 147 of Regulation (EU, Euratom) No 966/2012 (the generalFinancial Regulation).
+
+3.           By 31 March at thelatest following each financial year, the Commission’s accounting officer shallforward the Agency’s provisional accounts to the Court of Auditors, togetherwith a report on the budgetary and financial management for that financialyear. The report on the budgetary and financial management for the financialyear shall also be forwarded to the European Parliament and the Council.
+
+The Court of Auditors shall examine theseaccounts in accordance with Article 287 of the Treaty. It shall publish areport on the Agency’s activities every year.
+
+4.           On receipt of the Court ofAuditors’ observations on the Agency’s provisional accounts, under Article 148 ofthe general Financial Regulation, the Executive Director shall draw up theAgency’s final accounts under his own responsibility and submit them to the ManagementBoard for an opinion.
+
+5.           The Management Boardshall deliver an opinion on the Agency’s final accounts.
+
+6.           The Executive Directorshall, by 1 July at the latest following each financial year, forward thefinal accounts to the European Parliament, the Council, the Commission and theCourt of Auditors, together with the Management Board’s opinion.
+
+7.           The final accounts shallbe published.
+
+8.           The Executive Directorshall send the Court of Auditors a reply to its observations by30 September at the latest following each financial year. He shall alsosend this reply to the Management Board.
+
+9.           The Executive Directorshall submit to the European Parliament, at the latter’s request, allinformation necessary for the smooth application of the discharge procedure forthe financial year in question, in accordance with Article 165(3) of thegeneral Financial Regulation.
+
+10.         The European Parliament, ona recommendation from the Council acting by a qualified majority, shall, before30 April of year N + 2 give a discharge to the Executive Director inrespect of the implementation of the budget for year N.
+
+Article 60
+
+FinancialRegulation
+
+The financial rules applicable to theAgency shall be adopted by the Management Board after the Commission hasbeen consulted. They may not depart from Regulation (EC, Euratom) No 2343/2002[17]unless such a departure is specifically required for the Agency’s operation andthe Commission has given its prior consent.
+
+CHAPTER 11
+
+STAFF
+
+Article 61
+
+GeneralProvisions
+
+1.           The Staff Regulations ofthe European Union and the Conditions of Employment of Other Servants of theEuropean Union and the rules adopted by agreement between the institutions ofthe European Union for giving effect to those Staff Regulations shall apply tothe staff of the Agency.
+
+2.           In the interest of theservice, the Agency shall recruit:
+
+(a)         staff who are eligible for a contract ofindefinite duration, and
+
+(b)         staff who are not eligible for a contract ofindefinite duration.
+
+Appropriate implementing rules to thisparagraph shall be adopted in accordance with the procedure provided for inArticle 110 of the Staff Regulations.
+
+3.           The Agency shall takeappropriate administrative measures to organise its services in order to avoidany conflict of interest.
+
+Article 62
+
+ExecutiveDirector
+
+1.           The Executive Director shallbe engaged as a temporary agent of the agency under Article 2(a) of theConditions of Employment of Other servants.
+
+2.           The Executive Directorshall be appointed by the Management Board, from a list of candidates proposedby the Commission, following an open and transparent selection procedure.
+
+For the purpose of concluding the contract ofthe Executive Director, the Agency shall be represented by the Chair of theManagement Board.
+
+Before appointment, the candidate selected bythe Management Board may be invited to make a statement before the competentcommittee of the European Parliament and to answer questions by its members.
+
+3.           The term of office of theExecutive Director shall be five years. By the end of this period, theCommission shall undertake an assessment which takes into account theevaluation of the performance of the Executive Director and the Agency's futuretasks and challenges.
+
+4.           The Management Board,acting on a proposal from the Commission which takes into account theassessment referred to in paragraph 3, may extend the term of office of theExecutive Director once, for no more than five years.
+
+5.           The Management Board shallinform the European Parliament about its intention to extend the ExecutiveDirector's term of office. Within the month before any such extension, the ExecutiveDirector may be invited to make a statement before the competent committee ofthe Parliament and answer questions put by its members.
+
+6.           An Executive Directorwhose term of office has been extended may not participate in another selectionprocedure for the same post at the end of the overall period.
+
+7.           The Executive Director maybe removed from the office only upon a decision of the Management Board actingon a proposal from the Commission.
+
+Article 63
+
+Secondednational experts and other staff
+
+The Agency may also make use of SecondedNational Experts or other staff not employed by the Agency under the StaffRegulations and the Conditions of Employment of Other Servants.
+
+The Management Board shall adopt a decisionlaying down rules on the secondment to the Agency of national experts.
+
+CHAPTER 12
+
+GENERAL PROVISIONS
+
+Article 64
+
+Privilegesand immunities
+
+The Protocol on the Privileges andImmunities of the European Union shall apply to the agency and its staff.
+
+Article 65
+
+Headquartersagreement and operating conditions
+
+1.           The necessary arrangementsconcerning the accommodation to be provided for the Agency in the host MemberState and the facilities to be made available by that Member State togetherwith the specific rules applicable in the Agency’s host Member State to theExecutive Director, members of the Management Board, Agency staff and membersof their families shall be laid down in a headquarters agreement between theAgency and the host Member State concluded once the Management Board’s approvalis obtained and no later than 2015.
+
+2.           The host Member Stateshall provide the best possible conditions to ensure the proper functioning ofthe Agency, including multilingual, European-oriented schooling and appropriatetransport connections.
+
+Article 66
+
+Liability
+
+1.           The contractual liabilityof the Agency shall be governed by the law applicable to the contract inquestion.
+
+2.           The Court of Justice ofthe European Union shall have jurisdiction to give judgment pursuant to anyarbitration clause contained in a contract concluded by the Agency.
+
+3.           In the event ofnon-contractual liability, the Agency shall, in accordance with the generalprinciples common to the laws of the Member States, make good any damage causedby its departments or by its staff in the course of performance of theirduties.
+
+4.           The Court of Justice ofthe European Union shall have jurisdiction in disputes relating to compensationfor damage as referred to in paragraph 3.
+
+Article 67
+
+Languagearrangements
+
+1.           The provisions laid downin Regulation No 1 of 15 April 1958 determining the languages to be used in theEuropean Economic Community[18] shall apply to theAgency.
+
+2.           The translation servicesrequired for the functioning of the Agency shall be provided by the TranslationCentre for the Bodies of the European Union.
+
+Article 68
+
+Participationby third countries in the work of the Agency
+
+1.           Without prejudice toArticle 40, the Agency shall be open to participation by third countries, inparticular by countries within the scope of the European Neighbourhood Policy,the Enlargement policy countries and EFTA countries which have concludedagreements with the Union under which the countries concerned have adopted andare applying Union legislation, or its equivalent national measures, in thefield covered by this Regulation.
+
+2.           In accordance with therelevant provisions of the agreements referred to in paragraph 1, arrangements betweenthe Agency and the third countries shall be made to set out detailed rules forparticipation by these countries in the work of the Agency, in particular thenature and extent of such participation. These arrangements shall includeprovisions on financial contributions and staff. They may provide forrepresentation, without the right to vote, on the Management Board.
+
+The Agency shall sign the arrangements afterhaving received an agreement of the Commission and after consulting theManagement Board.
+
+Article 69
+
+Cooperationwith national authorities and bodies
+
+1.           The Agency may enter intoagreements with relevant national authorities, in particular the NationalSafety Authorities, and other competent bodies, in relation to the implementationof Articles 12, 16, 17 and 18.
+
+2.           The agreements may includecontracting of some of the tasks of the Agency to the national authorities, suchas checking and preparing files, verifying technical compatibility, performing visitsand drafting technical studies.
+
+3.           The Agency shall ensurethat the agreements include at least specified description of tasks and conditionsfor deliverables, the time-limits applying to their delivery and the level andschedule of payments.
+
+4.           The agreements describedin paragraphs 1, 2 and 3 are without prejudice to the overall responsibility ofthe Agency for performing its tasks as provided for in Articles 12, 16, 17 and 18.
+
+Article 70
+
+Transparency
+
+Regulation (EC) No 1049/2001 of theEuropean Parliament and of the Council[19] shall applyto documents held by the Agency.
+
+The Management Board shall adopt practicalmeasures for the implementation of Regulation (EC) No 1049/2001 by […].
+
+Decisions taken by the Agency pursuant toArticle 8 of Regulation (EC) No 1049/2001 may form the subject of acomplaint to the Ombudsman or of an action before the Court of Justice of theEuropean Union, under Articles 228 and 263 of the Treaty respectively.
+
+The processing of data of a personal natureby Agency shall be subject to the Regulation (EC) No 45/2001.
+
+Article 71
+
+Securityrules for protecting classified information
+
+The Agency shall apply the securityprinciples contained in the Commission’s security rules for protecting EuropeanUnion Classified Information (EUCI) and sensitive non-classified information,as set out in the Annex to Commission Decision 2001/844/EC, ECSC, Euratom of 29November 2001 amending its internal rules of procedure. This shall cover, interalia, provision for exchanging, processing and storing such information.
+
+Article 72
+
+Combatingfraud
+
+1.           In order to facilitatecombating fraud, corruption and other unlawful activities under Regulation (EC)No 1073/1999, within six months from the day of entry into force of thisRegulation, the Agency shall accede to the Inter-institutional Agreement of 25May 1999 concerning internal investigations by the European Anti-fraud Office(OLAF) and adopt the appropriate provisions applicable to all the employees ofthe Agency using the template set out in the Annex to that Agreement.
+
+2.           The European Court ofAuditors shall have the power of audit, on the basis of documents and on thespot, over all grant beneficiaries, contractors and subcontractors who havereceived Union funds from the Agency.
+
+3.           OLAF may carry outinvestigations, including on-the-spot checks and inspections, in accordancewith the provisions and procedures laid down in Regulation (EC) No 1073/1999 ofthe European Parliament and of the Council [20]and CouncilRegulation (Euratom, EC) No 2185/96[21] with a view toestablishing whether there has been fraud, corruption or any other illegalactivity affecting the financial interests of the Union in connection with agrant or a contract funded by the Agency.
+
+4.           Without prejudice toparagraphs 1, 2 and 3, cooperation agreements with third countries andinternational organisations, contracts, grant agreements and grant decisions ofthe Agency shall contain provisions expressly empowering the European Court ofAuditors and OLAF to conduct such audits and investigations, according to theirrespective competences.
+
+CHAPTER 13
+
+FINAL PROVISIONS
+
+Article 73
+
+Delegatedacts relating to Articles 12, 16, 17 and 18
+
+1.           The Commission shall beempowered to adopt delegated acts in accordance with Article 74 concerning feesand charges in application of Articles 12, 16, 17 and 18.
+
+2.           The measures referred toin paragraph 1 shall determine in particular the matters for which fees andcharges pursuant to Articles 12, 16, 17 and 18 are due, the amount of the feesand charges and the way in which they are to be paid.
+
+3.           Fees and charges shall belevied for:
+
+(a)          the issuing and renewal of authorisations forplacing in service of trackside control-command and signalling subsystems,authorisations for placing on the market for vehicles and for types of vehicles,including possible indication of compatibility with the networks or lines;
+
+(b)         the issuing and renewal of safety certificates;
+
+(c)         the provision of services; they shall reflectthe actual cost of each individual provision;
+
+(d)          the processing of appeals.
+
+All fees and charges shall be expressed, andpayable, in euro.
+
+4.           The amount of the fees andcharges shall be fixed at such a level as to ensure that the revenue in respectthereof is sufficient to cover the full cost of the services delivered. Allexpenditures of the Agency attributed to staff involved in activities referredto in paragraph 3, including the employer's pro-rata contribution to thepension scheme, shall be in particular reflected in this cost. Should asignificant imbalance resulting from the provision of the services covered byfees and charges become recurrent, the revision of the level of the fees andcharges shall become mandatory.
+
+Article 74
+
+Exercise ofthe delegation
+
+1.           The power to adoptdelegated acts is conferred on the Commission subject to the conditions laiddown in this Article.
+
+2.           The delegation of powerreferred to in Article 73 shall be conferred on the Commission for anindeterminate period of time from the date of entry into force of thisRegulation.
+
+3.           The delegation of powerreferred to in Article 73 may be revoked at any time by the European Parliamentor by the Council. A decision of revocation shall put an end to the delegation ofthe power specified in that decision. It shall take effect the day followingthe publication of the decision in the Official Journal of theEuropean Union or at a later date specified therein. It shall not affectthe validity of any delegated acts already in force.
+
+4.           As soon as it adopts adelegated act, the Commission shall notify it simultaneously to the EuropeanParliament and to the Council.
+
+5.           A delegated act adoptedpursuant to Article 73 shall enter into force only if no objection has beenexpressed either by the European Parliament or the Council within a period of[2 months] of notification of that act to the European Parliament and theCouncil or if, before theexpiry of that period, the EuropeanParliament and the Council have both informed the Commission that they will notobject. That period shall be extended by [2months] at the initiative of the European Parliament or the Council.
+
+Article 75
+
+Committeeprocedure
+
+The Commission shall be assisted by thecommittee established by Article 21 of Directive 96/48/EC. That committee shallbe a committee within the meaning of Regulation (EU) No 182/2011.
+
+Where reference is made to this Article,Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+Article 76
+
+Evaluation and review
+
+1.           No later than five yearsafter the entry into force of this Regulation and every five years thereafter, theCommission shall commission an evaluation to assess, in particular, the impact,effectiveness and efficiency of the Agency and its working practices. Theevaluation shall address, in particular, any need to amend the mandate of theAgency, and the financial implications of any such amendment.
+
+2.           The Commission shallforward the evaluation report together with its conclusions on the report tothe European Parliament, the Council and the Management Board. The findings ofthe evaluation shall be made public.
+
+3.           On the occasion of everysecond evaluation, there shall also be an assessment of the results achieved bythe Agency having regard to its objectives, mandate and tasks.
+
+Article 77
+
+Transitional provisions
+
+1.           The Agency replaces andsucceeds the European Railway Agency established by Regulation (EC) No 881/2004 as regards all ownership, agreements,legal obligations, employments contracts, financial commitments and liabilities.
+
+2.           By way of derogation fromArticle 43, the Members of the Administrative Board appointed under Regulation (EC) No 881/2004 before thedate of entry into force of this Regulation, shall remain in office until theexpiry date of their term as Members of the Management Board.
+
+By way of derogation from Article 49, theExecutive Director which has been appointed in accordance with Regulation (EC)No 881/2004 shall remain in office until the expiry date of his term.
+
+3.           By way of derogation fromArticle 61, all employment contracts in force on the date of entry into forceof this Regulation, shall be honoured until their expiry date.
+
+Article 78
+
+Repeal
+
+Regulation(EC) No 881/2004 is repealed.
+
+Article 79
+
+Entryinto force
+
+This Regulation shall enter into force onthe twentieth day following that of its publication in the Official Journalof the European Union.
+
+This Regulation shall be binding in itsentirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament                       Forthe Council
+
+The President                                                 ThePresident
+
+ANNEX
+
+LEGISLATIVE FINANCIALSTATEMENT
+
+1.           FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.        Title of theproposal/initiative
+
+Proposal for a Regulation of the European Parliament and of theCouncil on the European Union Agency for Railways and repealing Regulation (EC)No 881/2004
+
+1.2.        Policy area(s) concernedin the ABM/ABB structure[22]
+
+06: Mobility and Transport
+
+0602: Inland, air and maritime transport policy
+
+060208: European Railway Agency
+
+06020801: European Railway Agency — Contribution to Titles 1 and 2
+
+06020802: European Railway Agency — Contribution to Title 3
+
+1.3.        Nature of theproposal/initiative
+
+¨ Theproposal/initiative relates to a new action
+
+¨ Theproposal/initiative relates to a new action following a pilot project/preparatoryaction[23]
+
+ý The proposal/initiative relates to theextension of an existing action
+
+¨ Theproposal/initiative relates to an action redirected towards a new action
+
+1.4.        Objectives
+
+1.4.1.     The Commission’smultiannual strategic objective(s) targeted by the proposal/initiative
+
+Objectives/EU added value in line with Europe 2020:
+
+The Agency contributes to interoperable, safe and sustainablerailway transport for the EU economy and for the EU citizens. This is fully inline with the three priorities of Europe 2020:
+
+– Smart growth: developing an economy based on knowledge andinnovation. The Agency contributes to the development of the highest possibletechnical standards for railway vehicles and infrastructure, thus promotingknowledge and innovation.
+
+– Sustainable growth: promoting a more resource efficient, greenerand more competitive economy. The Agency contributes to making the EU transportsector more sustainable and environmentally-friendly, limiting the overalllevel of emissions and energy consumption. Rail transport will contribute tothe ‘20/20/20’ climate/energy targets and the flagship initiative ‘Resourceefficient Europe’. The Agency will play its role in the sector implementation.
+
+– Inclusive growth: fostering a high-employment economy deliveringsocial and territorial cohesion. With regard to peripheral regions and theirconnection with the core, railway transport is an essential element forensuring territorial cohesion. It provides affordable and sustainable means oftransportation for large parts of population, thus contributing to increasedsocial mobility and increased employment opportunities, and helps to close thegap between poorer and richer regions and countries in the EU.
+
+1.4.2.     Specific objective(s) andABM/ABB activity(ies) concerned
+
+Budget area: 06 02
+
+ABM/ABB activity concerned: 060208European Railway Agency:
+
+- Budget heading 06 02 08 01 — European Railway Agency — Subsidyunder Titles I and II (administrative expenditure)
+
+- Budget heading 06 02 08 02 — European Railway Agency — Subsidyunder Title III (operational expenditure)
+
+Specific objectives:
+
+Specific objective 1: Increase theefficiency of railway safety certification and authorisation procedures byissuing single safety certificates, vehicle authorisations for placing on themarket and authorisations for placing in service of trackside control-commandand signalling subsystems valid throughout the EU, and ensurenon-discrimination.
+
+Specific objective 2: Increase thecoherence of the EU railway framework by monitoring national railwayauthorities and reducing the number of national railway rules.
+
+Specific objective 3: Improveimplementation and application of EU railway legislation through increasedassistance to the Commission, Member States and stakeholders.
+
+Specific objective 4: Assist theCommission with creating and updating secondary railway interoperability andsafety legislation, including developing a common approach to safety.
+
+Specific objective 5: Ensure coherentdevelopment of the ERTMS in the EU and promote the ERTMS outside the EU.
+
+Specific objective 6: Ensure propercertification of train drivers and other related tasks, in accordance withDirective 2007/59/EC.
+
+Specific objective 7: Maintain andupdate public registers and databases relating to railway safety andinteroperability.
+
+1.4.3.     Expected result(s) andimpact
+
+Specify the effectswhich the proposal/initiative should have on the beneficiaries/groups targeted.
+
+Results linked with the specific objectives:
+
+Result of specific objective 1: reducedcosts for applicants and shorter duration of issuing of safety certificates,vehicle authorisations for placing on the market and authorisations for placingin service of trackside control-command and signalling subsystems; identicalconditions for all applicants in the EU; ensured non-discrimination foroperators.
+
+Result of specific objective 2:harmonisation of the application of EU railway legislation and practices ofnational authorities; increased clarity and transparency of legal requirementsand operating conditions in the EU by reducing unnecessary rules, both limitingpossibilities for discriminatory practices against operators.
+
+Result of specific objective 3:increased understanding of railway legislation by stakeholders and MemberStates leading to smoother operation of the Single European Railway Area;making the work of different Commission services more effective and efficient.
+
+Result of specific objective 4: SingleEuropean Railway Area made more interoperable with a high level of safety, withbenefits for railway undertakings, customers and passengers.
+
+Result of specific objective 5: the ERTMSis implemented consistently in the EU with its equipment compliant withspecifications in force; ERTMS standards promoted outside the EU.
+
+Result of specific objective 6: traindrivers are treated in a consistent manner in the EU.
+
+Result of specific objective 7:transparency for railway stakeholders, Member States and general public inrelation to important railway interoperability and safety data.
+
+1.4.4.     Indicators of results andimpact
+
+Specify theindicators for monitoring implementation of the proposal/initiative.
+
+Indicators of specific objective 1:
+
+- number of safety certificates issued;
+
+- number of vehicle authorisations for placing on the market issued;
+
+- number of authorisations for placing in service of tracksidecontrol-command and signalling subsystems issued.
+
+Indicators of specific objective 2:
+
+- number of audit reports of national authorities issued;
+
+- number of national rules withdrawn;
+
+- number of national rules declared cross-accepted;
+
+- other outcomes relating to control and monitoring.
+
+Indicators of specific objective 3:
+
+- number of reports evaluating implementation of railwaylegislation;
+
+- number of railway projects evaluated;
+
+- number of information and training events (workshops, conferences)organised;
+
+- number of interpretative documents issued;
+
+- number of assistance visits performed
+
+- other outcomes relating to increased assistance.
+
+Indicators of specific objective 4:
+
+- number of recommendations for new Technical Specifications ofInteroperability (TSIs) sent to the Commission;
+
+- number of recommendations for revision of Technical Specificationsof Interoperability (TSIs) sent to the Commission;
+
+- number of recommendations for new Common Safety Methods (CSMs)sent to the Commission;
+
+- number of recommendations for revision of Common Safety Methods(CSMs) sent to the Commission;
+
+- number of opinions provided to the Commission, Member States andother stakeholders;
+
+- number of impact assessments and cost-benefit analyses issued;
+
+- other outcomes relating to increasing interoperability and safety.
+
+Indicators of specific objective 5:
+
+- number of recommendations relating to changes and new versions of theERTMS issued;
+
+- number of reports provided to the Commission evaluating theimplementation of the conformity assessment and the EC verification procedureof ERTMS equipment;
+
+- number of recommendations relating to technical incompatibilitiesof ERTMS projects sent to the Commission
+
+- other outcomes relating to ensuring coherent development anddeployment of the ERTMS.
+
+Indicators of specific objective 6:
+
+- number of train drivers certified inaccordance with the Directive on train drivers;
+
+- other outcomes relating to harmonisation of train drivers conditions.
+
+Indicators of specific objective 7:
+
+- number of public databases and registersestablished and managed;
+
+- other outcomes relating to transparency of railway-related data.
+
+1.5.        Grounds for theproposal/initiative
+
+1.5.1.     Requirement(s) to be met inthe short or long term
+
+Allow ERA to engage in new activities and continue to sufficientlycover existing tasks which are necessary to achieve fully interoperable andsafe internal railway market (Single European Railway Area).
+
+1.5.2.     Added value of EU involvement
+
+Current EU involvement (tasks of the European Railway Agency) islaid down in ERA Founding Regulation 881/2004. Moreover, Directive 2004/49/EC,Directive 2008/57/EC and Directive 2007/59/EC have directly and indirectlygiven other tasks to the Agency. In a similar manner, numerous secondarylegislation adopted by the Commission under the above-mentioned directives, inparticular the TSIs, CSMs and CSTs, have had an impact of the activities andwork of ERA. The current Regulation aims to combine all existing tasks of theAgency in one legal act, and extend the role of ERA to areas where is itjustified.
+
+In line with the Transport White Paper of 2011 (Roadmap to a SingleEuropean Transport Area — Towards a competitive and resource efficienttransport system) and the results of the impact assessment accompanying currentinitiative, this proposal will provide further EU added value by eliminatingexisting technical and administrative barriers in the railway sector, notablyby:
+
+- making railway vehicle authorisation and safety certification ofrailway undertakings more efficient (cheaper and faster) and impartial, bymoving them to the EU level;
+
+- increasing the coherence and application of EU railway acquisby allowing the Agency to monitor the functioning of national authoritiesactive in railway interoperability and safety fields;
+
+- facilitating faster progress towards truly common EU railwaystandards by increasing ERA’s action in reducing national railway rules;
+
+- improving spending of EU funds for the railways (TEN, CohesionFund, Structural Funds, research programmes, etc.).
+
+EU involvement through ERA allows for high added value thanks to:
+
+- the use of a dedicated structure and qualified staff, some of whomare already available;
+
+- positive experience with tried and tested methods (for example,using the established and operational network of national safety authorities);
+
+- its objectivity and impartiality, highly appreciated bystakeholders.
+
+1.5.3.     Lessons learned fromsimilar experiences in the past
+
+Evaluation of the ERA Regulation and functioning of the Agency(2009-2010) and the general evaluation of the EU Agencies in 2009 both showedthe added value provided by the Agency.
+
+This initiative seeks to apply (by revising the ERA Regulation) therecommendations from the ERA evaluation exercise, of the Court of Auditors,Internal Audit Service and the Joint Statement of the Commission, the EuropeanParliament and the Council on decentralised agencies, particularly with regardto internal structure, governance and functioning.
+
+1.5.4.     Coherence and possiblesynergy with other relevant instruments
+
+The proposal is in line with the Transport WhitePaper of 2011, in particular with its initiatives 1 and 19:
+
+- "Achieve a single vehicle typeauthorisation and a single railway undertaking safety certification byreinforcing the role of the European Railway Agency (ERA)";
+
+- "Enhance the role of ERA in the field ofrail safety, in particular its supervision on national safety measures taken byNational Safety Authorities and their progressive harmonisation".
+
+The proposal is consistent with the EU railwayinteroperability and safety policy and legislation, in particular Directives2004/49 (Railway Safety Directive) and 2008/57 (Railway InteroperabilityDirective) which will also be amended as part of this initiative. All threerevised acts are interlinked and aim at removing remaining administrative andtechnical barriers, in particular by establishing a common approach to safetyand interoperability rules to increase economies of scale for railwayundertakings active across the EU, decreasing administrative costs andaccelerating administrative procedures, as well as to avoiding disguiseddiscrimination.
+
+Moreover, this initiative is a part of a broader Fourth RailwayPackage which will aim — besides the objective described above — to open up thedomestic rail passenger market and optimise the governance of infrastructuremanagement; synergies are expected especially with regard to reducingdiscrimination in relation to access to infrastructure, thus lowering theaccess barriers for new entrants.
+
+There is also an important synergy between the revised tasks of ERAand the TEN-T Executive Agency in relation to the evaluation of railwayprojects, in relation to increased value for money and efficiency of projectsfunded from the EU funds.
+
+Besides, this initiative is consistent with and implementsrecommendations of the Court of Auditors, Internal Audit Service and the JointStatement of the Commission, the European Parliament and the Council ondecentralised agencies, as well as with the evaluation of ERA.
+
+Finally, this initiative seeks to include in the ERA Regulation anumber of tasks and activities that were assigned to the Agency by other acts,particularly Directive 2007/59/EC, Commission Decisions on TechnicalSpecifications on Interoperability (TSIs) and Common Safety Methods (CSMs).
+
+1.6.        Duration and financialimpact
+
+x Proposal/initiative of unlimitedduration
+
+–     Implementation with a start-up period from 2015to 2020,
+
+–     followed by full-scale operation.
+
+1.7.        Management mode(s)envisaged[24]
+
+¨ Centralised direct management by the Commission
+
+x Centralised indirect management with the delegation of implementation tasks to:
+
+–     ¨  executive agencies
+
+–     x bodies set up by the Communities[25]
+
+–     ¨  national public-sector bodies/bodies with public-service mission
+
+–     ¨  persons entrusted with the implementation of specific actionspursuant to Title V of the Treaty on European Union and identified in therelevant basic act within the meaning of Article 49 of the Financial Regulation
+
+¨ Shared management with the Member States
+
+¨ Decentralised management with third countries
+
+¨ Joint management with international organisations (to be specified)
+
+2.           MANAGEMENT MEASURES
+
+2.1.        Monitoring and reportingrules
+
+Specify frequencyand conditions.
+
+All EU agencies work under a strict monitoring system involvinginternal audit capability, the Internal Audit Service of the Commission, theAdministrative Board, the Commission, the Court of Auditors and the BudgetaryAuthority. This system as laid down in the ERA founding Regulation willcontinue to apply.
+
+2.2.        Management and controlsystem
+
+2.2.1.     Risk(s) identified
+
+None
+
+2.2.2.     Control method(s) envisaged
+
+Not applicable
+
+2.3.        Measures to prevent fraudand irregularities
+
+Specify existing orenvisaged prevention and protection measures.
+
+Anti-fraud measures are included in the ERA founding Regulationunder Article 41 and will continue to apply.
+
+3.           ESTIMATED FINANCIAL IMPACT OF THEPROPOSAL/INITIATIVE
+
+3.1.        Heading(s) of themultiannual financial framework and expenditure budget line(s) affected
+
+·      Existing expenditure budget lines
+
+In order ofmultiannual financial framework headings and budget lines.
+
+Heading of multiannual financial framework || Budget line || Type of expenditure || Contribution
+
+Number [Description] || Diff./non-diff. ([26]) || from EFTA[27] countries || from candidate countries[28] || from third countries || within the meaning of Article 18(1)(aa) of the Financial Regulation
+
+1.1 || 06.02.08 [ERA budget line] || Non-diff. || YES || NO || NO || NO
+
+3.2.        Estimated impact onexpenditure
+
+Before going into the details of the estimatedimpact of the present proposal, it is important to highlight that thisestimated impact is provisional at this stage as it is subject to the adoptionof the new Multiannual Financial Framework 2014-2020 by the BudgetaryAuthority.
+
+3.2.1.     Summary of estimated impacton expenditure
+
+EUR million (current prices, to 3 decimal places)
+
+Heading of multiannual financial framework: || 1 || Smart and Inclusive Growth
+
+DG: MOVE ||   ||   || 2015 || 2016 || 2017 || 2018 || 2019 || 2020 || TOTAL 2015-2020
+
+ Administrative appropriations ||   ||   ||   ||   ||   ||   ||
+
+Number of budget line 06.02.08 [ERA budget line] Basis: - Starting point - DB 2013 at € 25M, - 2% taxation applied to staff in 2014-2017, - 1% increase of yearly budget due to annual adjustment. From 2017 onwards external revenues from fees and charges kick in so no call on the EU budget in relation to new staff. || Commitments || (1) || 25.613 (including 0.113 for new tasks) || 26  (incl. 0.3 for new tasks) || 26   (0 for new tasks) || 26.25   (0 for new tasks) || 26.5   (0 for new tasks) || 26.75   (0 for new tasks) || 157.113   (out of which 0.413 to cover new tasks in 2015-2016)
+
+Payments || (2) || 25.613 || 26 || 26 || 26.25 || 26.5 || 26.75 || 157.113
+
+TOTAL appropriations for DG MOVE || Commitments || (5)=1+3 || 25.613 || 26 || 26 || 26.25 || 26.5 || 26.75 || 157.113   (out of which 0.413 to cover new tasks in 2015-2016)
+
+Payments || (6)=2+4 || 25.613 || 26 || 26 || 26.25 || 26.5 || 26.75 || 157.113
+
+TOTAL appropriations under HEADING 1 of the multiannual financial framework || Commitments || =5 || 25.613 || 26 || 26 || 26.25 || 26.5 || 26.75 || 157.113   (out of which 0.413 to cover new tasks in 2015-2016)
+
+Payments || =6 || 25.613 || 26 || 26 || 26.25 || 26.5 || 26.75 || 157.113
+
+Heading of multiannual financial framework: || 5 || ’ Administrative expenditure ‘
+
+EUR million (current prices, to 3 decimal places)
+
+||   ||   || 2015 || 2016 || 2017 || 2018 || 2019 || 2020 || TOTAL 2015-2020
+
+DG: MOVE ||
+
+ Human resources Basis: current level of budget for staff at DG MOVE dealing with ERA-related issues (0.655 €M – 5 staff) applied each year + 1% annual adjustment || 0.655 || 0.66 || 0.665 || 0.67 || 0.675 || 0.68 || 4.005
+
+ Other administrative expenditure || 0 || 0 || 0 || 0 || 0 || 0 || 0
+
+TOTAL DG MOVE || Appropriations || 0.655 || 0.66 || 0.665 || 0.67 || 0.675 || 0.68 || 4.005
+
+TOTAL appropriations under HEADING 5 of the multiannual financial framework || (Total commitments = Total payments) || 0.655 || 0.66 || 0.665 || 0.67 || 0.675 || 0.68 || 4.005
+
+EUR million (to 3 decimal places)
+
+||   ||   || 2015 || 2016 || 2017 || 2018 || 2019 || 2020 || TOTAL
+
+TOTAL appropriations under HEADINGS 1 to 5 of the multiannual financial framework || Commitments || 26.268 || 26.66 || 26.665 || 26.92 || 27.175 || 27.43 || 161.118
+
+Payments || 26.268 || 26.66 || 26.665 || 26.92 || 27.175 || 27.43 || 161.118
+
+3.2.2.     Proposed draftestablishment plan for ERA 2015-2020
+
+ALL NEW STAFF IS FINANCED WITH EXTERNALFEES AND CHARGES FROM 2017:
+
+Proposed staffing for ERA 2015-2020 [Basis: 143 establishment plan staff in 2013 and 2 % taxation by 2017 (-2-3 person per year)] ||   || 2015 || 2016 || 2017 || 2018 || 2019 || 2020
+
+AD Grades ||   || 101 || 100 || 99 || 99 || 99 || 99
+
+New AD Grades ||   || 0 || 0 || 12 || 14 || 14 || 14
+
+Total AD ||   || 101 || 100 || 111 || 113 || 113 || 113
+
+AST Grades ||   || 37 || 36 || 34 || 34 || 34 || 34
+
+New AST Grades ||   || 0 || 0 || 4 || 4 || 4 || 4
+
+Total AST ||   || 37 || 36 || 38 || 38 || 38 || 38
+
+Subtotal Establishment Plan Posts ||   || 138 || 136 || 149 || 151 || 151 || 151
+
+SNEs ||   || 6 || 6 || 6 || 6 || 6 || 6
+
+New SNEs ||   || 2 || 5 || 12 || 13 || 13 || 13
+
+Total SNEs ||   || 8 || 11 || 18 || 19 || 19 || 19
+
+Contract Agents ||   || 15 || 15 || 15 || 15 || 15 || 15
+
+New Contract agents ||   || 1 || 3 || 7 || 9 || 10 || 12
+
+Total Contract agents ||   || 16 || 18 || 22 || 24 || 25 || 27
+
+Cumulative new posts ||   || 5 || 10 || 35 || 40 || 41 || 43
+
+Impact on EPP ||   || 0 || 0 || 16 || 18 || 18 || 18
+
+GENERAL TOTAL ||   || 162 || 165 || 189 || 194 || 195 || 197
+
+||   ||   ||   ||   ||   ||   ||
+
+3.2.3.     Estimated impact onadministrative and operational appropriations
+
+–     ¨  The proposal/initiative does not require the use of operationalappropriations
+
+–     x The proposal/initiative requires the use of operational andadministrative appropriations, as explained below:
+
+–     Please note that the outputs given below relateto the total budget of ERA (Titles 1+2+3).
+
+–     Please note that the cost of the outputs inSpecific Objective no 1 will constitute an income for ERA: the Agency willcharge external applicants for issuing these documents. Therefore, they aremarked in brackets and are not added to the total sum of costs of all theoutputs.
+
+Commitment appropriations in EUR million (to 3 decimalplaces)
+
+Indicate objectives and outputs   ò ||   ||   || 2015 || 2016 || 2017 || 2018 || 2019 || 2020 || TOTAL ||
+
+||
+
+Type of output[29] || Average cost of the output || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Total number of outputs || Total cost ||
+
+SPECIFIC OBJECTIVE No 1[30]: Increase the efficiency of railway safety certification and authorisation procedures by issuing single safety certificates, vehicle authorisations for placing on the market and authorisations for placing in service of trackside control-command and signalling subsystems valid throughout the EU, and ensure non-discrimination. ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+Single Safety Certificates || Number of safety certificates issued || (0.01) - will be covered by fees and charges || 0 ||   || 0 ||   || 110 || (1.1) || 110 || (1.1) || 110 || (1.1) || 110 || (1.1) || 440 || (4.4) will be covered by fees and charges
+
+Vehicle authorisations for placing on the market || Number of vehicle authorisations for placing on the market issued || (0.017) - will be covered by fees and charges || 0 ||   || 0 ||   || 456 || (7.752) || 452 || (7.684) || 449 || (7.632) || 447 || (7.598) || 1804 || (30.67) will be covered by fees and charges
+
+System Authority for the ERTMS || Number of authorisations for placing in service of trackside control-command and signalling sub-systems issued || (0.05) will be covered by fees and charges || 0 ||   || 0 ||   || 30 || (1.5) || 32 || (1.6) || 35 || (1.75) || 40 || (2) || 137 || (6.85) will be covered by fees and charges
+
+Sub-total for specific objective No 1 ||   ||   ||   ||   ||   || (10.352) ||   || (10.384) ||   || (10.482) ||   || (10.698) ||   || (41.92)
+
+SPECIFIC OBJECTIVE No 2: Increase the coherence of the EU railway framework by monitoring national railway authorities and reducing the number of national railway rules || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Total number of outputs || Total cost
+
+Monitoring national authorities || Number of audit reports issued || 0.2 || 2 || 0.4 || 3 || 0.6 || 5 || 1 || 5 || 1 || 5 || 1 || 5 || 1 || 25 || 5
+
+Reduction of diverging national rules and increasing cross-acceptance || Number of national rules withdrawn || 0.0015 || 1000 || 1.5 || 1500 || 2.25 || 1500 || 2.25 || 2000 || 3 || 1500 || 2.25 || 1500 || 2.25 || 9000 || 13.5
+
+Number of national rules declared cross-accepted   || 0.001 || 1000 || 1.0 || 1000 || 1.0 || 1000 || 1.0 || 1000 || 1.0 || 1000 || 1.0 || 1000 || 1.0 || 8000 || 6.0
+
+Other || Other outcomes relating to control and monitoring || 0.001 || 100 || 0.1 || 100 || 0.1 || 125 || 0.125 || 125 || 0.125 || 150 || 0.15 || 150 || 0.15 || 750 || 0.75
+
+Sub-total for specific objective No 2 ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   || 25.25
+
+SPECIFIC OBJECTIVE No 3: Improve implementation and application of EU railway legislation by increased assistance to the Commission, Member States and stakeholders, and other tasks ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+Assistance to the Commission || Number of reports evaluating implementation of railway legislation || 0.1 || 3 || 0.3 || 5 || 0.5 || 7 || 0.7 || 10 || 1 || 14 || 1 || 18 || 1 || 57 || 5.7
+
+Number of railway projects evaluated || 0.05 || 5 || 0.25 || 7 || 0.35 || 10 || 0.5 || 15 || 0.75 || 20 || 1 || 25 || 1.25 || 82 || 4.1
+
+Assistance to Member States and other stakeholders || Number of information and training events (workshops, conferences) organised || 0.1 || 5 || 0.5 || 7 || 0.7 || 10 || 1 || 12 || 1.2 || 14 || 1.4 || 16 || 1.6 || 64 || 6.4
+
+Number of interpretative documents issued || 0.1 || 2 || 0.2 || 2 || 0.2 || 4 || 0.4 || 8 || 0.8 || 10 || 1 || 10 || 1 || 36 || 3.6
+
+Number of assistance visits performed || 0.1 || 2 || 0.2 || 4 || 0.4 || 8 || 0.8 || 10 || 1 || 10 || 1 || 12 || 1.2 || 46 || 4.6
+
+Other tasks || Other outcomes relating to increased assistance || 0.001 || 100 || 0.1 || 100 || 0.1 || 100 || 0.1 || 100 || 0.1 || 100 || 0.1 || 100 || 0.1 || 600 || 0.6
+
+Sub-total for specific objective No 3 ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   || 25
+
+SPECIFIC OBJECTIVE No 4: Assist the Commission in creating and updating secondary railway interoperability and safety legislation, including developing a common approach to safety || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Total number of outputs || Total cost
+
+Increasing interoperability || Number of new TSIs sent to the Commission || 1 || 0 || 0 || 0 || 0 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 4 || 4
+
+Number of revised TSIs sent to the Commission || 0.6 || 4 || 2.4 || 4 || 2.4 || 4 || 2.4 || 4 || 2.4 || 4 || 2.4 || 4 || 2.4 || 24 || 14.4
+
+Increasing level of safety || Number of new CSMs sent to the Commission || 1 || 0 || 0 || 0 || 0 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 4 || 4
+
+Number of revised CSMs sent to the Commission || 0.6 || 4 || 2.4 || 4 || 2.4 || 4 || 2.4 || 4 || 2.4 || 4 || 2.4 || 4 || 2.4 || 24 || 14.4
+
+Facilitating operation of Single European Railway Area || Number of opinions provided to the Commission, MS and stakeholders || 0.2 || 6 || 1.2 || 6 || 1.2 || 8 || 1.6 || 8 || 1.6 || 8 || 1.6 || 8 || 1.6 || 44 || 8.8
+
+Number of impact assessments and cost-benefit analyses issued || 0.06 || 20 || 1.2 || 20 || 12 || 25 || 1.5 || 27 || 1.62 || 29 || 1.74 || 30 || 1.8 || 151 || 9.06
+
+Other || Other outcomes relating to increasing interoperability and safety || 0.006 || 50 || 0.3 || 80 || 0.48 || 80 || 0.48 || 80 || 0.48 || 80 || 0.48 || 80 || 0.48 || 450 || 2.7
+
+Sub-total for specific objective No 4 ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   || 57.36
+
+SPECIFIC OBJECTIVE No 5: Ensure a coherent development of the ERTMS in the EU and promote the ERTMS outside the EU ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+System Authority for the ERTMS || Number of recommendations for changes and new versions of the ERTMS issued || 0.7 || 2 || 1.4 || 2 || 1.4 || 4 || 2.8 || 5 || 3.5 || 6 || 4.2 || 8 || 5.6 || 27 || 18.9
+
+Verification of implementation of the ERTMS || Number of reports evaluating the implementation of the conformity assessment and the EC verification procedure of ERTMS equipment issued || 0.04 || 8 || 0.32 || 12 || 0.48 || 20 || 0.8           || 25 || 1 || 30 || 1.2 || 30 || 1.2 || 125 || 5
+
+Number of recommendations relating to technical incompatibilities of ERTMS projects issued || 0.1 || 3 || 0.3 || 3 || 0.3 || 5 || 0.5 || 8 || 0.8 || 10 || 1 || 12 || 1.2 || 41 || 4.1
+
+Other tasks || Other outcomes relating to ensuring coherent development and deployment of the ERTMS || 0.001 || 100 || 0.1 || 100 || 0.1 || 100 || 0.1 || 100 || 0.1 || 100 || 0.1 || 100 || 0.1 || 600 || 0.6
+
+Sub-total for specific objective No 5 ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   || 28.6
+
+SPECIFIC OBJECTIVE No 6: Ensure proper certification of train drivers and other related tasks, in accordance with Directive 2007/59/EC || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Number of outputs || Cost || Total number of outputs || Total cost
+
+Harmonisation of criteria for train drivers || Number of measures harmonising the train drivers conditions issued in accordance with the Directive on train drivers || 0.6 || 2 || 1.2 || 2 || 1.2 || 2 || 1.2 || 2 || 1.2 || 2 || 1.2 || 2 || 1.2 || 12 || 7.2
+
+Other outcomes || 0.001 || 10 || 0.01 || 10 || 0.01 || 10 || 0.01 || 10 || 0.01 || 10 || 0.01 || 10 || 0.01 || 60 || 0.6
+
+Sub-total for specific objective No 6 ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   || 7.8
+
+SPECIFIC OBJECTIVE No 7: Maintain and update public registers and databases relating to railway safety and interoperability ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+Transparency for stakeholders and the public regarding railway interoperability and safety data || Number of public databases and registers established and managed || 0.1 || 15 || 1.5 || 17 || 1.7 || 20 || 2 || 20 || 2 || 25 || 2.5 || 25 || 2.5 || 122 || 12.2
+
+Other outcomes || 0.001 || 10 || 0.01 || 10 || 0.01 || 15 || 0.015 || 15 || 0.015 || 15 || 0.015 || 15 || 0.015 || 80 || 0.8
+
+Sub-total for specific objective No 7 ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   || 13
+
+TOTAL COST ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   || 157.01
+
+3.2.4.     Estimated impact onappropriations of an administrative nature
+
+3.2.4.1.  Summary
+
+–     ¨  The proposal/initiative does not require the use of administrativeappropriations
+
+–     x The proposal/initiative requires the use of administrativeappropriations, as explained below:
+
+Basis for calculations: current staff at DGMOVE dealing with ERA-related issues (5 persons, 0.131€ M per person/yearand 1% annual adjustment) applied to each year; no increase due to enhancedpowers of ERA
+
+EUR million (to 3decimal places)
+
+|| 2015 || 2016 || 2017 || 2018 || 2019 || 2020 || TOTAL 2015-2020
+
+Officials (AD Grades) || 0.655 || 0.66 || 0.665 || 0.67 || 0.675 || 0.68 || 4.005
+
+Officials (AST grades) || 0 || 0 || 0 || 0 || 0 || 0 || 0
+
+Contractual agent ||   ||   ||   ||   ||   ||   ||
+
+Temporary agents || 0 || 0 || 0 || 0 || 0 || 0 || 0
+
+Seconded National Experts || 0 || 0 || 0 || 0 || 0 || 0 || 0
+
+TOTAL || 0.655 || 0.66 || 0.665 || 0.67 || 0.675 || 0.68 || 4.005
+
+3.2.4.2.   Estimated requirements ofhuman resources
+
+–     ¨  The proposal/initiative does not require the use of humanresources
+
+–     x The proposal/initiative requires the use of human resources, asexplained below:
+
+Basis for calculations: current staff at DGMOVE dealing with ERA-related issues (5 persons, 0.131€ M per person/year)applied to each year; no increase due to enhanced powers of ERA
+
+Estimate to be expressed in full amounts(or at most to one decimal place)
+
+|| 2015 || 2016 || 2017 || 2018 || 2019 || 2020
+
+ Establishment plan posts (officials and temporary agents)
+
+XX 01 01 01 (Headquarters and Commission’s Representation Offices) || 5 || 5 || 5 || 5 || 5 || 5
+
+XX 01 01 02 (Delegations) || 0 || 0 || 0 || 0 || 0 || 0
+
+XX 01 05 01 (Indirect research) || 0 || 0 || 0 || 0 || 0 || 0
+
+10 01 05 01 (Direct research) || 0 || 0 || 0 || 0 || 0 || 0
+
+ External personnel (in Full Time Equivalent unit: FTE)[31]
+
+XX 01 02 01 (CA, INT, SNE from the ‘global envelope’) || 0 || 0 || 0 || 0 || 0 || 0
+
+XX 01 02 02 (CA, INT, JED, LA and SNE in the delegations) || 0 || 0 || 0 || 0 || 0 || 0
+
+XX 01 04 yy [32] || - at Headquarters[33] || 0 || 0 || 0 || 0 || 0 || 0
+
+- in delegations || 0 || 0 || 0 || 0 || 0 || 0
+
+XX 01 05 02 (CA, INT, SNE — Indirect research) || 0 || 0 || 0 || 0 || 0 || 0
+
+10 01 05 02 (CA, INT, SNE — Direct research) || 0 || 0 || 0 || 0 || 0 || 0
+
+Other budget lines (specify) || 0 || 0 || 0 || 0 || 0 || 0
+
+TOTAL || 5 || 5 || 5 || 5 || 5 || 5
+
+XX is thepolicy area or budget title concerned.
+
+The human resources requiredwill be met by staff from the DG who are already assigned to management of the actionand/or have been redeployed within the DG, together if necessary with anyadditional allocation which may be granted to the managing DG under the annualallocation procedure and in the light of budgetary constraints.
+
+Description of tasks to be carried out:
+
+Officials and temporary agents || Existing staff of DG MOVE deals with ERA-related issues, including: - managing implementing measures adopted in result of Agency's recommendations (Commission Decisions and Regulations) in the field of railway safety and interoperability; - administrative coordination and control over ERA: work programmes, multi-annual staff policy plans, meetings of Management Board and its sub-committee; - policy coordination: participation in working parties of ERA, content of work programme, mandates from Commission to ERA, working-level meetings; - managing ERA's opinions; - financial and accounting responsibilities regarding ERA at the side of the Commission (budget, discharge etc.).
+
+External personnel ||
+
+3.2.5.     Compatibility with thecurrent multiannual financial framework
+
+–     ¨  Proposal/initiative is compatible the current multiannualfinancial framework.
+
+–     x Proposal/initiative will entail reprogramming of the relevantheading in the multiannual financial framework.
+
+Explain what reprogramming is required,specifying the budget lines concerned and the corresponding amounts.
+
+The ERA budget line (06.02.08) will have to be adjusted to theamount specified in this financial statement (total of € 157.113 M for theperiod 2015-2020).
+
+For the time being, only indicative amounts for the agencies areincluded in the financial framework. The indicative amount for ERA wasestimated before the results of the impact assessment and other calculations linkedwith this initiative were known.
+
+For the period 2015-2020 the status of ERA will change from ‘cruisingspeed agency’ to ‘new tasks agency’.
+
+–     ¨  Proposal/initiative requires application of the flexibilityinstrument or revision of the multiannual financial framework[34].
+
+Explain what is required, specifying theheadings and budget lines concerned and the corresponding amounts.
+
+3.2.6.     Third-party contributions
+
+–     The proposal/initiative provides for theco-financing estimated below:
+
+Appropriations in EUR million (to 3 decimal places)
+
+|| 2015 || 2016 || 2017 || 2018 || 2019 || 2020 || Total
+
+EFTA Contribution from Norway and Iceland calculated at 2 % of the budget || 0.5 || 0.5 || 0.5 || 0.5 || 0.5 || 0.5 || 3
+
+TOTAL appropriations co-financed || 0.5 || 0.5 || 0.5 || 0.5 || 0.5 || 0.5 || 3
+
+3.3.        Estimated impact onrevenue
+
+–              ¨ Proposal/initiative has no financial impact on revenue.
+
+–              x Proposal/initiative has the following financial impact:
+
+–              x on own resources
+
+–              ¨ on miscellaneous revenue
+
+EUR million (to 3 decimal places)
+
+Budget revenue line: || Appropriations available for the ongoing budget year || Impact of the proposal/initiative[35]
+
+2015 || 2016 || 2017 || 2018 || 2019 || 2020
+
+ERA budget line 06.02.08 ||   ||   ||   || 10.352 || 10.384 || 10.482 || 10.698
+
+Specify the method forcalculating the impact on revenue.
+
+Some of the new tasks envisaged for ERA (safety certificates,vehicle authorisations for placing on the market and authorisations for placingin service of trackside control-command and signalling sub-systems) will allowfor charging the external applicants for issuing them.
+
+According to the impact assessment, these new tasks will start in2017 and the revenue for ERA was calculated in the following way:
+
+- cost of issuing a safety certificate: €0.01m
+
+- cost of issuing a vehicle authorisation: €0.017m
+
+- cost of issuing an authorisations for placing in serviceof trackside control-command and signalling sub-system: €0.05m
+
+- respective numbers of all types of decisions issued eachyear are provided in table 3.2.3.
+
+Summary of method of calculation:
+
+The fees set out in the impact assessment report have been calculatedby taking the average of the current fees paid by operators wishing to obtain asafety certificate or gain vehicle authorisation in the EU; a similar approachwas used in case of authorisations for placing in service of tracksidecontrol-command and signalling sub-system. There was a large variation in thefees paid, and also a substantial difference between the fees paid in EU15Member States (about €20,000 for safety certificates and €28,000 forauthorisations) and the fees paid in EU12 Member States (about €3,000 forsafety certificates and €17,000 for authorisations). In determining the futurevalue of these fees it was assumed that, given: the cost of staff in theAgency, the more streamlined processes of dealing with the applications, avalue close to the mid-point of the low average and the high average would bethe most appropriate going forward.
+
+It is important to note that the calculations set out for the feesare average across all types of safety certificates and vehicle authorisations;4 types of safety certificates and 20 types of vehicle authorisations wereidentified in the IA support study. Although the “centralisation” process withERA will lead to the number of types of certificates and authorisationsfalling, there will still be multiple categories. For example, there will stillbe a different process for the authorisation of a locomotive and a wagon. Assuch the fees will need to be differentiated for these two categories. Inparticular, the fees for wagon authorisation will be lower than the average andthe fees for locomotives and multiple units will be higher.
+
+The number (price per authorisation/certificate) that was calculatedin the impact assessment report is meant to be an average, it would be up tothe Agency to define the exact fees for the different categories with the aimof ensuring that the average of the fees collected was equal, or greater thanthis average. However, the aim of the calculation is to provide a realistic butconservative estimation of revenues for the Agency, and it is not excluded thatthe fees to be charged can actually lead to a higher average value, ifnecessary and justified.
+
+In terms of the number of authorisations and certificates, thesewere calculated starting from the current level of authorisations andcertifications. For future years, in relation to safety certificates, it wasassumed that the number of new entrants into the market would lead to anincrease in the number of safety certificates issued over time while the factthat there may be a change in the types of safety certificates could decreasethat number. Therefore, as a conservative estimate it was assumed that there isno change in the total annual number of safety certificates.
+
+For vehicle authorisations the approach was slightly different: themodel starts from existing authorisation levels as provided by stakeholders andvarious studies. However, while there are likely to be more new entrants andtherefore in absolute terms more vehicles to authorise, new entrants are morelikely to stick with proven technology and as such with the rolling stock thathas already been certified. Furthermore, as the industry standardises, infuture there are likely to be fewer types of vehicles to authorise, leading toa slight fall in the number of authorisations. Once again, the model dividedthe assessment into EU15 and EU12 Member States.
+
+DG MOVE considers that the calculations are robust and properly basedon existing and verifiable data obtained from stakeholders and the EuropeanRailway Agency. More information on methodology is provided in the impactassessment report accompanying this proposal, in particular its Annex VII.
+
+[1]               http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ec/127599.pdf.
+
+[2]               COM(2012) 299 final.
+
+[3]               COM(2012) 259 final.
+
+[4]               http://ec.europa.eu/transport/evaluations/doc/2011_era-evaluation-881-2004.pdf.
+
+[5]               OJ C … p ….
+
+[6]               OJ C … p ….
+
+[7]               OJ L 164, 30.4.2004, p. 1.
+
+[8]               OJ L 228, 9.9.1996,p. 1.
+
+[9]               OJ L 136, 31.5.1999,p. 1.
+
+[10]               OJ L 136, 31.5.1999,p. 15.
+
+[11]               Commission Decision 98/500/ECof 20 May 1998 on the establishment of Sectoral Dialogue Committeespromoting the dialogue between the social partners at European level (OJL 225, 12.8.1998, p. 27).
+
+[12]               OJ L 260, 30.9.2008, p. 13
+
+[13]               OJ L 51, 23.2.2012, p. 1
+
+[14]             OJ L 276, 20.10.2010, p. 22
+
+[15]             OJ L 218, 13.8.2008, p. 30.
+
+[16]             OJ L 315, 3.12.2007, p. 51.
+
+[17]             Commission Regulation (EC, Euratom)No 2343/2002 of 23 December 2002 on the framework Financial Regulation forthe bodies referred to in Article 185 of Council Regulation (EC, Euratom) No1605/2002 on the Financial Regulation applicable to the general budget of theEuropean Communities (OJ L 357, 31.12.2002, p. 72).
+
+[18]             OJ 17, 6.10.1958, p. 385
+
+[19]             OJ L 145, 31.5.2001, p. 43.
+
+[20]             OJ L 136, 31.5.1999, p. 1
+
+[21]             OJ L 292, 15.11.1996, p. 2
+
+[22]             ABM: Activity-Based Management –—– ABB: Activity-BasedBudgeting.
+
+[23]             As referred to in Article 49(6)(a) or (b) of theFinancial Regulation.
+
+[24]             Details of management modes and references to theFinancial Regulation may be found on the BudgWeb site: http://www.cc.cec/budg/man/budgmanag/budgmanag_en.html.
+
+[25]             As referred to in Article 185 of the FinancialRegulation.
+
+[26]               Diff. = Differentiated appropriations / Non-diff. =Non-Differentiated Appropriations.
+
+[27]               EFTA: European Free Trade Association. .
+
+[28]               Candidate countries and, where applicable, potentialcandidate countries from the Western Balkans.
+
+[29]               Outputs are products and services to be supplied(e.g.: number of student exchanges financed, number of km of roads built, etc.).
+
+[30]               As described in Section 1.4.2. "‘"Specificobjective(s)…’.
+
+[31]               CA= Contract Agent; INT= agency staff ("(‘("Intérimaire");’);");JED= "‘"Jeune Expert en Délégation’ (Young Experts inDelegations); LA= Local Agent; SNE= Seconded National Expert; .
+
+[32]               Underthe ceiling for external personnel from operationalappropriations (former "‘"BA’ lines).
+
+[33]               Essentially for Structural Funds, European AgriculturalFund for Rural Development (EAFRD) and European Fisheries Fund (EFF).
+
+[34]               See points 19 and 24 of the Inter-institutionalAgreement.
+
+[35]               As regards traditional own resources (customs duties,sugar levies), the amounts indicated must be net amounts, i.e. gross amountsafter deduction of 25 % for collection costs.

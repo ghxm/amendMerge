@@ -1,0 +1,2347 @@
+EUR-Lex - 52011PC0768 - EN
+
+|
+
+52011PC0768
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL  on the harmonisation of the laws of the Member States relating to making available on the market of simple pressure vessels /* COM/2011/0768 final - 2011/0350 (COD) */
+
+EXPLANATORY MEMORANDUM
+
+1.           CONTEXT OF THE PROPOSAL
+
+General context, reasons for andobjectives of this proposal
+
+This proposal is presented in the frameworkof the implementation of the “goods package” adopted in 2008. It is partof a package of proposals aligning ten product directives to Decision No768/2008/EC establishinga common framework for the marketing of products.
+
+Union (EU) harmonisation legislationensuring the free movement of products has contributed considerably to thecompletion and operation of the Single Market. It is based on a high level ofprotection and provides economic operators with the means to demonstrateconformity, thus ensuring free movement through trust in the products.
+
+Directive 2009/105/EC is an example of thatUnion harmonisation legislation, ensuring the free movement of simple pressurevessels. It sets out essential safety requirements that simple pressure vesselsmust comply with in order to be made available on the EU market. Manufacturersmust demonstrate that a simple pressure vessel has been designed andmanufactured in compliance with the essential safety requirements and affix theCE marking.
+
+Experience with the implementation of Unionharmonisation legislation has shown – on a cross-sector scale - certain weaknessesand inconsistencies in the implementation and enforcement of this legislation,leading to
+
+–                        the presence of non-compliant or dangerousproducts on the market and consequently a certain lack of trust in CE marking
+
+–                        competitive disadvantages for economic operatorscomplying with the legislation as opposed to those circumventing the rules
+
+–                        unequal treatment in the case of non-compliantproducts and distortion of competition amongst economic operators due todifferent enforcement practices
+
+–                        differing practices in the designation ofconformity assessment bodies by national authorities
+
+–                        problems with the quality of certain notifiedbodies
+
+Furthermore the regulatory environment hasbecome more and more complex, as frequently several pieces of legislation applysimultaneously to one and the same product. Inconsistencies in these pieces oflegislation make it increasingly difficult for economic operators andauthorities to correctly interpret and apply that legislation.
+
+To remedy these horizontal shortcomings inUnion harmonisation legislation observed across several industrial sectors, the“New Legislative Framework” was adopted in 2008 as part of the goodspackage. Its objective is to strengthen andcomplete the existing rules and to improve practical aspects of theirapplication and enforcement. The New Legislative Framework (NLF) consists oftwo complementary instruments, Regulation (EC) No 765/2008 onaccreditation and market surveillance and Decision No 768/2008/ECestablishing a common framework for the marketing of products.
+
+The NLF Regulation has introduced rules onaccreditation (a tool for the evaluation of competence of conformity assessmentbodies) and requirements for the organisation and performance of marketsurveillance and controls of products from third countries. Since 1 January2010 these rules apply directly in all Member States.
+
+The NLF Decision sets out a commonframework for EU product harmonisation legislation. This framework consists ofthe provisions which are commonly used in EU product legislation (e.g.definitions, obligations of economic operators, notified bodies, safeguardmechanisms, etc). These common provisions have been reinforced to ensure thatthe directives can be applied and enforced more effectively in practice. Newelements, such as obligations on importers, have been introduced, which arecrucial for improving the safety of products on the market.
+
+The provisions of the NLF Decision andthose of the NLF Regulation are complementary and closely interlinked. The NLFDecision contains the corresponding obligations for economic operators andnotified bodies allowing market surveillance authorities and authoritiesresponsible for notified bodies to properly perform the tasks imposed on themby the NLF Regulation and to ensure an effective and consistent enforcement ofEU product legislation.
+
+However, unlike the NLF Regulation, theprovisions of the NLF Decision are not directly applicable. To ensure that alleconomic sectors subject to Union harmonisation legislation benefit from the improvementsof the NLF, the provisions of the NLF Decision need to be integrated into theexisting product legislation.
+
+A survey after the adoption of the goodspackage in 2008 showed that a majority of Union harmonisation legislation onproducts was due to be revised within the following 3 years, not only toaddress the problems observed throughout all sectors but also forsector-specific reasons. Any such revision would automatically include analignment of the legislation concerned to the NLF Decision since Parliament,Council and Commission have committed themselves to use its provisions as muchas possible in future legislation on products in order to further the utmostcoherence of the regulatory framework.
+
+For a number of other Union harmonisationdirectives, including simple pressure vessels Directive 2009/105/EC no revisionfor sector-specific problems had been envisaged within this timeframe. Toensure that the problems in relation to non-compliance and notified bodies arenevertheless addressed in these sectors, and for the sake of consistency of theoverall regulatory environment on products, it was decided to align thesedirectives within a package to the provisions of the NLF Decision.
+
+Consistency with other policies andobjectives of the Union
+
+This initiative is inline with the Single Market Act[1],which has stressed the need to restore consumer confidence in the quality ofproducts on the market and the importance of reinforcing market surveillance.
+
+Furthermore it supportsthe Commission’s policy on Better Regulation and simplification of theregulatory environment.
+
+2.           consultation of interested parties andimpact assessment
+
+Consultation of interested parties
+
+The alignment of Directive 2009/105/EC tothe NLF Decision has been discussed with national experts responsible for theimplementation of this Directive, the notified body group, the administrativecooperation group as well as in bilateral contacts with industry associations.
+
+From June to October 2010 a publicconsultation was organised that comprised all the sectors involved in thisinitiative. It consisted of four targeted questionnaires for economicoperators, authorities, notified bodies and users and the Commission servicesreceived 300 replies. The results are published at:
+
+http://ec.europa.eu/enterprise/policies/single-market-goods/regulatory-policies-common-rules-for-products/new-legislative-framework/index_en.htm
+
+In addition to the general consultation aspecific SME consultation was carried out. 603 SMEs were consulted through theEnterprise Europe Network in May/June 2010. The results are available at http://ec.europa.eu/enterprise/policies/single-market-goods/files/new-legislative-framework/smes_statistics_en.pdf
+
+The consultation process revealedwidespread support for the initiative. There is unanimity on the need toimprove market surveillance and the system for assessing and monitoringNotified Bodies. Authorities fully support the exercise because it willstrengthen the existing system and improve cooperation at EU level. Industryexpects a more level playing field resulting from more effective actionsagainst products that do not comply with the legislation, as well as asimplification effect from the alignment of legislation. Certain concerns wereexpressed on some obligations which are, however, indispensable for increasingthe efficiency of market surveillance. These measures will not entail significantcosts for industry, and the benefits resulting from improved marketsurveillance should by far outweigh the costs.
+
+Collection and use of expertise
+
+The impact assessment for thisimplementation package has largely built on the impact assessment carried outfor the New Legislative Framework. In addition to the expertise collected andanalysed in that context, further consultation of sector-specific experts andinterest groups, as well as horizontal experts active in the area of technicalharmonisation, conformity assessment, accreditation and market surveillance,has taken place.
+
+Impact assessment
+
+Based on the information collected, theCommission carried out an impact assessment which examined and compared threeoptions.
+
+Option 1 - No changes to the currentsituation
+
+This option proposes no changes to thecurrent directive and relies exclusively on certain improvements that can beexpected from the NLF Regulation.
+
+Option 2 – Alignment to the NLF Decisionby non-legislative measures
+
+Option 2 considers the possibility ofencouraging a voluntary alignment to the provisions set out in the NLF Decisionby, e.g., presenting them as best practices in guidance documents.
+
+Option 3 – Alignment to NLF Decision bylegislative measures
+
+This option consists in integrating theprovisions of the NLF Decision into the existing directives.
+
+Option 3 wasfound to be the preferred option because
+
+–                        it will improve the competitiveness of companiesand notified bodies taking their obligations seriously, as opposed to thosecheating on the system;
+
+–                        it will improve the functioning of the internalmarket by ensuring equal treatment of all economic operators, notably importersand distributors, as well as notified bodies;
+
+–                        it does not entail significant costs foreconomic operators and notified bodies; for those who are already actingresponsibly, no extra costs or only negligible costs are expected;
+
+–                        it is considered more effective than option 2:due to the lack of enforceability of option 2 it is questionable that thepositive impacts would materialise under that option;
+
+–                        options 1 and 2 do not provide answers to theproblem of inconsistencies in the regulatory framework and therefore have nopositive impact on the simplification of the regulatory environment.
+
+3.           Main elements of the proposal
+
+3.1.        Horizontal definitions
+
+The proposalintroduces harmonised definitions of terms which are commonly used throughoutUnion harmonisation legislation and should therefore be given a consistentmeaning throughout that legislation.
+
+3.2.        Obligations of economicoperators and traceability requirements
+
+The proposal clarifies the obligations of manufacturersand authorised representatives and introduces obligations for importers anddistributors. Importers must verify that the manufacturer has carried out theapplicable conformity assessment procedure and has drawn up a technicaldocumentation. They must also make sure with the manufacturer that thistechnical documentation can be made available to authorities upon request.Furthermore importers must verify that simple pressure vessels are correctlymarked and accompanied by the instructions and safety information. They mustkeep a copy of the Declaration of conformity and indicate their name andaddress on the product. Distributors must verify that the simple pressurevessel bears the CE marking, the name of the manufacturer and of the importer,if relevant, and that it is accompanied by the required documentation andinstructions.
+
+Importers and distributors must cooperatewith market surveillance authorities and take appropriate actions when theyhave supplied non-compliant simple pressure vessels.
+
+Enhanced traceability obligations are introduced for all economic operators. Simple pressure vesselshave to bear the manufacturer’s name and address and a number allowing toidentify and link the simple pressure vessel to its technical documentation. Whena simple pressure vessel is imported the importer’s name and address must alsobe on the simple pressure vessel. Furthermore every economic operator must beable to identify towards authorities the economic operator who has supplied himwith a simple pressure vessel or to whom he has supplied a simple pressurevessel.
+
+3.3.        Harmonised standards
+
+Compliance with harmonised standardsprovides a presumption of conformity with the essential requirements. On 1 June2011 the Commission adopted a proposal for a Regulation on EuropeanStandardisation[2]that sets out a horizontal legal framework for European standardisation. Theproposal for the Regulation contains inter alia provisions on standardisationrequests from the Commission to the European Standardisation Organisations, onthe procedure for objections to harmonised standards and on stakeholderparticipation in the standardisation process. Consequently the provisions ofDirective 2009/105 which cover the same aspects have been deleted in thisproposal for reasons of legal certainty.
+
+The provision conferring presumption ofconformity to harmonised standards has been modified to clarify the extent ofthe presumption of conformity when standards only partially cover the essentialrequirements.
+
+3.4.        Conformity assessment andCE marking
+
+Directive 2009/105/EC has selected theappropriate conformity assessment procedures which manufacturers have to applyin order to demonstrate that their simple pressure vessels comply with theessential safety requirements. The proposal aligns these procedures to theirupdated versions set out in the NLF Decision. It keeps some specific elementsalready provided for in Directive 2009/105/EC as the welding tests.
+
+General principles of the CE marking areset out in Article 30 of Regulation 765/2008, while the detailed provisions onthe affixing of the CE marking to simple pressurevessels have been inserted in this proposal.
+
+3.5.        Notified Bodies
+
+The proposal reinforces the notificationcriteria for notified bodies. It clarifies that subsidiaries or subcontractorsmust also comply with the notification requirements. Specific requirements fornotifying authorities are introduced, and the procedure for notification ofnotified bodies is revised. The competence of a notified body must be demonstratedby an accreditation certificate. Where accreditation has not been used toevaluate the competence of a notified body, the notification must comprise thedocumentation demonstrating how the competence of that body has been evaluated.Member States will have the possibility to object to a notification.
+
+3.6.        Market surveillance andthe safeguard clause procedure
+
+The proposal revises the existing safeguardclause procedure. It introduces a phase of information exchange between MemberStates, and specifies the steps to be taken by the authorities concerned, whena non-compliant simple pressure vessel is found. A real safeguard clauseprocedure – leading to a Decision at Commission level on whether a measure isjustified or not - is only launched when another Member State objects to ameasure taken against a simple pressure vessel. Where there is no disagreementon the restrictive measure taken, all Member States must take the appropriateaction on their territory.
+
+4.           legal elements of the proposal
+
+Legal basis
+
+The proposal is based on Article 114 of theTreaty on the Functioning of the European Union.
+
+Subsidiarity principle
+
+The internal market is a competence that isshared between the Union and the Member States. The subsidiarity principlearises in particular with regard to the newly added provisions aiming at theimprovement of effective enforcement of Directive 2009/105/EC, namely, theimporter and distributor obligations, the traceability provisions, theprovisions on the assessment and notification of notified bodies, and theenhanced cooperation obligations in the context of the revised marketsurveillance and safeguard procedures.
+
+Experience with the enforcement of thelegislation has shown that measures taken at national level have led todivergent approaches and to a different treatment of economic operators insidethe EU, which undermines the objective of this directive. If actions are takenat national level to address the problems, this risks creating obstacles to thefree movement of goods. Furthermore action at national level is limited to theterritorial competence of a Member State. In view of the increasinginternationalisation of trade, the number of cross-border cases is constantlyrising. Coordinated action at EU level can much better achieve the objectivesset, and will in particular render market surveillance more effective. Hence itis more appropriate to take action at EU level.
+
+As regards the problem of inconsistenciesthroughout the directives, this is a problem which can only be solved by the EUlegislator.
+
+Proportionality
+
+In accordance with the principle ofproportionality, the proposed modifications do not go beyond what is necessaryto achieve the objectives set.
+
+The new or modified obligations do notimpose unnecessary burdens and costs on industry - especially on small andmedium sized enterprises - or administrations. Where modifications have beenidentified to have negative impacts, the analysis of the impacts of the optionserves to provide the most proportionate response to the problems identified. Anumber of modifications concern the improvement of clarity of the existingDirective without introducing new requirements that entail added cost.
+
+Legislative technique used
+
+The alignment to the NLF Decision requiresa number of substantive amendments to the provisions of Directive 2009/105/EC.To ensure the readability of the amended text the technique of recasting hasbeen chosen in line with the Interinstitutional Agreement of 28 November 2001on a more structured use of the recasting technique for legal acts[3].
+
+The changes made to the provisions ofDirective 2009/105/EC concern: the definitions, the obligations of economicoperators, the presumption of conformity provided by harmonised standards, thedeclaration of conformity, CE marking, notified bodies, the safeguard clauseprocedure and the conformity assessment procedures.
+
+The proposal does not change the scope ofDirective 2009/105/EC and the essential safety requirements.
+
+5.           budgetary implications
+
+This proposal does not have anyimplications for the EU budget.
+
+6.           additional information
+
+Repeal of existing legislation
+
+The adoption of the proposal will lead torepeal of Directive 2009/105/EC.
+
+European Economic Area
+
+The proposal concerns the EEA and shouldtherefore be extended to the European Economic Area.
+
+ê 2009/105/EC(adapted)
+
+2011/0350 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENTAND OF THE COUNCIL
+
+relating to Ö on theharmonisation of the laws of the Member States relating to making available onthe market of Õ simplepressure vessels
+
+(Recast)
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THECOUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the EuropeanCommunity Ö on theFunctioning of the European Union Õ , and inparticular Article 95Ö 114 Õ thereof,
+
+Having regard to the proposal from theEuropean Commission,
+
+After transmission of the draft legislativeact to the national Parliaments,
+
+Having regard to the opinion of theEuropean Economic and Social Committee[4],
+
+Acting in accordance with the ordinarylegislative procedure,
+
+Whereas:
+
+ê 2009/105/ECrecital 1 (adapted)
+
+Council Directive 87/404/EEC of 25 June 1987 on theharmonization of the laws of the Member States relating to simple pressurevessels[5] hasbeen substantially amended several times. In the interests of clarity andrationality the said Directive should be codified.
+
+ò new
+
+(1)              Anumber of substantive changes are to be made to Directive 2009/105/EC of theEuropean Parliament and of the Council of 16 September 2009 relating to simplepressure vessels[6].In the interests of clarity, that Directive should be recast.
+
+(2)              Regulation (EC) No765/2008 of the European Parliament and of the Council of 9 July 2008 settingout the requirements for accreditation and market surveillance relating to themarketing of products and repealing Regulation (EEC) No 339/93[7] lays down rules on theaccreditation of conformity assessment bodies, provides a framework for themarket surveillance of products and for controls on products from thirdcountries, and lays down the general principles of the CE marking.
+
+(3)              Decision No768/2008/EC of the European Parliament and of the Council of 9 July 2008 on acommon framework for the marketing of products and repealing Council Decision93/465/EEC[8]lays down a common framework of general principles and reference provisionsintended to apply across the legislation harmonising the conditions for themarketing of products in order to provide a coherent basis for revision orrecasts of that legislation. Directive 2009/105/EC should therefore be adaptedto that Decision.
+
+ê 2009/105/ECrecital 2 (adapted)
+
+(4)              Member States have the responsibility of ensuringÖ shouldensure Õ the safety ontheir territory of persons, domestic animals and property with regard to thehazards resulting from the leakage or bursting of simple pressure vessels.
+
+ê 2009/105/ECrecital 3
+
+In each MemberState, mandatory provisions define in particular the safety level required ofsimple pressure vessels by specifying design and operating characteristics,conditions of installation and use and inspection procedures before andafter the placing on the market. These mandatory provisions do not necessarilylead to different safety levels from one Member State to another but do, bytheir disparity, hinder trade within the Community.
+
+ê 2009/105/ECrecital 4
+
+This Directiveshould therefore contain only mandatory and essential requirements. Tofacilitate proof of conformity with the essential requirements, it is necessaryto have harmonised standards at Community level, in particular as to thedesign, operation and installation of simplepressure vessels, so that products complying with them may be assumed toconform to the safety requirements. These standards harmonised at Communitylevel are drawn up by private bodies and should remain non-mandatory texts. Forthat purpose, the European Committee for Standardisation (CEN), the EuropeanCommittee for Electrotechnical Standardisation (Cenelec) and the EuropeanTelecommunications Standards Institute (ETSI) are recognised as the competentbodies for the adoption of harmonisedstandards in accordance with the general guidelines[9] for cooperation between the Commission, theEuropean Free Trade Association (EFTA) and those three bodies signed on 28March 2003.
+
+ò new
+
+(5)              Economic operatorsshould be responsible for the compliance of simple pressure vessels, inrelation to their respective roles in the supply chain, so as to ensure a highlevel of protection of public interests, such as health and safety and theprotection of users, and to guarantee fair competition on the Union market.
+
+(6)              All economic operatorsintervening in the supply and distribution chain should take appropriatemeasures to ensure that they only make available on the market simple pressurevessels which are in conformity with this Directive. It is necessary to providefor a clear and proportionate distribution of obligations which correspond tothe role of each operator in the supply and distribution process.
+
+ê 2009/105/ECrecital 5 (adapted)
+
+The Council has already adopted a series of Directivesdesigned to remove technical barriers to trade in accordance with theprinciples established in its Resolution of 7 May 1985 on a new approach totechnical harmonisation and standards[10]; eachof those Directives provides for the affixing of the ‘CE’ marking. TheCommission, in its Communication of 15 June 1989 on a global approach tocertification and testing[11],proposed that common rules be drawn up concerning a ‘CE’ marking with a singledesign. The Council, in its Resolution of 21 December 1989 on a globalapproach to conformity assessment[12],approved as a guiding principle the adoption of a consistent approach such asthis with regard to the use of the ‘CE’ marking. The two basic elements of thenew approach which should be applied are the essential requirements and theconformity assessment procedures.
+
+ò new
+
+(7)              The manufacturer,having detailed knowledge of the design and production process, is best placedto carry out the complete conformity assessment procedure for simple pressure vessels.Conformity assessment should therefore remain the obligation of themanufacturer alone.
+
+(8)                          It isnecessary to ensure that simple pressure vessels from third countries enteringthe Union market comply with the requirements of this Directive, and in particularthat the appropriate assessment procedures have been carried out bymanufacturers with regard to those simple pressure vessels. Provision shouldtherefore be made for importers to make sure that the simple pressure vesselsthey place on the market comply with the requirements of this Directive andthat they do not place on the market simple pressure vessels which do notcomply with such requirements or present a risk. Provision should also be madefor importers to make sure that the conformity assessment procedures have beencarried out and that simple pressure vessel marking and documentation drawn upby manufacturers are available for inspection by the supervisory authorities.
+
+(9)                          Thedistributor makes a simple pressure vessel available on the market after it hasbeen placed on the market by the manufacturer or the importer and should actwith due care to ensure that its handling of the simple pressure vessel doesnot adversely affect the compliance of the simple pressure vessel.
+
+(10)          When placing a simplepressure vessel on the market, every importer should indicate on the simplepressure vessel his name and the address at which he can be contacted.
+
+(11)                      Anyeconomic operator that either places a simple pressure vessel on the marketunder its own name or trademark or modifies a simple pressure vessel in such away that compliance with the requirements of this Directive may be affectedshould be considered to be the manufacturer and should assume the obligations of themanufacturer.
+
+(12)          Distributors andimporters, being close to the market place, should be involved in marketsurveillance tasks carried out by the competent national authorities, andshould be prepared to participate actively, providing those authorities withall necessary information relating to the simple pressure vessel concerned.
+
+(13)          Ensuring traceabilityof a simple pressure vessel throughout the whole supply chain helps to makemarket surveillance simpler and more efficient. An efficient traceabilitysystem facilitates market surveillance authorities' task of tracing economicoperators who made non compliant simple pressure vessels available on themarket.
+
+(14)                      ThisDirective should be limited to the expression of the essential safetyrequirements. In order to facilitate conformity assessment with those requirementsit is necessary to provide for presumption of conformity for products which arein conformity with harmonised standards that are adopted in accordance withRegulation (EU) No […/…] of the European Parliament and of the Council of …. onEuropean Standardisation and amending Council Directives 89/686/EEC and93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC,2004/22/EC, 2007/23/EC, 2009/105/EC and 2009/23/EC of the European Parliamentand of the Council[13]for the purpose of expressing detailed technical specifications of thoserequirements, in particular as to the design, operation and installation ofsimple pressure vessels.
+
+(15)          Regulation (EU) No […/…][on European Standardisation] provides for a procedure for objections to harmonisedstandards where those standards do not entirely satisfy the requirements ofthis Directive.
+
+(16)          In order to enableeconomic operators to demonstrate and the competent authorities to ensure thatsimple pressure vessels made available on the market comply with the essentialsafety requirements it is necessary to provide for conformity assessmentprocedures. Decision No 768/2008/EC establishes modules for conformityassessment procedures, which include procedures from the least to the moststringent, in proportion to the level of risk involved and the level of safetyrequired. In order to ensure inter-sectoral coherence and to avoid ad-hocvariants, conformity assessment procedures should be chosen from among thosemodules.
+
+(17)          Manufacturers shoulddraw up an EU declaration of conformity to provide detailed information on theconformity of a simple pressure vessel with the requirements of this Directiveand of other relevant Union harmonisation legislation.
+
+(18)                      The CE marking, indicating the conformityof a simple pressure vessel, is the visible consequence of a whole processcomprising conformity assessment in a broad sense. General principles governingthe CE marking and its relationship to other markings are set out inRegulation (EC) No765/2008/EC. Rules governing the affixing of the CEmarking should be laid down in this Directive.
+
+ê 2009/105/ECrecital 6 (adapted)
+
+(19)          A check on compliance with the relevant technicalÖ essentialsafety Õ requirementsis necessary in order to provide effective protection for users and thirdparties. The existing inspection procedures differ from oneMember State to another. In order to avoid multiple inspections, which are ineffect barriers to the free movement of vessels, arrangements should be madefor the mutual recognition of inspection procedures by the Member States. Inorder to facilitate the mutual recognition of inspection procedures, Communityprocedures should be established as well as the criteria for appointing thebodies responsible for carrying out tests,surveillance and verification.
+
+ê 2009/105/ECrecital 7
+
+The presence on asimple pressure vessel of the ‘CE’ marking should raise a presumption that itsatisfies the provisions of this Directive and should therefore make itunnecessary, upon the importation and putting into service of the vessel, torepeat the inspections already carried out. Nevertheless simple pressurevessels might represent a safety hazard. Provision should therefore be made fora procedure to reduce this hazard.
+
+ò new
+
+(20)          The conformityassessment procedures set out in this Directive require the intervention ofconformity assessment bodies, which are notified by the Member States to theCommission.
+
+(21)          Experience has shownthat the criteria set out in Directive 2009/105/EC that conformity assessmentbodies have to fulfil to be notified to the Commission are not sufficient toensure a uniformly high level of performance of notified bodies throughout theUnion. It is, however, essential that all notified bodies perform theirfunctions to the same level and under conditions of fair competition. Thatrequires the setting of obligatory requirements for conformity assessmentbodies wishing to be notified in order to provide conformity assessmentservices.
+
+(22)          In order to ensure aconsistent level of conformity assessment quality it is also necessary to setrequirements notifying authorities and other bodies involved in the assessment,notification and monitoring of notified bodies.
+
+(23)                      If aconformity assessment body demonstrates conformity with the criteria laid downin harmonised standards, it should be presumed to comply with the correspondingrequirements set out in this Directive.
+
+(24)                      The systemset out in this Directive should be complemented by the accreditation systemprovided for in Regulation (EC) No 765/2008. Since accreditation is anessential means of verifying the competence of conformity assessment bodies, itshould also be used for the purposes of notification.
+
+(25)          Transparentaccreditation as provided for in Regulation (EC) No 765/2008, ensuring thenecessary level of confidence in conformity certificates, should be consideredby the national public authorities throughout the Union as the preferred meansof demonstrating the technical competence of conformity assessment bodies.However, national authorities may consider that they possess the appropriatemeans of carrying out this evaluation themselves. In such cases, in order toensure the appropriate level of credibility of evaluations carried out by othernational authorities, they should provide the Commission and the other MemberStates with the necessary documentary evidence demonstrating the compliance ofthe conformity assessment bodies evaluated with the relevant regulatoryrequirements.
+
+(26)          Conformity assessmentbodies frequently subcontract parts of their activities linked to theassessment of conformity or have recourse to a subsidiary. In order tosafeguard the level of protection required for the simple pressure vessels tobe placed on the Union market, it is essential that conformity assessmentsubcontractors and subsidiaries fulfil the same requirements as notified bodiesin relation to the performance of conformity assessment tasks. Therefore, it isimportant that the assessment of the competence and the performance of bodiesto be notified and the monitoring of bodies already notified cover alsoactivities carried out by subcontractors and subsidiaries.
+
+(27)          It is necessary toincrease the efficiency and transparency of the notification procedure and, inparticular, to adapt it to new technologies so as to enable onlinenotification.
+
+(28)          Since notified bodiesmay offer their services throughout the Union, it is appropriate to give theother Member States and the Commission the opportunity to raise objectionsconcerning a notified body. It is therefore important to provide for a periodduring which any doubts or concerns as to the competence of conformityassessment bodies can be clarified before they start operating as notifiedbodies.
+
+(29)          In the interests ofcompetitiveness, it is crucial that notified bodies apply the conformityassessment procedures without creating unnecessary burdens for economicoperators. For the same reason, and to ensure equal treatment of economicoperators, consistency in the technical application of the conformityassessment procedures needs to be ensured. That can best be achieved throughappropriate coordination and cooperation between notified bodies.
+
+(30)          In order to ensurelegal certainty, it is necessary to clarify that rules on Union marketsurveillance and control of products entering the Union market provided for inRegulation (EC) No 765/2008 apply to simple pressure vessels. This Directiveshould not prevent Member States from choosing the competent authorities tocarry out those tasks.
+
+(31)          Directive 2009/105/ECalready provides for a safeguard procedure allowing the Commission to examinethe justification for a measure taken by a Member State against simple pressurevessels it considers to be non-compliant. In order to increase transparency andto reduce processing time, it is necessary to improve the existing safeguardprocedure, with the aim of making it more efficient and of drawing on expertiseavailable in the Member States.
+
+(32)          The existing systemshould be supplemented by a procedure under which interested parties areinformed of measures intended to be taken with regard to simple pressurevessels presenting a risk to the health and safety of persons or to otheraspects of public interest protection. It should also allow market surveillanceauthorities, in cooperation with the relevant economic operators, to act at anearlier stage in respect of such simple pressure vessels.
+
+(33)          Where Member Statesand the Commission agree as to the justification for a safeguard measure taken bya Member State, no further involvement of the Commission should be required, except where non-compliance can beattributed to shortcomings of a harmonised standard.
+
+(34)          It is necessary toprovide for transitional arrangements that allow making available on the marketand putting into service simple pressure vessels that have already been placedon the market in accordance with Directive 2009/105/EC.
+
+(35)          Member States shouldlay down rules on penalties applicable to infringements of the provisions ofnational law adopted pursuant to this Directive and ensure that these rules areimplemented. The penalties provided for should be effective, proportionate anddissuasive.
+
+(36)          Sincethe objective of this Directive, namely to ensure that simple pressure vesselson the market fulfil the requirements providing a high level of protection ofhealth and safety and other public interests while guaranteeing the functioningof the internal market cannot be sufficiently achieved by the Member States andcan therefore, by reason of its scale and effects, be better achieved at Unionlevel, the Union may adopt measures, in accordance with the principle ofsubsidiarity as set out in Article 5 of the Treaty on European Union. Inaccordance with the principle of proportionality, as set out in that Article,this Directive does not go beyond what is necessary in order to achieve thatobjective.
+
+(37)          Theobligation to transpose this Directive into national law should be confined tothose provisions which represent a substantive change as compared withDirective 2009/105/EC. The obligation to transpose the provisions which areunchanged arises under the earlier Directives.
+
+ê 2009/105/ECrecital 8
+
+(38)          This Directive should be without prejudice tothe obligations of the Member States relating to the time limits fortransposition into national law and application of the Directives set out in AnnexIV, Part B of Annex IVto Directive 2009/105/EC.,
+
+ê 2009/105/EC(adapted)
+
+ð new
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+CHAPTER I1
+
+SCOPE, DEFINITIONS, PLACING ON THE MARKET AND FREEMOVEMENT Ö GENERALPROVISIONS Õ
+
+Article 1
+
+Ö Scope Õ
+
+1. This Directive Ö shallapply Õ appliesto simple pressure vessels Ö (hereinaftervessels) Õ manufacturedin series Ö with thefollowing characteristics Õ .:
+
+(a)          ‘simple pressure vessel’ or Ö thevessels are Õ ‘vessel’ means anywelded, vessel subjected to aninternal gauge pressure greater than 0,5 bar,which isintended to contain air or nitrogen and which is Ö are Õ not intendedto be fired.;
+
+(b)          Tthe parts and assemblies Ö components Õ contributingto the strength of the vessel under pressure shall be Ö are Õ made either ofnon-alloy quality steel or of non-alloy aluminium or non-age hardeningaluminium alloys.;
+
+(c)          Tthe vessel shall be Ö is Õ made of eitherÖ of thefollowing Õ:
+
+(i) a cylindrical part of circularcross-section closed by inwardly ð outwardly ï dished and/or flat ends which revolve around the same axis as thecylindrical part; or
+
+(ii) two dished ends revolving aroundthe same axis.;
+
+(d)          Tthe maximum working pressure of thevessel shallÖ does Õ not exceed 30bar and the product of that pressure and the capacity of the vessel (PS x V) shall Ö does Õ not exceed10000 bar.lL.;
+
+(e)          Tthe minimum working temperature must beÖ is Õ no lower than– 50 °C and the maximum working temperature must Ö is Õ not behigher than 300 °C for steel and 100 °C for aluminium or aluminiumalloy vessels;.
+
+ê 2009/105/EC
+
+(b) a ‘harmonisedstandard’ means a technical specification (European standard or harmonisationdocument) adopted by the European Committee for Standardisation (CEN), theEuropean Committee for Electrotechnical Standardisation (Cenelec) or theEuropean Telecommunications Standards Institute (ETSI) or by two or three ofthose bodies upon a remit from the Commission in accordance with Directive 98/34/EC of the European Parliament and of theCouncil of 22 June 1998 laying down a procedure for the provision ofinformation in the field of technical standards and regulations and of rules onInformation Society services[14] and the general guidelines for cooperationbetween the Commission, the European Free Trade Association (EFTA) and thosethree bodies signed on 28 March 2003.
+
+ê 2009/105/EC(adapted)
+
+2. The following vessels shall be excluded from thescope of tThis Directive Ö shall notapply to the following vessels Õ :
+
+ê 2009/105/EC
+
+(a) vessels specificallydesigned for nuclear use, failure of which may cause an emission ofradioactivity;
+
+(b) vessels specificallyintended for installation in or the propulsion of ships and aircraft;
+
+(c) fire extinguishers.
+
+ê 2009/105/EC(adapted)
+
+Article2 [Article R1 of Decision No 768/2008/EC]
+
+Ö Definitions Õ
+
+3. For the purposes of this Directive the following definitions shallapply:
+
+ò new
+
+(1) ‘makingavailable on the market’ means any supply of a vessel for distribution or useon the Union market in the course of a commercial activity, whether in returnfor payment or free of charge;
+
+(2) ‘placing on themarket’ means the first making available of a vessel on the Union market;
+
+(3)‘manufacturer’ means any natural or legal person who manufactures a vessel orhas a vessel designed or manufactured, and markets that vessel under his nameor trademark;
+
+(4) ‘authorisedrepresentative’ means any natural or legal person established within the Unionwho has received a written mandate from a manufacturer to act on his behalf inrelation to specified tasks;
+
+(5) ‘importer’means any natural or legal person established within the Union who places avessel from a third country on the Union market;
+
+(6) ‘distributor’means any natural or legal person in the supply chain, other than themanufacturer or the importer, who makes a vessel available on the market;
+
+(7) ‘economicoperators’ means the manufacturer, the authorised representative, the importerand the distributor;
+
+(8) ‘technicalspecification’ means a document that prescribes technical requirements to befulfilled by a vessel;
+
+(9) ‘harmonisedstandard’ means harmonised standard as defined in Article 2(1)(c) of Regulation(EU) No [../..] [on European Standardisation];
+
+(10)‘accreditation’ means accreditation as defined in Article 2(10) of Regulation(EC) No 765/2008;
+
+(11) ‘nationalaccreditation body’ means national accreditation body as defined in Article2(11) of Regulation (EC) No 765/2008;
+
+(12) ‘conformityassessment’ means the process demonstrating whether the requirements of thisDirective relating to a vessel have been fulfilled;
+
+(13) ‘conformityassessment body’ means a body that performs conformity assessment activitiesincluding calibration, testing, certification and inspection;
+
+(14) ‘recall’means any measure aimed at achieving the return of a vessel that has alreadybeen made available to the user;
+
+(15) ‘withdrawal’means any measure aimed at preventing a vessel in the supply chain from beingmade available on the market;
+
+(16) ‘CE marking’means a marking by which the manufacturer indicates that the vessel is inconformity with the applicable requirements set out in Union harmonisationlegislation providing for its affixing;
+
+(17) ‘Unionharmonisation legislation’ means any Union legislation harmonising theconditions for the marketing of products.
+
+ê 2009/105/EC(adapted)
+
+ð new
+
+Article 23
+
+Ö Makingavailable on the market and putting into service Õ
+
+1. Member States shall take all necessarysteps to ensure that the vessels may be placedð made available ï on the market and put into service only if they do not compromisethe safety of persons, domestic animals or property when properly installed andmaintained and used for the purposes for which they are intended.
+
+2. The provisions of this Directive shallnot affect the right of Member States to specify — with due observance of the Treaty —the requirements they deem necessary in order to ensure that workers areprotected when using vessels, provided it does not mean that those vessels aremodified in a way unspecified in this Directive.
+
+Article 34
+
+Ö Essentialrequirements Õ
+
+1. Vessels in respect of which the productof PS x V exceeds 50 bar.L must Ö shall Õ satisfy theessential safety requirements set out in Annex I.
+
+2. Vessels in respect of which the productof PS x V is 50 bar.L or less must Ö shall Õ bemanufactured in accordance with sound engineering practice in one of the MemberStates and bearmarkings as laid down in point 1 of Annex III, with the exception of the‘CE’ marking referred to in Article 16.
+
+Article 45
+
+Ö Freemovement Õ
+
+Member States shall not impede the placing ð making available ï on the market and the putting into service in Ö on Õ theirterritory of vessels which satisfy the requirements of this Directive.
+
+ò new
+
+CHAPTER 2
+
+OBLIGATIONS OFECONOMIC OPERATORS
+
+Article 6[Article R2 of Decision No 768/2008/EC]
+
+Obligations of manufacturers
+
+1.         Whenplacing on the market the vessels of which the product of PS x V exceeds 50bar.L, manufacturers shall ensure that they have been designed and manufacturedin accordance with the essential safety requirements set out in Annex I.
+
+When placing on themarket vessels of which the product of PS x V is 50 bar.L or less,manufacturers shall ensure that they have been designed and manufactured inaccordance with the sound engineering practice in one of the Member States.
+
+2.         Forvessels of which the product of PS x V exceeds 50 bar.L, manufacturers shalldraw up the technical documentation referred to in points 2 and 3 of Annex IIIand carry out the relevant conformity assessment procedure referred to inArticle 13 or have it carried out.
+
+Where complianceof a vessel of which the product of PS x V exceeds 50 bar.L with the applicablerequirements has been demonstrated by that procedure, manufacturers shall drawup an EU declaration of conformity and affix the CE marking and theinscriptions provided for in point 1 of Annex III.
+
+Manufacturersshall ensure that vessels of which the product of PS x V is 50 bar.L or less,bear the inscriptions laid down in point 1 of Annex III.
+
+3.         Manufacturersshall keep the technical documentation and the EU declaration of conformity for10 years after the vessel has been placed on the market.
+
+4.         Manufacturersshall ensure that procedures are in place for series production to remain inconformity. Changes in vessels design or characteristics and changes in theharmonised standards by reference to which conformity of a vessel is declaredshall be adequately taken into account.
+
+When deemedappropriate with regard to the risks presented by a vessel, manufacturers shallto protect the health and safety of users, carry out sample testing of vesselsmade available on the market, investigate, and, if necessary, keep a registerof complaints, of non-conforming vessels and vessel recalls, and shall keepdistributors informed of any such monitoring.
+
+5.         Manufacturersshall ensure that their vessels bear a type and serial or batch identificationallowing their identification.
+
+6.         Manufacturersshall indicate their name, registered trade name or registered trade mark andthe address at which they can be contacted on the vessel. The address mustindicate a single point at which the manufacturer can be contacted.
+
+7.         Manufacturers shall ensure that the vesselof which the product of PS x V exceeds 50 bar.L, is accompanied by theinstructions and safety information referred to in point 2 of Annex III, in theofficial language or languages of the country Member State of destination.
+
+8.         Manufacturerswho consider or have reason to believe that a vessel which they have placed onthe market is not in conformity with this Directive shall immediately take thenecessary corrective measures to bring that vessel into conformity, to withdrawit or recall it, if appropriate. Furthermore, where the vessel presents a risk,manufacturers shall immediately inform the competent national authorities ofthe Member States in which they made the vessel available to that effect,giving details, in particular, of the non-compliance and of any correctivemeasures taken.
+
+9.         Manufacturersshall, further to a reasoned request from a competent national authority,provide it with all the information and documentation necessary to demonstratethe conformity of the vessel, in a language which can be easily understood bythat authority. They shall cooperate with that authority, at its request, onany action taken to eliminate the risks posed by vessels which they have placedon the market.
+
+Article 7 [ArticleR3 of Decision No 768/2008/EC]
+
+Authorised representatives
+
+1.         Amanufacturer may, by a written mandate, appoint an authorised representative.
+
+The obligations laiddown in Article 6(1) and the drawing up of technical documentation shall notform part of the authorised representative's mandate.
+
+2.         Anauthorised representative shall perform the tasks specified in the mandatereceived from the manufacturer. The mandate shall allow the authorisedrepresentative to do at least the following:
+
+(a)          keepthe EU declaration of conformity and the technical documentation at thedisposal of national surveillance authorities for 10 years after the vessel hasbeen placed on the market;
+
+(b)          furtherto a reasoned request from a competent national authority, provide thatauthority with all the information and documentation necessary to demonstratethe conformity of a vessel;
+
+(c)          cooperatewith the competent national authorities, at their request, on any action takento eliminate the risks posed by vessels covered by the authorisedrepresentative’s mandate.
+
+Article 8[Article R4 of Decision No 768/2008/EC]
+
+Obligations of importers
+
+1.         Importersshall place only compliant vessels on the market.
+
+2.         Beforeplacing on the market a vessel of which the product of PS x V exceeds 50 bar.L,importers shall ensure that the appropriate conformity assessment procedurereferred to in Article 6 has been carried out by the manufacturer. They shallensure that the manufacturer has drawn up the technical documentation, that thevessel bears the CE marking and the inscriptions provided for in point 1 ofAnnex III and is accompanied by the required documents, and that themanufacturer has complied with the requirements set out in Article 6(5) and(6).
+
+Where an importerconsiders or has reason to believe that a vessel of which the product of PS x Vexceeds 50 bar.L is not in conformity with the essential safety requirementsset out in Annex I, he shall not place the vessel on the market until it hasbeen brought into conformity. Furthermore, where the vessel presents a risk,the importer shall inform the manufacturer and the market surveillanceauthorities to that effect.
+
+Before placing onthe market a vessel of which the product of PS x V is 50 bar.L or less,importers shall ensure that it bears the inscriptions provided for in point 1of Annex III and that the manufacturer has complied with the requirements setout in Article 6(5) and (6).
+
+3.         Importersshall indicate their name, registered trade name or registered trade mark andthe address at which they can be contacted on the vessel or, where that is notpossible, on its packaging or in a document accompanying the vessel.
+
+4.         Importersshall ensure that the vessel of which the product of PS x V exceeds 50 bar.L,is accompanied by the instructions and safety information referred to in point2 of Annex III, in the official language or languages of the Member State ofdestination.
+
+5.         Importersshall ensure that, while a vessel in respect of which the product of PS x Vexceeds 50 bar.L is under their responsibility, storage or transport conditionsdo not jeopardise its compliance with the essential safety requirements set outin Annex I.
+
+6.         Whendeemed appropriate with regard to the risks presented by a vessel, importersshall, to protect the health and safety of users, carry out sample testing ofvessels made available on the market, investigate, and, if necessary, keep aregister of complaints, of non-conforming vessels and vessel recalls, and shallkeep distributors informed of such monitoring.
+
+7.         Importerswho consider or have reason to believe that a vessel which they have placed onthe market is not in conformity with this Directive shall immediately take thecorrective measures necessary to bring that vessel into conformity, to withdrawit or recall it, if appropriate. Furthermore, where the vessel presents a risk,importers shall immediately inform the competent national authorities of theMember States in which they made the vessel available to that effect, givingdetails, in particular, of the noncompliance and of any corrective measurestaken.
+
+8.         Forvessels of which the product of PS x V exceeds 50 bar.L, importers shall, for10 years after the vessel has been placed on the market, keep a copy of the EUdeclaration of conformity at the disposal of the market surveillanceauthorities and ensure that the technical documentation can be made availableto those authorities, upon request.
+
+9.         Importersshall, further to a reasoned request from a competent national authority,provide it with all the information and documentation necessary to demonstratethe conformity of a vessel in a language which can be easily understood by thatauthority. They shall cooperate with that authority, at its request, on anyaction taken to eliminate the risks posed by vessels which they have placed onthe market.
+
+Article 9 [Article R5 of Decision No 768/2008/EC]
+
+Obligations of distributors
+
+1.         Whenmaking a vessel available on the market distributors shall act with due care inrelation to the requirements of this Directive.
+
+2.         Beforemaking a vessel of which the product of PS x V exceeds 50 bar.L available onthe market, distributors shall verify that the vessel bears the CE marking andthe inscriptions provided for in point 1 of Annex III, that it is accompaniedby the required documents and by instructions and safety information in alanguage which can be easily understood by users in the Member State in whichthe vessel is to be made available on the market, and that the manufacturer andthe importer have complied with the requirements set out in Article 6(5) and(6) and Article 8(3).
+
+Where adistributor considers or has reason to believe that a vessel of which theproduct of PS x V exceeds 50 bar.L is not in conformity with the essentialsafety requirements set out in Annex I, he shall not make the vessel availableon the market until it has been brought into conformity. Furthermore, where thevessel presents a risk, the distributor shall inform the manufacturer or theimporter to that effect as well as the market surveillance authorities.
+
+Before making avessel of which the product of PS x V is 50 bar.L or less available on themarket, distributors shall verify that the vessel bears the inscriptions providedfor in point 1 of Annex III and that the manufacturer and the importer havecomplied with the requirements set out in Article 6(5) and (6) and Article8(3).
+
+3.         Distributorsshall ensure that, while a vessel of which the product of PS x V exceeds 50 bar.Lis under their responsibility, storage or transport conditions do notjeopardise its compliance with the essential safety requirements set out inAnnex I.
+
+4.         Distributorswho consider or have reason to believe that a vessel which they have madeavailable on the market is not in conformity with this Directive shall makesure that the corrective measures necessary to bring that vessel intoconformity, to withdraw it or recall it, if appropriate, are taken.Furthermore, where the vessel presents a risk, distributors shall immediatelyinform the competent national authorities of the Member States in which theymade the vessel available to that effect, giving details, in particular, of thenon-compliance and of any corrective measures taken.
+
+5.         Distributorsshall, further to a reasoned request from a competent national authority,provide it with all the information and documentation necessary to demonstratethe conformity of a vessel. They shall cooperate with that authority, at itsrequest, on any action taken to eliminate the risks posed by vessels which theyhave made available on the market.
+
+Article 10 [ArticleR6 of Decision No 768/2008/EC]
+
+Cases in which obligations of manufacturers apply to importers anddistributors
+
+An importer ordistributor shall be considered a manufacturer for the purposes of thisDirective and he shall be subject to the obligations of the manufacturer underArticle 6, where he places a vessel on the market under his name or trademarkor modifies a vessel already placed on the market in such a way that compliancewith the requirements of this Directive may be affected.
+
+Article 11 [ArticleR7 of Decision No 768/2008/EC]
+
+Identification of economic operators
+
+Economicoperators shall, on request, identify the following to the market surveillanceauthorities:
+
+(a)          anyeconomic operator who has supplied them with a vessel;
+
+(b)          anyeconomic operator to whom they have supplied a vessel.
+
+Economicoperators shall be able to present the information referred to in the firstsubparagraph for a period of 10 years after they have been supplied with thevessel and for a period of 10 years after they have supplied the vessel.
+
+CHAPTER 3
+
+CONFORMITY OFVESSELS OF WHICH THE PRODUCT OF PS x V EXCEEDS 50 bar.L
+
+ê 2009/105/EC(adapted)
+
+Article 512 [Article R8 of Decision No 768/2008/EC]
+
+Ö Presumption of conformity Õ
+
+ò new
+
+Vessels of whichthe product of PS x V exceeds 50 bar.L and which are in conformity withharmonised standards or parts thereof the references of which have beenpublished in the Official Journal of the European Union shall bepresumed to be in conformity with the essential safety requirements covered bythose standards or parts thereof, set out in Annex I.
+
+[Where aharmonised standard satisfies the requirements which it covers and which areset out in Annex I or Article 21, the Commission shall publish the referencesof those standards in the Official Journal of the European Union.]
+
+ê 2009/105/EC
+
+Member Statesshall presume that vessels bearing the CE marking comply with all theprovisions of this Directive.
+
+Conformity ofvessels with the national standards which transpose the harmonised standards,the reference numbers of which have been published in the Official Journal of the European Union, shall result in a presumption of conformity tothe essential safety requirements set out in Annex I.
+
+Member Statesshall publish the reference numbers of such national standards.
+
+2. Member Statesshall presume that vessels for which the standards referred to in the secondsubparagraph of paragraph 1 do not exist or in respect of which themanufacturer has not applied or has only partially applied such standards,comply with the essential safety requirements set out in Annex I, where, after receipt of an EC type-examination certificate,their conformity with the approved model has been certified by the affixationof the ‘CE’ marking.
+
+3. Where vesselsare subject to other Directives covering other aspects and which also providefor the affixing of the ‘CE’ marking, the latter shall indicate that thevessels in question are also presumed to conform to the provisions of thoseother Directives.
+
+However, where oneor more of those Directives allow the manufacturer, during a transitionalperiod, to choose which arrangements to apply, the ‘CE’ marking shallindicate conformity only to the Directives applied by the manufacturer. In thiscase, particulars of the Directives applied, as published in the Official Journal of the European Union, shall be given in the documents, notices orinstructions required by the Directives and accompanying such vessels.
+
+ê 2009/105/EC(adapted)
+
+ð new
+
+CHAPTER II
+
+Certification
+
+Section 1 Article13
+
+Certification Ö Conformity assessment Õ procedures
+
+Article 8
+
+1. Prior to production of Ö theirmanufacture Õ pressurevessels of which the product of PS x V exceeds 50 bar.L, manufactured in accordance with the harmonisedstandards ð shall be subject to the EU-typeexamination (Module B) ï referred to in Article 5(1), the manufacturer, or his authorised representativeestablished within the Community, shall at his own choice eitherpoint 1 of Annex II, Ö asfollows Õ :
+
+ò new
+
+(a)          forvessels manufactured in accordance with the harmonised standards referred to inArticle 12, at the choice of the manufacturer, in either of the following twomanners:
+
+ê 2009/105/EC
+
+(a) inform an approved inspection body as referred to inArticle 9, which, after examining the design and manufacturing schedulereferred to in point 3 of Annex II, shall draw up a certificate of adequacyattesting that the schedule is satisfactory
+
+ò new
+
+i)       assessmentof the adequacy of the technical design of the vessel through examination ofthe technical documentation and supporting evidence without examination of aspecimen (Module B - design type);
+
+ê 2009/105/EC
+
+ð new
+
+(bii)-  ð examination of ï submit a prototype vesselð representative of the productionenvisaged of the complete vessel ï for the EC type-examination referred to in Article10 ð Module B – production type) ï .
+
+ê 2009/105/EC(adapted)
+
+2.(b)       Priorto production of pressure Ö for Õ vessels of which the product ofPS x V exceeds 50 bar.lL not manufactured, ormanufactured only partly, in accordance with the harmonised standards referredto in Article 5(1)12,the manufacturer, or his authorised representative establishedwithin the Community, shall submit Ö forexamination Õ a prototypevessel for the ECtype-examination referred to in Article 10 Ö representativeof the production envisaged of the complete vessel (Module B – productiontype) Õ .
+
+32. Vesselsmanufactured in accordance with the harmonised standards referred to inArticle 5(1) or with the approved prototype shall, pPrior to their being placed Ö placing Õ on the market,Ö vesselsshall Õ be subject Ö to thefollowing procedures Õ :
+
+ê 2009/105/EC
+
+ð new
+
+(a)          to the ECverification referred to in Article 11 where theproduct of PS x V exceeds 3000 bar.lL ð , to Module C1 (conformity to typebased on internal production control plus supervised product testing) set outin point 2 of Annex II ï;
+
+ê 2009/105/EC(adapted)
+
+ð new
+
+(b)          at the choice of the manufacturer,where the product of PS x V does not exceed 3000 bar.lL but exceeds 50 ð 200 ï bar.lL,Ö at thechoice of the manufacturer, to Õ either Ö of thefollowing modules Õ :
+
+ê 2009/105/EC
+
+ð new
+
+(i) to the ECdeclaration ð Module C1 ï of(conformity ð to type based on internal productioncontrol plus supervised product testing) ï referred to in Article 12 point 2 of Annex II; or
+
+(ii) to the ECverification ð Module C2 (conformity to type basedon internal production control plus supervised product checks at randomintervals ï referred to in Article 11 point 3 Annex II.
+
+ò new
+
+(c)          wherethe product of PS x V does not exceed 200 bar.L but exceeds 50 bar.L,at the choice of the manufacturer, to either of the following modules:
+
+(i) Module C1(conformity to type based on internal production control plus supervisedproduct testing) referred to in point 2 of Annex II;
+
+(ii) Module C(conformity to type based on internal production control) referred to in point4 of Annex II.
+
+ê 2009/105/EC(adapted)
+
+43. The records and correspondence relating to the certificationprocedures referred to in paragraphs 1 and 2and3 shall be drafted in an official language of the MemberState in which the approvedinspection Ö notified Õ body isestablished or in a language accepted by that body.
+
+ò new
+
+Article 14 [ArticleR10 of Decision No 768/2008/EC]
+
+EU declaration of conformity
+
+1.         The EUdeclaration of conformity shall state that the fulfilment of the essentialsafety requirements set out in Annex I has been demonstrated.
+
+2.         The EUdeclaration of conformity shall have the model structure set out in Annex IIIof Decision No 768/2008/EC, shall contain the elements specified in therelevant modules set out in Annex II of this Directive and shall becontinuously updated. It shall be translated into the language or languagesrequired by the Member State in which market the vessel is placed or madeavailable.
+
+3.         Wherethe vessel is subject to more than one Union act requiring an EU declaration ofconformity, a single EU declaration of conformity shall be drawn up in respectof all such Union acts. That declaration shall contain the identification ofthe acts concerned including the publication references.
+
+4.         Bydrawing up the EU declaration of conformity, the manufacturer shall assumeresponsibility for the compliance of the vessel.
+
+Article 15[Article R11 of Decision No 768/2008/EC]
+
+General principles of the CE marking
+
+The CE markingshall be subject to the general principles set out in Article 30 of Regulation(EC) No 765/2008.
+
+Article 16[Article R12 of Decision No 768/2008/EC]
+
+Rules and conditions for affixing the CE marking and other markings
+
+1.         The CEmarking and the inscriptionsreferred to in point 1 of Annex IIIshall be affixed visibly, legibly and indelibly to the vessel or to its dataplate.
+
+2.         The CEmarking shall be affixed before the vessel is placed on the market.
+
+3.         The CEmarking shall be followed by the identification number of the notified bodyinvolved in the production control phase.
+
+Theidentification number of the notified body shall be affixed by the body itselfor, under its instructions, by the manufacturer or his authorisedrepresentative.
+
+4.         The CE marking and the identificationnumber referred to in paragraph 3 may be followed by a pictogram or any othermark indicating a special risk or use.
+
+ê 2009/105/EC
+
+Article 6
+
+Where a MemberState or the Commission considers that the harmonised standards referred toin Article 5(1) do not entirely meet the essential safety requirements set outin Annex I, the Commission or the Member State concerned shall bring the matterbefore the standing committee set up underArticle 5 of Directive 98/34/EC, hereinafter referred to as ‘the committee’,giving the reasons therefor.
+
+The committeeshall deliver an opinion without delay.
+
+In the light ofthe committee’s opinion, the Commission shall inform the Member Stateswhether or not it is necessary to withdraw those standards from thepublications referred to in Article 5(1).
+
+Article 7
+
+1. Where a MemberState finds that vessels bearing the ‘CE’ marking and used in accordance withtheir intended purpose might compromise the safety of persons, domesticanimals or property, it shall take all appropriate measures to withdraw thoseproducts from the market or to prohibit or restrict their being placed on themarket.
+
+The Member Stateconcerned shall immediately inform the Commission of any such measure,indicating the reasons for its decision, and in particular whethernon-conformity is due to:
+
+(a)failure to meet the essential safety requirements set out in Annex I, where thevessel does not meet the harmonised standards referred to in Article 5(1);
+
+(b)incorrect application of the harmonised standards referred to in Article 5(1);
+
+(c)shortcomings in the harmonised standards referred to in Article 5(1).
+
+2. The Commissionshall enter into consultation with the parties concerned as soon aspossible. Where, after such consultation, the Commission finds that any measureas referred to in paragraph 1 is justified, it shall immediately so inform theMember State that took the action and the other Member States.
+
+Where the decisionreferred to in paragraph 1 is attributed to shortcomings in the standards, theCommission, after consulting the parties concerned, shall bring the matterbefore the committee within two months if the Member State which has taken themeasures intends to maintain them and shallset in motion the procedure referred to in Article 6.
+
+3. Where a vesselwhich does not comply bears the ‘CE’ marking, the competent Member State shalltake appropriate action against whomsoever has affixed the marking and shall informthe Commission and the other Member States thereof.
+
+4. The Commissionshall ensure that the Member States are kept informed of the progress andoutcome of the procedure referred to in paragraphs 1, 2 and 3.
+
+CHAPTER II
+
+CERTIFICATION
+
+SECTION 1
+
+Certification procedures
+
+Article 9
+
+1. Member Statesshall notify the Commission and the other Member States of the approvedinspection bodies which they have appointed to carry out the proceduresreferred to in Article 8(1), (2) and (3) together with the specific taskswhich those bodies have been appointed to carry out and the identificationnumbers assigned to them beforehand by the Commission.
+
+The Commissionshall publish in the OfficialJournal of the European Union a list of the notified bodies with their identificationnumbers and the tasks for which they have been notified. The Commission shallensure that this list is kept up to date.
+
+2. For thepurposes of approval of the bodies referred to in paragraph 1, Member Statesshall meet the minimum criteria set out in Annex III.
+
+3. A Member Statewhich has approved an inspection body shall withdraw approval if it finds thatthe body no longer meets the minimum criteria set out in Annex III.
+
+It shallimmediately inform the Commission and the other Member States accordingly.
+
+SECTION 2
+
+EC type-examination
+
+Article 10
+
+ê 2009/105/EC(adapted)
+
+1. EC type-examination is the procedure whereby anapproved inspection body ascertains and certifies that a prototype vesselsatisfies the provisions of this Directive which apply to it.
+
+2. The application for EC type-examination shallbe lodged by the manufacturer or by his authorised representative with a singleapproved inspection body in respect of a prototype vessel or of a prototyperepresenting a family of vessels. That authorised representative must beestablished in the Community.
+
+The application shall include:
+
+(a) the name and address of the manufacturer or ofhis authorised representative and the place of manufacture of the vessels;
+
+ê 2009/105/EC
+
+(b) thedesign and manufacturing schedule referred to in point 3 of Annex II.
+
+It shall beaccompanied by a vessel which is representative of the production envisaged.
+
+3. The approvedinspection body shall carry out the EC type-examination in the mannerreferred to in the second and third subparagraphs.
+
+It shall examinenot only the design and manufacturing schedule in order to check itsconformity, but also the vessel submitted.
+
+When examining thevessel, the body shall:
+
+(a)verify that the vessel has been manufactured in conformity with the designand manufacturing schedule and may safely be used under its intended workingconditions;
+
+(b)perform appropriate examinations and tests to check that the vessel complieswith the essential requirements applicable to it.
+
+4. If theprototype complies with the provisions applicable to it the approved inspectionbody shall draw up an EC type-examination certificate which shall be forwardedto the applicant. That certificate shall state the conclusions of the examination,indicate any conditions to which its issue may be subject and be accompanied bythe descriptions and drawings necessary for identification of the approvedprototype.
+
+The Commission,the other approved inspection bodies and the other Member States may obtaina copy of the certificate and, on a reasoned request, a copy of the design andmanufacturing schedule and the reports on the examinations and tests carriedout.
+
+5. An approvedinspection body which refuses to issue an EC type-examination certificateshall so inform the other approved inspection bodies.
+
+An approvedinspection body which withdraws an EC type-examination certificate shall soinform the Member State which approved it. The latter shall inform the otherMember States and the Commission thereof, giving the reasons for thedecision.
+
+SECTION 3
+
+EC verification
+
+Article 11
+
+1. EC verificationis the procedure whereby a manufacturer or his authorised representativeestablished within the Community ensures and declares that the vessels which havebeen checked in accordance with paragraph 3 are in conformity with the typedescribed in the EC type-examination certificate or with the design andmanufacturing schedule referred to in point 3 of Annex II having received acertificate of adequacy.
+
+2. Themanufacturer shall take all necessary measures for the manufacturing process toensure that the vessels conform to the type described in the ECtype-examination certificate or to the design and manufacturing schedulereferred to in point 3 of Annex II. Themanufacturer or his authorised representative established within the Communityshall affix the ‘CE’ marking to each vessel and draw up a declaration ofconformity.
+
+ê 2009/105/EC(adapted)
+
+3. The approved inspection body shall carry out theappropriate examinations and tests in order to check the conformity of thevessels with the requirements of this Directive by examination and testing ofvessels in accordance with the second to tenth subparagraphs.
+
+The manufacturer shall present his vessels inthe form of uniform batches and shall take all necessary measures in order thatthe manufacturing process ensures the uniformity of each batch produced.
+
+Those batches shall be accompanied by the ECtype-examination certificate referred to in Article 10 or, where the vessels are not manufactured inaccordance with an approved prototype, by the design and manufacturing schedulereferred to in point 3 of Annex II. In the latter case the approved inspectionbody shall, prior to EC verification, examine the schedule in order tocertify its conformity.
+
+When a batch is examined, the approved inspectionbody shall ensure that the vessels have been manufactured and checked inaccordance with the design and manufacturing schedule, and shall perform ahydrostatic test or a pneumatic test of equivalent effect on each vessel inthe batch at a pressure Ph equal to 1,5 times the vessel’s design pressure inorder to check its soundness. The pneumatic test shall be subject to acceptanceof the test safety procedures by the MemberState in which the test is performed.
+
+Moreover, the approved inspection body shall carryout tests on test-pieces taken from a representative production test-piece orfrom a vessel, as the manufacturer chooses, in order to examine the weld quality.The tests shall be carried out on longitudinal welds. However, where differingweld techniques are used for longitudinal and circular welds, the tests shallbe repeated on the circular welds.
+
+For the vessels referred to in point 2.1.2 ofAnnex I, these tests on test-pieces shall be replaced by a hydrostatic teston five vessels taken at random from each batch in order to check that theyconform to the essential safety requirements set out in point 2.1.2 of Annex I.
+
+In the case of accepted batches, the approvedinspection body shall affix its identification number, or cause that number tobe affixed, to each vessel and shall draw up a written certificate ofconformity relating to the tests carried out. All vessels in the batch may beplaced on the market except for those whichhave not successfully undergone a hydrostatic test or a pneumatic test.
+
+If a batch is rejected, the approved inspectionbody shall take appropriate measures to prevent the placing on the market ofthat batch. In the event of frequent rejection of batches, the approvedinspection body may suspend the statistical verification.
+
+ê 2009/105/EC
+
+The manufacturermay, under the responsibility of the approved inspection body, affix thelatter’s identification number during the manufacturing process.
+
+ê 2009/105/EC(adapted)
+
+The manufacturer or his authorised representative must beable to supply on request the approved inspection body’s certificates ofconformity referred to in the seventh subparagraph.
+
+ê 2009/105/EC
+
+SECTION 4
+
+EC declaration of conformity
+
+Article 12
+
+1. A manufacturerfulfilling the obligations arising under Article 13 shall affix the ‘CE’marking provided for in Article 16 to vessels which he declares to be inconformity with:
+
+(a) thedesign and manufacturing schedule referred to in point 3 of Annex II in respectof which a certificate of adequacy has been drawn up; or
+
+(b) anapproved prototype.
+
+2. By the ECdeclaration of conformity procedure the manufacturer becomes subject to EC surveillance,in cases where the product of PS x V exceeds 200 bar.L.
+
+The purpose of ECsurveillance is to ensure, as required by the second paragraph of Article 14,that the manufacturer duly fulfils the obligations arising under Article 13(2).Surveillance shall be performed by the approved inspection body which issuedthe EC type-examination certificate referred to in the first subparagraph ofArticle 10(4) where the vessels have been manufactured in accordance with anapproved prototype or, if this is not thecase, by the approved body to which the design and manufacturing schedule wassent in accordance with Article 8(1)(a).
+
+Article 13
+
+ê 2009/105/EC(adapted)
+
+1. Where a manufacturer makes use of the procedurereferred to in Article 12, he shall, before commencingmanufacture, send the approved inspection body which issued the EC type-examination certificateor the certificate of adequacy a document describing themanufacturing processes and all of the predetermined systematic measures takento ensure conformity of the pressure vessels to the standards referred to in Article 5(1) or theapproved prototype.
+
+2. The document referred to in paragraph 1 shallinclude:
+
+(a) a description of the means of manufacture andchecking appropriate to the construction of the vessels;
+
+(b) an inspection document describing theappropriate examinations and tests to be carried out during manufacture,together with the procedures in respect thereof and the frequency with whichthey are to be performed;
+
+(c) an undertaking to carry out theexaminations and tests in accordance with the inspection document referred toin point (b) and to have a hydrostatic test or, subject to the agreement of theMember State, a pneumatic test carried out on each vessel manufactured at a test pressure equal to 1,5 times the designpressure;
+
+those examinations and tests shall be carried outunder the responsibility of qualified staff who are sufficiently independentfrom production personnel, and shall be the subject of a report;
+
+(d) the addresses of the places of manufactureand storage and the date on which manufacture is to commence.
+
+3. When theproduct of PS x V exceeds 200 bar.L, manufacturers shall authorise access to the said places ofmanufacture and storage by the body responsible for EC surveillance, forinspection purposes, and shall allow that body to select sample vessels andshall provide it with all necessary information, and in particular:
+
+(a) the design and manufacturing schedule;
+
+(b) the inspection report;
+
+(c) the EC type-examination certificate orcertificate of adequacy, where appropriate;
+
+(d) a report on the examinations and tests carriedout.
+
+Article 14
+
+The approved inspection body which issued the ECtype-examination certificate or certificate of adequacy shall, before thedate on which any manufacture begins, examine both the document referred to inArticle 13(1) and the design and manufacturing schedule referred to in point 3of Annex II, in order to certify its conformity, where vessels are not manufactured inaccordance with an approved prototype.
+
+ê 2009/105/EC
+
+In addition, wherethe product of PS x V exceeds 200 bar.L, that body shall during manufacture:
+
+ê 2009/105/EC(adapted)
+
+(a) ensure that the manufacturer actually checksseries-produced vessels in accordance with Article 13(2)(c);
+
+(b) take random samples at the places ofmanufacture or at the place of storage of vessels for inspection purposes.
+
+The approved inspection body shall supply theMember State which approved it and, on request, the other approvedinspection bodies, the other Member States and the Commission, with a copy ofthe inspection report.
+
+ò new
+
+CHAPTER 4
+
+NOTIFICATIONOF CONFORMITY ASSESSMENT BODIES
+
+Article 17 [ArticleR13 of Decision No 768/2008/EC]
+
+Notification
+
+Member Statesshall notify the Commission and the other Member States of bodies authorised tocarry out third-party conformity assessment tasks under this Directive.
+
+Article 18 [ArticleR14 of Decision No 768/2008/EC]
+
+Notifying authorities
+
+1.         MemberStates shall designate a notifying authority that shall be responsible forsetting up and carrying out the necessary procedures for the assessment andnotification of conformity assessment bodies and the monitoring of notifiedbodies, including compliance with the provisions of Article 23.
+
+2.         MemberStates may decide that the assessment and monitoring referred to in paragraph 1shall be carried out by a national accreditation body within the meaning of andin accordance with Regulation (EC) No 765/2008.
+
+3.         Wherethe notifying authority delegates or otherwise entrusts the assessment,notification or monitoring referred to in paragraph 1 to a body which is not agovernmental entity, that body shall be a legal entity and shall comply mutatismutandis with the requirements laid down in Article 19(1) to (6). Inaddition it shall have arrangements to cover liabilities arising out of itsactivities.
+
+4.         Thenotifying authority shall take full responsibility for the tasks performed bythe body referred to in paragraph 3.
+
+Article 19 [ArticleR15 of Decision No 768/2008/EC]
+
+Requirements relating to notifying authorities
+
+1.         Anotifying authority shall be established in such a way that no conflict ofinterest with conformity assessment bodies occurs.
+
+2.         Anotifying authority shall be organised and operated so as to safeguard theobjectivity and impartiality of its activities.
+
+3.         Anotifying authority shall be organised in such a way that each decisionrelating to notification of a conformity assessment body is taken by competentpersons different from those who carried out the assessment.
+
+4.         Anotifying authority shall not offer or provide any activities that conformityassessment bodies perform or consultancy services on a commercial orcompetitive basis.
+
+5.         Anotifying authority shall safeguard the confidentiality of the information itobtains.
+
+6.         Anotifying authority shall have a sufficient number of competent personnel atits disposal for the proper performance of its tasks.
+
+Article 20[Article R16 of Decision No 768/2008/EC]
+
+Information obligation on notifying authorities
+
+Member Statesshall inform the Commission of their procedures for the assessment andnotification of conformity assessment bodies and the monitoring of notifiedbodies, and of any changes thereto.
+
+The Commissionshall make that information publicly available.
+
+Article 21 [ArticleR17 of Decision No 768/2008/EC]
+
+Requirements relating to notified bodies
+
+1.         Forthe purposes of notification, a conformity assessment body shall meet the requirementslaid down in paragraphs 2 to 11.
+
+2.         Aconformity assessment body shall be established under national law and havelegal personality.
+
+3.         Aconformity assessment body shall be a third-party body independent of theorganisation or the vessel it assesses.
+
+A body belongingto a business association or professional federation representing undertakingsinvolved in the design, manufacturing, provision, assembly, use or maintenanceof vessels which it assesses, may, on condition that its independence and theabsence of any conflict of interest are demonstrated, be considered such abody.
+
+4.         Aconformity assessment body, its top level management and the personnelresponsible for carrying out the conformity assessment tasks shall not be thedesigner, manufacturer, supplier, installer, purchaser, owner, user ormaintainer of the vessels which they assess, nor the authorised representativeof any of those parties. This shall not preclude the use of assessed vesselsthat are necessary for the operations of the conformity assessment body or theuse of such vessels for personal purposes.
+
+A conformityassessment body, its top level management and the personnel responsible forcarrying out the conformity assessment tasks shall not be directly involved inthe design, manufacture or construction, the marketing, installation, use ormaintenance of those products, or represent the parties engaged in thoseactivities. They shall not engage in any activity that may conflict with theirindependence of judgement or integrity in relation to conformity assessmentactivities for which they are notified. This shall in particular apply toconsultancy services.
+
+Conformityassessment bodies shall ensure that the activities of their subsidiaries orsubcontractors do not affect the confidentiality, objectivity or impartialityof their conformity assessment activities.
+
+5.         Conformityassessment bodies and their personnel shall carry out the conformity assessmentactivities with the highest degree of professional integrity and the requisitetechnical competence in the specific field and shall be free from all pressuresand inducements, particularly financial, which might influence their judgementor the results of their conformity assessment activities, especially as regardspersons or groups of persons with an interest in the results of thoseactivities.
+
+6.         Aconformity assessment body shall be capable of carrying out all the conformityassessment tasks assigned to it by Article 13(1), (2) and (3) and in relationto which it has been notified, whether those tasks are carried out by theconformity assessment body itself or on its behalf and under itsresponsibility.
+
+At all times andfor each conformity assessment procedure and each kind or category of vesselsin relation to which it has been notified, a conformity assessment body shallhave at its disposal the necessary:
+
+(a)          personnelwith technical knowledge and sufficient and appropriate experience to performthe conformity assessment tasks;
+
+(b)          descriptionsof procedures in accordance with which conformity assessment is carried out,ensuring the transparency and the ability of reproduction of those procedures.It shall have appropriate policies and procedures in place that distinguishbetween tasks it carries out as a notified body and other activities;
+
+(c)          proceduresfor the performance of activities which take due account of the size of anundertaking, the sector in which it operates, its structure, the degree ofcomplexity of the product technology in question and the mass or serial natureof the production process.
+
+It shall have themeans necessary to perform the technical and administrative tasks connectedwith the conformity assessment activities in an appropriate manner and shallhave access to all necessary equipment or facilities.
+
+7.         Thepersonnel responsible for carrying out conformity assessment activities shallhave the following:
+
+(a)          soundtechnical and vocational training covering all the conformity assessmentactivities in relation to which the conformity assessment body has been notified;
+
+(b)          satisfactoryknowledge of the requirements of the assessments they carry out and adequateauthority to carry out those assessments;
+
+(c)          appropriateknowledge and understanding of the essential safety requirements set out inAnnex I, of the applicable harmonised standards and of the relevant provisionsof Union harmonisation legislation and of national legislation;
+
+(d)          theability to draw up certificates, records and reports demonstrating thatassessments have been carried out.
+
+8.         Theimpartiality of the conformity assessment bodies, their top level managementand of the assessment personnel shall be guaranteed.
+
+The remunerationof the top level management and assessment personnel of a conformity assessmentbody shall not depend on the number of assessments carried out or on theresults of those assessments.
+
+9.         Conformityassessment bodies shall take out liability insurance unless liability isassumed by the State in accordance with national law, or the Member Stateitself is directly responsible for the conformity assessment.
+
+10.       Thepersonnel of a conformity assessment body shall observe professional secrecywith regard to all information obtained in carrying out their tasks underArticle 13(1), (2) and (3) of this Directive or any provision of national lawgiving effect to it, except in relation to the competent authorities of theMember State in which its activities are carried out. Proprietary rights shallbe protected.
+
+11.       Conformityassessment bodies shall participate in, or ensure that their assessmentpersonnel are informed of, the relevant standardisation activities and theactivities of the notified body coordination group established under therelevant Union harmonisation legislation and apply as general guidance theadministrative decisions and documents produced as a result of the work of thatgroup.
+
+Article 22 [ArticleR18 of Decision No 768/2008/EC]
+
+Presumption of conformity
+
+Where aconformity assessment body demonstrates its conformity with the criteria laiddown in the relevant harmonised standards or parts thereof the references ofwhich have been published in the Official Journal of the European Union itshall be presumed to comply with the requirements set out in Article 21 in sofar as the applicable harmonised standards cover those requirements.
+
+Article 23[Article R20 of Decision No 768/2008/EC]
+
+Subsidiaries of and subcontracting by notified bodies
+
+1.         Wherea notified body subcontracts specific tasks connected with conformityassessment or has recourse to a subsidiary, it shall ensure that thesubcontractor or the subsidiary meets the requirements set out in Article 21and shall inform the notifying authority accordingly.
+
+2.         Notifiedbodies shall take full responsibility for the tasks performed by subcontractorsor subsidiaries wherever these are established.
+
+3.         Activitiesmay be subcontracted or carried out by a subsidiary only with the agreement ofthe client.
+
+4.         Notifiedbodies shall keep at the disposal of the notifying authority the relevantdocuments concerning the assessment of the qualifications of the subcontractoror the subsidiary and the work carried out by them under Article 13(1), (2) and(3).
+
+Article 24 [ArticleR22 of Decision No 768/2008/EC]
+
+Application for notification
+
+1. A conformityassessment body shall submit an application for notification to the notifyingauthority of the Member State in which it is established.
+
+2. Thatapplication shall be accompanied by a description of the conformity assessmentactivities, the conformity assessment module or modules and the vessel orvessels for which that body claims to be competent, as well as by anaccreditation certificate, where one exists, issued by a national accreditationbody attesting that the conformity assessment body fulfils the requirementslaid down in Article 21.
+
+3. Where theconformity assessment body concerned cannot provide an accreditationcertificate, it shall provide the notifying authority with all the documentaryevidence necessary for the verification, recognition and regular monitoring ofits compliance with the requirements laid down in Article 21.
+
+Article 25 [ArticleR23 of Decision No 768/2008/EC]
+
+Notification procedure
+
+1.         Notifyingauthorities may notify only conformity assessment bodies which have satisfiedthe requirements laid down in Article 21.
+
+2.         Theyshall notify the Commission and the other Member States using the electronicnotification tool developed and managed by the Commission.
+
+3.         Thenotification shall include full details of the conformity assessmentactivities, the conformity assessment module or modules and vessel or vesselsconcerned and the relevant attestation of competence.
+
+4.         Wherea notification is not based on an accreditation certificate as referred to inArticle 24(2), the notifying authority shall provide the Commission and theother Member States with documentary evidence which attests to the conformityassessment body's competence and the arrangements in place to ensure that thatbody will be monitored regularly and will continue to satisfy the requirementslaid down in Article 21.
+
+5.         Thebody concerned may perform the activities of a notified body only where noobjections are raised by the Commission or the other Member States within twoweeks of a notification where an accreditation certificate is used or withintwo months of a notification where accreditation is not used.
+
+Only such a bodyshall be considered a notified body for the purposes of this Directive.
+
+6.         TheCommission and the other Member States shall be notified of any subsequentrelevant changes to the notification.
+
+Article 26[Article R13 of Decision No 768/2008/EC]
+
+Identification numbers and lists of notified bodies
+
+1.         TheCommission shall assign an identification number to a notified body.
+
+It shall assign asingle such number even where the body is notified under several Union acts.
+
+2.         TheCommission shall make publicly available the list of the bodies notified underthis Directive, including the identification numbers that have been allocatedto them and the activities for which they have been notified.
+
+The Commissionshall ensure that that list is kept up to date.
+
+Article 27 [ArticleR25 of Decision No 768/2008/EC]
+
+Changes to notifications
+
+1.         Wherea notifying authority has ascertained or has been informed that a notified bodyno longer meets the requirements laid down in Article 21, or that it is failingto fulfil its obligations, the notifying authority shall restrict, suspend orwithdraw notification as appropriate, depending on the seriousness of thefailure to meet those requirements or fulfil those obligations. It shallimmediately inform the Commission and the other Member States accordingly.
+
+2.         In theevent of restriction, suspension or withdrawal of notification, or where thenotified body has ceased its activity, the notifying Member State shall take appropriatesteps to ensure that the files of that body are either processed by anothernotified body or kept available for the responsible notifying and marketsurveillance authorities at their request.
+
+Article 28 [ArticleR26 of Decision No 768/2008/EC]
+
+Challenge of the competence of notified bodies
+
+1.         TheCommission shall investigate all cases where it doubts, or doubt is brought toits attention regarding the competence of a notified body or the continuedfulfilment by a notified body of the requirements and responsibilities to whichit is subject.
+
+2.         Thenotifying Member State shall provide the Commission, on request, with allinformation relating to the basis for the notification or the maintenance ofthe competence of the body concerned.
+
+3.         TheCommission shall ensure that all sensitive information obtained in the courseof its investigations is treated confidentially.
+
+4.         Wherethe Commission ascertains that a notified body does not meet or no longer meetsthe requirements for its notification, it shall inform the notifying MemberState accordingly and request it to take the necessary corrective measures,including de-notification if necessary.
+
+Article 29 [ArticleR27 of Decision No 768/2008/EC]
+
+Operational obligations of notified bodies
+
+1.         Notified bodies shall carry outconformity assessments in accordance with the conformity assessment proceduresprovided for in Article 13(1), (2) and (3).
+
+2.         Conformityassessments shall be carried out in a proportionate manner, avoidingunnecessary burdens for economic operators.
+
+Conformityassessment bodies shall perform their activities taking due account of the sizeof an undertaking, the sector in which it operates, its structure, the degreeof complexity of the vessel technology in question and the mass or serialnature of the production process.
+
+In so doing theyshall nevertheless respect the degree of rigour and the level of protectionrequired for the compliance of the vessel with the provisions of thisDirective.
+
+3.         Wherea notified body finds that the essential safety requirements set out in Annex Ior corresponding harmonised standards have not been met by a manufacturer, itshall require that manufacturer to take appropriate corrective measures andshall not issue a conformity certificate.
+
+4.         Where,in the course of the monitoring of conformity following the issue of acertificate, a notified body finds that a vessel no longer complies, it shallrequire the manufacturer to take appropriate corrective measures and shallsuspend or withdraw the certificate if necessary.
+
+5.         Wherecorrective measures are not taken or do not have the required effect, thenotified body shall restrict, suspend or withdraw any certificates, asappropriate.
+
+Article 30
+
+Appeal against decisions of notified bodies
+
+Member Statesshall ensure that an appeal procedure against decisions of notified bodies isavailable.
+
+Article 31 [ArticleR28 of Decision No 768/2008/EC]
+
+Information obligation on notified bodies
+
+1.         Notifiedbodies shall inform the notifying authority of the following:
+
+(a)          any refusal,restriction, suspension or withdrawal of a certificate;
+
+(b)          anycircumstances affecting the scope of and conditions for notification;
+
+(c)          anyrequest for information which they have received from market surveillanceauthorities regarding conformity assessment activities;
+
+(d)          onrequest, conformity assessment activities performed within the scope of theirnotification and any other activity performed, including cross-borderactivities and subcontracting.
+
+2.         Notifiedbodies shall provide the other bodies notified under this Directive carryingout similar conformity assessment activities covering the same products withrelevant information on issues relating to negative and, on request, positiveconformity assessment results.
+
+Article 32 [ArticleR13 of Decision No 768/2008/EC]
+
+Exchange of experience
+
+The Commissionshall provide for the organisation of exchange of experience between the MemberStates' national authorities responsible for notification policy.
+
+Article 33[Article R30 of Decision No 768/2008/EC]
+
+Coordination of notified bodies
+
+The Commissionshall ensure that appropriate coordination and cooperation between bodiesnotified under this Directive are put in place and properly operated in theform of a sectoral group or groups of notified bodies.
+
+Member Statesshall ensure that the bodies notified by them participate in the work of thator those group or groups, directly or by means of designated representatives.
+
+CHAPTER 5
+
+UNION MARKETSURVEILLANCE, CONTROL OF VESSELS ENTERING THE UNION MARKET AND SAFEGUARDPROCEDURES
+
+Article 34
+
+Union market surveillance, control of vessels entering the Union market
+
+Article 15(3) andArticles 16 to 29 of Regulation (EC) No 765/2008 shall apply to vessels.
+
+Article 35[Article R31 of Decision No 768/2008/EC]
+
+Procedure for dealing with vessels presenting a risk at national level
+
+1.         Wherethe market surveillance authorities of one Member State have taken actionpursuant to Article 20 of Regulation (EC) No 765/2008, or where they havesufficient reason to believe that a vessel covered by this Directive presents arisk to the health or safety of persons or to other aspects of public interestprotection covered by this Directive, they shall carry out an evaluation inrelation to the vessel concerned covering all the requirements laid down inthis Directive. The relevant economic operators shall cooperate as necessarywith the market surveillance authorities.
+
+Where, in thecourse of that evaluation, the market surveillance authorities find that thevessel does not comply with the requirements laid down in this Directive, theyshall without delay require the relevant economic operator to take allappropriate corrective action to bring the vessel into compliance with thoserequirements, to withdraw the vessel from the market, or to recall it within areasonable period, commensurate with the nature of the risk, as they mayprescribe.
+
+The marketsurveillance authorities shall inform the relevant notified body accordingly.
+
+Article 21 ofRegulation (EC) No 765/2008 shall apply to the measures referred to in thesecond subparagraph.
+
+2.         Wherethe market surveillance authorities consider that noncompliance is notrestricted to their national territory, they shall inform the Commission andthe other Member States of the results of the evaluation and of the actionswhich they have required the economic operator to take.
+
+3.         Theeconomic operator shall ensure that all appropriate corrective action is takenin respect of all the vessels concerned that it has made available on themarket throughout the Union.
+
+4.         Wherethe relevant economic operator does not take adequate corrective action withinthe period referred to in the second subparagraph of paragraph 1, the marketsurveillance authorities shall take all appropriate provisional measures toprohibit or restrict the vessel’s being made available on their nationalmarket, to withdraw the vessel from that market or to recall it.
+
+The marketsurveillance authorities shall inform the Commission and the other MemberStates, without delay, of those measures.
+
+5.         Theinformation referred to in paragraph 4 shall include all available details, inparticular the data necessary for the identification of the noncompliantvessel, the origin of the vessel, the nature of the noncompliance alleged andthe risk involved, the nature and duration of the national measures taken andthe arguments put forward by the relevant economic operator. In particular, themarket surveillance authorities shall indicate whether the non-compliance isdue to either of the following:
+
+(a)          failureof the vessel to meet requirements relating to the health or safety of personsor to other aspects of public interest protection laid down in this Directive;
+
+(b)          shortcomingsin the harmonised standards referred to in Article 12 conferring a presumptionof conformity.
+
+6.         MemberStates other than the Member State initiating the procedure shall without delayinform the Commission and the other Member States of any measures adopted andof any additional information at their disposal relating to the non-complianceof the vessel concerned, and, in the event of disagreement with the notifiednational measure, of their objections.
+
+7.         Where,within two months of receipt of the information referred to in paragraph 4, noobjection has been raised by either a Member State or the Commission in respectof a provisional measure taken by a Member State, that measure shall be deemedjustified.
+
+8.         MemberStates shall ensure that appropriate restrictive measures are taken in respectof the vessel concerned, without delay.
+
+Article 36 [ArticleR32 of Decision No 768/2008/EC]
+
+Union safeguard procedure
+
+1.         Where,on completion of the procedure set out in Article 35(3) and (4), objections areraised against a measure taken by a Member State, or where the Commission considersa national measure to be contrary to Union legislation, the Commission shallwithout delay enter into consultation with the Member States and the relevanteconomic operator or operators and shall evaluate the national measure. On thebasis of the results of that evaluation, the Commission shall decide whetherthe national measure is justified or not.
+
+The Commissionshall address its decision to all Member States and shall immediatelycommunicate it to them and the relevant economic operator or operators.
+
+2.         If thenational measure is considered justified, all Member States shall take themeasures necessary to ensure that the non-compliant vessel is withdrawn fromtheir market, and shall inform the Commission accordingly. If the nationalmeasure is considered unjustified, the Member State concerned shall withdrawthe measure.
+
+3.         Wherethe national measure is considered justified and the noncompliance of thevessel is attributed to shortcomings in the harmonised standards referred to inArticle 35(5)(b) of this Directive, the Commission shall apply the procedureprovided for in Article 8 of Regulation (EU) No […/…] [on EuropeanStandardisation].
+
+Article 37 [ArticleR33 of Decision No 768/2008/EC]
+
+Compliant vessels which present a risk to health and safety
+
+1.         Where,having performed an evaluation under Article 35(1), a Member State finds thatalthough a vessel is in compliance with this Directive, it presents a risk tothe health or safety of persons or to other aspects of public interestprotection, it shall require the relevant economic operator to take allappropriate measures to ensure that the vessel concerned, when placed on themarket, no longer presents that risk, to withdraw the vessel from the market orto recall it within a reasonable period, commensurate with the nature of therisk, as it may prescribe.
+
+2.         Theeconomic operator shall ensure that corrective action is taken in respect ofall the vessels concerned that he has made available on the market throughoutthe Union.
+
+3.         TheMember State shall immediately inform the Commission and the other MemberStates. That information shall include all available details, in particular thedata necessary for the identification of the vessel concerned, the origin andthe supply chain of the vessel, the nature of the risk involved and the natureand duration of the national measures taken.
+
+4.         TheCommission shall without delay enter into consultation with the Member Statesand the relevant economic operator or operators and shall evaluate the nationalmeasures taken. On the basis of the results of that evaluation, the Commissionshall decide whether the measure is justified or not, and where necessary,propose appropriate measures.
+
+5.         TheCommission shall address its decision to all Member States and shall immediatelycommunicate it to them and the relevant economic operator or operators.
+
+Article 38 [ArticleR34 of Decision No 768/2008/EC]
+
+Formal non-compliance
+
+1.         Withoutprejudice to Article 35, where a Member State makes one of the followingfindings, it shall require the relevant economic operator to put an end to thenon-compliance concerned:
+
+(a)          the CEmarking and/or the inscriptions referred to in point 1 of Annex III have beenaffixed in violation of Article 30 of Regulation (EC) No 765/2008 or of Article16 of this Directive;
+
+(b)          the CEmarking and/or the inscriptions provided for in point 1 of Annex III have notbeen affixed;
+
+(c)          the EUdeclaration of conformity has not been drawn up;
+
+(d)          the EUdeclaration of conformity has not been drawn up correctly;
+
+(e)          thetechnical documentation is either not available or not complete.
+
+2.         Wherethe non-compliance referred to in paragraph 1 persists, the Member Stateconcerned shall take all appropriate measures to restrict or prohibit thevessel being made available on the market or ensure that it is recalled orwithdrawn from the market.
+
+ê 2009/105/EC
+
+CHAPTER III
+
+‘CE’ MARKING ANDINSCRIPTIONS
+
+Article 15
+
+Without prejudiceto Article 7:
+
+(a)where a Member State establishes that the ‘CE’ marking has been affixedunduly, the manufacturer or his authorised representative established withinthe Community shall be obliged to make the product conform with the provisionsconcerning the ‘CE’ marking and to end the infringement under the conditionsimposed by that Member State;
+
+(b)where the non-conformity continues, the Member State must take all appropriatemeasures to restrict or prohibit the placing on the market of the product inquestion or to ensure that it is withdrawn from the market in accordance with theprocedure laid down in Article 7.
+
+Article 16
+
+1. The ‘CE’marking and the inscriptions provided for in point 1 of Annex II, shall beaffixed in a visible, legible and indelible form to the vessel or to a dataplate attached to the vessel in such a way that it cannot be removed.
+
+The ‘CE’ markingshall consist of the initials ‘CE’ in the form shown in the specimen in point1.1 of Annex II. The ‘CE’ marking shall be followed by the identificationnumber referred to in Article 9(1) of the approved inspection bodyresponsible for ‘CE’ verifications or ‘CE’ surveillance.
+
+2. The affixing onthe vessels of markings which are likely to deceive third parties as to themeaning and form of the ‘CE’ marking shall be prohibited. Any other marking maybe affixed to the vessels or the data plate provided that the visibility andlegibility of the ‘CE’ marking are not thereby reduced.
+
+ê 2009/105/EC(adapted)
+
+CHAPTER IV6
+
+Ö TRANSITIONALAND Õ FINAL PROVISIONS
+
+ê 2009/105/EC
+
+Article 17
+
+Any decision takenpursuant to this Directive which results in restrictions on the placing on themarket or the putting into service of a vessel shall state the exact grounds onwhich it is based. Such a decision shall be notified without delay to theparty concerned, who shall at the same time be informed of the judicialremedies available to him under the laws in force in the Member State inquestion and of the time limits to which such remedies are subject.
+
+ò new
+
+Article 39
+
+Penalties
+
+Member Statesshall lay down rules on penalties applicable to infringements of the nationalprovisions adopted pursuant to this Directive and shall take all measuresnecessary to ensure that they are enforced.
+
+The penaltiesprovided for shall be effective, proportionate and dissuasive.
+
+Member Statesshall notify those provisions to the Commission by [the date set out in thesecond subparagraph of Article 41(1)] at the latest and shall notify it withoutdelay of any subsequent amendment affecting them.
+
+Article 40
+
+Transitional provisions
+
+Member Statesshall not impede the making available on the market and/or the putting intoservice of vessels covered by Directive 2009/105/EC which are in conformitywith that Directive and which were placed on the market before [the date setout in the second subparagraph of Article 41(1)].
+
+Certificates ofconformity issued under Directive 2009/105/EC shall be valid under thisDirective until [the date set out in the second subparagraph of Article 41(1)]unless they expire before that date.
+
+ê
+
+Article 1841
+
+Transposition
+
+1.         Member States shall adopt andpublish by [insert date – 2 years after adoption] at the latest, the laws,regulations and administrative provisions necessary to comply with Articles 2,6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26,27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 and Annex II. Theyshall forthwith communicate to the Commission the text of those provisions anda correlation table between those provisions and this Directive.
+
+They shall apply those provisions from [dayafter date set out in first subparagraph].
+
+When Member States adopt those provisions,they shall contain a reference to this Directive or be accompanied by such areference on the occasion of their official publication. They shall alsoinclude a statement that references in existing laws, regulations andadministrative provisions to the directive repealed by this Directive shall beconstrued as references to this directive. Member States shall determine howsuch reference is to be made and how that statement is to be formulated.
+
+ê 2009/105/EC
+
+2.         Member States shall communicate to the Commission the textof the main provisions of national law which they adopt in the field covered bythis Directive.
+
+ê 2009/105/EC(adapted)
+
+Article 1942
+
+Ö Repeal Õ
+
+Directive 87/404/EEC 2009/105/EC , as amended by the Directives listed in Annex IV,Part A, is repealed Ö witheffect from [day after the date set out in the second subparagraph of Article41(1)] Õ , withoutprejudice to the obligations of the Member States relating to the time limitsfor transposition into national law and application of the Directives set outin Annex IV,Part B of Annex IV to Directive 2009/105/EC.
+
+ê 2009/105/EC
+
+References to the repealed Directive shallbe construed as references to this Directive and shall be read in accordancewith the correlation table in Annex IV.
+
+ê 2009/105/EC(adapted)
+
+Article 2043
+
+Ö Entry into force Õ
+
+ê 2009/105/EC
+
+This Directive shall enter into force onthe twentieth day following that of its publication in the Official Journalof the European Union.
+
+ê
+
+Articles 1,3, 4, 5 and Annexes I and III shall apply from [the date set out in the secondsubparagraph of Article 41(1)].
+
+ê 2009/105/EC(adapted)
+
+Article 244
+
+Ö Addressees Õ
+
+ê 2009/105/EC
+
+ThisDirective is addressed to the Member States.
+
+Done at […],
+
+For the European Parliament                       Forthe Council
+
+ThePresident                                                 The President
+
+ê 2009/105/EC
+
+ANNEX I
+
+ESSENTIALSAFETY REQUIREMENTS
+
+ê 2009/105/EC(adapted)
+
+(referredto in Article 3(1))
+
+1. MATERIALS
+
+Materials must Ö shall Õ be selectedaccording to the intended use of the vessels and in accordance with points 1.1to 1.4.
+
+ê 2009/105/EC
+
+1.1. Pressurised parts
+
+ê 2009/105/EC(adapted)
+
+The materials referred to in Article 1 usedfor manufacturing the pressurised parts of the vessels must Ö shall Õ be:
+
+ê 2009/105/EC
+
+(a)      capable of beingwelded;
+
+(b)     ductile and tough, sothat a rupture at minimum working temperature does not give rise to eitherfragmentation or brittle-type fracture;
+
+(c)      not adversely affectedby ageing.
+
+ê 2009/105/EC(adapted)
+
+For steel vessels, the materials must Ö shall Õ in additionmeet the requirements set out in point 1.1.1 and, for aluminium or aluminiumalloy vessels, those set out in point 1.1.2.
+
+They must Ö shall Õ be accompaniedby an inspection slip as described in point1.3. of Annex II, drawn up by the producer Ö manufacturer Õ of thematerials.
+
+ê 2009/105/EC
+
+1.1.1. Steel vessels
+
+Non-alloy quality steels shall meet thefollowing requirements:
+
+ê 2009/105/EC(adapted)
+
+(a)          they must Ö shall Õ benon-effervescent and supplied after normalisation treatment, or in anequivalent state;
+
+(b)          the content per product of carbonmustÖ shall Õ be less than0,25 % and that of sulphur and phosphorus must Ö shall Õ each be lessthan 0,05 %;
+
+(c) they must Ö shall Õ have thefollowing mechanical properties per product:
+
+(i) the maximum tensile strength Rm,max must Ö shall Õ be less than580 N/mm2,;
+
+(ii) the elongation after rupture must Ö fractureshall Õ be:
+
+ê 2009/105/EC
+
+if test pieces are taken parallel to thedirection of rolling:
+
+thickness ≥ 3 mm: || A || ≥ 22 %,
+
+thickness < 3 mm: || A80 mm || ≥ 17 %,
+
+if test pieces are taken perpendicular to thedirection of rolling:
+
+thickness ≥ 3 mm: || A || ≥ 20 %,
+
+thickness < 3 mm: || A80 mm || ≥ 15 %,
+
+ê 2009/105/EC(adapted)
+
+(iii) the average failure Ö bendingrupture Õ energy KCVfor three longitudinal test pieces at minimum working temperature must Ö shall Õ not be lessthan 35 J/cm2. Not more than one of the three figures may beless than 35 J/cm2, with a minimum of 25 J/cm2.
+
+In the case of steels used in themanufacture of vessels the minimum working temperature of which is lowerthan -10 °C and the wall thickness of which exceeds 5 mm, thisproperty mustÖ shall Õ be checked.
+
+1.1.2. Aluminium vessels
+
+Non-alloy aluminium must Ö shall Õ have analuminium content of at least 99,5 % and the alloys referred to in Article1(3)(a)1(1)(b) must Ö shall Õ display adequateresistance to intercrystalline corrosion at maximum working temperature.
+
+Moreover, these materials must Ö shall Õ satisfy thefollowing requirements:
+
+(a) they must Ö shall Õ be supplied inan annealed state; and
+
+(b) they must Ö shall Õ have thefollowing mechanical characteristics per product:
+
+–              the maximum tensile strength Rm,maxmustÖ shall Õ be no morethan 350 N/mm2,;
+
+–              the elongation after rupture must Ö fractureshall Õ be:
+
+ê 2009/105/EC
+
+–              A ≥ 16 %if the test piece is taken parallel to the direction of rolling,;
+
+–              A ≥ 14 %if the test piece is taken perpendicular to the direction of rolling.
+
+1.2. Welding materials
+
+ê 2009/105/EC(adapted)
+
+The welding materials used to manufacture thewelds on or of the simplepressure vessel must Ö shall Õ be appropriateto and compatible with the materials to be welded.
+
+1.3. Accessories contributing to thestrength of the vessel
+
+These accessories (for example bolts and nuts)mustÖ shall Õ be made of amaterial specified in point 1.1 or of other kinds of steel, aluminium or anappropriate aluminium alloy compatible with materials used for the manufactureof pressurised parts.
+
+The latter materials must Ö shall Õ at minimumworking temperature have an appropriate elongation after rupture Ö fracture Õ and toughnessÖ bendingrupture energy Õ .
+
+1.4. Non-pressurised parts
+
+All unpressurised parts of welded vessels must Ö shall Õ be ofmaterials which are compatible with that of the components to which they arewelded.
+
+2. VESSEL DESIGN
+
+(a)          The manufacturer must Ö shall Õ, whendesigning the vessel, define the use to which it will be put, and select:
+
+ê 2009/105/EC
+
+(a)(i) the minimum working temperature Tmin;
+
+(b)(ii) the maximum working temperature Tmax;
+
+(c)(iii) the maximum working pressure PS.
+
+ê 2009/105/EC(adapted)
+
+However, should a minimum workingtemperature exceeding -10 °C be selected, the qualities required ofthe materials mustÖ shall Õ be satisfiedat -10 °C.
+
+(b)          The manufacturer must Ö shall Õ also takeaccount of the following provisions:
+
+(i)      it mustÖ shall Õ be possible toinspect the inside of vessels;
+
+(ii)     it mustÖ shall Õ be possible todrain the vessels;
+
+(iii)     the mechanical qualities must Ö shall Õ be maintainedthroughout the period of use of the vessel for the intended purpose;
+
+(iv)    the vessels must Ö shall Õ, bearing inmind their prescribed use, be adequately protected against corrosion,;
+
+and Ö (c)       Themanufacturer shall take account of Õ the fact thatunder the conditions of use envisaged:
+
+(i)      the vessels must Ö shall Õ not besubjected to stresses likely to impair their safety in use;
+
+(ii)     internal pressure must Ö shall Õ notpermanently exceed the maximum working pressure PS. However, it may momentarilydo so by up to 10 %.
+
+CircularÖ (d) Circumferential Õ andlongitudinal seams mustÖ shall Õ be made usingfull penetration welds or welds of equivalent effectiveness. Convex ends otherthan hemispherical ones must Ö shall Õ have a cylindricaledge.
+
+2.1. Wall thickness
+
+If the product of PS × V is notmore than 3000 bar.L, the manufacturer must Ö shall Õ select one ofthe methods described in points 2.1.1 and 2.1.2 for determining vessel wallthickness; if the product of PS × V is more than 3000 bar.L, or ifthe maximum working temperature exceeds 100 °C, such thickness must Ö shall Õ be determinedby the method described in point 2.1.1.
+
+ê 2009/105/EC
+
+The actual wall thickness of thecylindrical section and ends shall, however, be not less than 2 mm in thecase of steel vessels and not less than 3 mm in the case of aluminium oraluminium alloy vessels.
+
+2.1.1. Calculation method
+
+ê 2009/105/EC(adapted)
+
+ð new
+
+The minimum thickness of pressurised parts must Ö shall Õ be calculatedhaving regard to the intensity of the stresses and to the following provisions:
+
+(a)          the calculation pressure to betaken into account mustÖ shall Õ not be lessthan the maximum working pressure PS selected;
+
+(b)          the permissible general membranestress mustÖ shall Õ not exceed thelower of the values 0,6 ReT or 0,3 Rm.The manufacturer mustÖ shall Õ use the ReTand Rm minimum values guaranteed by the material manufacturerin order to determine the permissible stress.
+
+However, where the cylindrical portion ofthe vessel has one or more longitudinal welds made using a non-automaticwelding process, the thickness calculated as referred to in the first paragraphmustÖ shall Õ be multipliedby the coefficient 1,15.
+
+2.1.2. Experimental method
+
+Wall thickness must Ö shall Õ be sodetermined as to enable the vessels to resist at ambient temperature a pressureequal to at least five times the maximum working pressure, with a permanentcircumferential deformation factor of no more than 1 %.
+
+3. MANUFACTURING PROCESSES
+
+Vessels shall be constructed and subjectedto production checks in accordance with the design and manufacturing record referred to in points ð 2, ï 3 ð or 4 ï of Annex II.
+
+3.1. Preparation of the componentparts
+
+Preparation of the component parts (forexample forming and chamfering) must Ö shall Õ not give riseto surface defects or cracks or changes in the mechanical characteristicslikely to be detrimental to the safety of the vessels.
+
+3.2. Welds on pressurised parts
+
+The characteristics of welds and adjacentzones mustÖ shall Õ be similar tothose of the welded materials and must Ö shall Õ be free of anysurface or internal defects detrimental to the safety of the vessels.
+
+Welds must Ö shall Õ be performedby qualified welders or operators possessing the appropriate level ofcompetence, in accordance with approved welding processes. Such approval andqualification tests mustÖ shall Õ be carried outby approvedinspection Ö notified Õ bodies.
+
+The manufacturer must Ö shall Õ also, duringmanufacture, ensure consistent weld quality by conducting appropriate testsusing adequate procedures. These tests must Ö shall Õ be the subjectof a report.
+
+4. PUTTING INTO SERVICE OF THE VESSELS
+
+Vessels must Ö shall Õ be accompaniedby the instructions drawn up by the manufacturer, as referred to in point 2 ofAnnex III.
+
+ANNEXII
+
+Ö CONFORMITYASSESSMENT PROCEDURES Õ
+
+Ö 1.     EU-typeexamination module B Õ
+
+Ö 1.1.            EU-typeexamination is the part of a conformity assessment procedure in which notifiedbody examines the technical design of a vessel and verifies and attests thatthe technical design of the vessel meets the requirements of this Directivethat apply to it. Õ
+
+ò new
+
+1.2.      EU-typeexamination may be carried out in either of the following manners:
+
+–                        examination of aprototype vessel, representative of the production envisaged, of the completevessel (production type);
+
+–                        assessment of theadequacy of the technical design of the vessel through examination of thetechnical documentation and supporting evidence referred to in point 3, withoutexamination of a prototype vessel (design type).
+
+ê 2009/105/EC(adapted)
+
+Ö 1.3.            Theapplication for EU-type examination shall be lodged by the manufacturer or byhis authorised representative with a single notified body in respect of aprototype vessel or of a prototype representing a family of vessels. Õ
+
+Ö Themanufacturer shall lodge an application for EU-type examination with a singlenotified body of his choice. Õ
+
+Ö Theapplication shall include: Õ
+
+Ö (a)    thename and address of the manufacturer and, if the application is lodged bythe authorised representative, his name and address as well; Õ
+
+ò new
+
+(b)          awritten declaration that the same application has not been lodged with anyother notified body;
+
+(c)          thetechnical documentation. The technical documentation shall make it possible toassess the vessel's conformity with the applicable requirements of thisDirective and shall include an adequate analysis and assessment of the risk(s).
+
+The technical documentationshall specify the applicable requirements and cover, as far as relevant for theassessment, the design, manufacture and operation of the vessel. The technicaldocumentation shall contain, wherever applicable, at least the followingelements:
+
+(i)      a general descriptionof the vessel;
+
+(ii)     conceptualdesign and manufacturing drawings of the type and schemes of components, etc.;
+
+(iii)     descriptionsand explanations necessary for the understanding of those drawings and schemesand the operation of the product;
+
+(iv)    a list ofthe harmonised standards the references of which have been published in the OfficialJournal of the European Union, applied in full or in part, and descriptionsof the solutions adopted to meet the essential safety requirements of this Directivewhere those harmonised standards have not been applied. In the event of partlyapplied harmonised standards, the technical documentation shall specify theparts which have been applied;
+
+(v)     results ofdesign calculations made, examinations carried out, etc.;
+
+(vi)    testreports;
+
+(vii)    theprototype vessels representative of the production envisaged. The notified bodymay request further prototype vessels if needed for carrying out the testprogramme;
+
+(viii)   thesupporting evidence for the adequacy of the technical design solution. Thissupporting evidence shall mention any documents that have been used, inparticular where the relevant harmonised standards have not been applied infull. The supporting evidence shall include, where necessary, the results oftests carried out by the appropriate laboratory of the manufacturer, or byanother testing laboratory on his behalf and under his responsibility.
+
+ê 2009/105/EC(adapted)
+
+Ö (ix)           theinstructions; Õ
+
+Ö (x)            adocument describing: Õ
+
+–              Ö thematerials selected; Õ
+
+–              Ö thewelding processes selected; Õ
+
+–              Ö thechecks selected; Õ
+
+–              Ö anypertinent details as to the vessel design. Õ
+
+Ö When aprototype vessel is examined, the technical documentation shall alsoinclude: Õ
+
+–                        Ö thecertificates relating to the suitable qualification of the welding operationsand of the welders or welding operators; Õ
+
+–                        Ö theinspection slip for the materials used in the manufacture of parts andcomponents contributing to the strength of the vessel; Õ
+
+–                        Ö a reporton the examinations and tests performed or a description of the proposed checks. Õ
+
+ò new
+
+1.4. The notifiedbody shall:
+
+For the vessel:
+
+1.4.1. examinethe technical documentation and supporting evidence to assess the adequacy ofthe technical design of the vessel.
+
+For the prototypevessel(s):
+
+1.4.2. verifythat the prototype vessels have been manufactured in conformity with thetechnical documentation that it may safely be used under its intended workingconditions and identify the elements which have been designed in accordancewith the applicable provisions of the relevant harmonised standards, as well asthe elements which have been designed without applying the relevant provisionsof those standards;
+
+1.4.3. carry outappropriate examinations and tests, or have them carried out, to check whether,where the manufacturer has chosen to apply the solutions in the relevantharmonised standards, these have been applied correctly;
+
+1.4.4. carry outappropriate examinations and tests, or have them carried out, to check whether,where the solutions in the relevant harmonised standards have not been applied,the solutions adopted by the manufacturer meet the corresponding essentialsafety requirements of this Directive;
+
+1.4.5. agree withthe manufacturer on a location where the examinations and tests will be carriedout.
+
+1.5.      Thenotified body shall draw up an evaluation report that records the activitiesundertaken in accordance with point 1.4 and their outcomes. Without prejudiceto its obligations vis-à-vis the notifying authorities, the notified body shallrelease the content of the report, in full or in part, only with the agreementof the manufacturer.
+
+1.6.      Wherethe type meets the requirements of this Directive, the notified body shall issuean EU-type examination certificate to the manufacturer. The certificate shallcontain the name and address of the manufacturer, the conclusions of theexamination, the conditions (if any) for its validity and the necessary datafor identification of the approved type. The certificate may have one or moreannexes attached.
+
+The certificateand its annexes shall contain all relevant information to allow the conformityof manufactured vessels with the examined type to be evaluated and to allow forin-service control. It shall also indicate any conditions to which its issuemay be subject and be accompanied by the descriptions and drawings necessaryfor identification of the approved type.
+
+Where the typedoes not satisfy the applicable requirements of this Directive, the notifiedbody shall refuse to issue an EU-type examination certificate and shall informthe applicant accordingly, giving detailed reasons for its refusal.
+
+1.7. The notifiedbody shall keep itself apprised of any changes in the generally acknowledgedstate of the art which indicate that the approved type may no longer complywith the applicable requirements of this Directive, and shall determine whethersuch changes require further investigation. If so, the notified body shallinform the manufacturer accordingly.
+
+The manufacturershall inform the notified body that holds the technical documentation relatingto the EU-type examination certificate of all modifications to the approvedtype that may affect the conformity of the vessel with the essential safetyrequirements of this Directive or the conditions for validity of thecertificate. Such modifications shall require additional approval in the formof an addition to the original EU-type examination certificate.
+
+1.8. Eachnotified body shall immediately inform itsnotifying authorities concerning the EU-type examination certificates and/orany additions thereto which it has issued or withdrawn, and shall, periodicallyor upon request, make available to its notifying authorities the list ofcertificates and/or any additions thereto refused, suspended or otherwiserestricted.
+
+The Commission,the Member States and the other notified bodies may, on request, obtain a copyof the EU-type examination certificates and/or additions thereto. On request,the Commission and the Member States may obtain a copy of the technicaldocumentation and the results of the examinations carried out by the notifiedbody. The notified body shall keep a copy of the EU-type examinationcertificate, its annexes and additions, as well as the technical file includingthe documentation submitted by the manufacturer, until the expiry of thevalidity of the certificate.
+
+1.9. Themanufacturer shall keep a copy of the EU-type examination certificate, itsannexes and additions together with the technical documentation at the disposalof the national authorities for 10 years after the vessel has been placed onthe market.
+
+1.10. Themanufacturer's authorised representative may lodge the application referred toin point 1.3 and fulfil the obligations set out in points 1.7 and 1.9, providedthat they are specified in the mandate.
+
+ê 2009/105/EC(adapted)
+
+Ö 2.     Conformityto type based on internal production control plus supervised product testing(Module C1) Õ
+
+ò new
+
+2.1. Conformityto type based on internal production control is the part of a conformityassessment procedure whereby the manufacturer fulfils the obligations laid downin points 2.2, 2.3 and 2.4, and ensures and declares on his sole responsibilitythat the vessels concerned are in conformity with the type described in the EU-typeexamination certificate and satisfy the requirements of this Directive thatapply to them.
+
+2.2.Manufacturing
+
+The manufacturershall take all measures necessary so that the manufacturing process and itsmonitoring to ensure conformity of the manufactured vessels with theapproved type described in the EU-type examination certificate and with therequirements of this Directive that apply to them.
+
+2.3.      Productchecks
+
+2.3.1. For eachindividual vessel manufactured one or more tests on one or more specificaspects of the vessel shall be carried out by the manufacturer or on hisbehalf, in order to verify conformity with the type described in the EU-type examinationcertificate and with the corresponding requirements of this Directive. Thetests shall be carried out under the responsibility of a notified body, chosenby the manufacturer.
+
+The manufacturershall, under the responsibility of the notified body, affix the notified body’sidentification number during the manufacturing process.
+
+ê 2009/105/EC(adapted)
+
+Ö 2.3.2.The notified body shall carry out the appropriate examinations and testsin order to check the conformity of the vessels with the requirements of thisDirective by examination and testing of vessels in accordance with thefollowing paragraphs: Õ
+
+Ö (a)    Themanufacturer shall present his vessels in the form of uniform batches and shalltake all necessary measures in order that the manufacturing process ensures theuniformity of each batch produced. Õ
+
+Ö (b)    Thosebatches shall be accompanied by the EU-type examination certificate. Õ
+
+Ö (c)    Whena batch is examined, the notified body shall ensure that the vessels havebeen manufactured and checked in accordance with the technical documentation,and shall perform a hydrostatic test or a pneumatic test of equivalent effecton each vessel in the batch at a pressure Ph equal to 1,5 times the vessel’sdesign pressure in order to check its strength. The pneumatic test shall besubject to acceptance of the test safety procedures by the Member State inwhich the test is performed. Õ
+
+Ö (d)    Moreover,the notified body shall carry out tests on test-pieces taken from arepresentative production test-piece or from a vessel, as the manufacturerchooses, in order to examine the weld quality. The tests shall be carried outon longitudinal welds. However, where differing weld techniques are used forlongitudinal and circumferential welds, the tests shall be repeated on thecircumferential welds. Õ
+
+Ö (e)    Forthe vessels referred to in point 2.1.2 of Annex I, these tests on test-piecesshall be replaced by a hydrostatic test on five vessels taken at random fromeach batch in order to check that they conform to the essential safetyrequirements set out in point 2.1.2 of Annex I. Õ
+
+Ö (f)     Inthe case of accepted batches, the notified body shall affix itsidentification number, or cause that number to be affixed, to each vessel andshall draw up a written certificate of conformity relating to the tests carriedout. All vessels in the batch may be placed on the market except for thosewhich have not successfully undergone a hydrostatic test or a pneumatictest. Õ
+
+Ö (g)    Ifa batch is rejected, the notified body shall take appropriate measures toprevent the placing on the market of that batch. In the event of frequentrejection of batches, the notified body may suspend the statisticalverification. Õ
+
+Ö (h)    Themanufacturer shall be able to supply on request the notified body’scertificates of conformity referred to in the seventh subparagraph (f). Õ
+
+Ö 2.4. CEmarking and declaration of conformity Õ
+
+ò new
+
+2.4.1.The manufacturer shall affix the CE marking set out in this Directive to eachindividual vessel that is in conformity with the type described in the EU-typeexamination certificate and satisfies the applicable requirements of thisDirective.
+
+2.4.2. Themanufacturer shall draw up a written declaration of conformity for a vesselmodel and keep it at the disposal of the national authorities for 10 yearsafter the vessel has been placed on the market. The declaration of conformityshall identify the vessel model for which it has been drawn up.
+
+A copy of the declaration of conformity shall be madeavailable to the relevant authorities upon request.
+
+2.5. Authorisedrepresentative
+
+Themanufacturer's obligations set out in point 2.4 may be fulfilled by hisauthorised representative, on his behalf and under his responsibility, providedthat they are specified in the mandate.
+
+3.           Conformity to type based on internal productioncontrol plus supervised vessel checks at random intervals (Module C2)
+
+3.1. Conformityto type based on internal production control plus supervised vessel checks atrandom intervals is the part of a conformity assessment procedure whereby themanufacturer fulfils the obligations laid down in points 3.2, 3.3 and 3.4, andensures and declares on his sole responsibility that the vessels concerned arein conformity with the type described in the EU-type examination certificateand satisfy the requirements of this Directive that apply to them.
+
+3.2.Manufacturing
+
+The manufacturershall take all measures necessary so that the manufacturing process and itsmonitoring ensure conformity of the manufactured vessels with the typedescribed in the EU-type examination certificate and with the requirements ofthis Directive.
+
+ê 2009/105/EC(adapted)
+
+Ö 3.2.1.Before commencing manufacture, the manufacturer shall send thenotified body a document describing the manufacturing processes and all ofthe predetermined systematic measures taken to ensure conformity of the vesselsto the EU-type examination certificate. Õ
+
+Ö 3.2.2.The document shall include: Õ
+
+Ö (a)    adescription of the means of manufacture and checking appropriate to theconstruction of the vessels; Õ
+
+Ö (b)    aninspection document describing the appropriate examinations and tests to becarried out during manufacture, together with the procedures in respect thereofand the frequency with which they are to be performed; Õ
+
+Ö (c)    anundertaking to carry out the examinations and tests in accordance with theinspection document and to have a hydrostatic test or, subject to the agreementof the Member State, a pneumatic test carried out on each vessel manufacturedat a test pressure equal to 1,5 times the design pressure; Õ
+
+Ö thoseexaminations and tests shall be carried out under the responsibility ofqualified staff who are sufficiently independent from production personnel, andshall be the subject of a report; Õ
+
+Ö (d)    theaddresses of the places of manufacture and storage and the date on whichmanufacture is to commence. Õ
+
+ò new
+
+3.3. Vesselchecks
+
+A notified body,chosen by the manufacturer, shall carry out vessel checks or have them carriedout at appropriate intervals determined bythe body, in order to verify the quality of the internal checks on the vessel,taking into account, inter alia, the technological complexity of thevessels and the quantity of production. An adequate sample of the finalvessels, taken on site by the notified body before the placing on the market,shall be examined and appropriate tests as identified by the relevant parts ofthe harmonised standards or equivalent tests, shall be carried out to check theconformity of the vessel with the type described in the EU-type examinationcertificate and with the relevant requirements of this Directive.
+
+ê 2009/105/EC(adapted)
+
+Ö Thenotified body shall also ensure that the manufacturer actually checksseries-produced vessels in accordance with point 3.2 c); Õ
+
+Ö The manufacturershall provide the notified body with all necessary information, and inparticular: Õ
+
+Ö (a)    thetechnical documentation; Õ
+
+Ö (b)    theinspection report; Õ
+
+Ö (c)    theEU-type examination certificate; Õ
+
+Ö (d)    areport on the examinations and tests carried out. Õ
+
+Ö Thenotified body shall supply the Member State which notified it and, onrequest, the other notified bodies, the other Member States and the Commission,with a copy of the inspection report. Õ
+
+ò new
+
+Where a sampledoes not comply with the acceptable quality level, the body shall takeappropriate measures.
+
+The acceptancesampling procedure to be applied is intended to determine whether themanufacturing process of the vessel performs within acceptable limits, with aview to ensuring conformity of the vessel.
+
+Where the testsare carried out by notified body, the manufacturer shall, under theresponsibility of the notified body, affix the notified body's identificationnumber during the manufacturing process.
+
+3.4. CE markingand declaration of conformity
+
+3.4.1. Themanufacturer shall affix the CE marking set out in this Directive to eachindividual vessel that is in conformity with the type described in the EU-typeexamination certificate and satisfies the applicable requirements of thisDirective.
+
+3.4.2. Themanufacturer shall draw up a written declaration of conformity for a vesselmodel and keep it at the disposal of the national authorities for 10 yearsafter the vessel has been placed on the market. The declaration of conformityshall identify the vessel model for which it has been drawn up.
+
+A copy of thedeclaration of conformity shall be made available to the relevant authoritiesupon request.
+
+A copy of thedeclaration shall be supplied with each vessel that is placed on the market.However, this requirement may be interpreted as applying to a batch orconsignment rather than individual vessels in those cases where a large numberof vessels is delivered to a single user.
+
+3.5. Authorisedrepresentative
+
+Themanufacturer's obligations set out in point 3.4 may be fulfilled by hisauthorised representative, on his behalf and under his responsibility, providedthat they are specified in the mandate.
+
+4.           Conformity to typebased on internal production control (Module C)
+
+4.1. Conformityto type based on internal production control is the part of a conformityassessment procedure whereby the manufacturer fulfils the obligations laid downin points 4.2 and 4.3, and ensures and declares that the vessels concerned arein conformity with the type described in the EU-type examination certificateand satisfy the requirements of this Directive that apply to them.
+
+4.2.Manufacturing
+
+The manufacturershall take all measures necessary so that the manufacturing process and itsmonitoring ensure conformity of the manufactured vessels with the approved typedescribed in the EU-type examination certificate and with the requirements ofthis Directive that apply to them.
+
+Before commencingmanufacture, the manufacturer shall send the notified body which issuedthe EU-type examination certificate a document describing themanufacturing processes and all of the predetermined systematic measures takento ensure conformity of the vessels to the EU-type examination certificate.
+
+ê 2009/105/EC(adapted)
+
+Ö The documentshall include: Õ
+
+Ö (a)    adescription of the means of manufacture and checking appropriate to theconstruction of the vessels; Õ
+
+Ö (b)    aninspection document describing the appropriate examinations and tests to becarried out during manufacture, together with the procedures in respect thereofand the frequency with which they are to be performed; Õ
+
+Ö (c)    anundertaking to carry out the examinations and tests in accordance with theinspection document and to have a hydrostatic test or, subject to the agreementof the Member State, a pneumatic test carried out on each vessel manufacturedat a test pressure equal to 1,5 times the design pressure; Õ
+
+Ö thoseexaminations and tests shall be carried out under the responsibility ofqualified staff who are independent from production personnel, and shall be thesubject of a report; Õ
+
+Ö (d)    theaddresses of the places of manufacture and storage and the date on whichmanufacture is to commence. Õ
+
+Ö Thenotified body which issued the EU-type examination certificate shall,before the date on which any manufacture begins, examine the document referredto in point 4.2 in order to certify its conformity with the EU-type examinationcertificate. Õ
+
+ò new
+
+4.3. CE markingand declaration of conformity
+
+4.3.1. Themanufacturer shall affix the CE marking to each individual vessel that is inconformity with the type described in the EU-type examination certificate andsatisfies the applicable requirements of this Directive.
+
+4.3.2. Themanufacturer shall draw up a written declaration of conformity for a vesselmodel and keep it at the disposal of the national authorities for 10 yearsafter the vessel has been placed on the market. The declaration of conformityshall identify the vessel model for which it has been drawn up.
+
+A copy of thedeclaration of conformity shall be made available to the relevant authoritiesupon request.
+
+Acopy of the declaration shall be supplied with each vessel that is placed onthe market. However, this requirement may be interpreted as applying to a batchor consignment rather than individual vessels in those cases where a largenumber of vessels is delivered to a single user.
+
+4.4. Authorisedrepresentative
+
+Themanufacturer's obligations set out in point 4.3 may be fulfilled by hisauthorised representative, on his behalf and under his responsibility, providedthat they are specified in the mandate.
+
+ê 2009/105/EC(adapted)
+
+ANNEX III
+
+‘CE’ MARKING,INSCRIPTIONS, INSTRUCTIONS, DESIGN AND MANUFACTURE SCHEDULES,DEFINITIONS AND SYMBOLS
+
+1. ‘CE’ Ö CE Õ MARKINGAND INSCRIPTIONS
+
+ê 2009/105/EC
+
+1.1.‘CE’ marking
+
+The ‘CE’ markingshall consist of the initials ‘CE’ in the following form:
+
+If the ‘CE’marking is reduced or enlarged the proportions given in the graduated drawingset out in this point must be respected.
+
+The variouscomponents of the ‘CE’ marking must have substantially the same verticaldimension, which may not be less than 5 mm.
+
+ò new
+
+Vessels of whichthe product of PS x V exceeds 50 bar.L must bear the CE marking referred to inArticles 15 and 16.
+
+ê 2009/105/EC(adapted)
+
+1.2.Inscriptions
+
+Ö Inaddition to the CE marking and to the labelling requirements referred to inArticle 6, paragraphs 5 and 6, Õ Tthe vessel or Ö its Õ data plate must Ö shall Õ bear at leastthe following information:
+
+ê 2009/105/EC
+
+(a)      the maximum workingpressure (PS in bar);
+
+(b)     the maximum workingtemperature (Tmax in °C);
+
+(c)      the minimum working temperature(Tmin in °C);
+
+(d)     the capacity of thevessel (V in lL);
+
+(e) the name ormark of the manufacturer;
+
+(f) the type andserial or batch identification of the vessel;
+
+ê 2009/105/EC(adapted)
+
+(ge)    the last two digits of the year inwhich the ‘CE’Ö CE Õ marking wasaffixed.
+
+ê 2009/105/EC(adapted)
+
+Where the data plate is used, it must Ö shall Õ be so designedthat it cannot be reused and must Ö shall Õ include avacant space to enable other information to be provided.
+
+2. INSTRUCTIONS Ö ANDSAFETY INFORMATION Õ
+
+The instructions must Ö shall Õ contain thefollowing information:
+
+ê 2009/105/EC
+
+(a)      the particulars givenin point 1 except for the vessel’s serial identification;
+
+(b)     the intended use of thevessel;
+
+(c)      the maintenance andinstallation requirements for vessel safety.
+
+ê 2009/105/EC(adapted)
+
+They must be in the official language orlanguages of the countryÖ MemberState Õ ofdestination.
+
+ê 2009/105/EC
+
+3. DESIGN AND MANUFACTURING SCHEDULES
+
+The design andmanufacturing schedules must contain a description of the techniques andoperations employed in order to meet the essential safety requirements set outin Annex I or the harmonised standards referred to in Article 5(1), and inparticular:
+
+(a) adetailed manufacturing drawing of the vessel type;
+
+(b) theinstructions;
+
+(c) adocument describing:
+
+the materialsselected,
+
+the weldingprocesses selected,
+
+the checksselected,
+
+any pertinentdetails as to the vessel design.
+
+When theprocedures laid down in Articles 11 to 14 are applied, the schedule must alsoinclude:
+
+(a) thecertificates relating to the suitable qualification of the welding operationsand of the welders or operators;
+
+(b) theinspection slip for the materials used in the manufacture of parts andassemblies contributing to the strength of the pressure vessel;
+
+(c) areport on the examinations and tests performed or a description of the proposedchecks.
+
+43. DEFINITIONS AND SYMBOLS
+
+43.1.Definitions
+
+(a)          The design pressure ‘P’ is thegauge pressure chosen by the manufacturer and used to determine the thicknessof the vessel’s pressurised parts.
+
+(b)          The maximum working pressure ‘PS’is the maximum gauge pressure which may be exerted under normal conditions ofuse of the vessel.
+
+(c)          The minimum working temperature Tminis the lowest stabilised temperature which the wall of the vessel may attainunder normal conditions of use.
+
+(d)          The maximum working temperature Tmaxis the highest stabilised temperature which the wall of the vessel may attainunder normal conditions of use.
+
+ê 2009/105/EC(adapted)
+
+(e)          The yield strength ‘ReT’is the value at the maximum working temperature Tmax of Ö any ofthe following Õ :
+
+ê 2009/105/EC
+
+(i)      the upper yield point ReH, for a materialwith both a lower and an upper yield point,;
+
+ê 2009/105/EC(adapted)
+
+(ii)     the Ö 0,2% Õ proof stress Ö strength Õ Rp0,2,; or
+
+(iii)     the Ö 1,0% Õ proof stress Ö strength Õ Rp1,0in the case of non-alloy aluminium.
+
+ê 2009/105/EC
+
+(f)           Families of vessels:
+
+Vessels form part of the same family ifthey differ from the prototype only in diameter, provided that the permissiblerequirements referred to in points 2.1.1 and 2.1.2 of Annex I are compliedwith, and/or in the length of their cylindrical portion within the followinglimits:
+
+ê 2009/105/EC(adapted)
+
+(i)      where a prototype has one or more shell rings in addition tothe ends, variants mustÖ shall Õ have at leastone shell ring,;
+
+(ii)     where a prototype has just two dished ends, variants must Ö shall Õ have no shellrings.
+
+Variations in length causing the aperturesand/or penetrations to be modified must Ö shall Õ be shown inthe drawing for each variant.
+
+ê 2009/105/EC
+
+(g)          A batch of vessels consists atthe most of 3000 vessels of the model of the same type.
+
+(h)          There is series manufacturewithin the meaning of this Directive if more than one vessel of the same typeis manufactured during a given period by a continuous manufacturing process, inaccordance with a common design and using the same manufacturing processes.
+
+(i)           Inspection slip: document bywhich the producer certifies that the products delivered meet the requirementsof the order and in which he sets out the results of the routine in-plantinspection test, in particular chemical composition and mechanicalcharacteristics performed on products made by the same production process asthe supply, but not necessarily on the products delivered.
+
+43.2.Symbols
+
+ê 2009/105/EC(adapted)
+
+A || elongation after rupture Ö fracture Õ (Lo = 5,65√So) || %
+
+A80 mm || elongation after rupture Ö fracture Õ (Lo = 80 mm) || %
+
+KCV || Ö bending Õ rupture energy || J/cm2
+
+P || design pressure || Bar
+
+PS || maximum working pressure || Bar
+
+Ph || hydrostatic or pneumatic test pressure || Bar
+
+Rp0,2 || Ö 0,2% Õ proof stress Ö strength Õ at 0,2 % || N/mm2
+
+ReT || yield strength at maximum working temperature || N/mm2
+
+ReH || upper yield point || N/mm2
+
+Rm || tensile strength || N/mm2
+
+Rm, max || maximum tensile strength || N/mm2
+
+Rp1,0 || Ö 1,0% Õ proof stress Ö strength Õ at 1,0 % || N/mm2
+
+Tmax || maximum working temperature || °C
+
+Tmin || minimum working temperature || °C
+
+V || capacity of the vessel || lL
+
+ê 2009/105/EC
+
+ANNEXIII
+
+MINIMUMCRITERIA TO BE MET BY MEMBER STATES FOR THE APPROVAL OF INSPECTION BODIES
+
+(referred to in Article 9(2))
+
+1. The approvedinspection body, its director and the staff responsible for carrying out theverification tests shall not be the designer, manufacturer, supplier orinstaller of vessels which they inspect, nor the authorised representative ofany of those parties. They shall not become directly involved in the design,construction, marketing or maintenance of the vessels, nor represent theparties engaged in those activities. Thisdoes not preclude the possibility of exchanges of technical information betweenthe manufacturer and the approved inspection body.
+
+2. The approvedinspection body and its staff must carry out the verification tests with the highestdegree of professional integrity and technical competence and must be free fromall pressures and inducements, particularly financial, which might influencetheir judgment or the results of the inspection, especially from persons orgroups of persons with an interest in theresult of verifications.
+
+3. The approvedinspection body must have at its disposal the necessary staff and the necessaryfacilities to enable it to perform properly the administrative and technicaltasks connected with verification; it must also have access to the equipmentrequired for special verification.
+
+4. The staffresponsible for inspection must have:
+
+(a)sound technical and professional training;
+
+(b)satisfactory knowledge of the requirements of the tests they carry out andadequate experience of such tests;
+
+(c) theability to draw up the certificates, records and reports required toauthenticate the performance of the tests.
+
+5. Theimpartiality of inspection staff must be guaranteed. Their remuneration mustnot depend on the number of tests carried out or on the results of suchtests.
+
+6. The approvedinspection body must take out liability insurance unless its liability isassumed by the State in accordance with national law, or the Member Stateitself is directly responsible for the tests.
+
+7. The staff ofthe approved inspection body is bound to observe professional secrecy withregard to all information gained in carrying out its tasks (except vis-à-visthe competent administrative authorities of the State in which its activitiesare carried out) under this Directive or any provision of national law givingeffect to it.
+
+ê 2009/105/EC(adapted)
+
+ANNEX IV
+
+PART A
+
+Repealed Directive with list of its successive amendments
+
+(referred to in Article 19)
+
+Council Directive 87/404/EEC (OJ L 220, 8.8.1987, p. 48) ||
+
+Council Directive 90/488/EEC (OJ L 270, 2.10.1990, p. 25) ||
+
+Council Directive 93/68/EEC (OJ L 220, 30.8.1993, p. 1) || Article 1, point 1, and Article 2 only
+
+PART B
+
+List of time limits for transposition into national law and application
+
+(referred to in Article 19)
+
+Directive || Time limit for transposition || Date of application
+
+87/404/EEC || 31 December 1989 || 1 July 1990[15]
+
+90/488/EEC || 1 July 1991 || —
+
+93/68/EEC || 30 June 1994 || 1 January 1995[16]
+
+ê 2009/105/EC(adapted)
+
+ANNEX IV
+
+CORRELATION TABLE
+
+Directive 87/404/EEC Ö 2009/105/EC Õ || This Directive
+
+Recital 5, fifth sentence || Article 1(3), point (b)
+
+Article 1(1) || Article 1(1)
+
+Article 1(2), first subparagraph || Article 1(3), point (a), first subparagraph
+
+Article 1(2), second subparagraph, first indent || Article 1(3), point (a), second subparagraph
+
+Article 1(2), second subparagraph, second indent, first and second sub-indents || Article 1(3), point (a), third subparagraph, points (i) and (ii)
+
+Article 1(2), second subparagraph, third indent || Article 1(3), point (a), fourth subparagraph
+
+Article 1(2), second subparagraph, fourth indent || Article 1(3), point (a), fifth subparagraph
+
+Article 1(3), first, second and third indents || Article 1(2), points (a), (b) and (c)
+
+Articles 2, 3 and 4 || Articles 2, 3 and 4
+
+Article 5(1) || Article 5(1)
+
+Article 5(2) || Article 5(2)
+
+Article 5(3), points (a) and (b) || Article 5(3), first and second subparagraphs
+
+Article 6 || Article 6
+
+Article 7(1) || Article 7(1)
+
+Article 7(2), first and second sentences || Article 7(2), first subparagraph
+
+Article 7(2), third sentence || Article 7(2), second subparagraph
+
+Article 7(3) || Article 7(3)
+
+Article 7(4) || Article 7(4)
+
+Article 8(1), introductory wording and point (a), introductory wording || Article 8(1), introductory wording
+
+Article 8(1), point (a), first and second indents || Article 8(1), points (a) and (b)
+
+Article 8(1), point (b) || Article 8(2)
+
+Article 8(2), point (a) || Article 8(3), point (a)
+
+Article 8(2), point (b), first and second indents || Article 8(3), points (b)(i) and (ii)
+
+Article 8(3) || Article 8(4)
+
+Article 9 || Article 9
+
+Article 10(1) || Article 10(1)
+
+Article 10(2), first subparagraph || Article 10(2), first subparagraph
+
+Article 10(2), second subparagraph, first and second indents || Article 10(2), second subparagraph, points (a) and (b)
+
+Article 10(2), third subparagraph || Article 10(2), third subparagraph
+
+Article 10(3), first subparagraph || Article 10(3), first subparagraph
+
+Article 10(3), second subparagraph || Article 10(3), second subparagraph
+
+Article 10(3), third subparagraph, points (a) and (b) || Article 10(3), third subparagraph, points (a) and (b)
+
+Article 10(4) || Article 10(4)
+
+Article 10(5), first sentence || Article 10(5), first subparagraph
+
+Article 10(5), second and third sentences || Article 10(5), second subparagraph
+
+Article 11(1) and (2) || Article 11(1) and (2)
+
+Article 11(3), introductory wording || Article 11(3), first subparagraph
+
+Article 11(3), point 3.1 || Article 11(3), second subparagraph
+
+Article 11(3), point 3.2 || Article 11(3), third subparagraph
+
+Article 11(3), point 3.3, first subparagraph || Article 11(3), fourth subparagraph
+
+Article 11(3), point 3.3, second subparagraph || Article 11(3), fifth subparagraph
+
+Article 11(3), point 3.3, third subparagraph || Article 11(3), sixth subparagraph
+
+Article 11(3), point 3.4, first subparagraph || Article 11(3), seventh subparagraph
+
+Article 11(3), point 3.4, second subparagraph || Article 11(3), eighth subparagraph
+
+Article 11(3), point 3.4, third subparagraph || Article 11(3), ninth subparagraph
+
+Article 11(3), point 3.5 || Article 11(3), tenth subparagraph
+
+Article 12(1), first subparagraph, first and second indents || Article 12(1), points (a) and (b)
+
+Article 12(1), second subparagraph || Article 12(2), first subparagraph
+
+Article 12(2) || Article 12(2), second subparagraph
+
+Article 13(1), first subparagraph || Article 13(1)
+
+Article 13(1), second subparagraph || Article 13(2)
+
+Article 13(2), indents 1 to 4 || Article 13(3), points (a) to (d)
+
+Article 14(1) || Article 14, first paragraph
+
+Article 14(2), first subparagraph, first and second indents || Article 14, second paragraph, points (a) and (b)
+
+Article 14(2), second subparagraph || Article 14, third paragraph
+
+Articles 15, 16 and 17 || Articles 15, 16 and 17
+
+Article 18(1) || —
+
+Article 18(2) || Article 18
+
+— || Article 19
+
+— || Article 20
+
+Article 19 || Article 21
+
+Annex I, point 1 || Annex I, point 1.
+
+Annex I, point 1.1, first paragraph, first, second and third indents || Annex I, point 1.1., first paragraph, points (a), (b) and (c)
+
+Annex I, point 1.1, second and third paragraphs || Annex I, point 1.1., second and third paragraphs
+
+Annex I, points 1.1.1 and 1.1.2 || Annex I, points 1.1.1 and 1.1.2
+
+Annex I, points 1.2, 1.3 and 1.4 || Annex I, points 1.2, 1.3 and 1.4
+
+Annex I, point 2, first paragraph, first, second and third indents || Annex I, point 2, first paragraph, points (a), (b) and (c)
+
+Annex I, point 2, second, third and fourth paragraphs || Annex I, point 2, second, third and fourth paragraphs
+
+Annex I, points 2.1, 3 and 4 || Annex I, points 2.1, 3 and 4
+
+Annex II, point 1 || Annex II, point 1
+
+Annex II, point 1.a, first, second and third indents || Annex II, point 1.1, first, second and third paragraphs
+
+Annex II, point 1.b, first paragraph, indents 1 to 7 || Annex II, point 1.2, first paragraph, points (a) to (g)
+
+Annex II, point 1.b, second paragraph || Annex II, point 1.2, second paragraph
+
+Annex II, point 2, first paragraph, first, second and third indents || Annex II, point 2, first paragraph, points (a), (b) and (c)
+
+Annex II, point 2, second paragraph || Annex II, point 2, second paragraph
+
+Annex II, point 3, first paragraph || Annex II, point 3, first paragraph
+
+Annex II, point 3, second paragraph, points (i), (ii) and (iii) || Annex II, point 3, second paragraph, points (a), (b) and (c)
+
+Annex II, point 4 || Annex II, point 4
+
+Annex III, points 1, 2 and 3 || Annex III, points 1, 2 and 3
+
+Annex III, point 4, first, second and third indents || Annex III, point 4, points (a), (b) and (c)
+
+Annex III, points 5, 6 and 7 || Annex III, points 5, 6 and 7
+
+— || Annex IV
+
+— || Annex V
+
+Ö Article 1(1) Õ || Ö Article 1(1), introductory wording Õ
+
+Ö Article 1(2) Õ || Ö Article 1(2) Õ
+
+Ö Article 1(3) (a) Õ || Ö Article 1(1), points (a) to (e) Õ
+
+Ö Article 1(3) (b) Õ || Ö — Õ
+
+Ö Article 2 Õ || Ö Article 3 Õ
+
+Ö ___ Õ || Ö Article 2 Õ
+
+Ö Article 3 Õ || Ö Article 4 Õ
+
+Ö Article 4 Õ || Ö Article 5 Õ
+
+Ö ___ Õ || Ö Article 6 Õ
+
+Ö — Õ || Ö Article 7 Õ
+
+Ö — Õ || Ö Article 8 Õ
+
+Ö — Õ || Ö Article 9 Õ
+
+Ö — Õ || Ö Article 10 Õ
+
+Ö — Õ || Ö Article 11 Õ
+
+Ö — Õ || Ö Article 12 Õ
+
+Ö Article 5 Õ  || Ö — Õ
+
+Ö Article 6 Õ || Ö — Õ
+
+Ö Article 7 Õ || Ö — Õ
+
+Ö Article 8 Õ || Ö ___ Õ
+
+Ö — Õ || Ö Article 13 Õ
+
+Ö Article 9 Õ || Ö — Õ
+
+Ö Article 10 Õ || Ö — Õ
+
+Ö Article 11 (1) and (2) Õ || Ö — Õ
+
+Ö Article 11 (3) Õ || Ö Point 2.3.2. of Annex II Õ
+
+Ö Article 12 Õ || Ö — Õ
+
+Ö Article 13 (1) Õ || Ö Point 3.2.1. of Annex II Õ
+
+Ö Article 13 (2) Õ || Ö Point 3.2.2. of Annex II Õ
+
+Ö Article 13 (3) Õ || Ö — Õ
+
+Ö Article 14, first paragraph Õ || Ö — Õ
+
+Ö Article 14, second paragraph, introductory wording Õ || Ö — Õ
+
+Ö Article 14, second paragraph (a) Õ || Ö Second paragraph of point 3.3. of Annex II Õ
+
+Ö Article 14, second paragraph (b) Õ || Ö — Õ
+
+Ö Article 14, third paragraph Õ || Ö — Õ
+
+Ö — Õ || Ö Article 14 Õ
+
+Ö — Õ || Ö Article 15 Õ
+
+Ö — Õ || Ö Article 16 Õ
+
+Ö — Õ || Ö Article 17 Õ
+
+Ö — Õ || Ö Article 18 Õ
+
+Ö — Õ || Ö Article 19 Õ
+
+Ö — Õ || Ö Article 20 Õ
+
+Ö — Õ || Ö Article 21 Õ
+
+Ö — Õ || Ö Article 22 Õ
+
+Ö — Õ || Ö Article 23 Õ
+
+Ö — Õ || Ö Article 24 Õ
+
+Ö — Õ || Ö Article 25 Õ
+
+Ö — Õ || Ö Article 26 Õ
+
+Ö — Õ || Ö Article 27 Õ
+
+Ö — Õ || Ö Article 28 Õ
+
+Ö — Õ || Ö Article 29 Õ
+
+Ö — Õ || Ö Article 30 Õ
+
+Ö — Õ || Ö Article 31 Õ
+
+Ö — Õ || Ö Article 32 Õ
+
+Ö — Õ || Ö Article 33 Õ
+
+Ö Article 15 Õ || Ö — Õ
+
+Ö Article 16 Õ || Ö — Õ
+
+Ö Article 17 Õ || Ö — Õ
+
+Ö — Õ || Ö Article 34 Õ
+
+Ö — Õ || Ö Article 35 Õ
+
+Ö — Õ || Ö Article 36 Õ
+
+Ö — Õ || Ö Article 37 Õ
+
+Ö — Õ || Ö Article 38 Õ
+
+Ö — Õ || Ö Article 39 Õ
+
+Ö — Õ || Ö Article 40 Õ
+
+Ö Article 18 Õ || Ö Article 41(2) Õ
+
+Ö — Õ || Ö Article 41(1) Õ
+
+Ö Article 19 Õ || Ö Article 42 Õ
+
+Ö Article 20 Õ || Ö Article 43 Õ
+
+Ö Article 21 Õ || Ö Article 44 Õ
+
+Ö Annex I Õ || Ö Annex I Õ
+
+Ö — Õ || Ö Annex II Õ
+
+Ö Annex II Õ || Ö Annex III Õ
+
+Ö Annex III Õ || Ö — Õ
+
+Ö Annex IV Õ || Ö — Õ
+
+Ö Annex V Õ || Ö Annex IV Õ
+
+[1]               Communication from the Commission to the EuropeanParliament, the Council, the Economic and Social Committee and the Committee ofthe Regions, COM(2011) 206 final.
+
+[2]               Proposal for a Regulation of the European Parliamentand of the Council on European Standardisation and amending Council Directives89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC,98/34/EC, 2004/22/EC, 2007/23/EC, 2009/105/EC and 2009/23/EC of the EuropeanParliament and of the Council. COM(2011) 315 final
+
+[3]               OJ C 77, 28.3.2002.
+
+[4]               OJ C 27, 3.2.2009, p. 41.
+
+[5]               OJ L 220, 8.8.1987, p. 48.
+
+[6]               OJ L 264, 8.10.2009, p. 12.
+
+[7]               OJ L 218, 13.8.2008, p. 30.
+
+[8]               OJ L 218, 13.8.2008, p. 82.
+
+[9]               OJ C 91, 16.4.2003, p. 7.
+
+[10]             OJ C 136, 4.6.1985, p. 1.
+
+[11]             OJ C 267, 19.10.1989, p. 3.
+
+[12]             OJ C 10, 16.1.1990, p. 1.
+
+[13]             OJ L […], […], p. […].
+
+[14]             OJ L 204, 21.7.1998, p. 37.
+
+[15]             In accordance with the third subparagraph ofArticle 18(2), Member States shall, for the period up to 1 July 1992, permitthe placing on the market and/or in service of vessels conforming to therules in force in their territories before 1 July 1990.
+
+[16]             In accordance with Article 14(2), until 1 January1997 Member States shall allow the placing on the market and the bringing intoservice of products which comply with the marking arrangements in forcebefore 1 January 1995.

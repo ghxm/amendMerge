@@ -1,0 +1,577 @@
+EUR-Lex - 52010PC0379 - EN
+
+|
+
+52010PC0379
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the conditions of entry and residence of third-country nationals for the purposes of seasonal employment
+
+ | EUROPEAN COMMISSION |
+
+Brussels, 13.7.2010
+
+COM(2010) 379 final
+
+2010/0210 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the conditions of entry and residence of third-country nationals for the purposes of seasonal employment
+
+{SEC(2010) 887}{SEC(2010) 888}
+
+EXPLANATORY MEMORANDUM
+
+1. CONTEXT OF THE PROPOSAL
+
+-  Grounds for and objectives of the proposal
+
+This proposal forms part of the EU’s efforts to develop a comprehensive immigration policy. The Hague Programme of November 2004 recognised that ‘[l]egal migration will play an important role in enhancing the knowledge-based economy in Europe, in advancing economic development, and thus contributing to the implementation of the Lisbon strategy’, and asked the Commission to present a policy plan on legal migration ‘including admission procedures, capable of responding promptly to fluctuating demands for migrant labour in the labour market’.
+
+The subsequent December 2005 Commission Communication ‘A Policy Plan on Legal Migration’ (COM(2005) 669) provided for the adoption of five legislative proposals on labour immigration, including a proposal for a directive on the conditions of entry and residence of seasonal workers, between 2007 and 2009.
+
+The European Pact on Immigration and Asylum, adopted by the European Council on 15 and 16 October 2008, expresses the commitment of the European Union and its Member States to conduct a fair, effective and consistent policy for dealing with the challenges and opportunities of migration.
+
+The Stockholm Programme adopted by the Council on 10-11 December 2009 reiterated the Commission and Council’s commitment to implementing the Policy Plan on Legal Migration.
+
+The proposals regarding highly qualified workers (‘EU Blue Card’) and for a general framework Directive were presented in October 2007[1]. The Council adopted the first proposal on 25 May 2009; the second one is currently under negotiation in the European Parliament and the Council. Both texts exclude seasonal workers from their scope of application.
+
+The present proposal responds to the above political mandates and aims to contribute to the implementation of the EU 2020 Strategy and to effective management of migration flows for the specific category of seasonal temporary migration. It sets out fair and transparent rules for entry and residence while, at the same time, it provides for incentives and safeguards to prevent a temporary stay from becoming permanent.
+
+-  General context
+
+EU economies face a structural need for seasonal work for which labour from within the EU is expected to become less and less available. As regards future skills shortages in the EU, traditional sectors will continue to play an important role and the structural need for low-skilled and low-qualified workers is likely to continue expanding. It should also be pointed out that there is a more permanent need for unskilled labour within the EU. It is expected to be increasingly difficult to fill these gaps with EU national workers, primarily owing to the fact that these workers consider seasonal work unattractive.
+
+Further, there is significant evidence that certain third-country seasonal workers face exploitation and sub-standard working conditions which may threaten their health and safety.
+
+Lastly, sectors of the economy that are characterised by a strong presence of seasonal workers — most notably agriculture, horticulture and tourism — are repeatedly identified as the sectors most prone to work undertaken by third-country nationals who are staying illegally.
+
+-  Existing provisions in the area of the proposal
+
+The only existing instrument at EU level that also addresses conditions for the admission of seasonal workers is the 1994 Council Resolution ‘on limitations on admission of third-country nationals to the territory of the Member States for employment’[2], adopted under Article K.1 of the Treaty. That resolution includes elements for a definition of seasonal workers (workers who ‘undertake well-defined jobs, normally fulfilling a traditional need in the Member State in question’). It also sets the maximum duration of stay at six months in any twelve-month period and excludes extensions of the stay for a different type of employment.
+
+The format of a residence permit for third-country nationals is laid down in Regulation (EC) No 1030/2002, which enables Member States to refer, in a uniform format, to all other information ‘in particular as to whether or not the person is permitted to work’. The present proposal builds on that Regulation insofar as it requires Member States to indicate on the uniform format the permission to work, irrespective of the legal basis for admission.
+
+-  Consistency with other EU policies and objectives
+
+The provisions in this proposal are consistent with and supportive of the objectives of the Commission Communication on promoting decent work for all (COM(2006) 249) and the goals of the EU 2020 Strategy. Setting up swift and flexible admission procedures and securing a legal status for seasonal workers can act as a safeguard against exploitation and also protects EU citizens who are seasonal workers from unfair competition.
+
+With its central focus on eradication of poverty and achievement of the millennium development goals, the proposal also complies with the EU’s development policy. In particular, its provisions on circular migration of seasonal workers between the EU and their countries – seasonal workers will be able to come to a Member State, go back to their countries and then come again to the Member State – would facilitate reliable inflows of remittances and transfer of skills and investment. As this type of migration is temporary, this Directive is not expected to lead to brain drain in emerging or developing countries.
+
+In respect of the employment-related rights of third-country seasonal workers, the proposal complies with the requirement that all EU policies should ensure a high level of human health protection. It observes the principles recognised by the Charter of Fundamental Rights of the European Union, with particular regard to Article 12 on freedom of assembly and association, Article 21(2) on non-discrimination, Article 31 on fair and just working conditions, Article 34 on social security and social assistance, Article 35 on health care and Article 47 on the right to an effective remedy and to a fair trial.
+
+2. CONSULTATION OF INTERESTED PARTIES AND IMPACT ASSESSMENT
+
+-  Consultation of interested parties
+
+The Green Paper on the EU approach to managing economic migration was the subject of a public consultation, which included a public hearing held on 14 June 2005.
+
+Further consultations were carried out by means of seminars and workshops. Member States were consulted within the framework of the Commission’s Committee on Immigration and Asylum. Through the external study that was commissioned to support the impact assessment, additional consultations of the main stakeholders were undertaken by means of questionnaires and interviews.
+
+Analysis of the contributions received revealed general support for a common EU policy on economic immigration, albeit with important differences in respect of the approach to be followed and in the expected end result. Some elements emerged, such as the need for EU common rules regulating all immigration for employment or at least the conditions of admission for some key categories of economic immigrants, most notably highly qualified workers and seasonal workers. These two categories were considered vital to EU competitiveness. Another clear request was to propose simple, non-bureaucratic and flexible solutions. As many Member States were not in favour of a horizontal approach, the Commission considered that a sectoral approach was more appropriate as it would respond better to the requests for flexibility.
+
+-  Collection and use of expertise
+
+There was no need for external expertise.
+
+-  Impact assessment
+
+The following options were considered:
+
+Option 1 — Status quo . Current developments in Member States and at EU level would continue within the existing legal framework. Employers will be under certain obligations resulting from the Directive on employer sanctions adopted on 18 June 2009, namely as regards notifications to authorities and penalties in the case of illegal employment. The effect of this option would be limited.
+
+Option 2 — Directive on entry and residence conditions of seasonal workers and rights . Common rules would be established, including the definition of seasonal work, admission criteria, maximum duration of stay as a seasonal worker and provisions on equal treatment with EU national seasonal workers with respect to certain socio-economic rights such as freedom of association, right to social security, etc. This option would help to establish a common legal framework applicable to all employers in the EU and to prevent exploitation. However, seasonal workers would still be faced with diverging and complex procedures for entry.
+
+Option 3 — Directive laying down common admission procedures . In addition to option 2, a single work and residence permit for third-country seasonal workers would be introduced, to be issued in a single procedure. Provisions would be made for facilitating re-entry of a seasonal worker in subsequent seasons. Hiring procedures would be more efficient, and a more predictable workforce would be available for EU employers.
+
+Option 4 — Directive on measures to ensure effective return . Measures would include limitation of the length of stay, and an explicit obligation to return at the end of the period. Overstaying of seasonal workers would be prevented to some extent. Effects on the functioning of the EU labour market would be marginal. Seasonal workers would still be faced with diverging and complex entry procedures.
+
+Option 5 — Communication, coordination and cooperation among Member States. No new legislation would be introduced, but complementary and supporting activities would be undertaken with a view to approximating Member States’ practices. Effects would be limited, as the measures would not be binding; potential seasonal workers and their prospective employers would continue to face an array of different rules for admission and different rights would be granted to seasonal workers during their residence.
+
+Comparing the options and their impacts, the preferred option is a combination of options 2, 3 and 4. Common admission standards with simplified entry procedures and the prospect of returning in a subsequent season (options 2 and 3) will provide for flexible admission to endow the EU labour market with the necessary resources. Elements from option 4 should help ensure the return of the seasonal worker and thus prevent overstaying.
+
+The Commission carried out an impact assessment listed in the Work Programme, accessible at [… to be added… ].
+
+3. LEGAL ASPECTS OF THE PROPOSAL
+
+-  Summary of the proposed action
+
+The proposal establishes a fast-track procedure for the admission of third-country seasonal workers, based on a common definition and common criteria, in particular the existence of a work contract or a binding job offer that specifies a salary equal to or above a minimum level. Seasonal workers will be issued with a residence permit allowing them to work for a specified maximum period per calendar year. Provision is also made for facilitating the re-entry of a seasonal worker in a subsequent season.
+
+In order to prevent exploitation and protect the safety and health of third-country seasonal workers, legal provisions applying to working conditions are clearly defined. Also, employers are required to provide evidence that the seasonal worker will have appropriate accommodation during his/her stay and that provision is made for facilitation of complaints.
+
+To prevent overstaying of third-country seasonal workers, a maximum duration of stay per calendar year is laid down as well as the explicit obligation to return after that period; there is no possibility of status change.
+
+-  Legal basis
+
+This proposal concerns conditions of entry and residence, and standards on the issue by Member States of residence permits and the definition of rights of third-country nationals residing legally in a Member State. Consequently, the appropriate legal basis is Article 79(2)(a) and (b) of the Treaty on the Functioning of the European Union.
+
+-  Subsidiarity principle
+
+The principle of subsidiarity applies. The principle requires that the Union does not take action in areas of shared competence unless ‘the objectives of the proposed action cannot be sufficiently achieved by the Member States, either at central level or at regional and local level, but can rather, by reason of the scale or effects of the proposed action, be better achieved at Union level’ (Article 5(3) of the Treaty on European Union).
+
+The legitimacy of the EU action in this field derives from the following:
+
+-  The need for seasonal workers is a common occurrence in most Member States. In addition, although third-country workers enter a specific Member State within the EU, a Member State’s decision on the rights of third-country nationals could affect other Member States, and possibly cause distortions of migratory flows.
+
+-  The Schengen area without internal borders requires a common discipline (common minimum rules) to reduce the risk of overstaying and illegal entries that may be caused by/result from lax and diverse rules on the admission of seasonal workers.
+
+-  Exploitation and sub-standard working conditions of third-country seasonal workers need to be overcome by granting certain socio-economic rights in a binding, and thus enforceable, EU-level instrument. This is in line with the call made by the 1999 Tampere European Council for third-country nationals to be granted fair treatment and a secure legal status.
+
+-  With respect to the external aspects of migration policy, an EU instrument on seasonal workers is crucial for effective cooperation with third countries and for further deepening of the global approach. This is so for two reasons. First, such an instrument would allow the EU to remove obstacles to legal migration by low/un-skilled workers and, second, it may prove instrumental in strengthening the commitment of third countries to tackling irregular immigration.
+
+It follows that the present proposal complies with the principle of subsidiarity.
+
+Furthermore, in accordance with Article 79(5) of the Treaty on the Functioning of the European Union, the proposal respects the right of the Member States to determine the numbers of economic migrants coming from third countries to their territory. Thus, it remains up to the respective Member State to assess whether it has an economic need for the admission of third-country seasonal workers.
+
+-  Proportionality principle
+
+The principle of proportionality applies. That principle stipulates that ‘the content and form of Union action shall not exceed what is necessary to achieve the objectives of the Treaties’ (Article 5(4) of the Treaty on European Union).
+
+The proposal complies with the proportionality principle for the following reasons:
+
+-  The instrument chosen is a Directive, which gives Member States a high degree of flexibility in terms of implementation. The form of action does not exceed what is necessary to achieve the aim to regulate seasonal migration flows effectively. Non-binding measures would have too limited an effect as potential third-country seasonal workers and their prospective employers would continue to face an array of different rules for entry and residence and different levels of rights would be granted during the residence.
+
+-  The content of the action is limited to what is necessary to achieve the above aim. The proposed rules concern admission conditions, procedure and permit, as well as rights of seasonal workers, that is, the areas that constitute elements of a common immigration policy under Article 79 of the Treaty on the Functioning of the European Union. The proposal constitutes a relatively small change from the status quo in terms of both the legislative action required and the burden on prospective employers. Some Member States may have increased burdens resulting from the need to set up (more) specific rules, but these are justified in view of the objectives of the present proposal and the structural demand for this category of third-country workers. As stated above, it will remain for Member States to determine the volumes of third-country national seasonal workers admitted.
+
+-  Choice of instrument
+
+3Proposed instrument: a directive.
+
+A directive is the appropriate instrument for this action as it sets binding minimum standards but, at the same time, gives Member States the necessary flexibility in respect of labour market needs and the existing legal framework.
+
+4. BUDGETARY IMPLICATIONS
+
+THE PROPOSAL HAS NO IMPLICATION s for the EU budget.
+
+5. ADDITIONAL INFORMATION
+
+-  Review clause
+
+The proposal includes a review clause.
+
+-  Correlation table
+
+The Member States are required to communicate to the Commission the text of national provisions transposing the Directive as well as a correlation table between those provisions and the Directive.
+
+-  Detailed explanation of the proposal
+
+Chapter I: General provisions
+
+Article 1
+
+The purpose of the proposal is to introduce a special procedure for the entry and residence of third-country nationals applying to reside in the EU for seasonal employment, and to define the rights of seasonal workers.
+
+Article 2
+
+The provisions of the proposal only apply to third-country nationals who reside outside the territory of the Member States. There is no provision for applications for employment as seasonal workers from within a Member State. It is therefore not necessary to provide for exceptions from the scope of the proposal for certain categories of third-country nationals who are legally staying in a Member State.
+
+However, this will not affect the right of third-country nationals who are already legally staying in a Member State to exercise their right to work, including seasonal employment. Such a right will not be exercised under the conditions set out in this proposal.
+
+The proposal does not apply to third-country nationals posted by undertakings established in a Member State in the framework of a provision of services in accordance with Directive 96/71/EC.
+
+Article 3
+
+The notion of seasonal work is distinguished from regular, permanent work in particular by higher workforce requirements linked to an event or pattern of events, such as the planting or harvesting period in agriculture, or the holiday period in tourism including events, festivals, biennales or long term exhibitions in culture.
+
+Member States may determine specific sectors of the economy that meet the above criteria for seasonal work.
+
+Article 4
+
+The proposal allows Member States to grant more favourable conditions only in relation to certain specific provisions that concern the procedural safeguards, the level of rights granted to seasonal workers, as well as provisions relating to accommodation and facilitation of complaints.
+
+Chapter II: Conditions of admission
+
+Article 5
+
+This Article sets out the criteria that a third-country national seasonal worker and his/her employer must fulfil. As the admission is demand-driven, a work contract or a binding job offer must be presented. It was considered necessary to require that the work contract or the binding job offer should specify a level of remuneration in order to allow the competent authorities to assess whether the proposed remuneration is comparable to that paid for the respective activity in the Member State concerned. This is vital in order to avoid an unfair advantage for the employer and exploitative working conditions for the seasonal worker.
+
+The work contract must also specify the working hours per week or month. This requirement should:
+
+-  ensure that employers only request third-country seasonal workers in case of real economic need (sufficient employment capacities);
+
+-  serve as a guarantee of a certain, fixed level of remuneration for the seasonal workers, and, when applicable, other relevant working conditions such as insurances;
+
+-  enable efficient control by the competent authorities before admission.
+
+The application must also include evidence that the respective seasonal worker will benefit from appropriate accommodation.
+
+Articles 6 and 7
+
+The proposal does not create a right to admission. These provisions lay down the mandatory and possible grounds for refusal as well as for withdrawal and non-renewal, including non-fulfilment of the admission criteria, the existence of quotas and the possibility for the Member States to carry out a labour market test.
+
+The principle of EU preference, as expressed in the relevant provisions of the Acts of Accession of 2003 and 2005, constitutes EU primary law, and therefore the Directive must be applied in conformity with the Acts of Accession by those Member States that still make use of the transitional arrangements.
+
+Chapter III: Procedure and permit
+
+Article 8
+
+Member States are required to ensure that the relevant information about conditions of entry and residence, including the rights granted to third-country seasonal workers, and about all the documentary evidence necessary for lodging the application are available to prospective third-country seasonal workers and their employers.
+
+Article 9
+
+The Member States have to determine whether applications are to be lodged by the third-country national or by his or her prospective employer.
+
+The Member States are also required to designate a competent authority to receive the application and issue the permit. This designation is without prejudice to the role and responsibilities of other national authorities with regard to the examination of and decision on the application. Furthermore, the designation to receive and issue the permit should not prevent Member States from appointing other authorities with which the third-country national or his/her prospective employer can lodge the application (e.g. consular offices) and which have the authority to issue the permit.
+
+The application to reside and work as a seasonal worker must be submitted in a single application procedure.
+
+Article 10
+
+Third-country nationals for whom a positive decision has been taken by the Member State concerned must receive a seasonal worker permit.
+
+The residence permit with the indication ‘seasonal worker’ must allow both the residence and the exercise of the specific seasonal work authorised, without an additional permit, in particular a work permit, being necessary. Accordingly, for periods of stay below three months, Member States must issue a visa that will also entitle the seasonal worker to exercise the specific employment activity for which he/she was admitted.
+
+Article 11
+
+The maximum period of stay is set at six months in any calendar year. Such strict limitation of the duration of stay should contribute to ensuring that third-country national workers admitted under this Directive are actually employed for work that is genuinely seasonal and not for regular work.
+
+Explicit provision is made that within the maximum duration of stay an extension of the contract or a change of employer for seasonal work is possible. This is important for the reason that seasonal workers who are tied to a single employer may face the risk of abuses. Also, the possibility to extend the stay within the specified period of time may reduce the risk of overstaying. Finally, extension allows higher earnings and remittances sent by third-country seasonal workers which, in turn, can contribute to the development of their countries of origin.
+
+Article 12
+
+The purpose of this provision is to promote circular migration of third-country national seasonal workers, that is, their movement between a third country and the EU for temporary stay and work in the latter. Such type of migration will potentially benefit the country of origin, the EU host country and the seasonal worker him/herself. Accordingly, Member States have the choice of either issuing multi-seasonal permits or applying a facilitated procedure. Multi-seasonal permits cover up to three seasons and are thus appropriate for sectors where the labour market needs remain stable over a period of time.
+
+A third-country national who did not comply with the obligations linked to a previous stay as a seasonal worker is to be excluded from admission as a seasonal worker for one or more subsequent years.
+
+An employer who has not fulfilled obligations resulting from the work contract must be subjected to sanctions and excluded from the possibility to apply for seasonal workers for at least one year.
+
+Article 13
+
+A fast-track procedure (30 days) is provided for examining applications. Procedural guarantees include the possibility of a legal challenge against a decision rejecting an application as well as the requirement for the authorities to give reasons for such decision.
+
+Article 14
+
+Member States are to require employers of seasonal workers to provide evidence that the seasonal worker will have accommodation ensuring an adequate standard of living. This covers cases where the employer is to provide accommodation and where accommodation is to be provided by a third party.
+
+Chapter IV: Rights
+
+Article 15
+
+A seasonal worker permit entitles its holder to enter and reside on the territory of the Member State which has issued the permit and to exercise the employment activity authorised by the permit.
+
+Article 16
+
+This Article defines the working conditions, including pay, dismissal and health and safety requirements at the workplace applicable to seasonal workers in order to ensure legal certainty.
+
+The Article also grants rights to third-country seasonal workers by determining fields where equal treatment with own nationals should be ensured in the form of a minimum requirement without prejudice to the right of Member States to adopt or maintain provisions which are more favourable. Accordingly, equal treatment applies in respect of freedom of association and affiliation and membership of an organisation representing workers.
+
+Equal treatment also applies to social security and covers the benefits defined in Article 3 of Regulation (EC) No 883/04 on the coordination of social security systems. Such provisions are intended to establish common rules within the EU; to recognise that third-country national seasonal workers legally working in a Member State contribute to the European economy through their work and tax payments; and to serve as a safeguard to reduce unfair competition between own nationals and third-country nationals that may result from possible exploitation of the latter.
+
+Article 17
+
+To make enforcement more effective, complaints mechanisms should be put in place. They should be open not only to third-country seasonal workers, but also to designated third parties. This is so for the reason that evidence suggests that seasonal workers are often either not aware of the existence of such mechanisms or they are hesitant to use them in their own name, as they are afraid of the consequences in terms of future employment possibilities. A comparable provision is laid down in Article 9(2) of Directive 2000/78/EC establishing a general framework for equal treatment in employment and occupation.
+
+Chapter V: Final provisions
+
+This Chapter regulates the obligations of Member States concerning sharing the relevant statistical data and the information resulting from transposition of the Directive. It also specifies the reporting obligations of the European Commission and stipulates the date on which the Directive enters into force.
+
+2010/0210 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on the conditions of entry and residence of third-country nationals for the purposes of seasonal employment
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 79(2)(a) and (b) thereof,
+
+Having regard to the proposal from the European Commission[3],
+
+After transmission of the draft legislative act to the national Parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee[4],
+
+Having regard to the opinion of the Committee of the Regions[5],
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1) For the gradual establishment of an area of freedom, security and justice, the Treaty provides for measures to be adopted in the fields of asylum, immigration and protection of the rights of third-country nationals.
+
+(2) The Hague Programme, adopted by the European Council on 4 and 5 November 2004, recognised that legal migration will play an important role in advancing economic development, and asked the Commission to present a policy plan on legal migration, including admission procedures, capable of responding promptly to fluctuating demands for migrant labour in the labour market.
+
+(3) The European Council of 14 and 15 December 2006 agreed on a series of steps for 2007, which include the development of well-managed legal immigration policies that fully respect national competences, in order to assist Member States in meeting existing and future labour needs. It also called for means to be explored to facilitate temporary migration.
+
+(4) The European Pact on Immigration and Asylum, adopted by the European Council on 15 and 16 October 2008, expresses the commitment of the European Union and its Member States to conduct a fair, effective and consistent policy for dealing with the challenges and opportunities of migration. The Pact forms the basis of a common immigration policy guided by a spirit of solidarity between Member States and cooperation with third countries and founded on proper management of migratory flows, in the interests not only of the host countries but also of the countries of origin and of the migrants themselves.
+
+(5) The Stockholm Programme, adopted by the European Council at its meetings of 10 and 11 December 2009, recognises that labour immigration can contribute to increased competitiveness and economic vitality and that, in the context of the important demographic challenges that will face the EU in the future with an increased demand for labour, flexible immigration policies will make an important contribution to the Union's economic development and performance in the long term. It invites the European Commission and the European Council to continue implementing the Policy Plan on Legal Migration[6].
+
+(6) This Directive should contribute to the effective management of migration flows for the specific category of seasonal temporary migration by setting out fair and transparent rules for admission and stay, while at the same time providing for incentives and safeguards to prevent temporary stay from becoming permanent. In addition, the rules laid down in Directive 2009/52/EC of the European Parliament and of the European Council providing for minimum standards on sanctions and measures against employers of illegally staying third-country nationals[7] will contribute to avoiding such temporary stay turning into illegal stay.
+
+(7) This Directive should be applied without prejudice to the principle of EU preference as regards access to Member States’ labour market as expressed in the relevant provisions of Acts of Accession.
+
+(8) This Directive should be without prejudice to the right of the Member States to determine the volumes of admission of third-country nationals coming from third countries to their territory for the purposes of seasonal work as specified in Article 79(5) of the Treaty on the Functioning of the European Union.
+
+(9) This Directive should not affect conditions of the provision of services in the framework of Article 56 of the TFEU. In particular, this Directive should not affect the terms and conditions of employment which, pursuant to Directive 96/71/EC of the European Parliament and of the Council of 16 December 1996 concerning the posting of workers in the framework of the provision of services[8], apply to workers posted by an undertaking established in a Member State to provide a service in the territory of another Member State.
+
+(10) Activities dependent on the passing of the seasons are typically to be found in sectors such as agriculture, during the planting or harvesting period, or tourism, during the holiday period.
+
+(11) It should only be possible to apply for admission as a seasonal worker while the applicant is residing outside the territory of the Member States.
+
+(12) The Directive should not affect, where granted, the rights of third-country nationals already legally staying in a Member State to work.
+
+(13) The Directive should provide for a flexible entry system based on demand and objective criteria, such as a valid work contract or a binding job offer that specifies the level of remuneration applicable to seasonal workers in the sector concerned.
+
+(14) Member States should have the possibility to apply a test demonstrating that a post cannot be filled from within the domestic labour market.
+
+(15) Provision for a single procedure leading to one combined document encompassing both residence and work permit, should contribute to simplifying the rules currently applicable in Member States. This should not affect the right of Member States to determine the national authorities and the way they should be involved in the single procedure, in accordance with national specificities of administrative organisation and practice.
+
+(16) The duration of stay should be limited to a maximum period per calendar year which, together with the definition of seasonal work, should ensure that the work is of genuinely seasonal nature. Provision should be made that within that maximum duration of stay, an extension of the contract or change of employer is possible. This should serve to reduce risks of abuses that seasonal workers may face if tied to a single employer and at the same time provide for a flexible response to employers’ actual workforce needs.
+
+(17) Circular migration of third-country national seasonal workers should be promoted. In order for seasonal workers to have employment prospects in the EU for periods beyond a single season and for EU employers to be able to rely on a more stable and already trained workforce, the possibility of access to seasonal employment for several consecutive years should be provided, either through a multi-seasonal worker permit or a facilitated procedure. This procedure should include preference over admissions of third-country nationals applying to be admitted as seasonal workers for the first time or reduced processing times, or less documentary evidence being required.
+
+(18) A set of rules governing the procedure for examining applications for admission as a seasonal worker should be laid down. Those procedures should be effective and manageable, taking account of the normal workload of Member States’ administrations, as well as transparent and fair, in order to offer appropriate legal certainty to those concerned.
+
+(19) In order to ensure that seasonal workers have adequate accommodation during their stay, including at a reasonable cost, provision should be made to require employers to provide the evidence of the accommodation they or third-parties provide.
+
+(20) Considering the specially vulnerable situation of third-country national seasonal workers and the temporary nature of their assignment, there is a need to define clearly the working conditions applicable to such workers in order to ensure legal certainty by referring such conditions to generally binding instruments providing effective protection of the rights of third-country seasonal workers, such as law or universally applicable collective agreements.
+
+(21) In the absence of a system for declaring collective agreements of universal application, Member States may base themselves on collective agreements which are generally applicable to all similar undertakings in the geographical area and in the profession or industry concerned, and/or collective agreements which have been concluded by the most representative employers' and labour organisations at national level and which are applied throughout national territory.
+
+(22) Third-country national seasonal workers should be granted equal treatment in respect of those branches of social security listed in Article 3 of Regulation (EC) No 883/04 on the coordination of social security systems. This Directive should not confer more rights than those already provided in existing EU legislation in the field of social security for third-country nationals who have cross-border interests between Member States. Furthermore, this Directive should not grant rights in relation to situations which lie outside the scope of that EU legislation such as, for example, to family members residing in a third country. This is without prejudice to the non discriminatory application by Member States of national legislation providing for de minimis rules on contributions to pension systems.
+
+(23) To facilitate enforcement, relevant designated third parties such as trade unions or other associations should be able to lodge complaints in order to ensure effective application of the Directive. This is considered necessary to address situations where seasonal workers are unaware of the existence of enforcement mechanisms or hesitant to use these in their own name, out of fear of possible consequences.
+
+(24) Since the objectives, namely the introduction of a special admission procedure and the adoption of conditions on entry and residence for the purpose of seasonal employment by third-country nationals, cannot be sufficiently achieved by Member States and can therefore be better achieved at Union level, the Union may adopt measures in accordance with the subsidiarity principle as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+
+(25) This Directive respects the fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union.
+
+(26) In accordance with Articles 1 and 2 of Protocol (No 21) on the position of the United Kingdom and Ireland in respect of the Area of Freedom, Security and Justice, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, and without prejudice to Article 4 of that Protocol, those Member States are not taking part in the adoption of this Directive, and are not bound by it or subject to its application.
+
+(27) In accordance with Articles 1 and 2 of Protocol (No 22) on the position of Denmark annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, Denmark is not taking part in the adoption of this Directive, and is not bound by it or subject to its application,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+CHAPTER I G ENERAL PROVISIONS
+
+Article 1 Subject-matter
+
+This Directive determines the conditions of entry and residence of third-country nationals for the purposes of employment as seasonal workers and defines the rights of seasonal workers.
+
+Article 2 Scope
+
+1. This Directive shall apply to third-country nationals who reside outside the territory of the Member States and apply to be admitted to the territory of a Member State for the purpose of employment as seasonal workers.
+
+2. This Directive shall not apply to third-country nationals who are carrying out activities on behalf of undertakings established in another Member State in the framework of a provision of services within the meaning of Article 56 of the Treaty on the Functioning of the European Union, including those posted by undertakings established in a Member State in the framework of a provision of service in accordance with Directive 96/71/EC.
+
+Article 3 Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(a) ‘third-country national’ means any person who is not a citizen of the European Union within the meaning of Article 20(1) of the Treaty on the Functioning of the European Union;
+
+(b) ‘seasonal worker’ means a third-country national who retains a legal domicile in a third country but resides temporarily for the purposes of employment in the territory of a Member State in a sector of activity dependent on the passing of the seasons, under one or more fixed-term work contracts concluded directly between the third-country national and the employer established in a Member State;
+
+(c) ‘activity dependent on the passing of the seasons’ means an activity that is tied to a certain time of the year by an event or pattern during which labour levels are required that are far above those necessary for usually ongoing operations;
+
+(d) ‘seasonal worker permit’ means the authorisation bearing the words ‘seasonal worker’ entitling its holder to reside and work in the territory of a Member State under the terms of this Directive;
+
+(e) ‘single application procedure’ means a procedure leading, on the basis of one application for the authorisation of a third-country national’s residence and work in the territory of a Member State, to a decision on the application;
+
+(f) ‘universally applicable collective agreement’ means a collective agreement which must be observed by all undertakings in the geographical area and in the profession or industry concerned. In the absence of a system for declaring collective agreements to be of universal application, Member States may, if they so decide, base themselves on collective agreements which are generally applicable to all similar undertakings in the geographical area and in the profession or industry concerned, and/or collective agreements which have been concluded by the most representative employers' and labour organisations at national level and which are applied throughout national territory.
+
+Article 4 More favourable provisions
+
+1. This Directive shall apply without prejudice to more favourable provisions of:
+
+(a) Union law, including bilateral and multilateral agreements concluded between the Union or between the Union and its Member States on the one hand and one or more third countries on the other;
+
+(b) bilateral or multilateral agreements concluded between one or more Member States and one or more third countries.
+
+2. This Directive shall not affect the right of Member States to adopt or retain more favourable provisions for persons to whom it applies in respect of Articles 13 to 17 of this Directive.
+
+CHAPTER II CONDITIONS OF ADMISSION
+
+Article 5 Criteria for admission
+
+1. Applications for admission to a Member State under the terms of this Directive shall be accompanied by the following documents:
+
+(a) a valid work contract or, as provided for in national law, a binding job offer to work as a seasonal worker in the Member State concerned with an employer established in the Member State that specifies the rate of pay and the working hours per week or month and, when applicable, other relevant working conditions;
+
+(b) a valid travel document, as determined by national law. Member States may require the period of the validity of the travel document to cover at least the duration of the residence permit;
+
+(c) evidence of having or, if provided for by national law, having applied for sickness insurance for all the risks normally covered for nationals of the Member State concerned for periods where no such insurance coverage and corresponding entitlement to benefits are provided in connection with, or as a result of, the work contract;
+
+(d) evidence of having accommodation as set out in Article 14.
+
+2. Member States shall require that the seasonal worker will have sufficient resources during his/her stay to maintain him/herself without having recourse to the social assistance system of the Member State concerned.
+
+3. Third-country nationals who are considered to pose a threat to public policy, public security or public health shall not be admitted for the purposes of this Directive.
+
+Article 6 Grounds for refusal
+
+1. Member States shall reject an application for admission to a Member State for the purposes of this Directive whenever the conditions set out in Article 5 are not met or whenever the documents presented have been fraudulently acquired, or falsified, or tampered with.
+
+2. Member States may verify whether the vacancy concerned could not be filled by national or EU, or by third-country nationals lawfully residing in the Member State and already forming part of its labour market by virtue of EU or national law and reject the application.
+
+3. Member States may reject an application if the employer has been sanctioned in conformity with national law for undeclared work and/or illegal employment.
+
+4. Member States may reject an application on the grounds of volumes of admission of third-country nationals.
+
+Article 7 Withdrawal or non-renewal of the permit
+
+1. Member States shall withdraw or refuse to renew the permit issued on the basis of this Directive in the following cases:
+
+(a) when it has been fraudulently acquired, or has been falsified, or tampered with;or
+
+(b) where the holder is residing for purposes other than those for which he/she was authorised to reside.
+
+2. Member States may withdraw or refuse to renew the permit issued on the basis of this Directive in the following cases:
+
+(a) wherever the conditions laid down in Article 5 were not met or are no longer met;or
+
+(b) for reasons of public policy, public security or public health.
+
+CHAPTER III P ROCEDURE AND PERMIT
+
+Article 8 Access to information
+
+Member States shall take the necessary measures to make available information on conditions of entry and residence , including rights and all documentary evidence needed for an application to reside and work in the territory of a Member State as a seasonal worker.
+
+Article 9 Applications for admission
+
+1. Member States shall determine whether an application is to be made by the third-country national or by the employer.
+
+2. Member States shall designate the authority competent to receive the application and to issue the seasonal worker permit.
+
+3. The application to reside and work in the territory of a Member State as a seasonal worker shall be submitted in a single application procedure.
+
+4. The Member State concerned shall grant the third-country national whose application for admission has been accepted every facility to obtain the requisite visa.
+
+Article 10 Seasonal worker permit
+
+1. For stays exceeding three months, seasonal workers who fulfil the admission criteria as set out in Article 5 and for whom the competent authorities have taken a positive decision shall be issued with a seasonal worker permit.
+
+2. The seasonal worker permit shall be issued by the competent authorities of the Member States using the format as laid down in Council Regulation (EC) No 1030/2002[9]. In accordance with point (a) 6.4 of the Annex to that Regulation, Member States shall enter ‘seasonal worker’ under the heading ‘type of permit’.
+
+3. Member States shall not issue any additional documents to the holder of the seasonal worker permit as proof of the access given to the labour market.
+
+Article 1 1 Duration of stay
+
+1. Seasonal workers shall be allowed to reside for a maximum of six months in any calendar year, after which they shall return to a third country.
+
+2. Within the period referred to under paragraph 1, and provided that the criteria of Article 5 are met, seasonal workers shall be allowed to extend their contract or to be employed as seasonal worker with a different employer.
+
+Article 1 2 Facilitation of re-entry
+
+1. Member States shall either:
+
+(a) upon application, issue up to three seasonal worker permits covering up to three subsequent seasons within one administrative act (‘multi-seasonal worker permit’),or
+
+(b) provide a facilitated procedure for third-country nationals who were admitted to that Member State as seasonal workers and who apply to be admitted as such in a subsequent year.
+
+2. Member States shall provide that:
+
+(a) a third-country national who has not complied with the obligations arising from the admission decision during a previous stay as a seasonal worker, and in particular with the obligation to return to a third country on the expiry of the permit, shall be excluded from admission as seasonal worker for one or more subsequent years;
+
+(b) an employer who has not fulfilled the obligations arising out of the work contract shall be subject to effective, proportionate and dissuasive sanctions. Such employers shall be excluded from applications for seasonal workers for one or more subsequent years.
+
+Article 1 3 Procedural safeguards
+
+1. The competent authorities of the Member State shall adopt a decision on the application and notify the applicant in writing, in accordance with the notification procedures laid down in the national law of the Member State, within 30 days of the complete application being lodged.
+
+2. Where the information supplied in support of the application is inadequate, the competent authorities shall notify the applicant within a reasonable period of the additional information that is required and set a reasonable deadline for providing it.
+
+3. Any decision rejecting an application, or any decision not to renew or to withdraw the permit, shall be notified in writing to the applicant and shall be open to a legal challenge in the Member State concerned in accordance with national law. The notification shall specify the reasons for the decision, the possible redress procedures available and the time limit for taking action.
+
+Article 1 4 Accommodation
+
+Member States shall require employers of seasonal workers to provide evidence that the seasonal worker will benefit from accommodation that ensures an adequate standard of living. If seasonal workers are required to pay rent for such accommodation, its cost shall not be excessive in relation to their remuneration.
+
+CHAPTER IV RIGHTS
+
+Article 1 5 Rights on the basis of the seasonal worker permit/visa
+
+During the period of validity of a seasonal worker permit, the holder shall enjoy at least the following rights:
+
+(a) the right to enter and stay in the territory of the Member State issuing the permit;
+
+(b) free access to the entire territory of the Member State issuing the permit within the limits provided for by national law;
+
+(c) the right to exercise the concrete employment activity authorised under the permit in accordance with national law.
+
+Article 1 6 Rights
+
+Whatever the law applicable to the employment relationship, seasonal workers shall be entitled to:
+
+1. working conditions, including pay and dismissal as well as health and safety requirements at the workplace, applicable to seasonal work as laid down by law, regulation or administrative provision and/or universally applicable collective agreements in the Member State to which they have been admitted according to this Directive.
+
+In the absence of a system for declaring collective agreements to be of universal application, Member States may, if they so decide, base themselves on collective agreements which are generally applicable to all similar undertakings in the geographical area and in the profession or industry concerned, and/or collective agreements which have been concluded by the most representative employers' and labour organisations at national level and which are applied throughout national territory;
+
+2. equal treatment with nationals of the host Member State as regards at least with regard to:
+
+(a) freedom of association and affiliation and membership of an organisation representing workers or of any organisation whose members are engaged in a specific occupation, including the benefits conferred by such organisations, without prejudice to the national provisions on public policy and public security;
+
+(b) provisions in national laws regarding the branches of social security as defined in Article 3 of Council Regulation (EC) No 883/04;
+
+(c) payment of statutory pensions based on the worker's previous employment under the same conditions as nationals of the Member States concerned when they move to a third country;
+
+(d) access to goods and services and the supply of goods and services made available to the public, except public housing and counselling services afforded by employment services.
+
+The right to equal treatment provided for in paragraph 2 shall be without prejudice to the right of the Member State to withdraw or to refuse to renew the permit in accordance with Article 7.
+
+Article 1 7 Facilitation of complaints
+
+Member States shall ensure that third parties which have, in accordance with the criteria laid down by their national law, a legitimate interest in ensuring compliance with this Directive, may engage either on behalf of or in support of a seasonal worker, with his/her approval, in any administrative or civil proceedings provided for with the objective of implementing this Directive.
+
+CHAPTER V F INAL PROVISIONS
+
+Article 18 Statistics
+
+1. Member States shall communicate to the Commission statistics on the number of residence permits and visas issued for the first time or renewed and, as far as possible, on the number of residence permits and visas withdrawn for the purpose of seasonal employment to persons who are third-country nationals, disaggregated by citizenship, age and sex, length of validity of the permit and economic sector.
+
+2. The statistics referred to in paragraph 1 shall be communicated in accordance with Regulation (EC) No 862/2007 of the European Parliament and of the Council[10].
+
+3. The statistics referred to in paragraph 1 shall relate to reference periods of one calendar year and shall be communicated to the Commission within six months of the end of the reference year. The first reference year shall be [ the year following the point of time referred to in Article 20(1) ].
+
+Article 1 9 Reporting
+
+Every three years, and for the first time no later than [three years after the date of transposition of this Directive] , the Commission shall submit a report to the European Parliament and to the Council on the application of this Directive in the Member States and shall propose any amendments necessary.
+
+Article 20 Transposition
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by (24 months from the date of publication in the Official Journal of the European Union) at the latest. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article 2 1 Entry into force
+
+This Directive shall enter into force on the day following its publication in the Official Journal of the European Union .
+
+Article 2 2 Addressees
+
+This Directive is addressed to the Member States, in accordance with the Treaty on the Functioning of the European Union.
+
+Done at Brussels, […]
+
+For the European Parliament For the Council
+
+The President The President
+
+[1] COM(2007) 637 and 638, 23.10.2007.
+
+[2] OJ C 274, 19.9.1996, p. 3.
+
+[3] OJ C , , p. .
+
+[4] OJ C , , p. .
+
+[5] OJ C , , p. .
+
+[6] COM(2005) 669.
+
+[7] OJ L 168, 30.6.2009, p. 24.
+
+[8] OJ L 18, 21.1.1997, p. 1.
+
+[9] OJ L 157, 15.6.2002, p. 1.
+
+[10] OJ L 199, 31.7.2007, p. 23.

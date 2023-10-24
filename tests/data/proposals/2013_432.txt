@@ -1,0 +1,477 @@
+EUR-Lex - 52013PC0884 - EN
+
+|
+
+52013PC0884
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the Union legal framework for customs infringements and sanctions /* COM/2013/0884 final - 2013/0432 (COD) */
+
+EXPLANATORY MEMORANDUM
+
+1.           CONTEXT OF THE PROPOSAL
+
+1.1.        General context
+
+Despite the fact thatcustoms legislation is fully harmonised, its enforcement, which ensurescompliance with the customs rules and the lawful imposition of sanctions, lieswithin the ambit of Member States' national law. Consequently, customslegislation enforcement follows 28 different sets of legal rules and differentadministrative or legal traditions. This means that Member States can imposesanctions that seem appropriate to them as penalties for infringements ofcertain obligations stemming from the harmonised Union customs legislation.
+
+Such sanctions differ innature and severity according to the Member State that is competent for it.Namely, they are of different types (e.g. fines, imprisonment, confiscation ofgoods, temporal or permanent disqualification from the practice of industrialor commercial activities), irrespective their nature, and even when assumingthe same type and nature, like for instance a fine, have differentlevels/ranges from Member State to Member State.
+
+An overview of the situationregarding Member States' customs infringements and sanctions systems took placethrough a Project Group established, on a voluntary basis, by the Commissionwith 24 Member States[1],under the Customs 2013 Program. This Project Group analysed the 24 nationalregimes for customs infringements and related sanctions and reported back tothe Commission. Several substantial differences were noted:
+
+Table 1 – Differences in Member States'customs sanctioning systems
+
+The nature of national sanctions for customs infringements || 16 out of 24 Member States provide for both criminal and non-criminal sanctions. 8 out of 24 Member States only have criminal sanctions.
+
+Financial thresholds to distinguish between criminal and non-criminal infringements and sanctions || Member States whose systems foresee both criminal and non-criminal infringements and sanctions have different financial thresholds to decide on the nature of the customs infringement – whether criminal or non-criminal- and therefore the nature of the customs sanction. Thus the financial thresholds vary between 266 EUR and 50 000 EUR.
+
+Member States' requirements to establish the economic operator's liability for the customs infringement || 11 out of 24 Member States consider that an economic operator is liable for certain customs infringements whenever there is a customs law breach, irrespective of the presence of intent, negligence or elements of careless or reckless behaviour (strict liability infringements). 13 out of 24 Member States cannot sanction an economic operator for a customs infringement without the presence of intent, negligence or elements of careless or reckless behaviour.
+
+Time limits: -to initiate a customs sanction procedure -to impose a customs sanction -to execute the customs sanction || The large majority of Member States have time limits to initiate a sanction procedure, to impose a customs sanction and to execute it. These time limits vary from 1 to 30 years. 1 out of 24 Member States does not employ any time limit at all – it can initiate the sanction procedure or impose a sanction at any time.
+
+Legal Persons' liability || An economic operator who is a legal person can be held liable for a customs infringement in 15 out of 24 Member States. In 9 out of 24 Member States legal persons cannot be held liable for infringements.
+
+Settlement || Settlement refers to any procedure within the legal or administrative system of a Member State that allows the authorities to agree with an offender to settle the matter of a customs infringement as an alternative to initiating or completing customs sanction procedures. 15 out of 24 Member States have this procedure for customs infringements.
+
+(Source: Report fromthe Project Group on Customs Penalties – Annex 1B of Impact Assessment for alegislative act laying down a Union legal framework on customs infringementsand sanctions)
+
+These differences ininfringements to the customs legislation and sanctions have implications atseveral levels:
+
+- from an internationalpoint of view, the different sanctioning systems existing in the Member Statesraise some concerns in certain WTO Member States regarding the compliance ofthe European Union with its international obligations in this field;
+
+- within the European Union,the different enforcement of customs legislation makes the effective managementof the customs union harder, as the same non-compliant behaviour may be treatedin very different ways in each Member State as the previous table shows;
+
+- for the economicoperators, the differences in the treatment of infringements of Union customslegislation have an impact on the level playing field which should be inherentto the Internal Market, thus providing an advantage for those who breach thelaw in a Member State with lenient legislation for customs sanctions. Thissituation also has an impact on the access to customs simplifications andfacilitations or to the process of being granted the AEO status as thecriterion referring to compliance with customs legislation and the absence ofserious infringements as a condition for obtaining the AEO status, isinterpreted in a different way by national legislations.
+
+In order to tackle thoseproblems, the proposal sets a common legal framework for the treatment ofcustoms infringements and sanctions, bridging the gap between different legalregimes through a common platform of rules and thus contributing to an equaltreatment between economic operators in the EU, as well as the effectiveprotection of the Union's financial interests and law enforcement in the fieldof customs.
+
+1.2.        Legal context
+
+Customs legislationreferring to the trade in goods between the customs territory of the Union and third countries is completely harmonised and has been assembled in a CommunityCustoms Code (CCC)[2] since 1992. A major overhaul of this Codewas carried out in Regulation (EC) No 450/2008 of the European Parliament andof the Council of April 2008 laying down the Community Customs Code (ModernisedCustoms Code or MCC)[3], now recast and repealed by Regulation (EU) No 952/2013 of theEuropean Parliament and of the Council of 9 October 2013 laying down the UnionCustoms Code (UCC)[4], aiming at the adaptation of customs legislation to the electronicenvironment of customs and trade, to promote further the harmonisation anduniform application of customs legislation, and to provide Union economicoperators with the appropriate tools for developing their activities in aglobal business environment.
+
+This harmonised customslegislation needs to be strengthened with common rules regarding itsenforcement. The need to take some steps in this direction has already beenpointed out by the European Parliament in two reports[5], onefrom 2008 and another from 2011, calling for harmonisation in this field.
+
+All this efforts aresupported on the general obligation foreseen by the Treaty[6] for Member States to "take any appropriate measure, generalor particular, to ensure fulfilment of the obligations arising out of theTreaties or resulting from the acts of the institutions of the Union". This obligation includes sanctions, without differentiating between thoseof a criminal and non- criminal nature.
+
+More specifically theModernised Customs Code and the Union Customs Code include for the first time aprovision[7] concerning administrative customs penalties.
+
+2.           RESULTS OF CONSULTATIONSWITH THE INTERESTED PARTIES AND IMPACT ASSESSMENTS
+
+2.1.        Consultation withinterested parties
+
+Four consultation tools wereused, none of them being public consultations (giventhe specific and technical nature of customs infringements and sanctions), and,following the request of the stakeholders, with a confidential treatment of theresponses.
+
+–          A questionnairewas addressed to the customs administrations of Member States concerning theirnational customs infringements and penalties systems and answers from 24 MemberStates were collected as has been previously stated in this memorandum. Thecomparison of the data gathered showed the relevant differences among thecustoms sanctioning systems of the Member States.
+
+–          A High LevelSeminar on Compliance and Compliance Risk Management with the participation ofcustoms administrations from all Member States and Candidate Countries andrepresentatives of economic operators was held in Copenhagen on 20-21 March2012, where the issue of customs offences and penalties was acknowledged as anelement of a "compliance" scheme, and an issue to be furtherexplored.
+
+–          A firststakeholder consultation with DG TAXUD's consultative body on customs issues(the Trade Contact Group (TCG)) was carried out. The TCG includes Union-levelrepresentatives of 45 European trade associations, including SMEs, involved incustoms related activities. As a response to this consultation, the majority ofthe associations present at the meeting expressed their overall agreement onthe relevance of DG TAXUD's initiative for their business activities.
+
+–          A secondstakeholder consultation was carried out through another questionnaire, and wassent to SMEs through the Enterprise Europe Network, concerning the effects thatthe different infringements and sanctions systems in force in different MemberStates in the area of customs legislation have on the commercial activity ofcompanies dealing with import/export activities.
+
+2.2.        Impact Assessment
+
+The Commission conducted animpact assessment of policy alternatives (available at:…). Four policy optionswere analysed: A – baseline scenario; B – a modification of the legislationwithin the Union legal framework in force; C – a legislative measure on theapproximation of the types of customs infringements and non-criminal sanctionsand D – two separate legislative measures aiming at approximation of customsinfringements and non-criminal sanctions on the one hand and criminal customsinfringements and sanctions on the other hand.
+
+After considering thepossible options, the impact assessment concludes that a legislative measurethat would identify customs obligations to which special protection should begiven through the establishment of non-criminal sanctions for any breaches ofthem (option C), is to be preferred.
+
+The resubmission of theimpact assessment received a positive opinion of the Impact Assessment Board on14 June 2013.
+
+3.           LEGAL ELEMENTS OF THEPROPOSAL
+
+3.1.        The legal basis
+
+The proposal is based onArticle 33 of the Treaty on the Functioning of the European Union (TFEU).
+
+Article 33 TFEU states thatcustoms cooperation between Member States and between the latter and theCommission should be strengthened within the scope of the application of theTreaties.
+
+According to the Code, adecision taken by a Member State is applied in all other Member States andtherefore requires consultation between the authorities to enhance its uniformapplication.
+
+Likewise the introduction ofcertain facilitations and simplifications in the Union customs legislation andthe AEOs access to them, is a strong reason to further strengthen thecooperation between Member States. In particular the assessment of the criteriarequired to be granted the AEO status and in particular the criterion relatedto the absence of any serious infringement or repeated infringement by the AEOrequires comparable sanctioning systems throughout the EU in order to ensure alevel playing field between economic operators.
+
+Therefore the approximationof customs infringements and sanctions shall not only require customscooperation between Member States but also shall contribute to the correct anduniform application and enforcement of the Union customs legislation.
+
+3.2.        Subsidiarity,proportionality and the respect for fundamental rights
+
+The approximation of customsinfringements and non-criminal sanctions shall be seen as integral part ofsecondary law that the Union may adopt with a view to strengthening thecooperation between the customs authorities of the Member States and betweenthe Member States and the Commission in its role of implementing thelegislation of the customs union, being an area of Union exclusive competence.Union action in that area does not therefore deserve being assessed with regardto the principle of subsidiarity laid down in Article 5(3) of the Treaty onEuropean Union.
+
+However, even ifsubsidiarity would have to be considered, although in the specific case we arein a fully harmonised policy area (customs union) with fully harmonised rules,whose effective implementation determines the very existence of the customsunion, only the Union is in a position to meet theobjectives of this directive also because of the fact of the importantdisparity in national legislations.
+
+In accordance with theprinciple of proportionality, as set out in Article 5(4) of the Treaty onEuropean Union, this proposal does not go beyond what is necessary to achievethat objective. The content of this proposal is in line with the requirementsenshrined in the European Charter of Fundamental Rights. Particularly, certainprovisions under the chapter of procedural rules have been inserted in linewith the principle of the right to good administration and fair trial, but alsoin the light of the principle ne bis in idem.
+
+3.3.        Choice of instruments
+
+This proposal for an approximation of national laws in the area ofcustoms cooperation in the Union, will take the form of a Directive whichMember States will have to transpose in their national legislation.
+
+3.4.        Specific provisions
+
+The proposal addressesinfringements linked to the obligations stemming from the Union Customs Code.To do so, it includes a common list of different infringements (strictliability, committed with negligence and committed with intent) breaching therules of the Union Customs Code and as such encompasses all possible situationsthat persons may face in that respect when dealing with customs authorities.The proposal considers as infringement not only the complete performance of thebehaviours listed in the proposal but also its intentional attempt.
+
+In parallel to thoseconducts, this proposal also establishes a common scale of effectiveproportionate and dissuasive sanctions linked to the infringements and relevantcircumstances that should be taken into account by the competent authoritiesfrom Member States when determining the type and level of sanctions for customsinfringements which contribute to the adaptation of the sanction to thespecific situation. The combination of the scale of the sanctions along withthe relevant circumstances permits to establish several levels of severity inorder to respect the principle of proportionality of the sanctions. Moreover,the proposal defines certain cases where a behaviour falling in the categoriesdefined as strict liability infringements by this proposal shall not beconsidered as such when they are due to an error on the part of the competentcustoms authorities.
+
+The proposal refers to theliability of persons playing a relevant role in the commission of customs infringementswith intent, stating anequivalent treatment to that of the persons committing the infringement to those inciting, aiding or abetting theseinfringements. It refers, as well, to the liability of legal persons, as customsinfringements can also result from conducts attributable to legal persons.
+
+Finally the proposalincludes some necessary procedural provisions in order to avoid overlap ofsanctions for the same facts and persons. In particular it concerns the timelimit within the competent authorities must initiate the procedure against theperson responsible of the infringement, the possibility of suspending thesanctioning proceeding in those cases where criminal proceedings are being carriedout with regard to the same facts and the territorial competence by definingwhich Member State is considered competent to deal with the case when theinfringement involves more than one Member State.
+
+The implementation of thosearticles in the national legislation of Member States will ensure a homogeneoustreatment of economic operators regardless the Member State where they fulfiltheir customs formalities and commercial operations. It will also ensure thecompliance with the international obligations stemming from the KyotoConvention.
+
+4.           BUDGETARY IMPLICATION
+
+The proposal will not havean impact on human resources and on the European Union budget and is thereforenot accompanied by the financial statement foreseen under Article 31 of theFinancial Regulation (Regulation (EC, Euratom) No 966/2012 of the EuropeanParliament and of the Council of 25 October 2012 on the financial rulesapplicable to the general budget of the Union and repealing Council Regulation(EC, Euratom) No 1605/2002).
+
+This proposal has nobudgetary implications for the Union.
+
+5.           EXPLANATORY DOCUMENTS
+
+It is important for theCommission to ensure the correct transposition of the Directive to nationallegislation. In order to achieve this and given the different structure of the nationallegal orders, Member States should communicate the exact reference to thenational provisions and how it transposes each specific provision of theDirective. This does not go beyond what is necessary for the Commission toensure that the Directive's main aim, an effective implementation and enforcementof Union customs legislation in the customs union, is achieved.
+
+2013/0432 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENTAND OF THE COUNCIL
+
+on the Union legal framework for customsinfringements and sanctions
+
+THE EUROPEAN PARLIAMENT AND THECOUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on theFunctioning of the European Union, and in particular Article 33 thereof,
+
+Having regard to the proposal from theEuropean Commission,
+
+After transmission of the draft legislativeact to the national Parliaments,
+
+Acting in accordance with the ordinarylegislative procedure,
+
+Whereas:
+
+(1)       Provisions in the field ofthe customs union are harmonised by Union law. However, their enforcement lies withinthe scope of Member States' national law.
+
+(2)       Consequently, customsinfringements and sanctions follow 28 different sets of legal rules. As aresult of that, a breach of Union customs legislation is not treated the same waythroughout the Union and the sanctions that may be imposed in each case differin nature and severity depending on the Member State that is imposing thesanction.
+
+(3)       That disparity of MemberStates' legal systems affects not only the optimal management of the customsunion, but also prevents that a level playing field is achieved for economicoperators in the customs union because it has an impact on their access tocustoms simplifications and facilitations.
+
+(4)       Regulation(EC) No 952/2013 of the European Parliament and of the Council[8] (hereinafter referred to as “the Code”) has been conceived for amultinational electronic environment where there is real time communicationbetween customs authorities and where a decision taken by a Member State is applied in all the other Member States. That legal framework therefore requiresa harmonised enforcement. The Code also includes a provision requiring MemberStates to provide for effective, dissuasive and proportionate sanctions.
+
+(5)       Thelegal framework for the enforcement of Union customs legislation provided forin this Directive is consistent with the legislation in force regarding thesafeguarding of the financial interests of the Union[9].The customs infringements covered by the framework established by thisDirective include customs infringements that have an impact on those financialinterests while not falling under the scope of the legislation safeguarding themby means of criminal law and customs infringements that do not have an impacton the financial interests of the Union at all.
+
+(6)       A listof behaviour which should be considered as infringing Union customs legislationand give rise to sanctions should be established. Those customs infringements shouldbe fully based on the obligations stemming from the customs legislation withdirect references to the Code. This Directive does notdetermine whether Member States should apply administrative or criminal lawsanctions in respect of those customs infringements.
+
+(7)       Thefirst category of behaviour should include customs infringements based onstrict liability, which does not require any element of fault, considering theobjective nature of the obligations involved and the fact that the personsresponsible to fulfil them cannot ignore their existence and binding character.
+
+(8)       Thesecond and third category of behaviour should include customs infringementscommitted by negligence or intentionally, respectively, where that subjectiveelement has to be established for liability to arise.
+
+(9)       Incitingor aiding and abetting a behaviour being a customs infringement committedintentionally and attempt to commit certain customs infringements intentionallyshould be considered customs infringements.
+
+(10)     In orderto ensure legal certainty, it should be provided that any act or omissionresulting from an error on the part of the customs authorities should not beconsidered a customs infringement.
+
+(11)     MemberStates should ensure that liability can arise for legal persons as well asnatural persons for the same customs infringement where the customsinfringement has been committed for the benefit of a legal person.
+
+(12)     In order to approximate thenational sanctioning systems of the Member States, scales of sanctions shouldbe established reflecting the different categories of the customs infringementsand their seriousness. For the purpose of imposing effective, proportionate anddissuasive sanctions, Member States should also ensure that their competentauthorities take into account specific aggravating or mitigating circumstances whendetermining the type and level of sanctions to be applied.
+
+(13)     The limitation period forproceedings concerning a customs infringement should be fixed at four yearsfrom the day on which the customs infringement was committed or, in case ofcontinuous or repeated infringements, where the behaviour constituting thatinfringement ceases. Member States should ensure that the limitation period isinterrupted by an act relating to investigations or legal proceedingsconcerning the customs infringement. Member States may lay down cases wherethat period is suspended. The initiation or continuation of these proceedingsshould be precluded after an expiry period of eight years, while the limitationperiod for the enforcement of a sanction should be of three years.
+
+(14)     A suspension of administrativeproceedings concerning customs infringements should be provided for wherecriminal proceedings have been initiated against the same person in connectionwith the same facts. The continuation of the administrative proceedings afterthe completion of the criminal proceedings should be possible only in strictconformity with the ne bis in idem principle.
+
+(15)     In order to avoid positiveconflicts of jurisdiction, rules should be laid down to determine which of theMember States with jurisdiction should examine the case.
+
+(16)     This Directive shouldprovide for the cooperation between Member States and the Commission to ensureeffective action against customs infringements.
+
+(17)     In order to facilitate theinvestigation of customs infringements, the competent authorities should beallowed to temporarily seize any goods, means of transport or any otherinstrument used in committing the infringement.
+
+(18)     In accordance with theJoint Political Declaration of Member States and the Commission of 28 September2011 on explanatory documents[10],Member States have undertaken to accompany, in justified cases, thenotification of their transposition measures with one or more documentsexplaining the relationship between the components of a directive and thecorresponding parts of national transposition instruments. With regard to thisDirective, the legislator considers the transmission of such documents to bejustified.
+
+(19)     Since this Directive aimsto provide for a list of customs infringements common to all Member States and forthe basis for effective, dissuasive and proportionate sanctions to be imposedby Member States in the area of the customs union, which is fully harmonised,those objectives cannot be sufficiently achieved by the Member States based ontheir different legal traditions, but can rather, by reason of the scale andeffect, be better achieved at Union level, the Union may adopt measures inaccordance with the principle of subsidiarity, as set out in Article 5 of theTreaty on the European Union. In accordance with the principle ofproportionality, as set out in that Article, this Directive does not go beyondwhat is necessary to achieve those objectives.
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Subject matter and scope
+
+1.           ThisDirective establishes a framework concerning the infringements of Union customslegislation and provides for sanctions for those infringements.
+
+2.           This Directive applies tothe violation of the obligations laid down in Regulation (EU) No 952/2013 ofthe European Parliament and of the Council of 9 October 2013, laying down theUnion Customs Code (hereinafter referred to as ‘the Code’) and of identicalobligations laid down in other parts of the Union customs legislation asdefined in Article 5(2) of the Code.
+
+Article 2
+
+Customs infringements and sanctions
+
+Member States shall lay downrules on sanctions in respect of the customs infringements set out in Articles 3to 6.
+
+Article 3
+
+Strict liability customs infringements
+
+Member States shall ensurethat the following acts or omissions constitute customs infringementsirrespective of any element of fault:
+
+(a)         failure of the person lodging a customsdeclaration, temporary storage declaration, entry summary declaration, exitsummary declaration, re-export declaration or re-export notification to ensurethe accuracy and completeness of the information given in the declaration,notification or application in accordance with Article 15(2)(a) of the Code;
+
+(b)         failure of the person lodging a customsdeclaration, temporary storage declaration, entry summary declaration, exitsummary declaration, re-export declaration or re-export notification to ensurethe authenticity, accuracy and validity of any supporting document inaccordance with Article 15(2)(b) of the Code;
+
+(c)         failure of the person to lodge an entry summarydeclaration in accordance with Article 127 of the Code, a notification ofarrival of a sea going vessel or of an aircraft in accordance with Article 133 of the Code, a temporary storagedeclaration in accordance withArticle 145 of the Code, a customs declaration in accordance with Article 158of the Code, a notification of activities in free zonesin accordance with Article 244(2) of the Code, a pre-departuredeclaration in accordance with Article 263 of the Code, a re-export declaration in accordance with Article 270 of the Code,an exit summary declaration inaccordance with Article 271 of the Code or a re-export notification in accordance with Article 274 of the Code;
+
+(d)        failure of an economic operator to keep thedocuments and information related to the accomplishment of customs formalitiesby any accessible means for the period of time required by customs legislation inaccordance with Article 51 of the Code;
+
+(e)         removal of goods brought into the customsterritory of the Union from customs supervision without the permission of thecustoms authorities, contrary to the first and second sub-paragraphs of Article134(1) of the Code;
+
+(f)          removal of goods from customs supervision, contraryto the fourth sub-paragraph of Article 134(1) and Articles 158(3) and 242 of the Code;
+
+(g)         failure of a person bringing goods into thecustoms territory of the Union to comply with the obligations relating to theconveyance of the goods in the appropriate place in accordance with Article 135(1)of the Code, or to inform customsauthorities when the obligations cannot be complied with in accordance withArticle 137(1) and (2) of theCode;
+
+(h)         failure of a person bringing goods into a freezone, where the free zone adjoins the land frontier between a Member State anda third country, to bring those goods directly into that free zone withoutpassing through another part of the customs territory of the Union inaccordance with Article 135(2) of the Code;
+
+(i)           failure of the declarant for temporary storageor for a customs procedure to provide documents to the customs authoritieswhere Union legislation so requires or where necessary for customs controls inaccordance with Article 145(2) and Article 163(2) of the Code;
+
+(j)           failure of the economic operator responsible fornon-Union goods which are in temporary storage to place those goods under acustoms procedure or to re-export them within the time limit in accordance withArticle 149 of the Code;
+
+(k)         failure of the declarant for a customs procedureto have in their possession and at the disposal of the customs authorities, atthe time when the customs declaration or a supplementary declaration is lodged,the supporting documents required for the application of the procedure inquestion in accordance with Article 163(1) and the second subparagraph ofArticle 167(1) of the Code;
+
+(l)           failure of the declarant for a customs procedure,in the case of a simplified declaration pursuant to Article 166 of the Code orof an entry into the declarant’s records pursuant to Article 182 of the Code, tolodge a supplementary declaration at the competent customs office and withinthe specific time-limit in accordance with Article 167(1) of the Code;
+
+(m)       removal or destruction of means ofidentification affixed by customs authorities in goods, packaging or means oftransport without prior authorisation granted by the customs authorities inaccordance with Article 192(2) of the Code;
+
+(n)         failure of the holder of the inward processingprocedure to discharge a customs procedure within the time limit specified inaccordance with Article 257 of the Code;
+
+(o)         failure of the holder of the outward processingprocedure to export the defective goods within the time limit in accordancewith Article 262 of the Code;
+
+(p)         construction of a building in a free zone withoutthe approval of the customs authorities in accordance with Article 244(1) ofthe Code;
+
+(q)         non-payment of import or export duties by theperson liable to pay within the period prescribed in accordance with Article108 of the Code.
+
+Article 4
+
+Customsinfringements committed by negligence
+
+Member States shall ensurethat the following acts or omissions constitute customs infringements wherecommitted by negligence:
+
+(a)         failure of the economic operator responsible fornon-Union goods which are in temporary storage to place those goods under acustoms procedure or to re-export them within the time limit in accordance withArticle 149 of the Code;
+
+(b)         failure of the economic operator to provide customsauthorities with all the assistance necessary for the completion of the customsformalities or controls in accordance with Article 15(1) of the Code;
+
+(c)         failure of the holder of a decision relating tothe application of customs legislation to comply with the obligations resultingfrom that decision in accordance with Article 23(1) of the Code;
+
+(d)        failure of the holder of a decision relating tothe application of customs legislation to inform the customs authoritieswithout delay of any factor arising after the decision was taken by thoseauthorities which influences its continuation or content in accordance with Article23(2) of the Code;
+
+(e)         failure of the economic operator to present thegoods brought into the customs territory of the Union to the customsauthorities in accordance with Article 139 of the Code;
+
+(f)          failure of the holder of the Union transitprocedure to present the goods intact at the customs office of destinationwithin the prescribed time limit in accordance with Article 233(1)(a) of theCode;
+
+(g)         failure of the economic operator to present thegoods brought into a free zone to customs in accordance with Article 245 of theCode;
+
+(h)         failure of the economic operator to present thegoods to be taken out of the customs territory of the Union to customs on exitin accordance with Article 267(2) of the Code;
+
+(i)           unloading or trans-shipping of goods from themeans of transport carrying them without authorisation granted by the customsauthorities or in places not designated or approved by those authorities inaccordance with Article 140 of the Code;
+
+(j)           storage of goods in temporary storage facilitiesor customs warehouses without authorisation granted by the customs authoritiesin accordance with Articles 147 and 148;
+
+(k)         failure of the holder of the authorisation or theholder of the procedure to fulfil the obligations arising from the storage ofgoods covered by the customs warehousing procedure in accordance with points(a) and (b) of Article 242(1) of the Code.
+
+Article 5
+
+Customs infringements committed intentionally
+
+Member States shall ensurethat the following acts or omissions constitute customs infringements wherecommitted intentionally:
+
+(a)         providing customs authorities with falseinformation or documents required by those authorities in accordance withArticles 15 or 163 of the Code;
+
+(b)         the use of false statements or any otherirregular means by an economic operator in order to obtain an authorisationfrom the customs authorities:
+
+(i)      to become an authorised economic operatorin accordance with Article 38 of the Code,
+
+(ii)     to make use of a simplifieddeclaration in accordance with Article 166 of the Code,
+
+(iii)    to make use of other customssimplifications in accordance with Articles 177, 179, 182, 185 of the Code,
+
+(iv)    to place the goods under specialprocedures in accordance with Article 211 of the Code;
+
+(c)         introduction or exit of goods into or from thecustoms territory of the Union without presenting them to customs authoritiesin accordance with Articles 139, 245, or Article 267(2) of the Code;
+
+(d)        failure of the holder of a decision relating tothe application of customs legislation to comply with the obligations resultingfrom that decision in accordance with Article 23(1) of the Code;
+
+(e)         failure of the holder of a decision relating tothe application of customs legislation to inform the customs authoritieswithout delay of any factor arising after the decision was taken by thoseauthorities which influences its continuation or content in accordance withArticle 23(2) of the Code;
+
+(f)          processing of goods in a customs warehousewithout an authorisation granted by the customs authorities in accordance with Article241 of the Code;
+
+(g)         acquiring or holding goods involved in one ofthe customs infringements set out in point (f) of Article 4 and point (c) ofthis Article.
+
+Article 6
+
+Incitement, Aiding, Abetting and Attempt
+
+1.           Member States shall takethe necessary measures to ensure that inciting or aiding and abetting an act oromission referred to in Article 5 is a customs infringement.
+
+2.           Member States shall takethe necessary measures to ensure that an attempt to commit an act or omission referredto in points (b) or (c) of Article 5 is a customs infringement.
+
+Article 7
+
+Error on the part of the customs authorities
+
+The acts or omissionsreferred to in Articles 3 to 6 do not constitute customs infringements where theyoccur as a result of an error on the part of the customs authorities.
+
+Article 8
+
+Liability of legal persons
+
+1.           Member States shall ensurethat legal persons are held liable for customs infringements committed fortheir benefit by any person, acting either individually or as part of an organof the legal person, and having a leading position within the legal person,based on any of the following:
+
+(a)         a power of representation of the legal person;
+
+(b)         an authority to take decisions on behalf of thelegal person;
+
+(c)         an authority to exercise control within thelegal person.
+
+2.           Member States shall also ensurethat legal persons are held liable where the lack of supervision or control bya person referred to in paragraph 1 has made possible the commission of acustoms infringement for the benefit of that legal person by a person under theauthority of the person referred to in paragraph 1.
+
+3.           Liability of a legalperson under paragraphs 1 and 2 shall be without prejudice to the liability ofnatural persons who have committed the customs infringement.
+
+Article 9
+
+Sanctions for customs infringements referred to in Article 3
+
+Member States shall ensurethat effective, proportionate and dissuasive sanctions are imposed for thecustoms infringements referred to in Article 3 within the following limits:
+
+(a)         where the customs infringement relates to specificgoods, a pecuniary fine from 1 % up to 5 % of the value of the goods;
+
+(b)         where the customs infringement is not related tospecific goods, a pecuniary fine from EUR 150 up to EUR 7 500.
+
+Article 10
+
+Sanctionsfor customs infringements referred to in Article 4
+
+Member States shall ensurethat effective, proportionate and dissuasive sanctions are imposed for thecustoms infringements referred to in Article 4 within the following limits:
+
+(a)         where the customs infringement relates to specificgoods, a pecuniary fine up to 15 % of the value of the goods;
+
+(b)         where the customs infringement is not related tospecific goods, a pecuniary fine up to EUR 22 500.
+
+Article 11
+
+Sanctionsfor customs infringements referred to in Article 5 and 6
+
+Member States shall ensurethat effective, proportionate and dissuasive sanctions are imposed for thecustoms infringements referred to in Articles 5 and 6 within the following limits:
+
+(a)         where the customs infringement relates to specificgoods, a pecuniary fine up to 30 % of the value of the goods;
+
+(b)         where the customs infringement is not related tospecific goods, a pecuniary fine up to EUR 45 000.
+
+Article 12
+
+Effective application of sanctions and exercise of powers to impose sanctionsby competent authorities
+
+Member States shall ensure thatwhen determining the type and the level of sanctions for the customsinfringements referred to in Articles 3 to 6, the competent authorities shalltake into account all relevant circumstances, including, where appropriate:
+
+(a)         the seriousness and the duration of the infringement;
+
+(b)         the fact that the person responsible for the infringementis an authorized economic operator;
+
+(c)         the amount of the evaded import or export duty;
+
+(d)        the fact that the goods involved are subject to theprohibitions or restrictions referred to in the second sentence of Article134(1) of the Code and in Article 267(3)(e) of the Code or pose a risk to publicsecurity;
+
+(e)         the level of cooperation of the personresponsible for the infringement with the competent authority;
+
+(f)          previous infringements by the person responsiblefor the infringement.
+
+Article 13
+
+Limitation
+
+1.           Member States shall ensurethat the limitation period for proceedings concerning a customs infringement referredto in Articles 3 to 6 is four years and starts to run on the day on which thecustoms infringement was committed.
+
+2.           Member States shall ensurethat, in the case of continuous or repeated customs infringements, the limitationperiod starts to run on the day on which the act or omission constituting thecustoms infringement ceases.
+
+3.           Member States shall ensurethat the limitation period is interrupted by any act of the competentauthority, notified to the person in question, relating to an investigation orlegal proceedings concerning the same customs infringement. The limitation periodshall start to run on the day of the interrupting act.
+
+4.           Member States shall ensurethat the initiation or continuation of any proceedings concerning a customsinfringement referred to in Articles 3 to 6 is precluded after the expiry of a periodof eight years from the day referred to in paragraph 1 or 2.
+
+5.           Member States shall ensurethat the limitation period for the enforcement of a decision imposing asanction is three years. That period shall start to run on the day on which thatdecision becomes final.
+
+6.           Member States shall laydown the cases where the limitation periods set out in paragraphs 1, 4 and 5are suspended.
+
+Article 14
+
+Suspension of the proceedings
+
+1.           Member States shall ensurethat administrative proceedings concerning a customs infringement referred toin Articles 3 to 6 are suspended where criminal proceedings have been initiatedagainst the same person in connection with the same facts.
+
+2.           Member States shall ensurethat the suspended administrative proceedings concerning a customs infringementreferred to in Articles 3 to 6 are discontinued where the criminal proceedings referredto in paragraph 1 have finally been disposed of. In other cases, the suspended administrativeproceedings concerning a customs infringement referred to in Articles 3 to 6 maybe resumed.
+
+Article 15
+
+Jurisdiction
+
+1.           Member States shall ensurethat they exercise jurisdiction over the customs infringements referred to inArticles 3 to 6 in accordance with any of the following criteria:
+
+(a)         the customs infringement is committed in wholeor in part within the territory of that Member State;
+
+(b)         the person committing the customs infringementis a national of that Member State;
+
+(c)         the goods related to the customs infringement arepresent in the territory of that Member State.
+
+2.           Member States shall ensurethat in case more than one Member State claims jurisdiction over the same customsinfringement, the Member State in which criminal proceedings are pending against the same person inconnection with the same facts exercises jurisdiction. Where jurisdictioncannot be determined pursuant to the first subparagraph, Member States shallensure that the Member State whose competent authority first initiates theproceedings concerning the customs infringement against the same person inconnection with the same facts exercises jurisdiction.
+
+Article 16
+
+Cooperation between Member States
+
+Member States shallco-operate and exchange any information necessary for the proceedings concerningan act or omission constituting a customs infringement referred to in Articles3 to 6, in particular in case more than one Member State has startedproceedings against the same person in connection with the same facts.
+
+Article 17
+
+Seizure
+
+Member States shall ensurethat the competent authorities have the possibility to temporarily seize anygoods, means of transport and any other instrument used in committing the customsinfringements referred to in Articles 3 to 6.
+
+Article 18
+
+Reporting by the Commission and review
+
+The Commission shall, by [1May 2019], submit a report on the application of this Directive to the EuropeanParliament and the Council, assessing the extent to which the Member Stateshave taken the necessary measures to comply with this Directive.
+
+Article 19
+
+Transposition
+
+1.           Member States shall bringinto force the laws, regulations and administrative provisions necessary tocomply with this Directive by [1 May 2017] at the latest. They shall forthwithcommunicate to the Commission the text of those provisions.
+
+When Member States adopt those provisions, theyshall contain a reference to this Directive or be accompanied by such areference on the occasion of their official publication. Member States shalldetermine how such reference is to be made.
+
+2.           Member States shallcommunicate to the Commission the text of the main provisions of national lawwhich they adopt in the field covered by this Directive.
+
+Article 20
+
+Entry into force
+
+This Directive shall enterinto force on the twentieth day following that of its publication in the OfficialJournal of the European Union.
+
+Article 21
+
+Addressees
+
+ThisDirective is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament                        Forthe Council
+
+The President                                                 ThePresident
+
+[1]               Austria, Belgium, Bulgaria, Cyprus, Estonia, Finland,France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania,Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia,Spain and United Kingdom.
+
+[2]               The Community Customs Code, established by CouncilRegulation (EEC) 2913/92 of 12 October 1992 and applied from 1 January 1994, inOJ L 302, 19.10.1992, p. 1: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:1992R2913:20070101:EN:PDF
+
+[3]               Regulation (EC) No 450/2008 of the EuropeanParliament and of the Council of 23 April 2008 laying down the CommunityCustoms Code (Modernised Customs Code), in OJ L145, 4.6.2008, p.1: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:145:0001:0064:EN:PDF
+
+[4]               Regulation No 952/2013 of the European Parliament andof the Council of 9 October 2013 laying down the Union Customs Code (recast) inOL L 269, 10.10.2013, p. 1 (corrigendum in OJ L 287, 29.10.2013, p. 90): http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:269:0001:0101:EN:PDF
+
+[5]               Report from the Committee on International Trade onimplementing trade policy through efficient import and export rules andprocedures (2007/2256(INI)). Rapporteur: Jean-Pierre Audy and Report from theCommittee in the Internal Market and Consumer Protection on modernisation ofcustoms (2011/2083(INI)). Rapporteur: Matteo Salvini
+
+[6]               Article 4.3 of TEU
+
+[7]               Article 21 MCC, becoming Article 42 UCC.
+
+[8]               Regulation (EU) No 952/2013 of the EuropeanParliament and of the Council of 9 October 2013 laying down the Union CustomsCode (OJ L 269, 10.10.2013, p. 1).
+
+[9]               Proposal for a Directive of the European Parliamentand of the Council on the fight against fraud to the Union's financialinterests by means of criminal law (COM(2012)363).
+
+[10]             OJ C 369, 17.12.2011, p. 14.

@@ -1,0 +1,1265 @@
+@import url(./../../../../css/com/com-c.css)
+
+EUROPEAN COMMISSION
+
+Brussels, 19.8.2021
+
+COM(2021) 483 final
+
+2021/0275(COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on uniform procedures for checks on the transport of dangerous goods by road (codification)
+
+(Text with EEA relevance)
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+In the context of a people’s Europe, the Commission attaches great importance to simplifying and clarifying the law of the Union so as to make it clearer and more accessible to citizens, thus giving them new opportunities and the chance to make use of the specific rights it gives them.
+
+This aim cannot be achieved so long as numerous provisions that have been amended several times, often quite substantially, remain scattered, so that they must be sought partly in the original instrument and partly in later amending ones. Considerable research work, comparing many different instruments, is thus needed to identify the current rules.
+
+For this reason a codification of rules that have frequently been amended is also essential if the law is to be clear and transparent.
+
+2.
+
+On 1 April 1987 the Commission decided
+
+to instruct its staff that all legislative acts should be codified after no more than ten amendments, stressing that this is a minimum requirement and that departments should endeavour to codify at even shorter intervals the texts for which they are responsible, to ensure that their provisions are clear and readily understandable.
+
+3.
+
+The Conclusions of the Presidency of the Edinburgh European Council (December 1992) confirmed this
+
+, stressing the importance of codification as it offers certainty as to the law applicable to a given matter at a given time.
+
+Codification must be undertaken in full compliance with the normal procedure for the adoption of acts of the Union.
+
+Given that no changes of substance may be made to the instruments affected by codification, the European Parliament, the Council and the Commission have agreed, by an interinstitutional agreement dated 20 December 1994, that an accelerated procedure may be used for the fast-track adoption of codification instruments.
+
+4.
+
+The purpose of this proposal is to undertake a codification of Council Directive 95/50/EC of 6 October 1995 on uniform procedures for checks on the transport of dangerous goods by road
+
+.
+
+The new Directive will supersede the various acts incorporated in it
+
+; this proposal fully preserves the content of the acts being codified and hence does no more than bring them together with only such formal amendments as are required by the codification exercise itself.
+
+5.
+
+The codification proposal was drawn up on the basis of a preliminary consolidation, in 24 official languages, of Directive 95/50/EC and the instruments amending it, carried out by the Publications Office of the European Union, by means of a data-processing system. Where the Articles have been given new numbers, the correlation between the old and the new numbers is shown in a table set out in Annex V to the codified Directive.
+
+🡻
+
+95/50/EC (adapted)
+
+2021/0275 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on uniform procedures for checks on the transport of dangerous goods by road (codification)
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty
+
+⌦
+
+on the Functioning of the European Union
+
+⌫
+
+, and in particular Article
+
+⌦
+
+91
+
+⌫
+
+thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+,
+
+Having regard to the opinion of the Committee of the Regions
+
+,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+🡻
+
+(1)
+
+Council Directive 95/50/EC
+
+has been substantially amended several times
+
+. In the interests of clarity and rationality, that Directive should be codified.
+
+🡻
+
+95/50/EC recital 2 (adapted)
+
+(2)
+
+Checks on the transport of dangerous goods by road
+
+⌦
+
+should be
+
+⌫
+
+carried out in accordance with Regulation (EC) No 1100/2008 of the
+
+European Parliament and of the Council
+
+and Council Regulation (EEC) No 3912/92
+
+.
+
+🡻
+
+95/50/EC recital 3 (adapted)
+
+(3)
+
+The procedures for checking and the definitions relating to
+
+⌦
+
+that
+
+⌫
+
+type of transport should
+
+⌦
+
+ensure that
+
+⌫
+
+compliance with the safety standards laid down in
+
+⌦
+
+Directive 2008/68/EC of the European Parliament and of the Council
+
+⌫
+
+⌦
+
+may
+
+⌫
+
+be verified effectively.
+
+🡻
+
+95/50/EC recital 4
+
+(4)
+
+Member States should ensure a sufficient level of checks on the vehicles concerned throughout their territory while, where possible, avoiding the proliferation of such checks.
+
+🡻
+
+95/50/EC recital 6 (adapted)
+
+(5)
+
+Checks should be carried out using a list of common items applicable to
+
+⌦
+
+the
+
+⌫
+
+transport
+
+⌦
+
+of dangerous goods
+
+⌫
+
+throughout the
+
+⌦
+
+Union
+
+⌫
+
+.
+
+🡻
+
+95/50/EC recital 7 (adapted)
+
+(6)
+
+It is necessary to
+
+⌦
+
+lay down
+
+⌫
+
+a list of infringements deemed sufficiently serious by all Member States to result in the application to the vehicles concerned of appropriate measures depending on the circumstances or the requirements of safety, including, where appropriate, refusal to admit the vehicles concerned to the
+
+⌦
+
+Union
+
+⌫
+
+.
+
+🡻
+
+95/50/EC recital 8 (adapted)
+
+(7)
+
+In order to
+
+⌦
+
+ensure
+
+⌫
+
+compliance with safety standards for the transport of dangerous goods by road, it is necessary to make provision for checks to be carried out in undertakings as a preventive measure or when serious infringements of laws on the transport of dangerous goods have been recorded at the roadside.
+
+🡻
+
+95/50/EC recital 9
+
+(8)
+
+The checks in question should apply to all consignments of dangerous goods transported by road wholly or partly within the territory of the Member States, irrespective of the point of departure or the destination of the goods or the country in which the vehicle is registered.
+
+🡻
+
+95/50/EC recital 10
+
+(9)
+
+In the event of serious or repeated infringements, the competent authorities of the Member State in which the vehicle is registered or in which the undertaking is established may be asked to take appropriate measures and they should inform the requesting Member State of any follow-up measures taken.
+
+🡻
+
+95/50/EC recital 11
+
+(10)
+
+The application of this Directive should be monitored on the basis of a report to be submitted by the Commission.
+
+🡻
+
+2019/1243 Art. 1 and Annex, pt. IX(1), introductory wording (adapted)
+
+(11)
+
+In order to adapt
+
+⌦
+
+this
+
+⌫
+
+Directive to scientific and technical progress, the power to adopt acts in accordance with Article 290
+
+⌦
+
+of the Treaty
+
+on the Functioning of the European Union
+
+⌫
+
+should be delegated to the Commission
+
+⌦
+
+in respect of
+
+amending
+
+⌫
+
+Annexes
+
+I, II and III
+
+, in particular to take account of amendments to Directive 2008/68/EC. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making
+
+. In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States’ experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
+
+🡻
+
+95/50/EC recital 5 (adapted)
+
+(12)
+
+⌦
+
+Since the objective of this Directive, namely providing for a high level of safety as regards the transport of dangerous goods, cannot be sufficiently achieved by the Member States but can rather, by reason of the scale or effects of such an action, be better achieved at Union level, the Union may adopt measures, in accordance with
+
+⌫
+
+the principle of subsidiarity
+
+⌦
+
+as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective
+
+⌫
+
+.
+
+🡻
+
+(13)
+
+This Directive should be without prejudice to the obligations of the Member States relating to the time-limits for the transposition into national law of the Directives set out in Annex IV, Part B,
+
+🡻
+
+95/50/EC (adapted)
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+1. This Directive shall apply to checks carried out by Member States on the transport of dangerous goods by road in vehicles travelling in their territory or entering it from a third country.
+
+It shall not apply to the transport of dangerous goods by vehicles belonging to or under the responsibility of the armed forces.
+
+2. This Directive shall not affect the Member States' right, with due regard to
+
+⌦
+
+Union
+
+⌫
+
+law, to carry out checks on the national and international transport of dangerous goods within their territories performed by vehicles not covered by this Directive.
+
+Article 2
+
+For the purposes of this Directive
+
+⌦
+
+, the following definitions apply
+
+⌫
+
+:
+
+(a)
+
+‘vehicle’
+
+⌦
+
+means
+
+⌫
+
+any motor vehicle intended for use on the road, whether complete or incomplete, which has at least four wheels and a maximum design speed exceeding 25 km/h, together with its trailers, with the exception of vehicles which run on rails, of agricultural and forestry tractors and of all mobile machinery;
+
+(b)
+
+‘dangerous goods’
+
+⌦
+
+means
+
+⌫
+
+dangerous goods as defined in
+
+⌦
+
+Article 1(b) of the Agreement Concerning the International Carriage of Dangerous Goods by Road (ADR), concluded at Geneva on 30 September 1957, and in Annexes A and B to that Agreement, as referred to in Section I.1
+
+of
+
+Annex I to
+
+Directive
+
+2008/68
+
+/EC
+
+⌫
+
+;
+
+(c)
+
+‘transport’
+
+⌦
+
+means
+
+⌫
+
+any road transport operation performed by a vehicle wholly or partly on public roads within the territory of a Member State, including the loading and unloading of goods covered by Directive
+
+⌦
+
+2008/68/EC
+
+⌫
+
+, without prejudice to the arrangements laid down by the laws of the Member States concerning liability in respect of such operations;
+
+(d)
+
+‘undertaking’
+
+⌦
+
+means
+
+⌫
+
+any natural or legal person, whether or not profit-seeking, any association or group of persons without legal personality, whether or not profit-seeking, and any body coming under a public authority, whether itself possessing legal personality or dependent on an authority having such personality, which carry, load or unload dangerous goods or cause them to be carried and those which temporarily store, collect, package or take delivery of such goods as part of a transport operation and are located in the territory of the
+
+⌦
+
+Union
+
+⌫
+
+;
+
+(e)
+
+‘check’
+
+⌦
+
+means
+
+⌫
+
+any check, control, inspection, verification or formality carried out by the competent authorities for reasons of safety inherent in the transport of dangerous goods.
+
+Article 3
+
+Member States shall ensure that a representative proportion of consignments of dangerous goods transported by road is subject to the checks laid down by this Directive, in order to check their compliance with the laws on the transport of dangerous goods by road.
+
+Such checks shall be carried out in the territory of a Member State in accordance with Article 3 of Regulation (EC) No 1100/2008 and Article 1 of Regulation (EEC) No 3912/92.
+
+Article 4
+
+1. In order to carry out the checks provided for in this Directive, the Member States shall use the checklist
+
+⌦
+
+set out
+
+⌫
+
+in Annex I. A copy of
+
+⌦
+
+that
+
+⌫
+
+checklist or a certificate showing the result of the check drawn up by the authority which carried it out shall be given to the driver of the vehicle and presented on request in order to simplify or avoid, where possible, subsequent checks.
+
+The first subparagraph shall not prejudice Member States' right to carry out specific measures for detailed checks.
+
+2. The checks shall be random and shall as far as possible cover an extensive portion of the road network.
+
+3. The places chosen for the checks must permit infringing vehicles to be brought into compliance or, if the authority carrying out the check deems it appropriate, to be immobilised on-the-spot or at a place designated for that purpose by the said authority without causing a safety hazard.
+
+4. Where appropriate, and provided that this does not constitute a safety hazard, samples of the goods transported may be taken for examination by laboratories recognised by the competent authority.
+
+5. Checks shall not exceed a reasonable length of time.
+
+Article 5
+
+Without prejudice to other penalties which may be imposed, vehicles in respect of which one or more infringements of the rules on the transport of dangerous goods, in particular infringements listed in Annex II, are established may be immobilised either on-the-spot or at a place designated for
+
+⌦
+
+that
+
+⌫
+
+purpose by the authorities carrying out the check and required to be brought into conformity before continuing their journey or may be subject to other appropriate measures, depending on the circumstances or the requirements of safety including, where appropriate, refusal to allow such vehicles to enter the
+
+⌦
+
+Union
+
+⌫
+
+.
+
+Article 6
+
+1. Checks may also be carried out at the premises of undertakings, as a preventive measure or where infringements which jeopardise safety in the transport of dangerous goods have been recorded at the roadside.
+
+The purpose of such checks shall be to ensure that safety conditions for the transport of dangerous goods by road comply with the relevant laws.
+
+2. Where one or more infringements, in particular those listed in Annex II, have been established in respect of the transport of dangerous goods by road, the transport in question shall be brought into conformity before the goods leave the undertaking or shall be subject to other appropriate measures.
+
+Article 7
+
+1. Member States shall assist one another in order to give proper effect to this Directive.
+
+2. Serious or repeated infringements jeopardising the safety of the transport of dangerous goods committed by a non-resident vehicle or undertaking must be reported to the competent authorities
+
+⌦
+
+of
+
+⌫
+
+the Member State in which the vehicle is registered or in which the undertaking is established.
+
+The competent authorities of the Member State in which serious or repeated infringements have been recorded may ask the competent authorities of the Member State in which the vehicle is registered or in which the undertaking is established for appropriate measures to be taken with regard to the offender or offenders.
+
+The latter competent authorities shall notify the competent authorities of the Member State in which the infringements were recorded of any measures taken with regard to the transporter or the undertaking.
+
+Article 8
+
+If the findings of a roadside check on a vehicle registered in another Member State give grounds for believing that serious or repeated infringements have been committed which cannot be detected in the course of that check in the absence of the necessary data, the competent authorities of the Member States concerned shall assist one another in order to clarify the situation.
+
+Where, to that end, the competent Member State carries out a check in the undertaking, the other Member States concerned shall be notified of the results.
+
+Article 9
+
+1. Each Member State shall send the Commission for each calendar year not later than twelve months after the end of that year a report, drawn up in accordance with the model
+
+⌦
+
+standard form set out
+
+⌫
+
+in Annex III, on the application of
+
+⌦
+
+Directive 95/50/EC and
+
+⌫
+
+this Directive, including the following particulars:
+
+(a)
+
+if possible,
+
+⌦
+
+the
+
+⌫
+
+determined or estimated volume of dangerous goods transported by road in tonnes transported or in tonnes/kilometres;
+
+(b)
+
+⌦
+
+the
+
+⌫
+
+number of checks carried out;
+
+(c)
+
+⌦
+
+the
+
+⌫
+
+number of vehicles checked by place of registration (vehicles registered nationally, in other Member States or in third countries);
+
+(d)
+
+⌦
+
+the
+
+⌫
+
+number of infringements recorded
+
+⌦
+
+according to risk category
+
+⌫
+
+;
+
+(e)
+
+⌦
+
+the
+
+⌫
+
+type and number of penalties imposed.
+
+2. The Commission shall send the European Parliament and the Council, for the first time in 1999 and subsequently at least every three years, a report on the application of
+
+⌦
+
+Directive 95/50/EC and
+
+⌫
+
+this Directive by the Member States, stating the particulars in accordance with paragraph 1.
+
+🡻
+
+2019/1243 Art. 1 and Annex, pt. IX(1)(1) (adapted)
+
+Article 10
+
+The Commission is empowered to adopt delegated acts in accordance with Article 11
+
+⌦
+
+concerning the amendment of
+
+⌫
+
+Annexes I, II and III, in order to adapt them to scientific and technical progress in the fields covered by this Directive, in particular to take account of amendments to Directive 2008/68/EC .
+
+🡻
+
+2019/1243 Art. 1 and Annex, pt. IX(1)(2) (adapted)
+
+Article 11
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Article 10 shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3. The delegation of power referred to in Article 10 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the
+
+Official Journal of the European Union
+
+or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6. A delegated act adopted pursuant to Article 10 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+🡻
+
+95/50/EC (adapted)
+
+Article 12
+
+Member States shall communicate to the Commission the text of the
+
+⌦
+
+main
+
+⌫
+
+provisions of
+
+⌦
+
+national
+
+⌫
+
+law which they adopt in the field governed by this Directive.
+
+🡻
+
+Article 13
+
+Directive 95/50/EC, as amended by the acts listed in Annex IV, Part A, is repealed, without prejudice to the obligations of the Member States relating to the time-limits for the transposition into national law of the Directives set out in Annex IV, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex V.
+
+🡻
+
+95/50/EC (adapted)
+
+Article 14
+
+This Directive shall enter into force on the
+
+⌦
+
+twentieth
+
+⌫
+
+day
+
+⌦
+
+following that
+
+⌫
+
+of its publication in the
+
+Official Journal of the European Union
+
+.
+
+Article 15
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+EUROPEAN COMMISSION
+
+Brussels, 19.8.2021
+
+COM(2021) 483 final
+
+ANNEXES
+
+to the
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on uniform procedures for checks on the transport of dangerous goods by road (codification)
+
+🡻
+
+2004/112/EC Art. 1 and Annex I (adapted)
+
+ANNEX I
+
+Checklist
+
+⌦
+
+(referred to in Article 4)
+
+⌫
+
+_____________
+
+🡻
+
+2004/112/EC Art. 1 and Annex II (adapted)
+
+ANNEX II
+
+Infringements
+
+For the purposes of this Directive, the following non-exhaustive list, classified into three risk categories (category I being the most serious), gives a guideline on what is to be regarded as
+
+⌦
+
+an
+
+⌫
+
+infringement.
+
+The determination of the appropriate risk category must take account of the particular circumstances and be left to the discretion of the enforcing body/officer at the roadside.
+
+Failures that are not listed under the risk categories shall be classified according to the descriptions of the categories.
+
+In the event
+
+⌦
+
+that
+
+⌫
+
+there are several infringements per transport unit, only the most serious risk category (as indicated under item 39 in Annex I) shall be applied for reporting purposes (
+
+⌦
+
+in compliance with the model standard form set out in
+
+⌫
+
+Annex III).
+
+1.
+
+Risk Category I
+
+Where failure to comply with relevant ADR provisions creates a high-level risk of death, serious personal injury or significant damage to the environment
+
+,
+
+such failures would normally lead to taking immediate and appropriate corrective measures such as immobilisation of the vehicle.
+
+Failures are:
+
+1.
+
+the dangerous goods being carried are prohibited for transport;
+
+2.
+
+leakage of dangerous substances;
+
+3.
+
+carriage by a prohibited mode or an inappropriate means of transport;
+
+4.
+
+carriage in bulk in a container which is not structurally serviceable;
+
+5.
+
+carriage in a vehicle without an appropriate certificate of approval;
+
+6.
+
+the vehicle no longer complies with the approval standards and presents an immediate danger (otherwise it goes in risk category II);
+
+7.
+
+non-approved packaging is used;
+
+8.
+
+⌦
+
+the
+
+⌫
+
+packaging does not conform to the applicable packing instruction;
+
+9.
+
+the special provisions for mixed packing have not been complied with;
+
+10.
+
+the rules governing the securing and stowage of the load have not been complied with;
+
+11.
+
+the rules governing mixed loading of packages have not been complied with;
+
+12.
+
+the permissible degrees of filling of tanks or packages have not been complied with;
+
+13.
+
+the provisions limiting the quantities carried in one transport unit have not been complied with;
+
+14.
+
+carriage of dangerous goods without any indication of their presence (for example, documents, marking and labelling on the packages, placarding and marking on the vehicle);
+
+15.
+
+carriage without any placarding and marking on the vehicle;
+
+16.
+
+information relevant to the substance being carried enabling determination of a risk category I offence is missing (for example, UN number, proper shipping name, packing group);
+
+17.
+
+⌦
+
+the
+
+⌫
+
+driver does not hold a valid vocational training certificate;
+
+18.
+
+fire or an unprotected light is being used;
+
+19.
+
+the ban on smoking is not being observed.
+
+2.
+
+Risk Category II
+
+Where failure to comply with relevant ADR provisions creates a risk of personal injury or damage to the environment
+
+,
+
+such failures would normally lead to taking appropriate corrective measures such as requiring rectification at the site of control if possible and appropriate, but at the completion of the current transport movement at the latest.
+
+Failures are:
+
+1.
+
+the transport unit comprises more than one trailer/semi-trailer;
+
+2.
+
+the vehicle no longer complies with the approval standards but does not present an immediate danger;
+
+3.
+
+the vehicle is not carrying operational fire extinguishers as required; a fire extinguisher
+
+⌦
+
+may
+
+⌫
+
+still be deemed operational if only the prescribed seal and/or the expiry date are missing; however, this
+
+⌦
+
+shall
+
+⌫
+
+not apply if the fire extinguisher is visibly no longer operational, for example, pressure gauge at 0;
+
+4.
+
+the vehicle does not carry the equipment required in the ADR or in the instructions in writing;
+
+5.
+
+test and inspection dates and use periods of packaging, IBCs or large packaging have not been complied with;
+
+6.
+
+packages with damaged packaging, IBCs or large packaging or damaged uncleaned empty packaging are being carried;
+
+7.
+
+carriage of packaged goods in a container which is not structurally serviceable;
+
+8.
+
+tanks/tank containers (including ones that are empty and uncleaned) have not been closed properly;
+
+9.
+
+carriage of a combination packaging with an outer packaging which is not closed properly;
+
+10.
+
+incorrect labelling, marking or placarding;
+
+11.
+
+there are no instructions in writing conforming to the ADR, or the instructions in writing are not relevant to the goods carried;
+
+12.
+
+the vehicle is not properly supervised or parked.
+
+3.
+
+Risk Category III
+
+Where failure to comply with relevant provisions result in a low level of risk of personal injury or damage to the environment and where appropriate corrective measures do not need to be taken at the roadside but can be addressed at a later date at the undertaking.
+
+Failures are:
+
+1.
+
+the size of placards or labels or the size of letters, figures or symbols on placards or labels does not comply with the regulations;
+
+2.
+
+information in the transport documentation other than that in risk category I/(16) is not available;
+
+3.
+
+the training certificate is not on board the vehicle but there is evidence that the driver holds it.
+
+_____________
+
+🡻
+
+2004/112/EC Art. 1 and Annex III
+
+ANNEX III
+
+Model standard form for the report to be sent to the Commission concerning infringements and penalties
+
+_____________
+
+🡹
+
+ANNEX IV
+
+Part A
+
+Repealed Directive with list of the successive amendments thereto
+
+(referred to in Article 13)
+
+Council Directive 95/50/EC
+
+(OJ L 249, 17.10.1995, p. 35)
+
+Directive 2001/26/EC of the European Parliament and of the Council
+
+(OJ L 168, 23.6.2001, p. 23)
+
+Commission Directive 2004/112/EC
+
+(OJ L 367, 14.12.2004, p. 23)
+
+Directive 2008/54/EC of the European Parliament and of the Council
+
+(OJ L 162, 21.6.2008, p. 11)
+
+Regulation (EU) 2019/1243 of the European Parliament and of the Council
+
+(OJ L 198, 25.7.2019, p. 241)
+
+only point IX(1) of the Annex
+
+Part B
+
+Time-limits for transposition into national law
+
+(referred to in Article 13)
+
+Directive
+
+Time-limit for transposition
+
+95/50/EC
+
+1 January 1997
+
+2001/26/EC
+
+23 December 2001
+
+2004/112/EC
+
+14 December 2005
+
+2008/54/EC
+
+–
+
+_____________
+
+ANNEX V
+
+Correlation Table
+
+Directive 95/50/EC
+
+This Directive
+
+Article 1
+
+Article 1
+
+Article 2, introductory wording
+
+Article 2, introductory wording
+
+Article 2, first indent
+
+Article 2(a)
+
+Article 2, second indent
+
+Article 2(b)
+
+Article 2, third indent
+
+Article 2(c)
+
+Article 2, fourth indent
+
+Article 2(d)
+
+Article 2, fifth indent
+
+Article 2(e)
+
+Article 3(1)
+
+Article 3, first paragraph
+
+Article 3(2)
+
+Article 3, second paragraph
+
+Article 4(1), first sentence
+
+Article 4(1), first subparagraph
+
+Article 4(1), second sentence
+
+Article 4(1), second subparagraph
+
+Article 4(2) to (5)
+
+Article 4(2) to (5)
+
+Article 5
+
+Article 5
+
+Article 6(1)
+
+Article 6(1), first subparagraph
+
+Article 6(2), first subparagraph
+
+Article 6(1), second subparagraph
+
+Article 6(2), second subparagraph
+
+Article 6(2)
+
+Article 7
+
+Article 7
+
+Article 8, first sentence
+
+Article 8, first subparagraph
+
+Article 8, second sentence
+
+Article 8, second subparagraph
+
+Article 9(1), introductory wording
+
+Article 9(1), introductory wording
+
+Article 9(1), first indent
+
+Article 9(1)(a)
+
+Article 9(1), second indent
+
+Article 9(1)(b)
+
+Article 9(1), third indent
+
+Article 9(1)(c)
+
+Article 9(1), fourth indent
+
+Article 9(1)(d)
+
+Article 9(1), fifth indent
+
+Article 9(1)(e)
+
+Article 9(2)
+
+Article 9(2)
+
+Article 9
+
+a
+
+Article 10
+
+Article 9
+
+aa
+
+Article 11
+
+Article 10(1)
+
+–
+
+Article 10(2)
+
+Article 12
+
+–
+
+Article 13
+
+Article 11
+
+Article 14
+
+Article 12
+
+Article 15
+
+Annexes I, II and III
+
+Annexes I, II and III
+
+–
+
+Annex IV
+
+–
+
+Annex V
+
+_____________

@@ -1,0 +1,567 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 52000PC0438(05) - EN
+
+Avis juridique important
+
+|
+
+52000PC0438(05)
+
+Proposal for a Directive of the European Parliament and of the Council repealing certain Directives on the hygiene of foodstuffs and the health conditions for the production and placing on the market of certain products of animal origin intended for human consumption, and amending Directives 89/662/EEC and 91/67/EEC  /* COM/2000/0438 final - COD 2000/0182 */
+
+Official Journal C 365 E , 19/12/2000 P. 0132 - 0134
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL repealing certain Directives on the hygiene of foodstuffs and the health conditions for the production and placing on the market of certain products of animal origin intended for human consumption, and amending Directives 89/662/EEC and 91/67/EEC
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+I. SUMMARY
+
+The present proposals result from a recast of Community legislation on
+
+- food hygiene as contained in Council Directive 93/43/EEC on the hygiene of foodstuffs and in a number of Council Directives on public health problems and governing the production and placing on the market of products of animal origin,
+
+- animal health aspects related to the placing on the market of products of animal origin, as contained in a number of Council Directives that partially overlap with the food hygiene Directives,
+
+- official controls on products of animal origin contained in the above product-specific Directives.
+
+These Directives (17 in total) have been gradually developed since 1964 in response to the needs of the internal market, taking into account however a high level of protection. The multiplicity of these Directives, the intermingling of different disciplines (hygiene, animal health, official controls) and the existence of different hygiene regimes for products of animal origin and other food have led to a complex situation. This situation can be improved by recasting the legal requirements and separating aspects of food hygiene from animal health and official control issues.
+
+The recast is primarily motivated by the need to ensure a high level of health protection for the different disciplines concerned.
+
+The leitmotif throughout the recast of the hygiene rules is that food operators bear full responsibility for the safety of the food they produce. The implementation of hazard analysis and control principles and the observance of hygiene rules must ensure this safety. This is in line with the internationally accepted approach advocated by the Codex Alimentarius. In addition, provision is made for the hygiene rules to be applied at all levels of the food chain, from primary production to delivery to the final consumer.
+
+Where the recast of the hygiene rules sets out the obligations for food operators throughout the food chain, this has resulted in a separate text defining the duties of the competent authorities with regard to controls on products of animal origin. These controls are specific to the type of product. They will apply in addition to the rules to be proposed under point 4 (proposal for a Regulation on official food and feed safety controls) of the Action Plan in the Annex to the Commission's White Paper on food safety.
+
+Finally, products of animal origin may carry pathogens (swine fever, foot-and-mouth disease, etc.) which can seriously affect the health of animals coming into contact with such products. Although not harmful to humans, such products may cause serious losses and restrictions on the farms affected by such problems. The recast of the veterinary rules has helped to better identify these problems and define the measures that need to be taken in order to prevent the spread of animal diseases through products of animal origin. These measures are the subject of a separate proposal.
+
+The recasting exercise has thus resulted in proposals for Regulations relating to food hygiene, official controls and animal health problems.
+
+A Directive to repeal the existing legislation with respect to the above subjects is attached.
+
+With this package of proposals, a number of important activities referred to in the Commission's White Paper on Food Safety is submitted.
+
+II. FOOD HYGIENE
+
+1. Hygiene rules applicable to all food
+
+Directive 93/43/EEC on the hygiene of foodstuffs is based on the following principles:
+
+- the paramount concern to protect human health,
+
+- the use of hazard analysis, risk assessment and other management techniques to identify, control and monitor critical points in food businesses,
+
+- the adoption of microbiological criteria and temperature control measures in accordance with scientifically accepted principles,
+
+- the development of codes of good hygiene practice,
+
+- the monitoring of food hygiene by the competent authorities of the Member States,
+
+- the obligation on food business operators to ensure that only foodstuffs not harmful to human health are placed on the market.
+
+The implementation of this Directive has shown that these principles remain valid and that their application can be extended to all foodstuffs. It is therefore a logical consequence of the recasting exercise to apply the rules of Directive 93/43/EEC to products of animal origin as well, which at present fall outside its scope.
+
+At the same time, the rules contained in Directive 93/43/EEC have been revised in order to take account of recent developments in food hygiene:
+
+a) The HACCP system
+
+In order to bring Community legislation into line with the principles of food hygiene laid down by the Codex Alimentarius, it is proposed that the Hazard Analysis Critical Control Point (HACCP) principles prescribed by that organisation be introduced. The implementation of these principles would, if adopted, be mandatory for all operators of food establishments. It prescribes a number of logical steps to be followed by operators throughout the production cycle in order to allow - through hazard analysis - the identification of points where control is critical with regard to food safety.
+
+The principles contain an obligation for manufacturers to keep records of the checks they carry out. This obligation is new and it is felt to be essential so that  surveillance testing can be carried out effectively and efficiently by the competent authorities.
+
+In implementing HACCP, operators will have to live up to their responsibilities. They will need to design a specific monitoring programme. All possible hazards must be identified and proper control procedures for every food establishment individually established. Corrective action must be taken when controls show that problems may occur. Regular updates of the system must be made. The correct application of the system will increase consumer protection.
+
+Own-check programmes are already applied in some parts of the food industry. For other sectors of the food industry, the principles of own-checks are new. The own-checking system has to be made sufficiently flexible to take account of the different circumstances possibly present in practice, in particular with regard to small enterprises. For that purpose, codes can be developed to serve as a support tool for implementing the HACCP system.
+
+b) Food Safety Objectives (FSOs)
+
+At present, hygiene legislation for certain sectors, and in particular for products of animal origin, give a detailed description of the measures to be taken in order to ensure food safety.
+
+Discussions on food safety nowadays are focussing on the objective that must be achieved in order to ensure food safety, rather than concentrating on a detailed description of the measures to be taken in order to ensure food safety. This implies that food operators must define their own procedures for achieving a defined objective. The advantages of such a system are simpler legislation (which can be limited to the setting of objectives, thus avoiding detailed descriptions of the means for reaching the objective), and more flexibility for food operators (who have the obligation to establish documented systems on the means developed by them to meet the objective set by law).
+
+In such a system, food safety is the result of the respect of general hygiene rules imposed by food safety legislation, the obligation for food operators to develop procedures for ensuring the respect of the food safety objective fixed by legislation and the implementation of the HACCP system.
+
+The Commission acknowledges the advantage of such a system which is based on the overriding principle that the food operator is responsible for the placing on the market of safe food. However, since FSOs have to be based on sound scientific advice, their setting requires time and careful risk management reflection. It is for that reason that the present proposal does not fix FSOs, but lays down a procedure that will allow the Commission to fix FSOs in the future. In the meanwhile, the detailed legislation is maintained albeit in a format that is adapted to the obligation for food operators to apply the HACCP system. These detailed rules could be reviewed in parallel with the setting of FSOs where feasible, without lowering the level of consumer protection.
+
+c) The tracing of food and food ingredients
+
+Recent food emergencies have demonstrated that the identification of the origin of food and food ingredients is of prime importance for consumer protection. The hygiene proposal introduces certain principles that must allow to improve tracing, and in particular:
+
+- The registration of food businesses by the competent authority and the allocation of a registration number to each of them. This registration number must follow the product to its destination. In certain cases, where the competent authority wishes to have assurances about compliance of food businesses with the hygiene rules prior to starting-up such business, the approval of the food business concerned is required. In that event, the approval number will follow the product.
+
+- The obligation for food businesses to ensure that adequate procedures are in place to withdraw food from the market where such food presents a risk to the health of the consumer, and to keep adequate records which must enable them to identify the supplier of ingredients and foods used in their operation.
+
+The complexity of the food chain and the often complicated multi-ingredient composition of foodstuffs may require more detailed rules to ensure appropriate tracing up and down the place of manufacture. A procedure is for laying such detailed rules, where necessary, is proposed.
+
+d) Imports of products into the Community
+
+Provision is made for foodstuffs imported into the Community to comply with the Community hygiene standards or with equivalent standards.
+
+e) Exports of Community products to non-member countries
+
+Food exported to non-member countries cannot be permitted to present a risk to human health. Such products must therefore meet at least the same standards as apply for marketing within the Community, in addition to standards possibly imposed by the non-member country concerned.
+
+f) The farm to table approach and primary production
+
+Biological and chemical hazards in food may find their origin at the farm. Although certain product specific Directives address this problem, the matter has never been approached in a global way. It is proposed that the general hygiene rules be extended so as to cover hygiene at farm level. In doing so, Community legislation on food hygiene will be provided with an instrument that covers the entire food chain, from farm to table. To achieve the required level of hygiene at farm level, it is suggested that possible hazards occurring in primary production and methods to control such hazards shall be addressed in guides to good practice.
+
+Although the food safety system proposed at the level of primary production is risk based, a formal implementation of the HACCP system is not foreseen. Such system could possibly be introduced at a later stage when experience with the new hygiene rules demonstrates that it can be practically applied at primary production.
+
+Animal feed may condition food hygiene. Detailed specific Community legislation on this aspect already exists or has been proposed. There is therefore no need to extend the measures on food hygiene with rules on the safety of animal feed.
+
+g) Flexibility
+
+Experience in the Community has shown that a certain flexibility is needed in particular for small businesses, especially those situated in regions suffering from special geographical constraints (mountains, remote islands), and for the manufacture of traditional products. The proposals joined herewith aim to ensure such flexibility by requiring Member States, as a matter of subsidiarity, to ensure the appropriate level of hygiene in these businesses, without however compromising the objectives of food safety. The competent authorities in the Member States are the most appropriate bodies to judge about the needs at that level, and they must take their responsibilities in this matter.
+
+Together with the already existing principles for ensuring the hygiene of foodstuffs, these amendments constitute a sound basis for ensuring a high level of hygiene in food businesses.
+
+2. Hygiene rules applicable to food of animal origin
+
+a) Introduction
+
+As early as 1964, it was recognised that public health protection with regard to hazards in products of animal origin was regulated in a different way in the different Member States. With regard to meat in particular, health issues were used, justifiably or not, to create and maintain barriers to intra-Community trade and with a view to protecting national markets. The matter was of such a complicated nature and possible health hazards so paramount that it was felt that the only solution to this problem was a full harmonisation of the sector, with the objective to remove barriers to trade whilst ensuring a high level of consumer protection. This resulted in Directive 64/433/EEC on health problems related to the intra-Community trade in fresh meat. The attempt was successful, although it took several years to arrive at the high health level and free circulation we know today.
+
+Similar problems to those related to meat existed in other sectors, and there was a need to make the same efforts for products of animal origin in general. All these products present potential hazards to human health that justify the harmonisation of national rules and setting a high level of health protection. The creation of the single market has boosted this process, and today a complete harmonisation of health rules related to the placing on the market of products of animal origin has been achieved.
+
+The detailed hygiene rules are contained in the following texts:
+
+Directive 64/433/EEC (fresh meat)  Directive 71/118/EEC (poultrymeat)  Directive 77/96/EEC (trichina examination)  Directive 77/99/EEC (meat products)  Directive 89/362/EEC (milking hygiene)  Directive 89/437EEC (egg products)  Directive 91/492/EEC (live bivalve molluscs)  Directive 91/493/EEC (fishery products)  Directive 91/495/EEC (rabbit meat and farmed game meat)  Directive 92/45/EEC (game meat)  Directive 92/46/EEC (milk and milk products)  Directive 92/48/EEC (fishing vessels) Directive 92/118/EEC (gelatine, frogs' legs and snails)  Directive 94/65/EC (minced meat).
+
+Although these specific rules have helped to maintain a high level of health protection, ensure free circulation within the Community and establish uniform procedures for the importation of products of animal origin from non-member countries, it must be recognised that they are sometimes unnecessarily complicated and contain repetitions of similar or identical requirements, thus overlapping each other. Sometimes the rules contained in the different Directives have even been found to be contradictory. All these deficiencies contribute to difficulties of interpretation and implementation.
+
+The method of simplifying the present hygiene rules for products of animal origin is by recasting the different Directives. This approach is suggested by the observation that a number of procedures and requirements in them are identical, almost identical or similar in nature. By condensing these, a set of rules common to all food can be identified, thus avoiding the repetition, overlap and inconsistencies occurring in the Directives in force. The remaining rules are specific to a particular product, and are kept in product-specific annexes.
+
+b) Scope
+
+There was an urgent need to clarify and better define the scope of the future detailed health rules on food of animal origin.
+
+Retail sale
+
+The rules of the specific food legislation are felt to be too detailed for implementation at retail level. Hygiene at that level can continue to be ensured through the implementation of the general hygiene rules, which contain all elements needed to ensure food safety. This includes procedures for fixing storage and transport temperatures and, where necessary, fixing microbiological criteria. This ensures continuity throughout, for example maintaining the cold chain up to purchase by the consumer.
+
+Product definition
+
+The definitions of products of animal origin contained in the present specific rules are not laid out or interpreted in a uniform way. An area of major confusion is that of composite products, which contain, together with products of animal origin, other foods of plant origin.
+
+It is proposed that products of animal origin in future be categorised as follows:
+
+- unprocessed (raw) products, such as meat, raw milk, eggs, fish and molluscs,
+
+- processed products such as meat products, egg products, processed fish,
+
+These categories would constitute the basis for defining the scope of the specific hygiene legislation for products of animal origin.
+
+It is believed that the hygiene of composite products can satisfactorily be assured through the implementation of general hygiene rules, it being understood that in such products the ingredient of animal origin is obtained in accordance with the specific hygiene rules.
+
+c) Approval of establishments
+
+The approval of food-manufacturing and processing establishments is a traditional element of the specific hygiene legislation. It allows the monitoring authorities to ensure that all establishments involved in the manufacture of food of animal origin are operating in accordance with the required hygiene standards. Only establishments which are approved and listed by the competent authorities are allowed to place their products on the market. Such establishments will receive an approval number which must follow the products during marketing.
+
+d) Health marking
+
+The health mark was first introduced with the adoption of the fresh meat Directive (Directive 64/433/EEC). The presence of the health mark on  meat is an official recognition that the meat has been produced and inspected in accordance with the prescribed health rules. It may also constitute an element which allows the origin of the meat to be traced back to the establishment of origin (slaughterhouse, cutting plant) through the establishment's approval number, this number being a part of the health mark. This is an important tool for the monitoring authorities for taking action in case health problems occur during the marketing of meat.
+
+With the adoption of other specific health Directives for other products of animal origin, the use of the health mark has been extended for control purposes to these products. However, with the introduction of the systematic registration of food businesses and the fact that each food business must be given a registration number which must follow the product, the need for a health mark for tracing purposes becomes less obvious. In addition, bearing in mind that the primary responsibility for food safety rests with the food business operators, the need for an official recognition of food safety aspects through the approval of establishments and the application of a health mark is less prominent. Further debate is therefore required on the need to maintain the approval and health marking systems as applied at present. In the meanwhile, it is proposed to maintain the principles of health marking for products of animal origin. The situation can be reviewed when other systems for tracing the origin of foodstuffs show more efficient.
+
+e) Detailed requirements
+
+One of the main criticisms of the specific food hygiene legislation in force is that it is too prescriptive, which leads to an over-rigid system not leaving enough flexibility for the manufacturer to develop new techniques. However, during the consultation process it was found that deletion of detail was not a general demand. It seemed a well-accepted principle that specific rules also contain a certain level of detail necessary to ensure the safety of a product and a high level of consumer protection, although existing rules could be simplified.
+
+Where deletion of detail has been implemented to simplify legislation, this has been done with the aim of avoiding repetition, and in certain cases which are justified through the introduction of HACCP procedures. The implementation of HACCP procedures should show whether there is further room for reducing the detailed requirements in future.
+
+Deletion of detail has also been implemented where existing requirements can easily be replaced by codes to good hygiene practices. The further elaboration of such codes must show whether details contained at present in a legally binding context, can be replaced by guidelines contained in the said codes.
+
+It is felt that, in the absence of codes to good hygiene practices and lacking experience on the application of the HACCP principles, an abrupt deletion of detail would create a vacuum leaving a number of food operators in doubt about the correct procedures to be implemented for ensuring a correct level of hygiene.
+
+In some cases, and in order to address the problems linked with recent outbreaks of food-borne diseases, the existing rules have actually been tightened. New measures to reduce carcase contamination have been introduced, such as the need to present clean animals for slaughter, and the obligation to apply evisceration techniques that avoid the spilling of gut contents on the carcase. Recent experience in some Member States and the scientific literature show that such measures help to reduce risks associated with product contamination substantially.
+
+f) Microbiological criteria
+
+With the review of the existing specific legislation, an examination has been undertaken to see to what extent the existing microbiological criteria must be updated. For this reason it has been decided to submit them for re-examination to the scientific committee(s). Pending decisions in this matter, it is proposed that the existing microbiological criteria remain applicable.
+
+g) Temperatures for storage and transport
+
+The specific legislation in force contains different storage and transport temperatures for the different products covered by the specific hygiene legislation.
+
+As is the case for microbiological standards, the justification for differences in storage and transport temperatures for the different commodities needs to be scientifically confirmed. The Scientific Committee has been informed and a working group has been established to examine this question.
+
+h) Small production units
+
+It is felt that small establishments serving the local market or those situated in regions with particular supply constraints do not always need to fulfil all of the structural requirements prescribed and that they can produce safe products under specific rules adapted to this type of production. The present proposals contain, therefore, where necessary, special rules for the infrastructure of such establishments. These special rules must not compromise food safety.
+
+i) Imports from non-member countries
+
+The proposal contains a uniform procedure for organising imports from non-member countries of products of animal origin destined for human consumption. These procedures consist essentially of the following steps:
+
+- audits and/or assessment of the competent authority performance and on-the-spot inspections to verify compliance/equivalence with EU requirements,
+
+- establishment of a list of non-member countries matching EU standards,
+
+- establishment of import conditions and certification requirements for each non-member country,
+
+- establishment of a list of establishments in non-member countries meeting EU standards.
+
+j) Quality and labelling
+
+The present specific hygiene rules contain a number of quality requirements for the products concerned, such as the fat and collagen content of minced meat, the freezing point of milk, etc. At the same time, labelling requirements for these quality aspects exist. Although the importance of these requirements for consumer protection is recognised, it is considered that they have no direct hygiene impact. It must therefore be examined how these elements can be integrated elsewhere in Community legislation. Quality requirements are maintained pending the establishment of more specific rules.
+
+k) Hygiene rules and BSE
+
+The hygiene rules do not specifically address BSE. Safeguard measures for that purpose have been provided for in Commission legislation, and proposals have been made to combat that particular problem. However, with the recast, some rules have been tightened. Some materials have been excluded from the manufacture of products such as mechanically recovered meat. These new measures will bring better guarantees for protection against possible health risks including those posed by BSE. In general however, the proposed rules apply without prejudice to more specific rules for the prevention and control of certain transmissible spongiform encephalopathies.
+
+III. Animal health requirements
+
+The animal health rules are designed to prevent the spread of animal diseases such as swine fever and foot-and-mouth disease through products of animal origin. These rules are contained in the following Council Directives:
+
+Directive 72/461/EEC (fresh meat)  Directive 80/215/EEC (meat products)  Directive 91/67/EEC (aquatic animal products)  Directive 91/494/EEC (poultrymeat)  Directive 91/495/EEC (rabbit meat and farmed game meat)  Directive 92/45/EEC (game meat)  Directive 92/46/EEC (milk and milk products)
+
+As for the hygiene rules, similar observations can be made with regard to the need to recast the animal health rules. Since these rules have no direct impact on consumer health, it has been judged useful to separate the two aspects. A separate proposal for animal health purposes is therefore being presented.
+
+A high level of protection has been maintained in this field, too. The attached proposal elucidates the animal hazards that can occur in products of animal origin and how to eliminate such hazards. The same principles with regard to official controls, Community inspections and imports from non-member countries as  for hygiene purposes are proposed.
+
+IV. Official controls
+
+1. Control requirements applicable to all food and feed
+
+Requirements for official controls are already laid down for different sectors such as veterinary public health, animal health, foodstuffs and animal feed. This sectorial approach has lead to a situation whereby requirements of a similar nature are covered in a different way for the different sectors concerned, or that certain aspects are not covered for a particular sector, thus leaving loopholes in legislation. By way of response to this situation and in accordance with the Commission's intentions announced in the White Paper (Action 4 of the Annex to the White Paper), a proposal will be established that lays down the general control principles that must be observed in ensuring that food and feed legislation is complied with. This proposal will cover all aspects related to the official controls for the safety of both feed and foodstuffs and in particular the responsibilities of the official services in the Member States, the action to be taken in the case of risk to the consumer, the training of control officials, the application of contingency plans, controls on imported products, inspections by the Commission, safeguard measures etc.
+
+2. Specific control requirements
+
+Although a number of general control requirements can be laid down for all food, it must not be lost of sight that the specificity of certain products requires the setting of specific control requirements. This is in particular the case for products of animal origin, which present hazards that are very specific to the type of commodity.
+
+Existing detailed inspection procedures such as ante- and post-mortem inspections on meat are of a very technical nature. Some of these procedures have been implemented for over 30 years without major changes. Although they have proven their effectiveness for controlling certain diseases such as tuberculosis and glanders, intensive discussions are taking place to review these traditional inspection procedures so as to address hazards that are linked to modern methods of food production. These discussions are concentrating in particular on the prevention by modern inspection procedures of food-borne infections such as the ones caused by Salmonella sp., E. coli, Listeria, Campylobacter etc, and on the development of a risk based system for controlling other hazards.
+
+In order to enable the Commission to react promptly when these discussions arrive at appropriate results, a separate proposal has been drawn up under which all the detailed inspection procedures are described. While awaiting the result of the scientific assessment, it is proposed that the present rules continue to apply.
+
+V. Future steps
+
+When the present proposals are adopted, the Union will have specific food hygiene legislation which ensures a very high standard with regard to public health protection. It will contain a number of important general requirements, some of which will be new for operators and for the monitoring authorities. A follow-up of the implementation of these requirements should be ensured. Also the development of codes to good hygiene practises constitutes an important element in the evolution of food safety.
+
+It is therefore proposed that the Commission should closely follow this evolution and make a report on the implementation of the self-checking regimes run by operators, on the establishment of codes to good hygiene practises and on the experience in the Member States with inspections and audits for monitoring the correct implementation of these regimes.
+
+The Commission will furthermore be vigilant in following closely all new technical and scientific developments.
+
+It is likely that in the coming years there will be a need to adapt legislation again in function of the elements described above. A revision clause to formalise this intention is inserted.
+
+VI. The external dimension and general considerations
+
+During the last few decades the market for food has changed dramatically. Food and trade have become increasingly international in character, the Community trades in food products with almost every corner of the earth, and our traders are constantly seeking new markets and products in newly emerging economies. With the changing marketplace, there are growing concerns about food safety: potential hazards such as microbiological food contamination and residues of medicinal products or other chemical contaminants may travel with foodstuffs and present new challenges to policymakers to develop adequate systems to safeguard human health. This is reflected in international agreements and obligations, and in an enhanced role for international organisations such as the Codex Alimentarius and the International Office of Epizootics, which have established sanitary standards, recommendations and guidelines for international trade in  food.
+
+The Commission's proposals respond to this challenge by introducing requirements with regard to the hygienic quality of imported food taking account of the existing international standards and guidelines.
+
+VII. Food hygiene and the commission's green paper on food law
+
+In the Commission's Green Paper on Food Law of 30.04.1997 (COM(97)176), a number of principles that are of importance in relation to food hygiene have been identified, and interested groups were invited to give their views on these matters. A summary of these comments is given hereunder. These comments show the need to improve Community food hygiene legislation with regard to important questions.
+
+a) Consistency of hygiene rules
+
+The Member States support the steps taken to consolidate and simplify the vertical hygiene Directives and to assess the relationship between these and the general hygiene of foodstuffs covered in Directive 93/43/EEC. Member States agree that the general hygiene Directive should form the basis for hygiene measures for all foodstuffs, regardless of origin, including a requirement for Hazard Analysis and Critical Control Point (HACCP) systems. However, the need for additional detailed requirements where the risk to health from a product necessitates this is also supported.
+
+Most commentators are of the opinion that the Codex Alimentarius Commission's full seven principles of HACCP should be taken as the basis for Community measures, with flexibility for low-risk businesses. Guides to good hygiene practice are seen as a useful tool, particularly for small businesses.
+
+In principle, the non-governmental organisations are in agreement with these comments, advocating a farm-to-table, risk related approach. They agree that the general hygiene Directive and HACCP should form the basis for Community measures, with additional measures where necessary contained in annexes to a single hygiene text.
+
+b) Retail sale
+
+Commentators are in agreement that the provisions of the food hygiene Directive 93/43/EEC are appropriate for the retail sale of food. However, several recommend that the Commission should focus on developing suitable, simple temperature-control provisions for this part of the supply chain.
+
+c) Quality provisions
+
+Most commentators have said that quality aspects should not form part of hygiene legislation, as quality provisions and hygiene have a different aim and should not be addressed in the same instrument. However, several Member States are of the opinion that the quality of foodstuffs is a matter for concern with regard to consumer protection.
+
+Comments from non-governmental organisations agree that quality issues should be removed from the hygiene rules. Quality rules currently contained in hygiene legislation should be reviewed and if necessary put into separate legislation.
+
+d) Safeguard clause
+
+There have been few governmental comments on this subject but all are in favour of an extension. The scope should also apply to products traded within the Community.
+
+e) Controls and enforcement
+
+Member States have sent substantial but differing comments on this subject to the Commission. One country would like the reduction of the current control systems and, in the future, more focus on the suitability and reliability of companies' own control systems. Another wants to see no substitution of the official supervisory control systems on foodstuffs in favour of internal company procedures. One comment especially welcomes the continuing separation of responsibilities between the official controls of national authorities and the Commission. The drawing-up of requirements for quality controls, including a follow-up of controls and the qualifications of staff in charge of controls is requested.
+
+Non-governmental organisations have also commented extensively on controls and enforcement of EU legislation. The separation of responsibilities for control and enforcement between inspections conducted by companies, national authorities and the Commission is welcomed, provided that the respective responsibilities are clearly defined and that the results of controls are made public.
+
+Consumer organisations have asked for more transparency in order to establish mutual confidence.
+
+f) External dimension
+
+All governmental comments are in agreement on the increasing importance of the external dimension in the foodstuffs sector. The Community should play an active role in Codex Alimentarius negotiations.
+
+Non-governmental organisations point out the increasing importance of international developments in the food sector and ask for an effective involvement of the Community.
+
+VIII. Food hygiene and the Commission's White Paper on Food Safety
+
+The proposals joined herewith respond to a number of actions announced in the Annex to the Commission's White Paper on Food Safety (and in particular actions 8 and 28). The recast of existing legislation results in a comprehensive and integrated approach, covering all food from the farm to the point of sale to the consumer. This leads to a better coherence and transparency of food legislation. In addition, the role of the stakeholders in the food chain is better defined. The basic principles of food safety are herewith respected. The Commission believes that, together with the other proposals announced in the White Paper on Food Safety or already tabled, a high level of human health and consumer protection is achieved.
+
+It is also the Commission's intention to ensure that the proposed policies remain dynamic. For that purpose, a number of activities have already been launched to ensure  that further risk assessments are undertaken and that the results of these assessments will be introduced in future Community legislation.
+
+IX. The form of the acts
+
+As explained in the Commission's Green Paper on the general principles of food law in the Union, the Commission believes that Community law in the form of regulations presents a number of advantages, such as the guarantee of a uniform application throughout the single market, a better transparency of Community law and the possibility for rapid updating of Community legislation to take account of technical and scientific developments. It is for these reasons that the present proposals are submitted in the form of Regulations.
+
+2000/0182 (COD)
+
+Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL repealing certain Directives on the hygiene of foodstuffs and the health conditions for the production and placing on the market of certain products of animal origin intended for human consumption, and amending Directives 89/662/EEC and 91/67/EEC
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Articles 37, 95 and 152(4)(b) thereof,
+
+Having regard to the proposal from the Commission [1],
+
+[1]  OJ C ...
+
+Having regard to the opinion of the Economic and Social Committee [2],
+
+[2]  OJ C ...
+
+Having regard to the opinion of the Committee of the Regions [3],
+
+[3]  OJ C ...
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty [4],
+
+[4]  OJ C ...
+
+Whereas:
+
+(1) Council Directive 93/43/EEC of 14 June 1993 on the hygiene of foodstuffs [5] lays down the general requirements for ensuring the production of safe food;
+
+[5]  OJ L 157, 19.7.1993, p. 1.
+
+(2) The animal and public health conditions for the production and the placing on the market of products of animal origin are laid down in a number of different Council Directives;
+
+(3) These conditions concern, in particular, products such as fresh meat, poultrymeat, meat products, egg products, live bivalve molluscs, fishery products, rabbit and game meat, milk and milk products, minced meat as well as certain other products intended for human consumption;
+
+(4) The rules contained in these Directives have been recast and adopted as:
+
+- European Parliament and Council Regulation .../... on the hygiene of foodstuffs [6]European Parliament and Council Regulation laying down specific hygiene rules for food of animal origin [7]
+
+[6]  OJ L ...
+
+[7]  OJ L ...
+
+- European Parliament and Council Regulation .../... laying down  detailed rules for the organisation of official controls on products of animal origin intended for human consumption [8],
+
+[8]  OJ L ...
+
+- Council Regulation .../... laying down the animal health rules governing the production, placing on the market and importation of products of animal origin intended for human consumption [9];
+
+[9]  OJ L ...
+
+(5) The Directives concerned must therefore be repealed;
+
+(6) Council Directive 89/662/EEC of 11 December 1989 concerning veterinary checks in intra-Community trade with a view to the completion of the internal market [10], as last amended by Directive 92/118/EEC [11], and Council Directive 91/67/EEC of 28 January 1991 concerning the animal health conditions governing the placing on the market of aquaculture animal and products [12], as last amended by Directive 98/45/EC [13], must also be amended to take account of the recasting exercise,
+
+[10]  OJ L 395, 30.12 1989, p. 13.
+
+[11]  OJ L 62, 15.3.1993, p. 49.
+
+[12]  OJ L 46, 19.2.1991, p. 1.
+
+[13]  OJ L 189, 3.7.1998, p. 12.
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+The following Directives are hereby repealed:
+
+1. Council Directive 93/43/EEC of 14 June 1993 on the hygiene of foodstuffs.
+
+2. Council Directive 64/433/EEC of 26 June 1964 on health conditions for the production and marketing of fresh meat [14], as last amended by Directive 95/23/EC [15].
+
+[14]  OJ 121, 29.7.1964, p. 2012/64.
+
+[15]  OJ L 243, 11.10.1995, p. 7.
+
+3. Council Directive 71/118/EEC of 15 February 1971 on health problems affecting the production and placing on the market of fresh poultrymeat [16], as last amended by Directive 97/79/EC [17].
+
+[16]  OJ L 55, 8.3.1971, p. 23.
+
+[17]  OJ L 24, 30.1.1998, p. 31.
+
+4. Council Directive 72/461/EEC of 12 December 1972 on health problems affecting intra-Community trade in fresh meat [18], as last amended by the Act of Accession of Austria, Finland and Sweden.
+
+[18]  OJ L 302, 31.12.1972, p. 24.
+
+5. Council Directive 77/96/EEC of 21 December 1976 on the examination for trichinae (Trichinella spiralis) upon importation from third countries of fresh meat derived from domestic swine [19], as last amended by the Act of Accession of Austria, Finland and Sweden.
+
+[19]  OJ L 26, 31.1.1977, p. 67.
+
+6. Council Directive 77/99/EEC of 21 December 1976 on health problems affecting the production and marketing of meat products and certain other products of animal origin [20], as last amended by Directive 97/76/EC [21].
+
+[20]  OJ L 26, 31.1.1977, p. 85.
+
+[21]  OJ L 10, 16.1.1998, p. 25.
+
+7. Council Directive 80/215/EEC of 22 January 1980 on animal health problems affecting intra-Community trade in meat products [22], as last amended by the Act of Accession of Austria, Finland and Norway.
+
+[22]  OJ L 47, 21.2.1980, p. 4.
+
+8. Council Directive 89/362/EEC of 26 May 1989 on general conditions of hygiene in milk production holdings [23].
+
+[23]  OJ L 156, 8.6.1989, p. 30.
+
+9. Council Directive 89/437/EEC of 20 June 1989 on hygiene and health problems affecting the production and the placing on the market of egg products [24], as last amended by Directive 96/23/EC [25].
+
+[24]  OJ L 212, 22.7.1989, p. 87.
+
+[25]   OJ L 125, 23.5.1996, p. 10.
+
+10. Council Directive 91/492/EEC of 15 July 1991 laying down the health conditions for the production and the placing on the market of live bivalve molluscs [26], as last amended by Directive 97/79/EC.
+
+[26]  OJ L 168, 24.9.1991, p. 1.
+
+11. Council Directive 91/493/EEC of 22 July 1991 laying down the health conditions for the production and the placing on the market of fishery products [27], as last amended by Directive 97/79/EC.
+
+[27]  OJ L 268, 24.9.1991, p. 15.
+
+12. Council Directive 91/494/EEC of 26 June 1991 on animal health conditions governing intra-Community trade in and imports from third countries of fresh poultrymeat [28], as last amended by Directive 93/121/EC [29].
+
+[28]  OJ L 268, 24.9.1991, p. 35.
+
+[29]  OJ L 340, 31.12.1993, p. 39.
+
+13. Council Directive 91/495/EEC of 27 November 1990 concerning public health and animal health problems affecting the production and placing on the market of rabbit meat and farmed game meat [30], as last amended by the Act of Accession of Austria, Finland and Sweden.
+
+[30]  OJ L 268, 24.9.1991, p. 41.
+
+14. Council Directive 92/45/EEC of 16 June 1992 on public health and animal health problems relating to the killing of wild game and the placing on the market of wild-game meat [31], as last amended by Directive 97/79/EC.
+
+[31]  OJ L 268, 14.9.1992, p 35.
+
+15. Council Directive 92/46/EEC of 16 June 1992 laying down the health rules for the production and placing on the market of raw milk, heat-treated milk and milk-based products [32], as last amended by Directive 96/23/EC.
+
+[32]  OJ L 268, 14.9.1992, p. 1.
+
+16. Council Directive 92/48/EEC of 16 June 1992 laying down the minimum hygiene rules applicable to fishery products caught on board certain vessels in accordance with Article 3(1)(a)(i) of Directive 91/493/EEC [33].
+
+[33]  OJ L 187, 7.7.1992, p. 41.
+
+17. Council Directive 94/65/EC of 14 December 1994 laying down the requirements for the production and placing on the market of minced meat and meat preparations [34].
+
+[34]  OJ L 368, 31.12.1994, p. 10.
+
+Article 2
+
+Annex II of Council Directive 92/118/EEC of 17 December 1999 laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A, Chapter I to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC [35], as last amended by Directive 97/79/EC [36], is hereby repealed.
+
+[35]  OJ L 62, 15.3.1993, p. 49.
+
+[36]  OJ L 24, 30.1.1998, p. 31.
+
+Article 3
+
+Notwithstanding Article 1:
+
+1. Until temperature requirements for the storage and transport of products of animal origin and microbiological standards for these products have been established in accordance with the procedure laid down in Article 6 of European Parliament and Council Regulation .../... on the hygiene of foodstuffs [37], the requirements and standards laid down in the Directives referred to in Articles 1 and 2 or their implementing rules shall continue to apply
+
+[37]  OJ L ...
+
+2. Implementing rules adopted on the basis of the Directives referred to in Articles 1 and 2 shall remain in force until they are replaced by rules having the same effect adopted on the basis of
+
+- European Parliament and Council Regulation .../... on the hygiene of foodstuffs,
+
+- European Parliament and Council Regulation laying down specific hygiene rules for food of animal origin,
+
+- European Parliament and Council Regulation .../... laying down  detailed rules for the organisation of official controls on products of animal origin intended for human consumption,
+
+- Council Regulation .../... laying down the animal health rules governing the production, placing on the market and importation of products of animal origin intended for human consumption.
+
+3. When the health mark prescribed in the Directives referred to in Article 1 is different from the one prescribed in European Parliament and Council Regulation .../... laying down specific hygiene rules for food of animal origin , Member States shall ensure that the former health mark is replaced by the latter at the latest five years after entry into force of the said Regulation.
+
+Article 4
+
+Annex A of Council Directive 89/662/EEC is replaced by the following:
+
+"ANNEX A
+
+CHAPTER I
+
+- Council Regulation .../... , of... laying down the animal health rules governing the production, placing on the market and importation of products of animal origin intended for human consumption,
+
+- The products of animal origin as referred to in European Parliament and Council Regulation .../...., of ........, on the hygiene of foodstuffs.
+
+CHAPTER II
+
+Council Directive 92/118/EEC of 17 December 1992 laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (1) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC (with the exception of pathogens)."
+
+Article 5
+
+In Directive 91/67/EEC, Article 9 is replaced by the following:
+
+"Article 9
+
+The placing on the market for human consumption in an approved zone of aquaculture products and molluscs originating in a non-approved zone shall be subject to the relevant requirements laid down in Council Regulation .../... (laying down the animal health rules governing the production, placing on the market and importation of products of animal origin intended for human consumption)."
+
+Article 6
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 January 2004 at the latest. They shall forthwith inform the Commission thereof.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+Article 7
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.
+
+Article 8
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+IMPACT ASSESSMENT FORM  THE IMPACT OF THE PROPOSAL ON BUSINESS WITH SPECIAL REFERENCE TO SMALL AND MEDIUM-SIZED ENTERPRISES( SMEs)
+
+Title of proposal
+
+1. Proposal for a European Parliament and Council Regulation on the hygiene of foodstuffs.
+
+2. Proposal for a European Parliament and Council Regulation laying down specific hygiene rules for food of animal origin.
+
+Document reference number
+
+The proposal
+
+1. Taking account of the principle of subsidiarity, why is Community legislation necessary in this area and what are its main aims-
+
+The aim is to define the obligations food business operators must respect to ensure food safety. These proposals replace already existing food hygiene legislation so as to make it more coherent, more transparent and easier to apply. They are contained in the action programme in the Annex to the Commission's White Paper on Food Safety.
+
+The impact on business
+
+2. Who will be affected by the proposal-
+
+- which sectors of business: all food businesses
+
+- which sizes of business (what is the concentration of small and medium-sized firms): all sizes from primary production (farms) up to the point of sale to the consumer.
+
+- are there particular geographical areas of the Community where these businesses are found: they are situated all over the territory of the Community
+
+3. What will business have to do to comply with the proposal-
+
+They must ensure conformity with hygiene rules (infrastructural requirements for premises, good hygienic practices etc), and apply the Hazard Analysis Critical Control Point (HACCP) system (not at the level of primary production).
+
+4. What economic effects is the proposal likely to have-
+
+- on employment: neutral
+
+- on investment and the creation of new businesses: hygiene rules apply already at present. It is not expected that the proposed rules create extra investments to bring businesses up to the required standard. New obligations may however create the need for additional organisational efforts, and in particular the obligation to ensure registration of food businesses with the competent authority, the need to ensure traceability of food and the obligation to implement a full HACCP system.
+
+- on the competitiveness of businesses: the proposals aim to improve food safety. When correctly implemented and if food businesses assume their responsibilities, consumer confidence should increase; it could be stated that businesses can benefit from increased consumer confidence.
+
+5. Does the proposal contain measures to take account of the specific situation of small and medium-sized firms (reduced or different requirements etc)-
+
+Possibilities for adapting hygiene rules to the size of businesses have been introduced and procedures to ensure a smooth application of the HACCP system in small businesses are foreseen. Account is taken of the specificity of traditional ways of food production and manufacturing.
+
+Consultation
+
+6. List the organisations which have been consulted about the proposal and outline their main views.
+
+The organisations represented in the relevant Advisory Committee, either during meetings of the Committee or on an ad hoc and more informal basis were consulted. Account has to a large extent been taken of the many written comments received from the different sectors concerned. The initiative of creating a uniform basis to ensure the food hygiene from farm to table has been generally welcomed. The simplification of certain hygiene rules was also welcomed, but there were different views on the level of simplification: some organisations requested a drastic reduction of the level of detail contained in the rules in force at present, other groups preferred to maintain a fair level of detail.

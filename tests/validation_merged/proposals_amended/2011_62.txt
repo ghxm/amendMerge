@@ -1,0 +1,1755 @@
+EUR-Lex - 52011PC0142 - EN
+
+|
+
+52011PC0142
+
+/* COM(2011) 142 final - COD 2011/0062 */  Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on credit agreements relating to residential property    (Text with EEA relevance)
+
+ | EUROPEAN COMMISSION |
+
+Brussels, 31.3.2011
+
+COM(2011) 142 final
+
+2011/0062 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on credit agreements relating to residential property (Text with EEA relevance)
+
+SEC(2011) 355 finalSEC(2011) 356 finalSEC(2011) 357 final
+
+EXPLANATORY MEMORANDUM
+
+1. CONTEXT OF THE PROPOSAL
+
+Grounds for and objectives of the proposal
+
+The present proposal has to be seen in the context of efforts to create an internal market for mortgage credit and against the background of the financial crisis.
+
+The financial crisis has had a substantial impact on EU citizens. Although an important contributing factor was the growth in securitisation, which allowed creditors[1] to pass the risk of their lending portfolios to investors, consumers have faced the consequences first hand. Many have lost confidence in the financial sector and certain lending practices that used to prevail are now having a direct impact.[2] As borrowers have found their loans increasingly unaffordable, defaults and foreclosures have risen. Addressing irresponsible lending and borrowing is therefore an important element in financial reform efforts.
+
+For several years, the Commission has engaged in a comprehensive review of EU residential mortgages markets to ensure the efficient functioning of the single market. The White Paper on the integration of EU mortgage markets[3] previously identified areas of direct relevance to responsible lending and borrowing (e.g. pre-contractual information, advice, assessment of creditworthiness, early repayment and credit intermediation) acting as barriers to the efficient functioning of the single market. These barriers prevent the pursuit of business or raise the cost of doing business in another Member State and lead to consumer detriment through low consumer confidence, higher costs and reduced customer mobility, both domestically and cross-border. In view of the problems brought to light in the financial crisis and in the context of efforts to ensure an efficient and competitive single market, the Commission undertook to come forward with measures on responsible lending and borrowing, including a reliable framework on credit intermediation.[4] To this end, the objectives of the proposal are twofold. First, it aims to create an efficient and competitive single market for consumers, creditors and credit intermediaries with a high level of protection by fostering consumer confidence, customer mobility, cross-border activity of creditors and credit intermediaries, and a level playing field while respecting fundamental rights, particularly the right to the protection of personal data, enshrined in the Charter of Fundamental Rights of the European Union . Second, the proposal seeks to promote financial stability by ensuring that mortgage credit markets operate in a responsible manner.
+
+General context
+
+The size of the EU mortgage market is significant: in 2008, outstanding residential mortgage lending in the EU27 amounted to almost EUR 6 trillion, or about 50 % of EU GDP.[5] The EU mortgage market is also of vital importance for the millions of European citizens currently repaying a mortgage and for would-be home owners. Taking out a mortgage is one of the most important financial decisions in a person’s life, entailing a financial commitment potentially lasting decades.
+
+Rising household debt levels exist throughout Europe. However, they are not in themselves a sign of irresponsible lending and borrowing as long as the levels of debt are sustainable and repayments can be met. However, figures show that citizens are having increasing difficulties in meeting their debts. The difficulty in meeting repayments has led to an increase in default rates and a rise in foreclosures. Data can be influenced by factors other than irresponsible lending and borrowing such as the general economic downturn. However, the statistical data combined with qualitative evidence through stakeholders’ contributions and anecdotal evidence from across Europe shows that this is not just a cyclical problem or limited to one or two Member States but can be found throughout the EU.
+
+A range of factors drive the decision to grant a particular mortgage credit, the borrower’s eventual choice of mortgage product and the borrower’s ability to repay the loan. These include the economic climate, information asymmetries and conflicts of interest, regulatory gaps and inconsistencies, as well as other factors such as the borrower’s financial literacy and mortgage financing structures. While these other factors clearly play a role, the fact remains that irresponsible behaviour by certain market actors contributed to a housing bubble and was one of the key features of the financial crisis. It is therefore clear that irresponsible lending and borrowing need to be addressed to avoid a repeat of the conditions that led to the current financial crisis.
+
+Existing provisions in the area of the proposal
+
+Misleading advertising is regulated by Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising[6] which applies to relations between traders, and Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market[7]. These rules do not however take into account the specificities of mortgage credit or address the need for consumers to be able to compare adverts.
+
+Unfair terms in consumer contracts are regulated by Directive 93/13/EEC of the Council of 5 April 1993 concerning unfair terms in consumer contracts[8] and which introduces a notion of 'good faith' in order to prevent significant imbalances in the rights and obligations of consumers on the one hand and sellers and suppliers on the other hand. This general requirement is supplemented by a list of examples of terms that may be regarded as unfair. These rules do not however take into account the specificities of mortgage credit. Pre-contractual information for mortgage loans is the subject of a European Voluntary Code of Conduct on Pre-contractual Information for Home Loans ('the Code') of March 2001[9]. The Code was endorsed by the Commission in Recommendation 2001/193/EC of 1 March 2001 on pre-contractual information to be given to consumers by lenders offering home loans[10]. The objective of the Code was to set out the general information that should be available to the consumer and to agree upon a European Standardised Information Sheet with which consumers could compare home loans both domestically and cross-border. Implementation of the Code is however inconsistent and sub-optimal.
+
+A number of Member States apply selected provisions of Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers (the Consumer Credit Directive)[11] to mortgage credit. That Directive covers consumer credit loans from EUR 200 to EUR 75 000 and regulates advertising, pre-contractual and contractual information, creditworthiness assessments, adequate explanations, as well as disclosure requirements for credit intermediaries. Credits to purchase a property secured by a mortgage or another comparable security or loans for renovation in excess of EUR 75 000 are outside the scope of that Directive.
+
+Credit institutions are regulated and subject to authorisation, registration and supervision requirements under Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions[12]. No such requirements exist at EU level for non-credit institutions providing mortgage credit or for credit intermediaries.
+
+Consistency with the EU’s other policies and objectives of the Union
+
+The objectives of the proposal are consistent with the policies and objectives pursued by the Union. The Treaty provides for action to ensure the establishment and functioning of an internal market with a high level of consumer protection as well as the freedom to provide services. Such a market for residential mortgages is far from completion as several obstacles exist to the free provision of services.
+
+The proposal is furthermore consistent with and complementary to other EU legislation and policies, particularly in the areas of consumer protection and prudential supervision. The Consumer Credit Directive[13] was adopted in 2008 with the aim of enhancing the level of consumer protection and facilitating the integration of the consumer credit market. This proposal complements the Consumer Credit Directive by creating a similar framework for mortgage credit. The proposal largely draws on the conduct of business provisions in the Consumer Credit Directive; however, where appropriate the specific features of mortgage credit have been taken into account, for example by introducing risk warnings in the pre-contractual information provisions and by strengthening creditworthiness assessment provisions. In so doing, the proposal also takes into account the fact that some Member States have already decided to apply certain provisions of the Consumer Credit Directive to mortgage credit. Furthermore, planned or ongoing changes to the prudential and supervisory rules governing the banking sector, for example the changes to capital requirements and rules on securitisation, will have a direct bearing on banks’ lending practices. This proposal complements the work on the supervisory side by focusing on ensuring responsible conduct of business and on ensuring that a regulatory framework is in place for all actors in the lending chain. Together, these initiatives should each contribute to a lower level of credit risk and to greater financial stability.
+
+2. CONSULTATION OF INTERESTED PARTIES AND IMPACT ASSESSMENT
+
+Consultation of interested parties
+
+Consultation methods, main sectors targeted and general profile of respondents
+
+In recent years, the Commission has undertaken a thorough review of EU mortgage markets, culminating in the White Paper on the integration of EU mortgage markets[14]. The White Paper and the extensive consultative work leading up to it form an integral part of the preparatory work for the responsible lending and borrowing initiative.
+
+Against this background and in the wake of the financial crisis, the Commission launched a public consultation to strengthen and deepen its understanding of the issues surrounding responsible lending and borrowing. Commission services also held a number of meetings with Member States, creditors and credit intermediary representatives, trade union representatives, and consumer representatives, throughout the process. The European Parliament and the European Economic and Social Committee have adopted several reports on issues relating to responsible lending and borrowing. The Commission consulted the European Data Protection Supervisor with regard to the protection of consumers’ personal data. The Commission also took note of significant research undertaken in other fora such as the OECD and the World Bank.
+
+Summary of responses and how they have been taken into account
+
+The extensive consultation process has allowed some key messages to be identified. First, the banking industry argues that irresponsible lending does not exist in the EU to the same extent as in the US, so that there is no need for EU intervention. Although the problems in EU mortgage markets have not been as widespread as in the US, similar weaknesses in the regulation of EU markets have been identified, e.g. a lack of effective regulation of certain actors and weaknesses in the regulation of the mortgage marketing and sales processes. Second, consumer representatives support an initiative that will ensure a high level of consumer protection and that could prevent over-indebtedness. They are also supportive of measures that would allow consumers to compare offers and give consumers confidence in the actors with whom they engage. They favour an EU-level proposal that would introduce only minimum standards, leaving Member States free to enhance consumer protection in line with local conditions and culture. Third, given the current small market for cross-border mortgages, some stakeholders argue that it would be more appropriate for measures to be taken at national rather than EU level. Three of the issues for which there was the most consistent cross-stakeholder support for EU action were the obligation to undertake a creditworthiness assessment, the need for clear, comprehensible and comparable pre-contractual information and the need to ensure that all players in the lending market are subject to appropriate regulation and supervision.
+
+The information collected has confirmed that there is a case for EU intervention in the field of responsible mortgage lending and borrowing and has substantially contributed to the prioritisation and design of the Directive.
+
+Collection and use of expertise
+
+The Commission also drew on a series of studies and reports undertaken on issues relating to responsible lending and borrowing, including the study by London Economics on the role and regulation of non-credit institutions in the EU mortgage market (December 2008); the study by Europe Economics on credit intermediaries in the internal market (January 2009); the report of the Expert Group on Credit Histories (June 2009); the report by OPTEM on the consumer testing of a possible new format and content for the European Standardised Information Sheet on home loans (October 2009); and the study by London Economics on the costs and benefits of different policy options for mortgage credit (March 2011).
+
+Impact assessment
+
+The Commission carried out an impact assessment.
+
+The impact assessment identifies a series of problems in EU mortgage markets associated with irresponsible lending and borrowing at the pre-contractual stage and the potential scope for irresponsible behaviour by credit intermediaries and non-credit institutions. These problems are driven by market and regulatory failures as well as other factors such as the general economic climate and low levels of financial literacy. At the pre-contractual stage, the following problems were identified: non-comparable, unbalanced, incomplete and unclear advertising materials; insufficient, untimely, complex, non-comparable and unclear pre-contractual information; inappropriate advice; and inadequate suitability and creditworthiness assessments. Other problems highlighted include ineffective, inconsistent, or non-existent registration, authorisation and supervision regimes for credit intermediaries and non-credit institutions providing mortgage credit. The problems identified have potentially significant macroeconomic spill-over effects, can lead to consumer detriment, act as economic or legal barriers to cross-border activity and create an unlevel playing field between actors.
+
+The impact assessment considers a range of policy options for each problem area including no intervention, principles-based rules, and more detailed or specific rules at EU level. It also assesses the most appropriate instrument for measures, considering self-regulation, a Directive, a Regulation, a Communication and a Recommendation.
+
+The impact assessment concludes that a package of preferred policy options is necessary to ensure responsible lending and borrowing throughout the EU and that the preferred instrument is a Directive.
+
+The impact assessment’s preferred options should result in a substantial improvement in terms of a reduction of consumer detriment. They will improve consumer confidence in creditors, credit intermediaries and mortgage products and will reduce the likelihood of consumers purchasing an unaffordable product, which could potentially lead to overindebtedness, default and eventually foreclosure. The strong positive effect on consumer confidence is also expected to underpin the demand for mortgage credit products and encourage consumer mobility at both national and, albeit to a lesser extent, cross-border level. The implementation of some of the selected options will not lead to significant changes in the operation of market actors on the supply side in a number of Member States, where similar obligations already exist. However, the preferred policy options will have an important impact on the cross-border activity of creditors and credit intermediaries. Implementation of the preferred options will encourage cross-border activity by offering new business opportunities as well as economies of scale and scope. This will have a positive impact both on the market players and for consumers. The entry of foreign credit providers and credit intermediaries should strengthen competition and, thus, translate into a wider range of credit products for the consumer and potentially even a marginal decrease in prices. The preferred policy options will also entail costs for creditors and credit intermediaries. However, these costs will be limited by several factors including the fact that a number of the preferred policy options are already implemented in several Member States, that many of the preferred policy options are already common practice amongst large parts of industry and that substantial synergies are expected between the different policy options. The estimated total benefits of the package of measures are in the range of EUR 1 272–1 931 million. The expected total one-off and ongoing costs are in the range of EUR 383-621 million and of EUR 268-330 million respectively.
+
+The different policy options and their impact on stakeholders are discussed at length in the impact assessment.
+
+3. LEGAL ELEMENTS OF THE PROPOSAL
+
+Legal basis
+
+Article 114 of the Treaty on the functioning of the EU.
+
+Subsidiarity principle
+
+The subsidiarity principle applies insofar as the proposal does not fall under the exclusive competence of the Union.
+
+The objectives of the proposed action cannot be sufficiently achieved by Member States and can therefore, by reason of the scale or effects of the proposed action, be better achieved by the Union, for the following reason(s):
+
+The Treaty provides for action to ensure the establishment and functioning of an internal market with a high level of consumer protection as well as the free provision of services. Such a market for residential mortgages is far from completion as several obstacles exist to the free provision of services and the creation of an internal market. These obstacles restrict the level of cross-border activity on the supply and demand sides, reducing competition. Creditors may be less efficient than they could be and borrowers may face the risk of consumer detriment.
+
+Factors that prevent the pursuit of business or raise the cost of doing business in another Member State relative to the costs faced by domestic providers can be addressed by appropriate EU policy initiatives. Some of the problems identified could raise the cost of mortgage lending for domestic providers or prevent them from doing business. However, the costs of entering into business are exacerbated for creditors seeking to engage in cross-border activity and can deter new market entrants thereby restricting competition.
+
+In a competitive and efficiently functioning single market with a high level of consumer protection, consumers would search for the best product offered for their needs, be it in their own country or in another Member State. EU consumers continue to predominantly shop locally though for their mortgage credits. This can be attributed, inter alia, to a lack of consumer awareness of what exists elsewhere and lack of consumer confidence due to insufficient or bad information, fears about whether legal rights will be upheld, or poor legal protection in the event that something goes wrong.
+
+Financial integration and financial stability are mutually reinforcing objectives which operate at national level but crucially depend on certain tasks that can only be achieved at EU level. As the recent financial crisis illustrated, the effects of irresponsible lending in one country can quickly spread beyond national borders due in part to the multinational presence of certain banking groups and also the international nature of securitised risk. This Directive focuses on the interaction between creditors/intermediaries and citizens. Irresponsible lending and borrowing was one of the factors at the origin of the financial crisis: it greatly contributed to the emergence of the financial turmoil. The proposed provisions should ensure that mortgage credit throughout the EU is undertaken in a responsible manner and that it contributes to promoting EU financial, economic and social stability.
+
+Creating an internal market in mortgage credit with a high level of consumer protection as well as facilitating the provision of services throughout the EU would be fully in line with the Treaty. Action by Member States alone is likely to result in different sets of rules, which may undermine or create new obstacles to the functioning of the internal market as well as create unequal levels of consumer protection throughout the EU. Common standards at the EU level, such as the ones proposed, should promote an efficient and competitive internal market with a high level of consumer protection. Such standards are further essential in order to ensure that the appropriate lessons are learnt from the sub-prime crisis and to ensure that such a financial crisis does not reoccur in the future.
+
+The proposal therefore complies with the subsidiarity principle.
+
+Proportionality principle
+
+The proposal complies with the proportionality principle for the following reason(s):
+
+The proposal does not go beyond what is strictly necessary to achieve its objectives. It does not regulate all aspects of lending and borrowing but focuses on some key aspects of the mortgage credit transaction.
+
+All of the proposed rules have been the subject of a proportionality test and intensive consultation to ensure appropriate and proportionate regulation.
+
+The proposal allows for the later adoption of implementing measures or technical standards, in case specific issues require the development of more detailed technical guidance or clarification.
+
+On 23 September 2009, the Commission adopted proposals for Regulations establishing EBA, EIOPA, and ESMA.[15] In this respect the Commission wishes to recall the Statements in relation to Articles 290 and 291 TFEU it made at the adoption of the Regulations establishing the European Supervisory Authorities according to which: "As regards the process for the adoption of regulatory standards, the Commission emphasises the unique character of the financial services sector, following from the Lamfalussy structure and explicitly recognised in Declaration 39 to the TFEU. However, the Commission has serious doubts whether the restrictions on its role when adopting delegated acts and implementing measures are in line with Articles 290 and 291 TFEU."
+
+Choice of instruments
+
+Proposed instrument: Directive.
+
+Other means would not be adequate for the following reason(s):
+
+Full harmonisation is not always necessary or appropriate: e.g., the structure of housing markets and mortgage markets differs throughout the EU, and the products and remuneration structures also vary. EU intervention needs to be detailed enough to be effective but high level enough to take into account the EU’s diversity. A Directive offers a degree of flexibility in terms of the level of harmonisation. Such targeted provisions can accommodate the diversity that exists in the EU’s mortgage markets.
+
+It is recommended that the legal instrument of a Directive be used for the package of proposed measures.
+
+4. BUDGETARY IMPLICATION
+
+Leaving aside the normal administrative costs linked to ensuring compliance with EU legislation, there will be no budgetary impact since no new committees are created and no financial commitments are made.
+
+5. ADDITIONAL INFORMATION
+
+Review/revision/sunset clause
+
+The proposal includes a review clause.
+
+European Economic Area
+
+The proposed act concerns an EEA matter and should therefore extend to the European Economic Area.
+
+Detailed explanation of the proposal
+
+The following short summary aims to facilitate the decision making process by outlining the main substance of the Directive.
+
+Article 1 (subject matter) states that the Directive focuses on mortgage credit to consumers and on certain prudential and supervisory requirements for creditors and credit intermediaries. As such, the focus of the Directive is on residential rather than commercial property.
+
+Article 2 (scope) sets out the scope of the Directive, which covers credit agreements secured by a mortgage or by another security, loans to purchase a property and certain credit agreements aimed at financing the renovation of a property. The Directive does not preclude the possibility that some Member States may wish to extend the scope to other beneficiaries such as small or medium-sized enterprises or indeed to some commercial property transactions.
+
+Article 3 (definitions) defines the terms used in this Directive. To the greatest extent possible, definitions have been aligned with those in other Union texts in particular Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 which lays down rules at Union level concerning credit agreements for consumers and Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation[16]. However, given the specificities of this Directive, some have been tailored to the needs of this proposal.
+
+Article 4 (competent authorities) requires Member States to designate specific competent authorities to implement the Directive.
+
+Articles 5 (conduct of business obligations when providing credit to consumers) and 6 (minimum competence requirements) stipulate important conditions for both creditors and credit intermediaries in order to ensure a high degree of professionalism in the provision of mortgage credit, such as an obligation to act in the best interests of the consumer and requirements with regard to having appropriate knowledge and competence.
+
+Articles 7 (general provisions applicable to advertising and marketing) and 8 (standard information to be included in advertising) introduce general principles for marketing and advertising communications and set out the form and content of information to be included in advertising. The standard information concerns key features of the credit and, when the credit is secured by a mortgage, a warning as to the consequences for the consumer in the event of non-observance of his commitments linked to the credit agreement. These provisions complement and expand on the obligations of Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council ('Unfair Commercial Practices Directive').
+
+Article 9 (pre-contractual information) creates an obligation for creditors and credit intermediaries to make general information available on the range of credit products at all times. It further introduces an obligation for creditors and, where applicable, credit intermediaries to provide personalised information to the consumer on the basis of a European Standardised Information Sheet. These requirements largely mirror the voluntary obligations set out in the European Voluntary Code of Conduct on Home Loans. The content and layout of the European Standardised Information Sheet, as detailed in Annex II, has, however, been updated to take into account the results of consumer testing in 27 Member States.
+
+Article 10 (information requirements concerning credit intermediaries) requires credit intermediaries to disclose information to consumers concerning their identity, status, and relationship with the creditor, prior to the performance of their services in order to increase transparency of possible conflicts of interest.
+
+Article 11 (adequate explanations) introduces an obligation for creditors and credit intermediaries to give explanations on the proposed credit agreement(s) to the consumer at the pre-contractual stage, determined by the level of the consumer’s knowledge and experience with credit.
+
+Article 12 (calculation of the annual percentage rate of charge) concerns the main indicator used for the comparison of mortgage credit products. It requires, for mortgage credit products, the use of the definition of the annual percentage rate of charge (APRC) used in Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 which lays down rules at Union level concerning consumer credit agreements. Details of the APRC calculation method are given in Annex I and provisions for amending the methodology are laid down in order to be able to take market developments into account.
+
+Article 13 (information concerning the borrowing rate) provides for information to be delivered to the consumer in the event of changes to the borrowing rate.
+
+Article 14 (obligation to assess the creditworthiness of the consumer) requires the creditor to assess the consumer’s ability to repay the credit, taking into account the consumer’s personal circumstances and based on sufficient information. It also introduces a duty for the creditor to refuse to grant the credit where the results of the creditworthiness assessment are negative.
+
+Articles 15 (disclosure obligation on the part of the consumer) introduces the requirement for 'responsible borrowing', namely that the borrower must provide all necessary and correct information to enable the creditworthiness assessment to be carried out.
+
+Article 16 (database access) introduces provisions to ensure that creditors are able to access information from relevant databases on a non-discriminatory basis.
+
+Article 17 (advice standards) establishes standards to ensure that, where advice is given, it is clear to the borrower that advice is being provided, without introducing any obligation to provide advice. It introduces a requirement that a sufficient number of credit agreements on the market be considered and that advice be given in line with the profile of the borrower.
+
+Article 18 (early repayment) requires Member States to ensure that consumers have a right to repay their credit before the expiry of the credit agreement, giving freedom to Member States to set conditions on the exercise of that right, provided that such conditions are not excessively onerous.
+
+Articles 19 to 22 (on the authorisation, registration and supervision of credit intermediaries) establish the principles for a regulatory and supervisory framework for credit intermediaries. This framework provides for the authorisation and registration of credit intermediaries, subject to compliance with certain requirements on entry into the business and on an ongoing basis, and for the establishment of a passport regime. The requirements apply to all credit intermediaries, whether they are tied or not in order to ensure a high degree of professionalism in the industry.
+
+Article 23 (authorisation, registration and supervision of non-credit institutions) stipulates that non-credit institutions must be subject to adequate authorisation, registration and supervision. This should ensure that all creditors, whether they are a credit institution or not, are adequately regulated and supervised.
+
+Article 24 (penalties) requires Member States to ensure that appropriate administrative measures or sanctions can be taken in the case of non-compliance with the Directive.
+
+Article 25 (dispute resolution mechanisms) requires Member States to establish out-of-court redress bodies for the resolution of disputes between creditors and consumers and between credit intermediaries and consumers.
+
+Articles 26 to 28 (delegated acts) sets out the procedures to be followed to allow certain elements of the Directive to be adapted, specified or updated.
+
+Article 29 (imperative nature of this Directive) and Article 30 (transposition) stipulate respectively that the Directive should be implemented by Member States and how it should be implemented.
+
+Article 31 (review clause) provides for a review of the appropriateness and effectiveness of the Directive in meeting its objectives after five years.
+
+2011/0062 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on credit agreements relating to residential property (Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+
+Having regard to the proposal from the European Commission[17],
+
+After transmission of the draft legislative act to the national Parliaments[18],
+
+Having regard to the opinion of the European Economic and Social Committee[19],
+
+Having regard to the opinion of the Committee of the Regions[20],
+
+Having regard to the opinion of the European Central Bank[21],
+
+After having consulted the European Data Protection Supervisor[22],
+
+Acting in accordance with the ordinary legislative procedure[23],
+
+Whereas:
+
+1.  In March 2003, the Commission launched a process to identify and assess the impact of barriers to the internal market for credit agreements relating to residential immovable property. In 2007, it adopted a White Paper on the integration of EU mortgage credit markets[24]. The White Paper announced the Commission’s intention to assess the impact of, among other things, the policy options for pre-contractual information, credit databases, creditworthiness, the annual percentage rate of charge and advice. The Commission also established an Expert Group on Credit Histories to assist the Commission in preparing measures to improve the accessibility, comparability and completeness of credit data. Studies on the role and operations of credit intermediaries and non-credit institutions providing credit agreements relating to residential immovable property were also launched.
+
+2.  In accordance with the Treaty, the internal market comprises an area without internal frontiers in which the free movement of goods and services and the freedom of establishment are ensured. The development of a more transparent and efficient credit market within that area is vital to promote the development of cross-border activity and create an internal market in credit agreements relating to residential immovable property. There are substantial differences in the laws of the various Member States with regard to conduct of business in the granting of credit agreements relating to residential immovable property and in the regulation and supervision of credit intermediaries and non-credit institutions providing credit agreements relating to residential immovable property. Such differences create obstacles that restrict the level of cross-border activity on the supply and demand sides, thus reducing competition and choice in the market, raising the cost of lending for providers and even preventing them from doing business.
+
+(3) The financial crisis has shown that irresponsible behaviour by market participants can undermine the foundations of the financial system, leading to a lack of confidence among all parties, in particular consumers, and potentially severe social and economic consequences. Many consumers have lost confidence in the financial sector and borrowers have found their loans increasingly unaffordable, with defaults and forced sales rising. As a result, the G20 has commissioned work from the Financial Stability Board to establish principles on sound underwriting standards in relation to residential immovable property. Although some of the greatest problems in the crisis occurred outside the Union, consumers in the Union hold significant levels of debt, much of which is concentrated in loans related to residential immovable property. It is therefore appropriate to ensure that the Union's regulatory framework in this area is robust, consistent with international principles and makes appropriate use of the range of tools available, including loan-to-value, loan-to-income, debt-to-income and similar ratios. This is important in the context of efforts to ensure an efficient and competitive internal market which ensures financial stability, responsible markets and consumer confidence , in line with the commitment in the Commission's Communication entitled 'Single Market Act: Twelve levers to boost growth and strengthen confidence'1.
+
+(4) The Commission identified a series of problems in mortgage markets within the Union associated with irresponsible lending and borrowing and the potential scope for irresponsible behaviour by market participants including credit intermediaries and non-credit institutions have been identified. Some problems concerned loans denominated in a foreign currency which consumers had taken out in that currency to take advantage of the interest rate offered but without having adequate information about or understanding of the currency risk involved. These problems are driven by market and regulatory failures as well as other factors such as the general economic climate and low levels of financial literacy. Other problems include ineffective, inconsistent, or non‑existent registration, authorisation and supervision regimes for credit intermediaries and non-credit institutions providing credit for residential immovable property. The problems identified have potentially significant macroeconomic spill-over effects, can lead to consumer detriment, act as economic or legal barriers to cross-border activity and create an unlevel playing field between actors.
+
+(5) In order to facilitate the emergence of a smoothly functioning internal market with a high level of consumer protection in the area of credit agreements relating to residential immovable property, an appropriately harmonised Union framework needs to be established in a number of areas, taking account of national and regional differences in the market for residential immovable property and hence for the associated credit and related services.
+
+(5a) This Directive should therefore develop a more transparent, efficient and competitive internal market, through consistent, flexible and fair credit agreements relating to residential immovable property, while promoting sustainable lending and borrowing and financial inclusion and hence providing a high degree of consumer protection.
+
+(6) This Directive should improve conditions for the establishment and functioning of the internal market through the approximation of Member States’ laws and the establishment of quality standards for certain services, notably with regard to the distribution and provision of credit through creditors and credit intermediaries, and the promotion of good practices. The establishment of quality standards for services for the provision of credit necessarily involves the introduction of provisions regarding authorisation and prudential requirements.
+
+(7) For those areas not covered by this Directive, Member States should be free to maintain or introduce national legislation. In particular, Member States should be able to maintain or introduce national provisions in areas such as contract law relating to the validity of credit agreements, property law, land registration, contractual information, and post-contractual issues not regulated here.
+
+(8) As consumers and enterprises are not in the same position, they do not need the same level of protection. While it is important to guarantee consumers’ rights by provisions that cannot be derogated from by contract, it is reasonable to let enterprises and organisations engage in other agreements.
+
+
+
+9.  The objective of this Directive is to ensure that all credits provided to consumers benefit from a high level of protection. It should therefore apply to credits secured by real estate, or credits which are used to purchase a property in some Member States and to credits for the renovation of residential property that are not covered by Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC[27] which lays down rules at Union level concerning consumer credit agreements. Furthermore, this Directive should not be applied to certain types of credit agreements where the credit is granted by an employer to his employees under certain circumstances, as already provided in Directive 2008/48/EC.
+
+(10) This Directive should not apply to certain credit agreements where the creditor contributes a lump sum, periodic payments or other forms of credit disbursement in return for a sum deriving from the sale of a residential immovable property and whose primary objective is to facilitate consumption, such as equity release products or other equivalent specialised products. Such credit agreements have specific characteristics which are beyond the scope of this Directive. An assessment of the borrower’s creditworthiness, for example, is irrelevant since the payments are made from the creditor to the borrower rather than the other way round. Such a transaction would also require, amongst other things, substantially different pre-contractual information. Furthermore, other products, such as home reversions, which have comparable functions to reverse mortgages or lifetime mortgages do not involve the provision of credit and so would remain outside the scope of this Directive. However this Directive should apply to those secured loans whose primary objective is to facilitate the purchase of an immovable property, including those loans that do not require the reimbursement of the capital or those whose purpose is to provide temporary financing between the sale of one immovable property and the purchase of another.
+
+(10a) It is also appropriate to allow Member States under certain conditions to exclude certain other credit agreements, such as those which are granted to a restricted public on advantageous terms or which are provided by credit unions, in order to provide an appropriate balance between the needs of financial stability and the single market on one hand and financial inclusion and access to credit on the other.
+
+(11) For reasons of legal certainty, the Union framework in the area of credit agreements relating to residential immovable property should be consistent with and complementary to other Union acts, particularly in the areas of consumer protection and prudential supervision. Certain essential definitions should be in line with those in Directive 2008/48/EC so that the same terminology refers to the same type of facts irrespective of whether the credit is a consumer credit or a credit relating to residential immovable property. Member States should therefore ensure in the transposition of this Directive that there is an appropriate consistency of application and interpretation.
+
+11a. The definition of a 'credit intermediary' should not cover the mere referral of a consumer to a credit intermediary or creditor, if the person does not otherwise carry out the activities listed in the definition.
+
+(12) In order to ensure a consistent framework for consumers in the area of credit as well as to minimise the administrative burden for creditors and credit intermediaries, the core framework of this Directive should follow the structure of Directive 2008/48/EC as far as possible, notably the notions that information included in advertising concerning credit agreements relating to residential immovable property should be provided to the consumer by means of a representative example, that detailed pre-contractual information should be given to him by means of a standardised information sheet, that the consumer should receive adequate explanations before the conclusion of the credit agreement, that the basis for calculating the cost of credit should be harmonised and should exclude notary fees, and that creditors should assess the consumer’s creditworthiness before the provision of a loan. Similarly, non-discriminatory access for creditors to relevant credit databases should also be ensured in order to achieve a level playing field with the provisions as guaranteed by Directive 2008/48/EC. Similarly to Directive 2008/48/EC, this Directive should ensure the appropriate authorisation, registration and supervision of all creditors providing credit agreements relating to residential immovable property and should introduce requirements for the establishment of, and access to, out-of-court dispute resolution mechanisms.
+
+(13) This Directive should supplement Directive 2002/65/EC of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive 90/619/EEC and Directives 97/7/EC and 98/27/EC which requires that in distance sales a consumer be informed of the existence or absence of a right of withdrawal and foresees a right of withdrawal. However, while Directive 2002/65/EC foresees the possibility for the supplier to communicate pre-contractual information after the conclusion of the contract, this would be inappropriate for contracts for credit agreements relating to residential immovable property given the significance of the financial commitment for the consumer. Furthermore, in addition to their rights under this Directive, as foreseen in Directive 85/577/EEC of 20 December 1985 to protect the consumer in respect of contracts negotiated away from business premises (Doorstep Selling Directive), consumers should have a right of withdrawal for credit agreements relating to residential immovable property concluded off-premises and should be informed about the existence of that right.
+
+
+(14) At the same time, it is important to take into consideration the specificities of credit agreements relating to residential immovable property which justify a differentiated approach. Given the nature and the possible consequences of a credit agreement relating to residential immovable property for the consumer, advertising materials and personalised pre-contractual information should include adequate specific risk warnings, for instance about the nature and implications of taking out a security. Following what already existed as a voluntary approach by the industry concerning home loans, general pre-contractual information should be made available at all times in addition to the personalised pre-contractual information. Furthermore, a differentiated approach is justifiable in order to take into consideration the lessons learnt from the financial crisis in order to ensure that loan origination takes place in a sound manner. In this respect, the provisions on the creditworthiness assessment should be strengthened in comparison to consumer credit, more precise information should be provided by credit intermediaries on their status and relationship with the creditors in order to disclose potential conflicts of interest, and all actors involved in the origination of credit agreements relating to residential immovable property should be adequately authorised, registered and supervised.
+
+(14a) It is also necessary to regulate some additional areas to reflect the specificity of loans related to residential immovable property. Given the significance of the transaction it is necessary to ensure that consumers have adequate time for reflection before committing themselves to taking out a loan. It is also important to prevent practices which may induce consumers to enter into a credit agreement which is not in their best interests, such as tying of certain products, without restricting product bundling which can benefit consumers. It is also important to ensure that the residential immovable property is appropriately valued before the conclusion of the credit agreement and, where the valuation affects the residual obligation of the consumer, on default. It is also appropriate to regulate the handling of arrears and defaults. Member States should be permitted to maintain or introduce requirements in relation to the process to be followed in relation to arrears and foreclosure or the options which must be pursued prior to initiating foreclosure proceedings in relation to a property situated in their territory.
+
+(15) Intermediaries often engage in more activities that just credit intermediation, in particular insurance intermediation or investment services provision. This Directive should therefore also ensure a degree of coherence with Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation and Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC. In particular, credit institutions and insurance intermediaries should not require a separate authorisation to operate as a credit intermediary in order to simplify the process of establishing as a credit intermediary and operating cross-border.
+
+(15a) In order to increase the ability of consumers to make informed decisions for themselves about borrowing and managing debt responsibly, Member States should work with stakeholders to facilitate and promote the education of consumers in those areas. Member States should in particular ensure that assistance is available for vulnerable and less experienced consumers, such as first-time buyers.
+
+(16) The applicable legal framework should give consumers the confidence that creditors and credit intermediaries are acting in the interests of the consumer. A key aspect of ensuring such consumer confidence is the requirement to ensure a high degree of fairness, honesty and professionalism in the industry, appropriate management of conflicts of interest including those arising from remuneration, and to require advice to be given in the best interests of the consumer. While this Directive should require relevant knowledge and competence to be proven at the level of the institution, Member States should be free to introduce or maintain such requirements applicable to individual natural persons.
+
+(17) Creditors and credit intermediaries frequently use advertisements, often featuring special terms and conditions, to attract consumers to a particular product. Consumers should, therefore, be protected against unfair or misleading advertising practices and should be able to compare advertisements. Specific final provisions on the advertising of credit agreements relating to residential immovable property and credit agreements secured by mortgages, and a list of items to be included in advertisements and marketing materials directed at consumers where such advertising specifies interest rates and costs, are necessary to enable them to compare different offers. Except for those specific final provisions, Member States should remain free to provide for information requirements in their national laws. Such provisions should take into account the specificities of credit agreements relating to residential immovable property.
+
+(18) Advertising tends to focus on one or several products in particular, while consumers should be able to make their decisions in full knowledge of the range of credit products on offer. In this respect, general information plays an important role in educating the consumer in the broad range of products and services available from a particular creditor or credit intermediary and the key features thereof. Consumers should therefore be able at all times to access general information on the credit products available.
+
+(18a) Consumers should further receive personalised information in good time prior to the conclusion of the credit agreement in order to enable them to compare and reflect on the characteristics of credit products. In accordance with the Commission Recommendation 2001/193/EC on pre-contractual information to be given to consumers by lenders offering home loans1, the Commission monitored the European Standardised Information Sheet (ESIS) which provides information, personalised for the borrower, on the credit agreement being provided. Evidence collected by the Commission highlighted the need to revise the content and presentation of the ESIS to ensure that it is clear, understandable and contains all information found to be relevant for consumers. The content and layout of the ESIS should incorporate the necessary improvements identified during consumer testing in all Member States. The structure of the sheet, in particular, the order of the information items, should be revised, the wording should be more user-friendly, while sections, such as 'nominal rate' and 'annual percentage rate of charge', should be merged and new sections, such as 'risks and warnings', should be added.
+
+(18b) In order to allow the consumer to compare an offer with other offers, obtain third party advice if necessary, assess its implications and take an informed decision on whether to accept the offer regardless of the means of conclusion of the contract, it is necessary to provide for a minimum period of reflection for consumers. Where consumers conclude a credit agreement before the end of the reflection period a right of withdrawal should be provided. However, in order to accommodate the specificities of property transactions in Member States and the potential close link between the credit agreement and an associated property transaction, Member States should be able to provide that the right of withdrawal ceases to apply where the consumer undertakes any action, whether through a notary or otherwise, which under national law results in the transfer of a right in a property connected to or using funds obtained under the credit agreement.
+
+19.  In order to ensure a level playing field and in order for the consumer’s decision to be based on the details of the credit products on offer rather than on the distribution channel through which such credit products are accessed, consumers should receive information on the credit regardless of whether they are dealing directly with a creditor or a credit intermediary.
+
+21.  In order to ensure the fullest possible transparency and to prevent abuses arising from possible conflicts of interest when consumers use the services of credit intermediaries, the latter should be subject to certain information disclosure obligations prior to the performance of their services. Such disclosures should include information on their identity and links with creditors, for instance whether they are considering products from a broad range of creditors or only from a more limited number of creditors. Those credit intermediaries that are not tied to one creditor or one group of creditors should further disclose to consumers information on the existence of commissions payable by creditors for whom they are acting and the possible variations within those commissions.
+
+(22) The consumer may still need additional assistance in order to decide which credit agreement, within the range of products proposed, is the most appropriate for his needs and financial situation. Creditors, and where the transaction is through a credit intermediary, credit intermediaries should provide assistance in relation to the credit products which they offer to the consumer by explaining the relevant information including the essential characteristics of the products proposed to the consumer in a personalised manner so that the consumer can understand the effects which they may have on his economic situation. Member States could determine when and to what extent such explanations are to be given to the consumer, taking into account the particular circumstances in which the credit is offered, the consumer’s need for assistance and the nature of individual credit products. Such explanation and provision of personalised information should not necessarily constitute a personal recommendation.
+
+(23) In order to promote the establishment and functioning of the internal market and to ensure a high degree of protection for consumers throughout the Union, it is necessary to uniformly ensure the comparability of information relating to annual percentage rates of charge throughout the Union. The total cost of the credit to the consumer should comprise all the costs that the consumer has to pay in connection with the credit agreement, except for registration fees and notarial costs. It should therefore include interest, commissions, taxes, fees for credit intermediaries and any other fees as well as the cost of insurance the valuation of the property or other ancillary products, where these are obligatory in order to obtain the credit on the terms and conditions marketed. As the annual percentage rate of charge can at the pre-contractual stage be indicated only through an example, such an example should be representative. Therefore, it should correspond, for instance, to the average duration and total amount of credit granted for the type of credit agreement under consideration. Given the complexities of calculating an annual percentage rate of charge (for instance, for credits based on variable interest rates or non-standard amortisation) and in order to be able to accommodate product innovation, delegated acts could be used to amend the remarks or update the assumptions. The definition of and methodology used for calculating the annual percentage rate of charge in this Directive should be as close as possible to those in Directive 2008/48/EC in order to facilitate consumer understanding and comparison. Those definitions and methodologies may, however, differ in the future should Directive 2008/48/EC be modified at a later date. Member States are free to maintain or introduce prohibitions on unilateral changes to the borrowing rate by the creditor.
+
+(24) It is essential that the consumer's ability and propensity to repay the credit is assessed and verified before a credit agreement is concluded. The assessment of creditworthiness should take into consideration all relevant factors over the lifetime of the loan. In particular, the consumer's ability to service and fully repay the loan should include consideration of future payments needed due to negative amortisation or deferred payments of principal or interest, should not assume any appreciation in value unless the purpose of the credit agreement is to construct or renovate the immovable property and should be considered in the light of other expenditure and debts as well as savings and assets. Reasonable allowances should also be made for future events, such as a reduction in income where the loan term lasts into retirement or, where applicable, an increase in the interest rate or negative change to the exchange rate. Member States may issue additional guidance on those or additional criteria and on methods to assess a consumer’s creditworthiness, for example by setting limits on loan-to-value or loan-to-income ratios. The creditor's decision as to whether to grant the credit should be consistent with the outcome of the creditworthiness assessment. However, a positive creditworthiness assessment should not constitute an obligation for the creditor to provide credit.
+
+(26) In line with the recommendations of the Financial Stability Board, creditors should require consumers to provide relevant information on their income and financial situation in order to facilitate the creditworthiness assessment, since failure to do so will result in refusal of the credit they seek to obtain and the creditor should appropriately verify such information before granting the loan. In situations where consumers knowingly provide incomplete or inaccurate information, Member States should be able to determine the appropriate penalties.
+
+	
+(26a) The Financial Stability Board has established principles to ensure that residential immovable property is appropriately valued. Member States should ensure that creditors value properties in accordance with those principles or other internationally accepted standards and that a register exists of professionally competent appraisers. It should be possible for that register to be operated by an appropriate professional association.
+
+(27) Consultation of a credit database is a useful element in the assessment of creditworthiness. Some Member States require creditors to assess the creditworthiness of consumers on the basis of a consultation of the relevant database. Creditors should also be able to consult the credit database over the lifetime of the loan in order to identify and assess the potential for default. Pursuant to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data, consumers should be informed by creditors of the consultation of the credit database prior to its consultation, and should have the right to access the information held on them in such a credit database in order to, where necessary, rectify, erase or block the personal data concerning them processed therein where it is inaccurate or has been unlawfully processed.
+
+
+(29) Where a decision to reject an application for credit is based on data obtained through the consultation of a database or the lack of data therein, the creditor should inform the consumer thereof, of the name of the database consulted and of any other elements required by Directive 95/46/EC so as to enable the consumer to exercise his right to access and, where necessary, rectify, erase or block personal data concerning him and processed therein. However, the creditor should not be required to give such information when to do so would be prohibited by other Union legislation such as legislation on money laundering or the financing of terrorism. Neither should such information be provided where to do so would be contrary to the objectives of public policy or public security such as the prevention, investigation, detection or prosecution of criminal offences.
+
+
+
+30.  This Directive addresses the use of personal data in the context of the assessment of the consumer’s creditworthiness. In order to ensure the protection of personal data, Directive 95/46/EC applies to the data processing activities carried out within the context of such assessments.
+
+(30a) To prevent any distortion of competition among creditors, it should be ensured that all creditors, including credit institutions or non-credit institutions providing credit agreements relating to residential immovable property, have access to all public and private credit databases concerning consumers under non-discriminatory conditions. Such conditions should not therefore include a requirement to be established as a credit institution. Access conditions, such as the costs of access or requirements for any request for information to be based upon a request for credit would continue to apply. Member States should be free to determine whether, within their jurisdictions, credit intermediaries may also have access to such databases.
+
+(31) Providing advice in the form of a personalised recommendation is a distinct activity which may but need not be combined with other aspects of granting or intermediating credit. In order to be in a position to understand the nature of the service, consumers should be made aware of when advice is being provided and when it is not. Those providing advice should comply with certain standards in order to ensure that the consumer is presented with products suitable for his needs and circumstances. Advisers should also disclose whether they are advising on a wide range of products from across the market or only on the creditor's or credit intermediary's own product range. Advisers should be able to specialise in certain 'niche' products such as bridging finance and advise on a wide range of products within that specialist niche provided that is made clear to the consumer. Where advice is given it should be based on an understanding of the consumer's financial situation, preferences and objectives based on up-to-date information and reasonable assumptions about the consumer's circumstances during the lifetime of the loan. Member States may clarify how the suitability of a given product for a consumer should be assessed in the context of the provision of advisory services.
+
+(32) In line with the recommendations of the Financial Stability Board, given the long term nature of many loans related to residential property, some flexibility during the lifetime of the credit agreement is needed to enable both creditors and consumers to manage risks and changing circumstances to which they are exposed during the loan. It is therefore appropriate that consumers should have a right to fully or partially repay the credit agreement early as this encourages responsible borrowing and hence financial stability as well as competition in the single market. However, creditors should be entitled to fair and objectively justified compensation for the costs directly linked to the early repayment, taking into account also any savings thereby made by the creditor. Such compensation may be recovered in the form of a specific charge to cover possible costs for consumers who exercise the right to repay early or it may be recovered by absorbing the cost into the total cost of the credit agreement. Member States should be able to ensure that justified costs do not exceed a level compatible with market efficiency. Where the early repayment falls within a period for which the borrowing rate is fixed, exercise of the right may be made subject to the existence of a special interest on the part of the consumer specified by the Member State. Such special interest may for example occur in case of divorce or unemployment. Where a Member State chooses to lay down such conditions, these should not make the exercise of the right excessively difficult or onerous for the consumer. It is also therefore appropriate to make provision for flexibility under certain conditions where credit agreements are denominated in a foreign currency, provided that the creditor is again entitled to fair and objectively justified compensation for possible costs directly linked to the exercise by consumers of the rights provided by the Directive.
+
+(32a) It is also important to ensure that sufficient transparency exists to provide clarity on the nature of the commitments made in the interests of preserving financial stability. Member States should therefore develop frameworks to allow for flexibility, for example by accepting another property as equivalent collateral for the loan. Those measures should enable creditors to accept as equivalent collateral property located in another Member State where it is considered as equivalent for the purposes of being pooled in financial instruments traded in secondary markets.
+
+33.  Although credit intermediaries play a central role in the distribution of credit agreements relating to residential immovable property in the Union, substantial differences remain between national provisions on the conduct of business and supervision of credit intermediaries which create barriers to the taking-up and pursuit of the activities of credit intermediaries in the internal market. The inability of credit intermediaries to operate freely throughout the Union hinders the proper functioning of the single market in credit agreements relating to residential immovable property. While recognising the diversity in the types of actor involved in credit intermediation, certain standards at Union level are essential in order to ensure a high level of professionalism and service.
+
+(34) Credit intermediaries should be authorised and supervised to ensure that they meet strict professional requirements in relation to their competence, good repute, and professional indemnity cover. Authorised credit intermediaries should also be registered. Such requirements should apply at least at the level of the institution; however, Member States may clarify whether such requirements for authorisation and subsequent registration apply to individual employees within the credit intermediary. It is also appropriate to allow credit intermediaries to appoint representatives to act on their behalf and under their responsibility and for the minimum regulatory requirements for such appointed representatives to be established in this Directive.
+
+
+
+35.  Such registration and authorisation requirements should allow credit intermediaries to operate in other Member States in accordance with the principles of freedom of establishment and freedom to provide services, provided that an appropriate notification procedure has been followed between the competent authorities. Even in cases where Member States decide to register and authorise all individual staff within the credit intermediary, the notification of the intention to provide services should be on the basis of the credit intermediary rather than the individual employee.
+
+(35a) In order to facilitate the ability of credit intermediaries to provide their services on a cross-border basis, for the purposes of cooperation, information exchange and dispute resolution between competent authorities, the competent authorities responsible for the authorisation and supervision of credit intermediaries should be those acting under the auspices of the EBA, as set out in Article 4(2) of Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority) or other national authorities which are required to cooperate with such competent authorities.
+
+
+
+36.  In order to ensure a level playing field between creditors and promote financial stability, and pending further harmonisation, Member States should ensure that appropriate measures are in place for the authorisation, registration and supervision of non-credit institutions providing credit agreements relating to residential immovable property. Detailed conditions should not be laid down in this Directive for the authorisation, registration or supervision of creditors providing such credit agreements and that are not credit institutions as defined in Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions[34] for reasons of proportionality; the number of such institutions operating in the EU at present is limited as is their market share and the number of Member States in which they are active, particularly since the financial crisis. Nor should the introduction of a 'passport' for such institutions be provided for in this Directive for the same reason.
+
+37.  Member States should lay down rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and ensure that they are implemented. While the choice of penalties remains within the discretion of Member States, the penalties provided for should be effective, proportionate and dissuasive.
+
+38.  Consumers should have access to out-of-court complaint and redress procedures for the settlement of disputes arising from the rights and obligations set out in this Directive between providers of credit agreements relating to residential immovable property and consumers as well as between credit intermediaries and consumers.
+
+(39) In order to ensure consistent harmonisation and to take account of developments in the markets for credit relating to residential immovable property or in the evolution of credit products or in economic conditions, the power to adopt delegated acts in accordance with Article 290 of the Treaty on the Functioning of the European Union should be delegated to the Commission. In particular, the Commission should be empowered to adopt delegated acts to supplement and update the content and presentation of the ESIS and to amend the remarks or update the assumptions used to calculate the APRC. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level. The Commission, when preparing and drawing up delegated acts, should ensure a simultaneous, timely and appropriate transmission of relevant documents to the European Parliament and Council.
+
+(43) The European Parliament and the Council should have three months from the date of notification to object to a delegated act. At the initiative of the European Parliament or the Council, it should be possible to prolong that period by three months with regard to significant areas of concern. It should also be possible for the European Parliament and the Council to inform the other institutions of their intention not to raise objections.
+
+(44) The efficient functioning of this Directive will need to be reviewed, as will progress on the establishment of an internal market with a high level of consumer protection for credit agreements relating to residential immovable property. The Commission should therefore review the Directive five years after the deadline for its transposition. The review should include, among other things, an assessment of compliance with and the impact of this Directive, an analysis of the provision of credit agreements by non-credit institutions and an assessment on the need for further measures, including a passport for such non-credit institutions, an assessment of whether the scope remains appropriate and of whether additional measures are necessary to ensure the traceability of credit agreements secured against residential immovable property.
+
+45.  Action by Member States alone is likely to result in different sets of rules, which may undermine or create new obstacles to the functioning of the internal market. Since an efficient and competitive internal market in credit agreements relating to residential immovable property with a high level of consumer protection cannot be sufficiently achieved by Member States and can therefore by reason of the effectiveness of the action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+
+(46) In accordance with point 34 of the Interinstitutional Agreement on better law‑making, Member States should draw up tables illustrating the correlation between this Directive and the transposition measures and make them public,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Chapter 1 Subject matter, scope , definitions and competent authorities
+
+Article 1 Subject matter
+
+1. This Directive lays down a framework for certain aspects of the laws, regulations and administrative provisions of the Member States concerning credit agreements concluded with consumers relating to consumer credit agreements secured by a mortgage or otherwise relating to residential immovable property for consumers and for associated prudential and supervisory requirements.
+
+ 
+
+2. This Directive establishes an appropriately harmonised Union framework through, in particular, a common, consistent Union standard for the calculation of the annual percentage rate of charge, the provision of pre-contractual information through a standardised European Standardised Information Sheet and the obligation to undertake an assessment of creditworthiness in relation to credit agreements. In other areas of the Directive a framework of common minimum standards is established.
+
+Article 2Scope
+
+1. This Directive shall apply to :
+
+(a) Credit agreements which are secured either by a mortgage or by another comparable security commonly used in a Member State on residential immovable property or secured by a right related to residential immovable property.
+
+(b) Credit agreements the purpose of which is to acquire or retain property rights in land or in an existing or projected residential building.
+
+(c) Credit agreements the purpose of which is the renovation of the residential immovable property a consumer owns or aims to acquire.
+
+ 
+
+1a. Member States which have already applied Directive 2008/48/EC in full to credit agreements within the scope of point (c) of paragraph 1 may continue to apply that Directive to such loans where they do not fall within the scope of point (a) of paragraph 1 for a period of five years after ...*.
+
+ 
+
+Member States which before ...* have implemented an information sheet that meets at least the same information requirements as those set out in Annex II may continue to use it for the purposes of Article 9a on pre-contractual information for a period of five years after ...*.
+
+2. This Directive shall not apply to:
+
+(a) Credit agreements where the creditor contributes a lump sum, periodic payments or other forms of credit disbursement in return for a sum deriving from the sale of a residential immovable property or a right relating to residential immovable property; and will not seek full repayment of the credit until the occurrence of one or more specified life events defined by Member States, unless a breach of contractual obligations that allows the creditor to terminate the credit agreement occurs;
+
+(b) Credit agreements where the credit is granted by an employer to his employees as a secondary activity where such a credit agreement is offered free of interest or at annual percentage rates of charge lower than those prevailing on the market and not offered to the public generally.
+
+
+(ba) Credit agreements to defer credit agreements for a period of no more than six months, where the borrowing rate for the deferral does not exceed the rate in the credit agreement, where the consumer agrees to be exempted from this Directive;
+
+ 
+
+(bb) Credit agreements in the form of overdraft facilities where the consumer agrees to be exempted from the provisions of this Directive;
+
+ 
+
+(bc) Credit agreements where the credit is granted free of interest and without any other charges and credit agreements under the terms of which the credit has to be repaid within three months and only insignificant charges are payable;
+
+ 
+
+(bd) Credit agreements which are the outcome of a settlement reached in court or before another statutory authority.
+
+ 
+
+2a. Member States may:
+
+ 
+
+(a) waive the provisions of Articles 7 to 9a, Article 11 and Annex II for credit agreements of a total value exceeding EUR 2 million.
+
+ 
+
+(b) decide that some or all of the Articles of this Directive do not apply to credit agreements where the property is not to be occupied as a dwelling by the consumer or a related person, where the consumer agrees to be exempted from the provisions of this Directive;
+
+ 
+
+(c) decide that some or all of the Articles of this Directive do not apply to credit agreements where the credit is due to be repaid within 12 months, where the consumer accepts to be exempted from the provisions of this Directive;
+
+ 
+
+(d) decide that some or all of the Articles of this Directive do not apply to credit agreements which relate to the deferred payment, free of charge, of an existing debt, where the consumer agrees to be exempted from this Directive.
+
+ 
+
+2b. Member States may exclude the following from this Directive provided that an equivalent framework is in place to ensure that consumers receive timely and complete information about credit agreements:
+
+ 
+
+(a) credit agreements which relate to loans granted to a restricted public under a statutory provision with a general interest purpose, free of interest or at lower interest rates than those prevailing on the market or on other terms which are more favourable to the consumer than those prevailing on the market and at interest rates not higher than those prevailing on the market;
+
+ 
+
+(b) credit agreements where the creditor is an organisation within the scope of Article 2(5) of Directive 2008/48/EC.
+
+Article 3Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(a) 'Consumer' means a consumer as defined in Article 3(a) of Directive 2008/48/EC.
+
+(b) 'Creditor' means a natural or legal person who grants or promises to grant credit within the meaning of Article 2 in the course of his trade, business or profession.
+
+(c) 'Credit agreement' means an agreement whereby a creditor, directly or through a credit intermediary, grants or promises to grant, to a consumer, a credit within the meaning of Article 2 in the form of a deferred payment, loan or other similar financial accommodation.
+
+(d) 'Ancillary service' means a service offered to the consumer by the creditor or credit intermediary in conjunction with the credit agreement.
+
+(e) 'Credit intermediary' means a natural or legal person who is not acting as a creditor or notary and who, in the course of his trade, business or profession, for remuneration, which may take a pecuniary form or any other agreed form of financial consideration:
+
+(i) presents or offers credit agreements to consumers;
+
+(ii) assists consumers by undertaking preparatory work and/or administration in respect of credit agreements other than as referred to in point (i);
+
+(iii) concludes credit agreements with consumers on behalf of the creditor; or
+
+(iiia) provides advisory services.
+
+(f) 'Tied credit intermediary' means any credit intermediary who acts on behalf of and under the full responsibility of one or more creditors or groups.
+
+(g) 'Group' means, for the purpose of this Directive, creditors which are joined for the purposes of consolidated accounts, as defined in Directive 83/349/EEC[37].
+
+(h) 'Credit institution' means credit institution as defined in Article 4(1) of Directive 2006/48/EC.
+
+(i) 'Non-credit institution' means any creditor that is not a credit institution.
+
+(j) 'Staff' means:
+
+ 
+
+(i) any natural person working for the creditor, credit intermediary or appointed representative who is engaged or has contacts with consumers in the activities covered by this Directive; or
+
+ 
+
+(ii). any natural person directly managing and/or supervising the natural persons referred to in point (i).
+
+(k) 'Total cost of the credit to the consumer' means the total cost of the credit to the consumer as defined in Article 3(g) of Directive 2008/48/EC including valuation of property but excluding registration fees for the mortgage or another comparable security.
+
+(l) 'Total amount payable by the consumer' means the total amount payable by the consumer as defined in Article 3(h) of Directive 2008/48/EC.
+
+(m) 'Annual percentage rate of charge' means the total cost of the credit to the consumer, expressed as an annual percentage of the total amount of credit, where applicable, including the costs referred to in Article 12(2).
+
+(n) 'Borrowing rate' means the borrowing rate as defined in Article 3(j) of Directive 2008/48/EC.
+
+(o) 'Creditworthiness assessment' means the evaluation of the prospect for the obligations resulting from the credit agreement to be met.
+
+(p) 'Durable medium' means durable medium as defined in Article 3(m) of Directive 2008/48/EC.
+
+(q) 'Home Member State' means:
+
+(i) where the creditor or credit intermediary is a natural person, the Member State in which his head office is situated;
+
+(ii) where the creditor or credit intermediary is a legal person, the Member State in which its registered office is situated , if under national law it has a registered office, and head office are situated.
+
+(r) 'Host Member State' means the Member State in which the creditor or credit intermediary has a branch or provides services.
+
+(ra) 'Advisory services' means the provision of personal recommendations to a consumer in respect of one or more transactions relating to credit agreements and constitutes a separate activity from the granting of a credit.
+
+ 
+
+(rb) 'Residential immovable property' means an item of immovable property primarily intended for residential purposes.
+
+ 
+
+(rc) 'Appraiser' means a natural or legal person who, in the course of his trade, business or profession, carries out valuations of residential immovable property or the land on which such residential immovable property is or could be situated.
+
+ 
+
+(rd) 'Tying practice' means the offering of one or more ancillary services with the credit agreement in a package where the credit agreement is not made available to the consumer separately.
+
+ 
+
+(re) 'Bundling practice' means the offering of one or more ancillary services with the credit agreement in a package where the credit agreement is also made available to the consumer separately but not necessarily on the same terms or conditions as when offered bundled with the ancillary services.
+
+ 
+
+(rf) 'Total amount of credit' means the ceiling or the total sums made available under a credit agreement, irrespective of whether they are paid to the consumer or to a third party.
+
+ 
+
+(rg) ‘Foreign currency loan’ means a loan which is:
+
+ 
+
+(i) denominated in a currency other than that in which the consumer receives the income or holds the assets from which the loan is to be repaid; or
+
+ 
+
+(ii) denominated in a currency other than that of the Member State in which the consumer is resident.
+
+ 
+
+(rh) 'Variable rate loan' means a credit agreement where the borrowing rate for a part or the totality of the agreement is not determined solely by a fixed percentage agreed on the conclusion of the credit agreement and is usually based on the movement of an underlying index or reference rate regardless of the existence of floors or caps in its evolution.
+
+Article 4 Competent authorities
+
+1. Member States shall designate the national competent authorities empowered to ensure implementation and enforcement of this Directive and shall ensure that they are granted all the investigating and sanctioning powers and resources necessary for the efficient and effective performance of their duties.
+
+2. Member States shall ensure that the authorities designated as competent for ensuring the implementation of Articles 18, 19, 19a, 20, 21, 22, 22a and 23 of this Directive are:
+
+
+(i) one of those competent authorities included in Article 4(2) of Regulation (EU) No 1093/2010 establishing a European Supervisory Authority (European Banking Authority); or
+
+ 
+
+(ii) other national authorities provided that national legislation or administrative regulations require those authorities to cooperate with the authorities referred to in point (i) whenever necessary in order to carry out their duties under this Directive.
+
+3. Member States shall inform the Commission and EBA of the designation of the competent authorities, indicating any division of the respective duties between different competent authorities. The Commission shall publish a list of the competent authorities referred to in paragraph 1 in the Official Journal of the European Union at least once a year, and update it continuously on its website.
+
+4. Where there is more than one competent authority on its territory, a Member State shall ensure that those authorities collaborate closely among themselves and with EBA so that they can discharge their respective duties effectively.
+
+ 
+
+5. Member States shall put in place procedures for the collection and exchange of information from those authorities, in particular for the purpose of implementing Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board1 and Regulation (EU) No 1176/2011 of the European Parliament and of the Council of 24 November 2011 on the prevention and correction of macroeconomic imbalances2.
+
+Chapter 1a
+
+ 
+
+Financial education
+
+ 
+
+Article 4a
+
+ 
+
+Financial education of consumers
+
+ 
+
+1. Member States shall ensure that measures are in place to support the education of consumers in relation to responsible borrowing and debt management, in particular in relation to credit agreements.
+
+ 
+
+2. Clear, informative documents shall be provided to all first-time buyers, as well as information regarding further assistance in the form of consumer organisations and national supervisory bodies.
+
+ 
+
+3. Member States shall ensure that all stakeholders are adequately involved in the design and development of the measures referred to in this Article.
+
+Chapter 2 Conditions applicable to creditors and credit intermediaries
+
+Article 5 Conduct of business obligations when providing credit to consumers
+
+1. Member States shall require that, when designing, granting or intermediating on credit and, where appropriate, ancillary services to consumers, or when implementing a credit agreement, the creditor or the credit intermediary acts honestly, fairly, transparently and professionally taking due account of the rights and interests of the consumer. This shall involve taking all steps necessary to meet a consumer's needs and circumstances, taking into account all relevant information relating to a consumer's specific circumstances and any specific requirement made known by a consumer.
+
+2. Member States shall ensure that the manner in which creditors remunerate their staff and credit intermediaries and the manner in which credit intermediaries remunerate their staff and appointed representatives do not impede compliance with the obligation referred to in paragraph 1.
+
+ 
+
+2a. Member States shall in particular ensure that remuneration of staff responsible for the assessment of creditworthiness is consistent with the remuneration policies for risk takers set out in Annex V, section 11, paragraphs 23(a) and 23(b) of Directive 2006/48/EC and is not contingent on the number or proportion of applications accepted;
+
+ 
+
+2b. Member States shall ensure that where creditors, credit intermediaries or appointed representatives provide advisory services the remuneration structure of the staff involved does not prejudice their ability to provide an objective recommendation and, in particular, that the outcome of those advisory services is not contingent on individual product results or sales targets.
+
+Article 6 Minimum knowledge and competence requirements
+
+1. Member States shall ensure that creditors and credit intermediaries require their staff to possess an appropriate level of knowledge and competence in relation to product design, the offering or intermediation of, advising on or granting of credit agreements. Where the conclusion of a credit agreement includes an ancillary service related to it, they shall possess appropriate knowledge and competence in relation to that ancillary service, including that required by sectoral legislation.
+
+2. Member States shall establish the minimum knowledge and competence requirements for creditors’, credit intermediaries’ and appointed representatives’ staff in accordance with the principles set out in Annex III.
+
+ 
+
+2a. Where a creditor or credit intermediary provides its services within the territory of one or more another Member State:
+
+ 
+
+(i) through a branch, the host Member State shall be responsible for establishing the minimum knowledge and competence requirements applicable to the staff of a branch;
+
+ 
+
+(ii) under the freedom to provide services, the home Member State shall be responsible for establishing compliance with the minimum knowledge and competence requirements applicable to the staff in accordance with Annex III, except for those requirements referred to in Annex III paragraphs 1(a), 1(b), 1(c) 1(e), 1(f), 1(h), 2 and 3 which shall be established by the host Member State.
+
+ 
+
+2b. The persons referred to in the first paragraph shall be required to undergo professional training on an ongoing basis to update and validate their knowledge and competence.
+
+Chapter 3 Information and practices preliminary to the conclusion of the credit agreement
+
+Article 7 General provisions applicable to advertising and marketing
+
+Member States shall require that any advertising and marketing communications concerning credit agreements as set out in Article 2 are fair, clear and not misleading within the meaning of Articles 6 and 7 of Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market[38]. In particular, wording that may create false expectations for a consumer regarding the availability or the cost of a credit shall be prohibited.
+
+Article 8 Standard information to be included in advertising
+
+1. Member States shall ensure that any advertising concerning credit agreements as set out in Article 2 which indicates an interest rate or any figures relating to the cost of the credit to the consumer shall include the standard information in accordance with this Article.
+
+The first subparagraph shall not apply where national legislation requires the indication of the annual percentage rate of charge in advertising concerning credit agreements which does not indicate an interest rate or any figures relating to any cost of credit to the consumer within the meaning of the first subparagraph.
+
+
+
+2. The standard information shall specify in a clear, concise and prominent way by means of a representative example:
+
+(a) the identity of the creditor or, where applicable, the credit intermediary;
+
+(c) the borrowing rate, indicating whether this is fixed or variable or both, together with particulars of any charges included in the total cost of the credit to the consumer; the annual percentage rate of charge shall be included into the advertisement at least as prominently as any other numerical information;
+
+(d) the total amount of credit;
+
+(e) the annual percentage rate of charge;
+
+(f) if applicable, the duration of the credit agreement;
+
+
+(g) if applicable, the amount of the instalments;
+
+The standard information shall be easily legible or clearly audible as appropriate, depending on the medium used for advertising and marketing.
+
+ 
+
+Any information provided throughout the advertising shall adhere to the displayed representative example.
+
+ 
+
+Member States shall adopt criteria for defining a representative example.
+
+3. Where the conclusion of a contract regarding an ancillary service relating to the credit agreement, in particular insurance, is compulsory in order to obtain the credit or to obtain it on the terms and conditions marketed, and the cost of that service cannot be determined in advance, the obligation to enter into that contract shall also be stated in a clear, concise and prominent way, together with the annual percentage rate of charge.
+
+
+
+5. This Article shall be without prejudice to Directive 2005/29/EC.
+
+Article 8a
+
+ 
+
+Tying and related unfair commercial practices
+
+ 
+
+1. Member States shall allow bundling practices but not tying practices.
+
+ 
+
+2. Notwithstanding paragraph 1, Member States may permit tying practices where creditors require the opening or maintaining of a payment account or savings product where it is a fully integrated part of the credit or whose only purpose is to accumulate capital to repay or service the credit, or to conclude a separate credit agreement in conjunction with a shared-equity credit agreement. Furthermore, Member States shall allow creditors to require the consumer to hold a relevant insurance policy and to refuse to grant credit where the consumer does not have an insurance policy with similar characteristics to those offered by the creditor's preferred supplier.
+
+
+Article 9 Pre-contractual information
+
+1.Member States shall ensure that accessible and comprehensible general information about credit agreements is made available by creditors and provided to the consumer, either by the creditor in the case of direct sales, or through the credit intermediary, at all times on paper or on another durable medium or, upon request, in electronic form.
+
+The general information shall include at least the following:
+
+(a) identity and the geographical address of the creditor as well as, where applicable, the identity and geographical address of the credit intermediary involved;
+
+(b) purposes for which the credit may be used;
+
+(c) forms of surety, including the possibility for the collateral to be located in a different Member State;
+
+(d) the duration of the credit agreements;
+
+(e) descriptions of the types of credit available, with a short description of the characteristics of fixed and variable rate products, including related implications for the consumer;
+
+(f) indication of the currency or currencies in which credits are available, including an explanation of the implications for the consumer where the credit is denominated in a foreign currency;
+
+(g) a representative example of the total cost of credit for the consumer and annual percentage rate of charge;
+
+(ga) an indication of possible additional costs, such as in connection with the registration of mortgages or other comparable securities;
+
+(h) the different options available for reimbursing the credit to the creditor (including the number, frequency and amount of the regular repayment instalments);
+
+(i) whether there is a possibility of early repayment and, where applicable, a description of the conditions attached to early repayment;
+
+(j) whether a valuation of the property is necessary and, where applicable, by whom it should be carried out;
+
+(ka) In the case of a credit agreement under which payments made by the consumer do not give rise to an immediate corresponding amortisation of the total amount of credit, but are used to constitute capital during periods and under conditions laid down in the credit agreement or in an ancillary agreement, the pre-contractual information required under paragraph 2 shall include a clear and concise statement that such credit agreements do not provide for a guarantee of repayment of the total amount of credit drawn down under the credit agreement, unless such a guarantee is given.
+
+
+Article 9a
+
+ 
+
+Pre-contractual information
+
+ 
+
+1. Member States shall ensure that the creditor and, where applicable, the credit intermediary or appointed representative, provides the consumer with the personalised information needed to compare the credits available on the market, assess their implications and take an informed decision on whether to conclude a credit agreement:
+
+ 
+
+(a) without undue delay after the consumer has given the necessary information on his needs, financial situation and preferences in accordance with Article 14; and
+
+ 
+
+(b) in good time before the consumer is bound by any credit agreement or offer; such information, on paper or on another durable medium, shall be provided free of charge by means of the European Standardised Information Sheet ('ESIS'), as set out in Annex II.
+
+ 
+
+Member States shall ensure that when an offer binding on the creditor is provided to the consumer, it shall be provided in a durable medium and accompanied by an ESIS if none has been provided to the consumer previously or the characteristics of the offer are different from the information contained in the ESIS previously provided.
+
+ 
+
+2. Member States shall ensure that the consumer will have 14 days to compare the offers, assess their implications and take an informed decision. Member States shall ensure that this period can be envisaged either as a period where the offer remains binding on the creditor before the signing of the credit agreement or as a right of withdrawal without further costs. Member States shall ensure that consumers who wish to do so are able to accept the offer before the expiry of the 14-day period. Member States may provide that the right of withdrawal shall be reduced or cease to apply where the consumer undertakes any action which under national law results in the creation or the transfer of a right in a property connected to or using funds obtained under the credit agreement or in the cases where the credit agreement is, in accordance with the law of Member State, established through a system involving a public office-holder or agent who has a statutory obligation to be independent and impartial and who must ensure, by providing to the consumer a personalised and comprehensive contractual and legal information, that the consumer only concludes the agreement on the basis of careful legal consideration and with knowledge of its legal scope.
+
+ 
+
+The creditor and, where applicable, the credit intermediary shall be deemed to have fulfilled the requirements on information provision to the consumer prior to the conclusion of a distance contract as set out in Article 3 of Directive 2002/65/EC only where they have at least supplied the ESIS prior to the conclusion of the contract.
+
+ 
+
+Member States shall not modify the ESIS but where Member States require additional information, including legal warnings, to be provided to the consumer, that information may be annexed to the ESIS.
+
+ 
+
+3. The Commission shall be empowered to adopt delegated acts in accordance with Article 26, to amend the standard information items laid down in Article 9 and in relation to the ESIS set out in Annex II to:
+
+ 
+
+(a) supplement and update the list of information items laid down in Annex II;
+
+ 
+
+(b) update the presentation of the contents of the ESIS as laid down in Annex II;
+
+ 
+
+(c) supplement and update the instructions for the completion of the ESIS as laid down in Annex II.
+
+ 
+
+4. In the case of voice telephony communications, as referred to in Article 3(3) of Directive 2002/65/EC, the description of the main characteristics of the financial service to be provided pursuant to the second indent of point (b) of Article 3(3) of that Directive shall include at least the items referred to in Part A sections (2), (3), (4) and (5) of Annex II.
+
+ 
+
+5. Member States shall ensure that the creditor or credit intermediary provides the consumer with a copy in a durable medium of the draft credit agreement free of charge. This provision shall not apply where the creditor is unwilling, at the time of the request, to conclude a credit agreement with the consumer.
+
+Article 9b
+
+ 
+
+Supply and formalisation of the credit agreement
+
+ 
+
+In relation to supply and formalisation of a credit agreement, the appraised or appraisal company, notaries, legal advisers or any other provider shall be chosen by mutual agreement of the parties.
+
+Article 10 Information requirements concerning credit intermediaries
+
+1. Member States shall ensure that prior to the performance of any of the services listed in point (e) of Article 3, a credit intermediary shall provide the consumer free of charge with at least the following information on paper or on another durable medium:
+
+(a) identity and the geographical address of the credit intermediary;
+
+(b) the register in which he has been included, the registration number, where applicable, and the means for verifying that he has been registered;
+
+(c) where he is tied to one or more creditors he shall identify himself as such and provide the names of the creditor(s) for which he is acting;
+
+(d) whether he offers the service of advice and, if so, indicates where the provision of this service is compulsory in accordance with Article 17;
+
+(e) the fee, where applicable, payable by the consumer to the credit intermediary or creditor for his services or the basis on which the fee will be calculated;
+
+(f) the procedures allowing consumers and other interested parties to register complaints internally and, where appropriate, the means by which recourse to the out-of-court complaint and redress procedures can be sought;
+
+(g) for those credit intermediaries that are not tied, the existence of commissions or other inducements, where applicable, payable by the creditor to the credit intermediary for his services.
+
+(h) for those credit intermediaries that are not tied, the existence of commissions, where applicable, payable by the creditor to the credit intermediary for his services.
+
+2. Credit intermediaries who are not tied shall, at the consumer’s request, provide information on the variation in levels of commission payable by the different creditors providing the credit agreements being offered to the consumer. The consumer shall be informed that he has the right to request such information.
+
+3. Member States shall ensure that the fee, if any, payable by the consumer to the credit intermediary, for its services is communicated to the creditor by the credit intermediary, for the purpose of calculating of the annual percentage rate of charge.
+
+3a. Where the credit intermediary charges a fee and also receives a commission from the creditor, it shall explain to the consumer whether or not the commission will be fully or partially offset against the fee.
+
+3b. Member States shall require credit intermediaries to ensure that in addition to the disclosures required by this Article, an appointed representative discloses to the consumer the capacity in which he is acting and the credit intermediary he is representing when contacting or before dealing with any consumers.
+
+4. In order to ensure uniform conditions of application of paragraph 1 of this Article, powers are conferred on the Commission to determine, where necessary, a standardised format and the presentation of the information items set out in paragraph 1 of this Article.
+
+Article 11 Adequate explanations
+
+1. Member States shall ensure that creditors and, where applicable, credit intermediaries or their appointed representatives provide adequate explanations to the consumer on the proposed credit agreement(s) and any ancillary service(s), in order to place the consumer in a position enabling him to assess whether the proposed credit agreements and ancillary services are adapted to his needs and to his financial situation. The explanation shall include the pre-contractual information including the ESIS, the essential characteristics of the products proposed, and the specific effects they may have on the consumer, including the consequences of default in payment by the consumer and, where ancillary services are bundled with a credit agreement, whether each component can be terminated separately and the conditions for doing so.
+
+2. Member States may adapt the manner by which and the extent to which theassistance referred to in paragraph 1 is given, as well as by whom it is given, to the circumstances of the situation in which the credit agreement is offered, the person to whom it is offered and the nature of the credit offered.
+
+Chapter 4Annual percentage rate of charge
+
+Article 1 2 Calculation of the annual percentage rate of charge
+
+1. The annual percentage rate of charge, equating, on an annual basis, to the present value of all commitments (drawdowns, repayments and charges), future or existing, agreed by the creditor and the consumer, shall be calculated in accordance with the mathematical formula set out in Annex I.
+
+2. For the purpose of calculating the annual percentage rate of charge, the total cost of the credit to the consumer shall be determined with the exception of any charges payable by the consumer for non-compliance with any of his commitments laid down in the credit agreement.
+
+The costs of opening and maintaining an account, of using a means of payment for both transactions on drawdowns on that account and of other costs relating to payment transactions shall be included in the total cost of credit to the consumer whenever the opening or maintaining of an account is obligatory in order to obtain the credit or to obtain it on the terms and conditions marketed, unless the costs have been clearly and separately shown in an agreement concluded with consumer.
+
+3. The calculation of the annual percentage rate of charge shall be based on the assumption that the credit agreement is to remain valid for the period agreed and that the creditor and the consumer will fulfil their obligations under the terms and by the dates specified in the credit agreement. Where a fixed borrowing rate is agreed just for a limited period, a single annual percentage rate of charge can be only calculated for the fixed period.
+
+4. For periods of credit agreements unconditionally allowing adjustible borrowing rates based on external factors and, where applicable, in the charges contained in the annual percentage rate of charge but unquantifiable at the time of calculation, the annual percentage rate of charge shall be calculated under different assumptions, while avoiding competitive distortions in the market:
+
+(a) once on the assumption that the borrowing rate and other charges will be calculated at the level determined at the signature of the contract;
+
+ 
+
+(b) once based on a best-case scenario based on data of the interest rate fluctuations during the last 20 years or since the underlying data for the calculation of the interest rate is available;
+
+ 
+
+(c) once based on a worst-case scenario based on data of the different interest rate fluctuations during the last 20 years or since the underlying data for the calculation of the interest rate is available.
+
+4a. In the case the credit agreement relates to a foreign currency loan the annual percentage rate of charge shall be once calculated on the assumption that the relation between the currency of the loan and the national currency is at the level determined at the signature of the contract and once based on a scenario based on the assumption, that the national currency loses 20 % of its value in relation to the currency of the loan.
+
+5. The Commission shall be empowered to adopt delegated acts in accordance with Article 26 to amend the remarks or update the assumptions used to calculate the annual percentage rate of charge as set out in Annex I, in particular if the remarks or assumptions set out in this Article and in Annex I do not suffice to calculate the annual percentage rate of charge in a uniform manner or are not longer adapted to the commercial situation on the market.
+
+Article 13 Information concerning the borrowing rate
+
+1. Member States shall ensure that the creditor informs the consumer of any change in the borrowing rate, on paper or another durable medium, before the change enters into force. The information shall state the amount of the repayments to be made after the entry into force of the new borrowing rate and, in cases where the number or frequency of the payments changes, particulars thereof.
+
+2. However, the parties may agree in the credit agreement that the information referred to in paragraph 1 is to be given to the consumer periodically in cases where the change in the borrowing rate correlates directly with a change in a reference rate, the new reference rate is made publicly available by appropriate means and the information concerning the new reference rate is also kept available in the premises of the creditor, and communicated personally to the consumer together with the amount of new monthly instalments. The creditor may continue to inform consumers periodically about changes in the borrowing rate, where the borrowing rate does not correlate directly with a change in reference rate, if such provisions were in place prior to ...*.
+
+2a. Where changes in the borrowing rate are determined by way of auction on the capital markets and it is therefore impossible for the creditor to inform the consumer of any change before the change enters into force, the creditor shall, in good time before the auction, inform the consumer in writing of the upcoming procedure and the expected level of the new borrowing rate.
+
+Chapter 5 Creditworthiness assessment
+
+Article 14Obligation to assess the creditworthiness of the consumer
+
+1. Member States shall ensure that, before concluding a credit agreement, the creditor assesses the consumer's creditworthiness based on objective criteria in order to verify the prospect for the consumer to meet his obligations under the credit agreement. The information on which the assessment is based shall be documented and maintained1.
+
+1a. Member States shall ensure that where a creditor failed to correctly conduct the creditworthiness assessment as described in this Article and subsequently granted a credit agreement based on that incorrectly conducted creditworthiness assessment, the credit agreement shall not afterwards be cancelled or altered to the detriment of the consumer as a result.
+
+2. Member States shall ensure that:
+
+(a) The creditor only makes the credit available to the consumer where the result of the creditworthiness assessment indicates that the obligations resulted from the credit agreement are likely to be met in the manner required under that agreement.
+
+
+(c) In accordance with Article 10 of Directive 95/46/EC, the creditor informs the consumer in advance that a database is to be consulted.
+
+(d) If the credit application is rejected on the basis of a database consultation, the creditor informs the consumer immediately and without charge of the result of such consultation and of the particulars of the database consulted.
+
+(e) Without prejudice to the general right of access contained in Article 12 of the Directive 95/46/EC, where the application is rejected on the basis of an automated decision or a decision based on methods such as automated credit scoring, the creditor informs the consumer immediately and without charge.
+
+Article 14a
+
+ 
+
+Property valuation
+
+ 
+
+1. Member States shall ensure that sound valuation practices are applied in accordance with international standards and methods and the importance of sound regulation and oversight of appraisers is recognised.
+
+ 
+
+2. Member States shall require that internal and external appraisers carrying out such valuations are professionally competent and sufficiently independent to provide an impartial and objective valuation to be documented in a durable medium and that lenders keep a record of it.
+
+Article 15 Disclosure and verification of consumer information
+
+
+1. The creditworthiness assessment shall be carried out on the basis of sufficient, proportionate and appropriately verified income and financial information obtained by the creditor from relevant internal or external sources.
+
+2. Member States shall ensure that creditors specify clearly and in an understandable form the necessary information and independently verifiable evidence that the consumer needs to provide and state the timing by which consumers are required to provide the information. Member States shall allow creditors to seek clarification of the information requested under paragraph 1 where necessary to enable the assessment of creditworthiness. Member States shall not allow creditors to use a failure to provide information to justify terminating the credit agreement once it has been concluded.
+
+3. Member States shall have measures in place to ensure that consumers provide correct information in accordance with paragraph 2. Where the consumer chooses not to provide the information or verification necessary for an assessment of his creditworthiness, the creditor shall warn the consumer that they are unable to carry out a creditworthiness assessment and therefore that the credit may not be granted. This warning may be provided in a standardised format.
+
+Chapter 6Database access
+
+Article 1 6 Database access
+
+1. Each Member State shall ensure access for all creditors to databases used in that Member State for assessing the creditworthiness of consumers and for monitoring consumers’ compliance with the credit obligations over the life of the credit agreement. The conditions for access shall be non-discriminatory.
+
+2. This Article shall be without prejudice to the application of Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
+Chapter 7Advice
+
+Article 17 Standards for advisory services
+
+1. Member States shall ensure that the creditor, credit intermediary or appointed representative explicitly informs the consumer, in the context of a given transaction, whether advisory services are being or can be provided to the consumer.
+
+ 
+
+2. Member States shall ensure that before the provision of advisory services or, where applicable, the conclusion of a contract for the provision of advisory services, the creditor, credit intermediary or appointed representative informs the consumer in a durable medium:
+
+(a) whether the recommendation will be based on considering only their own product range in accordance with point (b) of paragraph 2a or a wide range from across the market in accordance with point (c) of paragraph 2a;
+
+(b) where applicable, the fee payable by the consumer for the advisory services or the method used for its calculation.
+
+ 
+
+2a. Where advisory services are provided to consumers, Member States shall ensure, in addition to the requirements set out in Articles 5 and 7, that:
+
+ 
+
+(a) creditors, credit intermediaries or appointed representatives obtain the necessary information regarding the consumer’s personal and financial situation, his preferences and objectives so as to enable the recommendation of suitable credit agreements;
+
+ 
+
+(b) creditors, tied credit intermediaries or appointed representatives appointed by tied credit intermediaries consider a sufficiently large number of credit agreements in their product range;
+
+ 
+
+(c) not tied credit intermediaries or appointed representatives appointed by not tied credit intermediaries consider a sufficiently large number of credit agreements available on the market;
+
+ 
+
+(d) creditors, credit intermediaries or appointed representatives act in the best interests of the consumer by recommending credit agreements which are suitable for the consumer's needs, financial situation and personal circumstances; and
+
+ 
+
+(e) the creditor, credit intermediary or appointed representative providing the advisory services gives the consumer a record in a durable medium of the advice provided;
+
+ 
+
+2b. Member States should only allow the use of the term "independent advice" or "independent advisor" when creditors, tied credit intermediaries or credit intermediaries or appointed representatives that provide advisory services:
+
+ 
+
+- are not remunerated at all by one or more creditors; or
+
+ 
+
+- are remunerated by a number of creditors representing at least a majority of the market given that the remuneration is disclosed to the consumer and does not incentivise the creditor to act against the best interests of consumers.
+
+ 
+
+2c. Member States may provide for an obligation for creditors, credit intermediaries and appointed representatives to warn a consumer when considering the consumer's financial situation, a credit agreement may induce a specific risk for the consumer.
+
+ 
+
+2d. Member States shall ensure that any creditor or credit intermediary providing advisory services is duly authorised and that the relevant staff are competent to make a personalised recommendation which is in the best interests of the consumer. Appointed representatives providing advisory services shall be duly registered.
+
+ 
+
+2e. This Article shall be without prejudice to the ability of Member States to provide services for consumers to help them understand their financial needs and which types of products are likely to meet those needs.
+
+
+Chapter 8 Early repayment
+
+Chapter 8a
+
+ 
+
+Sound performance of credit agreements
+
+ 
+
+Article -18a
+
+ 
+
+Foreign currency loans and variable interest rates
+
+ 
+
+1. Member States shall ensure that where a credit agreement relates to a foreign currency loan, the consumer shall have the right to convert the loan into an alternative currency, in accordance with a transparent method disclosed to the consumer in pre-contractual information.
+
+ 
+
+2. The alternative currency referred to in paragraph 1 shall be either:
+
+ 
+
+(a) the currency in which the consumer receives income or holds assets from which the loan is to be repaid, as indicated at the time the most recent creditworthiness assessment in relation to the credit agreement was made; or
+
+ 
+
+(b) the currency of the Member State in which the consumer is resident.
+
+ 
+
+3. Member States shall provide that where the right referred to in paragraph 1 is referred to:
+
+ 
+
+(a) the creditor is entitled to fair and objectively justified compensation for possible costs directly linked to the exercise of the right;
+
+ 
+
+(b) the exchange rate used for the conversion shall be the market exchange rate applicable on the day of application for the conversion unless otherwise agreed by the parties or unless a Member State has specified other arrangements before the conclusion of the credit agreement;
+
+ 
+
+(c) the creditor shall be entitled to adjust the interest rate and interest reference rate where this has been provided for in the credit agreement.
+
+ 
+
+4. Member States shall ensure that, for credit agreements in a foreign currency, a trigger credit amount payable or a maximum amount payable is included in the credit agreement. When the trigger credit amount payable or a maximum amount has been reached, the creditor shall warn the consumer of the high rise of the credit amount payable. In this case the consumer shall have the right to convert the loan pursuant to paragraph 1. In the case when the total credit amount in the national currency is not limited by any caps, a scenario should be provided to the consumer based on the assumption, that the national currency loses 20 % of value in relation to the currency of the loan.
+
+ 
+
+5. Member States shall ensure that, where a credit agreement unconditionally allows variations on the interest rate unquantifiable at the time of the conclusion of the credit agreement and based on external factors, the underlying data for the calculation of the interest rate has to be available for at least 14 years.
+
+ 
+
+For agreements on variable interest rates Member States shall ensure that creditors, tied credit intermediaries, credit intermediaries or appointed representatives inform the consumer before concluding the contract on the possible fluctuation of the interest rate. In cases where the variable interest rate is limited by caps, a best and worst-case scenario shall be provided to the consumer based on the caps. In cases where the variable interest rate is not limited by any caps, a best and worst-case scenario should be provided to the consumer based on data of the interest rate fluctuations during last 20 years or since the underlying data for the calculation of the interest rate is available.
+
+Article -18b
+
+ 
+
+Variable rate loans and underlying indexes and reference rates
+
+ 
+
+Where the credit agreement is a variable rate loan:
+
+ 
+
+1. Member States shall ensure that any index or reference rate used to calculate the borrowing rate is clear, accessible, objective and verifiable by the parties to the credit agreement and the competent authorities.
+
+ 
+
+2. Member States shall ensure that the providers of indexes used to calculate the borrowing rate keep the documentation used for its calculation and maintain their historical records.
+
+ 
+
+3. Where justified, Member States may prohibit the standardised use of indexes that are not publicly available in a website or are not published in an official journal.
+
+ 
+
+Member States may also require that the providers of the standardised indexes used to calculate the borrowing rate publish on a daily basis information on the average borrowing rate, the maximum borrowing rate and the minimum borrowing rate for the past 20 years or where such data is not available for the longest period for which data is available. Additionally Member States may require that creditors disclose such information to the consumer annexed to the ESIS before concluding a credit agreement.
+
+ 
+
+4. Member States may adopt provisions to ensure symmetry between contractual clauses establishing limits such as floors and caps for the evolution of the variable rate.
+
+Article 18 Early repayment
+
+1. Member States shall ensure that the consumer has a right to discharge his obligations fully or partially under a credit agreement prior to the expiry of that agreement, without penalty on the consumer, while ensuring the indemnity of the creditor. In such cases, the consumer shall be entitled to a reduction equivalent to the early repaid amount in the total cost of the credit.
+
+2. Member States shall provide that the creditor is entitled to a fair and objective compensation, where justified, for possible costs directly linked to the early repayment. The compensation shall not exceed the economic loss of the lender. The consumer shall be clearly and fully informed of the right referred to in paragraph 1 and of the amount of the compensation or of the transparent method for its calculation before signing the contract.
+
+2a. Where the early repayment falls within a period for which the borrowing rate is fixed Member States may provide that the exercise of the right referred to in paragraph 1 is subject to certain conditions and without prejudice to the right of creditors in accordance with paragraph 2. In this case the exercise of the right may be subject to the existence of a legitimate interest on the part of the consumer whose nature shall be specified by Member States.
+
+ 
+
+3a. Member States may opt for caps on the compensation payable under paragraph 2 or maximum periods after which such compensation may no longer be claimed by the creditor.
+
+Article 18a
+
+ 
+
+Flexible and reliable markets
+
+ 
+
+1. Member States shall develop a framework:
+
+ 
+
+(a) to allow creditors to transfer without registration of a new mortgage deed credit agreements or portfolios of credit agreements to other creditors unless explicitly forbidden by the credit agreement provided the loan conditions are not altered to the disadvantage of the consumer; and
+
+ 
+
+(b) to allow creditors and consumers to agree on the portability of a credit agreement on moving house.
+
+ 
+
+2. Member States that allow the marketing of reverse agreements in their territory may develop a framework to allow creditors and consumers to agree the replacement of a credit agreement with a reverse agreement.
+
+ 
+
+3. Member States shall ensure that effective mechanisms are in place to ensure that borrowers have a clear and legally enforceable title to the property and the traceability of credit agreements related to residential immovable property and related financial instruments.
+
+ 
+
+4. The Joint Committee established under Article 54 of Regulations EU (No) 1093/2010 and (EU) No 1095/2010 shall coordinate the work of EBA and ESMA in developing guidelines on methodologies for ensuring traceability of credit agreements, associated collateral and related financial instruments.
+
+ 
+
+5. Member States shall promote the use of indices of residential immovable property in order to provide an improved basis for the monitoring of trends in valuation of residential immovable property.
+
+Article 18b
+
+ 
+
+Arrears and foreclosure
+
+ 
+
+1. Member States shall ensure that creditors exercise reasonable forbearance and make all other reasonable attempts to resolve the position before initiating foreclosure proceedings.
+
+ 
+
+2. Member States shall ensure that any charges to compensate damages for default to be paid by the consumer are proportionate to the costs incurred by the creditor.
+
+ 
+
+3. Member States shall ensure that:
+
+ 
+
+(a) creditors take reasonable steps to obtain the best price for the foreclosed property, taking account of factors such as market conditions as well as any increase in the amount owed by the consumer;
+
+ 
+
+(b) where the parties to the credit agreement expressly agree, the return of the collateral is sufficient to repay the loan;
+
+ 
+
+(c) Where creditors have full recourse to a consumer's assets after foreclosure proceedings are completed and outstanding debt remains, measures to facilitate repayment arrangements are reasonable and have regard to the interests and practical circumstances of the consumer. This could include allowing measures to limit the seizure of wages, retirement pensions or equivalent to retain a minimum income and avoid household over-indebtedness are in place.
+
+
+Chapter 9 General prudential and supervisory requirements
+
+Article -19a
+
+ 
+
+General requirements
+
+ 
+
+1. Member States shall ensure that there is an effective framework of underwriting standards for credit agreements, incorporating the principles set out in this Directive and measures to prevent household over-indebtedness, which can be effectively supervised and monitored. Such standards may include prudent loan-to-value ratios1.
+
+ 
+
+2. Member States shall ensure that competent authorities have powers to specify more stringent and proportionate underwriting criteria for the situations where the underlying risks are higher for consumers. These may include additional risk warnings, specifying loan-to-value or other ratios and guarantees and products to insure or hedge the risks.
+
+ 
+
+3. EBA may on its own initiative or at the request of the ESRB in accordance with Article 9 of Regulation (EU) No 1092/2010, based on sound assessment of developments in the residential property market in a Member State, issue warnings to the relevant competent authorities and issue recommendations calling for the introduction of additional measures.
+
+Article -19b
+
+ 
+
+Supervision of credit registers
+
+ 
+
+Member States shall ensure that credit registers operating on their territories are adequately supervised by the competent authorities and by data protection supervisors. Without prejudice to the powers conferred by Regulation (EU) No 1093/2010, EBA shall contribute to the supervision of credit registers that operate cross-border within the Union.
+
+Article 19 Authorisation and supervision of credit intermediaries
+
+1. Credit intermediaries shall be duly authorised to carry out the activities set out in Article 3(e) by a competent authority referred to in Article 4 in their home Member State. Such authorisation shall be granted on the basis of requirements established in the home Member State of the credit intermediary and shall include the fulfilment of the professional requirements laid down in Article 20.
+
+ 
+
+1a. Appointed representatives appointed under Article 19a shall not be considered as credit intermediaries for the purposes of this Article.
+
+2. Home Member States shall ensure that authorised credit intermediaries comply with the conditions for initial authorisation on a continuing basis.
+
+3. Home Member States shall ensure that the authorisation of credit intermediaries is suspended or withdrawn where either:
+
+(a) the credit intermediary no longer fulfils the requirements under which authorisation was granted;
+
+(b) the credit intermediary has obtained the authorisation through false statements or any other irregular means.
+
+4. Member States shall ensure that authorised credit intermediaries are subject to supervision of their ongoing activities by their home competent authority and, where applicable, by the competent authority in the Member State where a branch is established as referred to in Articles 4 and 22.
+
+ 
+
+4a. The provisions of this Article should apply neither to credit institutions nor to insurance companies which act as credit intermediaries. Provided that the obligations under Articles 9a, 14 and 17 of this Directive are complied with, they should also not be applied to those borrowers which are not creditors or credit intermediaries and are allowed by Member States to transfer, free of charge and with the agreement of the creditor, a credit agreement in parallel to the sale of a property.
+
+Article 19a
+
+ 
+
+Appointed representatives
+
+ 
+
+1. Member States may decide to allow a credit intermediary to appoint appointed representatives.
+
+ 
+
+2. Member States shall require that the credit intermediary remains fully and unconditionally responsible for any action or omission on the part of the appointed representative when acting on behalf of the credit intermediary.
+
+ 
+
+However, where the credit intermediary that has appointed an appointed representative which is tied to only one creditor as set out in Article 3(f), the creditor shall remain fully and unconditionally responsible for any action or omission on the part of the appointed representative that is acting on behalf of the credit intermediary.
+
+ 
+
+Member States shall require the credit intermediary to ensure that the appointed representative complies with the requirements set out in points (a) to (c) of Article 21(2) to 21(2). However, the home Member State may provide that the professional indemnity insurance or a comparable guarantee can be provided by a credit intermediary for which the appointed representative is empowered to act.
+
+ 
+
+3. Member States that decide to allow a credit intermediary to appoint appointed representatives shall establish a public register. Appointed representatives shall be registered in the public register in the Member State where they are established. The register shall be updated on a regular basis. It shall be publicly available for consultation.
+
+ 
+
+Where the Member State in which the appointed representative is established by way of a branch has decided, in accordance with paragraph 1, not to allow the credit intermediaries authorised by their competent authorities to appoint appointed representatives, those appointed representatives shall be registered with the competent authority of the home Member State of the credit intermediary on whose behalf it acts.
+
+ 
+
+4. Member States shall require the credit intermediaries to monitor the activities of their appointed representatives in order to ensure full compliance with this directive. In particular, the credit intermediaries shall be responsible for monitoring compliance with the knowledge and competence requirements of the appointed representatives and its staff.
+
+ 
+
+5. Member States may reinforce the requirements set out in this Article or add other requirements for appointed agents registered within their jurisdiction.
+
+
+Article 20 Registration of credit intermediaries
+
+1. Member States shall ensure that a register of authorised credit intermediaries is established and kept up to date.
+
+2. Member States shall require that:
+
+ 
+
+(a) any credit intermediary which is a legal person shall have its head office in the same Member State as its registered office, if it has a registered office under its national law; and
+
+ 
+
+(b) any credit intermediary which is not a legal person or which is a legal person but under its national law has no registered office shall have its head office in the Member State in which it actually carries on its business.
+
+3. Member States shall ensure that all authorised credit intermediaries, whether established as natural or legal persons, are registered with a competent authority as referred to in Article 4, in their home Member State.
+
+ 
+
+As regards legal persons, the register referred to in paragraph 1 shall specify the names of the persons within the management who are responsible for the intermediation business. Member States may also require the registration of all natural persons who fulfil a client-facing function in an undertaking that pursues the activity of credit intermediation.
+
+ 
+
+The register shall indicate the Member State(s) where the intermediary intends to conduct business under the rules on the freedom of establishment or on the freedom to provide services and has informed its home Member State competent authority thereof.
+
+ 
+
+3a. Member States shall ensure that credit intermediaries who have had their authorisation withdrawn are deleted from the register without undue delay.
+
+4. Member States shall ensure that a single information point is established to allow quick and easy public access to information from the national register of credit intermediaries, which shall be compiled electronically and kept constantly updated. This information point shall also provide the identification details of the competent authorities of each Member State referred to in Article 4. Member States shall provide EBA with access to the single information point and EBA shall publish on its website references or hyperlinks to this information point.
+
+ 
+
+4a. The provisions of this Article shall apply neither to credit institutions nor to insurance companies which act as credit intermediaries.
+
+Article 21 Professional requirements applicable to credit intermediaries
+
+1. In addition to the requirements set out in Article 6, the following provisions shall apply to all credit intermediaries on a continuing basis:
+
+(a) Credit intermediaries shall be of good repute. As a minimum, they shall have a clean police record or any other national equivalent in relation to serious criminal offences linked to crimes against property or other crimes related to financial activities and they shall not have previously been declared bankrupt, unless they have been rehabilitated in accordance with national law.
+
+(b) Credit intermediaries shall hold professional indemnity insurance covering the territories in which they offer services, or some other comparable guarantee against liability arising from professional negligence, unless such insurance or comparable guarantee is already provided by a creditor or other undertaking on whose behalf the credit intermediary is acting or for which the credit intermediary is empowered to act or such undertaking has taken on full responsibility for the intermediary’s actions.
+
+2. Member States shall ensure that the criteria established in order for credit intermediaries or creditors’ staff to meet their professional requirements are made public.
+
+3a. Member States shall be entitled to restrict any payments by consumers to creditors and credit intermediaries before the actual conclusion of a credit agreement.
+
+Article 22 Freedom of establishment for credit intermediaries and freedom to provide credit intermediation services in other Member States
+
+1. The authorisation of a credit intermediary by the competent authority of its home Member State as laid down in Article 19 shall be effective for the entire territory of the Union without further authorisation by the competent authorities of the host Member State(s) being required for the provision of these services, provided that the activities a credit intermediary intends to carry out in the host Member State(s) are covered by the authorisation. However credit intermediaries shall not be allowed to offer credit agreements of a non-credit institution to consumers in a Member State where non-credit institutions are not allowed to operate.
+
+ 
+
+1a. Paragraph 1 does not apply to appointed representatives.
+
+2. Any authorised credit intermediary intending to carry on business for the first time in one or more Member States under the freedom to provide services or establishing a branch shall inform the competent authorities of its home Member State.
+
+Within a period of one month after being informed, those competent authorities shall notify the competent authorities of the host Member State(s) concerned of the intention of the credit intermediary and shall at the same time inform the credit intermediary concerned of that notification. They shall also notify the competent authorities of the host Member State (s) concerned on the creditor or creditors to which the credit intermediary is tied and whether the creditor takes full and unconditional responsibility for credit intermediary’s activities. The host Member State shall use the information received from the home Member State to introduce the necessary information in its register.
+The credit intermediary may start business one month after the date on which he was informed by the competent authorities of the home Member State of the notification referred to in the second subparagraph.
+
+3. Before the branch of a credit intermediary commences its activities or within two months of receiving the information referred to in paragraph 2, the competent authorities of the host Member State shall prepare for the supervision of the credit intermediary in accordance with Article 24 and, if necessary, indicate the conditions under which, in areas not harmonised in Union law, those activities shall be carried out in the host Member State.
+
+4. Member States shall ensure that credit intermediaries whose approval has been withdrawn are deleted from the register without undue delay.
+
+Article 22a
+
+ 
+
+Supervision of credit intermediaries and appointed representatives
+
+ 
+
+1. Member States shall ensure that credit intermediaries are subject to supervision of their ongoing activities by the competent authorities of the home Member State.
+
+ 
+
+2. Where a home Member State allows appointed representatives as referred to in Article 19a those appointed representatives shall be subject to supervision either directly or as part of the supervision of the credit intermediary on behalf of which it acts.
+
+ 
+
+3. Where a credit intermediary has a branch in a Member State other than its home Member State, the competent authority of the Member State in which the branch is located shall assume responsibility for ensuring that the services provided by the branch within its territory comply with the obligations laid down in Article 5(1) and Articles 6, 7, 8, 9, 9a, 10, 11, 15, 17 and 25 and in measures adopted pursuant thereto.
+
+ 
+
+4. The competent authority of the Member State in which the branch is located shall have the right to examine branch arrangements and to request such changes as are strictly needed to enable the competent authority to enforce the obligations under Article 5(1) and Articles 6, 7, 8, 9, 9a, 10, 11, 12, 15, 17 and 25 and measures adopted pursuant thereto with respect to the services and/or activities provided by the branch within its territory.
+
+ 
+
+5. Where the competent authorities of a host Member State ascertain that a credit intermediary that has a branch within its territory is in breach of the legal or regulatory provisions adopted in that State pursuant to those provisions of this Directive which confer powers on the host Member State's competent authorities, those authorities shall require the credit intermediary concerned to put an end to its irregular situation.
+
+ 
+
+If the credit intermediary concerned fails to take the necessary steps, the competent authorities of the host Member State shall take all appropriate measures to ensure that the credit intermediary concerned puts an end to its irregular situation. The nature of those measures shall be communicated to the competent authorities of the home Member State.
+
+ 
+
+If, despite the measures taken by the host Member State, the credit intermediary persists in breaching the legal or regulatory provisions referred to in the first subparagraph in force in the host Member State, the latter may, after informing the competent authorities of the home Member State, take appropriate measures to prevent or to penalise further irregularities and, in so far as necessary, to prevent the credit intermediary from initiating any further transactions within its territory. The Commission shall be informed of such measures without undue delay.
+
+ 
+
+Where the competent authority of the home Member State disagrees with such measures taken by the host Member State, it may refer the matter to the EBA and request its assistance in accordance with Article 19 of Regulation (EU) No 1093/2010. In that case, the EBA may act in accordance with the powers conferred on it by that article.
+
+ 
+
+6. In cases where the authorisation of credit intermediaries is withdrawn by the home Member State that home Member State shall notify the host Member State(s) and EBA of such withdrawal as soon as possible and at the latest within one month, by any appropriate means.
+
+ 
+
+Competent authorities of different Member States shall cooperate with each other and with EBA whenever necessary for the purpose of carrying out their duties under this Directive, making use of their powers whether set out in this Directive or in other Union or national law. Competent authorities shall render assistance to competent authorities of the other Member States. In particular, they shall exchange information and cooperate in any investigation or supervisory activities.
+
+ 
+
+The competent authorities may refer situations to the EBA where a request for cooperation, in particular to exchange information, has been rejected or has not been acted upon within a reasonable time, and request its assistance in accordance with Article 19 of Regulation (EU) No 1093/2010. In such cases, the EBA may act in accordance with the powers conferred on it by that Article.
+
+ 
+
+7. Where the competent authority of the host Member State has clear and demonstrable grounds for concluding that a credit intermediary acting within its territory under the freedom to provide services is in breach of the obligations set out in this Directive or that a credit intermediary that has a branch within its territory is in breach of the obligations for which the competent authority of the host Member State does not have powers under paragraph 3 or 4, it shall refer those findings to the competent authority of the home Member State which shall take the appropriate measures. In cases where the competent authority of the home Member State fails to take any measures within one month of obtaining those findings or where, despite measures taken by the competent authority of the home Member State, a credit intermediary persists in acting in a manner that is clearly prejudicial to the interests of host Member State consumers or the orderly functioning of markets, the following shall apply:
+
+ 
+
+(a) The competent authority of the host Member State, after informing the competent authority of the home Member State shall take all the appropriate measures needed in order to protect consumers and the proper functioning of the markets including by preventing the offending credit intermediaries from initiating any further transactions within their territories. The Commission and EBA shall be informed of such measures without undue delay.
+
+ 
+
+(b) In addition, the competent authority of the host Member State may refer the matter to the EBA and request its assistance in accordance with Article 19 of Regulation (EU) No 1093/2010. In that case, the EBA may act in accordance with the powers conferred on it by that Article.
+
+ 
+
+8. Each Member State shall provide that, where a credit intermediary authorised in another Member State has established a branch within its territory, the competent authorities of the home Member State of the credit intermediary, in the exercise of its responsibilities and after having informed the competent authorities of the host Member State, may carry out on-site inspections in that branch.
+
+ 
+
+9. The allocation of tasks between Member States specified in this Article is without prejudice Article 4 and to the host Member State's powers in relation to fields not covered by this Directive, consistent with their obligations under Union law.
+
+Article 23 Authorisation, registration and supervision of non-credit institutions
+
+Member States shall ensure that non-credit institutions as referred to in Article 3(i) are subject to adequate authorisation, registration and supervision arrangements by a competent authority as defined in Article 4.
+
+Chapter 10 Final provisions
+
+Article 24 Penalties
+
+Member States shall impose sanctions for infringements of the national provisions adopted on the basis of this Directive and shall take all measures necessary to ensure that they are implemented. Those sanctions shall be effective, proportionate and dissuasive.
+
+
+2. Member States shall ensure that the competent authority discloses to the public any measure or sanction that will be imposed for infringement of the provisions adopted in the implementation of this Directive, unless such disclosure would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved.
+
+Article 2 5 Dispute resolution mechanisms
+
+1. Member States shall ensure that appropriate and effective complaints and redress procedures are established for the out-of-court settlement of disputes concerning rights and obligations established under this Directive between creditors and consumers and between credit intermediaries and consumers, using existing bodies where appropriate. Member States shall further ensure that all creditors and credit intermediaries adhere to one or more such bodies implementing such complaint and redress procedures.
+
+2. Member States shall ensure that these bodies actively cooperate in the resolution of cross-border disputes.
+
+Article 2 6 Exercise of the delegation
+
+1. The powers to adopt delegated acts referred to in Articles 6(4), 8(4), 9(3), 10(3), 14(5) and 16(2) shall be conferred on the Commission for an indeterminate period of time following the entry into force of this Directive.
+
+2. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+3. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in Articles 27 and 28.
+
+Article 27 Revocation of the delegation
+
+1. The delegation of powers referred to in Articles 6(4), 8(4), 9(3), 10(3), 14(5) and 16(2) may be revoked at any time by the European Parliament or by the Council.
+
+2. The institution which has commenced an internal procedure for deciding whether to revoke the delegation of powers shall inform the other legislator and the Commission at the latest one month before the final decision is taken, stating the delegated powers which could be subject to revocation and the reasons for any revocation.
+
+3. The decision of revocation shall terminate the delegation of the powers specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the Official Journal of the European Union.
+
+Article 28 Objections to delegated acts
+
+1. The European Parliament and the Council may object to a delegated act within a period of two months from the date of notification. At the initiative of the European Parliament or the Council that period shall be extended by one month.
+
+2. Where, on expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein. The delegated act may be published in the Official Journal of the European Union and enter into force before the expiry of that period where the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+3. Where either the European Parliament or the Council objects to an adopted delegated act within the period referred to in paragraph 1, it shall not enter into force. The institution which objects shall state the reasons for objecting to the delegated act.
+
+Article 29 Imperative nature of this Directive
+
+1. Member States shall ensure that consumers may not waive the rights conferred on them by the provisions of national law implementing or corresponding to this Directive.
+
+2. Member States shall further ensure that the provisions they adopt in implementation of this Directive cannot be circumvented as a result of the way in which agreements are formulated, in particular by integrating credit agreements falling within the scope of this Directive into credit agreements the character or purpose of which would make it possible to avoid its application.
+
+3. Member States shall take the necessary measures to ensure that consumers do not lose the protection granted by this Directive by virtue of the choice of the law of a third country as the law applicable to the credit agreement.
+
+Article 30 Transposition
+
+1. Member States shall adopt and publish, by [2 years after entry into force] at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.
+
+They shall apply those provisions from [2 years after entry into force] .
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article 31 Review clause
+
+The Commission shall undertake a review five years after the entry into force of this Directive. The review shall consider the effectiveness and appropriateness of the provisions on consumers and the internal market.
+
+The review shall include the following:
+
+(a) an assessment of consumer satisfaction with the ESIS;
+
+(b) other pre-contractual disclosures;
+
+(c) an analysis of cross-border business by credit intermediaries and creditors;
+
+(d) an analysis of the evolution of the market for non-credit institutions providing credit agreements relating to residential immovable property;
+
+(e) an assessment on the need for further measures, including a passport for non-credit institutions providing credit agreements relating to residential immovable property;
+
+(f) an examination of the necessity to introduce rights and obligations with regard to the post-contractual stage of credit agreements
+
+(g) an assessment of the need to extend its scope to small companies.
+
+Article 32
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+
+Article 33
+
+This Directive is addressed to the Member States in accordance with the Treaties.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+Annex I Calculation of the annual percentage rate of charge
+
+I. Basic equation expressing the equivalence of drawdowns on the one hand and repayments and charges on the other.
+
+The basic equation, which establishes the annual percentage rate of charge (APRC), equates, on an annual basis, the total present value of drawdowns on the one hand and the total present value of repayments and payments of charges on the other hand, i.e.:where:
+
+-  X is the APRC
+
+-  m is the number of the last drawdown
+
+-  k is the number of a drawdown, thus 1 ≤ k ≤ m
+
+-  Ck is the amount of drawdown k
+
+-  tk is the interval, expressed in years and fractions of a year, between the date of the first drawdown and the date of each subsequent drawdown, thus t1 = 0
+
+-  m' is the number of the last repayment or payment of charges
+
+-  l is the number of a repayment or payment of charges
+
+-  Dl is the amount of a repayment or payment of charges
+
+-  sl is the interval, expressed in years and fractions of a year, between the date of the first drawdown and the date of each repayment or payment of charges.
+
+Remarks:
+
+(a) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals.
+
+(b) The starting date shall be that of the first drawdown.
+
+(c) Intervals between dates used in the calculations shall be expressed in years or in fractions of a year. A year is presumed to have 365 days (or 366 days for leap years), 52 weeks or 12 equal months. An equal month is presumed to have 30.41666 days (i.e. 365/12) regardless of whether or not it is a leap year.
+
+(d) The result of the calculation shall be expressed with an accuracy of at least one decimal place. If the figure at the following decimal place is greater than or equal to 5, the figure at that particular decimal place shall be increased by one.
+
+(e) The equation can be rewritten using a single sum and the concept of flows (Ak), which will be positive or negative, in other words either paid or received during periods 1 to k, expressed in years, i.e.:S being the present balance of flows. If the aim is to maintain the equivalence of flows, the value will be zero.
+
+II. Additional assumptions for the calculation of the annual percentage rate of charge
+
+(a) If a credit agreement gives the consumer freedom of drawdown, the total amount of credit shall be deemed to be drawn down immediately and in full.
+
+(b) If a credit agreement provides different ways of drawdown with different charges or borrowing rates, the total amount of credit shall be deemed to be drawn down at the highest charge and borrowing rate applied to the most common drawdown mechanism for this type of credit agreement.
+
+(c) If a credit agreement gives the consumer freedom of drawdown in general but imposes, among the different ways of drawdown, a limitation with regard to the amount and period of time, the amount of credit shall be deemed to be drawn down on the earliest date provided for in the agreement and in accordance with those drawdown limits.
+
+(d) If there is no fixed timetable for repayment, it shall be assumed:
+
+(i) that the credit is provided for a period of twenty years, and
+
+(ii) that the credit will be repaid in 240 equal instalments and at monthly intervals.
+
+(e) If there is a fixed timetable for repayment but the amount of such repayments is flexible, the amount of each repayment shall be deemed to be the lowest for which the agreement provides.
+
+(f) Unless otherwise specified, where the credit agreement provides for more than one repayment date, the credit is to be made available and the repayments made on the earliest date provided for in the agreement.
+
+(g) If the ceiling applicable to the credit has not yet been agreed, that ceiling is assumed to be EUR 180 000.
+
+(h) In the case of a bridging loan the total amount of credit shall be deemed to be drawn down in full and for the whole duration of the credit agreement. If the duration of the credit agreement is not known the annual percentage rate of charge shall be calculated on the assumption that the duration of the credit is three months.
+
+(i) If different interest rates and charges are offered for a limited period or amount, the interest rate and the charges shall be deemed to be the highest for the whole duration of the credit agreement.
+
+(j) For credit agreements for which a fixed borrowing rate is agreed in relation to the initial period, at the end of which a new borrowing rate is determined and subsequently periodically adjusted according to an agreed indicator, the calculation of the annual percentage rate shall be based on the assumption that, at the end of the fixed borrowing rate period, the borrowing rate is the same as at the time of calculating the annual percentage rate, based on the value of the agreed indicator at that time.
+
+Annex IIEuropean Standardised Information Sheet (ESIS)
+
+PART A
+
+The text in this model shall be reproduced as such in the ESIS. Indications between square brackets shall be replaced with the corresponding information. Instructions on how to complete the ESIS are provided in Part B.
+
+Wherever 'where applicable' is indicated, the creditor shall fill in the box if the information is relevant to the credit agreement. Where the information is not relevant, the creditor shall delete the information in question or the entire section. In the latter case, the numbering of the ESIS sections shall be adjusted accordingly.
+
+The below information shall be provided in a single document. The font used shall be clearly readable. Bold font, shading or larger font sizes shall be used for the information elements to be highlighted.
+
+ESIS Model
+
+(Introductory text) |
+
+This document was produced on [current date] in reply to your request for information. This document does not constitute an obligation for us to grant you a loan. This document was produced on the basis of the information that you have provided so far and on the current financial market conditions. The information below remains valid until [validity date]. After that date, it may change in line with market conditions. |
+
+1. Lender |
+
+[Name] [Geographical address] [Telephone number] [E-mail address] [Web address] Supervisory authority: [Name and Web address of supervisory authority] Contact person: [Full contact details of contact person] |
+
+2. Main features of the loan |
+
+Amount and currency of the loan granted: [value][currency] (Where applicable) "This loan is not in [national currency]" Duration of the loan: [duration] [Type of loan] [Type of applicable interest rate] Total amount to be reimbursed: [Maximum available loan amount relative to the value of the property]: (Where applicable) [Security] |
+
+3. Interest rate |
+
+The APRC is the total cost of the loan expressed as an annual percentage. The APRC is provided to help you to compare different offers. The APRC applicable to your loan is [APRC]. It comprises: Interest rate [value in percentage] [Other components of the APRC] |
+
+4. Frequency and number of payments |
+
+Repayment frequency: [frequency] Number of payments: [number] |
+
+5. Amount of each instalment |
+
+[Amount] [currency] (Where applicable) The exchange rate used for converting your repayment in [credit currency] to [national currency] will be the rate published by [name of institution publishing exchange rate] on [date]. |
+
+6. Illustrative repayment table |
+
+This table shows the amount to be paid every [frequency]. The instalments (column [relevant no.]) are the sum of interest paid (column [relevant no.]), capital paid (column [relevant no.]) and, where applicable other costs (column [relevant no.]). Where applicable, The costs in the other costs column relate to [list of costs]. Outstanding capital (column [relevant no.]) is the amount of the loan that remains to be reimbursed after each instalment. [Amount and currency of the loan] [Duration of the loan] [Interest rate] [Table] (Where applicable) [Warning on the variability of the instalments] |
+
+7. Additional obligations and costs |
+
+The borrower must comply with the following obligations in order to benefit from the lending conditions described in this document. [Obligations] (Where applicable) Please note that the lending conditions described in this document (including the interest rate) may change if these obligations are not complied with. In addition to the costs already included in the [frequency] instalments, this loan entails the following costs: Costs to be paid on a one-off basis Costs to be paid regularly Please make sure that you are aware of all other taxes and costs (e.g. notary fees) associated with this loan. |
+
+8. Early repayment |
+
+(Where applicable) You do not have the possibility to repay this loan early. (Where applicable) You have the possibility to repay this loan early, either fully or partially. (Where applicable) [Conditions] [Procedure] (Where applicable) Exit charge: (Where applicable) Should you decide to repay this loan early, please contact us to ascertain the exact level of the exit charge at that moment. |
+
+(Where applicable) 9. Right of withdrawal |
+
+For a period of [length of withdrawal period] after the signing of the credit agreement, the borrower may exercise his right to cancel the agreement. |
+
+10. Internal complaint scheme |
+
+[Name of the relevant department] [Geographical address] [Telephone number] [E-mail address] Contact person: [contact details] |
+
+11. External complaint body |
+
+In the event of disagreement with the lender which remains unresolved the borrower has the possibility to address a complaint to: [Name of the complaint body] [Geographical address] [Telephone number] [E-mail address] |
+
+12. Non-compliance with the commitments linked to the loan: consequences for the borrower |
+
+[Types of non-compliance] [Financial and/or legal consequences] Should you encounter difficulties in making your [frequency] payments, we invite you to contact us as quickly as possible to explore possible solutions. |
+
+(Where applicable) 13. Additional information in the case of distance marketing |
+
+(Where applicable) The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract is [applicable law]. Information and contractual terms will be supplied in [language]. With your consent, we intend to communicate in [language/s] during the duration of the credit agreement. |
+
+14. Risks and warnings |
+
+We draw your attention to the risks involved in taking out a mortgage loan. (Where applicable) The interest rate of this loan does not remain fixed during the whole duration of the loan. (Where applicable) This loan is not in [national currency]. Please note that the amount in [national currency] that you will need to pay at each instalment will vary in line with the [loan’s currency/national currency] exchange rate. (Where applicable)This is an interest-only loan. This means that, during its duration, you will need to build up enough capital in order to reimburse the loan amount at maturity. You will also need to pay other taxes and costs (where applicable), e.g. notary fees. Your income may change. Please make sure that if your income falls you will still be able to afford your [frequency] repayment instalments. (Where applicable) Your home may be repossessed if you do not keep up with payments. |
+
+PART B
+
+Instructions to complete the ESIS
+
+In completing the ESIS, the following instructions shall be followed:
+
+Section 'Introductory text'
+
+(1) The validity date shall be properly highlighted.
+
+Section '1. Lender'
+
+(1) Name, telephone number, geographical address and web address of the creditor shall refer to the creditor’s headquarters. The relevant authority for the supervision of lending activities shall be indicated.
+
+(2) Information on the contact person is optional.
+
+(3) In line with Article 3 of Directive 2002/65/EC, where the transaction is being offered at a distance, the creditor shall indicate, where applicable, the name and geographical address of its representative in the Member State of residence of the borrower. Indication of the telephone number, e-mail address and web address of the representative of the credit provider is optional.
+
+(4) In line with Article 3 of Directive 2002/65/EC, where the transaction is being offered at a distance, the creditor shall indicate the name of the trade register in which the creditor is entered and its registration number or an equivalent means of identification in that register.
+
+Section '2. Main features of the loan'
+
+(1) The duration of the credit shall be indicated in years or months, whichever is the most relevant. Where the duration of the credit can vary during the life of the contract, the creditor shall explain when and under which conditions this can occur.
+
+The description of the type of credit shall clearly indicate how the capital and the interest shall be reimbursed during the life of the credit (i.e. constant, progressive or regressive reimbursements).
+
+(2) This section shall also explain whether the interest rate is fixed or variable and, where applicable, the periods during which it will remain fixed; the frequency of subsequent revisions and the existence of limits to the interest rate variability, such as caps or floors. The formula used to revise the interest rate shall be explained. The creditor shall also indicate where further information on the indices or rates used in the formula can be found. Where the credit currency is different from the national currency, the creditor shall include information on the formula used to calculate the exchange rate spreads and the frequency of their adjustment.
+
+(3) 'Total amount to be reimbursed' shall be calculated as the sum of the credit amount and the total cost of the credit.
+
+(4) 'Maximum available loan amount relative to the value of the property' shall indicate the loan-to-value ratio. This ratio is to be accompanied by an example in absolute terms of the maximum amount that can be borrowed for a given property value.
+
+(5) Where the credit will be secured by a mortgage on the property or another commonly used guarantee, the creditor shall draw the borrower’s attention to this.
+
+Section '3. Interest rate'
+
+(1) In addition to the interest rate, all the other costs contained in the APRC shall be listed (name and equivalence in percentage). Where providing a percentage rate for each of those costs is not possible or does not make sense, the creditor shall provide a global percentage rate.
+
+Section '4. Frequency and number of payments'
+
+(1) Where payments are to be done on a regular basis, the frequency of payments shall be indicated (e.g. monthly). Where the frequency of payments will be irregular, this shall be clearly explained to the borrower. The number of payments indicated shall cover the whole duration of the credit.
+
+Section '5. Amount of each instalment'
+
+(1) The loan currency shall be clearly indicated.
+
+(2) Where the amount of the instalments may change during the life of the credit, the creditor shall specify the period during which that initial instalment amount will remain valid and when and how frequently afterwards it will change.
+
+(3) Where the credit currency is different to the borrower’s national currency, the creditor shall include numerical examples clearly showing how changes to the relevant exchange rate may affect the amount of the instalments. The illustrated exchange rate changes need to be realistic, symmetrical and include at least the same number of unfavourable cases as favourable cases.
+
+(4) Where the currency used for the payment of instalments is different from the credit currency, the exchange rate to be used shall be clearly indicated. Such indications shall include the name of the institution publishing the exchange and the moment at which the applicable exchange is calculated.
+
+Section '6. Illustrative repayment table'
+
+(1) Where the interest may vary during the life of the credit, the creditor shall indicate, after the reference to the interest rate, the period during which that initial interest rate will remain valid.
+
+(2) The table to be included in this section shall contain the following columns: 'repayment moment', 'amount of the instalment', 'interest to be paid per instalment', 'other costs included in the instalment' (where relevant), 'capital repaid per instalment' and 'outstanding capital after each instalment'.
+
+(3) For the first repayment year the information shall be given for each instalment and a subtotal shall be indicated for each of the columns at the end of that first year. For the following years, the detail can be provided on an annual basis. An overall total row shall be added at the end of the table and shall provide the total amounts for each column. The total amount paid by the borrower (i.e. the overall sum of the 'amount of the instalment' column) shall be clearly highlighted and presented as such.
+
+(4) Where the interest rate is subject to revision and the amount of the instalment after each revision is unknown, the creditor may indicate in the repayment table the same instalment amount for the whole credit duration. In such a case, the creditor shall draw that fact to the attention of the borrower by visually differentiating the amounts which are known from the hypothetical ones (e.g. using a different font, borders or shading). In addition, a clearly legible text shall explain for which periods the amounts represented in the table may vary and why. The creditor shall also include: (1) where relevant, the applicable caps and floors; (2) an example of how the amount of the instalment would vary where the interest rate increases or decreases by 1 % or by a higher percentage, where this is more realistic given the magnitude of normal changes to the interest rate and (3) where there is a cap, the instalment amount in the worst-case scenario.
+
+Section '7. Additional obligations and costs'
+
+(1) The creditor shall refer in this section to obligations such as the need to insure the property, to purchase life insurance or to buy any other product or service. For each obligation, the creditor shall specify towards whom and by when the obligation needs to be fulfilled.
+
+(2) The creditor shall also list each of the costs by category, indicating their amount, to whom they are to be paid and at what moment. Where the amount is not known, the creditor shall provide a possible range or an indication of how the amount will be calculated.
+
+Section '8. Early repayment'
+
+(1) Where the credit may be repaid early, the creditor shall indicate under what conditions, if any, the borrower can do so. The creditor shall also indicate the steps the borrower should take in order to request the early repayment.
+
+(2) Where an exit charge will be applied to the early repayment, the creditor shall draw the borrower’s attention to this and indicate its amount. In cases where the amount of the exit charge would depend on different factors, such as the amount repaid or the prevailing interest rate at the moment of the early repayment, the creditor shall indicate how the exit charge will be calculated. The creditor shall then provide at least two illustrative examples in order to demonstrate to the borrower the level of the exit charge under different possible scenarios.
+
+Section '9. Right of withdrawal'
+
+(1) Where a right of withdrawal exists, the creditor shall specify the conditions to which this right is subject, the procedure that the borrower will need to follow in order to exercise this right, inter alia, the address to which the notification of withdrawal should be sent, and the corresponding fees (where applicable).
+
+(2) In line with Article 3 of Directive 2002/65/EC, where the transaction is being offered at a distance, the consumer shall be informed of the existence or absence of a right of withdrawal.
+
+(3) In line with Article 5 of Directive 85/577/EEC, where the transaction is being offered away from business premises, the consumer shall be informed of the existence of a right of withdrawal.
+
+Section '10. Internal complaint scheme'
+
+(1) Information on the contact person is optional.
+
+Section '11. External complaint body'
+
+(1) In line with Article 3 of Directive 2002/65/EC, where the transaction is being offered at a distance, the creditor shall also specify whether or not there is an out-of-court complaint and redress mechanism for the borrower and, if so, explain the methods of access to it.
+
+Section '12. Non-compliance with the commitments linked to the credit: consequences for the borrower'
+
+(1) Where non-observance of any of the borrower’s obligations linked to the credit may have financial or legal consequences for the borrower, the creditor shall describe in this section the different possible cases (e.g. late payments/default, failure to respect the obligations set out in Section 7 'Additional obligations and costs').
+
+(2) For each of those cases, the creditor shall specify, in clear, easily comprehensible terms, the penalties or consequences to which they may give rise. Reference to serious consequences should be highlighted.
+
+Section '13. Additional information in the case of distance marketing'
+
+(1) Where applicable, this section will include a clause stipulating the law applicable to the credit agreement and/or the competent court.
+
+Section '14. Risks and warnings'
+
+(1) All the listed warnings shall be highlighted.
+
+(2) Where applicable, the creditor shall recapitulate in this section the general interest rate revision rules and provide a quantitative example of how the instalments would increase if the credit’s interest rate were to increase by X % (as explained in section 'Illustrative repayment table') and/or in the worst-case scenario (if there is a cap on the interest rate variability).
+
+[1] Creditors are defined as credit institutions and non-credit institutions.
+
+[2] E.g. foreign currency lending, self-certified mortgages.
+
+[3] COM(2007) 807, 18.12.2007.
+
+[4] Driving European Recovery, COM(2009) 114, 4.3.2009.
+
+[5] Hypostat 2008: A review of Europe’s Mortgage and Housing Markets , European Mortgage Federation, November 2009, pp. 7, 70 and 71.
+
+[6] OJ L 376, 27.12.2006, p. 21.
+
+[7] OJ L 149, 11.6.2005, p. 22.
+
+[8] OJ L 95, 21.4.1993, p. 29.
+
+[9] European Agreement on a voluntary Code of Conduct on pre-contractual information for home loans , 5.3.2001.
+
+[10] OJ L 69, 10.3.2001, p. 25.
+
+[11] OJ L 133, 22.5.2008, p. 66.
+
+[12] OJ L 177, 30.6.2006, p. 1.
+
+[13] Directive 2008/48/EC on credit agreements for consumers, 23.4.2008.
+
+[14] COM(2007) 807, 18.12.2007.
+
+[15] http://ec.europa.eu/internal_market/finances/committees/index_en.htm#package
+
+[16] OJ L 9, 15.1.2003, p. 3.
+
+[17] OJ C XX, XX, p. xx.
+
+[18] OJ C XX, XX, p. xx.
+
+[19] OJ C XX, XX, p. xx.
+
+[20] OJ C XX, XX, p. xx.
+
+[21] OJ C XX, XX, p. xx.
+
+[22] OJ C XX, XX, p. xx.
+
+[23] OJ C XX, XX, p. xx.
+
+[24] COM(2007) 807, 18.12.2007.
+
+[25] Driving European Recovery, COM(2009) 114, 4.3.2009.
+
+[26] OJ L 124, 20.5.2003, p. 36.
+
+[27] OJ L 133, 22.5.2008, p. 66.
+
+[28] OJ L 271, 9.10.2002, p. 16.
+
+[29] OJ L 372, 31.12.1985, p. 31.
+
+[30] OJ L 9, 15.1.2003, p. 3.
+
+[31] OJ L 145, 30.4.2004, p. 1.
+
+[32] OJ L 69, 10.3.2001, p. 25.
+
+[33] OJ L 281, 23.11.1995, p. 31.
+
+[34] OJ L 177, 30.6.2006, p. 1.
+
+[35] OJ L 331, 15.12.2010, p. 12.
+
+[36] OJ C 321, 31.12.2003, p. 1.
+
+[37] OJ L 193, 18.7.1993, p. 1.
+
+[38] OJ L 149, 11.6.2005, p. 22.

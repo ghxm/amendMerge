@@ -1,0 +1,4245 @@
+@import url(./../../../../css/com/com-c.css)
+
+EUROPEAN COMMISSION
+
+Brussels, 31.10.2019
+
+COM(2019) 581 final
+
+2019/0254(COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+laying down certain transitional provisions for the support by the European Agricultural Fund for Rural Development (EAFRD) and by the European Agricultural Guarantee Fund (EAGF) in the year 2021 and amending Regulations (EU) No 228/2013, (EU) No 229/2013 and (EU) No 1308/2013 as regards resources and their distribution in respect of the year 2021 and amending Regulations  (EU) No 1305/2013, (EU) No 1306/2013 and (EU) No 1307/2013 as regards their resources and application in the year 2021
+
+EXPLANATORY MEMORANDUM
+
+1.
+
+CONTEXT OF THE PROPOSAL
+
+•
+
+Reasons for and objectives of the proposal
+
+(a)
+
+Extension of the applicability of the existing regulations
+
+The Commission’s r
+
+eform proposals
+
+1
+
+on the common agricultural policy (CAP) beyond 2020
+
+provide that the Member States start to implement their Strategic Plans as from 1 January 2021. This would imply that Member States submit their Strategic Plans
+
+at the latest
+
+by 1 January 2020 and that the Commission approves these plans in the course of the year. In view of the present state of play in both the Parliament and the Council, it is clear that the basic acts and the ensuing delegated and implementing acts will not be formally adopted by January 2020 and that, therefore, it will be necessary to plan for a transitional period.
+
+This transitional period will require the extension of the applicability of the existing legal framework and adaptations of certain rules to ensure the continuity of the CAP until the new system is in place.
+
+Regulations (EU) No 1305/2013, 1306/2013, 1307/2013 and 1308/2013 are formally not limited in time and, therefore, will continue to apply until they are repealed. Regulation (EU) No 1305/2013 will continue to apply to the support approved by the Commission under Regulation 1305/2013.
+
+However, the Direct Payments Regulation (EU) No 1307/2013 and the Rural Development Regulation (EU) No 1305/2013 do not contain the amount of Union support or national ceilings for the years after 2020. This is also true for Regulation (EU) No 228/2013 on specific measures for agriculture in the outermost regions of the Union and Regulation (EU) No 229/2013 on specific measures for agriculture in favour of the smaller Aegean islands. These Regulations will therefore become in practice inapplicable as of 2021. Therefore, they need to be amended to include the relevant amounts/ceilings, when they are decided for the new MFF 2021-2027. Furthermore, in the Direct Payments Regulation (EU) No 1307/2013 certain rules were limited to the period until 2019. Regulation (EU) 2019/288 amending the Direct Payments Regulation provides for rules for calendar year 2020. These rules will need to be extended another time for the transitional period. For the sake of clarity and legal certainty, certain rules also need to be added or certain existing rules need to be amended to ensure continuity.
+
+Regulation (EU) No 1303/2013 provides rules in relation to the 2014-2020 programming. As the current programming period in rural development will have to be extended beyond this period, certain regulatory deadlines defined in that regulation will need to be adjusted accordingly.
+
+The provisions on the financing, management and monitoring of the CAP laid down in Regulation (EU) No 1306/2013 continue to apply, but certain modifications should be made to ensure continuity in the transitional period.
+
+This proposal aims at providing certainty and continuity in the granting of support to European farmers and ensuring the continuity of support for rural development in the transitional period for those Member States that have used their 2014-2010 EAFRD allocations by extending the current legal framework until the new CAP becomes applicable. In order to allow Member States to make the necessary adaptations at national level, these changes would need to be adopted by the Council and the European Parliament by mid-2020.
+
+(b)
+
+Transition to the next CAP period
+
+The new CAP comes with significant changes. Transitional rules are needed to ensure a smooth transition from the current to the next CAP period.
+
+As for the second pillar, the definition of transitional rules between the two programming periods represents a standard practice. Transitional rules are generally needed to bridge two consecutive programming periods. In view of the significant changes that come with the Commission’s reform proposals, there is all the more the need for transitional arrangements, in particular concerning the continuation of multiannual commitments undertaken in the current and previous programming periods.
+
+The Single CMO Regulation (EU) No 1308/2013 lays down rules for the common organisation of agricultural markets, including aid schemes for specific sectors. It sets out the parameters for intervening on agricultural markets and providing sector-specific support. To ensure coherence, most interventions of the new CAP will be part of one strategic CAP support plan per Member State, including several sectorial interventions that have previously been set out in Regulation (EU) No 1308/2013. Under the current rules, the different sectoral programmes follow different time frames. To ensure coherence, continuity and a smooth transition between the aid schemes under Regulation (EU) No 1308/2013 and the sectoral types of interventions under the new CAP it is necessary to set rules regarding the duration of each of these aid schemes with respect to the entry into application of the Member States’ CAP Strategic Plans. For aid schemes in the fruit and vegetables sector and in the olive oil and table olives sector, it is necessary to regulate the continuation and modification of operational programmes and work programmes.
+
+•
+
+Consistency with existing policy provisions in the
+
+policy area
+
+The proposed amendments are consistent with the existing Regulations (EU) No 1305/2013, 1307/2013 and 1308/2013, therefore the proposal is consistent with the existing policy provisions of the CAP.
+
+•
+
+Consistency with other Union
+
+policies
+
+The proposed amendments are consistent with the proposal for
+
+a
+
+R
+
+egulation laying
+
+down
+
+the multiannual financial framework for the years 2021 to 2027
+
+(MFF)
+
+2
+
+and the proposal
+
+f
+
+or the Common
+
+Provisions Regulation (CPR)
+
+3
+
+.
+
+2.
+
+LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+
+•
+
+Legal basis
+
+Articles 43(2) and Article 349 of the Treaty on the Functioning of the European Union (TFEU).
+
+•
+
+Subsidiarity (for non-exclusive competence)
+
+The TFEU provides that the competence for agriculture is shared between the Union and the Member States. The Union exercises its competence through the adoption of various legislative acts, thereby defining and implementing an EU common agricultural policy as provided for in Article 38 to 44 of the Treaty on the Functioning of the European Union. The aim of this proposal is to bridge the period until the new CAP becomes applicable by extending the current legal framework and to ensure a smooth transition from the current to the next CAP period. These objectives can only be achieved through an amendment of Regulations (EU) No 1305/2013, No 1306/2013, No 1307/2013, No 1308/2013, No 228/2013 and (EU) No 229/2013 as well as by laying down certain transitional provisions.
+
+•
+
+Proportionality
+
+The proposal does not entail any new policy developments compared to the legislative acts it intends to amend and the legislative framework it intends to transition into. The proposal modifies the existing Regulations only to the extent necessary to achieve the objectives outlined above.
+
+•
+
+Choice
+
+of the instrument
+
+Since the original legislative acts are regulations of the European Parliament and the Council, the amendments must also be introduced as a European Parliament and Council regulation by means of the ordinary legislative procedure.
+
+3.
+
+RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+
+•
+
+Ex-post evaluations/fitness checks of existing legislation
+
+Not applicable.
+
+•
+
+Stakeholder consultations
+
+Not applicable.
+
+•
+
+Collection and use of expertise
+
+Not applicable.
+
+•
+
+Impact assessment
+
+The proposal addresses legal needs that follow from the late application of the new CAP due to the state of play of the discussions between the Institutions regarding the CAP reform. Without such legislation, farmers and other beneficiaries of the CAP risk not receiving support in 2021. This is why Member States are requesting the Commission to propose such legislation. It also proposes transitional adjustments that are necessary due to the significant changes that come with the Commission’s reform proposals. In this context, an impact assessment is not pertinent.
+
+•
+
+Regulatory fitness and simplification
+
+Not applicable.
+
+•
+
+Fundamental rights
+
+The proposal respects the fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union.
+
+4.
+
+BUDGETARY IMPLICATIONS
+
+The current Regulations (EU) No 1305/2013 on rural development and (EU) No 1307/2013 on direct payments do not lay down allocations for the transitional period (beyond calendar year 2020). Therefore, the initiative has a budgetary impact in the sense that it adds the allocations for direct payments and rural development for the relevant transitional period to ensure smooth continuity. These allocations are equal to those in the CAP Plan proposal and they are coherent with the Commission’s proposal on the MFF 2021-2027. Where Member States do not decide to prolong their current rural development programmes, the 2021 EAFRD allocations will be transferred to the 2022 – 2025 EAFRD allocations.
+
+Similarly, for the transitional period, the allocations contained in Regulations (EU) No 1308/2013, (EU) No 228/2013 and (EU) No 229/2013 need to be adjusted to respect the overall amounts for the European Agricultural Guarantee Fund (EAGF) included in the MFF proposal.
+
+The reserve for agricultural crises referred to in Article 25 of Regulation (EU) No 1306/2013 is proposed to be maintained throughout the transitional period to ensure continuity. It is to be financed through financial discipline applied on direct payments. As such, it does not entail any additional expenditure.
+
+The present proposal is neutral in terms of overall budgetary commitments. The impact as regards the estimated schedule for payment appropriations will depend on Member States decisions as regards the prolongation of the current rural development programmes.
+
+Similarly, any decision of Member States to transfer funds between direct payments and rural development will be neutral in terms of overall budgetary commitments but may have an impact in terms of timing of payments that however cannot be estimated.
+
+Further details on the financial implications of the present proposal are provided in the financial statement attached to the proposal.
+
+5.
+
+OTHER ELEMENTS
+
+•
+
+Implementation plans and monitoring, evaluation and reporting arrangements
+
+The existing system
+
+with its inherent implementation plans and monitoring, evaluation and reporting arrangements
+
+is extended.
+
+•
+
+Explanatory documents (for directives)
+
+Not relevant.
+
+•
+
+Detailed explanation of the specific provisions of the proposal
+
+The proposal concerns seven regulations:
+
+·
+
+Regulation (EU) No 1303/2013 of
+
+the European Parliament and of the
+
+Council laying down common provisions
+
+on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund (hereinafter: CPR)
+
+·
+
+Regulation (EU) No 1305/2013 of the European Parliament and of the
+
+Council on support for rural development by the European Agricultural Fund for Rural Development (hereinafter: RD Regulation)
+
+·
+
+Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy (hereinafter: Horizontal Regulation)
+
+·
+
+Regulation (EU) No 1307/2013 of the European Parliament a
+
+nd of the Council establishing rules for direct payments to farmers under support schemes wit
+
+h
+
+in the framework of the
+
+common agricultural policy (hereinafter: DP Regulation)
+
+·
+
+Regulation (EU) No 1308/2013
+
+of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products (hereinafter: CMO Regulation)
+
+·
+
+Regulation (EU) No
+
+228/2013
+
+of the European Parliament and of the Council
+
+laying down specific measures for agriculture in the outermost regions of the Union and repealing Council Regulation (EC) No 247/2006
+
+·
+
+Regulation (EU) No
+
+229/2013
+
+of the European Parliament and of the Council
+
+laying down specific measures for agriculture in favour of the smaller Aegean islands and repealing Council Regulation (EC) No 1405/2006
+
+The proposal is divided in two titles.
+
+The first title includes four chapters, covering provisions extending the current legal framework to bridge the additional period until the CAP Plan is applicable and specific transitional provisions to ensure a smooth transition from the current to the next CAP period.
+
+The second title mainly covers provisions extending the current legal framework.
+
+Title I sets new stand-alone provisions.
+
+Title II amends existing provisions.
+
+Regulation (EU) No 1303/2013 (CPR)
+
+It is necessary that Regulation (EU) No 1303/2013, laying down common rules for several funds including the European Agricultural Fund for Rural Development (EAFRD), continues to apply to programmes supported by the EAFRD for the 2014–2020 programming period as well as to those programmes supported by the EAFRD which Member States decide to extend for the transitional period. In this regard, certain regulatory deadlines need to be adapted to cover the transitional period.
+
+Regulation (EU) No 1305/2013
+
+The proposed amendments to Regulation (EU) No 1305/2013 concern the optional extension of the current programming period 2014-2020 for a year. They include the relevant amounts of Union support for the extended period after 2020 in line with the Commission’s proposal on the MFF 2021-2027.
+
+This proposal also ensures that multi-annual commitments from the current programming period (Art. 28, 29 and 33) can be continued into the new programming period. Member States will have to determine a shorter period for new commitments.
+
+Moreover, it ensures the continued financing of commitments based on current as well as previous rules with the EAFRD financial envelopes of the next period.
+
+Regulation (EU) No 1306/2013
+
+The main adjustment concerns the reserve for agricultural crises referred to in Article 25 of Regulation (EU) No 1306/2013 which is proposed to be maintained throughout the transitional period to ensure continuity. The proposal also addresses certain regulatory deadlines that need to be adapted to cover the transitional period.
+
+Regulation (EU) No 1307/2013
+
+The Regulation currently includes national and net ceilings for direct payments up to calendar year 2020 included. Therefore, ceilings should be added for calendar year 2021 and the reference amounts for the crop-specific payment for cotton for calendar year 2021 should also be adapted. The proposal also aims to address errors made by Member States in the allocation of payment entitlements, regarding both the number and value of payment entitlements. In the interest of legal certainty, payment entitlements should be regularised from 2021.The proposal includes the possibility for Member States to continue transferring funds between pillars after calendar year 2020. It also renders the option for Member States to continue the internal convergence process after 2019, explicit. It provides for a prolongation of SAPS in the transitional period.
+
+Regulation (EU) 1308/2013
+
+The proposed amendments to Regulation (EU) No 1308/2013 adjust the amounts of Union support for specific aid schemes for the transitional period in line with the Commission proposal for the MFF 2021-2027. They also lay down rules on the duration of each of these aid schemes with respect to the entry into application of the Member States’ future CAP Strategic Plans and for aid schemes in certain sectors rules on the continuation and modification of operational programmes and work programmes.
+
+Regulation (EU) No 228/2013
+
+The proposed amendments to Regulation (EU) No 228/2013 concern the relevant amounts of Union support available for specific measures for the transitional period in line with the MFF 2021-2027.
+
+Regulation (EU) No 229/2013
+
+The proposed amendments to Regulation (EU) No 229/2013 concern the relevant amounts of Union support available for specific measures for the transitional period in line with the MFF 2021-2027.
+
+2019/0254 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+laying down certain transitional provisions for the support by the European Agricultural Fund for Rural Development (EAFRD) and by the European Agricultural Guarantee Fund (EAGF) in the year 2021 and amending Regulations (EU) No 228/2013, (EU) No 229/2013 and (EU) No 1308/2013 as regards resources and their distribution in respect of the year 2021 and amending Regulations  (EU) No 1305/2013, (EU) No 1306/2013 and (EU) No 1307/2013 as regards their resources and application in the year 2021
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(2) and Article 349 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee
+
+4
+
+,
+
+Having regard to the opinion of the Committee of the Regions
+
+5
+
+,
+
+Having regard to the opinion of the Court of Auditors,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)
+
+The Commission’s
+
+legislative proposals
+
+6
+
+on the common agricultural policy (CAP) beyond 2020 aim
+
+ed
+
+to make the CAP more responsive to current and future challenges such as climate change or generational renewal, while continuing to support farmers
+
+in the Union
+
+for a sustainable and comp
+
+etitive agricultural sector. Tho
+
+se proposals are closely
+
+linked to the multiannual financial framework (MFF) of the Union for the years 2021 to 2027.
+
+(2)
+
+The Commission proposed to link the
+
+CAP
+
+to the
+
+delivery of
+
+performance (‘delivery model’). Under the new legal framework, t
+
+he Union
+
+is to
+
+set the basic policy parameters, such as
+
+objectives of the CAP and basic requirements, while Member States
+
+are to
+
+bear greater responsibility as to how they meet the objectives and achieve targets.
+
+Accordingly, Member States are to draw up CAP Strategic Plans, which are to be approved by the Commission and implemented by Member States
+
+.
+
+(3)
+
+T
+
+he legislative procedure
+
+was not concluded
+
+i
+
+n time to allow
+
+Member States and the Commission to prepare all elements necessary to apply the
+
+new legal framework
+
+and the CAP Strategic Plans
+
+as of 1 January 2021
+
+, as initially proposed by the Commission.
+
+(4)
+
+Therefore, i
+
+n order to ensure
+
+that
+
+support
+
+can be granted to
+
+farmers and other beneficiaries
+
+from
+
+the European Agricultural Guarantee Fund (EAGF) and the European Agricultural Fund for Rural Development (EAFRD)
+
+in 2021,
+
+the Union should continue to grant
+
+such
+
+support for one more year under the conditions of the existing legal framework
+
+, which
+
+covers the period 2014 to 2020
+
+. The existing legal framework is
+
+laid down in particular
+
+in
+
+Regulation
+
+s (EU) No 1303/2013
+
+7
+
+, (EU) No 1305/2013
+
+8
+
+,
+
+(EU) No 1306/2013
+
+9
+
+,
+
+(EU) No 1307/2013
+
+10
+
+, (EU) No 1308/2013
+
+11
+
+,
+
+(EU) No 228/2013
+
+12
+
+and (EU) No 229/2013
+
+13
+
+of the European Parliament and of the Council
+
+.
+
+In addition, t
+
+o facilitate the transition from existing support schemes to the new legal framework which cover
+
+s
+
+the period starting on 1 January 2022
+
+,
+
+rules should be laid down to regulate how certain support granted on a multiannual basis
+
+will be integrated in
+
+to
+
+the new legal framework.
+
+(5)
+
+In light of the fact that the Union should continue to support rural development in 2021,
+
+Member States
+
+,
+
+that
+
+demonstrate the
+
+risk to run out of funds and not to be able to undertake new legal commitments in accordance with
+
+Regulation (EU) No 1305/2013
+
+,
+
+should have the possibility to extend their
+
+rural development
+
+programmes
+
+or certain of their regional rural development programmes
+
+supported by the EAFRD
+
+to 31 December 2021 and
+
+to finance
+
+tho
+
+se extended programmes
+
+from the corresponding budget allocation for
+
+the
+
+year 2021.
+
+The extended programmes should aim at maintaining at least the same overall level of environment and climate ambition.
+
+(6)
+
+Since certain Member States may
+
+still have
+
+funds provided by the Union in previous years,
+
+Member States should
+
+also have the possibility not to extend their rural development programmes or not to extend certain of their regional rural development programmes
+
+.
+
+T
+
+hose Member States should have the possibility
+
+to transfer the EAFRD budget allocation for 2021
+
+or the part of the EAFRD budget allocation corresponding to
+
+the
+
+regional rural development programmes that have not be
+
+en
+
+extended
+
+, to the
+
+financial
+
+allocation
+
+s
+
+for the years 2022 to 2025
+
+,
+
+in accordance with
+
+the
+
+Council
+
+Regulation (EU) …/…
+
+[Regulation laying down the multiannual financial framework for the years 2021 to 2027]
+
+14
+
+.
+
+(7)
+
+In order to allow the Commission to provide the necessary financial planning and the corresponding adjustments of the annual breakdowns of the Union support set out in the Annex to Regulation (EU) No 1305/2013, Member States should inform the Commission soon after the entry into force of this Regulation whether they decide to extend their rural development programmes and, in case of regional rural development programmes, which of those programmes they decide to extend, and consequently which corresponding amount of the budget allocation for 2021 is not to be transferred to the following years
+
+.
+
+(8)
+
+Regulation (EU) No 1303/2013
+
+lays down common rules applicable to the EAFRD and some other Funds, which operate under a common framework. That Regulation should continue to apply to programmes supported by the EAFRD for the 2014–2020 programming period as well as to those programmes supported by the EAFRD for which Member States decide to extend that period to 31 December 2021. For those Member States, the Partnership Agreement drawn up for the period from 1 January 2014 to 31 December 2020 in accordance with Regulation (EU) No 1303/2013 should continue to be used as a strategic document by Member States and the Commission with regard to the implementation of support granted by the EAFRD for the
+
+programming
+
+year 2021
+
+.
+
+(9)
+
+C
+
+ertain deadlines
+
+laid down in Regulation (EU) No 1303/2013
+
+in respect of
+
+implementation reports, annual review
+
+meetings
+
+, ex-post evaluations
+
+and synthesis reports
+
+, eligibility of expenditure and decommitment
+
+as well as
+
+budget commitments
+
+are limited to the 2014-2020 programming period.
+
+T
+
+h
+
+ose
+
+deadlines
+
+should be adapted
+
+to take account of
+
+the extended duration of
+
+the period during which programmes relating to
+
+support
+
+from the EAFRD may be implemented
+
+.
+
+(10)
+
+Regulation (EU) No 1310/2013 of the Europea
+
+n Parliament and of the Council
+
+15
+
+and
+
+Commission Delegated Regulation (EU) No 807/2014
+
+16
+
+provide that expenditure for certain long-term commitments undertaken pursuant to
+
+certain
+
+r
+
+egulations that granted support for rural development before Regulation (EU) No 1305
+
+/2013
+
+should continue to be paid by
+
+the
+
+EAFRD in the 2014-2020 programming period under certain conditions. Th
+
+at
+
+expenditure
+
+should also continue to be
+
+eligible
+
+for the duration of their respective
+
+legal
+
+commitment
+
+under the same conditions
+
+in
+
+the
+
+programming
+
+year 2021.
+
+For reasons of legal clarity and certainty, it also should be clarified that the
+
+legal
+
+commitments undertaken under measures that correspond to
+
+measures of Regulation (EU) No 1305/2013 to which
+
+the integrated administration and
+
+control system
+
+applies,
+
+should be subject
+
+to this
+
+integrated administration and control system
+
+and that payments related to these
+
+legal
+
+commitments have to be made within the period from 1 December to 30 June of the following calendar year.
+
+(11)
+
+For reasons of coherence
+
+with the other Funds regulated by
+
+Regulation (EU) XXXX/XXXX [New CPR of the European Parliament and of the Council
+
+]
+
+17
+
+.
+
+, t
+
+he
+
+EAFRD should be able to
+
+support Community-led local development set up in accordance with the new rules
+
+laid down
+
+in
+
+that
+
+Regulation
+
+.
+
+(12)
+
+In the allocation of payment entitlements (or recalculation for Member States keeping existing entitlements) in 2015 under Regulation (EU) No 1307/2013, some Member States made errors in the establishment of the number or value of payment entitlements.
+
+Many of those
+
+errors
+
+,
+
+even
+
+when occurred
+
+for a single farmer
+
+,
+
+influence the value of the payment entitlements for all farmers and for all years. Some Member States made errors also after 2015, when allocating entitlements from the reserve (e.g. in the calculation of the average value).
+
+These
+
+non-compliance
+
+s are
+
+normally subject to financial correction until corrective measures are taken
+
+by the Member State concerned. In the light of
+
+the
+
+time
+
+that has elap
+
+sed since the first allocation,
+
+the efforts made by Member States to establish, and where relevant, correct entitlements
+
+,
+
+and
+
+also
+
+i
+
+n the interest of legal certainty, the
+
+number and value
+
+of payment entitlements should be considered
+
+legal and regular
+
+with effect from a certain date.
+
+(13)
+
+However, t
+
+he confirmation of payment entitlements does not represent an exemption from the Member States’ responsibility under the shared management of
+
+the
+
+EAGF to ensure the protection of the
+
+Union
+
+budget from irregular expenditure. Hence, the confirmation of the payment entitlements allocated to farmers before 1 January 202
+
+0, as from 1 January 2021, should
+
+not prejudice the Commission’s power to take decisions referred to in Article 52 of Regulation (EU) No 1306/2013 in relation to irregular payments granted in respect of any calendar year up to 2020 included, resulting from erro
+
+rs in the number or value of tho
+
+se payment entitlements.
+
+(14)
+
+In light of the fact that
+
+the CAP Strategic Plans to be prepared by Member States in accordance with
+
+the new legal framework
+
+are to
+
+be applicable as of 1 January 2022, transitional rules should be laid down to regulate
+
+the transition from existing support schemes to the new legal framework
+
+,
+
+in particular Regulation (EU) …/…
+
+of the European Parliament and of the Council
+
+18
+
+[CAP Strategic Plan Regulation]
+
+.
+
+(15)
+
+Certain
+
+expenditure for certain long-term commitments undertaken pursuant to Regulations that granted support for
+
+rural development before Regulation (EU) 1305/2013
+
+were
+
+still eligible in the programming period 2014-2020.
+
+With the exception of cases where the duration of these long-term commitments has elapsed, t
+
+his expenditure should continue to be eligible
+
+during the
+
+period
+
+covered by the
+
+CAP Strategic Plan
+
+for the duration of the
+
+respective
+
+legal
+
+commitment
+
+s
+
+subject to the contribution rate applicable in th
+
+at
+
+period and provided that it
+
+is inserted in the CAP Strategic Plan
+
+and that the expenditure is paid in line with Regulation (EU) [HzR]
+
+.
+
+The same should apply to certain long-term commitments that have been taken under Regulation (EU) No 1305/2013 or
+
+Regulation
+
+(EU) No 1303/2013.
+
+In this context it should
+
+be clarified that the
+
+legal
+
+commitments undertaken under measures that correspond to area- and animal based types of interventions determined in the CAP Strategic Plan should be subject to the integrated administration and control system
+
+and that payments related to tho
+
+se
+
+legal
+
+commitments have to be made within the period from 1 December to 30 June of the following calendar year.
+
+(16)
+
+Regulation (EU) No 1308/2013
+
+lays down rules for the common organisation of agricultural markets
+
+and includes
+
+certain
+
+aid schemes in Articles 29 to 60
+
+.
+
+Tho
+
+se aid schemes should be integrated in the future CAP Strategic Plans of the Member States as sectoral interventions referred to in points
+
+(a) to (e) of Article 39 of Regulation (EU) …/… [
+
+C
+
+AP
+
+S
+
+trategic
+
+P
+
+lan
+
+Regulation
+
+].
+
+To ensure coherence, continuity and a smooth transition between those aid schemes of Regulation (EU) No 1308/2013 and the sectoral types of interventions of Regulation (EU) …/… [CAP Strategic Plan Regulation], rules should be laid down regarding the duration of each of those aid schemes with respect to the date from which the future CAP Strategic Plans of the Member States have legal effects
+
+.
+
+(17)
+
+As
+
+regards
+
+the aid scheme in
+
+the
+
+olive oil and table olives sector, the existing work programmes drawn up for the period running from 1 April 2018 until 31 March 2021 should be extended until 31 December 2021.
+
+For aid schemes in the fruit and vegetables sector rules should be laid down regarding the modification or replacement of operational programmes.
+
+(18)
+
+With the view to ensuring continuity as regards the aid schemes in the wine sector and the apiculture sector, rules need to be laid down that allow those aid schemes to continue to be implemented until the end of their respective programming periods
+
+.
+
+For this period
+
+certain provisions of Regulation (EU) No 1306/2013 should
+
+therefore
+
+continue to apply in relation to expenditure incurred and payments made for operations implemented pursuant to Regulation (EU) No 1308/2013 after 31 December 2021 and until the end of those aid schemes
+
+.
+
+(19)
+
+In order to
+
+limit a significant carry-over of commitments from the current programming period for rural development to the CAP Strategic Plans, the duration of new
+
+multiannual commitments in relation to agri-environment-climate, organic farming and forest-environment
+
+should
+
+be limited to a period of maximum 3 years.
+
+The extension of existing commitments should be limited to one year.
+
+(20)
+
+The
+
+EAFRD should be able to support Community-led local development set up in accordance with the new rules laid down by Regulation (EU) XXXX/XXXX [New CPR].
+
+However, in order to avoid unspent funds for
+
+Community-led local development
+
+in
+
+the
+
+programming
+
+year 2021,
+
+Member States that decide to extend their rural development programmes to 31 December 2021 and that also make use of the possibility to transfer amounts from direct payments to rural development, should be able to apply the 5% minimum allocation for
+
+Community-led local development
+
+only to the EAFRD contribution to the rural development extended to 31 December 2021 calculated before the transfer of amounts from direct payment has been done.
+
+(21)
+
+In
+
+order to ensure continuity in the transitional period,
+
+the reserve for cris
+
+e
+
+s in the agricultural sector should be
+
+maintained for 2021 and
+
+the relevant amount of the reserve
+
+for 2021
+
+should be included
+
+.
+
+(22)
+
+As regards prefinancing arrangements
+
+from the EAFRD
+
+, it should be made clear that
+
+where Member States decide to extend
+
+the
+
+2014–2020
+
+period
+
+to 31 December 2021
+
+, this
+
+should not lead to any
+
+additional prefinancing granted for the programmes concerned
+
+.
+
+(23)
+
+Article 11 of Regulation (EU) No 1307/2013 currently only provides
+
+for
+
+a notification obligation for Member States as regards their decisions and the estimated product
+
+related to the
+
+reduction
+
+of the part of the amount of direct payments to be granted to a farmer for a given calendar year exceeding EUR 150 000
+
+for
+
+the
+
+years 2015 to 2020. With a view to ensuring a continuation of the existing system, Member States
+
+should
+
+also notify their decisions and the estimated product of reduction for calendar year 2021
+
+.
+
+(24)
+
+Article 14 of Regulation (EU) No 1307/2013
+
+allows
+
+Member States
+
+to transfer funds between direct payments and rural development
+
+as regards calendar years 2014 to 2020. In order to
+
+ensure that Member States may keep their own strategy, the flexibility between pillars should be made available also for calendar year 2021 (i.e. financial year
+
+2022
+
+).
+
+(25)
+
+In order to allow the Commission to be able to set the budgetary ceilings in accordance with Articles 22(1), 36(4), 42(2), 47(3), 49(2), 51(4) and 53(7) of Regulation (EU) No 1307/2013,
+
+it is necessary
+
+that
+
+Member States notify th
+
+eir
+
+decisions
+
+on financial allocations by scheme
+
+for calendar year 2021
+
+by 1 August 2020
+
+.
+
+(26)
+
+Article 22(5) of Regulation (EU) No 1307/2013 provides for a linear adjustment of the value of entitlements in case of a change in the ceiling for the basic payment scheme from one year to the following due to certain decisions taken by Member States and affecting the ceiling for the basic payment scheme. The extension of Annex II
+
+to that Regulation
+
+on national ceilings after calendar year 2020 and the possible annual changes from that date might have an impact on the ceiling for the basic payment scheme.
+
+Therefore, for Member States to be able to respect the obligation
+
+of
+
+equality of the sum of the value of entitlements and reserve(s) with the ceiling for the basic payment scheme
+
+laid down
+
+in Article 22(4)
+
+of
+
+that Regulation
+
+, it is appropriate to provide for a linear adjustment
+
+to adapt
+
+to
+
+the extension of
+
+or
+
+the changes in
+
+that
+
+Annex II
+
+during the transitional period
+
+. Moreover,
+
+to provide
+
+greater
+
+flexibility
+
+to Member States, it appears appropriate to allow Member States to adapt the value of entitlements or of the reserve, possibly with different rates of adjustment
+
+.
+
+(27)
+
+In accordance with the current legal framework, Member States notified in 2014 their decisions
+
+u
+
+p to calendar year 2020,
+
+on the division of the annual national ceiling for the basic payment scheme between the regions and the possible annual progressive modifications for the period covered by Regulation (EU) No 1307/2013
+
+.
+
+It is
+
+necessary
+
+that
+
+Member States
+
+also
+
+notify those decisions for
+
+calendar year 2021
+
+.
+
+(28)
+
+The internal convergence mechanism is the core process for a more equitable distribution of direct income support among farmers. Significant individual differences based on old historic references become more and more difficult to justify. In Regulation (EU) No 1307/2013, the basic model of internal convergence consists in the application by Member States of a uniform flat rate for all payment entitlements, at national or regional level, from 2015. However, for the sake of ensuring a smoother transition to a uniform value, a derogation was set out allowing Member States to differentiate the values of payment entitlements by applying partial convergence, also called the ‘tunnel model’, between 2015 and 2019. Some Member States made use of this derogation. To continue the process towards a more equitable distribution of direct payments, Member States can further converge towards a national or regional average after 2019 instead of going to a uniform flat rate or keeping the value of entitlements at their 2019 level. They should notify annually their decision for the following year.
+
+(29)
+
+Article 30 of Regulation (EU) No 1307/2013
+
+provides for
+
+the annual progressive modifications in the value of the payment entitlements allocated from the reserve to reflect the annual steps of the national ceiling set in Annex II
+
+to that Regulation
+
+, reflecting a “multiannual” management of the reserve. Those rules
+
+should
+
+be adapted
+
+so to reflect that
+
+it is possible to amend both the value of all allocated entitlements
+
+and
+
+of the reserve to adjust to a change in the amount in
+
+that
+
+Annex II between two years. Moreover, in some Member States not having reached a flat rate by 2019, internal convergence is implemented on an annual basis. F
+
+or
+
+calendar year
+
+s
+
+2020
+
+and 2021
+
+, only the value of the payment entitlement of the current year needs to be determined in the year of allocation. The unit value of entitlements to be allocated from the reserve in a given year
+
+should
+
+be calculated after possible adjustment of the reserve in accordance with Article 22(5) of that Regulation. In any subsequent year, the value of the payment entitlements allocated from the reserve
+
+should
+
+be adapted in accordance with
+
+that
+
+Article
+
+22(5).
+
+(30)
+
+Article 36 of Regulation (EU) No 1307/2013
+
+provides
+
+the application of the single area payment scheme (SAPS) until 31 December 2020. The CAP Strategic Plan Regulation
+
+(EU) …/… [CAP Strategic Plan
+
+Regulation]
+
+allows Member States to
+
+implement
+
+a basic income support with the same modalities, i.e. without the allocation of payment entitlements based on historic references.
+
+Therefore, it is appropriate to allow the prolongation of SAPS
+
+in 2021
+
+.
+
+(31)
+
+For the sake of legal certainty, i
+
+t
+
+should be clarified
+
+that Articles 41 and 42 of Regulation (EU) No 1307/2013 allow Member States to review, on an annual basis, their decisions on the redistributive payment.
+
+(32)
+
+Regulations (EU) No 1305/2013, (EU) No 1306/2013, (EU) No 1307/2013, (EU) No 1308/2013, (EU) No 228/2013 and (EU) No 229/2013 should therefore be amended accordingly
+
+.
+
+(33)
+
+As
+
+regards the clarification on
+
+convergence from the year 2020, point
+
+6
+
+of Article 1
+
+0
+
+should apply retroactively from 1 January 2020.
+
+(34)
+
+Furthermore, the amendments to Regulations
+
+(EU) No 228/2013 and (EU) No 229/2013
+
+should apply from 1 January 2021
+
+i
+
+n line with
+
+Regulation (EU) …/…
+
+[Regulation laying down the multiannual financial framework for the years 2021 to 2027]
+
+,
+
+HAVE ADOPTED THIS REGULATION:
+
+Title I
+
+T
+
+ransitional Provisions
+
+Chapter I
+
+Continued
+
+application of Regulati
+
+on (EU) No 1303/2013
+
+for
+
+the
+
+programming
+
+year 2021
+
+and e
+
+xtension
+
+of certain periods under Regulations (EU) No 1303/2013 and (EU) No 1310/2013
+
+Article
+
+1
+
+Extension of the period for programmes supported by the EAFRD
+
+1.
+
+F
+
+or programmes supported by the European Agricultural Fund for Rural Development (EAFRD
+
+),
+
+Member States
+
+that
+
+risk, due to the lack
+
+of financial resources,
+
+not to be able to undertake new legal commitments in accordance with
+
+Regulation (EU) No 1305/2013
+
+,
+
+may extend
+
+the period
+
+laid down
+
+in Article 26(1) of Regulation (EU) No 1303/2013 to 31 December 2021.
+
+Member States that decide to make use of the possibility provided in the first subparagraph shall notify the Commission of their decision within 10 days after the entry into force of this Regulation. Where Member States have submitted a set of regional programmes in accordance with Article 6 of Regulation (EU) No 1305/2013, that notification shall also contain information on which of the regional programmes are to be extended and on the corresponding budgetary allocation within the annual breakdown for the year 2021 as set out in Annex I to Regulation (EU) No 1305/2013.
+
+Where the Commission considers that an extension of the period under the first subparagraph is not justified, it shall inform the Member State thereof within 6 weeks after receipt of the notification referred to in the second subparagraph.
+
+The notification referred to in the second subparagraph shall be without prejudice to the need to submit a request to amend a rural development programme for the year 2021 as referred to in Article 11(1)(a) of Regulation (EU) No 1305/2013. Such an amendment shall aim at maintaining at least the same overall level of the EAFRD expenditure for the measures referred to in Article 59(6) of that Regulation.
+
+2.
+
+For Member States that do not decide to make use of the possibility provided in paragraph 1 of this Article, Article [8] of Regulation (EU) …/…[Regulation laying down the multiannual financial framework for the years 2021 to 2027] shall apply to the allocation not used for the year 2021 as set out in Annex I to Regulation (EU) No 1305/2013
+
+.
+
+Where a Member State decides to make use of the possibility provided in paragraph 1 only with regard to certain regional programmes, the allocation referred to in the first subparagraph of this paragraph shall be the amount set out for that Member State for 2021in Annex I to Regulation (EU) No 1305/2013 minus the budgetary allocations notified in accordance with the first subparagraph of paragraph 2 for the regional programmes that are extended.
+
+Article
+
+2
+
+Continued a
+
+pplica
+
+tion of
+
+Regulation
+
+(EU) No 1303/2013 to programmes
+
+1.
+
+Regulation (EU) No 1303/2013 shall continue to apply to programmes supported by the EAFRD
+
+under the
+
+2014–2020
+
+programming period and to the programmes
+
+for which Member
+
+States decide to extend
+
+the
+
+2014-2020
+
+period
+
+in accordance with Article 1(1) of this Regulation
+
+.
+
+2.
+
+For programmes for which Member States decide to extend the 2014–2020 period in accordance with Article 1(1) of this Regulation, the references to time periods or deadlines in Articles 50(1), 51(1), 57(2), 65(2)
+
+and
+
+(4),
+
+and the first paragraph of Article
+
+76 of Regulation (EU) No 1303/2013 shall be extended for one year.
+
+3.
+
+For Member States that decide to extend the 2014–2020 period in accordance with Article 1(1) of this Regulation, the Partnership Agreement drawn up for the period from 1 January 2014 to 31 December 2020 in accordance with Regulation (EU) No 1303/2013 shall continue to be used as a strategic document by Member States and the Commission with regard to the implementation of support granted by the EAFRD for the year 2021.
+
+4.
+
+The
+
+final
+
+date by which the Commission
+
+is to
+
+prepare a synthesis report outlining the main conclusions of ex-post evaluations of the EAFRD set in Article 57(4) of Regulation (EU) No 1303/2013 shall be 31 December 2026.
+
+Article
+
+3
+
+Eligibility of certain types of expenditure in 2021
+
+Without prejudice to Article 65(2) of Regulation (EU) No 1303/2013, to Article 2(2) of this Regulation and to Article 38 of Regulation (EU) No 1306/2013, the expenditure referred to in Article 3(1) of Regulation (EU) No 1310/2013 and in Article 16 of Delegated Regulation (EU) No 807/2014 shall be eligible for an EAFRD contribution from the 2021 allocation for programmes supported by the EAFRD for which Member States decide to extend the 2014–2020 period in accordance with Article 1(1) of this Regulation, subject to the following conditions:
+
+(a)
+
+such expenditure is provided for in the respective
+
+rural development programme for 2021
+
+;
+
+(b)
+
+the EAFRD contribution rate of the corresponding measure under Regulation (EU) No 1305/2013, as set out in Annex I to Regulation (EU) No 1310/2013
+
+and in Annex I to
+
+Delegated Regulation (EU) No 807/201
+
+4
+
+, applies;
+
+(c)
+
+the system
+
+referred to in Article 67(2) of Regulation (EU) No 130
+
+6
+
+/2013 applies to the
+
+legal
+
+commitments undertaken under measures that correspond to support granted in accordance with points (a) and (b) of Article 21(1) and Articles 28 to 31, 33, 34 and 40 of that Regulation and the relevant op
+
+erations are clearly identified
+
+; and
+
+(d)
+
+the
+
+payments for the
+
+legal
+
+commitments
+
+referred to in point (c
+
+)
+
+are made within the period laid down in Article 75 of Regulation (EU) No 1306/2013.
+
+Chapter II
+
+Application of Articles 25 to 28 of Regulation (EU) [NEW CPR] for the
+
+programming
+
+year 2021
+
+Article
+
+4
+
+Community-led local development
+
+For programmes supported by the EAFRD in the 2014–2020 period and for the programmes for which Member States decide to extend the 2014-2020 period in accordance with Article 1(1) of this Regulation, the EAFRD may support multi-funded community-led local development in accordance with Articles 25 to 28 of Regulation (EU) [NEW CPR].
+
+Chapter II
+
+I
+
+Payment entitlements for direct payments to farmers
+
+Article
+
+5
+
+Definitive payment entitlements
+
+1.
+
+Payment entitlements allocated to farmers
+
+before 1 January 2020 shall be considered legal and regular as from 1 January 2021. The
+
+value of those entitlements to be considered legal and regular shall be the value for calendar year 2020 valid on 31 December 2020. This is without prejudice to the relevant articles of Union law concerning the value of payment entitlements for calendar years 2021 onwards, in particular Article 22(5) and 25(12) of Regulation (EU) No 1307/2013.
+
+2.
+
+Paragraph 1 shall not apply to payment entitlements allocated to farmers on the basis of factually incorrect applications
+
+,
+
+except in cases where the error could not reaso
+
+nably have been detected by the farmer.
+
+3.
+
+Paragraph 1 of this Article shall not prejudice the Commission’s power to take decisi
+
+ons referred to in Article 52 of
+
+Regulation (EU) No 1306/2013 in relation to expenditure incurred for payments granted in resp
+
+ect of
+
+calendar
+
+year
+
+s up to 2020
+
+included.
+
+Chapter
+
+I
+
+V
+
+Transitional provisions relating to Regulations (EU) No 1305/2013, (EU) No 1306/2013 and (EU) No 1308/2013
+
+and the implementation of the
+
+CAP Strategic Plans
+
+Section 1
+
+Rural Development
+
+Article
+
+6
+
+Eligibility of certain types of expenditure in the CAP Strategic Plan period
+
+1.
+
+E
+
+xpenditure relating to
+
+legal
+
+commitments to beneficiaries incurred under the measures referred to in Articles
+
+23
+
+,
+
+39
+
+and
+
+43
+
+of
+
+Council
+
+Regulation (EC) No 1698/
+
+2005
+
+19
+
+which are receiving support under Regulation (E
+
+U
+
+) No 1305/2013 shall
+
+continue to
+
+be eligible for an EAFRD contribution in the
+
+period 2022-2027
+
+covered by the
+
+CAP
+
+Strategic Plan, subject to the following
+
+conditions:
+
+(a)
+
+such expenditure is provided for in the respective CAP Strategic Plan
+
+for 2022- 2027 in accordance with Regulation (EU) [CAP Plan Regulation] and complie
+
+s with Regulation (EU) [HzR]
+
+;
+
+(b)
+
+the EAFRD contribution rate of the corresponding
+
+intervention
+
+set in the CAP Strategic Plan
+
+in accordance with
+
+Regulation (EU)
+
+[CAP
+
+Strategic
+
+Plan Regulation],
+
+applies;
+
+If there is no corresponding intervention, the EAFRD contribution rate established in the CAP Strategic Plan pursuant to Article 85(2)(d) of Regulation (EU) No [CAP Strategic Plan Regulation] shall apply;
+
+(c)
+
+the integrated system referred to in Article 6
+
+3
+
+(2) of Regul
+
+ation (EU) [HzR] applies to th
+
+e
+
+legal
+
+commitments undertaken under measures that correspond to the area- and animal-based
+
+types of
+
+interventions listed in Chapters II and IV of Title III of Regulation (EU) [CAP Strategic Plan Regulation]
+
+and the relevant operations are clearly identified
+
+; and
+
+(d)
+
+the payments for
+
+the legal commitments referred to in point (c)
+
+are made within the period laid down in Article 42 of Regulation (EU) [HzR].
+
+2.
+
+E
+
+xpenditure relating to
+
+legal
+
+commitments to beneficiaries incurred under the multiannual measures referred to in Articles 28, 29, 33 and 34 of Regulation (EU) No 1305/2013
+
+and
+
+expenditure
+
+relating to
+
+legal
+
+commitments
+
+for a time period going beyond 1 January 2024
+
+, or beyond 1 January 2025 in Member States that have decided to extend the 2014-2020 period in accordance with Article 1(1) of this Regulation,
+
+under
+
+Article
+
+s
+
+14 to
+
+18,
+
+points (
+
+a) and (b)
+
+of Article
+
+19(1)
+
+, Article
+
+20,
+
+Articles
+
+22
+
+to
+
+27
+
+,
+
+3
+
+5
+
+,
+
+38, 39 an
+
+d
+
+39a
+
+of Regulation (EU) No 1305/2013
+
+and under Article 35 of Regulation (EU) No 1303/2013
+
+shall be eligible for an EAFRD contribution in the period
+
+2022-2027
+
+covered by the
+
+CAP Strategic Plan
+
+,
+
+subject to the following conditions :
+
+(a)
+
+such expenditure is provided for in the respective CAP Strategic Plan for 2022-2027 in accordance with Regulation (EU) [CAP
+
+Strategic
+
+Plan Regulation]
+
+and complies with Regula
+
+tion (EU) [HzR]
+
+;
+
+(b)
+
+the EAFRD contribution rate of the corresponding intervention set in the CAP Strategic Plan in accordance with Regulation (EU) [CAP Strategic Plan Regulation], applies;
+
+(c)
+
+the integrated s
+
+ystem referred to in Article 63
+
+(2) of Regul
+
+ation (EU) [HzR] applies to th
+
+e
+
+legal
+
+commitments undertaken under measures that correspond to the area- and animal-based types of interventions listed in Chapters II and IV of Title III of Regulation (EU) [CAP Strategic Plan Regulation]
+
+and the relevant operations are clearly identified
+
+; and
+
+(d)
+
+the payments for the legal
+
+commitments
+
+referred to in point (c)
+
+are made within the period laid down in Articl
+
+e 42 of Regulation (EU) [HzR].
+
+Section
+
+2
+
+aid schemes referred to in Articles 29 to 60 of Regulation (EU) No 1308/2013
+
+Article
+
+7
+
+Extended application
+
+of the
+
+aid schemes referred to in
+
+Articles 29 to 60 of
+
+Regulation (EU) No 1308/2013
+
+and of Regulation (EU) No 1306/2013
+
+1.
+
+The work programmes to support the olive oil and table olives sector referred to in Article 29 of Regulation (EU) No 1308/2013, drawn up for the period running from 1 April 2018 until 31 March 2021, shall be extended and shall end on
+
+31 December 2021
+
+. The
+
+relevant producer organisations recognised under Article 152 of Regulation (EU) No 1308/2013, the relevant associations of producer organisations recognised under Article 156 of that Regulation and the relevant interbranch organisations recognised under Article 157 of that Regulation shall modify their work programmes to take account of this extension. The modified work programmes shall be notified to the Commission by
+
+31 December 2020
+
+.
+
+2.
+
+Recognised producer organisation in the fruit and vegetables sector having an operational programme as referred to in Article 33 of Regulation (EU) No 1308/2013 that has been
+
+approved by a Member State for a duration beyond 31 December 2021
+
+shall
+
+, by 15 September 2021, submit a request to that Member State to the effect that its operational programme:
+
+(a)
+
+be modified to meet the requirements of Regulation (EU) [
+
+CAP Strategic Plan Regulation
+
+]; or
+
+(b)
+
+be replaced by a new operational programme approved under Regulation (EU) [
+
+CAP Strategic Plan Regulation
+
+].
+
+Where a recognised producer organisation does not submit such request by 15 September 2021, its operational programme approved under Regulation (EU) No 1308/2013 shall end on 31 December 2021.
+
+3.
+
+The support programmes in the wine sector referred to in Article 40 of Regulation (EU) No 1308/2013 shall end
+
+on
+
+15 October
+
+2023.
+
+Articles 39 to 54 of
+
+Regulation (EU) No 1308/2013 shall continue to apply after
+
+3
+
+1
+
+December 2021
+
+as regards expenditure incurred
+
+and payments made for operations implemented pursuant to
+
+that
+
+Regulation
+
+before
+
+16 October 2023
+
+within
+
+the aid scheme
+
+referred to
+
+in Articles 39 to 5
+
+2
+
+of
+
+that
+
+Regulation
+
+.
+
+4.
+
+The national programmes in the apiculture sector referred to in Article 55 of Regulation (EU) No 1308/2013 shall end
+
+on
+
+31 July 2022
+
+.
+
+Articles
+
+55
+
+, 56 and
+
+5
+
+7
+
+of
+
+Regulation (EU) No 1308/2013 shall continue to apply after
+
+3
+
+1
+
+December
+
+202
+
+1
+
+as regards expenditure incurred
+
+and payments made for operations implemented
+
+pursuant to
+
+that
+
+Regulation
+
+before 1 August 2022
+
+within
+
+the aid scheme
+
+referred to
+
+in Article 55 of that Regulation.
+
+5.
+
+As from
+
+the date from which a CAP Strategic Plan has legal effects
+
+in accordance with Article 106(7) of Regulation (EU) …../….. [CAP Strategic Plan Regulation]
+
+, the sum of the
+
+payments made in
+
+a
+
+financial
+
+year
+
+within each of the aid schemes referred to in
+
+Articles 29 to
+
+31
+
+and Articles 39 to
+
+60
+
+of Regulation (EU) No 1308/2013; and
+
+within each of the sectoral types of interventions referred to in points (b) to (e) of Article 39 of Regulation (EU) …./…. [
+
+CAP Strategic Plan Regulation]
+
+shall not exceed the financial allocations laid down for each financial year for each of the sectoral types of interventions referred to in points (b) to (e) of Article 39 Regulation (EU) …./…. [
+
+CAP Strategic Plan Regulation
+
+].
+
+6.
+
+With regard to the aid schemes referred to in paragraphs
+
+3
+
+and
+
+4
+
+of this Article
+
+, Articles 7(3), 9, 21, 43, 51, 52, 54, 59, 67, 68, 70 to 75, 77, 91 to 97, 99, 100, 102(2), 110 and 111 of Regulation (EU) No 1306/2013
+
+and the relevant
+
+provisions of delegated and
+
+implementing
+
+acts related to those Articles
+
+shall continue to apply after
+
+31 December 2021
+
+in relation to expenditure incurred
+
+and payments made
+
+for operations implemented pursuant to Regulation
+
+(EU) No
+
+1308/2013
+
+after
+
+that date
+
+and until the end of the
+
+aid schemes
+
+referred to in paragraphs
+
+3
+
+and
+
+4
+
+of this Article
+
+.
+
+Title II Amendments
+
+Article
+
+8
+
+Amendments to Regulation (EU) No 1305/2013
+
+Regulation (EU) No 1305/2013 is amended as follows:
+
+(1)
+
+in Article 28(5), t
+
+he following second subparagraph is
+
+added:
+
+‘For new commitments to be undertaken from 2021 Member States shall determine a shorter period of one to three in their rural development programmes. If Member States provide for an annual extension of commitments after the termination of the initial period in accordance with the first subparagraph, from 2021 the extension shall not go beyond one year. As from 2021, for new commitments directly following a commitment performed in the initial period, Member States shall determine a period of one year in their rural development programmes.’;
+
+(2)
+
+in Article 29(3), the following second
+
+subparagraph is
+
+added:
+
+‘For new commitments to be undertaken from 2021, Member States shall determine a shorter period of one to three years in their rural development programmes. If Member States provide for an annual extension for the maintenance of organic farming after the termination of the initial period in accordance with the first subparagraph, from 2021 the extension shall not go beyond one year. As from 2021, for new commitments concerning maintenance that directly follow the commitment performed in the initial period, Member States shall determine a period of one year in their rural development programmes.’;
+
+(3)
+
+in Article 33(2), the following third subparagraph
+
+is
+
+added:
+
+‘For new commitments to be undertaken as from 2021 Member States shall determine a shorter period of one to three years in their rural development programmes. If Member States provide for an annual renewal of commitments after the termination of the initial period in accordance with the first subparagraph, as from 2021 the renewal shall not go beyond one year.’;
+
+(4)
+
+in Article 42, paragraph 1 is replaced by the following:
+
+‘1.
+
+In addition to the tasks referred to in Article 34 of Regulation (EU) No 1303/2013 and, where applicable referred to in Article 27 of Regulation (EU
+
+) [NEW CPR]
+
+of the European Parliament and of the Council*
+
+local action groups may also perform additional tasks delegated to them by the Managing Authority and/or paying agency.
+
+-------
+
+*
+
+Regulation (EU) [
+
+NEW CPR
+
+]
+
+of the European Parliament and of the Council of […] […] (OJ …..).’;
+
+(5)
+
+in Article 44
+
+,
+
+the introductory sentence
+
+is replaced by the following
+
+:
+
+‘The support referred to in point (c) of Article 35 (1) of Regulation (EU) No 1303/2013 and, where applicable referred to in Article 28 of Regulation (EU) [NEW CPR], shall be granted to:’;
+
+(6)
+
+Article 58 is amended as follows:
+
+(a)
+
+i
+
+n
+
+paragraph
+
+1
+
+,
+
+the following
+
+second subparagraph is added
+
+:
+
+‘Without prejudice to paragraphs 5, 6 and 7, the total amount of Union support for rural development under this Regulation for the period from 1 January 2021 to 31 December 2021 shall be maximum EUR 11 258 707 816, in current prices, in accordance with the multiannual financial framework for the years 2021 to 2027.’;
+
+(b)
+
+paragraph 7 is replaced by the following:
+
+‘7. In order to take account of the developments relating to the annual breakdown referred to in paragraph 4, including the transfers referred to in paragraphs 5 and 6 and the transfers resulting from the application of Article 1 of Regulation (EU) XXXX/XXXX of the European Parliament and of the Council* [This Regulation], to make technical adjustments without changing the overall allocations, or to take account of any other change provided for by a legislative act after the adoption of this Regulation, the Commission shall be empowered to adopt delegated acts, in accordance with Article 83 of this Regulation, to review the ceilings set out in Annex I to this Regulation.
+
+-----
+
+*
+
+Regulation (EU) […] of the European Parliament and of the Council of […] […] (OJ …..).’;
+
+(7)
+
+in Article 59(5), the following second subparagraph is added
+
+:
+
+‘When Member States make use of the possibility provided for in the sixth subparagraph of Article 14(1) of Regulation (EU) No 1307/2013, the percentages laid down in the first subparagraph of this paragraph shall apply to the total EAFRD contribution to the rural development programme without the additional support made available in accordance with the sixth subparagraph of Article 14(1) of Regulation (EU) No 1307/2013’;
+
+(8)
+
+in Article 75
+
+(1)
+
+,
+
+the following
+
+second
+
+sub
+
+paragraph is
+
+added
+
+:
+
+‘For programmes for which a Member State decides to extend the 2014–2020 period in accordance with Article 1(1) of Regulation (EU) [XXXX/XXXX] [This Regulation], that Member State shall submit to the Commission the annual implementation report pursuant to the first subparagraph of this paragraph until 31 December 2025.’;
+
+(9)
+
+in
+
+Article 78
+
+,
+
+the following
+
+second sub
+
+paragraph is
+
+added
+
+:
+
+‘For programmes for which a Member State decides to extend the 2014–2020 period in accordance with Article 1(1) of Regulation (EU) [XXXX/XXXX] [This Regulation], that Member State shall submit to the Commission the ex post evaluation report pursuant to the first subparagraph of this paragraph until 31 December 2025.’;
+
+(10)
+
+Annex I is
+
+amended in accordance with
+
+Annex I to this Regulation.
+
+Article
+
+9
+
+Amendments to Regulation (EU) No 1306/2013
+
+Regulation (EU) No 1306/2013 is amended as follows:
+
+(1)
+
+in Article 25, the following third
+
+sub
+
+paragraph is added:
+
+‘For 2021, the amount of the reserve shall be EUR 400 million (at 2011 prices) and shall be included under Heading 3 of the Multiannual Financial Framework as set out in the Annex to Council Regulation (EU) [xxxx/xxxx]*[MFF].
+
+-----
+
+*
+
+Council Regulation (EU) […] of […] [
+
+laying down the multiannual financial framework for the years 2021 to 2027
+
+(OJ …..)
+
+’;
+
+(2)
+
+Article
+
+33 is replaced by the following:
+
+‘Article 33
+
+Budget commitments
+
+As regards the Union’s budget commitments for rural development programmes, Article 76 of Regulation (EU) No 1303/2013, where applicable in conjunction with Article 2(2) of Regulation (EU) [XXXX/XXXX] of the European Parliament and of the Council* [This Regulation] shall apply.
+
+*
+
+Regulation (EU) […] of the European Parliament and of the Council of […] […] (OJ …..).
+
+’
+
+;
+
+(3)
+
+in Article 35, the following paragraph 5 is added:
+
+‘
+
+5.
+
+For programmes for which Member States decide to extend
+
+the
+
+2014–2020
+
+period
+
+in accordance with Article 1(1)
+
+of Regulation (EU) [XXXX/XXXX] [This Regulation]
+
+,
+
+no pre-financing shall be granted for the 2021 allocation.’
+
+;
+
+(4)
+
+in Article 37, paragraph 1 is replaced by the following:
+
+‘1. After receiving the last annual progress report on the implementation of a rural development programme, the Commission shall pay the balance, subject to the availability of resources, on the basis of the financial plan in force, the annual accounts for the last execution year for the relevant rural development programme and of the corresponding clearance decision. Those accounts shall be presented to the Commission no later than six months after the final eligibility date of expenditure as referred to in Article 65(2) of Regulation (EU) No 1303/2013, where applicable in conjunction with Article 2(2) of Regulation (EU) [XXXX/XXXX] [This Regulation]. They shall cover the expenditure effected by the paying agency up to the last eligibility date of expenditure.’;
+
+(5)
+
+in Article 38, paragraph 2 is replaced by the following:
+
+‘2.
+
+The part of budget commitments that is still open on the last eligibility date for expenditure as referred to in Article 65(2) of Regulation (EU) No 1303/2013, and where applicable
+
+in conjunction with
+
+Article
+
+2
+
+(2)
+
+of Regulation (EU) [XXXX/XXXX] [
+
+This Regulation
+
+], for which no declaration of expenditure has been made within six months of that date shall be automatically decommitted.’.
+
+Article
+
+1
+
+0
+
+Amendments to Regulation (EU) No 1307/2013
+
+Regulation (EU) No 1307/2013 is amended as follows:
+
+(1)
+
+in Article 11(6), the
+
+following fourth
+
+subparagraph
+
+is added
+
+:
+
+‘For the year 2021, Member States shall notify the Commission of the decisions taken in accordance with this Article and of any estimated product of reductions by 1 August 2020.’;
+
+(2)
+
+Article 14 is amended as follows:
+
+(a)
+
+in paragraph 1, the following seventh subparagraph is added
+
+:
+
+‘By 1 August 2020, Member States may decide to make available, as additional support financed under the EAFRD in financial year 2022, up to 15 % of their annual national ceilings for the calendar year 2021 set out in Annex II to this Regulation. As a result, the corresponding amount shall no longer be available for granting direct payments. That decision shall be notified to the Commission by 1 August 2020 and shall set out the percentage chosen.’;
+
+(b)
+
+in paragraph 2, the following seventh subparagraph is added
+
+:
+
+‘By 1 August 2020, Member States which do not take the decision referred to in paragraph 1 for financial year 2022, may decide to make available as direct payments up to 15 %, or in the case of Bulgaria, Estonia, Spain, Latvia, Lithuania, Poland, Portugal, Romania, Slovakia, Finland and Sweden up to 25 %, of the amount allocated to support financed under the EAFRD in financial year 2022 by Union legislation adopted after the adoption of Council Regulation (EU) [xxxx/xxxx]*[MFF]. As a result, the corresponding amount shall no longer be available for support financed under the EAFRD. That decision shall be notified to the Commission by 1 August 2020 and shall set out the percentage chosen.
+
+-----
+
+*
+
+Council Regulation (EU) […] of […] [
+
+laying down the multiannual financial framework for the years 2021 to 2027
+
+(OJ …..).’;
+
+(3)
+
+the
+
+following Article 15a is added
+
+at the end of Chapter 1
+
+:
+
+‘Article 15a
+
+Notifications for calendar year 2021
+
+For calendar year 2021 Member States shall notify the percentages of the annual national ceiling referred to in Articles 22(2), 42(1), 49(1), 51(1) and 53(6) by 1 August 2020.’;
+
+(4)
+
+in
+
+Article 22(5)
+
+,
+
+the following second subparagraph is added
+
+:
+
+‘For calendar year 2021, if the ceiling for a Member State set by the Commission pursuant to paragraph 1 is different from that of the previous year as a result of a change in the amount set out in Annex II or as a result of any decision taken by that Member State in accordance with paragraph 3 of this Article, Article 14(1) or (2), Article 42(1), Article 49(1), Article 51(1), or Article 53, that Member State shall linearly reduce or increase the value of all payment entitlements and/or reduce or increase the national reserve or regional reserves in order to ensure compliance with paragraph 4 of this Article.’;
+
+(5)
+
+in Article 23(6), the following
+
+fourth
+
+subparagraph is
+
+added
+
+:
+
+‘For calendar year 2021, Member States applying the first subparagraph of paragraph 1 shall notify the Commission by 1 August 2020 of the decisions referred to in paragraph 2 and 3.’;
+
+(6)
+
+in Article 25, the following
+
+paragraph
+
+11
+
+is
+
+added:
+
+‘11. After having applied the adjustment referred to in Article 22(5), Member States that have made use of the derogation provided for in paragraph 4 of this Article may decide that payment entitlements held by farmers on 31 December 2019 having a value lower than the national or regional unit value for the year 2020 as calculated in accordance with the second subparagraph of this paragraph have their unit value increased towards the national or regional unit value in the year 2020. The increase shall be calculated under the following conditions:
+
+(a) the calculation method for the increase decided by the Member State is based on objective and non-discriminatory criteria;
+
+(b) to finance the increase, all or part of the owned or leased-in payment entitlements held by farmers on 31 December 2019 having a value higher than the national or regional unit value in the year 2020 as calculated in accordance with the second subparagraph shall be reduced. That reduction shall apply to the difference between the value of those entitlements and the national or regional unit value in the year 2020. The application of that reduction shall be based on objective and non-discriminatory criteria, which may include the fixing of a maximum decrease.
+
+The national or regional unit value for the year 2020 referred to in the first subparagraph shall be calculated by dividing the national or regional ceiling for the basic payment scheme set in accordance with Article 22(1) or 23(2) for the year 2020, excluding the amount of the national or regional reserve(s), by the number of the owned or leased-in payment entitlements held by farmers on 31 December 2019.
+
+By way of derogation from the first subparagraph, Member States that have made use of the derogation provided for in paragraph 4 may decide to keep the value of payment entitlements calculated in accordance with that paragraph subject to the adjustment referred to in Article 22(5).
+
+Member States shall inform farmers in due time of the value of their payment entitlements as calculated in accordance with this paragraph.’;
+
+(7)
+
+in Article 25, the following
+
+paragraph
+
+12 is
+
+added:
+
+‘12. For calendar year 2021, Member States may decide to apply further internal convergence by applying paragraph 11 to the respective year.’;
+
+(8)
+
+Article 29 is replaced by the following:
+
+‘Article 29
+
+Notifications concerning the value of payment entitlements and convergence
+
+For calendar year 2020, Member States shall notify their decisions referred to in Article 25(11) by [OPOCE within one month after entry into force of this Transitional Regulation].
+
+For calendar year 2021, Member States shall notify their decisions referred to in Article 25(12) by 1 August 2020.’;
+
+(9)
+
+i
+
+n
+
+A
+
+rticle 30(8)
+
+,
+
+the following
+
+fourth
+
+subparagraph is
+
+added
+
+:
+
+‘For allocations from the reserve in 2021, the amount of the reserve to be excluded in accordance with the second subparagraph shall be adjusted in accordance with the second subparagraph of Article 22(5). For allocations from the reserve in 2021, the third subparagraph of this paragraph shall not apply.’;
+
+(10)
+
+in Article 36(1), the following second subparagraph is inserted:
+
+‘Member States applying in 2020 the single area payment scheme shall continue to do so after 31 December 2020.’;
+
+(11)
+
+in Article 41(1
+
+)
+
+, the following third subparagraph is added:
+
+‘Member States may review their decision referred to in the first subparagraph by 1 August of the year preceding the year of application. They shall notify the Commission of any such decision by that date.’;
+
+(12)
+
+in Article 42(1), the following second subparagraph is added:
+
+‘Member States may review their decision referred to in the first subparagraph by 1 August of the year preceding the year of application. They shall notify the Commission of any such decision by that date.’;
+
+(13)
+
+in
+
+Article 58, paragraph
+
+3
+
+is replaced by the following:
+
+‘
+
+3.
+
+The amount of the crop-specific payment per hectare of eligible area shall be calculated
+
+for
+
+2020
+
+by multiplying the yields established in paragraph 2 with the following reference amounts:
+
+–
+
+Bulgaria: EUR 649,45
+
+,
+
+–
+
+Greece: EUR 234,18
+
+,
+
+–
+
+Spain: EUR 362,15
+
+,
+
+–
+
+Portugal: EUR 228,00.
+
+The amount of the crop-specific payment per hectare of eligible area shall be calculated for 2021 by multiplying the yields established in paragraph 2 with the following reference amounts:
+
+–
+
+Bulgaria:
+
+EUR 624,11
+
+,
+
+–
+
+Greece:
+
+EUR 225,04
+
+,
+
+–
+
+Spain:
+
+EUR 348,03
+
+,
+
+–
+
+Portugal: EUR 219,09
+
+.
+
+’
+
+;
+
+(14)
+
+Annexes II and III are amended in accordance with Annex
+
+II
+
+to this Regulation.
+
+Article
+
+1
+
+1
+
+Amendments to Regulation (EU) No 1308/2013
+
+Regulation (EU) No 1308/2013 is amended as follows:
+
+(1)
+
+in Article 29, paragraph 2 is replaced by the following
+
+:
+
+‘2. The Union financing of the work programmes referred to in paragraph 1 shall be for 2020:
+
+(a) EUR 11 098 000 for Greece;
+
+(b) EUR 576 000 for France;
+
+(c) EUR 35 991 000 for Italy.
+
+The Union financing for the work programmes referred to in paragraph 1 shall be for 2021:
+
+(a) EUR 10 666 000 for Greece;
+
+(b) EUR 554 000 for France;
+
+(c) EUR 34 590 000 for Italy.’;
+
+(2)
+
+in Article 58, paragraph 2 is replaced by the following:
+
+‘2. The Union financing for the aid to producer organisations provided for in paragraph 1 shall be for 2020 EUR 2 277 000 for Germany.
+
+The Union financing for the aid to producer organisations provided for in paragraph 1 shall be for 2021 EUR 2 188 000 for Germany.’;
+
+(3)
+
+Annex VI is replaced by the text i
+
+n Annex III to this Regulation.
+
+Article
+
+1
+
+2
+
+Amendments to Regulation (EU) No 228/2013
+
+In Article 30 of Regulation (EU) No 228/2013, paragraphs 1, 2 and 3 are replaced by the following:
+
+'1. The measures provided for in this Regulation shall constitute intervention intended to stabilise the agricultural markets within the meaning of Article 4(1)(a) of Regulation (EU) No 1306/2013 of the European Parliament and of the Council*, with the exception of the measures provided for in Articles 22 and 24 of this Regulation.
+
+2. In respect of each financial year, the Union shall finance the measures provided for in Chapters III and IV, up to an annual sum of:
+
+-in the French overseas departments: EUR 267 580 000,
+
+-Azores and Madeira: EUR 102 080 000,
+
+-Canary Islands: EUR 257 970 000.
+
+3. The sums allocated for each financial year to finance the measures provided for in Chapter III may not exceed the following amounts:
+
+-in the French overseas departments: EUR 25 900 000,
+
+-Azores and Madeira: EUR 20 400 000,
+
+-Canary Islands: EUR 69 900 000.
+
+The Commission shall adopt implementing acts establishing the requirements in accordance with which Member States may amend the allocation of resources allocated every year to the various products benefiting from the supply arrangements. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).
+
+--
+
+*
+
+Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (OJ L 347, 20.12.2013, p. 549).'.
+
+Article
+
+1
+
+3
+
+Amendments to Regulation (EU) No 229/2013
+
+In Article 18 of Regulation (EU) No 229/2013, paragraphs 2 and 3 are replaced by the following:
+
+'2. The Union shall finance the measures provided for in Chapters III and IV up to an amount of EUR 23 000 000.
+
+3. The amount allocated to finance the specific supply arrangements referred to in Chapter III shall not exceed EUR 6 830 000.' .
+
+Title III
+
+Final
+
+p
+
+rovisions
+
+Article
+
+14
+
+Entry into force and application
+
+This Regulation shall enter into force on the seventh day following that of its publication in the
+
+Official Journal of the European Union
+
+.
+
+However,
+
+–
+
+point
+
+(
+
+6
+
+)
+
+of Article
+
+1
+
+0
+
+shall apply
+
+from 1 January 2020;
+
+–
+
+Articles
+
+1
+
+2
+
+and
+
+1
+
+3
+
+shall apply from 1 January 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament
+
+For the Council
+
+The President
+
+The President
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.Title of the proposal/initiative
+
+1.2.Policy area(s) concerned
+
+(programme cluster)
+
+1.3.Nature of the proposal/initiative
+
+1.4.Grounds for the proposal/initiative
+
+1.5.Duration and financial impact
+
+1.6.Management mode(s) planned
+
+2.
+
+MANAGEMENT MEASURES
+
+2.1.Monitoring and reporting rules
+
+2.2.Management and control system
+
+2.3.Measures to prevent fraud and irregularities
+
+3.
+
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+3.2.Estimated impact on expenditure
+
+3.2.1.Summary of estimated impact on expenditure
+
+3.2.2.Estimated impact on appropriations of an administrative nature
+
+3.2.3.Third-party contributions
+
+3.3.Estimated impact on revenue
+
+1.
+
+FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.
+
+Title of the proposal/initiative
+
+A) Proposal for a Regulation of the European Parliament and of the Council laying down transitional provisions for the support by the European Agricultural Fund for Rural Development (EAFRD) and by the European Agricultural Guarantee Fund (EAGF) in the year 2021 and amending Regulations (EU) No 228/2013 (EU), (EU) No 229/2013 (EU) and No 1308/2013 as regards resources and their distribution in the year 2021 and amending No 1305/2013, (EU) No 1306/2013 and (EU) No 1307/2013 as regards their resources and applicability in the year 2021
+
+B) Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) No 1306/2013 as regards financial discipline as from financial year 2021 and Regulation (EU) No 1307/2013 as regards flexibility between pillars in respect of the year 2020
+
+1.2.
+
+Policy area(s) concerned
+
+(Programme cluster)
+
+Programme cluster 8 - Agriculture & Maritime Policy under Heading 3 of the Multiannual Financial Framework (MFF) 2021-2027 – Natural Resources and Environment
+
+1.3.
+
+The proposal/initiative relates to:
+
+◻
+
+a new action
+
+◻
+
+a new action following a pilot project/preparatory action
+
+20
+
+⌧
+
+the extension of an existing action
+
+◻
+
+a merger or redirection of one or more actions towards another/a new action
+
+1.4.
+
+Grounds for the proposal/initiative
+
+1.4.1.
+
+Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative
+
+The present proposal aims at ensuring continuity of certain elements of the Common Agricultural Policy (CAP) for a one-year transitional period from the 2014-2020 period until the application of the rules for  the CAP strategic plans further to the Commission proposal (COM(2018) 392 final). Further explanations are part of the explanatory memorandum to the present proposals and in point 1.4.1 of the legislative financial statement that accompanied the Commission proposal for the period post 2020 COM(2018) 392 final).
+
+1.4.2.
+
+Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone.
+
+See point 1.4.1 of the legislative financial statement to COM(2018) 392 final.
+
+1.4.3.
+
+Lessons learned from similar experiences in the past
+
+N/A
+
+1.4.4.
+
+Compatibility and possible synergy with other appropriate instruments
+
+N/A
+
+1.5.
+
+Duration and financial impact
+
+⌧
+
+limited duration
+
+–
+
+⌧
+
+in effect from 01/01/2021 to 31/12/2021
+
+–
+
+⌧
+
+Financial impact in 2021 for commitment appropriations (2022 for direct payments) and for 2021 and beyond for payment appropriations.
+
+◻
+
+unlimited duration
+
+Implementation with a start-up period from YYYY to YYYY, followed by full-scale operation.
+
+1.6.
+
+Management mode(s) planned
+
+21
+
+◻
+
+Direct management
+
+by the Commission
+
+–
+
+◻
+
+by its departments, including by its staff in the Union delegations;
+
+–
+
+◻
+
+by the executive agencies
+
+⌧
+
+Shared management
+
+with the Member States
+
+◻
+
+Indirect management
+
+by entrusting budget implementation tasks to:
+
+–
+
+◻
+
+third countries or the bodies they have designated;
+
+–
+
+◻
+
+international organisations and their agencies (to be specified);
+
+–
+
+◻
+
+the EIB and the European Investment Fund;
+
+–
+
+◻
+
+bodies referred to in Articles 70 and 71 of the Financial Regulation;
+
+–
+
+◻
+
+public law bodies;
+
+–
+
+◻
+
+bodies governed by private law with a public service mission to the extent that they provide adequate financial guarantees;
+
+–
+
+◻
+
+bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that provide adequate financial guarantees;
+
+–
+
+◻
+
+persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act.
+
+–
+
+If more than one management mode is indicated, please provide details in the ‘Comments’ section.
+
+Comments
+
+No substantive change compared to the present situation, i.e. the bulk of expenditure on the CAP will be managed by shared management with the Member States. However, a very minor part will continue to fall under direct management by the Commission.
+
+1.
+
+MANAGEMENT MEASURES
+
+1.1.
+
+Monitoring and reporting rules
+
+Specify frequency and conditions.
+
+No substantive change compared to the existing legislation
+
+1.2.
+
+Management and control system(s)
+
+1.2.1.
+
+Justification of the management mode(s), the funding implementation mechanism(s), the payment modalities and the control strategy proposed
+
+With a view to ensuring smooth continuity in the necessary transition to the CAP strategic plans, this proposal maintains existing management modes through shared management as well as payment and control modalities for the necessary period. As such it builds on the well-functionning systems already set up by the Member States.
+
+1.2.2.
+
+Information concerning the risks identified and the internal control system(s) set up to mitigate them
+
+The steady low error rate levels under the CAP in the most recent years show that the management and control systems set up by the Member States function properly and provide reasonable assurance. The transitional provisions provide for status quo as regards control systems.
+
+1.2.3.
+
+Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed"), and assessment of the expected levels of risk of error (at payment & at closure)
+
+The proposals maintains status quo as regards controls.
+
+1.3.
+
+Measures to prevent fraud and irregularities
+
+Specify existing or envisaged prevention and protection measures, e.g. from the Anti-Fraud Strategy.
+
+No changes proposed to the existing measures.
+
+2.
+
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+The amounts included in the transitional proposal are in line with amounts proposed for the CAP under Heading 3 in the proposal covering the Multiannual financial framework for the period 2021-2027 for the relevant financial years in COM (2018) 322 final/2.
+
+Therefore, for market-related expenditure financed by the EAGF, allocations under Regulation (EU) No 1308/2013 will be adjusted to the level which were proposed for the same sectors in the proposal on support for the CAP strategic plans (COM (2018) 392 final), for financial year 2021. Also the allocations for the outermost regions and the Aegean islands in Regulations (EU) No 228/2013 and (EU) No 229/2013 are adjusted to the level already proposed for the year 2021 (cf. COM(2018) 394 final).
+
+The proposed direct payments allocations for calendar year 2021, which are financed in financial year 2022, equals the allocations proposed for direct payments types of interventions for calendar year 2021 in COM (2018) 392 final.
+
+For the sake of ensuring continuity of rural development, the proposal adds allocations for 2021. These equal the amounts which were proposed for rural development types of interventions for the same year in COM (2018) 392 final. In case where the Member States decide not to extend their 2014-2020 rural development programmes, the unused allocations for 2021 are to be reprogrammed to the 2022-2025 allocations for the CAP Strategic plan.
+
+The reserve for agricultural crises referred to in Article 25 of Regulation (EU) No 1306/2013 as existing in the 2014-2020 period is proposed to be maintained for the transitional period.
+
+Overall, this proposal means that, as regards commitment appropriations, the proposal has no financial impact for the period 2021-2027 compared to what was proposed and described in the financial statement that accompanied the Commission proposal for the CAP for the period post 2020 (COM (2018) 392 final). As regards payment appropriations, the estimated potential impact is explained below but will depend on Member States’ decision as regards the extension of the 2014-2020 rural development programmes.
+
+The financial implications given below reflect the estimated changes compared to the implications set out in the legislative financial statement that accompanied the Commission proposal for the CAP for the period post 2020 (COM (2018) 392 final).
+
+2.1.
+
+Heading of the multiannual financial framework and new expenditure budget line(s) proposed
+
+Heading of multiannual financial framework
+
+Budget line
+
+Type of
+
+expenditure
+
+Contribution
+
+Heading 3:
+
+Natural Ressources and Environment
+
+Diff./Non-diff.
+
+22
+
+from EFTA countries
+
+23
+
+from candidate countries
+
+24
+
+from third countries
+
+within the meaning of Article [21(2)(b)] of the Financial Regulation
+
+3
+
+Non-diff.
+
+NO
+
+NO
+
+NO
+
+NO
+
+2.2.
+
+Estimated impact on expenditure
+
+2.2.1.
+
+Summary of estimated impact on expenditure
+
+EUR million (to three decimal places)
+
+Heading of multiannual financial
+
+framework
+
+3
+
+Natural ressources and environment
+
+For
+
+EAGF,
+
+the proposal has no impact on overall expenditure compared to the estimates described in the financial statement that accompanied the Commission proposal for the CAP for the period post 2020 (COM (2018) 392 final). The transitional proposal, ensuring continuity of a number of sectoral aid programmes under Regulation (EU) No 1308/2013 (i.e. fruit and vegetables, olive oil, apiculture, wine and hops) until the integration of these programmes under the CAP Plan, implies that the commitments estimated for the sectoral types of interventions under the CAP Plan will remain as market related expenditure outside the CAP Plan for the transitional period. The same applies for direct payments where commitments foreseen under the CAP Plan will remain as direct payments outside the CAP Plan for the transitional period. These changes, as well as the financing of the crisis reserve proposed to be maintained in the transitional period, are neutral as regards overall commitments within each year and for the period and therefore coherent with the Commission proposal as regards the EAGF subceiling for the 2021 – 2027 period.
+
+As regards the
+
+EAFRD
+
+, the proposal remains neutral in terms of commitment appropriations for the period. The decision of Member States as regards the extension of the 2014-2020 rural development programmes will affect the timing of commitments given that the 2021 EAFRD allocations are to transferred to the 2022-2025 EAFRD allocations where no extention is requested by the Member States.
+
+The net impact on the timing of payment appropriations cannot be quantified at present as it will depend on Member States’ decisions which can either delay or accelerate the implementation of payments compared to the timing estimated in the legislative financial statement that accompanied the Commission proposal for the CAP for the period post 2020 (COM (2018) 392 final): extensions of the 2014-2020 rural development programmes are expected to accelerate the payment profile for the given Member States/programmes whereas transfers of the unused 2021 allocations to the 2022-2025 allocations will delay the payments. Overall, payment appropriations remain unchanged for the period.
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+Post 2027
+
+TOTAL
+
+SUBTOTAL EAGF
+
+Commitments
+
+(1)
+
+Payments
+
+(2)
+
+SUBTOTAL EAFRD
+
+Commitments
+
+(3)
+
+Payments
+
+(4)
+
+TOTAL appropriations for the CAP
+
+Commitments
+
+(5)=(1+3)
+
+Payments
+
+(6)=(2+4)
+
+Heading of multiannual financial
+
+framework
+
+7
+
+‘Administrative expenditure’
+
+EUR million (to three decimal places)
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+Post 2027
+
+TOTAL
+
+Human resources
+
+Other administrative expenditure
+
+TOTAL appropriations under HEADING 7 of the multiannual financial framework
+
+(Total commitments = Total payments)
+
+EUR million (to three decimal places)
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+Post 2027
+
+TOTAL
+
+TOTAL appropriations
+
+across HEADINGS
+
+of the multiannual financial framework
+
+Commitments
+
+Payments
+
+2.2.2.
+
+Summary of estimated impact on appropriations of an administrative nature
+
+–
+
+◻
+
+The proposal/initiative does not require the use of appropriations of an administrative nature
+
+–
+
+⌧
+
+The proposal/initiative requires the use of appropriations of an administrative nature, as explained below:
+
+The proposal does not modify the impact estimated in the legislative financial statement accompanying the Commission proposal for the period post 2020 (cf. COM(2018) 392).
+
+EUR million (to three decimal places)
+
+Years
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+TOTAL
+
+HEADING 7
+
+of the multiannual financial framework
+
+Human resources
+
+Other administrative expenditure
+
+Subtotal HEADING 7
+
+of the multiannual financial framework
+
+Outside HEADING 7
+
+25
+
+of the multiannual financial framework
+
+Human resources
+
+Other expenditure
+
+of an administrative nature
+
+Subtotal
+
+outside HEADING 7
+
+of the multiannual financial framework
+
+TOTAL
+
+The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DG that are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints.
+
+2.2.2.1.
+
+Estimated requirements of human resources
+
+–
+
+◻
+
+The proposal/initiative does not require the use of human resources.
+
+–
+
+⌧
+
+The proposal/initiative requires the use of human resources, as explained below:
+
+The proposal does not modify the requirements estimated in the legislative financial statement accompanying the Commission proposal for the period post 2020 (cf. COM(2018) 392).
+
+Estimate to be expressed in full time equivalent units
+
+Years
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+• Establishment plan posts (officials and temporary staff)
+
+Headquarters and Commission’s Representation Offices
+
+Delegations
+
+Research
+
+•
+
+External staff (in Full Time Equivalent unit: FTE) - AC, AL, END, INT and JED
+
+26
+
+Heading 7
+
+Financed from HEADING 7 of the multiannual financial framework
+
+- at Headquarters
+
+- in Delegations
+
+Financed from the envelope of the programme
+
+27
+
+- at Headquarters
+
+- in Delegations
+
+Research
+
+Other (specify)
+
+TOTAL
+
+The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints.
+
+Description of tasks to be carried out:
+
+Officials and temporary staff
+
+External staff
+
+2.2.3.
+
+Third-party contributions
+
+The proposal/initiative:
+
+–
+
+⌧
+
+does
+
+not provide for co-financing by third parties
+
+–
+
+◻
+
+provides for the
+
+co
+
+-financing by third parties estimated below:
+
+Appropriations in EUR million (to three decimal places)
+
+Years
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+TOTAL
+
+Specify the co-financing body
+
+TOTAL appropriations co-financed
+
+2.3.
+
+Estimated impact on revenue
+
+–
+
+◻
+
+The proposal/initiative has no financial impact on revenue.
+
+–
+
+◻
+
+The proposal/initiative has the following financial impact:
+
+on own resources
+
+on other revenue
+
+please indicate, if the revenue is assigned to expenditure lines
+
+◻
+
+EUR million (to three decimal places)
+
+Budget revenue line:
+
+Impact of the proposal/initiative
+
+28
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+67 01 & 67 02
+
+29
+
+For assigned revenue, specify the budget expenditure line(s) affected.
+
+In addition to the lines mentioned in the legislative financial statement that accompanied the Commission proposal for the CAP for the period post 2020 (COM (2018) 392 final), the following budget line will be affected in the transitional period
+
+08 02 YY Direct payments outside the CAP Plan
+
+Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information).
+
+EUROPEAN COMMISSION
+
+Brussels, 31.10.2019
+
+COM(2019) 581 final
+
+ANNEXES
+
+to the
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+laying down certain transitional provisions for the support by the European Agricultural Fund for Rural Development (EAFRD) and by the European Agricultural Guarantee Fund (EAGF) in the year 2021 and amending Regulations (EU) No 228/2013, (EU) No 229/2013 and (EU) No 1308/2013 as regards resources and their distribution in respect of the year 2021 and amending Regulations  (EU) No 1305/2013, (EU) No 1306/2013 and (EU) No 1307/2013 as regards their resources and application in the year 2021
+
+ANNEX I
+
+Annex I to Regulation (EU) No 1305/2013 is amended as follows:
+
+(1)
+
+the title is replaced by:
+
+‘Part one: Breakdown of union support for rural development (2014 to 2020)
+
+’;
+
+(2
+
+)
+
+below the table the following
+
+title and column are added
+
+:
+
+‘Part two: Breakdown of union support for rural development (2021)
+
+(
+
+current prices in EUR
+
+)
+
+2021
+
+Belgium
+
+67 178 046
+
+Bulgaria
+
+281 711 396
+
+Czechia
+
+258 773 203
+
+Denmark
+
+75 812 623
+
+Germany
+
+989 924 996
+
+Estonia
+
+87 875 887
+
+Ireland
+
+264 670 951
+
+Greece
+
+509 591 606
+
+Spain
+
+1 001 202 880
+
+France
+
+1 209 259 199
+
+Croatia
+
+281 341 503
+
+Italy
+
+1 270 310 371
+
+Cyprus
+
+15 987 284
+
+Latvia
+
+117 307 269
+
+Lithuania
+
+195 182 517
+
+Luxembourg
+
+12 290 956
+
+Hungary
+
+416 202 472
+
+Malta
+
+12 207 322
+
+Netherlands
+
+73 151 195
+
+Austria
+
+480 467 031
+
+Poland
+
+1 317 890 530
+
+Portugal
+
+493 214 858
+
+Romania
+
+965 503 339
+
+Slovenia
+
+102 248 788
+
+Slovakia
+
+227 682 721
+
+Finland
+
+292 021 227
+
+Sweden
+
+211 550 876
+
+Total EU
+
+11 230 561 046
+
+Technical Assistance
+
+28 146 770
+
+Total
+
+11 258 707 816
+
+’
+
+ANNEX II
+
+Annexes II and III to Regulation (EU) No 1307/2013 are amended as follows:
+
+(1)
+
+i
+
+n
+
+A
+
+nnex II, the following column is added
+
+:
+
+‘
+
+2021
+
+485 604
+
+773 772
+
+838 844
+
+846 125
+
+4 823 108
+
+167 722
+
+1 163 938
+
+1 856 029
+
+4 710 172
+
+7 147 787
+
+344 340
+
+3 560 186
+
+46 750
+
+299 634
+
+510 820
+
+32 131
+
+1 219 770
+
+4 507
+
+703 870
+
+664 820
+
+2 972 978
+
+584 650
+
+1 856 173
+
+129 053
+
+383 806
+
+506 000
+
+672 761
+
+’;
+
+(2)
+
+i
+
+n A
+
+nnex III, the following column is added
+
+:
+
+‘
+
+2021
+
+485,6
+
+776,3
+
+838,8
+
+846,1
+
+4 823,1
+
+167,7
+
+1 163,9
+
+2 036,6
+
+4 768,7
+
+7 147,8
+
+344,3
+
+3 560,2
+
+46,8
+
+299,6
+
+510,8
+
+32,1
+
+1 219,8
+
+4,5
+
+703,9
+
+664,8
+
+2 973,0
+
+584,8
+
+1 856,2
+
+129,1
+
+383,8
+
+506,0
+
+672,8
+
+’
+
+ANNEX III
+
+‘ANNEX VI
+
+BUDGETARY LIMITS FOR SUPPORT PROGRAMMES REFERRED TO IN ARTICLE 44(1)
+
+in 1000 EUR per budget year
+
+2014
+
+2015
+
+2016
+
+2017-2020
+
+2021 onwards
+
+Bulgaria
+
+26 762
+
+26 762
+
+26 762
+
+26 762
+
+25 721
+
+Czechia
+
+5 155
+
+5 155
+
+5 155
+
+5 155
+
+4 954
+
+Germany
+
+38 895
+
+38 895
+
+38 895
+
+38 895
+
+37 381
+
+Greece
+
+23 963
+
+23 963
+
+23 963
+
+23 963
+
+23 030
+
+Spain
+
+353 081
+
+210 332
+
+210 332
+
+210 332
+
+202 147
+
+France
+
+280 545
+
+280 545
+
+280 545
+
+280 545
+
+269 628
+
+Croatia
+
+11 885
+
+11 885
+
+11 885
+
+10 832
+
+10 410
+
+Italy
+
+336 997
+
+336 997
+
+336 997
+
+336 997
+
+323 883
+
+Cyprus
+
+4 646
+
+4 646
+
+4 646
+
+4 646
+
+4 465
+
+Lithuania
+
+45
+
+45
+
+45
+
+45
+
+43
+
+Luxembourg
+
+588
+
+—
+
+—
+
+—
+
+—
+
+Hungary
+
+29 103
+
+29 103
+
+29 103
+
+29 103
+
+27 970
+
+Malta
+
+402
+
+—
+
+—
+
+—
+
+—
+
+Austria
+
+13 688
+
+13 688
+
+13 688
+
+13 688
+
+13 155
+
+Portugal
+
+65 208
+
+65 208
+
+65 208
+
+65 208
+
+62 670
+
+Romania
+
+47 700
+
+47 700
+
+47 700
+
+47 700
+
+45 844
+
+Slovenia
+
+5 045
+
+5 045
+
+5 045
+
+5 045
+
+4 849
+
+Slovakia
+
+5 085
+
+5 085
+
+5 085
+
+5 085
+
+4 887
+
+United Kingdom
+
+120
+
+—
+
+—
+
+—
+
+—
+
+’

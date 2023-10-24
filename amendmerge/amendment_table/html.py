@@ -228,8 +228,6 @@ class HtmlAmendmentTableParser:
         for pos in positions:
             position_dict = dict(list(position_dict.items()) + list(pos.items()))
 
-        # TODO make into a Position object
-
         # parse AMENDMENT
         # TODO are cases where row type is 'empty' or 'empty_img' handled correctly?
         amendment_dict = {}
@@ -324,7 +322,7 @@ class HtmlAmendmentTableParser:
 
         return amendment
 
-        # TODO possible also parse amended act position here
+        # TODO possibly also parse amended act position here
 
     @staticmethod
     def _parse_position(text):

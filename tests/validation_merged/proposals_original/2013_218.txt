@@ -1,0 +1,617 @@
+EUR-Lex - 52013PC0451 - EN
+
+|
+
+52013PC0451
+
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL adapting to Article 290 of the Treaty on the Functioning of the European Union a number of legal acts providing for the use of the regulatory procedure with scrutiny. /* COM/2013/0451 final - 2013/0218 (COD) */
+
+EXPLANATORY MEMORANDUM
+
+1.           BACKGROUND TO THEPROPOSAL
+
+The Treaty of Lisbon, which entered intoforce on 1st December 2009, substantially modifies the framework for powersthat are conferred upon the Commission by the legislator. It makes a cleardistinction between the powers delegated to the Commission to adoptnon-legislative acts of general application to supplement or amend certainnon-essential elements of a legislative act (delegated acts) on the one handand the powers conferred on the Commission to adopt implementing acts on theother hand. They are subject to entirely different legal frameworks.
+
+In terms of the wording, the definition ofdelegated acts in Article 290(1) is very similar to that of acts which, underDecision 1999/468/EC[1] ("the Comitology Decision"), are subject to theregulatory procedure with scrutiny (RPS) established in Article 5a of thisDecision. In both cases, the acts in question are of general application andseek to amend or supplement certain non-essential elements of the legislativeinstrument.
+
+For this reason, the revision of theComitology Decision by the Regulation 182/2011[2]("the Comitology Regulation") left out of its scope Article 5a of theComitology Decision. Article 5a establishing the RPS had therefore to be provisionallymaintained for the purposes of existing basic acts referring to this Article.In this context, the Commission made a commitment to formally adapt thoseexisting provisions providing for RPS to the delegated acts regime.
+
+The Commission issued the followingstatement at the moment of the adoption of the Comitology Regulation[3]:
+
+"As regards legislative acts in force which currentlycontain references to the regulatory procedure with scrutiny, the Commissionwill review the provisions attached to this procedure in each instrument itintends to modify, in order to adapt them in due course according to thecriteria laid down in the Treaty. In addition, the European Parliament and theCouncil will be entitled to signal basic acts they consider important to adaptas a matter of priority.
+
+The Commission will assess the results of this process by the end of2012 in order to estimate how many legislative acts containing references tothe regulatory procedure with scrutiny remain in force. The Commission will thenprepare the appropriate legislative initiatives to complete the adaptation. Theoverall objective of the Commission is that, by the end of the 7th term of theParliament, all provisions referring to the regulatory procedure with scrutinywould have been removed from all legislative instruments."
+
+2.           OVERVIEW OF THE BASICINSTRUMENTS CONCERNED BY THE ALIGNMENT
+
+At the end of 2012, 288 legislative actsstill containing references to the RPS were identified. Around 60 of them arecurrently in the legislative process and therefore are not concerned by thepresent proposal (those acts are listed for information in point 4 below).
+
+The Commission has carried out a carefulexamination of all legislative instruments still referring to the RPS in orderto analyse whether the RPS measures covered by theComitology Decision meet the criteria of Article 290TFEU.
+
+This is the first of thethree proposals adapting a number of legislative instruments referring to theRPS to the criteria laid down in the Treaty. It provides for a transformationof the RPS into delegated acts for the basic legislative acts which are listedin the annex. It is based on the legal bases of all thebasic acts concerned.
+
+Another separate regulation is proposed for the legislativeacts in the area of Justice which refer to the RPS (COM(2013)452), as those acts were adopted under a legal basis pursuant to Title Vpart III of the TFEU and therefore do not bind all Member States, and are thusirreconcilable with the legal bases of the other basic acts.
+
+Finally, a third proposal will cover theremaining basic acts referring to the RPS which are subject to an on-goinganalysis.
+
+3.           METHOD OF THE ADAPTATIONOF LEGISLATIVE INSTRUMENTS STILL REFERRING TO THE RPS
+
+The approach followed by this proposal isto apply the method used in the Comitology Regulation and to align the basicacts still containing the RPS by way of a framework regulation.
+
+The Comitology Regulation provides for anautomatic alignment of the existing acquis to the new procedures. Article 13 ofthat Regulation stipulates that, where basic acts make reference to theprocedures provided for in the Comitology Decision, the corresponding procedureof the Comitology Regulation applies.
+
+Accordingly, the present frameworkregulation provides that where instruments listed in the annex make referenceto the procedure referred to in Article 5a of the Comitology Decision, theCommission is empowered to adopt delegated acts.
+
+In cases where there are curtailedtime-limits for opposition, in accordance with Article 5a(5)(b) of theComitology Decision, the proposal provides for a time-limit for objection of 1month (Article 2(6) of the proposal).
+
+The proposal adapts the urgency procedureaccording to Article 5a(6) of the Comitology Decision to the urgency procedurefor delegated acts (Article 3 of the proposal).
+
+Adaptation to the delegated act regime willnot affect pending procedures in which an opinion has already been delivered bya committee in accordance with the Comitology Decision.
+
+Basic acts which are adapted to thedelegated acts regime are listed in the annex of the proposal. The list isorganised according to policy areas and chronological order of the adoption ofthe instruments.
+
+4.           LIST OF BASIC ACTSREFERRING TO THE RPS WHICH ARE CURRENTLY UNDER REVISION
+
+Field || Instrument || Reference of the proposal
+
+AGRI || Directive 1999/4/EC of the European Parliament and of the Council of 22 February 1999 relating to coffee extracts and chicory extracts || COM(2012) 150
+
+AGRI || Directive 2000/36/EC of the European Parliament and of the Council of 23 June 2000 relating to cocoa and chocolate products intended for human consumption || COM(2012) 150
+
+CLIMA || Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009setting emission performance standards for new passenger cars as part of the Community’s integrated approach to reduce CO2 emissions from light-duty vehicles || COM (2012)393
+
+CLIMA || Regulation (EC) No 842/2006 of the European Parliament and of the Council of 17 May 2006 on certain fluorinated greenhouse gases || COM (2012)643
+
+CNECT || Directive 1999/93/EC of the European Parliament and of the Council of 13 December 1999 on a Community framework for electronic signatures || COM (2012) 238
+
+EMPL || Directive 2004/40/EC of the European Parliament and of the Council of 29 April 2004 on the minimum health and safety requirements regarding the exposure of workers to the risks arising from physical agents (electromagnetic fields) (18th individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC) || COM(2011)348
+
+ENER || Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC || COM(2012) 595
+
+ENER/CLIMA || Directive 2009/30/EC of the European Parliament and of the Council of 23 April 2009 amending Directive 98/70/EC as regards the specification of petrol, diesel and gas-oil and introducing a mechanism to monitor and reduce greenhouse gas emissions and amending Council Directive 1999/32/EC as regards the specification of fuel used by inland waterway vessels and repealing Directive 93/12/EEC || COM(2012)595
+
+ENTR || Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations || COM(2012)8
+
+ENTR || Directive 1999/5/EC of the European Parliament and of the Council of 9 March 1999 on radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity || COM(2012)584
+
+ENTR || Directive 2004/22/EC of the European Parliament and of the Council of 31 March 2004 on measuring instruments || COM(2011)769
+
+ENTR || Directive 2007/23/EC of the European Parliament and of the Council of 23 May 2007 on the placing on the market of pyrotechnic articles ||  COM(2011)771
+
+ENTR || Directive 94/25/EC of the European Parliament and of the Council of 16 June 1994 on the approximation of the laws, regulations and administrative provisions of the Member States relating to recreational craft || COM(2011)456
+
+ENTR || Regulation (EC) No 273/2004 of the European Parliament and of the Council of 11 February 2004 on drug precursors || COM(2012)548
+
+ENTR || Regulation (EC) No 683/2008 of the European Parliament and of the Council of 9 July 2008 on the further implementation of the European satellite navigation programmes (EGNOS and Galileo) || COM(2011)814
+
+ESTAT || Regulation (EC) No 543/2009 of the European Parliament and of the Council of 18 June 2009 concerning crop statistics and repealing Council Regulations (EEC) No 837/90 and (EEC) No 959/93 || COM (2012)724
+
+ESTAT || Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities || COM(2012)167
+
+ESTAT || Regulation (EC) No 218/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic (recast) || COM(2012)724
+
+ESTAT || Regulation (EC) No 217/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of catch and activity statistics by Member States fishing in the north-west Atlantic (recast) || COM(2012)724
+
+ESTAT || Regulation (EC) No 216/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in certain areas other than those of the North Atlantic (recast) || COM(2012)724
+
+ESTAT || Regulation (EC) No 1165/2008 of the European Parliament and of the Council of 19 November 2008 concerning livestock and meat statistics and repealing Council Directives 93/23/EEC, 93/24/EEC and 93/25/EEC || COM 2012 724
+
+ESTAT || Regulation (EC) No 762/2008 of the European Parliament and of the Council of 9 July 2008 on the submission by Member States of statistics on aquaculture and repealing Council Regulation (EC) No 788/96 || COM(2012)724
+
+ESTAT || Regulation (EC) No 1921/2006 of the European Parliament and of the Council of 18 December 2006 on the submission of statistical data on landings of fishery products in Member States || COM(2012)724
+
+ESTAT || Regulation (EC) No 138/2004 of the European Parliament and of the Council of 5 December 2003 on the economic accounts for agriculture in the Community || COM (2012)724
+
+ESTAT || Council Regulation (EC) No 577/98 of 9 March 1998 on the organisation of a labour force sample survey in the Community || COM(2013) 155
+
+ESTAT || Council Directive 96/16/EC of 19 March 1996 on statistical surveys of milk and milk products || COM(2012)724
+
+HOME || Council Regulation (EC) No 343/2003 of 18 February 2003 establishing the criteria and mechanisms for determining the Member State responsible for examining an asylum application lodged in one of the Member States by a third-country national || COM(2008) 820
+
+HOME || Decision No 573/2007/EC of the European Parliament and of the Council of 23 May 2007 establishing the European Refugee Fund for the period 2008 to 2013 as part of the General programme Solidarity and Management of Migration Flows || COM(2011) 751
+
+HOME || Decision No 574/2007/EC of the European Parliament and of the Council of 23 May 2007 establishing the External Borders Fund for the period 2007 to 2013 as part of the General programme Solidarity and Management of Migration Flows || COM(2011) 750
+
+HOME || Decision No 575/2007/EC of the European Parliament and of the Council of 23 May 2007 establishing the European Return Fund for the period 2008 to 2013 as part of the General Programme Solidarity and Management of Migration Flows || COM(2011) 751
+
+HOME || Regulation (EC) No 562/2006 of the European Parliament and of the Council of 15 March 2006 establishing a Community Code on the rules governing the movement of persons across borders (Schengen Borders Code) || COM (2011) 118
+
+MARKT || Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) || COM(2011)8
+
+MARKT || Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts || COM(2011)778
+
+MARKT || Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications || COM(2011)883
+
+MARKT || Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts || COM(2011)895
+
+MARKT || Directive 2004/17/EC of the European Parliament and of the Council of 31 March 2004 coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors || COM(2011)895
+
+MARKT || Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (MiFID) || COM(2011) 656 COM(2011) 652
+
+MARKT || Directive 2003/6/EC of the European Parliament and of the Council of 28 January 2003 on insider dealing and market manipulation (market abuse) || COM(2011)651
+
+MOVE || Directive 2009/40/EC of the European Parliament and of the Council of 6 May 2009 on roadworthiness tests for motor vehicles and their trailers (recast) || COM(2012)380
+
+MOVE || Directive 2009/16/EC of the European Parliament and of the Council of 23 April 2009 on port State control || COM(2012)129
+
+MOVE || Council Directive 96/98/EC of 20 December 1996 on marine equipment || COM (2012)772
+
+MOVE || Directive 2003/42/EC of the European Parliament and of the Council of 13 June 2003 on occurrence reporting in civil aviation || COM (2012)776
+
+MOVE || Directive 2008/57/EC of the European Parliament and of the Council of 17 June 2008 on the interoperability of the rail system within the Community (recast) || COM(2013) 30
+
+MOVE || Directive 2004/49/EC of the European Parliament and of the Council of 29 April 2004 on safety on the Community's railways and amending Council Directive 95/18/EC on the licensing of railway undertakings and Directive 2001/14/EC on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification (Railway Safety Directive) || COM(2013)31
+
+MOVE || Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport || COM (2011)451
+
+MOVE || Regulation (EC) No 552/2004 of the European Parliament and of the Council of 10 March 2004 on the interoperability of the European Air Traffic Management network. || COM(2013)410
+
+MOVE || Regulation (EC) No 551/2004 of the European Parliament and of the Council of 10 March 2004 on the organisation and use of the airspace in the single European sky. || COM(2013)410
+
+MOVE || Regulation (EC) No 550/2004 of the European Parliament and of the Council of 10 March 2004 on the provision of air navigation services in the single European sky || COM(2013)410
+
+MOVE || Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the single European sky (the framework Regulation) || COM(2013)410
+
+MOVE || Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC || COM(2013) 409
+
+MOVE || Council Directive 96/53/EC of 25 July 1996 laying down for certain road vehicles circulating within the Community the maximum authorized dimensions in national and international traffic and the maximum authorized weights in international traffic || COM(2013)195
+
+SANCO || Directive 2001/20/EC of the European Parliament and of the Council of 4 April 2001 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the implementation of good clinical practice in the conduct of clinical trials on medicinal products for human use || COM(2012)369
+
+SANCO || Decision No 2119/98/EC of the European Parliament and of the Council of 24 September 1998 setting up a network for the epidemiological surveillance and control of communicable diseases in the Community || COM(2011)866
+
+SANCO || Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices || COM(2012)541
+
+SANCO || Council Directive 93/42/EEC of 14 June 1993 concerning medical devices || COM(2012)542
+
+SANCO || Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices || COM(2012)542
+
+SANCO || Directive 2001/37/EC of the European Parliament and of the Council of 5 June 2001 on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco products || COM(2012)788
+
+SANCO || Directive 2001/95/EC of the European Parliament and of the Council of 3 December 2001 on general product safety || COM(2013)78
+
+SANCO || Council Directive 96/23/EC of 29 April 1996 on measures to monitor certain substances and residues thereof in live animals and animal products and repealing Directives 85/358/EEC and 86/469/EEC and Decisions 89/187/EEC and 91/664/EEC || COM(2013)265
+
+SANCO || Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules || COM(2013)265
+
+TAXUD || Regulation (EC) No 450/2008 of the European Parliament and of the Council of 23 April 2008 laying down the Community Customs Code (Modernised Customs Code) || COM(2012)64
+
+2013/0218 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENTAND OF THE COUNCIL
+
+adapting to Article 290 of the Treaty onthe Functioning of the European Union a number of legal acts providing for theuse of the regulatory procedure with scrutiny
+
+THE EUROPEAN PARLIAMENT AND THECOUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioningof the European Union, and in particular Articles 33, 43(2), 53(1), 62, 64(2),91, 100(2), 114, 153(2)(b), 168(4)(b), 172, 192(1), 207 and 338(1), thereof,
+
+Having regard to the proposal from theEuropean Commission,
+
+After transmission of the draft legislativeact to the national Parliaments,
+
+Having regard to the opinion of theEuropean Economic and Social Committee[4],
+
+Having regard to the opinion of theCommittee of the Regions[5],
+
+Acting in accordance with the ordinarylegislative procedure,
+
+Whereas:
+
+(1)       TheTreaty of Lisbon introduced the possibility for the legislator to delegatepower to the Commission to adopt non-legislative acts of general application tosupplement or amend certain non-essential elements of a legislative act.
+
+(2)       Themeasures which can be covered by delegations of powers, as referred to in Article290(1) of the Treaty on the Functioning of the European Union (TFEU),correspond in principle to those covered by the regulatory procedure withscrutiny established by Article 5a of Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powersconferred on the Commission [6].
+
+(3)       Itis necessary to adapt to Article 290 of the TFEU a number of legal acts alreadyin force which provide for the use of the regulatory procedure with scrutiny.
+
+(4)       This Regulation should notaffect pending procedures in which the committee has already delivered itsopinion in accordance with Article 5a of Decision 1999/468/EC before the entryinto force of this Regulation.
+
+(5)       Since the adaptations tobe made by this Regulation concern only procedures, they do not, in the case ofdirectives, need to be transposed by the Member States.
+
+(6)       When the Commissionprepares delegated acts on the basis of the legal acts adapted by thisRegulation, it is of particular importance that it carry out appropriateconsultations, including at expert level. TheCommission, when preparing and drawing up delegated acts, should ensure asimultaneous, timely and appropriate transmission of relevant documents to theEuropean Parliament and to the Council,
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+1. Where thelegal acts listed in the Annex to this Regulation provide for the use of theregulatory procedure with scrutiny referred to in Article 5a(1) to (5) ofDecision 1999/468/EC, the Commission shall be empowered to adopt delegated actsin accordance with Article 2 of this Regulation.
+
+2. Where thelegal acts listed in the Annex provide for the use of the urgency procedurereferred to in Article 5a(6) of the Decision 1999/468/EC, the Commission shallbe empowered to adopt delegated acts in accordance with the urgency procedureprovided in Article 3 of this Regulation.
+
+Article 2
+
+1. The power toadopt delegated acts is conferred on the Commission subject to the conditionslaid down in this Article.
+
+2. The power toadopt delegated acts shall be conferred on the Commission for an indeterminateperiod of time.
+
+3. Thedelegation of power may be revoked at any time by the European Parliament or bythe Council. A decision to revoke shall put an end to the delegation of thepower specified in that decision. It shall take effect the day following thepublication of the decision in the Official Journal of the European Unionor at a later date specified therein. It shall not affect the validity of anydelegated acts already in force.
+
+4. As soon asit adopts a delegated act, the Commission shall notify it simultaneously to theEuropean Parliament and to the Council.
+
+5. An adopteddelegated act shall enter into force only if no objection has been expressedeither by the European Parliament or the Council within a period of two monthsof notification of that act to the European Parliament and the Council or if,before the expiry of that period, the European Parliament and the Council haveboth informed the Commission that they will not object. That period shall beextended by two months at the initiative of the European Parliament or of theCouncil.
+
+6. Where thelegal acts listed in the Annex to this Regulation provide that the time-limitlaid down in Article 5a(3)(c) of Decision 1999/468/EC is curtailed pursuant toArticle 5a(5)(b) of that Decision, the periods laid down in paragraph 5 of thisArticle shall be set at one month.
+
+Article 3
+
+1. Delegated acts adopted under thisArticle shall enter into force without delay and shall apply as long as noobjection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and tothe Council shall state the reasons for the use of the urgency procedure.
+
+2. Either the European Parliament or theCouncil may object to a delegated act in accordance with the procedure referredto in Article 2(5). In such a case, the Commission shall repeal the act withoutdelay following the notification of the decision toobject by the European Parliament or by the Council.
+
+Article 4
+
+This Regulationshall not affect pending procedures in which a committee has already deliveredits opinion in accordance with Article 5a of Decision 1999/468/EC.
+
+Article 5
+
+This Regulation shall enter into force onthe twentieth day following that of its publication in the Official Journalof the European Union.
+
+This Regulation shall be bindingin its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament                       Forthe Council
+
+The President                                                 ThePresident
+
+ANNEX
+
+Legal acts making reference to theregulatory procedure with scrutiny referred to in Article 5a of the Decision1999/468/EC which are adapted to the regime of delegated acts[7].
+
+A. Communications Networks, Contentand Technology
+
+1.           Directive 2002/58/EC ofthe European Parliament and of the Council of 12 July 2002 concerning theprocessing of personal data and the protection of privacy in the electroniccommunications sector (Directive on privacy and electronic communications)
+
+2.           Directive 2002/19/EC ofthe European Parliament and of the Council of 7 March 2002 on access to, andinterconnection of, electronic communications networks and associatedfacilities (Access Directive)
+
+B. Employment, Social Affairs andInclusion
+
+3.           Directive 2009/148/EC ofthe European Parliament and of the Council of 30 November 2009 on theprotection of workers from the risks related to exposure to asbestos at work **
+
+4.           Directive2009/104/EC of the European Parliament and of the Council of 16 September2009 concerning the minimum safety and health requirements for the use of workequipment by workers at work (second individual Directive within the meaning ofArticle 16(1) of Directive 89/391/EEC)**
+
+5.           Directive2006/25/EC of the European Parliament and of the Council of 5 April 2006 on theminimum health and safety requirements regarding the exposure of workers torisks arising from physical agents (artificial optical radiation) (19thindividual Directive within the meaning of Article 16(1) of Directive89/391/EEC)**
+
+6.           Directive2004/37/EC of the European Parliament and of the Council of 29 April 2004 onthe protection of workers from the risks related to exposure to carcinogens ormutagens at work (sixth individual directive within the meaning of Article16(1) of Directive 89/391/EEC)**
+
+7.           Directive2003/10/EC of the European Parliament and of the Council of 6 February 2003 onthe minimum health and safety requirements regarding the exposure of workers tothe risks arising from physical agents (noise) (Seventeenth individualDirective within the meaning of Article 16(1) of Directive 89/391/EEC)**
+
+8.           Directive2002/44/EC of the European Parliament and of the Council of 25 June 2002 on theminimum health and safety requirements regarding the exposure of workers to therisks arising from physical agents (vibration) (sixteenth individual Directivewithin the meaning of Article 16(1) of Directive 89/391/EEC **
+
+9.           Directive 2000/54/EC ofthe European Parliament and of the Council of 18 September 2000 on theprotection of workers from risks related to exposure to biological agents atwork (seventh individual directive within the meaning of Article 16(1) ofDirective 89/391/EEC)**
+
+10.         Directive 1999/92/EC of theEuropean Parliament and of the Council of 16 December 1999 on minimumrequirements for improving the safety and health protection of workerspotentially at risk from explosive atmospheres (15th individual Directivewithin the meaning of Article 16(1) of Directive 89/391/EEC)**
+
+11.         Council Directive 98/24/ECof 7 April 1998 on the protection of the health and safety of workers from therisks related to chemical agents at work (fourteenth individual Directivewithin the meaning of Article 16(1) of Directive 89/391/EEC)**
+
+12.         Council Directive 93/103/ECof 23 November 1993 concerning the minimum safety and health requirements forwork on board fishing vessels (thirteenth individual Directive within themeaning of Article 16 (1) of Directive 89/391/EEC)**
+
+13.         Council Directive92/104/EEC of 3 December 1992 on the minimum requirements for improving thesafety and health protection of workers in surface and undergroundmineral-extracting industries (twelfth individual Directive within the meaningof Article 16 (1) of Directive 89/391/EEC)**
+
+14.         Council Directive 92/91/EECof 3 November 1992 concerning the minimum requirements for improving the safetyand health protection of workers in the mineral- extracting industries throughdrilling (eleventh individual Directive within the meaning of Article 16 (1) ofDirective 89/391/EEC)**
+
+15.         CouncilDirective 92/58/EEC of 24 June 1992 on the minimum requirements for theprovision of safety and/or health signs at work (ninth individual Directivewithin the meaning of Article 16(1) of Directive 89/391/EEC)**
+
+16.         Council Directive 92/57/EECof 24 June 1992 on the implementation of minimum safety and health requirementsat temporary or mobile construction sites (eighth individual Directive withinthe meaning of Article 16 (1) of Directive 89/391/EEC)**
+
+17.         CouncilDirective 92/29/EEC of 31 March 1992 on the minimum safety and healthrequirements for improved medical treatment on board vessels **
+
+18.         CouncilDirective 90/270/EEC of 29 May 1990 on the minimum safety and health requirementsfor work with display screen equipment (fifth individual directive within themeaning of Article 16(1) of Directive 89/391/EEC)**
+
+19.         CouncilDirective 90/269/EEC of 29 May 1990 on the minimum health and safetyrequirements for the manual handling of loads where there is a riskparticularly of back injury to workers (fourth individual directive within themeaning of Article 16(1) of Directive 89/391/EEC)**
+
+20.         CouncilDirective 89/656/EEC of 30 November 1989 on the minimum health and safetyrequirements for the use by workers of personal protective equipment at theworkplace (third individual directive within the meaning of Article 16(1) ofDirective 89/391/EEC)**
+
+21.         CouncilDirective 89/654/EEC of 30 November 1989 concerning the minimum safety and healthrequirements for the workplace (first individual directive within the meaningof Article 16(1) of Directive 89/391/EEC)**
+
+22.         CouncilDirective 89/391/EEC of 12 June 1989 on the introduction of measures toencourage improvements in the safety and health of workers at work **
+
+C. Climate action
+
+23.         Regulation (EC) No1005/2009 of the European Parliament and of the Council of 16 September 2009 onsubstances that deplete the ozone layer
+
+24.         Directive 2009/31/EC of theEuropean Parliament and of the Council of 23 April 2009 on the geologicalstorage of carbon dioxide and amending Council Directive 85/337/EEC, EuropeanParliament and Council Directives 2000/60/EC, 2001/80/EC, 2004/35/EC,2006/12/EC, 2008/1/EC and Regulation (EC) No 1013/2006
+
+D. Energy
+
+25.         Regulation (EC) No1222/2009 of the European Parliament and of the Council of 25 November 2009 onthe labelling of tyres with respect to fuel efficiency and other essentialparameters.
+
+26.         Regulation (EC) No 715/2009of the European Parliament and of the Council of 13 July 2009 on conditions foraccess to the natural gas transmission networks and repealing Regulation (EC)No 1775/2005
+
+27.         Regulation (EC) No 714/2009of the European Parliament and of the Council of 13 July 2009 on conditions foraccess to the network for cross-border exchanges in electricity and repealingRegulation (EC) No 1228/2003
+
+28.         Regulation (EC) No 713/2009of the European Parliament and of the Council of 13 July 2009 establishing anAgency for the Cooperation of Energy Regulators
+
+29.         Directive 2009/72/EC of theEuropean Parliament and of the Council of 13 July 2009 concerning common rulesfor the internal market in electricity and repealing Directive 2003/54/EC
+
+30.         Directive 2009/73/EC of theEuropean Parliament and of the Council of 13 July 2009 concerning common rulesfor the internal market in natural gas and repealing Directive 2003/55/EC
+
+E. Enterprise and Industry
+
+31.         Regulation(EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009concerning type-approval requirements for the general safety of motor vehicles,their trailers and systems, components and separate technical units intendedtherefor
+
+32.         Regulation(EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009on type-approval of motor vehicles and engines with respect to emissions fromheavy duty vehicles (Euro VI) and on access to vehicle repair and maintenanceinformation and amending Regulation (EC) No 715/2007 and Directive 2007/46/ECand repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC
+
+33.         Directive 2009/125/EC ofthe European Parliament and of the Council of 21 October 2009 establishing aframework for the setting of eco-design requirements for energy-relatedproducts
+
+34.         Regulation(EC) No 79/2009 of the European Parliament and of the Council of 14 January2009 on type-approval of hydrogen-powered motor vehicles, and amendingDirective 2007/46/EC
+
+35.         Directive2009/48/EC of the European Parliament and of the Council of 18 June 2009 on thesafety of toys
+
+36.         Directive2009/43/EC of the European Parliament and of the Council of 6 May 2009simplifying terms and conditions of transfers of defence-related productswithin the Community
+
+37.         Directive2009/34/EC of the European Parliament and of the Council of 23 April 2009relating to common provisions for both measuring instruments and methods ofmetrological control (recast)
+
+38.         Directive2007/46/EC of the European Parliament and of the Council of 5 September 2007establishing a framework for the approval of motor vehicles and their trailers,and of systems, components and separate technical units intended for suchvehicles (Framework Directive)
+
+39.         Regulation(EC) No 1907/2006 of the European Parliament and of the Council of18 December 2006 concerning the Registration, Evaluation, Authorisationand Restriction of Chemicals (REACH), establishing a European Chemicals Agency,amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93and Commission Regulation (EC) No 1488/94 as well as Council Directive76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and2000/21/EC.
+
+40.         Directive 2004/10/EC of theEuropean Parliament and of the Council of 11 February 2004 on the harmonisationof laws, regulations and administrative provisions relating to the applicationof the principles of good laboratory practice and the verification of theirapplications for tests on chemical substances
+
+41.         Directive2004/9/EC of the European Parliament and of the Council of 11 February 2004 onthe inspection and verification of good laboratory practice (GLP)
+
+42.         Regulation(EC) No 2003/2003 of the European Parliament and of the Council of 13 October2003 relating to fertilisers
+
+43.         Directive 2000/14/EC of theEuropean Parliament and of the Council of 8 May 2000 on the approximation ofthe laws of the Member States relating to the noise emission in the environmentby equipment for use outdoors
+
+44.         Directive 97/68/EC of theEuropean Parliament and of the Council of 16 December 1997 on the approximationof the laws of the Member States relating to measures against the emission ofgaseous and particulate pollutants from internal combustion engines to beinstalled in non-road mobile machinery
+
+45.         Council Directive75/324/EEC of 20 May 1975 on the approximation of the laws of the Member Statesrelating to aerosol dispensers
+
+F. Environment
+
+46.         Regulation(EC) No 1007/2009 of the European Parliament and of the Council of 16 September2009 on trade in seal products
+
+47.         Directive2009/147/EC of the European Parliament and of the Council of 30 November 2009on the conservation of wild birds
+
+48.         Directive2009/126/EC of the European Parliament and of the Council of 21 October2009 on Stage II petrol vapour recovery during refuelling of motor vehicles atservice stations
+
+49.         Regulation(EC) No 1272/2008 of the European Parliament and of the Council of 16 December2008 on classification, labelling and packaging of substances and mixtures,amending and repealing Directives 67/548/EEC and 1999/45/EC, and amendingRegulation (EC) No 1907/2006**
+
+50.         Directive2008/98/EC of the European Parliament and of the Council of 19 November 2008 onwaste and repealing certain Directives (Waste Framework Directive)
+
+51.         Directive2008/56/EC of the European Parliament and of the Council of 17 June 2008establishing a framework for community action in the field of marineenvironmental policy (Marine Strategy Framework Directive)
+
+52.         Directive2008/50/EC of the European Parliament and of the Council of 21 May 2008 onambient air quality and cleaner air for Europe
+
+53.         Directive2007/60/EC of the European Parliament and of the Council of 23 October 2007 onthe assessment and management of flood risks
+
+54.         Directive2007/2/EC of the European Parliament and of the Council of 14 March 2007establishing an Infrastructure for Spatial Information in the EuropeanCommunity (INSPIRE)
+
+55.         Regulation(EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006on shipments of waste
+
+56.         Regulation(EC) No 166/2006 of the European Parliament and of the Council of 18 January2006 concerning the establishment of a European Pollutant Release and TransferRegister and amending Council Directives 91/689/EEC and 96/61/EC
+
+57.         Directive2006/118/EC of the European Parliament and of the Council of 12 December 2006on the protection of groundwater against pollution and deterioration
+
+58.         Directive2006/21/EC of the European Parliament and of the Council of 15 March 2006 onthe management of waste from extractive industries and amending Directive2004/35/EC
+
+59.         Directive2006/7/EC of the European Parliament and of the Council of 15 February2006 concerning the management of bathing water quality and repealing Directive76/160/EEC
+
+60.         Regulation(EC) No 850/2004 of the European Parliament and of the Council of 29 April 2004on persistent organic pollutants and amending Directive 79/117/EEC
+
+61.         Directive2004/107/EC of the European Parliament and of the Council of 15 December 2004relating to arsenic, cadmium, mercury, nickel and polycyclic aromatichydrocarbons in ambient air
+
+62.         Directive2004/42/CE of the European Parliament and of the Council of 21 April 2004 onthe limitation of emissions of volatile organic compounds due to the use oforganic solvents in certain paints and varnishes and vehicle refinishingproducts and amending Directive 1999/13/EC
+
+63.         Directive2002/49/EC of the European Parliament and of the Council of 25 June 2002relating to the assessment and management of environmental noise
+
+64.         Directive2001/81/EC of the European Parliament and of the Council of 23 October 2001 onnational emission ceilings for certain atmospheric pollutants
+
+65.         Directive2000/60/EC of the European Parliament and of the Council of 23 October 2000establishing a framework for Community action in the field of water policy
+
+66.         Directive2000/53/EC of the European Parliament and of the Council of 18 September 2000on end-of life vehicles
+
+67.         CouncilDirective 1999/31/EC of 26 April 1999 on the landfill of waste
+
+68.         CouncilDirective 98/83/EC of 3 November 1998 on the quality of water intended forhuman consumption
+
+69.         CouncilDirective 96/59/EC of 16 September 1996 on the disposal of polychlorinatedbiphenyls and polychlorinated terphenyls (PCB/PCT)
+
+70.         EuropeanParliament and Council Directive 94/63/EC of 20 December 1994 on the control ofvolatile organic compound (VOC) emissions resulting from the storage of petroland its distribution from terminals to service stations
+
+71.         EuropeanParliament and Council Directive 94/62/EC of 20 December 1994 on packaging andpackaging waste
+
+72.         CouncilDirective 91/676/EEC of 12 December 1991 concerning the protection of watersagainst pollution caused by nitrates from agricultural sources
+
+73.         CouncilDirective 91/271/EEC of 21 May 1991 concerning urban waste-water treatment
+
+74.         CouncilDirective 86/278/EEC of 12 June 1986 on the protection of the environment, andin particular of the soil, when sewage sludge is used in agriculture
+
+G. Statistics
+
+75.         Regulation(EC) No 1185/2009 of the European Parliament and of the Council of 25 November2009 concerning statistics on pesticides
+
+76.         Regulation(EC) No 1338/2008 of the European Parliament and of the Council of 16 December2008 on Community statistics on public health and health and safety at work
+
+77.         Regulation(EC) No 1166/2008 of the European Parliament and of the Council of 19 November2008 on farm structure surveys and the survey on agricultural productionmethods and repealing Council Regulation (EEC) No 571/88
+
+78.         Regulation(EC) No 1099/2008 of the European Parliament and of the Council of 22 October2008 on energy statistics)
+
+79.         Regulation(EC) No 763/2008 of the European Parliament and of the Council of 9 July2008 on population and housing censuses
+
+80.         Regulation(EC) No 452/2008 of the European Parliament and of the Council of 23 April2008 concerning the production and development of statistics on education andlifelong learning
+
+81.         Regulation(EC) No 451/2008 of the European Parliament and of the Council of 23 April2008 establishing a new statistical classification of products by activity(CPA) and repealing Council Regulation (EEC) No 3696/93
+
+82.         Regulation(EC) No 295/2008 of the European Parliament and of the Council of11 March 2008 concerning structural business statistics (recast)
+
+83.         Regulation(EC) No 862/2007 of the European Parliament and of the Council of 11 July2007 on Community statistics on migration and international protection andrepealing Council Regulation (EEC) No 311/76 on the compilation ofstatistics on foreign workers.
+
+84.         Regulation(EC) No 458/2007 of the European Parliament and of the Council of25 April 2007 on the European system of integrated social protectionstatistics (ESSPROS)
+
+85.         Regulation(EC) No 1893/2006 of the European Parliament and of the Council of20 December 2006 establishing the statistical classification of economicactivities NACE Revision 2 and amending Council Regulation (EEC)No 3037/90 as well as certain EC Regulations on specific statisticaldomains
+
+86.         Regulation(EC) No 1161/2005 of the European Parliament and of the Council of 6 July 2005on the compilation of quarterly non-financial accounts by institutional sector.
+
+87.         Regulation(EC) No 808/2004 of the European Parliament and of the Council of 21 April 2004concerning Community statistics on the information society
+
+88.         Regulation(EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003on the establishment of a common classification of territorial units forstatistics (NUTS).
+
+89.         CouncilRegulation (EC) 530/1999 of 9 March 1999 concerning structural statistics onearnings and on labour costs.
+
+90.         CouncilRegulation (EC) No 1165/98 of 19 May 1998 concerning short-term statistics.
+
+91.         CouncilRegulation (EC) No 2494/95 of 23 October 1995 concerning harmonized indices ofconsumer prices.
+
+92.         CouncilRegulation (EEC) No 696/93 of 15 March 1993 on the statistical units for theobservation and analysis of the production system in the Community.
+
+93.         CouncilRegulation (EEC) No 3924/91 of 19 December 1991 on the establishment of aCommunity survey of industrial production
+
+H. Internal Market and Services
+
+94.         Directive2006/123/EC of the European Parliament and of the Council of 12 December 2006on services in the internal market
+
+95.         Regulation(EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002on the application of international accounting standards
+
+96.         Directive97/67/EC of the European Parliament and of the Council of 15 December 1997 oncommon rules for the development of the internal market of Community postalservices and the improvement of quality of service
+
+I. Mobility and Transport
+
+97.         Regulation(EC) No 1073/2009 of the European Parliament and of the Council of 21 October2009 on common rules for access to the international market for coach and busservices, and amending Regulation (EC) No 561/2006
+
+98.         Regulation(EC) No 1071/2009 of the European Parliament and of the Council of 21 October2009 establishing common rules concerning the conditions to be complied with topursue the occupation of road transport operator and repealing Council Directive96/26/EC
+
+99.         Regulation(EC) No 392/2009 of the European Parliament and of the Council of 23 April 2009on the liability of carriers of passengers by sea in the event of accidents
+
+100.       Regulation(EC) No 1072/2009 of the European Parliament and of the Council of 21 October2009 on common rules for access to the international road haulage market
+
+101.       Directive2009/33/EC of the European Parliament and of the Council of 23 April 2009 onthe promotion of clean and energy-efficient road transport vehicles
+
+102.       Directive2009/18/EC of the European Parliament and of the Council of 23 April 2009establishing the fundamental principles governing the investigation ofaccidents in the maritime transport sector and amending Council Directive1999/35/EC and Directive 2002/59/EC of the European Parliament and of theCouncil
+
+103.       Directive2009/15/EC of the European Parliament and of the Council of 23 April 2009 oncommon rules and standards for ship inspection and survey organisations and forthe relevant activities of maritime administrations
+
+104.       Regulation(EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008on common rules in the field of civil aviation security and repealingRegulation (EC) No 2320/2002 **
+
+105.       Directive2008/96/EC of the European Parliament and of the Council of 19 November 2008 onroad infrastructure safety management
+
+106.       Directive2008/68/EC of the European Parliament and of the Council of 24 September 2008on the inland transport of dangerous goods *
+
+107.       Regulation(EC) No 1371/2007 of the European Parliament and of the Council of 23 October2007 on rail passengers’ rights and obligations
+
+108.       Directive2007/59/CE of the European Parliament and of the Council of 23 October 2007 on the certification of train drivers operating locomotives and trains on the railway system in the Community**
+
+109.       Directive2006/126/EC of the European Parliament and of the Council of 20 December 2006on driving licences (recast)
+
+110.       Regulation(EC) No 336/2006 of the European Parliament and of the Council of 15 February2006 on the implementation of the International Safety Management Code withinthe Community and repealing Council Regulation (EC) No 3051/95
+
+111.       Directive2006/87/EC of the European Parliament and of the Council of 12 December 2006laying down technical requirements for inland waterway vessels***
+
+112.       Regulation(EC) No 2111/2005 of the European Parliament and of the Council of 14 December2005 on the establishment of a Community list of air carriers subject to an operatingban within the Community and on informing air transport passengers of theidentity of the operating air carrier
+
+113.       Directive2005/65/EC of the European Parliament and of the Council of 26 October 2005 onenhancing port security**
+
+114.       Directive2005/44/EC of the European Parliament and of the Council of 7 September2005 on harmonised river information services (RIS) on inland waterways in theCommunity
+
+115.       Regulation(EC) No 868/2004 of the European Parliament and of the Council of 21 April 2004concerning protection against subsidisation and unfair pricing practicescausing injury to Community air carriers in the supply of air services fromcountries not members of the European Community
+
+116.       Regulation(EC) No 789/2004 of the European Parliament and of the Council of 21 April 2004on the transfer of cargo and passenger ships between registers within theCommunity and repealing Council Regulation (EEC) No 613/91
+
+117.       Regulation(EC) No 785/2004 of the European Parliament and of the Council of 21 April 2004on insurance requirements for air carriers and aircraft operators
+
+118.       Directive2004/54/EC of the European Parliament and of the Council of 29 April 2004 onminimum safety requirements for tunnels in the Trans-European Road Network
+
+119.       Directive2004/52/EC of the European Parliament and of the Council of 29 April 2004 onthe interoperability of electronic road toll systems in the Community
+
+120.       Regulation(EC) No 782/2003 of the European Parliament and of the Council of 14 April 2003on the prohibition of organotin compounds on ships
+
+121.       Directive2003/59/EC of the European Parliament and of the Council of 15 July 2003 on theinitial qualification and periodic training of drivers of certain road vehiclesfor the carriage of goods or passengers, amending Council Regulation (EEC) No3820/85 and Council Directive 91/439/EEC and repealing Council Directive76/914/EEC
+
+122.       Directive2003/25/EC of the European Parliament and of the Council of 14 April 2003 onspecific stability requirements for ro-ro passenger ships
+
+123.       Regulation(EC) No 2099/2002 of the European Parliament and of the Council of 5 November2002 establishing a Committee on Safe Seas and the Prevention of Pollution fromShips (COSS) and amending the Regulations on maritime safety and the preventionof pollution from ships
+
+124.       Directive2002/59/EC of the European Parliament and of the Council of 27 June 2002establishing a Community vessel traffic Monitoring and information system andrepealing Council Directive 93/75/EEC
+
+125.       Directive2002/30/EC of the European Parliament and of the Council of 26 March 2002 onthe establishment of rules and procedures with regard to the introduction ofnoise-related operating restrictions at Community airports
+
+126.       Directive2001/96/EC of the European Parliament and of the Council of 4 December 2001establishing harmonised requirements and procedures for the safe loading andunloading of bulk carriers
+
+127.       CouncilDirective 1999/35/EC of 29 April 1999 on a system of mandatory surveys for thesafe operation of regular ro-ro ferry and high-speed passenger craft services
+
+128.       CouncilDirective 98/41/EC of 18 June 1998 on the registration of persons sailing onboard passenger ships operating to or from ports of the Member States of theCommunity
+
+129.       CouncilDirective 96/50/EC of 23 July 1996 on the harmonization of the conditions forobtaining national boatmasters' certificates for the carriage of goods andpassengers by inland waterway in the Community
+
+130.       CouncilDirective 95/50/EC of 6 October 1995 on uniform procedures for checks on thetransport of dangerous goods by road
+
+131.       CouncilRegulation (EEC) No 3922/91 of 16 December 1991 on the harmonization oftechnical requirements and administrative procedures in the field of civilaviation
+
+132.       CouncilDirective 91/672/EEC of 16 December 1991 on the reciprocal recognition ofnational Boatmasters' certificates for the carriage of goods and passengers byinland waterway
+
+J. Health and Consumers
+
+133.       Directive2009/128/EC of the European Parliament and of the Council of 21 October 2009establishing a framework for Community action to achieve the sustainable use ofpesticides
+
+134.       Directive2009/54/EC of the European Parliament and of the Council of 18 June 2009 on theexploitation and marketing of natural mineral waters **
+
+135.       Directive2009/41/EC of the European Parliament and of the Council of 6 May 2009 on thecontained use of genetically modified micro-organisms (recast)
+
+136.       Directive2009/32/EC of the European Parliament and of the Council of 23 April 2009 onthe approximation of the laws of the Member States on extraction solvents usedin the production of foodstuffs and food ingredients
+
+137.       Directive2008/48/EC of the European Parliament and of the Council of 23 April 2008 oncredit agreements for consumers and repealing Council Directive 87/102/EEC
+
+138.       Regulation(EC) No 1394/2007 of the European Parliament and of the Council of 13 November2007 on advanced therapy medicinal products and amending Directive 2001/83/ECand Regulation (EC) No 726/2004
+
+139.       Regulation(EC) No 1901/2006 of the European Parliament and of the Council of 12 December2006 on medicinal products for paediatric use and amending Regulation (EEC) No1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No726/2004
+
+140.       Regulation(EC) No 183/2005 of the European Parliament and of the Council of 12 January2005 laying down requirements for feed hygiene
+
+141.       Regulation(EC) No 1935/2004 of the European Parliament and of the Council of 27 October2004 on materials and articles intended to come into contact with food andrepealing Directives 80/590/EEC and 98/109/EEC ***
+
+142.       Regulation(EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004laying down specific rules for the organisation of official controls onproducts of animal origin intended for human consumption
+
+143.       Regulation(EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004laying down specific hygiene rules for food of animal origin
+
+144.       Regulation(EC) no 852/2004 of the European Parliament and of the Council of 29 April 2004on the hygiene of foodstuffs
+
+145.       Regulation(EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004laying down Community procedures for the authorisation and supervision ofmedicinal products for human and veterinary use and establishing a EuropeanMedicines Agency
+
+146.       Regulation(EC) No 2160/2003 of the European Parliament and of the Council of 17 November2003 on the control of salmonella and other specified food-borne zoonoticagents
+
+147.       Regulation(EC) No 2065/2003 of the European Parliament and of the Council of 10 November2003 on smoke flavourings used or intended for use in or on foods
+
+148.       Regulation(EC) No 1831/2003 of the European Parliament and of the Council of 22 September2003 on additives for use in animal nutrition
+
+149.       Regulation(EC) No 1830/2003 of the European Parliament and of the Council of 22 September2003 concerning the traceability and labelling of genetically modifiedorganisms and the traceability of food and feed products produced fromgenetically modified organism
+
+150.       Directive2003/99/EC of the European Parliament and of the Council of 17 November 2003 onthe monitoring of zoonoses and zoonotic agents, amending Council Decision 90/424/EECand repealing Council Directive 92/117/EEC **
+
+151.       Regulation(EC) No 178/2002 of the European Parliament and of the Council of 28 January2002 laying down the general principles and requirements of food law,establishing the European Food Safety Authority and laying down procedures inmatters of food safety
+
+152.       Regulation(EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001laying down rules for the prevention, control and eradication of certaintransmissible spongiform encephalopathies
+
+153.       Directive2001/83/EC of the European Parliament and of the Council of 6 November 2001 onthe Community code relating to medicinal products for human use
+
+154.       Directive2001/18/EC of the European Parliament and of the Council of 12 March 2001 onthe deliberate release into the environment of genetically modified organismsand repealing Council Directive 90/220/EEC
+
+155.       Regulation(EC) No 141/2000 of the European Parliament and of the Council of 16 December1999 on orphan medicinal products
+
+156.       Directive1999/2/EC of the European Parliament and of the Council of 22 February 1999 onthe approximation of the laws of the Member States concerning foods and foodingredients treated with ionising radiation ***
+
+157.       Regulation(EC) No 258/97 of the European Parliament and of the Council of 27 January 1997concerning novel foods and novel food ingredients
+
+158.       CouncilRegulation (EEC) No 315/93 of 8 February 1993 laying down Community proceduresfor contaminants in food **
+
+159.       CouncilDirective 89/108/EEC of 21 December 1988 on the approximation of the laws ofthe Member States relating to quick-frozen foodstuffs for human consumption
+
+K. Taxation and Customs Union
+
+160.       DecisionNo 70/2008/EC of the European Parliament and of the Council of 15 January2008 on a paperless environment for customs and trade
+
+[1]               OJL 184, 17.7.1999, p. 23.
+
+[2]               Regulation(EU) No 182/2011 of the European Parliament and of the Council of 16 February2011 laying down the rules and general principles concerning mechanisms for controlby Member States of the Commission’s exercise of implementing powers, OJ L 55,28.2.2011, p. 13.
+
+[3]               This statement which was published in the OfficialJournal together with Regulation (EU) No 182/2011 (OJ L 55 of 28.2.2011, p.19).
+
+[4]               OJ C , , p. .
+
+[5]               OJ C , , p. .
+
+[6]               OJL 184, 17.7.1999, p. 23.
+
+[7]               For information purposes, legal acts referring to thecurtailed time limit pursuant to Article 2(6) are indicated in this Annex with*, legal acts referring to the urgency procedure pursuant to Article 3 are indicatedin this Annex with ** and legal acts referring to the urgency procedurepursuant to Article 3 and to the curtailed time limit pursuant to Article 2(6)are indicated in this Annex with ***.

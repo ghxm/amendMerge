@@ -1,0 +1,1513 @@
+EUR-Lex - 52008PC0390 - EN
+
+Important legal notice
+
+|
+
+52008PC0390
+
+Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EC) No 216/2008 in the field of aerodromes, air traffic management and air navigation services and repealing Council Directive 06/23/EEC {SEC(2008) 2086} {SEC(2008) 2087}  /* COM/2008/0390 final - COD 2008/0128 */
+
+ | COMMISSION OF THE EUROPEAN COMMUNITIES |
+
+Brussels, 25.6.2008
+
+COM(2008) 390 final
+
+2008/0128 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EC) No 216/2008 in the field of aerodromes, air traffic management and air navigation services and repealing Council Directive 06/23/EEC
+
+(presented by the Commission){SEC(2008) 2086}{SEC(2008) 2087}
+
+EXPLANATORY MEMORANDUM
+
+1. BACKGROUND
+
+The European Aviation Safety Agency was set up by Regulation (EC) No 1592/2002[1] which entered into force in September 2002. The original Regulation assigned the Agency tasks in two areas – airworthiness and environmental certification of aeronautical products, parts and appliances, which, together with the organisations responsible for their design, manufacture and maintenance, now have to comply with uniform binding rules adopted by the Commission[2].
+
+The Agency provides the Commission with all the technical expertise it requires and assists it, inter alia , with exercising its legislative and regulatory tasks. The Agency is also setting up a system to monitor application of Community legislation, evaluate its effects and make useful suggestions. Certificates and approvals attesting that products and organisations comply with the common rules are issued either by the EASA or by the competent national authorities: the EASA carries out type-certification of products and issues certificates for organisations located in third countries; the national authorities issue individual certificates and approvals for most organisations located on their territory, on the basis of common rules and under the Agency’s supervision.
+
+Regulation (EC) No 216/2008[3] extended the EASA’s tasks to air operations, pilots’ licences and, within the limits set by the Chicago Convention, the safety of third-country aircraft. They include standardisation inspections and safety oversight, with particular responsibility for ramp inspections.
+
+2. CURRENT CHALLENGES
+
+The Commission has always endeavoured to ensure that establishment of the internal market in air transport is flanked by development of common safety rules to ensure high, uniform standards in every Member State.
+
+The current excellent safety levels need to be maintained and even improved to mitigate the safety risks posed by growing traffic and congestion. It is also important to integrate the safety aspects into the Single European Sky initiative, in order to ensure that the defragmentation of the sky will have no negative impact on accident rates.
+
+The next step in this direction should be to extend the competences of the Agency to aerodromes, air traffic management and air navigation services (ATM/ANS).
+
+3. OPINION OF THE EUROPEAN AVIATION SAFETY AGENCY AND CONSULTATION OF INTERESTED PARTIES
+
+Before doing this, the Commission was first required, under Article 19 of Regulation (EC) No 216/2008, to obtain the opinion of the EASA. The Agency in turn, in accordance with its rules of procedure[4] and international practice in this area, had to carry out extensive consultations of all the interested parties and take their comments into account before giving an opinion. It therefore published two separate notices of proposed amendments, one for aerodromes and one for ATM/ANS. A total of more than 3 500 comments were received.
+
+On the basis of these comments, the Agency examined the issues. On 6 December 2007 it sent the Commission an opinion concerning aerodromes. Its opinion on air traffic management and air navigation services followed on 15 April 2008.
+
+A strong broad consensus emerged from the consultations in favour of completing the process initiated in 2002 by adding the safety aspects of aerodromes and ATM/ANS to the tasks entrusted to the EASA, thus making it the watchdog for European aviation safety regulation. The need to build an effective interface with developments on the Single European Sky was also underlined.
+
+4. IMPACT STUDY
+
+This proposal for a Regulation was preceded by an impact assessment carried out by the Commission. The impact assessment was based on the results of the preliminary impact assessment launched by the Commission in 2005 and drafted by an independent consultant and on the regulatory impact assessment (RIA) by the EASA. The impact assessment examined several options:
+
+A “Do nothing”;
+
+B Extend the EASA competences;
+
+C Extend the scope of the existing arrangement to issue mandates to Eurocontrol;
+
+D Establish a new Agency;
+
+E Extend the EASA competences and include additional competences beyond the scope of option B
+
+All these options were measured against the “do nothing” option as the benchmark for analysing their safety, economic, environmental, social and other impact. Comparison of their impact very clearly indicated that the preferred option is to extend the EASA’s remit to include regulatory responsibility for aerodromes and ATM/ANS matters. This option was found to have no adverse impact in the above-mentioned fields.
+
+The endorsement of the Impact Assessment Board was received on 23 April 2008.
+
+5. PROPOSAL FOR A REGULATION
+
+5.1. Instrument and method
+
+Extending the scope of Regulation (EC) No 216/2008 is the most appropriate means of extending the common rules to cover the safety of aerodromes, air traffic management (ATM) and air navigation services (ANS) too, because the EASA will also be given new tasks in these areas, notably over rulemaking, standardisation inspection and, albeit to a limited extent, certification.
+
+As regards aerodrome safety, the intention is to ensure that the essential requirements and related implementing rules for aerodromes, aerodrome equipment, organisations, operations and personnel are based on the relevant ICAO standards. Furthermore, in the case of aerodrome equipment, procedures and requirements will be added to avoid duplicating existing rules, be they in a “New Approach” Directive or "Single European Sky"(SES) implementing rules. Finally, use will be made, as appropriate, of standards issued by recognised standardisation bodies, such as the ISO, CEN, CENELEC, ETSI or EUROCAE.
+
+As far as ATM/ANS are concerned, it will be necessary to coordinate the essential requirements and the implementing rules properly with the SES regulations and the related implementing rules. The objective is to ensure that the future EASA implementing rules will be based on the existing SES provisions, in particular the transposed ESARRs. To this end, transitional mechanisms will be designed to provide for the continuity of approvals already granted under the SES rules.
+
+5.2. Content
+
+5.2.1. Amendments to the Agency’s opinion
+
+The Agency’s two opinions were broadly followed. Obviously, on some points they offer a range of possible ways to achieve the safety objectives. In selecting between these options, the Commission has followed the principles of good governance in order to make the best use of the available resources, subsidiarity and proportionality.
+
+5.2.2. Extension of the scope of the Regulation
+
+The scope of common action is specified in Regulation 216/2008. Any extension of the Regulation must clearly state which infrastructure, products, systems, equipment, services, persons or organisations are affected and, consequently, will be subject to the requirements laid down by the Regulation and, as appropriate, to the rules adopted to implement it. Conversely, any of the above not covered by community competences will remain under the responsibility of Member States which will have to take appropriate measures to provide the level of protection expected by their citizens.
+
+5.2.2.1. Aerodromes
+
+To improve safety notably in aerodromes and in their surrounding, the proposed Regulation would extend the common rules to aerodromes. The main points are:
+
+-  All aerodromes open to the public which can serve IFR traffic or aircraft above a certain weight must be subject to Community legislation.
+
+-  Dedicated common essential requirements (ERs) covering physical characteristics, infrastructure, aerodrome equipment, operations, management and mitigation of hazards in the immediate vicinity of aerodromes must be introduced as an additional Annex to the basic Regulation.
+
+-  Aerodrome owners, aerodrome operators, organisations or personnel providing services or equipment which can affect the safety of aerodrome operations would be responsible for implementation of these essential requirements under the supervision of Member States.
+
+-  Aerodrome operators would adopt and implement management systems, including the safety aspects.
+
+-  Draft implementing rules and certification specifications, safety analyses and standardisation inspections would be amongst the tasks of the Agency.
+
+-  The Commission would be given powers to adopt implementing rules defining the detailed requirements with which the above-mentioned organisations and persons would have to comply and the applicable certification processes.
+
+-  Such implementing rules would be proportionate to the level of complexity of the aerodrome, taking into account the nature and volume of its activity; they should be consistent with the relevant ICAO SARPs.
+
+-  Powers shall be given to the Agency to adopt certification specifications to be used in the certification process, which would provide for flexible implementation of the ERs and a uniform level of safety.
+
+-  Aerodrome design and operations would be certificated separately, but a single certificate may be issued if the aerodrome owner and operator are the same person.
+
+-  Operators of multiple aerodromes which have established appropriate central operations may request a single certificate covering operations and management at all aerodromes under their responsibility.
+
+-  While verification of compliance of aerodrome equipment would be part of the certification of the aerodrome design or operator, depending on the intended use, safety-critical equipment may be subject to dedicated certification schemes, possibly involving demonstration of the capability of the designer and manufacturer, if so specified by the implementing rules, after proper assessment of the safety and economic benefits of doing so.
+
+5.2.2.2 ATM/ANS
+
+The proposed Regulation should provide the legal basis for ensuring that the safety of air traffic management, of air navigation services and of air/ground interoperability is organised under the aegis of the EASA system. In order to do so, the proposal is that:
+
+-  All the airspace to which the Treaty applies, along with any other airspace where Regulation (EC) No 551/2004 applies, would be subject to Community legislation.
+
+-  Dedicated common essential requirements (ERs) mitigating all safety hazards relating to use of airspace should be introduced as an additional Annex to the basic Regulation.
+
+-  Use of any block of airspace would be governed by a operational concept designed to mitigate the risks of collision both between aircraft and between aircraft and the ground.
+
+-  Airspace users would comply with the rules issued to implement the operational concepts applicable in the airspace in which they operate and make use of the services responsible for use of that airspace.
+
+-  Organisations and personnel involved in provision of ATM/ANS would be responsible for implementation of the applicable essential requirements.
+
+-  Air traffic controllers and organisations involved in their training would be subject to certification.
+
+-  Systems and constituents used for provision of ATM/ANS would have to comply with appropriate safety requirements when called for by their criticality.
+
+-  The Commission would be given powers to adopt implementing rules defining the detailed requirements with which the above-mentioned organisations, personnel and systems and constituents would have to comply and the applicable certification processes, when relevant.
+
+-  Such implementing rules would be proportionate to the level of complexity of the regulated activity or of the criticality of the system and constituent concerned; they would be based on the existing SES provisions, in particular the transposed ESARRs. To this end, transitional mechanisms would be designed to provide for the continuity of approvals already granted under the SES rules.
+
+-  Oversight of compliance of organisations with the essential requirements and the related implementing rules would be done by the competent authorities of Member States, except for the oversight of organisation located in third countries or providing services in the airspace of more than three Member States, which would be done by the Agency.
+
+-  Draft implementing rules and certification specifications, safety analyses and standardisation inspections of national competent authorities would be amongst the tasks of the Agency.
+
+-  ATM/ANS providers would adopt and implement management systems including the safety aspects and would be certified, except those providing only flight information or aerodrome apron management services, which would only declare their capability.
+
+-  While verification of compliance of systems and constituents would be part of the certification of the ATM/ANS providers, safety-critical equipment may be subject to dedicated certification schemes, possibly involving demonstration of the capability of the designer and manufacturer, if so specified by the implementing rules, after proper assessment of the safety and economic benefits of doing so.
+
+5.2.3. Other amendments to the Regulation
+
+In addition to the new articles concerning aerodromes, ATM and ANS and the related annexes, some articles had to be amended in order to take due account of the new tasks.
+
+6. Correlation table showing the new and former numbering of the articles and the amendments made to Regulation (EC) No 216/2008
+
+New number | Former number | Changes |
+
+1 | 1 | Scope extended to cover aerodromes and ATM/ANS |
+
+2 | 2 | Unchanged |
+
+3 | 3 | Addition of new definitions and amendment of some definitions |
+
+4 | 4 | Paragraph 3 amended |
+
+5 | 5 | Paragraphs 2(b) and (c) amended |
+
+6 | 6 | Unchanged |
+
+7 | 7 | Paragraph 4 amended |
+
+8 | 8 | Paragraphs 1, 5(a), 5(g) and 6 amended |
+
+8a | New | Aerodromes |
+
+8b | New | ATM and ANS |
+
+8c | New | Air traffic controllers |
+
+8d | New | Accredited bodies |
+
+9 | 9 | Paragraphs 1 and 5 amended |
+
+10 | 10 | Paragraph 1 amended |
+
+11 | 11 | Paragraph 4 amended and paragraphs 5(a) and 5(b) added |
+
+12 | 12 | Unchanged |
+
+13 | 13 | Unchanged |
+
+14 | 14 | Unchanged |
+
+15 | 15 | Unchanged |
+
+16 | 16 | Unchanged |
+
+17 | 17 | Unchanged |
+
+18 | 18 | Paragraphs (c) and (d) amended |
+
+19 | 19 | Paragraph 2(a) amended |
+
+20 | 20 | Unchanged |
+
+21 | 21 | Unchanged |
+
+22 | 22 | Unchanged |
+
+22a | New | Aerodrome operator certification |
+
+22b | New | ATM/ANS |
+
+22c | New | Air traffic controller certification |
+
+22d | New | Accredited bodies |
+
+23 | 23 | Unchanged |
+
+24 | 24 | Unchanged |
+
+25 | 25 | Unchanged |
+
+26 | 26 | Unchanged |
+
+27 | 27 | Unchanged |
+
+28 | 28 | Unchanged |
+
+29 | 29 | Unchanged |
+
+30 | 30 | Unchanged |
+
+31 | 31 | Unchanged |
+
+32 | 32 | Unchanged |
+
+33 | 33 | Paragraph 2(c) amended |
+
+34 | 34 | Unchanged |
+
+35 | 35 | Unchanged |
+
+36 | 36 | Unchanged |
+
+37 | 37 | Unchanged |
+
+38 | 38 | Unchanged |
+
+39 | 39 | Unchanged |
+
+40 | 40 | Unchanged |
+
+41 | 41 | Unchanged |
+
+42 | 42 | Unchanged |
+
+43 | 43 | Unchanged |
+
+44 | 44 | Paragraph 1 amended |
+
+45 | 45 | Unchanged |
+
+46 | 46 | Unchanged |
+
+47 | 47 | Unchanged |
+
+48 | 48 | Unchanged |
+
+49 | 49 | Unchanged |
+
+50 | 50 | Paragraph 2 amended |
+
+51 | 51 | Unchanged |
+
+52 | 52 | Paragraphs 1 and 2 amended |
+
+53 | 53 | Unchanged |
+
+54 | 54 | Unchanged |
+
+55 | 55 | Paragraph 1 amended |
+
+56 | 56 | Unchanged |
+
+57 | 57 | Unchanged |
+
+58 | 58 | Unchanged |
+
+59 | 59 | Unchanged |
+
+60 | 60 | Unchanged |
+
+61 | 61 | Unchanged |
+
+62 | 62 | Unchanged |
+
+63 | 63 | Unchanged |
+
+64 | 64 | Unchanged |
+
+65 | 65 | Unchanged |
+
+65a | New | Amemdments |
+
+66 | 66 | Unchanged |
+
+67 | 67 | Unchanged |
+
+68 | 68 | Unchanged |
+
+69 | 69 | Unchanged |
+
+70 | 70 | Unchanged |
+
+Annex I | Annex I | Unchanged |
+
+Annex II | Annex II | Unchanged |
+
+Annex III | Annex III | Unchanged |
+
+Annex IV | Annex IV | Unchanged |
+
+Annex V | Annex V | Title amended |
+
+Annex Va | New | Essential requirements for aerodromes |
+
+Annex Vb | New | Essential requirements for air traffic management and air navigation services |
+
+7. SUBSIDIARITY AND PROPORTIONALITY
+
+Member States have already agreed that action at Community level is the only way to attain a high, uniform level of safety.
+
+Regulation (EC) No 1592/2002 and Regulation (EC) No 216/2008 therefore gradually transferred to the Community some competences of the Member States.
+
+There is a need for Community action to attain the objective of establishment and uniform application of common rules for aerodromes, air traffic management and air navigation services. This proposal for a Regulation does not go beyond what is necessary to achieve this. That is why, for example, its scope is limited to aerodromes open to public use, which can serve IFR traffic or aircraft above a certain weight.
+
+Moreover, this Regulation does not imply that the EASA will carry out or provide services. It will only shift responsibilities, limited mainly to rulemaking and standardisation inspection, while responsibility for operational activities will remain with Member States. It therefore complies with the principles of subsidiarity and proportionality provided for in Article 5 of the Treaty establishing the European Community.
+
+8. EVALUATION
+
+The measures introduced by this Regulation and its implementing rules are to be evaluated in accordance with Article 62 of Regulation (EC) No 216/2008.
+
+2008/0128 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+amending Regulation (EC) No 216/2008 in the field of aerodromes, air traffic management and air navigation services and repealing Council Directive 06/23/EEC
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 80(2) thereof,
+
+Having regard to the proposal from the Commission[5],
+
+Having regard to the opinion of the European Economic and Social Committee[6],
+
+Having regard to the opinion of the Committee of the Regions[7],
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty[8],
+
+Whereas:
+
+(1) In its Communication of 15 November 2005 to the Council, the European Parliament, the European Economic and Social Committee and the Committee of the Regions - Extending the tasks of the European Aviation Safety Agency - an agenda for 2010.[9] the Commission announced its intention to progressively extend the tasks of the European Aviation Safety Agency (hereinafter referred to as 'the Agency'), in the perspective of a 'total system approach', to aerodrome/airport safety and interoperability, Air Navigation Services (hereinafter referred to as 'ANS') and Air Traffic Management (hereinafter referred to as 'ATM').
+
+(2) The continuous growth of aviation in Europe leads to many challenges, in particular regarding the key safety factors of aerodromes and ATM/ANS. Therefore, necessary risk mitigation measures need to be established to ensure safety by a harmonized, holistic regulatory approach across the Member States.
+
+(3) The achievements of the Single European Sky initiative need to be complemented by the harmonized safety element to be applied to aerodromes and ATM/ANS.
+
+(4) The Community should lay down, in line with standards and recommended practices set by the Chicago Convention, essential requirements applicable to aeronautical products, parts and appliances, aerodromes and ATM/ANS provision; essential requirements applicable to persons and organisations involved in the operation of aerodromes and in the provision of ATM/ANS; and essential requirements applicable to persons and products involved in the training and medical examination of air traffic controllers. The Commission should be empowered to develop the necessary related implementing rules.
+
+(5) It would not be appropriate to subject all aerodromes to common rules. In particular aerodromes which are not open to public use and aerodromes mainly used for recreational flying only should remain under the regulatory control of the Member States, without any obligation under this Regulation on other Member States to recognise such national arrangements. However, proportionate measures should be taken by Member States to increase generally the level of safety of recreational aviation. The Commission will re-examine in due time extending the scope of application to aerodromes currently excluded in a modular manner and taking full account of the impact this might have on such aerodromes.
+
+(6) Aeronautical products, parts and appliances, aerodromes and their equipment, operators involved in commercial air transport and in the operation of aerodromes, ATM/ANS systems and providers, as well as pilots and air traffic controllers, and persons, products and organisations involved in their training and medical examination, should be certified or licensed once they have been found to comply with essential requirements to be laid down by the Community in line with standards and recommended practices set by the Chicago Convention. The Commission should be empowered to develop the necessary implementing rules for establishing the conditions for the issue of the certificate or the conditions for its replacement by a declaration of capability, taking into account the risks associated with the different types of operations or services.
+
+(7) Under the Community institutional system, implementation of Community law is primarily the responsibility of the Member States. Certification tasks required by this Regulation and its implementing rules are therefore to be executed at national level. In certain clearly-defined cases, however, the Agency should also be empowered to conduct certification tasks as specified in this Regulation. The Agency should, for the same reason, be allowed to take the necessary measures related to the fields covered by this Regulation when this is the best means to ensure uniformity and facilitate the functioning of the internal market.
+
+(8) The implementing rules to be developed by the Agency in the domain of ATM/ANS should be built on the basis of the provisions of Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation for the single European sky[10], Regulation (EC) No 550/2004 of the European Parliament and of the Council of 10 March 2004 on the provision of air navigation services in the single European sky[11], Regulation (EC) No 551/2004 of the European Parliament and of the Council of 10 March 2004 on the organisation and use of the airspace in the single European sky[12], Regulation (EC) No 552/2004 of the European Parliament and of the Council of 10 March 2004 on the interoperability of the European Air Traffic Management network[13], in particular the transposed ESARRs. In this respect, transitional mechanisms should be designed in order to provide for the continuity of approvals already granted under the rules of those Regulations.
+
+(9) It is a general objective that the transfer of functions and tasks from the Member States, including those resulting from their cooperation through the Safety Regulation Commission of Eurocontrol, to the Agency should be done efficiently, without any reduction in the current high levels of safety, and without any negative impact on certification schedules. Appropriate measures should be adopted to provide for the necessary transition.
+
+(10) This Regulation establishes an appropriate and comprehensive framework for the definition and implementation of common technical requirements and administrative procedures in the field of civil aviation. Directive 2006/23/EC of the European Parliament and of the Council of 5 April 2006 on a Community air traffic controller licence[14] should therefore be repealed, without prejudice to the certification or licensing of products, persons and organisations already carried out in accordance with those acts.
+
+(11) This Regulation sets up an appropriate and comprehensive framework for the safety regulation of aerodromes, air traffic management and air navigation services, and for the total system approach to civil aviation safety. Regulation (EC) No 549/2004, Regulation (EC) No 550/2004 Regulation (EC) No 551/2004 and Regulation (EC) No 552/2004 should therefore be adapted to become consistent with this Regulation. Power should be conferred on the Commission to make these adaptations. Since those measures are of general scope and are designed to amend non essential elements of this Regulation, they must be adopted in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC.
+
+(12) Power should also be conferred on the Commission to adopt implementing rules for air traffic controller licensing and associated approvals, aerodromes and aerodrome operations, air traffic management and air navigation services, and associated certificates, oversight and enforcement, as well as to adopt a regulation on the fees and charges of the Agency. Since those measures are of general scope and are designed to amend non-essential elements of this Regulation, inter alia by supplementing it with new non-essential elements, they must be adopted in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC.
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Regulation (EEC) No 216/2008 is amended as follows:
+
+(1) Article 1 is replaced by the following:
+
+"Article 1 Scope
+
+1. This Regulation shall apply to:
+
+1.  the design, production, maintenance and operation of aeronautical products, parts and appliances, as well as personnel and organisations involved in the design, production and maintenance of such products, parts and appliances;
+
+2.  personnel and organisations involved in the operation of aircraft;
+
+3.  the design, maintenance, operation and protection of the surroundings of aerodromes, as well as personnel and organisations involved therein;
+
+4.  the design, production and maintenance of aerodrome equipment, as well as personnel and organisations involved therein;
+
+5.  the design, production and maintenance of systems, parts and appliances for Air Traffic Management and Air Navigation Services (hereinafter referred to as "ATM/ANS"), as well as personnel and organisations involved therein;
+
+6.  ATM/ANS, as well as personnel and organisations involved therein.
+
+2. This Regulation shall not apply to:
+
+7.  products, parts, appliances, personnel and organisations referred to in paragraph 1 (a) and (b) while carrying out military, customs, police, search and rescue, fire fighting, coastguard or similar activities or services. The Member States shall undertake to ensure that such activities or services have due regard as far as practicable to the objectives of this Regulation;
+
+8.  aerodromes or part thereof, as well as equipment, personnel, and organisations, referred to in paragraph 1 (c) and (d), when used exclusively by aircraft falling within the scope of point (a) of this paragraph;
+
+9.  ATM/ANS, including systems, parts and appliances, personnel and organisations, referred to in paragraph 1 (e) and (f), when providing services exclusively to aircraft referred to in point (a) of this paragraph. The Member States shall undertake to ensure that aircraft referred to in point (a) are separated from other aircraft."
+
+(2) Article 3 is amended as follows:
+
+(a) Point (d) is replaced by the following:
+
+"(d) "parts and appliances" shall mean any instrument, equipment, mechanism, part, apparatus, appurtenance, software or accessory, including communications equipment, that is used or intended to be used in operating or controlling an aircraft in flight; it shall include parts of an airframe, engine or propeller, or equipment used to manoeuvre the aircraft from the ground, as well as constituents as defined in Article 2, point (19) of Regulation (EC) No 549/2004*;
+
+__________________
+
+* OJ L 96, 31.3.2004, p. 1"
+
+(b) Point (h) is replaced by the following:
+
+"(h) "operator" shall mean any legal or natural person, operating or proposing to operate one or more aircraft or aerodromes;"
+
+(c) The following points (m) to (t) are added:
+
+"
+
+(m) “aerodrome” shall mean any area on land, water or man made structure or vessel, especially adapted for the landing, taking-off and manoeuvring of aircraft;
+
+(n) “aerodrome equipment” shall mean any equipment, apparatus, appurtenance, software or accessory, that is used or intended to be used in operating an aerodrome;
+
+(o) “apron management service” shall mean a service provided to manage the activities and the movement of aircraft and vehicles on an apron;
+
+(p) “apron” shall mean a defined area intended to accommodate aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance;
+
+(q) "aerodromes open to public use" shall mean aerodromes which are included in the official Aeronautical Information Service (AIS) publication and offer services to any user without discrimination;
+
+(r) “ATM/ANS” shall mean the air traffic management functions as defined in Article 2, point (10), of Regulation (EC) No 549/2004, air navigation services defined in Article 2, point (4), of that Regulation and services consisting in origination and processing of data and formatting and delivering data to airspace users for the purpose of air navigation;
+
+(s) “Flight Information Service” (FIS) shall mean a service provided for the purpose of giving advice and information useful for the safe and efficient conduct of flights;
+
+(t) “system” means any combination of equipment and constituents as defined in Article 2 point (19) of Regulation (EC) No 549/2004
+
+(3) In Article 4, the following paragraphs 3a and 3b are inserted:
+
+"3a. Aerodromes open to public use, including equipment, located in the territory subject to the provisions of the Treaty and, which can serve traffic conducted in accordance with the instrument flight rules or aircraft with a maximum take-off mass of 2730 kg or more shall comply with this Regulation. Personnel and organisations involved in the operation of these aerodromes shall comply with this Regulation.
+
+3b. ATM/ANS provided in the airspace of the territory to which the Treaty applies, as well as any other airspace where Regulation (EC) No 551/2004 applies, shall comply with this Regulation. Systems and parts and appliances, personnel and organisations involved in the provision of these ATM/ANS shall comply with this Regulation."
+
+(4) In Article 5, paragraph 2, points (b) and (c) are replaced by the following:
+
+"(b) The measures referred to in paragraph 5 may lay down a requirement of certification in respect of parts and appliances. The certificates for parts and appliances shall be issued when the applicant has shown that the parts and appliances comply with the detailed airworthiness specifications established to ensure compliance with the essential requirements referred to in paragraph 1;
+
+(c) An individual certificate of airworthiness shall be required in respect of each aircraft. The certificate shall be issued when the applicant has shown that the aircraft conforms to the type design approved in its type-certificate and that relevant documentation, inspections and tests demonstrate that the aircraft is in condition for safe operation. This certificate of airworthiness shall remain valid as long as it is not suspended, revoked or terminated and as long as the aircraft is maintained in accordance with the essential requirements related to continuing airworthiness set out in point 1.d of Annex I and the measures adopted pursuant to paragraph 5 ; "
+
+(5) In Article 7, paragraph 4is replaced by the following:
+
+"4. A certificate shall be required in respect of each flight simulation training device used for the training of pilots. The certificate shall be issued when the applicant has shown that the device complies with the rules established to ensure compliance with the relevant essential requirements as laid down in Annex III."
+
+(6) Article 8 is amended as follows:
+
+(a) Paragraph 1 is replaced by the following:
+
+"1. The operation of aircraft referred to in Article 4(1)(b) and (c) shall comply with the essential requirements laid down in Annexes IV and Vb."
+
+(b) Paragraph 5 is amended as follows:
+
+(i) Point (a) is replaced by the following:
+
+"(a) conditions to operate an aircraft in compliance with the essential requirements laid down in Annexes IV and Vb;"
+
+(ii) Point (g) is replaced by the following:
+
+"(g) how operations of aircraft referred to in points (a)(ii), (d) and (h) of Annex II, when used for commercial air transportation, comply with the relevant essential requirements of Annexes IV and Vb."
+
+(c) In paragraph 6, the following indent is added
+
+"- take into account the safety aspects related to ATM/ANS;"
+
+(7) The following Articles 8a to 8d are inserted:
+
+"Article 8a Aerodromes
+
+1. Aerodromes and aerodrome equipment as well as the operations of aerodromes shall comply with the essential requirements laid down in Annex Va.
+
+2. The compliance of aerodromes, aerodrome equipment and operation of aerodromes with the essential requirements shall be established in accordance with the following:
+
+(a) A certificate shall be required in respect of each aerodrome. The certificate and certification of changes to that certificate shall be issued when the applicant has shown that the aerodrome complies with the aerodrome certification basis set out in point (b), and that the aerodrome has no feature or characteristic making it unsafe for operation. The certificate shall cover the aerodrome and its equipment.
+
+(b) The certification basis shall consist of the following:
+
+(i) the applicable certification specifications related to aerodromes,
+
+(ii) the provisions for which an equivalent level of safety has been accepted and
+
+(iii) the special detailed technical specifications necessary when the design features of a particular aerodrome or the experience in operation render any of the specifications referred to in point (i) inadequate or inappropriate to ensure conformity with the essential requirements laid down in Annex Va.
+
+(c) The measures referred to in paragraph 3 may lay down a requirement of certification in respect of aerodrome equipment. The certificate for aerodrome equipment shall be issued when the applicant has shown that the equipment complies with the detailed specifications established to ensure compliance with the essential requirements referred to in paragraph 1.
+
+(d) Organisations responsible for the operation of aerodromes shall demonstrate their capability and means to discharge the responsibilities associated with their privileges. These capabilities and means shall be recognised through the issuance of a certificate. The privileges granted to the approved organisation and the scope of the approval shall be specified in the certificate.
+
+3. The measures designed to amend non-essential elements of the requirements referred to in this Article, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 65(4).
+
+Those measures shall specify in particular:
+
+(a) conditions for establishing and notifying to an applicant the applicable certification basis applicable to an aerodrome;
+
+(b) conditions for establishing and notifying to an applicant the applicable detailed specifications applicable to aerodrome equipment;
+
+(c) conditions for issuing, maintaining, amending, suspending or revoking certificates for aerodromes and certificates for aerodrome equipment, including operating limitations related to the specific design of the aerodrome;
+
+(d) conditions for operating an aerodrome in compliance with the essential requirements laid down in Annex Va;
+
+(e) conditions for issuing, maintaining, amending, suspending or revoking the certificate referred to in paragraph 2 (d);
+
+(f) responsibilities of the holders of certificates;
+
+(g) conditions under which operations shall be prohibited, limited or subject to certain conditions in the interest of safety;
+
+(h) measures to be taken by the competent authorities in order to protect aerodromes against activities and developments which may cause unacceptable risks to aviation in their surroundings.
+
+4. The measures referred to in paragraph 3 shall:
+
+(a) reflect the state of the art and the best practices in the field of aerodromes;
+
+(b) be proportionate to the size and complexity of the aerodrome and type of operations thereon;
+
+(c) take into account worldwide aerodrome operation experience, and scientific and technical progress;
+
+(d) allow for immediate reaction to established causes of accidents and serious incidents.
+
+Article 8b ATM/ANS
+
+1. Provision of ATM/ANS shall comply with the essential requirements laid down in Annex Vb.
+
+2. ATM/ANS providers shall be required to hold a certificate. The certificate shall be issued when the provider has demonstrated its capability and means of discharging the responsibilities associated with their privileges. The privileges granted and the scope of the services provided shall be specified in the certificate.
+
+3. By way of derogation from paragraph 2, providers of flight information services and apron management services shall declare their capability and means of discharging the responsibilities associated with the services provided.
+
+4. The measures referred to in paragraph 6 may lay down a requirement of certification in respect of organisations engaged in the design, manufacture and maintenance of ATM/ANS systems, parts and appliances. The certificate for those organisations shall be issued when they have demonstrated their capability and means of discharging the responsibilities associated with their privileges. The privileges granted shall be specified in the certificate.
+
+5. The measures referred to in paragraph 6 may lay down a requirement of certification in respect of ATM/ANS systems, parts and appliances. The certificate for those systems, parts and appliances shall be issued when the applicant has shown that the systems, parts and appliances comply with the detailed specifications established to ensure compliance with the essential requirements referred to in paragraph 1. This certificate may be issued by the accredited bodies referred to in Article 8d.
+
+6. The measures designed to amend non-essential elements of the requirements referred to in this Article, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 65(4).
+
+Those measures shall specify in particular:
+
+(a) conditions to provide ATM/ANS in compliance with the essential requirements laid down in Annex Vb;
+
+(b) conditions for establishing and notifying to an applicant the detailed specifications applicable to ATM/ANS systems, parts and appliances;
+
+(c) conditions for issuing, maintaining, amending, suspending or revoking the certificates referred to in paragraphs 2 and 4 and in Article 8d(2);
+
+(d) conditions under which the accredited bodies referred to in Article 8d may issue the certificates referred to in paragraph 5;
+
+(e) responsibilities of the holders of certificates;
+
+(f) conditions and procedures for the declaration by, and for the oversight of service providers referred to in paragraph 3;
+
+(g) conditions under which operations shall be prohibited, limited or subject to certain conditions in the interest of safety.
+
+7. The measures referred to in paragraph 6 shall:
+
+(a) reflect the state of the art and the best practices in the field of ATM/ANS;
+
+(b) be proportionate to the type and complexity of the services provided;
+
+(c) take into account worldwide ATM/ANS experience, and scientific and technical progress;
+
+(d) be developed on the basis of the provisions of Regulation (EC) No 549/2004 and of Regulations (EC) No 550/2004**, (EC) No 551/2004*** and (EC) No 552/2004**** of the European Parliament and of the Council and provide for transitional mechanisms in respect of approvals already granted under those Regulations;
+
+(e) allow for immediate reaction to established causes of accidents and serious incidents.
+
+8. When implementing Regulation (EC) No 549/2004, Member States and the Commission shall take into account the following:
+
+(a) The management of any specified volume of airspace shall take into account the complexity of the airspace and expected traffic characteristics, such as density and nature, as well as any other relevant operational considerations. It shall in particular
+
+(i) specify the airspace design, including its underlying functional architecture and associated processes;
+
+(ii) specify the ATM/ANS services to be provided and used, as well as their availability;
+
+(iii) minimise the risk of insufficient separation between aircraft and between them and any obstacle on ground;
+
+(iv) mitigate the risks of full or partial loss of services essential to the safe operation of ATM/ANS;
+
+(v) define the maximum airspace capacity and type of operations authorised, based on the above criteria and shall address all the necessary elements needed to safely manage air traffic;
+
+(vi) establish mechanisms to avoid that air traffic volumes exceed the maximum airspace capacity;
+
+(vii) clarify the roles and responsibilities of the different parties; and
+
+(viii) address interactions with neighbouring airspace governed by different operational concepts, as well as with aerodromes.
+
+(b) Sufficient and adequately protected electromagnetic spectrum for aeronautical communications, navigation and surveillance shall be ensured as a basis for the applicable operational concept.
+
+(c) The tactical management of air traffic flows, when provided at Community or governmental level, shall use and provide sufficiently precise and current information of the volume and nature of the planned air traffic affecting service provision and shall coordinate and negotiate rerouting or delaying traffic flows in order to prevent overloading situations occurring in the air or at the aerodromes.
+
+(d) The designation of specific volumes of airspace for a certain use, when provided at governmental level, shall be monitored, coordinated and promulgated in a timely manner in order to prevent any loss of separation between aircraft in all circumstances.
+
+(e) Appropriate coordination shall be established with the Agency to ensure that all safety aspects of points (a) to (d) are properly addressed and validated before implementation.
+
+Article 8c Air traffic controllers
+
+1. Air traffic controllers as well as persons and organisations involved in the training, testing, checking or medical assessment of air traffic controllers, shall comply with the relevant essential requirements laid down in Annex Vb.
+
+2. Air traffic controllers shall be required to hold a licence and a medical certificate appropriate to the service provided.
+
+3. The licence referred to in paragraph 2 shall be issued when the applicant for the licence demonstrates that he complies with the rules established to ensure compliance with the essential requirements on requirements regarding theoretical knowledge, practical skill, language proficiency and experience as set out in Annex Vb.
+
+4. The medical certificate referred to in paragraph 2 shall be issued when the air traffic controller complies with the rules established to ensure compliance with the essential requirements on medical fitness as set out in Annex Vb. The medical certificate may be issued by aero medical examiners or by aero medical centres.
+
+5. The privileges granted to the air traffic controller and the scope of the licence and the medical certificate shall be specified in such licence and certificate.
+
+6. The capability of air traffic controller training organisations to discharge the responsibilities associated with their privileges in relation to the issuance of licenses shall be recognised by the issuance of an approval.
+
+7. An approval shall be issued to air traffic controller training organisations having demonstrated that they comply with the rules established to ensure compliance with the relevant essential requirements as laid down in Annex Vb. The privileges granted by the approvals shall be specified therein.
+
+8. Persons responsible for providing practical training or for assessing air traffic controllers' skill shall hold a certificate. The certificate shall be issued when the person concerned has demonstrated that he complies with the rules established to ensure compliance with the relevant essential requirements as laid down in Annex Vb. The privileges granted by the certificate shall be specified therein.
+
+9. Synthetic training devices shall comply with the relevant essential requirements laid down in Annex Vb. The measures referred to in paragraph 10 may lay down a requirement of certification in respect of synthetic training devices used for the training of air traffic controllers. The certificate shall be issued when the applicant has shown that the device complies with the rules established to ensure compliance with the relevant essential requirements laid down in Annex Vb.
+
+10. The measures designed to amend non-essential elements of this Article by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 65(4).
+
+Those measures shall specify in particular:
+
+(a) the different ratings and endorsements for air traffic controllers' licences;
+
+(b) the conditions for issuing, maintaining, amending, limiting, suspending or revoking licences, ratings and endorsements for licences, medical certificates, approvals and certificates, and the conditions under which such certificates and approvals need not be requested;
+
+(c) the privileges and responsibilities of the holders of licences, ratings and endorsements for licences, medical certificates, approvals and certificates.
+
+11. The measures referred to in paragraph 10 shall reflect the state of the art, including best practices and scientific and technical progress, in the field of air traffic controller training.
+
+Article 8d Accredited bodies
+
+1. Bodies offering services consisting in the assessment of the conformity of ATM/ANS systems or parts and appliances with the applicable requirements and in issuing the related certificates (hereinafter referred to as "accredited bodies") shall comply with the essential requirements laid down in Annex V.
+
+2. Accredited bodies shall be required to hold an accreditation certificate. The certificate shall be issued when the body demonstrates capability and means to discharge the responsibilities associated with privileges. The privileges granted to an accredited body shall be specified in the certificate.
+
+__________________
+
+** OJ L 96, 31.3.2004, p. 10.
+
+*** OJ L 96, 31.3.2004, p. 20.
+
+**** OJ L 96, 31.3.2004, p. 26."
+
+(8) Article 9 is amended as follows:
+
+(a) In paragraph 1, "Annexes I, III and IV" is replaced by "Annexes I, III, IV and Vb".
+
+(b) In paragraph 5, the following point (e) is added:
+
+"(e) safety aspects related to the applicable ATM/ANS operational concept are taken into account;"
+
+(9) In Article 10, paragraph 1 is replaced by the following :
+
+"1. The Member States, the Commission and the Agency shall cooperate with a view to ensuring compliance with this Regulation and its implementing rules ."
+
+(10) Article 11 is amended as follows:
+
+(a) Paragraphs 4 and 5 are replaced by the following:
+
+"4. Without prejudice to Article 69(4), certificates may be issued on the basis of the applicable national regulations until the date of application of the measures referred to in Articles 5(5), 7(6), and 9(4), but no later than 8 April 2012.
+
+5. Without prejudice to Article 69(4), certificates may be issued on the basis of the applicable national regulations or where applicable, on the basis of the relevant requirements of Regulation (EEC) No 3922/91 until the date of application of the measures referred to in Article 8(5), but no later than 8 April 2012."
+
+(b) The following paragraphs 5a and 5b are inserted:
+
+"5a. Without prejudice to Article 69(4), certificates may be issued on the basis of the applicable national regulations until the date of application of the measures referred to in Articles 8a(3) and 8c(10), but no later than 31 December 2012.
+
+5b. Without prejudice to Article 69(4), certificates may be issued on the basis of the applicable national regulations or, where applicable, on the basis of the relevant requirements of Commission Regulation (EC) No 2096/2005***** until the date of application of the measures referred to in Article 8b(6), but no later than 31 December 2012.
+
+_____________
+
+***** OJ L 335, 21.12.2005, p. 13."
+
+(11) In Article 18, points (c) and (d) are replaced by the following :
+
+"(c) issue certification specifications and acceptable means of compliance, as well as any guidance material for the application of this Regulation and its implementing rules;
+
+(d) take the appropriate decisions for the application of Articles 20 to 23, 54 and 55;"
+
+(12) In Article 19(2), point (a) is replaced by the following:
+
+"(a) certification specifications and acceptable means of compliance; and"
+
+(13) The following Articles 22a to 22 d are inserted:
+
+"Article 22a Aerodrome Operator Certification
+
+With regard to aerodrome operators referred to in Article 4(3)(b) the Agency shall :
+
+(a) conduct, itself or through national aviation authorities or qualified entities, inspections, and audits of the organisations it certifies;
+
+(b) issue and renew certificates of organisations, located outside the territory subject to the provisions of the Treaty, responsible for the operation of an aerodrome located in the territory subject to the provisions of the Treaty;
+
+(c) amend, suspend or revoke the relevant certificate, when the conditions according to which it was issued are no longer fulfilled or if the holder of the certificate fails to fulfil the obligations imposed on it by this Regulation or by its implementing rules.
+
+Article 22b ATM/ANS
+
+With regard to air traffic management and air navigation services the Agency shall :
+
+(a) conduct, itself or through national aviation authorities or qualified entities, inspections, and audits of the organisations it certifies;
+
+(b) issue and renew certificates of organisations providing ATM/ANS services in more than three Member States;
+
+(c) amend, suspend or revoke the relevant certificate, when the conditions according to which it was issued are no longer fulfilled or if the holder of the certificate fails to fulfil the obligations imposed on it by this Regulation or by its implementing rules.
+
+Article 22c Air Traffic Controller Certification
+
+1. With regard to the personnel and organisations referred to in Article 8c(1), the Agency shall:
+
+(a) conduct, itself or through national aviation authorities or qualified entities, investigations and audits of the organisations it certifies and, where relevant, their personnel;
+
+(b) issue and renew the certificates of air traffic controller training organisations located outside the territory of the Member States and, where relevant, their personnel;
+
+(c) amend, suspend or revoke the relevant certificate when the conditions according to which it was issued by it are no longer fulfilled, or if the legal or natural person holding the certificate fails to fulfil the obligations imposed on it by this Regulation or its implementing rules.
+
+2. With regard to the synthetic training devices referred to in Article 8c(1), the Agency shall:
+
+(a) conduct, itself or through national aviation authorities or qualified entities, technical inspections of the devices it certifies;
+
+(b) issue and renew the certificates of synthetic training devices:
+
+(i) used by training organisations certified by the Agency;
+
+(ii) located within the territory of the Member States, if requested by the Member State concerned;
+
+(iii) located outside the territory of the Member States;
+
+(c) amend, suspend or revoke the relevant certificate when the conditions according to which it was issued are no longer fulfilled, or if the legal or natural person holding the certificate fails to fulfil the obligations imposed on it by this Regulation or its implementing rules.
+
+Article 22d Accredited bodies
+
+With regard to accredited bodies the Agency shall:
+
+(a) conduct, itself or through national aviation authorities or qualified entities, inspections, and audits of the organisations it certifies;
+
+(b) issue and renew certificates of accredited bodies;
+
+(c) amend, suspend or revoke the relevant certificate, when the conditions according to which it was issued are no longer fulfilled or if the holder of the certificate fails to fulfil the obligations imposed on it by this Regulation or by its implementing rules;"
+
+(14) In Article 33(2)(c), the date "30 September" is replaced by "30 November".
+
+(15) In Article 44, paragraph 1 is replaced by the following:
+
+"1. An appeal may be brought against decisions of the Agency taken pursuant to Articles 20 to 23, 55 or 64."
+
+(16) In Article 50, paragraph 2 is replaced by the following:
+
+"2. Actions for the annulment of decisions of the Agency taken pursuant to Articles 20 to 23, 55 or 64 may be brought before the Court of Justice of the European Communities only after all appeal procedures within the Agency have been exhausted."
+
+(17) Article 52 is amended as follows:
+
+(a) In paragraph 1, the first subparagraph is replaced by the following:
+
+"1. As soon as possible after the entry into force of this Regulation, the Management Board shall establish transparent procedures for issuing opinions, certification specifications, acceptable means of compliance and guidance material referred to in Article 18(a) and(c)."
+
+(b) Paragraph 2 is replaced by the following:
+
+"2. When the Agency, pursuant to Article 19, develops opinions, certification specifications, acceptable means of compliance and guidance material to be applied by Member States, it shall establish a procedure for consulting the Member States. To this effect, it may create a working group in which each Member State is entitled to designate an expert."
+
+(18) In Article 55, paragraph 1, the first sentence is replaced by the following:
+
+"The Agency may itself conduct or assign to national aviation authorities or qualified entities all necessary investigations of undertakings in accordance with Articles 7, 20 to 23 and 24(2)."
+
+(19) The following Article 65a is inserted:
+
+"Article 65a Amendments
+
+The Commission shall amend Regulation (EC) No 549/2004, Regulation (EC) No 550/2004, Regulation (EC) No 551/2004 and Regulation (EC) No 552/2004 in order to take into account the requirements of this Regulation and of the measures specified in Article 8b(6). These measures designed to amend non-essential elements of the said Regulations shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 65(4)."
+
+(20) The title of Annex V is replaced by the following:
+
+"Criteria for qualified entities and accredited bodiesreferred to in Articles 8d and 13 (hereinafter individually referred to as "qualified entity" or "entity")"
+
+(21) Annexes Va and Vb as set out in the Annex to this Regulation are inserted.
+
+Article 2
+
+Directive 2006/23/EC is repealed as from the date of application of the measures referred to in Article 8c(10) of Regulation (EC) No 216/2008 as amended by the present Regulation.
+
+Article 3
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+
+Articles 8a, 8b and 8c of Regulation (EC) No 216/2008 as amended by the present Regulation shall apply as from the date of application of their respective supplementing measures and at the latest from 1 January 2013.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, […]
+
+For the European Parliament For the Council
+
+The President The President
+
+[…] […]
+
+ANNEX
+
+"ANNEX Va
+
+Essential requirements for aerodromes
+
+A – Physical characteristics, infrastructure and equipment
+
+Movement area
+
+(a) Aerodromes must have a designated area for the landing and take-off of aircraft.
+
+(i) The landing and take-off area must have dimensions suitable for the aircraft intended to use the facility.
+
+(ii) The landing and take-off area, where applicable, must have a bearing strength sufficient to support repetitive operations of the intended aircraft. Those areas not intended for repetitive operations only need to be capable of supporting the aircraft.
+
+(iii) The landing and take-off area must, where applicable, be designed to drain water and to prevent standing water becoming an unacceptable risk to aircraft operations.
+
+(iv) The slope and slope changes of the landing and take-off area must not create an unacceptable risk to aircraft operations.
+
+(v) The surface characteristics must be adequate for use by the intended aircraft.
+
+(vi) The landing and take-off area must be free from objects which might create an unacceptable risk to aircraft operations.
+
+(b) Where there are several landing and take-off areas, they must be such that they do not create an unacceptable risk to aircraft operations.
+
+(c) The landing and take-off area must be surrounded by defined areas. These areas are intended to protect aircraft flying over them during take-off or landing operations or to mitigate the consequences of inadvertent short landing, running off the side or overrunning the take-off and landing area.
+
+(i) These areas must have dimensions appropriate to the aircraft operations anticipated.
+
+(ii) The slope and slope changes of these areas must not create an unacceptable risk to aircraft operations.
+
+(iii) These areas must be free from objects which might create an unacceptable risk to aircraft operations. This should not preclude frangible equipment to be located in those areas, if required to assist aircraft operations.
+
+(iv) Each of these areas must have a bearing strength sufficient to serve its purpose.
+
+(d) Those areas of an aerodrome, with their associated immediate surroundings, that are to be used for taxiing or parking aircraft, must be designed to permit safe operation of the aircraft expected to use the particular facility under all the conditions planned for:
+
+(i) These areas must have a bearing strength sufficient to support repetitive operations of the intended aircraft, except areas which are expected for only occasional use which only need to be capable of supporting the aircraft.
+
+(ii) These areas must be designed to drain water and to prevent standing water becoming an unacceptable risk to aircraft operations.
+
+(iii) The slope and slope changes of these areas must not create an unacceptable risk to aircraft operations.
+
+(iv) The surface characteristics of these areas must be adequate for use by the intended aircraft.
+
+(v) These areas must be free from objects which might create an unacceptable risk to aircraft. This should not preclude parking equipment required for that area in specifically identified positions or zones.
+
+(e) Other infrastructure intended for use by aircraft must be so designed that use of that infrastructure must not create an unacceptable risk to aircraft using it.
+
+(f) Constructions, buildings, equipment or storage areas must be located and designed so as not to create an unacceptable risk for aircraft operations.
+
+(g) Suitable means must be provided to prevent unauthorised persons, unauthorised vehicles or animals large enough to create an unacceptable risk to aircraft operations from entering the movement area, unless the related risk can be mitigated by other means providing an equivalent level of safety.
+
+Obstacle clearances
+
+(a) To protect aircraft proceeding to an aerodrome for landing, or for their departure from an aerodrome, arrival and departure routes or areas must be established. Such routes or areas must provide aircraft with the required clearance from obstacles located in the area surrounding the aerodrome.
+
+(b) Such obstacle clearance must be appropriate to the phase of flight and type of operation being conducted. It must also take into account the equipment being used for determining the position of the aircraft.
+
+Visual and Non-visual Aids and Aerodrome Equipment
+
+(a) Aids must be fit for purpose, recognisable and provide unambiguous information to users under all intended operational conditions.
+
+(b) Aerodrome equipment must function as intended under the foreseen operating conditions, without needing exceptional skill or strength. Under operating conditions or in case of failure, aerodrome equipment must not cause an unacceptable risk to aviation safety.
+
+(c) The aids and their electrical power supply system must be so designed that failures do not result in inappropriate, misleading or insufficient information being given to users or in interruption of an essential service.
+
+(d) Suitable means of protection must be provided to avoid damage or disturbance to such aids.
+
+(e) Sources of radiation or the presence of moving or fixed objects must not interfere with or adversely affect the performance of aeronautical communications, navigation and surveillance systems.
+
+(f) Information on operation and use of aerodrome equipment must be provided to relevant staff, including clear indications of the conditions which may create unacceptable risks to aviation safety.
+
+Aerodrome data
+
+(a) Data relevant to the aerodrome and the available services must be established and kept up to date.
+
+(b) The data must be accurate, readable, complete and unambiguous. Appropriate integrity levels must be maintained.
+
+(c) The data must be made available to the users in a timely manner, using a sufficiently secure and expeditious method of communication.
+
+B – Operations and Management
+
+(1) The aerodrome operator is responsible for operation of the aerodrome. The responsibilities of the aerodrome operator are as follows:
+
+(a) The aerodrome operator must have, directly or under contracts, all the means necessary to sustain safe operation of aircraft at the aerodrome. These means include, but are not limited to, facilities, personnel, equipment and material, documentation of tasks, responsibilities and procedures, access to relevant data and record-keeping.
+
+(b) The aerodrome operator must verify that the requirements of Section A are complied with at all times or take appropriate measures to mitigate the risk associated with non-compliance. Procedures must be established and applied to make all users aware of such measures in a timely manner.
+
+(c) The aerodrome operator shall establish and implement an appropriate aerodrome wildlife risk management programme.
+
+(d) The aerodrome operator must demonstrate that movements of vehicles and persons in the movement area and other operational areas are coordinated with movements of aircraft to avoid collisions and damage to aircraft.
+
+(e) The aerodrome operator shall demonstrate that procedures to mitigate risks related to aerodrome operations in adverse weather conditions, reduced visibility or at night, if applicable, are established and implemented.
+
+(f) The aerodrome operator shall establish arrangements with other relevant organisations to ensure continuing compliance with these essential requirements for aerodromes. These organisations include, but are not limited to, aircraft operators, air navigation service providers, ground handling service providers and other organisations whose activities or products may have an effect on aircraft safety.
+
+(g) The aerodrome operator must demonstrate that procedures exist and are applied to provide aircraft with fuel which is uncontaminated and of the correct specification.
+
+(h) Manuals for maintenance of aerodrome equipment shall be available, applied in practice and cover maintenance and repair instructions, servicing information, trouble-shooting and inspection procedures.
+
+(i) The aerodrome operator shall establish and implement an aerodrome emergency plan, covering emergency scenarios that may occur at the aerodrome or in its surroundings. This plan shall be coordinated with the local community emergency plan.
+
+(j) The aerodrome operator must demonstrate that aerodrome rescue and fire-fighting services for the critical aircraft planning to use the aerodrome as origin or destination are provided. Such services must respond to an incident or accident with due urgency and shall include at least equipment, extinguishing agents and a sufficient number of personnel.
+
+(k) The aerodrome operator must use only trained and qualified personnel for aerodrome operations and maintenance and must implement and maintain training and check programmes to ensure the continuing competence of all relevant personnel.
+
+(l) The aerodrome operator must demonstrate that any person permitted unescorted access to the movement area or other operational areas is adequately trained and qualified for such access.
+
+(m) The rescue and fire-fighting personnel shall be properly trained and qualified to operate in the aerodrome environment. The aerodrome operator shall implement and maintain training and check programmes to ensure the continuing competence of these personnel.
+
+(n) All rescue and fire-fighting personnel potentially required to act in aviation emergencies must periodically demonstrate their medical fitness to execute their functions satisfactorily, taking into account the type of activity. In this context, medical fitness, comprising both physical and mental fitness, means not suffering from any disease or disability which could make these personnel unable:
+
+(i) to execute the tasks necessary to operate in aviation emergencies;
+
+(ii) to perform their assigned duties at any time;
+
+(iii) to perceive their environment correctly.
+
+Where medical fitness cannot be fully demonstrated, mitigation measures that provide equivalent safety may be implemented.
+
+(2) Management systems
+
+(a) The aerodrome operator must implement and maintain a management system to sustain compliance with these essential requirements for aerodromes and to aim for continuous and pro-active improvement of safety and quality. The management system shall include organisational structures, accountability, responsibilities, policies and procedures.
+
+(b) The management system shall include an accident and incident prevention programme, including an occurrence-reporting and analysis scheme. The analysis shall involve the parties listed in point 1(f) above, as appropriate.
+
+(c) The aerodrome operator must develop an aerodrome manual and operate in accordance with that manual. Such manuals must contain all necessary instructions, information and procedures for the aerodrome, the management system and for operations personnel to perform their duties.
+
+C - Aerodrome surroundings
+
+(1) The airspace around aerodrome movement areas must be safeguarded from obstacles so as to permit the intended aircraft operations at the aerodromes without creating an unacceptable risk caused by the development of obstacles around the aerodrome. Obstacle monitoring surfaces must therefore be developed, implemented and continuously monitored to identify any infringing penetration.
+
+(a) Any infringement of these surfaces will require an assessment to identify whether or not the object creates an unacceptable risk. Any unacceptable risk shall be removed or mitigated.
+
+(b) Any remaining such obstacles must be published and, depending on the need, must be marked and, where necessary, provided with lights.
+
+(2) Hazards related to human activities and land use, such as, but not limited to, items on the following list, must be monitored and controlled. The risk caused by them shall be assessed and mitigated as appropriate:
+
+(a) any development or change in land use in the aerodrome area;
+
+(b) the possibility of building-induced turbulence;
+
+(c) the use of hazardous, confusing and misleading lights;
+
+(d) the dazzling caused by large and highly reflective surfaces;
+
+(e) the creation of areas that might encourage wildlife activity in the surroundings of the aerodrome movement area;
+
+(f) sources of non-visible radiation or the presence of moving or fixed objects which may interfere with, or adversely affect, the performance of aeronautical communications, navigation and surveillance systems.
+
+(3) A local community emergency plan must be established for aviation emergency situations occurring in the aerodrome local area.
+
+(4) Except for aircraft emergency situations, when diverting to an alternate aerodrome, or under other conditions specified in each case, an aerodrome or parts thereof must not be used by aircraft for which the aerodrome design and operating procedures are not normally intended, without the consent of the aerodrome operator.
+
+ANNEX Vb
+
+Essential requirements for air traffic management and air navigation services
+
+(1) Use of the Airspace
+
+(a) All aircraft, in all phases of flight or on the movement area of an aerodrome, shall be operated in accordance with common general operating rules and any procedure specified for use of that airspace in accordance with the applicable operational concept.
+
+(b) All aircraft must be equipped with the required appliances and operated accordingly. Appliances used in the ATM/ANS system shall also comply with the requirements in point 3.
+
+(2) Services
+
+(a) Aeronautical information and data for airspace users for the purpose of air navigation
+
+(i) The data used as a source for aeronautical information must be of sufficient quality, complete, current and provided in a timely manner.
+
+(ii) The resulting aeronautical information must be accurate, complete, current, unambiguous and in a suitable format for users.
+
+(iii) The dissemination of such aeronautical information to airspace users must be timely, be of adequate integrity and use sufficiently secure and expeditious means of communication protected from interference and corruption.
+
+(b) Meteorological information
+
+(i) The data used as a source for aeronautical meteorological information must be of sufficient quality, complete and current.
+
+(ii) The resulting aeronautical meteorological information must be sufficiently precise, complete, current and unambiguous to meet the needs of airspace users.
+
+(iii) The dissemination of such aeronautical meteorological information to airspace users must be timely, be of adequate integrity and use sufficiently secure and expeditious means of communication protected from interference and corruption.
+
+(c) Air traffic services
+
+i) The data used as a source for the provision of air traffic services must be correct, complete and current.
+
+ii) The resulting air traffic services must be sufficiently precise, complete, current, and unambiguous to meet the needs of users.
+
+iii) Automated tools providing information or advice to users must be properly designed, manufactured and maintained to ensure that they are fit for their intended purpose.
+
+iv) Air traffic control services and related processes must provide for sufficient separation between aircraft, obstacles and other airborne hazards and must ensure prompt and timely coordination with all relevant users and adjacent volumes of airspace.
+
+v) Communication between air traffic control and aircraft and between relevant air traffic control units must be timely clear, correct, unambiguous, protected from intrusion and commonly understood and acknowledged by all actors involved.
+
+vi) Means must be in place to detect possible emergencies and, when appropriate, to initiate effective search and rescue action. Such means must, as a minimum, comprise appropriate alerting mechanisms, coordination measures and procedures, means and personnel to cover the area of responsibility efficiently.
+
+(d) Communication services
+
+Communications must achieve and maintain sufficient performance, including criteria for availability, integrity, continuity and timeliness of the service. They must be secure, protected from corruption and expeditious.
+
+(e) Navigation service
+
+Navigation service must achieve and maintain a sufficient level of performance with regard to guidance, positioning and, when provided, timing information. The performance criteria include accuracy, integrity, availability and continuity.
+
+(f) Surveillance service
+
+Surveillance services must determine the respective position of aircraft in the air and of other aircraft and ground vehicles on the airport surface, with sufficient performance, including criteria for their accuracy, integrity, continuity and probability of detection.
+
+(g) Air traffic flow management
+
+The tactical management of air traffic flows at Community level shall use and provide sufficiently precise and current information of the volume and nature of the planned air traffic affecting service provision and shall coordinate and negotiate rerouting or delaying traffic flows in order to prevent overloading situations occurring in the air or at the aerodromes.
+
+(h) Airspace management
+
+The designation of specific volumes of airspace for a certain use shall be monitored, coordinated and promulgated in a timely manner in order to prevent any loss of separation between aircraft in all circumstances.
+
+(3) Systems and constituents
+
+(a) General
+
+Systems and constituents providing ATM/ANS-related information to and from the aircraft and on the ground must be properly designed, manufactured, installed, maintained and operated to ensure that they are fit for their intended purpose.
+
+(b) System and constituent integrity, performance and reliability
+
+The integrity and safety-related performance of systems and constituents, considered collectively, separately and in relation to each other, whether on aircraft, on the ground or in space, must be demonstrated to be fit for their intended purpose. They must meet the expected level of performance required by the operational concepts for all their foreseeable operating conditions and for their whole operational life.
+
+(c) Design of systems and constituents
+
+(i) Systems and constituents must not have design features or details that experience has shown to be hazardous.
+
+(ii) Systems and constituents, considered collectively, separately and in relation to each other, must be designed in such a way that an inverse relationship exists between the probability that any failure cannot result in a total system failure or a full loss of and the severity of its effect on the service.
+
+(iii) Systems and constituents, considered individually and in combination with each other, must be designed taking into account limitations related to human capabilities and performance
+
+(iv) Systems and constituents must be designed in a manner that protects them from unintended harmful interactions with external elements.
+
+(v) Information needed for manufacturing installation, operation and maintenance of the systems and constituents as well as information concerning unsafe conditions must be provided to personnel in a clear, consistent and unambiguous manner.
+
+(d) Continuing level of service
+
+Means must be provided to allow integrity and safety performance monitoring and reconfiguration of systems and constituents as necessary to maintain the level of service.
+
+(e) Modification of systems and constituents
+
+When systems and constituents are modified, they must continue to comply with the essential requirements in this section. When modifications are implemented during operations, a changeover process must be developed to ensure that a minimum level of service is maintained.
+
+(4) Qualification of air traffic controllers
+
+(a) General
+
+A person undertaking training as an air traffic controller must be sufficiently mature educationally, physically and mentally to acquire, retain and demonstrate the relevant theoretical knowledge and practical skill.
+
+(b) Theoretical knowledge
+
+(i) An air traffic controller must acquire and maintain a level of knowledge appropriate to the functions exercised and proportionate to the risks associated with the type of service.
+
+(ii) Acquisition and retention of theoretical knowledge must be demonstrated by continuous assessment during training, or by appropriate examinations.
+
+(iii) An appropriate level of theoretical knowledge must be maintained. Compliance must be demonstrated by regular assessments or examinations. The frequency of examinations must be proportionate to the level of risk associated with the type of service.
+
+(c) Practical skill
+
+(i) An air traffic controller must acquire and maintain the practical skills appropriate to exercise his/her functions. Such skills must be proportionate to the risks associated with the type of service and must cover at least, if appropriate to the functions exercised, the following items:
+
+i Operational procedures
+
+ii Task specific aspects
+
+iii Abnormal and emergency situations
+
+iv Human factors
+
+v Threat and error management
+
+(ii) An air traffic controller must demonstrate the ability to perform the associated procedures and tasks with a level of competence appropriate to the functions exercised.
+
+(iii) A satisfactory level of competence in practical skill must be maintained. Compliance must be demonstrated by regular assessments or examinations. The frequency of these assessments must be proportionate to the complexity and the level of risk associated with the type of service and the tasks performed.
+
+(d) Language proficiency
+
+(i) An air traffic controller must demonstrate proficiency to speak and understand English to the extent he/she is able to communicate effectively in voice-only (telephone/radiotelephone) and in face-to-face situations with flight crews and other related personnel on concrete and work-related topics, including in emergency situations.
+
+(ii) Whenever necessary in a defined volume of airspace for ATC service provision purposes, a person providing an ATC service must also have proficiency to speak and understand the local language(s) to the extent described above.
+
+(e) Synthetic training devices (STD)
+
+When a STD is used for practical training on situational awareness and human factors or to demonstrate that skills are acquired or maintained, it must have a level of performance that allows adequate replication of the working environment and operational situations appropriate to the training provided.
+
+(f) Training course
+
+(i) Training must be given by a training course, which may comprise theoretical and practical instruction, including synthetic training, if applicable.
+
+(ii) A course must be defined and approved for each type of training.
+
+(g) Instructors
+
+(i) Theoretical instruction must be given by appropriately qualified instructors. They must:
+
+i have appropriate knowledge in the field where instruction is to be given; and
+
+ii have demonstrated the ability to use appropriate instructional techniques.
+
+(ii) Instruction on practical skills must be given by appropriately qualified instructors, who have the following qualifications:
+
+i meet the theoretical knowledge and the experience requirements appropriate for the instruction being given;
+
+ii have demonstrated the ability to use appropriate instructional techniques;
+
+iii have practiced instructional techniques in those procedures in which it is intended to provide instruction;
+
+iv have demonstrated the ability to instruct in those areas in which instruction is to be given; and
+
+v receive regular refresher training to ensure that the instructional competences are maintained.
+
+(iii) Instructors on practical skills must also be or have been entitled to act as an air traffic controller.
+
+(h) Assessors
+
+(i) Persons responsible for assessing the skill of air traffic controllers must:
+
+i have demonstrated the ability to assess the performance of, and conducting tests and checks on air traffic controllers;
+
+ii have demonstrated the ability to assess in those areas in which assessment is to be made; and
+
+iii receive regular refresher training to ensure that the assessment standards are maintained up to date.
+
+(ii) Assessors on practical skills must also be or have been entitled to act as an air traffic controller.
+
+(i) Medical fitness of an air traffic controller
+
+(i) Medical criteria
+
+i All air traffic controllers must periodically demonstrate medical fitness to satisfactorily execute their functions. Compliance must be shown by appropriate assessment taking into account the possible mental and physical degradation due to age.
+
+ii Demonstration of medical fitness, comprising physical and mental fitness, shall include the demonstrated absence of any disease or disability, which makes the person providing an ATC service unable:
+
+- to execute properly the tasks necessary to provide air traffic control service; or
+
+- to perform assigned duties at any time; or
+
+- to perceive correctly his/her environment.
+
+(ii) Where medical fitness cannot be fully demonstrated, mitigation measures that provide equivalent safety may be implemented.
+
+(5) Service providers and training organisations
+
+(a) Service provision must not be undertaken unless the following conditions are met:
+
+(i) The service provider must have directly or indirectly through contracts the means necessary for the scale and scope of the service. These means comprise but are not limited to the following: systems, facilities, including power supply, management structure, personnel, equipment and its maintenance, documentation of tasks, responsibilities and procedures, access to relevant data and record keeping;
+
+(ii) The service provider must develop and keep up-to-date management and operations manuals relating to the provision of its services and operate in accordance with those manuals. Such manuals must contain all necessary instructions, information and procedures for the operations, the management system and for operations personnel to perform their duties;
+
+(iii) The service provider must implement and maintain a risk based management system to ensure compliance with the essential requirements in this Annex and aim for continuous pro-active improvement of this system;
+
+(iv) The service provider must use only suitably qualified and trained personnel and implement and maintain training and checking programmes for the personnel;
+
+(v) The service provider must establish formal interfaces with all the other contributors to the service provision to ensure compliance with these essential requirements;
+
+(vi) The service provider must establish and implement a contingency plan covering emergency and abnormal situations that may occur in relation to its services;
+
+(vii) The service provider must establish and maintain an accident prevention and safety programme including an occurrence reporting and analysis programme, which must be used by the management system in order to contribute to the aim of continuous improvement of safety; and
+
+(viii) The service provider must make arrangements to verify that the safety performance requirements of any system and constituent they operate are met at any time.
+
+(b) ATC service provision must not be undertaken unless the following conditions are met:
+
+(i) The prevention of fatigue of personnel providing an ATC service must be managed through a rostering system. Such a rostering system needs to address duty periods, duty time and adapted rest periods. Limitations established within the rostering system must take into account relevant factors contributing to fatigue such as, in particular, sleep deprivation, disruption of circadian cycles, night hours, cumulative duty time for given periods of time and also the sharing of allocated tasks between personnel.
+
+(ii) The prevention of stress of personnel providing an ATC service must be managed through education and prevention programmes.
+
+(iii) The ATC service provider must have in place procedures to verify that the cognitive judgement of personnel providing ATC services is not impaired or their medical fitness insufficient.
+
+(iv) The ATC service provider must take into account operational and technical constraints as well as human factor principles in their planning and operations. The ATC service provider shall at any time limit entry of traffic into the airspace when these constraints or principles may be compromised.
+
+(c) Communication (C), Navigation (N) and/or Surveillance (S) service provision must not be undertaken unless the following conditions are met:
+
+The service provider must keep relevant airspace users and ATS units informed on a timely basis of the operational status (and changes thereof) of their services provided for ATS purposes.
+
+(d) Training organisations
+
+A training organisation providing training for personnel providing an ATC service must meet the following requirements:
+
+i have all the means necessary for the scope of responsibilities associated with their activity. These means comprise, but are not limited to, the following: facilities, personnel, equipment, methodology, documentation of tasks, responsibilities and procedures, access to relevant data and record-keeping;
+
+ii implement and maintain a management system relating to safety and the standard of training, and aim for continuous improvement of this system; and
+
+iii establish arrangements with other relevant organisations, as necessary, to ensure continuing compliance with these essential requirements."
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1. NAME OF THE PROPOSAL:
+
+Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EC) No 216/2008 of 19 March 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency.
+
+2. ABM/ABB FRAMEWORK
+
+0602 – Inland, air and maritime transport
+
+3. BUDGET LINES
+
+3.1. Budget lines (operational lines and related technical and administrative assistance lines (ex- B.A lines)) including headings:
+
+06 02 01 (EASA)
+
+3.2. Duration of the action and of the financial impact:
+
+Unlimited period (annual contribution)
+
+3.3. Budgetary characteristics
+
+Budget line | Type of expenditure | New | EFTA contribution | Contributions from applicant countries | Heading in financial perspective |
+
+060201 | Non-comp | Diff[15]/ | NO | YES[16] | NO | No 1A |
+
+4. SUMMARY OF RESOURCES
+
+4.1. Financial Resources
+
+4.1.1. Summary of commitment appropriations (CA) and payment appropriations (PA)
+
+EUR million (to 3 decimal places)
+
+Expenditure type | Section no. | Year n[17] | n + 1 | n + 2 | n + 3 | n + 4 | n + 5 and later | Total |
+
+Operational expenditure[18] |
+
+Commitment Appropriations (CA) | 8.1. | a | 2.240 | 4.283 | 4.660 | 4.753 | 4.848 | 4.944 | 25.728 |
+
+Payment Appropriations (PA) | b | 2.240 | 4.283 | 4.660 | 4.753 | 4.848 | 4.944 | 25.728 |
+
+Administrative expenditure within reference amount[19] |
+
+Technical & administrative assistance (NDA) | 8.2.4. | c | 0 |
+
+TOTAL REFERENCE AMOUNT |
+
+Commitment Appropriations | a+c | 2.240 | 4.283 | 4.660 | 4.753 | 4.848 | 4.944 | 25.728 |
+
+Payment Appropriations | b+c | 2.240 | 4.283 | 4.660 | 4.753 | 4.848 | 4.944 | 25.728 |
+
+Administrative expenditure not included in reference amount[20] |
+
+Human resources and associated expenditure (NDA) | 8.2.5. | d | 0.117 | 0.119 | 0.121 | 0.124 | 0.126 | 0.129 | 0.736 |
+
+Administrative costs, other than human resources and associated costs, not included in reference amount (NDA) | 8.2.6. | e | 0.026 | 0.053 | 0.054 | 0.055 | 0.056 | 0.057 | 0.301 |
+
+Total indicative financial cost of intervention |
+
+TOTAL CA including cost of Human Resources | a+c+d+e | 2.383 | 4.455 | 4.835 | 4.932 | 5.030 | 5.130 | 26.765 |
+
+TOTAL PA including cost of Human Resources | b+c+d+e | 2.383 | 4.455 | 4.835 | 4.932 | 5.030 | 5.130 | 26.765 |
+
+Co-financing details
+
+If the proposal involves co-financing by Member States, or other bodies (please specify which), an estimate of the level of this co-financing should be indicated in the table below (additional lines may be added if different bodies are foreseen for provision of the co-financing):
+
+EUR million (to 3 decimal places)
+
+Co-financing body | Year n | n + 1 | n + 2 | n + 3 | n + 4 | n + 5 and later | Total |
+
+European third countries[21] | f | 0.054 | 0.103 | 0.112 | 0.114 | 0.116 | 0.118 | 0.617 |
+
+TOTAL CA including co-financing | a+c+d+e+f | 2.437 | 4.558 | 4.947 | 5.046 | 5.146 | 5.248 | 27.382 |
+
+4.1.2. Compatibility with Financial Programming
+
+X Proposal is compatible with existing financial programming.
+
+( Proposal will entail reprogramming of the relevant heading in the financial perspective.
+
+( Proposal may require application of the provisions of the Interinstitutional Agreement[22] (i.e. flexibility instrument or revision of the financial perspective).
+
+4.1.3. Financial impact on Revenue
+
+X Proposal has no financial implications on revenue
+
+( Proposal has financial impact – the effect on revenue is as follows:
+
+EUR million (to one decimal place)
+
+Prior to action [Year n-1] | Situation following action |
+
+Total number of human resources | 1 | 1 | 1 | 1 | 1 | 1 |
+
+5. CHARACTERISTICS AND OBJECTIVES
+
+5.1. Need to be met in the short or long term
+
+Establishment of harmonized, binding rules to increase level of civil aviation safety.
+
+5.2. Value-added of Community involvement and coherence of the proposal with other financial instruments and possible synergy
+
+Uniformly applied Community rules will achieve the necessary harmonisation and increase in safety.
+
+5.3. Objectives, expected results and related indicators of the proposal in the context of the ABM framework
+
+The measure will lead to an enhanced European aviation safety regulatory system which, in turn, will improve aviation safety. Beneficial impacts also include economic effects on the European aviation industry and social contributions.
+
+5.4. Method of Implementation (indicative)
+
+X Centralised Management
+
+X directly by the Commission
+
+( indirectly by delegation to:
+
+( executive Agencies
+
+X bodies set up by the Communities as referred to in art. 185 of the Financial Regulation
+
+( national public-sector bodies/bodies with public-service mission
+
+( Shared or decentralised management
+
+( with Member states
+
+( with Third countries
+
+( Joint management with international organisations (please specify)
+
+Relevant comments:
+
+The Commission and EASA will be jointly involved in implementation of the measures introduced by this Regulation.
+
+6. MONITORING AND EVALUATION
+
+6.1. Monitoring system
+
+Each year, the work of the EASA is monitored and evaluated in the annual general report (for the previous year) and the work programme (for the following year). These two documents are adopted by the Agency's Management Board and sent to the European Parliament, the Council, the Commission, the Court of Auditors and the Member States.
+
+6.2. Evaluation
+
+6.2.1. Ex-ante evaluation
+
+In accordance with Regulation (EC) No 216/2008, the Commission asked the EASA for its opinion on extending the scope of this Regulation to cover safety aspects of aerodromes and ATM/ANS.
+
+Following extensive consultation processes in accordance with its internal rules and international practice in this area, the Agency published its opinion on 06 December 2007 (aerodromes) and 15 April 2008 (ATM/ANS) in favour of extending the scope in mentioned areas based on an overwhelming support by the affected stakeholders.
+
+The Commission assessed the impact of the measure, which resulted in clear support of extending the scope of Regulation (EC) No 216/2008 to cover these areas.
+
+6.2.2. Measures taken following an intermediate/ex-post evaluation (lessons learned from similar experiences in the past)
+
+6.2.3. Terms and frequency of future evaluation
+
+Every five years, an independent external evaluation is carried out to see how well the EASA has fulfilled its tasks and evaluate the impact of the common rules and the Agency's work on the general level of aviation safety.
+
+7. Anti-fraud measures
+
+The Executive Director implements the Agency's budget. Each year, he presents detailed accounts for the previous year showing revenue and expenditure to the Commission, the Court of Auditors and the Agency's Management Board. In addition, the Commission's internal auditor has the same terms of reference with respect to the EASA as it does with respect to the Commission departments, and the Agency has an internal audit system similar to that of the Commission.
+
+Regulation (EC) No 1073/1999 of the European Parliament and of the Council of 25 May 1999 concerning investigations conducted by the European Anti-Fraud Office (OLAF), and the interinstitutional agreement of 25 May 1999 concerning internal investigations conducted by OLAF apply without restriction to the EASA.
+
+8. DETAILS OF RESOURCES
+
+8.1. Objectives of the proposal in terms of their financial cost
+
+Commitment appropriations in EUR million (to 3 decimal places)
+
+Year n | Year n+1 | Year n+2 | Year n+3 | Year n+4 | Year n+5 |
+
+Officials or temporary staff[26] (XX 01 01) | A*/AD | 1 | 1 | 1 | 1 | 1 | 1 |
+
+B*, C*/AST |
+
+Staff financed[27] by art. XX 01 02 |
+
+Other staff[28] financed by art. XX 01 04/05 |
+
+TOTAL |
+
+8.2.2. Description of tasks deriving from the action
+
+Preparation of technical rules and regulations, and implementation of these regulations, including standardisation efforts.
+
+8.2.3. Sources of human resources (statutory)
+
+( Posts currently allocated to the management of the programme to be replaced or extended
+
+( Posts pre-allocated within the APS/PDB exercise for year n
+
+X Posts to be requested in the next APS/PDB procedure
+
+( Posts to be redeployed using existing resources within the managing service (internal redeployment)
+
+( Posts required for year n although not foreseen in the APS/PDB exercise of the year in question
+
+8.2.4. Other Administrative expenditure included in reference amount (XX 01 04/05 – Expenditure on administrative management)
+
+EUR million (to 3 decimal places)
+
+Budget line (number and heading) | Year n | Year n+1 | Year n+2 | Year n+3 | Year n+4 | Year n+5 and later | TOTAL |
+
+Other technical and administrative assistance |
+
+- intra muros |
+
+- extra muros |
+
+Total Technical and administrative assistance |
+
+8.2.5. Financial cost of human resources and associated costs not included in the reference amount
+
+EUR million (to 3 decimal places)
+
+Type of human resources | Year n | Year n+1 | Year n+2 | Year n+3 | Year n+4 | Year n+5 and later |
+
+Officials and temporary staff (XX 01 01) | 0.117 | 0.119 | 0.121 | 0.124 | 0.126 | 0.129 |
+
+Staff financed by Art XX 01 02 (auxiliary, END, contract staff, etc.) (specify budget line) |
+
+Total cost of Human Resources and associated costs (NOT in reference amount) |
+
+Calculation– Officials and Temporary agents |
+
+One official at the rate of 117 000 € (2008) indexed by 2% a year. |
+
+Calculation– Staff financed under art. XX 01 02 |
+
+8.2.6. Other administrative expenditure not included in reference amount
+
+EUR million (to 3 decimal places) |
+
+Year n | Year n+1 | Year n+2 | Year n+3 | Year n+4 | Year n+5 and later | TOTAL |
+
+XX 01 02 11 01 – Missions |
+
+XX 01 02 11 02 – Meetings & Conferences |
+
+XX 01 02 11 03 – Committees[29] | 0.026 | 0.053 | 0.054 | 0.055 | 0.056 | 0.057 | 0.301 |
+
+XX 01 02 11 04 – Studies & consultations |
+
+XX 01 02 11 05 - Information systems |
+
+2 Total Other Management Expenditure (XX 01 02 11) |
+
+3 Other expenditure of an administrative nature (specify including reference to budget line) |
+
+Total Administrative expenditure, other than human resources and associated costs (NOT included in reference amount) |
+
+Calculation - Other administrative expenditure not included in reference amount |
+
+Meeting of the Committee set up under Article 65 of Regulation No 216/2008, on the basis of 1 meetings of 40 experts the first year and 2 meetings of 40 experts the following years, at the rate of 650 euros per meeting per expert (2008) indexed by 2% a year. |
+
+[1] Regulation (EC) No 1592/2002 of the European Parliament and of the Council of 15 July 2002 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency (OJ L 240, 7.9.2002, p. 1).
+
+[2] Commission Regulations (EC) No 1702/2003 of 24 September 2003 (OJ L 243, 27.9.2003, p. 6) and (EC) No 2042/2003 of 20 November 2003 (OJ L 315, 28.11.2003, p. 1) concerning certification and maintenance of aeronautical products, parts and appliances.
+
+[3] Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC.
+
+[4] Decision MB/7/03 of 27 June 2003 concerning the procedure to be applied by the Agency for the issuing of opinions, certification specifications and guidance material, adopted pursuant to Article 43 of Regulation (EC) No 1592/2002.
+
+[5] OJ C , , p. .
+
+[6] OJ C , , p. .
+
+[7] OJ C , , p. .
+
+[8] OJ C , , p. .
+
+[9] COM (2005)578.
+
+[10] OJ L 96, 31.3.2004, p. 1.
+
+[11] OJ L 96, 31.3.2004, p. 10.
+
+[12] OJ L 96, 31.3.2004, p. 20.
+
+[13] OJ L 96, 31.3.2004, p. 26.
+
+[14] OJ L 114, 27.04.2006, p. 22.
+
+[15] Differentiated appropriations
+
+[16] Participation from European third countries associated with the Agency (Switzerland, Norway and Iceland).
+
+[17] Assumimg that year n is 2010, year of possible adoption
+
+[18] Expenditure that does not fall under Chapter xx 01 of the Title xx concerned.
+
+[19] Expenditure within Article xx 01 04 of Title xx.
+
+[20] Expenditure within Chapter xx 01 other than articles xx 01 04 or xx 01 05.
+
+[21] Contribution from European third countries associated with the EASA under Article 66 of Regulation No 216/2008. This contribution is estimated at 2,4% of the Agency's additional budget, excluding revenues from fees.
+
+[22] See points 19 and 24 of the Interinstitutional Agreement.
+
+[23] Additional columns should be added if necessary i.e. if the duration of the action exceeds 6 years
+
+[24] As described under Section 5.3
+
+[25] The average cost per EASA employee to include overhead, infrastructural and travel cost is 140000 euros annually. For rulemaking the recruitment is 12 persons from year n; for standardisation the recruitment is evolving: 4 in year n, + 14 in year n+1, + 2 in year n+2
+
+[26] Cost of which is NOT covered by the reference amount
+
+[27] Cost of which is NOT covered by the reference amount
+
+[28] Cost of which is included within the reference amount
+
+[29] Depending on the subject at the agenda and the related article in EASA regulation, the Committee can be advisory, regulatory or regulatory with scrutiny. Reference C 10000.

@@ -1,0 +1,507 @@
+EUR-Lex - 52013PC0192 - EN
+
+|
+
+52013PC0192
+
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Council Regulation (EC) No 1225/2009 on protection against dumped imports from countries not members of the European Community and Council Regulation (EC) No 597/2009 on protection against subsidised imports from countries not members of the European Community /* COM/2013/0192 final - 2013/0103 (COD) */
+
+EXPLANATORY MEMORANDUM
+
+1.           CONTEXT OF THE PROPOSAL
+
+Grounds for and objectives of theproposal
+
+This proposal concerns amendments toRegulation (EC) No 1225/2009 (“the basic anti-dumping regulation”) andRegulation (EC) No 597/2009 (“the basic anti-subsidy regulation”). Takingaccount of the fact that these Regulations have not been substantially revisedsince the completion of the Uruguay Round in 1995 and taking account of theconclusions of the evaluation study carried out into the functioning of these instruments,it is proposed to update and modernise the instruments.
+
+General context
+
+Article 207 of the Treaty on theFunctioning of the European Union provides, inter alia, for measures to be established to protect trade suchas those to be taken in the event of dumping or subsidies.
+
+Existing provisions in the area of theproposal
+
+The above-mentioned Council Regulations.
+
+Consistency with the other policies andobjectives of the Union
+
+There is no conflict with any policy orobjective of the Union.
+
+2.           RESULTS OF CONSULTATIONSWITH THE INTERESTED PARTIES AND IMPACT ASSESSMENTS
+
+Consultation of interested parties
+
+Interested parties concerned by thisproposal have had the opportunity to participate in the Public consultationcarried out from April to July 2012. A summary of the results of the publicconsultation has been available on DG Trade’s website since October 2012.
+
+Collection and use of expertise
+
+An evaluation study into the functioning ofthe EU’s anti-dumping and anti-subsidy instruiments was finalised in early-2012and has been available on DG Trade’s website since then.
+
+Impact Assessment
+
+Taking into account the results of thepublic consultation, the evalutation study and the Commission's extensivepractice in the use of the instruments an impact assessment was carried out inautumn 2012. The impact assessment report identified problems in thefunctioning of the trade defence instruments and proposed various solutions.The Impact Assessment Board considered the report in December 2012 and gave afavourable opinion subject to some revisions to the report. The report hassince been revised and finalised. The preferred solutions form the basis forthis proposal.
+
+3.           LEGAL ELEMENTS OF THEPROPOSAL
+
+Summary of the proposed action
+
+It is proposed to amend the basicanti-dumping and basic anti-subsidy Regulations in order to improve them in anumber of areas. Regarding transparency and predictability, these will beenhanced by providing that interested parties are informed two weeks in advanceof the imposition of provisional measures that such measures are going to beimposed. Parties will also be given a guarantee that the measures will not beimposed within this two week period. A summary of the basis on which it isintended to impose the measures will be sent to interested parties and theywill have the opportunity to comment on the calculation of the dumping andinjury margins. Furthermore, when it is decided not to impose provisionalmeasures but to continue the investigation, interested parties will be informedof the intention not to impose such measures two weeks in advance of theultimate date for imposition.
+
+Concerning threats of retaliation againstUnion producers who are considering lodging an anti-dumping and/or anti-subsidycomplaint, such threats can be considered to constitute special circumstancesthat warrant the ex-officio opening of an investigation. Furthermore, wheninvestigations are opened on an ex-officio basis, it is proposed to obligeUnion producers to cooperate in the proceeding.
+
+In regard to the effectiveness of theinstruments, it is proposed to remove the lesser duty rule in cases of circumvention,or where structural raw material distortions have been found to exist, andsubsidisation. Concerning reviews, it is proposed to reimburse duties collectedduring an expiry review investigation that is concluded by the repeal of themeasures.
+
+Finally, there are a number of areas whereit is proposed to codify certain practices which stem from ECJ or WTO rulingsthat have been handed down in recent years. These concern the definition ofUnion industry, the consequences for exporting producers found not to bedumping or to be dumping at de-minimis levels in an originalinvestigation, dealing with changed circumstances in a review investigation,the treatment of related companies in anti-circumvention investigations, theconditions for the registration of imports and the basis for choosing a sampleof Union producers.
+
+Legal basis
+
+Article 207 of the Treaty on theFunctioning of the European Union.
+
+Subsidiarity principle
+
+The proposal falls under the exclusivecompetence of the Union. The subsidiarity principle therefore does not apply.
+
+Proportionality principle
+
+The proposal complies with theproportionality principle for the following reasons:
+
+The form of action is described in theaforementioned basic Regulations and leaves no scope for national decisions.
+
+It will not entail any increased financialor administrative burden on the Union, national governments, regional and localauthorities, economic operators and citizens. However, the reimbursement ofduties collected during an ongoing expiry review, if such an expiry review doesnot lead to a prolongation of measures, is handled by national customsauthorities. The additional workload on customs authorities is considered to besmall and proportionate to the objective of the proposal, i.e. increasingfairness of the instruments.
+
+The non-application of the lesser duty rulein cases of circumvention, or where structural raw material distortions havebeen found to exist, and subsidisation is proportionate to the additional needto protect trade in these situations.
+
+Choice of instruments
+
+Proposed instruments: Regulation.
+
+Other means would not be adequate for thefollowing reason(s):
+
+The aforementioned basic Regulations do notprovide for alternative options.
+
+4.           BUDGETARY IMPLICATION
+
+The proposal has implications for the Unionbudget. The non-application of the lesser duty rule under certain circumstanceswill in some cases lead to higher duty levels and is thus revenue enhancing. Thereimbursement of duties in cases where measures are terminated after an expiryreview represents an expense for the Union budget. Quantification is verydifficult since any revenue or expense depends on the circumstances of eachindividual case.
+
+The proposed legislative changes will alsoentail some changes to the practice. These will not have any budgetaryimplications but changes to the working routines (e.g.: pre-disclosure, advancenotice, summary document). The upgrading of the SME helpdesk (explained in thecommunication) has resource implications set out in the attached legislativefinancial statement.
+
+5.           OPTIONAL ELEMENTS
+
+Not applicable.
+
+2013/0103 (COD)
+
+Proposal for a
+
+REGULATION OF THE EUROPEAN PARLIAMENTAND OF THE COUNCIL
+
+amending Council Regulation (EC) No1225/2009 on protection against dumped imports from countries not members ofthe European Community and Council Regulation (EC) No 597/2009 on protectionagainst subsidised imports from countries not members of the European Community
+
+THE EUROPEAN PARLIAMENT AND THECOUNCIL OF THE EUROPEAN UNION
+
+Having regard to the Treaty on the Functioning of the EuropeanUnion, and in particular Article 207(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the nationalparliaments,
+
+Acting in accordance with the ordinary legislative procedure,
+
+Whereas:
+
+(1)       The common rules forprotection against dumped and subsidised imports from countries which are notmembers of the European Union are contained in Council Regulation (EC) No 1225/2009of 30 November 2009 on protection against dumped imports from countriesnot members of the European Community[1]and Council Regulation (EC) No 597/2009 of 11 June 2009 on protectionagainst subsidised imports from countries not members of the European Community[2] respectively (hereinafterjointly referred to as the 'Regulations'). The Regulations were initiallyadopted in 1995 following the conclusion of the Uruguay Round. Given that anumber of amendments were made to the Regulations since then, the Councildecided in 2009 to codify the regulations in the interest of clarity andrationality.
+
+(2)       While the Regulations havebeen amended, there has not been a fundamental review of the functioning ofthese instruments since 1995. As a result, the Commission launched a review ofthe Regulations in 2011 in order to, inter alia, better reflect theneeds of business at the beginning of the 21st century.
+
+(3)       Following the review,certain provisions of the Regulations should be amended in order to improvetransparency and predictability, provide for effective measures to fightagainst retaliation, improve effectiveness and enforcement and optimise reviewpractice. In addition, certain practices that in recent years have been appliedin the context of anti-dumping and anti-subsidy investigations should beincluded in the Regulations.
+
+(4)       In order to improvetransparency and predictability of anti-dumping and anti-subsidyinvestigations, the parties affected by the imposition of provisionalanti-dumping and countervailing measures, in particular importers, should bemade aware of the impending imposition of such measures. The time given shouldcorrespond to the period between the submission of the draft implementing actto the anti-dumping committee established pursuant to Article 15 of Regulation(EC) No 1225/2009 and the anti-subsidy committee established pursuant toArticle 25 of Regulation (EC) No 597/2009 and the adoption of that act by theCommission. This period is fixed in Article 3(3) of Regulation (EU) No182/2011. Also, in investigations where it is not appropriate to imposeprovisional measures, it is desirable that parties are aware sufficiently inadvance of such non-imposition.
+
+(5)       A short period of time inadvance of the imposition of provisional measures should be allowed forexporters or producers to check the calculation of their individual dumping orsubsidy margin. Calculation errors could then be corrected in advance of theimposition of measures.
+
+(6)       In order to ensureeffective measures to fight against retaliation, Union producers should be ableto rely on the Regulations without fear of retaliation by third parties. Existingprovisions, under special circumstances, provide for the initiation of aninvestigation without having received a complaint, where sufficient evidence ofthe existence of dumping, countervailable subsidies, injury and causal linkexists. Such special circumstances should include threat of retaliation.
+
+(7)       When an investigation is notinitiated by a complaint, an obligation should be imposed on Union producers toprovide the necessary information in order for the investigation to proceed, inorder to ensure that sufficient information is available for carrying out theinvestigation in case of such threats of retaliation.
+
+(8)       Third countriesincreasingly interfere in trade of raw materials with a view to keeping rawmaterials in those countries for the benefit of domestic downstream users, forinstance by imposing export taxes or operating dual pricing schemes. As aresult, the costs of raw materials do not result from the operation of normalmarket forces reflecting supply and demand for a given raw material. Suchinterference creates additional distortions of trade. As a consequence, Unionproducers are not only harmed by dumping, but suffer, compared to downstreamproducers from third countries engaged in such practices, additionaldistortions of trade. In order to protect trade adequately, the lesser duty ruleshall not apply in such cases of structural raw material distortions.
+
+(9)       Within the Union, countervailable subsidies are in principle prohibited pursuant to Article 107 (1)TFEU. Therefore, countervailable subsidies granted by third countries are particularlydistortive of trade. The amount of State aid authorized by the Commission hassteadily been reduced over time. For the anti-subsidy instrument, the lesserduty rule should hence no longer be applied to imports from a country/countriesengaged in subsidisation.
+
+(10)     In order to optimise the reviewpractice, duties collected during the investigation should be reimbursed toimporters, where measures are not prolonged after the conclusion of an expiryreview investigation. This is appropriate given that the conditions requiredfor the continuation of the measures have not been found to exist during theinvestigation period.
+
+(11)     Certain practices which inrecent years have been applied in the context of anti-dumping and anti-subsidyinvestigations should be included into the Regulations.
+
+(12)     The Union industry shouldno longer be defined by reference to the initiation thresholds set out in theRegulations.
+
+(13)     In initial investigationswhere dumping or subsidy margins have been found to be less than the deminimis thresholds, the investigation should be immediately terminated inrelation to exporters that will not be subject to subsequent reviewinvestigations.
+
+(14)     In the framework ofanti-dumping and anti-subsidy review investigations, it seems appropriate to beable to change methodology as compared to the investigation that led to the imposition of the measure in order to ensurethat, inter alia, coherent methodologies are used across differentinvestigations at a given point in time. This will allow, in particular, scopeto change methodologies which are revised over time as situations change.
+
+(15)     When the conditions are metfor initiating an anti-circumvention investigation, imports should in all casesbe made subject to registration.
+
+(16)     In anti-circumventioninvestigations, it seems advisable to remove the condition that, in order to begranted an exemption from registration or extended duties, producers of theproduct concerned should not be related to any producer subject to the originalmeasures. This is because experience shows that sometimes producers of theproduct concerned are found not to be engaged in circumvention practices butare found to be related to a producer subject to the original measures. In suchcases the producer should not be denied an exemption merely on the grounds thatthe company is related to a producer subject to the original measures. Also,when the circumvention practice takes place in the Union, the fact thatimporters are related to producers subject to the measures should not bedecisive in determining whether the importer may be granted an exemption.
+
+(17)     Where the number ofproducers in the Union is so large that resort must be made to sampling, asample of producers should be chosen from among all producers in the Union and not just from among producers lodging the complaint.
+
+(18)     In making the Unioninterest assessment, the opportunity to provide comments should be given to allproducers in the Union and not just those producers lodging the complaint.
+
+(19)     Regulation (EC) No 1225/2009and Regulation (EC) No 597/2009 should therefore be amended accordingly,
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Regulation(EC) No 1225/2009 is amended as follows:
+
+1.         In Article4(1), the introductory wording is replaced by thefollowing:
+
+'1. For thepurposes of this Regulation, the term ‘Union industry’ shall be interpreted asreferring to the Union producers as a whole of the like products or to those ofthem whose collective output of the products constitutes a major proportion ofthe total Union production of those products, except that:'
+
+2.         In Article 6, the following paragraph 10 is added:
+
+'10.      Unionproducers of the like product are obliged to cooperate in proceedings that havebeen initiated pursuant to Article 5(6).'
+
+3.         Article 7 is amended as follows:
+
+(a) in paragraph 1, the following sentence is added:
+
+'Provisional duties shall not be applied within a period oftwo weeks after the information is sent to interested parties under Article19a. The provision of such information shall not prejudice any subsequentdecision that may be taken by the Commission.'
+
+(b) paragraph 2is replaced by the following:
+
+'The amount ofthe provisional anti-dumping duty shall not exceed the margin of dumping asprovisionally established. Unless structural raw material distortions werefound to exist with regard to the product concerned in the exporting country, itshould be less than the margin of dumping if such lesser duty would be adequateto remove the injury to the Union industry.’
+
+4.         Article9 is amended as follows:
+
+(a) paragraph 3 isreplaced by the following:
+
+'3. For aproceeding initiated pursuant to Article 5(9), injury shall normally beregarded as negligible where the imports concerned represent less than thevolumes set out in Article 5(7). For the same proceeding, there shall beimmediate termination where it is determined that the margin of dumping is lessthan 2 %, expressed as a percentage of the export price.'
+
+(b) in paragraph4, the last sentence is replaced by the following:
+
+'The amount of theanti-dumping duty shall not exceed the margin of dumping established. Unless structuralraw material distortions were found to exist with regard to the productconcerned in the exporting country, it shall be less than the margin of dumpingif such lesser duty would be adequate to remove the injury to the Unionindustry.'
+
+5.         Article 11 is amended as follows:
+
+(a) in paragraph 5, the following subparagraph is added:
+
+'If following aninvestigation pursuant to paragraph 2, the measure expires, any dutiescollected from the date of the initiation of such investigation shall be repaidprovided that this is requested from national customsauthorities and granted by those authorities in accordance with the applicableUnion customs legislation concerning repayment and remission of duty. Such repaymentdoes not give rise to the payment of interest by the national customsauthorities concerned.'
+
+(b) paragraph 9 isdeleted.
+
+6.         Article 13 is amended as follows:
+
+(a) in paragraph 3, the second sentence is replaced by thefollowing:
+
+‘Initiations shallbe made, after consultation of the Advisory Committee, by Commission Regulationwhich shall also instruct the customs authorities to make imports subject toregistration in accordance with Article 14(5) or to request guarantees.’
+
+(b) in paragraph4, the first subparagraph is replaced by the following:
+
+'Imports shall notbe subject to registration pursuant to Article 14(5) or measures where they aretraded by companies which benefit from exemptions. Requests for exemptions dulysupported by evidence shall be submitted within the time-limits established inthe Commission regulation initiating the investigation. Where the circumventingpractice, process or work takes place outside the Union, exemptions may be grantedto producers of the product concerned that are found not to be engaged incircumvention practices as defined in paragraphs 1 and 2 of this Article. Wherethe circumventing practice, process or work takes place inside the Union,exemptions may be granted to importers that can show that they are not engagedin circumvention practices as defined in paragraphs 1 and 2 of this Article.'
+
+7.         Article17(1) is replaced by the following:
+
+‘1. In caseswhere the number of Union producers, exporters or importers, types of productor transactions is large, the investigation may be limited to a reasonablenumber of parties, products or transactions by using samples which arestatistically valid on the basis of information available at the time of theselection, or to the largest representative volume of production, sales orexports which can reasonably be investigated within the time available.’
+
+8.         After Article 19, the following Article isinserted:
+
+'Article 19a
+
+Information about provisional measures
+
+1. The Union producers, importers and exporters and theirrepresentative associations, and representatives of the exporting country, mayrequest information on the planned imposition of provisional duties. Requestsfor such information shall be made in writing within the time limit prescribedin the notice of initiation. Such information shall be provided to thoseparties, at least two weeks before the expiry of the deadline mentioned inArticle 7(1) for the imposition of provisional duties. Such information shallinclude:
+
+(a) a summary of the proposed duties for informationpurposes only, and
+
+(b) details of the calculation of the dumping margin andthe margin adequate to remove the injury to the Union industry, due accountbeing taken of the need to respect the confidentiality obligations contained inArticle 19. Parties shall have a period of three working days to providecomments on the accuracy of the calculations.
+
+2.         In cases where it is intended not to imposeprovisional duties but to continue the investigation, interested parties shallbe informed of the non-imposition of duties two weeks before the expiry of thedeadline mentioned in Article 7(1) for the imposition of provisional duties.'
+
+9.         Article 21(2) is replaced by the following:
+
+'2. In order toprovide a sound basis on which the authorities can take account of all viewsand information in the decision as to whether or not the imposition of measuresis in the Union interest, the Union producers, importers and theirrepresentative associations, representative users and representative consumerorganisations may, within the time-limits specified in the notice of initiationof the anti-dumping investigation, make themselves known and provideinformation to the Commission. Such information, or appropriate summariesthereof, shall be made available to the other parties specified in thisArticle, and they shall be entitled to respond to such information.'
+
+Article 2
+
+Regulation (EC) No 597/2009is amended as follows:
+
+1.         InArticle 9(1), the introductory wording is replaced bythe following:
+
+'1. For thepurposes of this Regulation, the term ‘Union industry’ shall be interpreted asreferring to the Union producers as a whole of the like products or to those ofthem whose collective output of the products constitutes a major proportion ofthe total Union production of those products, except that:'
+
+2.         In Article 11, a new paragraph is added:
+
+'11.      Unionproducers of the like product are obliged to cooperate in proceedings that havebeen initiated pursuant to Article 10(8).'
+
+3.         Article 12(1) is amended as follows:
+
+(a)subparagraph 3 is replaced by the following:
+
+'The amount of theprovisional countervailing duty shall not exceed the total amount ofcountervailable subsidies as provisionally established.'
+
+(b)the following subparagraph is added at the end:
+
+'Provisionalduties shall not be applied within a period of two weeks after the informationis sent to interested parties under Article 29b. The provision of suchinformation shall not prejudice any subsequent decision that may be taken bythe Commission.'
+
+4.         In Article14, paragraph 5 is replaced by the following:
+
+'5. The amountof the countervailable subsidies shall be considered to be de minimis ifsuch amount is less than 1% ad valorem, except where, as regardsinvestigations concerning imports from developing countries, the de minimisthreshold shall be 2% ad valorem.'
+
+5.         InArticle 15(1), the last subparagraph is replaced by the following:
+
+'The amount of thecountervailing duty shall not exceed the amount of countervailable subsidiesestablished.'
+
+6.         Article 22 is amended as follows:
+
+(a) in paragraph 1 the following subparagraph is added:
+
+'If following aninvestigation pursuant to Article 18, the measure expires, any duties collectedafter the date of the initiation of such investigation shall be reimbursed. The reimbursement should be requested from national customsauthorities in accordance with the applicable Union customs legislation.'
+
+(b) paragraph 6 isdeleted.
+
+7.         Article 23 is amended as follows:
+
+(a) in paragraph 4 second sentence, the word “may” is replaced by “shall”.
+
+(b) in paragraph 6, the second subparagraph isreplaced by the following:
+
+‘Where thecircumventing practice, process or work takes place outside the Union,exemptions may be granted to producers of the product concerned that are foundnot to be engaged in circumvention practices as defined in paragraph 3.'
+
+(c) in paragraph6, the third subparagraph is replaced by the following:
+
+‘Where thecircumventing practice, process or work takes place inside the Union,exemptions may be granted to importers that can show that they are not engagedin circumvention practices as defined in paragraph 3.’
+
+8.         In Article27(1), the first subparagraph is replaced by thefollowing:
+
+‘1. In caseswhere the number of Union producers, exporters or importers, types of productor transactions is large, the investigation may be limited to:’
+
+9.         After Article 29, the following Article isinserted:
+
+'Article 29b
+
+Information about provisional measures
+
+1. The Union producers, importers and exporters and theirrepresentative associations, and the country of origin and/or export, mayrequest information on the planned imposition of provisional duties. Requestsfor such information shall be made in writing within the time limit prescribedin the notice of initiation. Such information shall be provided to thoseparties, at least two weeks before the expiry of the deadline mentioned inArticle 12(1) for the imposition of provisional duties.
+
+Such information shall include:
+
+(a) a summary of the proposed duties for informationpurposes only, and
+
+(b) details of the calculation of the subsidy margin andthe margin adequate to remove the injury to the Union industry, due accountbeing taken of the need to respect the confidentiality obligations contained inArticle 29. Parties shall have a period of three working days to providecomments on the accuracy of the calculations.
+
+2. In cases where it is intended not to impose provisional dutiesbut to continue the investigation, interested parties shall be informed of thenon-imposition of duties two weeks before the expiry of the deadline mentionedin Article 12(1) for the imposition of provisional duties.'
+
+10.       Article31(2) is replaced by the following:
+
+'2. In order toprovide a sound basis on which the authorities can take account of all viewsand information in the decision as to whether or not the imposition of measuresis in the Union interest, the Union producers, importers and theirrepresentative associations, representative users and representative consumerorganisations may, within the time-limits specified in the notice of initiationof the countervailing investigation, make themselves known and provideinformation to the Commission. Such information, or appropriate summariesthereof, shall be made available to the other parties specified in thisparagraph, and they shall be entitled to respond to such information.'
+
+Article 3
+
+This Regulation shall enter into force onthe day following that of its publication in the Official Journal of theEuropean Union.
+
+Article 4
+
+This Regulationshall apply to all investigations for which the notice of initiation pursuantto Article 10 (11) of Regulation (EC) No 597/2009 or Article 5 (9) ofRegulation (EC) No 1225/2009 has been published in the Official Journal afterthe date of entry into force of this regulation.
+
+ThisRegulation shall be binding in its entirety and directly applicable in allMember States.
+
+Done at Brussels,
+
+For the European Parliament                       Forthe Council
+
+The President                                                 ThePresident
+
+SIMPLIFIED FINANCIAL STATEMENT
+
+(to be used for any internal Commission Regulationof general significance with a budgetary impact on appropriations of anadministrative nature or on human resources, when use of any other type offinancial statement is not appropriate – Article 23 of the Internal Rules)
+
+1          Title of draft Regulation:
+
+Modernisation of trade defence instruments
+
+2          Policy area(s) and ABBactivity(ies) concerned:
+
+20: Trade policy
+
+3          Legal basis:
+
+¨ Administrative autonomy      þ Other ( specify ):
+
+Council Regulation (EC) No 1225/2009 onprotection against dumped imports from countries not members of the EuropeanCommunity and
+
+Council Regulation (EC) No 597/2009 onprotection against subsidised imports from countries not members of theEuropean Community
+
+4          Description and grounds:
+
+The current EU Trade defence instrumentsare being modernised in order to improve their efficiency and effectiveness.The initiative consists of a communication, a legislative proposal andguidelines.
+
+5          Duration and estimated financialimpact:
+
+5.1       Period of application:
+
+¨         Regulation with a limited duration: Regulation in forcefrom [date] to [date]
+
+þ         Regulation with an indefinite duration: in force from[date]
+
+5.2       Estimated budgetary impact:
+
+The draft Regulation entails:
+
+¨         savings
+
+þ         additional costs (if so, specify the heading(s) of themultiannual financial framework concerned):
+
+Heading 5: administrative costs
+
+Complete the estimated financial impacttable in the annex for appropriations of an administrative nature or for humanresources. If the draft Regulation is of indefinite duration, the costs must beindicated for each year of development and then for each year of operation atfull capacity (in the column "Total/annual cost").
+
+5.3       Third-party contributions tothe financing of the draft Regulation:
+
+If the proposal provides for co-financingby Member States or other bodies (please specify which), you should give anestimate of the level of co-financing, if known.
+
+appropriations inEUR million (to 3 decimal places)
+
+|| Year n || Year n+1 || Year n+2 || Year n+3 || Year n+4 || Year n+5 || Year n+6 || Total
+
+Specify cofinancing source/body ||   ||   ||   ||   ||   ||   ||   ||
+
+TOTAL appropriations cofinanced ||   ||   ||   ||   ||   ||   ||   ||
+
+5.4       Explanation of figures:
+
+Average staff costs are shown at the foot ofpage http://www.cc.cec/budg/pre/legalbasis/pre-040-020_preparation_en.html
+
+6          Compatibility with thecurrent multiannual financial framework:
+
+þ         The proposal is compatible with existing financialprogramming.
+
+¨         The proposal will entail reprogramming of the relevantheading in the multiannual financial framework.
+
+¨         The proposal requires use of the flexibility instrument orrevision of the multiannual financial framework[3].
+
+7          Impact of savings oradditional costs on the allocation of resources:
+
+þ         Resources to be obtained by means of internal redeploymentwithin departments
+
+¨         Resources already allocated to the department(s) concerned
+
+¨         Resources to be requested during the next allocationprocedure
+
+The human and administrative resourcesrequired will be covered by the allocation which may be granted to the managingDG under the annual allocation procedure in the light of existing budgetaryconstraints.
+
+ANNEX:
+
+ESTIMATED FINANCIAL IMPACT (savings oradditional costs) FOR APPROPRIATIONS OF AN ADMINISTRATIVE NATURE OR FOR HUMANRESOURCES
+
+FTE=Full-timeequivalent   XX is the policy area or title concerned           EUR million (tothree decimal places)
+
+FTE in persons/year || Year || Year || Year || Year || Year || Year || Year || TOTAL /Annual cost
+
+n || n+1 || n+2 || n+3 || n+4 || n+5 || n+6
+
+Heading 5 || FTE || approp. || FTE || approp. || FTE || approp. || FTE || approp. || FTE || approp. || FTE || approp. || FTE || approp. || FTE || approp.
+
+Establishment plan posts (officials and/or temporary staff)
+
+XX 01 01 01 (Headquarters and Commission’s Representation Offices) || 1 || 0,13 || 1 || 0,13 || 1 || 0,13 || 1 || 0,13 || 1 || 0,13 || 1 || 0,13 || 1 || 0,13 || 1 || 0,13
+
+XX 01 01 02 (Delegations) ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+External staff ||
+
+XX 01 02 01 (‘global envelope’) ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 02 02 (Delegations) ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+Other budget lines (specify) ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+Subtotal – Heading 5 ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+Outside Heading 5 ||
+
+Establishment plan posts (officials and/or temporary staff)
+
+XX 01 05 01 (Indirect research) ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+10 01 05 01 (Direct research) ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+External staff
+
+XX 01 04 yy ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+- Headquarters ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+- Delegations ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 05 02 (Indirect research) ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+10 01 05 02 (Direct research) ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+Other budget lines (specify) ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+Subtotal – Outside Heading 5 ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+TOTAL ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+
+The human andadministrative resources required will be covered by the allocation which maybe granted to the managing DG under the annual allocation procedure in thelight of existing budgetary constraints.
+
+Otheradministrative appropriations        XX is the policy area or title concerned   EURmillion (to three decimal places)
+
+|| Year || Year || Year || Year || Year || Year || Year || TOTAL
+
+n || n+1 || n+2 || n+3 || n+4 || n+5 || n+6
+
+Heading 5 ||   ||   ||   ||   ||   ||   ||   ||
+
+Headquarters: ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 02 11 01 - Mission and representation expenses ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 02 11 02 – Conference and meeting costs ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 02 11 03 – Committees ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 02 11 04 - Studies and consultations ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 03 01 03 - Equipment and furniture ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 03 01 04 - Services and other operating expenditure ||   ||   ||   ||   ||   ||   ||   ||
+
+Other budget lines (specify where appropriate) ||   ||   ||   ||   ||   ||   ||   ||
+
+Delegations: ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 02 12 01 – Missions, conferences and representation expenses ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 02 12 02 - Further training of staff ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 03 02 01 – Acquisition, renting and related expenditure ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 03 02 02 Equipment, furniture, supplies and services ||   ||   ||   ||   ||   ||   ||   ||
+
+Subtotal – Heading 5 ||   ||   ||   ||   ||   ||   ||   ||
+
+Outside Heading 5 ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 04 yy - Expenditure on technical and administrative assistance (not including external staff) from operational appropriations (former "BA" lines) ||   ||   ||   ||   ||   ||   ||   ||
+
+- Headquarters ||   ||   ||   ||   ||   ||   ||   ||
+
+- Delegations ||   ||   ||   ||   ||   ||   ||   ||
+
+XX 01 05 03 - Other management expenditure for indirect research ||   ||   ||   ||   ||   ||   ||   ||
+
+10 01 05 03 - Other management expenditure for direct research ||   ||   ||   ||   ||   ||   ||   ||
+
+Other budget lines (specify where appropriate) ||   ||   ||   ||   ||   ||   ||   ||
+
+Subtotal – Outside Heading 5 ||   ||   ||   ||   ||   ||   ||   ||
+
+GRAND TOTAL ||   ||   ||   ||   ||   ||   ||   ||
+
+The human andadministrative resources required will be covered by the allocation which maybe granted to the managing DG under the annual allocation procedure in thelight of existing budgetary constraints.
+
+[1]               OJ L 343, 22.12.2009, p. 51.
+
+[2]               OJ L 188, 18.7.2009, p. 93.
+
+[3]               See points 19 and 24 of the InterinstitutionalAgreement.

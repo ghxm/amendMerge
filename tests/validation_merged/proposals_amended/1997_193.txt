@@ -1,0 +1,207 @@
+@import url(./../../../../css/generic.css);
+
+EUR-Lex - 51997PC0367 - EN
+
+Avis juridique important
+
+|
+
+51997PC0367
+
+Proposal for a Council Directive on the approximation of the laws of the Member States with regard to the transport of dangerous goods by vessels on inland waterways  /* COM/97/0367 final - SYN 97/0193 */
+
+Official Journal C 267 , 03/09/1997 P. 0096
+
+Proposal for a Council Directive on the approximation of the laws of the Member States with regard to the transport of dangerous goods by vessels on inland waterways (97/C 267/16) (Text with EEA relevance) COM(97) 367 final - 97/0193 (SYN)
+
+(submitted by the Commission on 16 July 1997)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 75 (1) (c) thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the Economic and Social Committee,
+
+Acting in co-operation with the European Parliament in accordance with the procedure laid down in Article 189c of the Treaty,
+
+Whereas in recent years the transport of dangerous goods by vessels on inland waterways has considerably expanded, thus increasing the risks of accidents occurring; whereas measures must therefore be taken to ensure that such transport is carried out under the best possible conditions of safety;
+
+Whereas the Recommendation concerning the international carriage of dangerous goods by inland waterway (ADN) sets down uniform rules for the safe international transport of dangerous goods by vessels on inland waterways, which are in line with the Regulation on the Transport of Dangerous goods on the Rhine (ADNR); whereas it is consequently desirable that such rules should be extended in scope to national traffic in order to harmonize across the Community the conditions under which dangerous goods are carried by vessels on inland waterways;
+
+Whereas this Directive aims to align national and international rules, parallel to Council Directives 94/55/EC (1) and 96/49/EC (2) for the transport of dangerous goods by road and rail, as a further harmonization measure to improve transport safety, to harmonize competition conditions and to facilitate transport operations; whereas this Directive will meet also the Council's request on training requirements for the crews of inland waterway vessels transporting dangerous goods;
+
+Whereas, in compliance with the principle of subsidiarity, these laws must be approximated in order to ensure a high level of safety for national and international transport operations, to guarantee the elimination of distortions of competition by facilitating the free movement of goods and services throughout the Community and to ensure consistency with the other Community provisions;
+
+Whereas the provisions of this Directive are without prejudice to the commitment entered into by the Community and its Member States, in accordance with the goals set under Agenda 21, Chapter 19, at the UNCED Conference in June 1992 in Rio de Janeiro, to strive for the future harmonization of systems for the classification of dangerous substances;
+
+Whereas no specific Community legislation currently governs the safety conditions under which biological agents and genetically modified organisms, regulated under Directives 90/219/EEC (3), 90/220/EEC (4) and 90/676/EEC (5) should be transported by inland waterway;
+
+Whereas the provisions of this Directive are without prejudice to the application of other Community provisions in the field of worker safety and environmental protection;
+
+Whereas the Member States remain free to regulate any operation for the transport of dangerous goods by vessels on inland waterways not covered by this Directive;
+
+Whereas each Member State must retain the right to regulate or prohibit, strictly for reasons other than safety, the national transport of certain dangerous goods by inland waterways;
+
+Whereas the Member States remain free to derogate from the technical Annexes to this Directive with regard to ferry operations undertaken solely for the purpose of crossing an inland waterway or a harbour area in order to take into account the local character and the wide range of different types of ferry boats;
+
+Whereas the introduction of new developments in technology and industry must not be hindered; whereas temporary derogations should be provided for that purpose;
+
+Whereas the transport of dangerous goods by inland waterway to or from a third country is authorized, provided it is carried out in accordance with the requirements of the ADN;
+
+Whereas it must be possible to adapt the Annexes to this Directive rapidly to technical progress, notably by adoption of new provisions laid down in the ADN; whereas the Committee created by Article 9 of Directive 94/55/EC should be used for this purpose,
+
+HAS ADOPTED THIS DIRECTIVE:
+
+CHAPTER I SCOPE, DEFINITIONS AND GENERAL PROVISIONS
+
+Article 1
+
+1. This Directive shall apply to the transport of dangerous goods by vessels on inland waterways within or between Member States.
+
+2. Member States may exempt from the application of all or part of this Directive the transport of dangerous goods by vessels operating on navigable waterways not linked, by inland waterway, to the waterways of other Member States.
+
+3. This Directive shall not apply to the transport of dangerous goods on inland waterways by vessels belonging to or under the responsibility of the armed forces.
+
+4. Seagoing vessels operating on the inland waterways of the Community designated in the first paragraph shall comply with the construction specifications set out in marginal 120 100 to 120 295 Annex B.1 of this Directive.
+
+5. This Directive shall not, however, affect a Member State's right, with due regard to Community law, to maintain specific safety requirements for the national or international transport of dangerous goods by vessels, in so far as the Annexes hereto do not cover that area, as regards, inter alia:
+
+(a) regulations on transport safety authorities including marine police;
+
+(b) requirements and execution of inspections of vessels carrying dangerous goods;
+
+(c) requirements for ship inspecting bodies and classification societies.
+
+National provisions concerning (b) and (c) may not be extended. The provisions in question shall cease to apply if similar measures are made obligatory under Community law.
+
+Article 2
+
+For the purposes of this Directive:
+
+- 'ADN` shall mean the technical Annexes to the Recommendation concerning the International Carriage of Dangerous Goods by Inland Waterways, concluded at Geneva, as annexed hereto in their version of 1 January 1997,
+
+- 'ADNR` shall mean the Regulation on the Transport of Dangerous Goods on the Rhine as in force at 1. January 1997,
+
+- 'dangerous goods` shall mean those substances and articles the transport of which is prohibited or authorized only on certain conditions by the Annexes to this Directive,
+
+- 'transport` shall mean any operation involving the transport of dangerous goods by vessels on inland waterways, conducted between Member States or on the inland waterways of a Member State, including the activities of loading, unloading and transfer to or from another mode of transport and the stops necessitated by the circumstances of the transport, covered by the Annexes to this Directive, without prejudice to the arrangements laid down by the laws of the Member States concerning liability in respect of such operations,
+
+- 'ferry operation`: shall mean a transport operation undertaken solely for the purpose of crossing an inland waterway of a harbour area.
+
+Article 3
+
+1. Without prejudice to the provisions of Article 6, dangerous goods the transport of which is prohibited by the provisions of the Annexes to this Directive may not be transported by vessels on inland waterways on the territory of a Member State.
+
+2. Save as otherwise provided in this Directive and without prejudice to the rules on market access for inland waterway undertakings or to the rules applicable to the transport of goods by vessels on inland waterways, the transport of dangerous goods by vessels on inland waterways shall be authorized subject to compliance with the conditions imposed in the following annexes:
+
+- provisions relating to dangerous substances and articles (Annex A);
+
+- provisions relating to the transport of dangerous goods in packagings or in bulk (Annex A, B.1);
+
+- provisions relating to the transport of dangerous goods in tanks (Annex B.2).
+
+Article 4
+
+1. Vessels transporting dangerous goods on the waterways referred to in Article 1 (1) shall be issued with a Community certificate in accordance with the procedure laid down in marginal 10 282 of Annex B.1 and marginal 210 282 of Annex B.2. A Community certificate issued by the competent authority of a Member State shall attest that the vessel has been inspected and that its construction and equipment comply with the applicable provisions of the Annexes B.1 and B.2. The certificate shall be carried on board the vessel.
+
+2. Notwithstanding paragraph 1 all vessels carrying a certificate granted according to the Regulation on the transport of dangerous goods on the Rhine (ADNR) as in force at 1 January 1997 may carry dangerous goods over the entire Community territory under the conditions specified in this certificate.
+
+3. Each Member State shall establish a list of bodies authorised to carry out inspections in accordance with marginal 10 282 of Annex B.1 and marginal 210 282 of Annex B.2, which it shall communicate to the Commission and to the other Member States. Annex C contains the list of the recognized classification societies.
+
+4. A certificate issued by the competent authority of a Member State under paragraph (1) shall be recognized by all other Member States.
+
+CHAPTER II DEROGATIONS, RESTRICTIONS AND EXEMPTIONS
+
+Article 5
+
+1. Without prejudice to other Community provisions, each Member State shall retain the right to regulate or prohibit, strictly for reasons other than safety during transport, with regard in particular to national security or environmental protection, the transport of certain dangerous goods on inland waterways within its territory.
+
+2. The use within the territory of a Member State of vessels carrying a valid certificate for the transport of dangerous goods issued according to the national law of that Member State may be authorised by that Member State until the date of expiry of such valid certificate.
+
+3. If on the occasion of an accident or an incident, a Member State considers that the safety provisions applicable have been found to be insufficient to limit the hazards involved in the transport operation, and if there is an urgent need to take action, that Member State shall notify the Commission at the planning stage of the measures which it proposes to take. Acting in accordance with the procedure laid down in Article 9, the Commission shall decide whether the implementation of the measures in question should be authorized and shall determine the duration thereof. The Commission may amend the Annexes to the present Directive in accordance with the procedure set out in Article 9.
+
+4. Member States may maintain all national provisions applicable on 31 December 1998 pertaining to the transport and packaging of substances containing dioxins or furans, until equivalent provisions are incorporated in the Annexes to this Directive. These provisions may not be extended or made more stringent. The Member States shall communicate these national provisions to the Commission, which shall inform the other Member States accordingly.
+
+5. A Member State may adopt within its territory national provisions relating to ferry operations which differ from the provisions of the Annexes to this Directive. These derogations must be registered on the ferry's technical certificate.
+
+Article 6
+
+1. Each Member State may authorize the transport by vessels on inland waterways on its territory of dangerous goods classified, packed and labelled in accordance with international requirements for maritime or land transport whenever the transport operation also involves a sea or land voyage.
+
+2. The provisions of the Annexes to this Directive concerning the use of languages in relevant marking or documentation shall not apply to transport operations confined on inland waterways on the territory of a single Member State. A Member State may authorize the use of languages other than those provided for in the Annexes for transport operations performed exclusively on inland waterways within its territory.
+
+3. A Member State may, after consulting the Commission, authorize within its territory ad hoc transport operations involving dangerous goods or transport operations which are prohibited by the Annexes or transport operations performed under conditions different from those laid down in the Annexes provided that national requirements of safety level are respected and tightly controlled under clearly specified conditions.
+
+Article 7
+
+1. Subject to national or Community provisions on market access, the transport of dangerous goods by vessels on inland waterways between Community territory and third countries shall be authorized in so far as it complies with the requirements of the Annexes to this Directive. However, where the Community has concluded agreements with third countries which cover the transport of dangerous goods by inland waterway, the provisions of these agreements shall apply.
+
+2. Member States shall waive the requirements for a special ship inspection of vessels registered in third countries, if a certificate has been issued by a recognized classification society according to Annex C establishing that the construction and equipment of the vessel corresponds to the applicable provisions of the Annexes A, B.1 and B.2.
+
+CHAPTER III FINAL PROVISIONS
+
+Article 8
+
+The amendments necessary to adapt the Annexes to scientific and technical progress in the fields covered by this Directive, in particular to take account of amendments to corresponding provisions in the ADN, shall be adopted in accordance with the procedure laid down in Article 9.
+
+Article 9
+
+1. The Commission shall be assisted by the Committee on the Transport of Dangerous Goods established under Article 9 of Directive 94/55/EC, hereinafter referred to as 'the Committee`.
+
+2. The representative of the Commission shall submit to the Committee a draft of the measures to be taken. The Committee shall deliver its opinion on the draft within a time limit which the Chairman may lay down according to the urgency of the matter, if necessary by taking a vote.
+
+3. The opinion shall be recorded in the minutes; in addition, each Member State shall have the right to ask to have its position recorded in the minutes.
+
+4. The Commission shall take the utmost account of the opinion delivered by the Committee. It shall inform the Committee of the manner in which its opinion has been taken into account.
+
+Article 10
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 1 January 1999. They shall forthwith inform the Commission thereof. They shall apply such laws, regulations and administrative provisions from 1 January 1999.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field governed by this Directive.
+
+3. Member States shall lay down the system of penalties for breaching the national provisions adopted pursuant to this Directive and shall take all the measures necessary to ensure that those penalties are applied. The penalties thus provided for shall be effective, proportionate and dissuasive. Member States shall notify the relevant provisions to the Commission not later than the day specified in paragraph 1 and shall notify any subsequent changes as soon as possible.
+
+Article 11
+
+This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.
+
+Article 12
+
+This Directive is addressed to the Member States.
+
+(1) OJ L 319, 12. 12. 1994, p. 7. Directive amended by Commission Directive 96/86/EC (OJ L 335, 24. 12. 1996, p. 43).
+
+(2) OJ L 235, 17. 9. 1996, p. 25. Directive amended by Commission Directive 96/87/EC (OJ L 335, 24. 12. 1996, p. 45).
+
+(3) OJ L 117, 8. 5. 1990, p. 1.
+
+(4) OJ L 117, 8. 5. 1990, p. 15.
+
+(5) OJ L 374, 31. 12. 1990, p. 1.
+
+ANNEX A
+
+The Annex incorporates marginals 0 001 to 6 999 of Annex A to the Recommendation concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN), as effective on 1 January 1997, 'Member State` being substituted for 'Contracting Party`.
+
+N.B.: Versions in all the official languages of the Community will be published as soon as a consolidated text is available in all languages.
+
+ANNEXES B.1 and B.2
+
+The Annexes incorporate marginals 10 000 to 331 999 of Annexes B.1 and B.2 to the Recommendation concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN), as effective on 1 January 1997, 'Member State` being substituted for 'Contracting Party`.
+
+N.B.: Versions in all the official languages of the Community will be published as soon as a consolidated text is available in all languages.
+
+ANNEX C
+
+List of recognized classification societies
+
+1. Germanischer Lloyd
+
+2. Bureau Veritas
+
+3. Lloyd's Register of Shipping

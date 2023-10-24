@@ -1,0 +1,149 @@
+EUR-Lex - 52004PC0592 - EN
+
+Avis juridique important
+
+|
+
+52004PC0592
+
+Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union  /* COM/2004/0592 final - COD 2004/0202 */
+
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+Regulation (EC) No 1059/2003 of the European Parliament and of the Council established a common classification of territorial units for statistics (referred to as the "NUTS") for the Member States.
+
+Because of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union, this proposed Regulation establishes the classification of the territorial units for community statistics for these new Member States.
+
+2004/0202 (COD)
+
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 285 (1) thereof,
+
+Having regard to the proposal from the Commission [1],
+
+[1]  OJ C , , p. .
+
+Having regard to the opinion of the European Economic and Social Committee [2],
+
+[2]  OJ C , , p. .
+
+Having regard to the opinion of the Committee of the Regions [3],
+
+[3]  OJ C , , p. .
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty [4],
+
+[4]  OJ C , , p. .
+
+Whereas:
+
+(1) Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS) [5] constitutes the legal framework for the regional classification in order to enable the collection, compilation and dissemination of harmonised regional statistics in the Community.
+
+[5]  OJ L 154, 21.6.2003, p. 1.
+
+(2) All Member States' statistics transmitted to the Commission, which are broken down by territorial units, should use the NUTS classification, where applicable.
+
+(3) It is necessary to adapt the Annexes to Regulation (EC) No 1059/2003 to take into account the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia.
+
+(4) Regulation (EC) No 1059/2003 should therefore be amended accordingly.
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Regulation (EC) No 1059/2003 is amended as follows:
+
+1. Annex I is amended in accordance with the text shown in Annex I to this Regulation.
+
+2. Annexes II and III are replaced by the text set out in Annex II and in Annex III to this Regulation.
+
+Article 2
+
+This Regulation shall enter into force the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+ANNEX I
+
+Annex I to Regulation (EC) No 1059/2003 is amended as follows:
+
+1) The following table is inserted between BE - BELGIQUE/BELGIË and DK - DANMARK:
+
+"
+
+&gt;TABLE POSITION&gt;
+
+"
+
+2) The following table is inserted between DE -DEUTSCHLAND and GR - ?????? (Ellada):
+
+"
+
+&gt;TABLE POSITION&gt;
+
+"
+
+3) The following table is inserted between IT - ITALIA and LU - LUXEMBOURG (GRAND-DUCHÉ):
+
+"
+
+&gt;TABLE POSITION&gt;
+
+&gt;TABLE POSITION&gt;
+
+"
+
+4) The following table is inserted between LU - LUXEMBOURG (GRAND-DUCHÉ) and NL - NEDERLAND:
+
+"
+
+&gt;TABLE POSITION&gt;
+
+&gt;TABLE POSITION&gt;
+
+"
+
+5) The following table is inserted between AT - ÖSTERREICH and PT - PORTUGAL:
+
+"
+
+&gt;TABLE POSITION&gt;
+
+"
+
+6) The following table is inserted between PT - PORTUGAL and FI - SUOMI/FINLAND:
+
+"
+
+&gt;TABLE POSITION&gt;
+
+"
+
+"ANNEX II
+
+Existing administrative units
+
+At NUTS level 1 for Belgium 'Gewesten/Régions', for Germany 'Länder', for Portugal 'Continente', Região dos Açores and Região da Madeira, and for United Kingdom Scotland, Wales, Northern Ireland and the Government Office Regions of England.
+
+At NUTS level 2 for Belgium 'Provincies/Provinces', for Germany 'Regierungsbezirke', for Greece 'periferies', for Spain 'comunidades y ciudades autónomas', for France 'régions', for Ireland 'regions', for Italy 'regioni', for the Netherlands 'provincies', for Austria 'Länder' and for Poland 'Wojewodztwa'.
+
+At NUTS level 3 for Belgium 'arrondissementen/arrondissements', for the Czech Republic 'Kraje', for Denmark 'Amtskommuner', for Germany 'Kreise/kreisfreie Städte', for Greece 'nomoi', for Spain 'provincias', for France 'départements', for Ireland 'regional authority regions', for Italy 'provincie', for Lithuania 'Apskritis', for Hungary 'Megyék', for the Slovak Republic 'Kraje ', for Sweden 'län' and for Finland 'maakunnat/landskapen'."
+
+"ANNEX III
+
+Smaller administrative units
+
+For Belgium 'Gemeenten/Communes', for the Czech Republic 'Obce', for Denmark 'Kommuner', for Germany 'Gemeinden', for Estonia 'Vald, Linn', for Greece 'Dimoi/Koinotites', for Spain 'Municipios', for France 'Communes', for Ireland 'counties or county boroughs', for Italy 'Comuni', for Cyprus '????? / ?????????? (Dimoi / koinotites)', for Latvia 'Pils?tas, novadi, pagasti', for Lithuania 'Seni?nija', for Luxembourg 'Communes', for Hungary 'Települések', for Malta 'Localities', for the Netherlands 'Gemeenten', for Austria 'Gemeinden', for Poland 'Gminy, miasta', for Portugal 'Freguesias', for Slovenia 'Ob?ina', for the Slovak Republic 'Obce', for Finland 'Kunnat/Kommuner', for Sweden 'Kommuner' and for the United Kingdom 'Wards'."

@@ -1,0 +1,135 @@
+EUR-Lex - 52003PC0566 - EN
+
+Avis juridique important
+
+|
+
+52003PC0566
+
+Proposal for a Regulation of the European Parliament and of the Council Amending Regulation (EC) No 2320/2002 of the European Parliament and of the Council establishing common rules in the field of civil aviation security  /* COM/2003/0566 final - COD 2003/0222 */
+
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Amending Regulation (EC) No 2320/2002 of the European Parliament and of the Council establishing common rules in the field of civil aviation security
+
+(presented by the Commission)
+
+EXPLANATORY MEMORANDUM
+
+Following the tragic events of 11 September 2001 the European Commission brought forward swiftly a legislative proposal for a framework Regulation establishing common rules in the field of civil aviation security. This Regulation, numbered 2320/2002, was adopted [1] on 16 December 2002 and came into force on 19 January 2003.
+
+[1]  OJ L 355 of 30.12.2002, p. 1.
+
+Following its coming into force Member States have informed the Commission that certain technical requirements of very limited effect on the required level of security as laid down in the regulation are, at best, very difficult to apply in a manner that does not negatively impact on the operational procedures at airports and of air carriers.
+
+The Commission, therefore, proposes to amend Regulation (EC) 2320/2002 with an amendment of a technical nature that seeks to rectify operational problems inadvertently caused by the Regulation, as follows:
+
+In Article 4(3) the Regulation permits the application of equivalent levels of security than those explicitly prescribed in the legislation at airports used only by small aircraft, general aviation or airports used infrequently, on the grounds that investment in expensive security equipment would be inappropriate. Most commercial airports - even very large ones - have separate facilities that are used exclusively by small aircraft and general aviation. For all intents and purposes these are separate aerodromes. However, the Regulation does not permit them to be considered as such. The Commission proposes, in a new paragraph 4(3a), permitting Member States to designate areas of large airports as autonomous small airports for the purposes of security. This is conditional on a notification procedure for flights departing from such demarcated areas of airports, so as to ensure that levels of security are not compromised at arriving airports. A new definition covering demarcated areas of airports is also added.
+
+The proposed change will maintain the high levels of aviation security within the European Union that are mandated in Regulation 2320/2002, but will facilitate their efficient application at the areas of airports used by small aircraft.
+
+At the same time as making this change the opportunity is taken to make four modifications to the existing text in order to rectify some small errors, namely:
+
+1) In Article 4(3) one of the criteria for a small airport is one with "a yearly average of 2 commercial flights per day". This should, of course, say "a yearly average of no more than 2 commercial flights per day" since, as drafted, it would exclude airports with an average of less than 2 flights per day. This is not the intention of the Article.
+
+2) Article 7 of the Regulation deals with compliance monitoring. It refers to audits being performed. Unfortunately, the term "audit" has a very specific use in the aviation security sector. To avoid ambiguity and misunderstanding it is therefore desirable to replace all references to "audit" with the neutral phrase "compliance monitoring activities".
+
+3) In the annex to Regulation 2320/2002  6.3.1b) and  7.3.1b) lay down requirements to search cargo and mail, respectively, to ensure that neither contains prohibited articles. Unfortunately the legal texts of the two paragraphs are not identical. Since the requirements to prevent the shipment of prohibited articles in air cargo and air mail are the same it is desirable that  6.3.1b) and  7.3.1b) are harmonised. It is therefore proposed to repeat the requirements of  6 in  7.
+
+4) Also in the annex  4.1.3 and  4.3.2 permit the appropriate authorities to exempt certain categories of passenger and their hand luggage from screening (for example VIP passengers). This was transposed from the European Civil Aviation Conference (ECAC) Document 30 on aviation security standards. Unfortunately, it was omitted to transpose the corresponding exemption into  5 for the hold baggage of such exempted passengers. For consistency of application this error should be rectified.
+
+2003/222 (COD)
+
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Amending Regulation (EC) No 2320/2002 of the European Parliament and of the Council establishing common rules in the field of civil aviation security
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 80(2) thereof,
+
+Having regard to the proposal from the Commission [2],
+
+[2]  OJ C [...], [...], p. [...].
+
+Having regard to the opinion of the European Economic and Social Committee [3],
+
+[3]  OJ C [...], [...], p. [...].
+
+Having regard to the opinion of the Committee of the Regions [4],
+
+[4]  OJ C [...], [...], p. [...].
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty [5],
+
+[5]  OJ C [...], [...], p. [...].
+
+Whereas:
+
+(1) Regulation (EC) No 2320/2002 of the European Parliament and of the Council establishes harmonised common rules in the field of civil aviation security [6].
+
+[6]  OJ L 355 of 30.12.2002, p. 1.
+
+(2) The application of the Regulation has demonstrated that there is the need for technical amendments. These amendments do not seek to change the scope of the Regulation, nor do they prejudice in any way the security of civil aviation passengers.
+
+(3) The Regulation permits different but adequate levels of security to be set at the smallest airports. It is consistent to permit the same adequate levels of security at both ends of a flight.
+
+(4) Regulation 2320/2002 shall be amended accordingly
+
+HAVE ADOPTED THIS REGULATION:
+
+Article 1
+
+Regulation (EC) 2320/2002 is hereby amended as follows:
+
+1. In Article 2 a new definition shall be added:
+
+"(4) "demarcated area" shall be an area that is separated from other security restricted areas of an airport by means of access control."
+
+2. In Article 4: paragraph 3 shall be replaced by the following:
+
+"3.The appropriate authority of a Member State may, on the basis of a local risk assessment, and where the application of the security measures specified in the Annex to this Regulation may be disproportionate, or where they can not be implemented for objective practical reasons, adopt national security measures to provide an adequate level of protection, at airports,:
+
+(a) with a yearly average of no more than 2 commercial flights per day; or
+
+(b) with only general aviation flights; or
+
+(c) with commercial activity limited to aircraft with less than 10 tonnes of Maximum Take Off Weight (MTOW) or less than 20 seats,
+
+taking into account the particularities of such small airports.
+
+The Member State concerned shall inform the Commission of these measures."
+
+3. In Article 4 a new paragraph 3a) shall be added:
+
+"3a). Paragraph 3 may also apply to demarcated areas of airports with:
+
+- only general aviation flights; or
+
+- with commercial activity limited to aircraft with less than 10 tonnes of Maximum Take Off Weight (MTOW) or less than 20 seats.
+
+A demarcated area shall be indicated in the airport security programme.
+
+Each flight originating from a demarcated area of an airport shall indicate this fact to the destination airport in advance of the arrival of the flight."
+
+4. In article 7 the words "audited", "audits", "auditors" and "audit reports" shall be replaced by "monitored", "compliance monitoring activities", "persons" and "compliance monitoring reports" respectively.
+
+5. In the Annex, a new point 5.2 paragraph 3 shall be added:
+
+"5.2.3 Exemptions
+
+Hold baggage of those parties listed under point 4.1 paragraph 3 may be subject to special screening measures or exempt from screening."
+
+6. In the Annex, point 7.3 paragraph 1(b) the final sentence shall be replaced by:
+
+"so as to reasonably ensure that it does not contain any prohibited article as listed in points iv and v of the Attachment, unless it has been declared and properly subjected to applicable safety measures; and".
+
+Article 2
+
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, [...]
+
+For the European Parliament For the Council
+
+The President The President

@@ -1,0 +1,789 @@
+EUR-Lex - 52008PC0779 - EN
+
+Important legal notice
+
+|
+
+52008PC0779
+
+Proposal for a Regulation of the European Parliament and of the Council on labelling of tyres with respect to fuel efficiency and other essential parameters {SEC(2008) 2860} {SEC(2008) 2861}  /* COM/2008/0779 final - COD 2008/0221 */
+
+EN
+
+Brussels, 13.11.2008
+
+COM(2008) 779 final
+
+2008/0221 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on labelling of tyres with respect to fuel efficiency and other essential parameters
+
+(presented by the Commission)
+
+{SEC(2008) 2860}
+
+{SEC(2008) 2861}
+
+EXPLANATORY MEMORANDUM
+
+1. Context of the proposal |
+
+110 | Grounds for and objectives of the proposalWith as much as 23% of total CO2 emissions coming from road transport [1], reducing vehicles’ energy intensity and emissions is a major challenge for the EU.The Energy Efficiency Action Plan [2] and the Communication on Greening Transport [3] announced a proposal regarding the energy labelling of tyres by 2008. The objective is to promote the market transformation towards fuel-efficient tyres, also called low-rolling-resistance tyres (LRRTs).The labelling proposal follows an integrated approach on tyres which will ensure that standardised information is supplied not only on fuel efficiency but also on wet grip and external rolling noise, so that consumers and end-users can make an informed choice. The aim is to promote, through the operation of market forces, dynamic improvement of all parameters beyond the minimum requirements set for type approval (the procedure which grants access to the EU market). |
+
+120 | General contextTyres can play a significant part in reducing transport energy intensity and emissions since they account for 20% to 30% of vehicles’ total fuel consumption. This proportion of fuel is used to overcome rolling resistance (RR) due mainly to “hysteretic loss” (loss of energy through the heating and deformation of the wheels while rolling). New technologies make it possible to reduce RR, so that it currently varies by up to 100% across all tyre categories. For passenger cars, for instance, this means a difference of up to 10% in fuel consumption between the worst- and the best-performing tyre set.Studies show that fuel efficient tyres are cost-effective: the price differential of better-performing tyres will be compensated by savings over their lifetime. There is therefore a direct interest for tyre purchasers to reduce their fuel bill and for society as a whole to reduce emissions due to road transport. The impact at EU level could be impressive; the external study conducted within the impact assessment identified a savings potential of from 0.56 to 1.51 Mtoe per year depending on the speed of market transformation. This is equivalent to removing 0.5 million to 1.3 million passenger cars from EU roads (or 3% to 8% of new passenger cars registered).Improvements in RR have been and will be further driven on the original equipment market [4] by car producers who have an incentive to fit their vehicles with fuel efficient tyres in order to reduce vehicle emissions measured in compliance with type-approval legislation. The Regulation on the general safety of motor vehicles [5] will in addition ban the worst-performing tyres in terms of fuel efficiency through implementation of minimum requirements governing RR. The market transformation achieved through these two drivers will not, however, achieve its optimum level because of the lack of information available to end-users, in particular for the replacement market.On the replacement market, which accounts for 78% of market share [6], consumers and companies have no access to objective data on tyre rolling resistance, and cannot compare increased purchasing costs with fuel savings. Market surveys have also shown that consumers would be interested in buying fuel-efficient tyres.In addition, tyre performances are interrelated, so that acting on one parameter, such as energy efficiency, may have an adverse impact on other parameters, such as wet grip, whereas optimising wet grip may have an adverse impact on external rolling noise. Potential has been identified for improving tyre wet-grip performance characteristics and external rolling noise above the minimum requirements set in the type-approval legislation [7]. It is therefore in society’s interest to promote optimisation of these two parameters along with rolling resistance.A labelling scheme for tyres at EU level aims to respond to the suboptimal market-transformation towards fuel efficient tyres arising from lack of information. It would allow consumers to make an informed choice, give incentives to tyre manufacturers to upgrade their products and contribute to awareness-raising. |
+
+130 | Existing provisions in the area of the proposalThe proposal on tyre labelling is part of an integrated approach to reduce fuel consumption and emissions in road transport. Directed at the demand side, it will complement the type-approval legislation on tyres which addresses the supply side by means of minimum requirements. The minimum requirements governing rolling resistance, wet grip and external rolling noise scheduled to take effect by October 2012 in the proposal for a Regulation on the general safety of motor vehicles will guarantee a standard level of tyre quality, while further improvements above these levels will be driven by the labelling scheme. In a context of increased competition on the tyre market, it will introduce a level playing field for all; with the possibility for producers to benefit from product differentiation so that competition will not only be based on prices but also on product quality. It is also likely to decrease the entry barriers for new entrants based on reputation. The industry will, for its part, receive more return on its R&D investment since consumers and end-users will have access to objective, reliable and comparable information on tyre parameters.Harmonised and accurate testing methods will be instrumental in providing comparable information on tyre parameters. In order to reduce the administrative burden on producers and the costs of testing, the same testing methods should be applied as those defined in the type-approval legislation on tyres. |
+
+140 | Consistency with the other policies and objectives of the UnionIncreased market take-up of fuel-efficient tyres through introduction of an energy labelling scheme will contribute to achieving the 20% energy saving potential by 2020 identified in the Energy Efficiency Action Plan [8] – subsequently endorsed by the Energy Council, the European Council and the European Parliament [9].The proposal is in line with the revised Commission strategy on CO2 from passenger cars and light commercial vehicles [10] and the input from the CARS 21 high-level group [11]. This strategy is based on an integrated approach for achieving the 120g/km CO2 target by 2012, with 130g/km achieved through a legislative instrument on car emissions as measured at type approval [12] and a further 10g/km or equivalent achieved through a closed list of additional measures, including the promotion of fuel efficient tyres. Synergies with the revised car labelling proposal [13] will also increase recognition of the labelling scheme for tyres.Promotion of the market transformation towards fuel efficient tyres complies with the Lisbon and renewed Sustainable Development Strategy as it will encourage investment in R&D, provide for a level playing field for all and reduce the carbon footprint of road transport, thereby contributing to the policy goal concerning sustainable mobility.One of the key objectives defined in the Community Lisbon Programme for 2008-2010 [14] is promotion of an “industrial policy geared towards more sustainable consumption and production”, as further elaborated on in the Action Plan on Sustainable Consumption and Production and Sustainable Industrial Policy [15].Tyre labelling will also play an important part in the objective of “empowering consumers” as formulated in the EU Consumer Policy Strategy 2007-2013 [16] since it will enable consumers to make an informed choice when buying replacement tyres. |
+
+2. Consultation of interested parties and impact assessment |
+
+| Consultation of interested parties |
+
+211 | Consultation methods, main sectors targeted and general profile of respondentsStakeholders’ opinions were consistently gathered throughout the process by means of bilateral meetings and various consultations with Member State representatives, NGOs, consumer and business organisations, the tyre industry, fleet managers, tyre dealers and car producers.- First reactions were gathered during DG ENTR’s public consultation on the Advanced Safety of Motor Vehicles conducted from August to October 2007, which included a proposal for a grading of tyre fuel efficiency. This provision was finally withdrawn from ENTR’s proposal so as to allow for a more in-depth analysis, but feedback from this consultation has been taken into account.- An expert group meeting with representatives of the tyre industry took place on 21 April 2008 in order to clarify technical issues.- A stakeholder workshop was held on 26 May 2008. The working document containing questions regarding various policy choices to be addressed at the workshop, stakeholders’ replies and the workshop minutes were published on the Europa website. |
+
+212 | Summary of responses and how they have been taken into accountStakeholder consultation was instrumental in defining policy options and the possible design of a labelling scheme. All respondents throughout the consultation process in general supported the introduction of a labelling scheme, but with reservations on some technical issues:- The first public consultation by ENTR highlighted the need of avoiding downgrading tyre safety performance characteristics when designing a labelling scheme to support fuel-efficient tyres. The tyre industry developed the concept of a “Tyre Performance Integrated Approach” calling for simultaneous consideration of all relevant parameters. This concern was taken into account in the design of the labelling scheme, which provides for a multi-criteria grading scheme.- The request was put forward for more ambitious fuel efficiency classes, and for the same design to be followed as for household appliances (the “A to G” scale) [17]. Extensive research was conducted as a follow-up under the external study in order to precisely identify the state of the art, the technological potential for further improvements of tyre fuel efficiency and the related production costs. The results were taken into account in drafting the fuel efficiency classes so as to allow for band A to be demanding enough to drive the market towards fuel-efficient tyres but ensure that they remain cost-effective for end-users, in other words that fuel savings will compensate for increased purchasing costs.- Some stakeholders requested the inclusion of external rolling noise in the labelling scheme. External rolling noise, which was not originally included within the scope of the impact assessment, was consequently addressed.- Finally, there was extensive debate as to the relevance of including C2 and C3 tyres (tyres fitted on light- and heavy-duty vehicles) in the labelling scheme. The road transport companies, including their federation, the International Road Transport Union (IRU), called for these tyre classes to be included in the labelling scheme. Since the impact assessment showed a significant fuel saving potential on these markets, it was decided to include them in the scope of the legislative proposal. |
+
+213 | An open consultation was conducted over the Internet from 28.04.2008 to 30.05.2008. The Commission received 14 responses. The results are available on http://ec.europa.eu/energy/demand/legislation/under_discussion_en.htm. |
+
+| Collection and use of expertise |
+
+221 | Scientific/expertise domains concernedAn external study was contracted with the European Policy Evaluation Consortium from December 2007 to July 2008 to provide input into the impact assessment. |
+
+222 | Methodology usedThe study looked at the technical background supporting the design of a labelling scheme, including trade-off between tyre parameters, market structure and cost/benefit analysis.The specific design of the fuel efficiency and wet grip classes is based inter alia on the following factors: (1) the state of the art, (2) production costs to achieve a certain level of RR or wet grip which compared to related fuel savings or safety gains will determine the (3) cost-effective levels towards which the market can be rationally expected to be driven, (4) the accuracy of testing methods which may influence the width of the bands. |
+
+223 | Main organisations/experts consultedMember State representatives, NGOs, consumer and business organisations, the tyre industry, tyre dealers and car producers were consulted. |
+
+2249 | Summary of advice received and usedThe existence of potentially serious risks with irreversible consequences was not mentioned. |
+
+225 | The technical input and cost/benefit analysis were included in the impact assessment. |
+
+226 | Means used to make the expert advice publicly availableThe external study can be downloaded at http://ec.europa.eu/energy/demand/legislation/under_discussion_en.htm. |
+
+230 | Impact assessmentThe impact assessment considered the following policy options for promoting market transformation towards more fuel-efficient tyres.Option 1: No EU action. This constitutes the baseline scenario, including the adoption of minimum requirements governing rolling resistance (RR) as proposed in the Regulation on the general safety of motor vehicles and existing incentives for car producers to fit their vehicles with fuel efficient tyres in order to reduce type-approved emissions measurement levels.Option 2: Single-criterion labelling scheme for passenger car tyres (C1 tyres) regarding fuel efficiency (RR), with minimum requirements on other parameters (wet grip and external rolling noise). Option 3: Dual-labelling scheme for C1 tyres regarding fuel efficiency and wet grip, with minimum requirements on external rolling noise.Option 4: Multi-criteria labelling scheme for C1 tyres regarding fuel efficiency and wet grip extended to external rolling noise.Option 5: Extension of the labelling scheme developed for C1 tyres (Option 2, 3 or 4) to C2 and C3 tyres.Option 6: Economic instruments and public procurement.Comparison of the policy options shows that a multi-criteria grading scheme on C1 tyres (Option 4) brings the most benefits when it is also extended to C2 and C3 tyres (Option 5). The slower market take-up of fuel-efficient tyres compared to Option 2 (single-criterion labelling scheme) would be compensated by safety gains, while the extension of the labelling scheme to C2 and C3 tyres would greatly increase total fuel savings. |
+
+231 | The Commission carried out an impact assessment listed in the Work Programme, whose report is accessible on: http://ec.europa.eu/governance/impact/cia_2008_en.htm |
+
+3. Legal elements of the proposal |
+
+305 | Summary of the proposed actionThe proposal concerns creating a labelling scheme for tyre parameters including fuel efficiency, wet grip and external rolling noise, addressing C1, C2 and C3 tyres (tyres fitted on passenger cars, light- and heavy-duty vehicles). It will provide harmonised and easy-to-understand information to consumers, companies and retailers by grading tyre performance characteristics. It will guarantee that the information is made available to end-users via different media (e.g. electronic, catalogues, stickers). |
+
+310 | Legal basisThe legal basis for the proposal is Article 95 of the Treaty. |
+
+320 | Subsidiarity principleThe subsidiarity principle applies insofar as the proposal does not fall under the exclusive competence of the Community. |
+
+| The objectives of the proposal cannot be sufficiently achieved by the Member States for the following reasons. |
+
+321 | As highlighted in connection with implementation of the Car Labelling Directive [18], the existence of 27 different labelling schemes places a major burden on producers which have to grade their products differently depending on in which countries they sell their products, and is not efficient in promoting market transformation. The discrepancies that exist between product grading contribute to confusion among consumers and undermine their ability to make an informed choice. In addition, Member States, consumer organisations and the tyre industry have expressed their support for a harmonised labelling scheme. |
+
+| Community action will better achieve the objectives of the proposal for the following reasons. |
+
+324 | A harmonised labelling scheme will reduce the administrative burden on Member States and the tyre industry. It will avoid fragmentation of the internal market and provide a level playing field for all. |
+
+327 | The scope of the proposal is limited to harmonisation of product information; implementation and market surveillance will fall under Member States’ responsibility. |
+
+| The proposal therefore complies with the subsidiarity principle. |
+
+| Proportionality principleThe proposal complies with the proportionality principle for the following reasons. |
+
+331 | The proposal does not go beyond what is necessary in order to achieve the objectives of the legislative proposal. The same tests procedure are foreseen as in the type approval procedure in order to decrease costs lying on tyre producers. Self declaration should also decrease costs of testing which were estimated around 0.03 euro per tyre in the worst case. It is also proposed to develop a sticker displaying the label in a format understandable without translation. In order to minimise logistics costs, pictograms will ensure the labelling scheme is understood without requiring the industry or tyre dealers to attach a dedicated sticker in all EU official languages. Complementary information in the relevant language will be provided on-line (web) to explain the label. Easy recognition of the label’s message by consumers will also be facilitated by making use of a layout for the label similar to the one used for white goods under the Energy Labelling Directive for household appliances. |
+
+332 | Labelling tyres should not lead to increased tyre prices. Low-budget tyres will still be provided for sale on the market; the only change is that objective information on tyre quality will be provided to consumers so that competition does not operate on prices alone but on actual performance. |
+
+| Choice of instruments |
+
+341 | Proposed instruments: Directive. |
+
+342 | Other means would not be adequate for the following reasons.Market surveillance and compliance with the Directive will be crucial to ensure the scheme’s success. Member States should therefore develop their own monitoring procedures. Awareness-raising campaigns explaining the labelling scheme will be better addressed to end-users and consumers if they are drafted at national level. It is therefore proposed to adopt a Directive for transposition into Member States’ legislation.The proposal uses the “split-level approach” whereby the Directive’s fundamental provisions will be adopted under co-decision, while the technical specifications and adaptation to technical progress will be adopted under comitology, in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC. |
+
+4. Budgetary implication |
+
+409 | The proposal has no implication for the Community budget. |
+
+5. Additional information |
+
+560 | European Economic AreaThe proposed act concerns an EEA matter and should therefore extend to the European Economic Area. |
+
+E-14824 | |
+
+2008/0221 (COD)
+
+Proposal for a
+
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+on labelling of tyres with respect to fuel efficiency and other essential parameters
+
+Text with EEA-relevance
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+
+Having regard to the proposal from the Commission [19],
+
+Having regard to the opinion of the European Economic and Social Committee [20],
+
+Having regard to the opinion of the Committee of the Regions [21],
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty [22],
+
+Whereas:
+
+(1) Sustainable mobility is a major challenge facing the Community in the light of climate change and the need to support European competitiveness as stressed in the Commission Communication on Greening Transport [23].
+
+(2) The Communication of the Commission "Action Plan on Energy Efficiency- Realising the potential" [24] highlighted the potential to reduce total energy consumption by 20% by 2020 by means of a list of targeted actions including labelling of tyres.
+
+(3) Tyres, mainly because of their rolling resistance, account for 20% to 30% of the fuel consumption of vehicles. A reduction of the rolling resistance of tyres may therefore contribute significantly to the energy efficiency of road transport and thus to the reduction of emissions.
+
+(4) Tyres are characterised by a number of parameters which are interrelated. Improving one parameter such as rolling resistance may have an adverse impact on other parameters such as wet grip, while improving wet grip may have an adverse impact on external rolling noise. Tyre manufacturers should be encouraged to optimise all parameters, without undercutting safety standards which have already been achieved.
+
+(5) Fuel-efficient tyres are cost-effective as fuel savings over-compensate for the increased purchasing price of tyres stemming from higher production costs.
+
+(6) [Regulation (EC) No …/… concerning type-approval requirements for the general safety of motor vehicles] [25] sets out minimum requirements on rolling resistance of tyres. Technological developments make it possible to significantly decrease energy losses due to tyre rolling resistance beyond those minimum requirements. To reduce the environmental impact of road transport, it is therefore appropriate to lay down provisions to encourage end-users to purchase more fuel efficient tyres by providing them harmonised information about this parameter.
+
+(6a) In order to increase understanding and awareness about rolling resistance, a fuel savings calculator, such as that which already exists for C3 tyres, would serve as a meaningful tool to demonstrate potential savings of fuel, money and CO2.
+
+(7) Traffic noise is a significant nuisance and has a harmful effect on health. [Regulation (EC) No …/… concerning type-approval requirements for the general safety of motor vehicles] sets out minimum requirements on external rolling noise of tyres. Technological developments make it possible to significantly reduce external rolling noise beyond those minimum requirements. To reduce traffic noise it is therefore appropriate to lay down provisions to encourage end-users to purchase tyres with low external rolling noise by providing them harmonised information about this parameter.
+
+(8) The provision of harmonised information on tyre external rolling noise would also facilitate the implementation of measures against traffic noise and contribute to increased awareness of the effect of tyres on traffic noise within the framework of Directive 2002/49/EC of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise [26].
+
+(9) [Regulation (EC) No …/… concerning type-approval requirements for the general safety of motor vehicles] sets out minimum requirements on wet grip performance of tyres. Technological development make it possible to significantly improve wet grip beyond those minimum requirements, and thus to reduce wet breaking distances. To improve road safety it is therefore appropriate to lay down provisions to encourage end-users to purchase tyres with high wet grip performance by providing them harmonised information about this parameter.
+
+(10) Other tyre parameters, such as aquaplaning or handling in curves, also affect road safety. However, at this stage, harmonised testing methods are not yet available in respect of such parameters. Therefore, it is appropriate to provide for the possibility, at a later stage and if necessary, of laying down provisions on harmonised information to end-users about such tyre parameters.
+
+(10a) Snow tyres and Nordic winter tyres have specific parameters that are not fully comparable to normal tyres. In order to ensure that end-users make fair and informed decisions, the parameters of these tyres should be displayed in a way that puts them on an equal footing with normal tyres.
+
+(11) The provision of information on tyre parameters in the form of a standard label is likely to influence purchasing decisions by end-users in favour of safer, quieter and more fuel efficient tyres. This in turn is likely to encourage tyre manufacturers to optimise those tyre parameters, which would pave the way for more sustainable consumption and production.
+
+	
+(11a) Tyre manufacturers, suppliers and distributors should be encouraged to comply with the provisions of this Regulation before 2012 to speed up the recognition of the scheme and realisation of its benefits.
+
+(12) Multiplicity of rules concerning labelling of tyres across Member States would create barriers to intra-Community trade and increase the administrative burden and testing costs for tyre manufacturers.
+
+(13) Replacement tyres account for 78% of the tyre market. It is therefore justified to inform the end-user about the parameters of replacement tyres as well as tyres fitted on new vehicles.
+
+(14) The need for greater information on tyre fuel efficiency and other parameters is relevant for consumers, including fleet managers and transport companies, who cannot easily compare the parameters of different tyre brands in the absence of a labelling and harmonised testing regime. It is therefore appropriate to include C1, C2 and C3 tyres in the scope of the directive.
+
+(15) The energy label which ranks products on a scale from “A to G”, as applied to household appliances pursuant to Directive 1992/75/EC on the indication by labelling and standard product information of the consumption of energy and other resources by household appliances [27], is well known by consumers and has proven to be successful in promoting more efficient appliances. The same design should be used for the labelling of tyre fuel efficiency.
+
+(16) The display of a label on tyres at the point of sale, as well as in technical promotional literature, should ensure that distributors as well as potential end-users receive harmonised information on tyre fuel efficiency, wet grip performance and external rolling noise.
+
+(17) Some end-users choose tyres before arriving at the point of sale or purchase tyres by mail order. To ensure that those end-users can also make an informed choice on the basis of harmonised information on tyre fuel efficiency, wet grip performance and external rolling noise, labels should be displayed in all technical promotional literature, including where such literature is made available on the Internet.
+
+(17a) Potential purchasers should be provided with supplementary standardised information which explains each of the components of the label - fuel efficiency, wet grip and noise emissions - and their relevance, and includes a fuel savings calculator which demonstrates average savings of fuel, CO2 and costs. This information should be provided on the EU tyre labelling website and on explanatory leaflets and posters at all points of sale. The website address should be clearly indicated on the label and all technical promotional literature.
+
+(18) Information should be provided in accordance with the harmonised testing methods laid down in [Regulation (EC) No …/… concerning type-approval requirements for the general safety of motor vehicles] to enable end-users to compare different tyres and to limit testing costs for manufacturers.
+
+(19) In order to meet the challenge of reducing the CO2 emissions of road transport, it is appropriate for Member States to put in place incentives in favour of fuel-efficient tyres. These incentives should be in accordance with Articles 87 and 88 of the Treaty ║. In order to avoid fragmentation of the internal market, classes of minimum fuel efficiency should be determined.
+
+(20) Compliance with provisions on labelling by manufacturers, suppliers and distributors is essential to achieve the aims of those provisions and to ensure a level playing field within the Community. Member States should therefore determine effective measures, including market surveillance, regular ex-post controls and effective sanctions, sufficient to ensure enforcement of the provisions of this Regulation.
+
+(20a) Member States should strive, in implementing the relevant provisions of this Regulation, to refrain from measures that impose unjustified, bureaucratic and unwieldy obligations on small and medium-sized enterprises (SMEs), and, where feasible, to take into consideration the special needs and financial and administrative constraints on SMEs.
+
+(20b) For the proper evaluation of the implementation of this Regulation, a review should be undertaken to ascertain whether changes are necessary. This review should focus in particular on consumers' understanding of the label, including the noise parameter, and adaptation to technological change.
+
+(21) The measures necessary to implement this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission [28].
+
+(22) In particular, power should be conferred on the Commission to introduce requirements with respect to wet grip grading of C2 and C3 tyre classes, to introduce requirements with respect to essential tyre parameters other than fuel efficiency, wet grip and external rolling noise and to adapt the Annexes to technical progress. Since those measures are of general scope and are designed to amend non-essential elements of this Directive by supplementing it, they must be adopted in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Aim and subject matter
+
+The aim of this Regulation is to increase the safety and the economic and environmental efficiency of road transport by promoting fuel-efficient, safe and quiet tyres.
+
+This Regulation establishes a framework for the provision of harmonised information on tyre parameters through labelling, allowing consumers to make an informed choice when purchasing tyres.
+
+Article 2
+
+Scope
+
+1. This Directive shall apply to C1, C2 and C3 tyres.
+
+2. By derogation from paragraph 1, this Directive shall not apply to:
+
+(a) re-treaded tyres;
+
+(b) off-road professional tyres;
+
+(c) tyres designed to be fitted only to vehicles registered for the first time before 1. October 1990;
+
+(d) T-type temporary-use spare tyres;
+
+(e) tyres whose speed rating is less than 80 km/h;
+
+(f) tyres whose nominal rim diameter does not exceed 254 mm or is 635 mm or more;
+
+(g) tyres fitted with additional devices to improve traction properties, such as studded tyres.
+
+Article 3
+
+Definitions
+
+For the purpose of this Directive:
+
+(1) ‘C1, C2 and C3 tyres’ means the tyre classes defined in Article 8 of [Regulation (EC) No …/… concerning type-approval requirements for the general safety of motor vehicles] [29];
+
+(2) ‘T-type temporary-use spare tyre’ means a temporary-use spare tyre designed for use at inflation pressures higher than those established for standard and reinforced tyres;
+
+ 
+
+(2a) "snow tyre" means a tyre whose tread pattern, tread compound or structure are primarily designed to achieve in snow conditions a performance better than that of a normal tyre with regard to its ability to initiate or maintain vehicle motion;
+
+(3) ‘point of sale’ means a location where tyres are displayed or offered for sale, including car show rooms as regards displayed tyres which are not fitted on the vehicles;
+
+(4) ‘technical promotional literature’ means technical manuals, brochures, leaflets and catalogues, either printed, or in electronic form or published on the internet but excluding media advertising, used in the marketing of tyres or vehicles, aimed at end-users or distributors which describe the specific parameters of a tyre;
+
+(5) ‘technical documentation’ means information relating to tyres, including the manufacturer and brand of the tyre; description of the tyre type or the grouping of tyres determined for the declaration of the fuel efficiency class, wet grip class and external rolling noise measured value; test reports and testing accuracy.
+
+(5a) ‘fuel savings calculator’ means a tool provided on dedicated tyre labelling websites to demonstrate potential average savings of fuel, CO2 and costs, for C1, C2 and C3 tyre classes;
+
+(5b) ‘EU tyre labelling website’ means a central online source of explanatory and supplementary information administered by the Commission, regarding each of the components of the tyre label and including a fuel savings calculator,;
+
+(6) ‘manufacturer’ means any natural or legal person who manufactures a product, or has a product designed or manufactured and markets that product under his name or trademark;
+
+(7) ‘importer’ means any natural or legal person established within the Community who places a product from a third country on the Community market;
+
+(8) ‘supplier’ means the manufacturer or its authorised representative in the Community or the importer;
+
+(9) ‘distributor’ means any natural or legal person in the supply chain, other than the supplier or the importer, who makes a tyre available on the market;
+
+(10) ‘making available on the market’ means any supply of a product for distribution or use on the Community market in the course of a commercial activity, whether in return for payment or free of charge;
+
+(11) ‘end-user’ means a consumer, including a fleet manager or road transport company that is buying or expected to buy a tyre;
+
+(12) ‘essential parameter’ means a tyre parameter such as rolling resistance, wet grip or external rolling noise that has a notable impact on the environment, road safety or health during use.
+
+
+
+Article 3a
+
+ 
+
+Responsibilities of the Commission
+
+ 
+
+1. The Commission shall establish and administer, no later than September 2010, the ‘EU tyre labelling website’ as a central source of explanatory information for each component of the label.
+
+ 
+
+Explanatory leaflets and posters with the same core content as the website shall be distributed to points of sale for tyres and vehicles.
+
+ 
+
+The leaflets and posters shall be provided in appropriate languages at the point of sale.
+
+ 
+
+The website, leaflets and posters shall include:
+
+ 
+
+(i) an explanation of the pictograms printed on the label;
+
+ 
+
+(ii) a fuel savings calculator which demonstrates potential savings of fuel, money and CO2 by fitting low rolling resistance tyres for C1, C2 and C3 tyre classes;
+
+ 
+
+(iii) a statement highlighting the fact that actual fuel savings and road safety heavily depend on drivers' behaviour, in particular the following:
+
+ 
+
+– eco-driving, which can significantly reduce fuel consumption;
+
+ 
+
+– tyre pressure, that should be regularly checked for higher wet grip and fuel efficiency performance characteristics;
+
+ 
+
+– stopping distances, that should always be strictly respected.
+
+ 
+
+2. In order to communicate to the consumer the consequences of tyre choice for future fuel bills, the Commission shall establish for each class of tyres (C1, C2, C3) a formula that enables calculation of the extra fuel consumption or fuel savings during the lifetime of a full set of these tyres compared with a C class tyre of the same category. These formulae shall use the following inputs:
+
+ 
+
+– estimate of the EU average lifetime, in km, of the tyre class;
+
+ 
+
+– estimate of the EU average real-life fuel consumption per km driven by a vehicle fitted with the tyre class concerned;
+
+ 
+
+– estimate of the percentage of fuel savings achieved per kg/tonne reduced rolling resistance for the vehicle fitted with the tyre class concerned.
+
+ 
+
+The formulae and results in terms of fuel consumption, monetary costs and CO2 emissions shall be made available to the general public through the EU tyre labelling website and may be reproduced on the websites of tyre manufacturers, distributors and retailers.
+
+ 
+
+3. The Commission shall provide guidelines for manufacturers, suppliers and distributors on the presentation of the relevant information from the label in technical and promotional literature, including, if appropriate, recommendations for graphic design.
+
+
+Article 4
+
+Responsibilities of tyre suppliers
+
+Member States shall ensure that tyre suppliers comply with the following provisions:
+
+(1) suppliers shall ensure that C1 and C2 tyres delivered to distributors or end-users are supplied with a label to be displayed by any means or by a sticker on the tyre tread, indicating the fuel efficiency and wet grip class and the external rolling noise measured value, as set out in Annex I, Parts A, B and C, respectively;
+
+
+(2) the format of the sticker and the label referred to in paragraph 1 shall be as prescribed in Annex II;
+
+(3) suppliers shall state the fuel efficiency class, wet grip class and the external rolling noise measured value on technical promotional literature as set out in Annex I in the order specified in Annex III. For C2 and C3 tyres the measured rolling resistance coefficient shall also be stated;
+
+(4) suppliers shall make technical documentation available to the authorities of Member States on request, for a period ending five years after the last tyre of a given tyre type has been made available on the market; the technical documentation shall be sufficiently detailed as to allow the authorities to verify the accuracy of information provided on the label on fuel efficiency, wet grip and external rolling noise.
+
+(4a) suppliers shall present measured values from the type approval test with regard to the rolling resistance coefficient (expressed in kg/t), wet grip index (expressed as a performance index, G, compared to the standard reference tyre) and noise emissions (expressed in dB) in a publicly available database.
+
+(4b) suppliers shall present measured values from the type approval test moulded into or onto each sidewall for each model with regard to rolling resistance coefficient (expressed in kg/t), wet grip index (expressed as a performance index, G, compared to the standard reference tyre) and noise emissions (expressed in dB).
+
+Article 5
+
+Responsibilities of tyre distributors
+
+Member States shall ensure that tyre distributors comply with the following provisions:
+
+(1) distributors shall ensure that the sticker or the label provided by suppliers in accordance with Article 4(1) or a more detailed explanatory version of the label as set out in Annex II, point 2a are available and clearly displayed either on the tyre or in its immediate proximity at the point of sale, respectively;
+
+(2) where tyres offered for sale are not visible to the end-user, distributors shall provide end-user with documentation on the fuel efficiency class, wet grip class and external rolling noise measured value of those tyres;
+
+(3) for C1, C2 and C3 tyres, distributors shall provide the explanatory version of the label as set out in Annex II, point 2a or 2b, stating the fuel efficiency class, the wet grip class and external rolling noise measured value, as set out in Annex I, Parts A, B and C respectively, on or with the bills delivered to end-users when they purchase tyres.
+
+Article 6
+
+Responsibilities of vehicle suppliers and vehicle distributors
+
+Member States shall ensure that vehicle suppliers and vehicle distributors comply with the following provisions:
+
+(1) vehicle suppliers and vehicle distributors shall provide information on tyres which are fitted on new vehicles; that information shall include the fuel efficiency class as set out in Annex I, Part A, the external rolling noise measured value as set out in Annex I, Part C and, for C1 tyres, the wet grip class as set out in Annex I, Part B, in the order specified in Annex III. This information shall be included in at least the electronic technical promotional literature and be provided to end-users before the sale of the vehicle;
+
+(2) where different tyre types may be fitted on a new vehicle, without end-users being offered a choice between them, the information referred to in paragraph 1 shall mention the lowest fuel efficiency class, wet grip class and the highest external rolling noise measured value of these tyre types;
+
+(3) where end-users are offered a choice between different tyre types to be fitted on a new vehicle, the information referred to in paragraph 1 shall mention the fuel efficiency class, wet grip class and external rolling noise measured value of all these tyre types;
+
+Article 7
+
+Harmonised testing methods
+
+The information to be provided under Articles 4, 5 and 6 on the fuel efficiency class, the external rolling noise measured value, and the wet grip class of tyres shall be obtained by applying the harmonised testing methods referred to in Annex 1. The harmonised tests shall provide end-users with a reliable and fully representative ranking of the characteristics tested.
+
+Article 8
+
+Verification procedure
+
+Member States shall assess the conformity of the declared fuel efficiency and wet grip classes, within the meaning of Annex I Parts A and B, and the declared external rolling noise measured value within the meaning of Annex I Part C, in accordance with the procedure laid down in Annex IV.
+
+Such verifications shall not prejudice any EU vehicle or tyre type-approval obtained in accordance with Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles1 or Regulation (EC) No .../... [concerning type-approval requirements for the general safety of motor vehicles]. For the conformity assessment Member States shall also refer, where applicable, to tyre type approval documentation and to relevant supporting documentation provided by the supplier.
+
+	
+Member States shall ensure that the competent authorities establish a system of routine and non-routine inspections of points of sale for the purpose of ensuring compliance with the requirements of this Regulation.
+
+Article 9
+
+Internal market
+
+1. Where the provisions of this Directive are satisfied, Member States shall neither prohibit nor restrict the making available of tyres on the market on grounds of product information covered by this Directive.
+
+2. Unless they have evidence to the contrary, Member States shall consider that labels and product information comply with the provisions of this Regulation. They may require suppliers to provide technical documentation, in accordance with Article 4(4), in order to assess the accuracy of the declared values.
+
+
+
+Article 10
+
+Incentives
+
+Member States shall not provide incentives with regard to tyres below class C with respect to either fuel efficiency level or wet grip within the meaning of Annex I, Parts A and B respectively.
+
+Article 11
+
+Amendments and adaptations to technical progress
+
+The following measures designed to amend non-essential elements of this Directive inter alia by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 13(2):
+
+(1) introduction of requirements with respect to wet grip grading of C2 and C3 tyres, provided that suitable harmonised testing methods are available;
+
+(1a) introduction of requirements with respect to snow tyres or Nordic winter tyres;
+
+
+(3) adaptation of Annexes I to IV to technical progress.
+
+Article 12
+
+Enforcement and penalties
+
+1. Member States shall, by means of a continuous exchange of information, ensure close cooperation in market supervision in the interest of the consistent implementation of this Regulation. Member States shall take appropriate measures for regular ex-post controls in order to ensure that tyres which are not duly labelled are brought into conformity or taken off the market.
+
+2. Member States shall introduce measures laying down sanctions for infringements of the provisions of this Regulation, including rules on penalties applicable to infringements of the provisions adopted pursuant to this Regulation and provisions ensuring that they are implemented.
+	
+3. Those measures shall be effective, proportionate and dissuasive.
+	
+4. Member States shall notify those measures and any subsequent amendments thereof to the Commission without delay.
+
+Article 13
+
+Committee
+
+1. The Commission shall be assisted by a committee.
+
+2. Where reference is made to this paragraph, Articles 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+Article 14
+
+Review
+
+1. Not later than three years after the date of application of this Regulation, the Commission shall review the application of this Regulation, considering inter alia:
+
+ 
+
+(a) the effectiveness of the label in terms of consumer awareness;
+
+ 
+
+(b) whether the labelling scheme should be extended to include retreaded tyres;
+
+ 
+
+(c) whether new tyre parameters or classes should be introduced;
+
+ 
+
+d) the information on tyre parameters provided by vehicle suppliers and distributors to end-users.
+
+ 
+
+2. The Commission shall, on the basis of this review and after an impact assessment and a consumer survey, submit a report to the European Parliament and the Council, accompanied if appropriate, by a proposal for amendment of this Regulation.
+
+Article 15
+
+Final Provisions
+
+1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from [date of entry into force + 24 months].
+
+ 
+
+However, Articles 4 and 5 shall not apply for tyres produced before the entry into force of this Regulation.
+
+2. This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+ 
+
+Article 16
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 17
+
+This Directive is addressed to the Member States.
+
+Done at Brussels,
+
+For the European Parliament For the Council
+
+The President The President
+
+Annex I
+
+Grading of tyre parameters
+
+Part A: Fuel efficiency classes
+
+The fuel efficiency class must be determined on the basis of the rolling resistance coefficient (RRC) according to the A to G scale specified below and measured in accordance with [UNECE Regulation…, OJ reference to be added before final adoption of the Directive by the legislature].
+
+
+C1 tyres | C2 tyres | C3 tyres |
+
+RRC in kg/t | Energy efficiency class | RRC in kg/t | Energy efficiency class | RRC in kg/t | Energy efficiency class |
+
+RRC≤6.5 | A | RRC≤5.5 | A | RRC≤4.0 | A |
+
+6.6≤RRC≤7.7 | B | 5.6≤RRC≤6.7 | B | 4.1≤RRC≤5.0 | B |
+
+7.8≤RRC≤9.0 | C | 6.8≤RRC≤8.0 | C | 5.1≤RRC≤6.0 | C |
+
+Empty | D | Empty | D | 6.1≤RRC≤7.0 | D |
+
+9.1≤RRC≤10.5 | E | 8.1≤RRC≤9.2 | E | 7.1≤RRC≤8.0 | E |
+
+10.6≤RRC≤12.0 | F | 9.3≤RRC≤10.5 | F | RRC≥8.1 | F |
+
+RRC≥12.1 | G | RRC≥10.6 | G | Empty | G |
+
+Part B: Wet Grip Classes
+
+The wet grip classes of C1 tyres must be determined on the basis of the wet grip index (G) according to the "A to G" scale specified below and measured in accordance with UNECE Regulation 117 on uniform provisions concerning the approval of tyres with regard to rolling sound emissions and to adhesion on wet surfaces [30].
+
+G | Wet grip classes |
+
+155≤G | A |
+
+140≤G≤154 | B |
+
+125≤G≤139 | C |
+
+Empty | D |
+
+110≤G≤124 | E |
+
+G≤109 | F |
+
+Empty | G |
+
+Part C: External Rolling noise
+
+The external rolling noise measured value shall be declared in decibels and measured in accordance with UNECE Regulation 117 on uniform provisions concerning the approval of tyres with regard to rolling sound emissions and to adhesion on wet surfaces.
+
+For low noise tyres defined according to the grading specified below, the labelling of the measured external rolling noise value measured in dB shall be complemented by the "low noise mark":
+
+External rolling noise classes (dB(A))
+
+Annex II: Format of the label
+
+The sticker referred to in Articles 4(1) and 5(1) consists of two parts: (1) a label printed in the format described below and (2) a space where the name of the supplier and the tyre line, tyre dimension, load index, speed rating and other technical specification are displayed (hereinafter “brand space”).
+
+1. Label design
+
+1.1 The label printed on the sticker, referred to in Articles 4(1) and 5(1), must be in accordance with the illustration below:
+
+(...PICT...)
+
+The following item shall be added to the proposed design:
+
+ 
+
+website address of the EU tyre label website, in large font at the bottom of the label,
+
+1.2 The following provides specifications for the label:
+
+(...PICT...)
+
+1.3 The label must be at least 75 mm wide and 110 mm high. Where the label is printed in a larger format, its content must nevertheless remain proportionate to the specifications above.
+
+1.4 The label must conform to the following requirements:
+
+a) Colours are CMYK – cyan, magenta, yellow and black – and are given following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black;
+
+b) The numbers listed below refer to the legends indicated in section 1.2;
+
+(...PICT...)
+
+Fuel efficiency
+
+Pictogram as supplied: width: 19.5 mm, height: 18.5 mm – Frame for pictogram stroke: 3.5 pt, width: 26 mm, height: 23 mm – Frame for grading: stroke: 1 pt – Frame end: stroke: 3.5 pt, width: 36 mm – Colour: X-10-00-05;
+
+(...PICT...)
+
+Wet grip
+
+Pictogram as supplied: width: 19 mm, height: 19 mm – Frame for pictogram: stroke: 3.5 pt, width: 26 mm, height: 23 mm – Frame for grading: stroke: 1 pt – Frame end: stroke: 3.5 pt, width: 26 mm – Colour: X-10-00-05;
+
+(...PICT...)
+
+External rolling noise
+
+Pictogram as supplied: width: 23 mm, height: 15 mm – Frame for pictogram: stroke: 3.5 pt, width: 26 mm, height: 24 mm – Frame for value: stroke: 1 pt – Frame end: stroke: 3.5 pt, height: 24 mm – Colour: X-10-00-05;
+
+(...PICT...)
+
+Label border: stroke: 1.5 pt – Colour: X-10-00-05;
+
+(...PICT...)
+
+A-G scale
+
+– Arrows: height: 4.75 mm, gap: 0.75 mm, black stroke: 0.5 pt – colours:
+
+A: X-00-X-00;
+
+B: 70-00-X-00;
+
+C: 30-00-X-00;
+
+D: 00-00-X-00;
+
+E: 00-30-X-00;
+
+F: 00-70-X-00;
+
+G: 00-X-X-00.
+
+– Text: Helvetica Bold 12 pt, 100% white, black outline: 0.5 pt;
+
+(...PICT...)
+
+Grading
+
+– Arrow: width: 16 mm, height: 10 mm, 100% black;
+
+– Text: Helvetica Bold 27 pt, 100% white;
+
+(...PICT...)
+
+Lines in scale: stroke: 0.5 pt, dashed line interval: 5.5 mm, 100% black;
+
+(...PICT...)
+
+Scale text: Helvetica Bold 11 pt, 100% black;
+
+(...PICT...)
+
+Value of noise
+
+– Box: width: 25 mm, height: 10 mm, 100% black;
+
+– Text: Helvetica Bold 20 pt, 100% white;
+
+– Unit text: Helvetica Bold Regular for ‘(A)’ 13 pt, 100% white;
+
+(...PICT...)
+
+EU logo: width: 9 mm, height: 6 mm;
+
+(...PICT...)
+
+Directive reference: Helvetica Regular 7.5 pt, 100% black;
+
+Tyre class reference: Helvetica Bold 7.5 pt, 100% black;
+
+c) The background must be white.
+
+1.5 The tyre class (C1, C2 or C3) must be indicated on the label in the format prescribed in the illustration section 1.2.
+
+2. Brand space
+
+2.1 Suppliers must add their name, the tyre line, tyre dimension, load index, speed rating and other technical specification on the sticker along with the label in any colour, format and design, provided that the proportional size of brand space does not exceed a 4:5 ratio against the size of the label and the message published along with the label does not disrupt the message of the label.
+
+2a. Format of expanded explanatory label
+
+ 
+
+The explanatory version of the label referred to in Article 5 shall be in accordance with the illustration below, and the text translated into the relevant language of the point of sale. This version of the label is to be provided to the customer on or with the bill, unless this results in an undue burden on the distributor, in which case information shall be provided in accordance with Annex II, point 2b.
+
+2b. Format of information on the receipt
+
+ 
+
+Where the costs of printing the explanatory label as outlined in Annex II, point 2a, represent an undue burden on the distributor, the label information shall be provided in accordance with the illustration below:
+
+
+
+Annex III
+
+Information provided in technical promotional literature
+
+1. Information on tyre shall be provided in the order specified as follows:
+
+(i) the fuel efficiency class (letter A to G);
+
+(ii) the wet grip class (letter A to G);
+
+(iii) the external rolling noise measured value (dB).
+
+2. This information must meet the following requirements:
+
+(i) be easy to read;
+
+(ii) be easy to understand;
+
+(iii) if different grading are available for a given tyre type depending on dimension or other parameters, the range between the least- and best-performing tyre is stated.
+
+3. Suppliers must also make available on their website:
+
+(–i) a link to the EU tyre labelling website;
+
+(i) an explanation of the pictograms printed on the label, and the fuel efficiency calculator which is provided on the EU tyre labelling website;
+
+(ii) a statement highlighting the fact that actual fuel savings and road safety heavily depend on drivers' behaviour, in particular the following:
+
+– eco-driving can significantly reduce fuel consumption;
+
+– tyre pressure should be regularly checked for higher wet grip and fuel efficiency performance characteristics;
+
+– stopping distances should always be strictly respected.
+
+Annex IV: Verification procedure
+
+The conformity of the declared fuel efficiency and wet grip classes as well as the declared external rolling noise measured value shall be assessed for each tyre type or each grouping of tyres as determined by the supplier; according to the following procedure:
+
+(1) a single tyre shall be tested first. If the measured value meets the declared class or external rolling noise measured value, the test is passed;
+
+(2) if the measured value does not meet the declared class or external rolling noise measured value, three more tyres shall be tested. The average measurement value stemming from the four tyres tested shall be used to assess accordance with the declared information.
+
+[1] European Environment Agency, Annual European Community Greenhouse Gas Inventory 1990-2005 and Inventory Report 2007, p. 88.
+
+[2] COM(2006) 545.
+
+[3] COM(2008) 433.
+
+[4] Tyres fitted on new vehicles, which constitute 22% of market share.
+
+[5] Proposal COM(2008) 316 under adoption, OJ C , , p. .
+
+[6] Tyres fitted on vehicles once the original ones are worn out, usually after 40 000 km for passenger cars.
+
+[7] COM(2008) 316, see footnote 5.
+
+[8] COM(2006) 545.
+
+[9] TTE, (Energy) Council of 23 November 2006, 15210/06; Brussels European Council 8/9 March 2007, Presidency Conclusions, 7224/07; European Parliament Resolution of 24 October 2007 on the Community Strategy to reduce C02 emissions from passenger cars and light commercial vehicles (2007/2119 (INI)), point 32.
+
+[10] COM(2007) 19.
+
+[11] COM(2007) 22.
+
+[12] COM(2007) 856.
+
+[13] Recast of Directive 1999/94/EC.
+
+[14] COM(2007) 804.
+
+[15] COM(2008) 397/3.
+
+[16] COM(2007) 99.
+
+[17] Directive 1992/75/EC.
+
+[18] Directive 1999/94/EC.
+
+[19] OJ C , , p. .
+
+[20] OJ C , , p. .
+
+[21] OJ C , , p. .
+
+[22] OJ C , , p. .
+
+[23] COM(2008) 433
+
+[24] (COM(2006)545).
+
+[25] Proposal COM(2008) 316 under adoption, OJ C , , p. .
+
+[26] OJ L 189, 18.7.2002, p. 12.
+
+[27] OJ L 297, 13.10.1992, p. 16.
+
+[28] OJ L 184, 17.7.1999, p. 23.
+
+[29] [NB: The current tyre classification of the proposal for a Regulation (COM(2008)316) has omitted light duty vehicles (N1). There is an agreement at Council level to revise the definition proposed in Article 8 of COM(2008) 316 to include N1 tyres, the agreement will be reached in October at the latest before the adoption of this proposal for a Directive on tyre labelling- this is for information during the legislative procedure and must be deleted at the time of adoption].
+
+[30] OJ L 231, 29.08.2008, p. 19.
+
+--------------------------------------------------
