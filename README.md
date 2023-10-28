@@ -1,4 +1,4 @@
-# amendmerge
+# amendMerge
 
 > [!NOTE]  
 > Please note that this tool is still under active development and without proper documentation. The code is not stable and the API may change in the future. Feel free to use it but be aware of the risks and contribute to the development if you can.
