@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "amendmerge"
-version = "0.1.0"
+name = "amendMerge"
+version = "0.1.0-beta"
 description = ""
 authors = ["Maximilian Haag <mail@mxhg.org>"]
 readme = "README.md"

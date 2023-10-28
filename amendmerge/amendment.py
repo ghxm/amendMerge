@@ -537,6 +537,9 @@ class AmendmentList(list):
         self._type_check(item)
         super().insert(index, item)
 
+    def to_dict(self):
+        return [amendment.to_dict() for amendment in self]
+
     def to_df(self):
         return pd.DataFrame.from_records([amendment.to_dict() for amendment in self])
 

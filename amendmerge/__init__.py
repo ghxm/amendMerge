@@ -1,3 +1,10 @@
+"""Top-level package for amendMerge."""
+
+__author__ = """Maximilian Haag"""
+__email__ = 'mail@mxhg.org'
+__version__ = '0.1.0-beta'
+
+
 from spacy.tokens import Doc
 
 import os
