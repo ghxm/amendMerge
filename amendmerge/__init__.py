@@ -44,12 +44,12 @@ def amend_law(doc, amendments,
     from eucy.modify import modify_doc
 
     if not eu_wrapper:
-        from eucy import eu_wrapper
+        from eucy.eucy import EuWrapper
         import spacy
 
         nlp = spacy.blank("en")
         nlp.max_length = 10000000
-        eu_wrapper = eu_wrapper(nlp)
+        eu_wrapper = EuWrapper(nlp)
 
     amended_text = None
     resolution = None
