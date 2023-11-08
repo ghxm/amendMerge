@@ -5,6 +5,7 @@ import pandas as pd
 import warnings
 from typing import Union, Optional, Dict
 from amendmerge.utils import to_numeric, clean_html_text
+import textdistance
 
 
 class PositionAttribute:
@@ -308,7 +309,7 @@ class Amendment:
         """
 
         from eucy.utils import is_eucy_doc
-        from eucy import modify
+        from eucy import modify as eumodify
 
         if not is_eucy_doc(doc):
             raise TypeError("doc must be a euCy doc")
@@ -381,16 +382,20 @@ class Amendment:
                     applied = True
                 else:
 
-                    if matched_pos.text.lower().strip() == self.existing_text.lower().strip():
-                        matched_pos._.replace_text(self.text,
-                                                   keep_ws=True,
-                                                   deletion_threshold=10)
-                        applied = True
-                    elif abs(len(self.existing_text.strip())-len(matched_pos.text.strip())) < 8:
+                    existing_text_simplified = re.sub(r'\s+', ' ', self.existing_text.lower()).strip()
+                    matched_pos_text_simplified = re.sub(r'\s+', ' ', matched_pos.text.lower()).strip()
+
+                    if matched_pos_text_simplified == existing_text_simplified:
+                        new_text = self.text
+                    elif abs(len(existing_text_simplified)-len(matched_pos_text_simplified)) < 8:
                         # existing_text and matched_pos.text are most likely the same but with some minor differences
                         # so we try to replace the existing text with the amendment text completely
                         new_text = self.text
-                    elif self.existing_text.lower() in matched_pos.text.lower().strip():
+                    elif textdistance.damerau_levenshtein.normalized_distance(existing_text_simplified, matched_pos_text_simplified) < 0.1:
+                        # existing_text and matched_pos.text are most likely the same but with some minor differences
+                        # so we replace the existing text with the amendment text completely
+                        new_text = self.text
+                    elif self.existing_text.lower().strip() in matched_pos.text.lower().strip():
                         # if existing text is part of text in doc, replace the existing text with the amendment text
                         # try simple replacement
 
@@ -469,13 +474,12 @@ class Amendment:
                 else:
                     matched_pos._.replace_text(new_text,
                                                keep_ws=True,
-                                               deletion_threshold=10)
+                                               deletion_threshold=None)
                     applied = True
 
         if applied:
-
             if modify or doc_level_mod:
-                modify.modify_doc(doc, eu_wrapper=eu_wrapper)
+                eumodify.modify_doc(doc, eu_wrapper=eu_wrapper)
             return None
         else:
             raise Exception(f"Could not apply amendment {str(self.to_dict())} to doc (missing implementation or existing text not present in doc).")

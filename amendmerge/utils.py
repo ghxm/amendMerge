@@ -5,6 +5,7 @@ import os
 import re
 from collections import OrderedDict
 from word2number import w2n
+import difflib
 
 def clean_html_text(text):
 
@@ -364,3 +365,28 @@ def determine_text_td_num(tr):
             return len([th for th in ths if len(th.get_text(strip=True)) > 0])
         else:
             return 0
+
+
+# Modify the function to accept file contents directly as strings rather than file paths.
+def save_differences_from_strings(file1_content, file2_content, output_path):
+    # Split the file contents into lines
+    file1_lines = file1_content.splitlines(keepends=True)
+    file2_lines = file2_content.splitlines(keepends=True)
+
+    # Create a Differ object
+    differ = difflib.Differ()
+
+    # Calculate the difference
+    diff = list(differ.compare(file1_lines, file2_lines))
+
+    # if the output path dir does not exist, create it
+    if not os.path.exists(os.path.dirname(output_path)):
+        os.makedirs(os.path.dirname(output_path))
+
+    # Write the differences to the output file
+    with open(output_path, 'w') as file_out:
+        for line in diff:
+            file_out.write(line)
+
+    return output_path
+
