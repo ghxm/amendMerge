@@ -17,6 +17,9 @@ textdistance = {extras = ["extras"], version = "^4.6.0"}
 eucy = {git = "ssh://git@github.com/ghxm/euCy.git"}
 lxml = "^4.9.3"
 
+[tool.poetry.group.dev.dependencies]
+eucy = {git = "ssh://git@github.com/ghxm/euCy.git", branch = "dev"}
+
 
 [tool.poetry.group.tests.dependencies]
 pandas = "^2.0.3"

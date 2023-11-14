@@ -6,6 +6,8 @@ import warnings
 from typing import Union, Optional, Dict
 from amendmerge.utils import to_numeric, clean_html_text
 import textdistance
+from fuzzysearch import find_near_matches
+from eucy.utils import find_containing_spans
 
 
 class PositionAttribute:
@@ -416,7 +418,6 @@ class Amendment:
                                 new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
                     else:
                         # try to fuzzymatch within matched_pos
-                        from fuzzysearch import find_near_matches
 
                         fm = find_near_matches(self.existing_text.strip(), matched_pos.text, max_l_dist=5)
 
@@ -431,20 +432,20 @@ class Amendment:
                             start = fm.start
                             end = fm.end
 
-                            # replace existing_text with amendment text
-                            new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
+                            if delete:
+                                # delete existing text
+                                new_text = matched_pos.text[:start] + matched_pos.text[end:]
+                            else:
+                                # replace existing_text with amendment text
+                                new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
 
 
             if not applied and not new_text and text_match_fallback:
-                warnings.warn(f"Could not match position {str(self.position.to_dict())} to doc. Trying to match text instead.")
 
-                from fuzzysearch import find_near_matches
-
-                max_l_dist = len(self.existing_text.strip())//300
+                max_l_dist = int(len(self.existing_text.strip())*0.02)
 
                 if max_l_dist < 8:
                     max_l_dist = 8
-
 
                 # TODO how to deal with badly formatted proposal texts?
                 fm = find_near_matches(self.existing_text.strip(), doc.text, max_l_dist=max_l_dist)
@@ -456,13 +457,30 @@ class Amendment:
                     # get best match
                     fm = fm[0]
 
-                    # get existing_text string pos in o_text
-                    start = fm.start
-                    end = fm.end
+                    # try to match fm to span / position
+                    matched_poss = find_containing_spans(doc, fm.start, fm.end, include_article_elements=False) # TODO handle paragraphs
 
-                    # replace existing_text with amendment text
-                    new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
-                    doc_level_mod = True
+                    if len(matched_poss) > 0:
+                        # if there has been a pos match
+                        matched_pos = matched_poss[0]
+
+                        # get existing_text string pos in match text
+                        start = fm.start - matched_pos.start_char
+                        end = fm.end - matched_pos.start_char
+
+                        if delete:
+                            # delete existing text
+                            new_text = matched_pos.text[:start] + matched_pos.text[end:]
+                        else:
+                            # replace existing_text with amendment text
+                            new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
+
+                    else:
+                        warnings.warn(
+                            f"Could not match position {str(self.position.to_dict())} to doc. Replacing doc text instead.")
+                        # replace existing_text with amendment text
+                        new_text = doc.text[:fm.start] + self.text + doc.text[fm.end:]
+                        doc_level_mod = True
 
             if new_text:
                 if doc_level_mod:
