@@ -14,7 +14,8 @@ from amendmerge.utils import html_parser
 def amend_law(doc, amendments,
               modify_iteratively = False,
               return_doc = False,
-              eu_wrapper = None):
+              eu_wrapper = None,
+              verbose = False):
     from amendmerge.ep_report import EpReport
     from amendmerge.resolution import Resolution
     from amendmerge.amendment import Amendment, AmendmentList
@@ -78,13 +79,14 @@ def amend_law(doc, amendments,
         raise TypeError('amendments must be a Report, Resolution, an Amendment, a list of Amendments, or an AmendmentList')
 
     if amendments:
-        for amendment in amendments:
+        for i, amendment in enumerate(amendments):
             assert isinstance(amendment, Amendment)
-
+            if verbose:
+                print('Applying amendment: ' + str(i+1))
             try:
                 amendment.apply(doc, modify=modify_iteratively, eu_wrapper=eu_wrapper)
             except Exception as e:
-                warnings.warn('Could not apply amendment: ' + str(e))
+                warnings.warn(f'Could not apply amendment {str(i+1)}: ' + str(e))
     elif resolution:
         if resolution.amendment_type == 'amendments_text':
             amended_text = resolution.amended_text
