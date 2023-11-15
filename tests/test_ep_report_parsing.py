@@ -15,7 +15,6 @@ def test_resolution_amendment_type(ep_report, ep_reports_results, request):
     assert ep_report.get_ep_draft_resolution().amendment_type == result['report_type'].values[0]
 
 
-# TODO test number of amendments
 def test_resolution_amendment_num(ep_report, ep_reports_results, request):
 
     report_id = ep_report_request_id(request)
@@ -30,13 +29,6 @@ def test_resolution_amendment_num(ep_report, ep_reports_results, request):
     else:
         print('Not eligible for this test')
         return
-
-
-def test_resolution_amendment_parsing(ep_report, request):
-
-    """Make sure every amendment that is parsed is consistent with possible amendment scenarios"""
-
-    # TODO
 
 
 
