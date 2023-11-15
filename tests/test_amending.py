@@ -1,4 +1,4 @@
-from .conftest import request_procedure_reference
+from .conftest import request_procedure_reference, ep_report_result_by_id, ep_report_request_id
 from amendmerge import amend_law
 from amendmerge.amendment import AmendmentList, Amendment, Position
 from amendmerge.utils import save_differences_from_strings
@@ -119,7 +119,13 @@ def test_amendment_sample():
             ),
             existing_text = "(2) The framework for the implementation of the budgetary appropriations relating to the Members of the Supervisory Committee should be set up in a way which avoids any appearance of a possible interference of the Office in their duties. Regulation (EC, EURATOM) No 883/2013 should be adapted in order to allow for such a framework. The secretariat of the Supervisory Committee should be provided directly by the Commission, independently from the Office. The Commission should refrain from interfering with the functions of the Supervisory Committee.",
             text = "(2) Test test test test.",
-            )
+            ),
+        Amendment(
+            position = Position(
+                recital=99
+            ),
+            text = "(9) Test test test test.",
+            ),
     ])
 
     amended_text = amend_law(proposal, amendments, modify_iteratively = False, return_doc = True)
@@ -127,9 +133,18 @@ def test_amendment_sample():
     assert len(amended_text.spans['recitals']) == len(proposal.spans['recitals']) - 1
     assert amended_text.spans['recitals'][0].text.strip() == "(2) Test test test test."
 
-def test_amendment_hand_dist(ep_report, amended_proposals, proposal_docs, request):
+
+def test_amendment_hand_dist_non_amending(ep_report, amended_proposals, proposal_docs, ep_reports_results, request):
 
     logdir = 'tests/logs/'
+
+    report_id = ep_report_request_id(request)
+    result = ep_report_result_by_id(report_id, ep_reports_results)
+
+    # check if there is a RECODED comment in the notes field (indicating hand-coding may be incorrect)
+    if 'RECODED' in result['notes']:
+        print('Not eligible for this test (RECODED)')
+        return
 
     procedure_reference = request_procedure_reference(request)
 
@@ -137,12 +152,17 @@ def test_amendment_hand_dist(ep_report, amended_proposals, proposal_docs, reques
     resolution = ep_report.get_ep_draft_resolution()
 
     if resolution.amendment_type != 'amendments_table':
-        print('Not eligible for this test')
+        print('Not eligible for this test (' + str(resolution.amendment_type) + ')')
         return
 
-    # TODO account for possibly wrong hand coding (check comment column in ep_reports_hand_coded.csv)
 
     proposal = proposal_docs[procedure_reference]
+
+    # filter out amendings proposals
+    if proposal.has_extension('title') and 'amending' in proposal._.title.lower():
+        print('Not eligible for this test (amending proposal)')
+        return
+
 
     ep_modified_text = amend_law(proposal, resolution, modify_iteratively = False, return_doc = False)
 

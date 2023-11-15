@@ -100,3 +100,19 @@ def test_amendment_type_handling(filename):
         assert len(report.get_ep_draft_resolution().amended_text) > 0
     else:
         print('Not eligible for this test')
+
+
+@pytest.mark.parametrize('filename', reports_cod)
+def test_position_parsing(filename):
+    from amendmerge.ep_report.html import HtmlEpReport
+
+    html = open(repo + '/' + filename, 'r').read()
+    report = HtmlEpReport.create(source=html)
+    if report.get_ep_draft_resolution().amendment_type == 'amendments_table' and report.get_ep_draft_resolution().amendment_table is not None:
+        # make sure positions are not empty
+        amendments = report.get_ep_draft_resolution().get_amendments()
+
+        assert len(amendments) > 0
+
+        for amendment in amendments:
+            assert not amendment.position.is_empty()

@@ -122,6 +122,12 @@ position_texts_dicts = [
          'article': 3,
          'paragraph': 2,
          'point': '(a), (b) and (c)'}),
+    ("ARTICLE 1(7a) (new)",
+     {
+            'article': 1,
+            'paragraph': '(7a)',
+            'new': True
+        })
 
 ]
 
