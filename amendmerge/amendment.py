@@ -71,6 +71,10 @@ class Position:
             dic = {k: v for k, v in self.__dict__.items() if isinstance(v, (PositionAttribute, bool)) and (isinstance(v, PositionAttribute) and v.value is not None) or (isinstance(v, bool) and v is not None)}
         if return_value_only:
             dic = {k: v.value if isinstance(v, PositionAttribute) else v for k, v in dic.items()}
+
+        # remove all that start with _
+        dic = {k: v for k, v in dic.items() if not k.startswith('_')}
+
         return dic
 
     def to_series(self, prefix=''):
@@ -79,6 +83,9 @@ class Position:
 
     def to_df(self, prefix=''):
         return self.to_series(prefix=prefix).to_frame().T
+
+    def is_empty(self):
+        return len(self.to_dict(return_value_only=True, include_none=False)) == 0
 
     def exists(self, doc):
         """
@@ -325,6 +332,9 @@ class Amendment:
         doc_level_mod = False # whether the text has been modified at the doc level rather than at the matched element level
         new_text = None
 
+        if self.position.is_empty():
+            warnings.warn(f"Position is empty. Applying amendment at doc level.")
+
         # apply amendment
         if self.type == 'new':
 
@@ -340,6 +350,7 @@ class Amendment:
 
             # TODO handle paragraphs (also check how they occur in amendment tables)
             #   by getting start and end is from article_elements
+            #   for article type, check whether the article exists and amend it if it does
 
             if element_pos:
 
@@ -515,6 +526,9 @@ class Amendment:
             amm_dict.update({k: v for k, v in self.__dict__.items() if (not isinstance(v, (object)) or v is None) and k != 'position'})
         else:
             amm_dict.update({k: v for k, v in self.__dict__.items() if (not isinstance(v, (object)) and v is not None) and k != 'position'})
+
+        # remove all that start with _
+        amm_dict = {k: v for k, v in amm_dict.items() if not k.startswith('_')}
 
         return amm_dict
 
