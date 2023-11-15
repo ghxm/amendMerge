@@ -368,6 +368,20 @@ class HtmlAmendmentTableParser:
 
             new = m.group('new')
 
+            # element specific parsing
+            if element_type and element_type == 'article' and num_post:
+                # check for cases like Article 1(7a)
+                article_paragraph_m = re.search(amre.article_paragraph_indicator, text[m.end('element'):m.end()], re.IGNORECASE)
+                if article_paragraph_m:
+                    # add paragraph to position dict
+                    position_dict['paragraph'] = article_paragraph_m.group(0)
+                    # remove paragraph from num_post
+                    num_post = num_post.replace(article_paragraph_m.group(0), '')
+
+
+
+
+
             if (element_type and element_type == 'title') or \
                     (element_type and element_type in ['recital', 'citation', 'annex'] and num_pre is None and num_post is None):
                 num_pre = None
@@ -394,7 +408,7 @@ class HtmlAmendmentTableParser:
             if 'table' in text.lower():
                 position_dict['table'] = True
 
-            if new or re.search('[\s\(]new[^A-Zs-z]]', text) is not None:
+            if new or re.search('[\s\(]new[^A-Zs-z]', text) is not None:
                 position_dict['new'] = True
 
 
@@ -595,8 +609,7 @@ class HtmlAmendmentTable202305OldParser(HtmlAmendmentTableParser):
             # if we already saw an amendment in the current row, then this is probably the start of a new row
             if any([x in ['amendment', 'other', 'empty_img'] for x in [x['type'] for x in current_row]]):
                 return True
-        else:
-            return False
+        return False
 
     def _td_count(self, tr):
         return len(tr.find_all('td'))
@@ -655,12 +668,20 @@ class HtmlAmendmentTable202305OldParser(HtmlAmendmentTableParser):
         else:
             tr_text = tr.get_text(strip=True)
 
+        pos_elements = r'chapter|recital|citation|article|paragraph|point|title|annex|section|preamble'
+
+        # TODO check for amending positions (e.g. 2022_31_A-9-2022-0138_EN.html)
+        # if header_pos already in row, then this is probably an amending position if header_pos matches again
+
         if tr_text == '':
             if tr.find('img') is not None:
                 return 'empty_img'
             else:
                 return 'empty'
         elif re.search('^.{,2}\s*(Ame*nd.{,1}ment\s*.{0,2}[0-9])', tr_text.strip(), re.IGNORECASE) is not None:
+            if re.search(r'[^"\'`´“"]{,2}(' + pos_elements + r')',
+                      tr_text.lower().strip(), re.MULTILINE) is not None:
+                return 'header_pos'
             return 'header'
         elif re.search(r'(?:^.{,2}(?:Text\s*proposed\s*by)|(?:Proposed\s*text))|(?:Amendment[s]*(s\s*by\s*Parliament)*$)', tr_text.strip(), re.IGNORECASE) is not None:
             # check if it might be a single column col header (tex proposed and amendment in separate rows)
@@ -673,19 +694,35 @@ class HtmlAmendmentTable202305OldParser(HtmlAmendmentTableParser):
         elif self._get_previous() and ((self._get_previous(type='tr')['type'] == "header_justification") or (
                 self._get_previous(type='tr')['type'] == "justification" and (self._td_count(tr) > 0 and int(tr.td['colspan']) >= 2))):
             return "justification"
-        elif self._get_previous() and  (self._get_previous(type='tr')['type'] and (self._get_previous(type='tr')['type'].startswith("col_header")) or (
-                self._get_previous(type='tr')['type'] in ['header', 'header_pos']) or self._td_count(tr)>1): # EXPERIMENTAL removed and re.search(r'(^Present)|(^Text proposed)', tr_text) check
+        # first pos check
+        elif re.search(r'^[^"\'`´“"]{,2}(' + pos_elements + r')', tr_text.lower().strip(), re.MULTILINE) is not None \
+                and len(tr_text) < 50:
+            if any([r['type'] and r['type'] == 'header_pos' for r in self._get_current_row()]):
+                # count number of tds to make sure we're not matching an amendment as a position
+                if self._td_count(tr) <= 1:
+                    return 'header_amending_pos'
+            else:
+                return 'header_pos'
+
+        # continue check if not matched so far
+        if self._get_previous() and  (self._get_previous(type='tr')['type'] and (self._get_previous(type='tr')['type'].startswith("col_header")) \
+                                        or (self._get_previous(type='tr')['type'] in ['header', 'header_pos']) or self._td_count(tr)>1)  \
+                and any([r['type'] and r['type'] == 'header_pos' for r in self._get_current_row()]): # EXPERIMENTAL removed and re.search(r'(^Present)|(^Text proposed)', tr_text) check
             return "amendment"
+
+        # second pos check
         elif  self._get_previous() and (self._get_previous(type='tr')['type'] == "amendment" or self._get_previous(type='tr')['type'] == "amendment_add"):
             return "amendment_add"
-        elif re.search(r'^[^"\'`´“"]{,2}(recital|citation|article|paragraph|point|title|annex|section)', tr_text.lower().strip(), re.MULTILINE) is not None:
+        elif re.search(r'^[^"\'`´“"]{,2}(' + pos_elements + r')', tr_text.lower().strip(), re.MULTILINE) is not None:
+            if any([r['type'] and r['type'] == 'header_pos' for r in self._get_current_row()]):
+                return 'header_amending_pos'
             return 'header_pos'
         elif  self._get_previous() and ((self._get_previous(type='tr')['type'] == "header_pos") or (self._get_previous(type='tr')['type'] == "amm_raw")):
             return "other"
         else:
-            warnings.warn('Could not determine type of tr: ' + tr_text)
+            warnings.warn('Could not determine type of tr (defaulting to amendment): ' + tr_text)
 
-            return None
+            return 'amendment'
 
 
 

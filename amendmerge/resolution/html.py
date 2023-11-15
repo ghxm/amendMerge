@@ -342,7 +342,10 @@ class HtmlResolution202305(HtmlResolution):
                 trs = [table.find_all('tr', recursive=True) for table in tables]
 
                 # also get elements in between tables in correct position
+
                 for i, table in enumerate(tables):
+                    insert_pos = 0
+
                     if i == len(tables) - 1:
                         break
                     for tag in table.find_next_siblings():
@@ -350,7 +353,8 @@ class HtmlResolution202305(HtmlResolution):
                             break
                         else:
                             # insert it at the beginning of the next table
-                            trs[i + 1].insert(0, tag)
+                            trs[i + 1].insert(insert_pos, tag)
+                            insert_pos += 1
 
                 # flatten list but don't include dupliate trs
                 #trs = list(OrderedDict.fromkeys([tr for sublist in trs for tr in sublist]))

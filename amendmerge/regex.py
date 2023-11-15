@@ -47,9 +47,11 @@ ordinals_tens = r'\b(?:twen|thir|for|fif|six|seven|eigh|nine)tieth\b'
 # Updated ordinals_compounds to capture "twenty-first" etc.
 ordinals_compounds = r'\b(?:' + '|'.join(tens) + r')tieth[- ]?(?:' + '|'.join(base_numbers[1:10]) + r')\b|\b(?:' + '|'.join(tens) + r')ty[- ](?:first|second|third|fourth|fifth|sixth|seventh|eighth|ninth)\b'
 
+article_paragraph_indicator = '\(\s*[0-9]+[a-zA-Z]*\s*\)'
+
 position_numbers = {
     'roman': r'\b(?:(?-i:[IVXLCDM])|([IVXLCDM]){3,6})\b',
-    'arabic': r'\-*\d+(\.\d+)?(?:[a-zA-Z]*\s*[a-z]{0,2}){0,1}(?=[^a-z]|$)',
+    'arabic': r'\-*\d+(\.\d+)?(?:[a-zA-Z]*\s*[a-z]{0,2}){0,1}(?:\(?\s*[0-9]+[a-zA-Z]*\s*\)?)*(?=[^a-z]|$)',
     'word': f'{written_numbers}|{written_tens}|\\b(?:' + '|'.join(tens) + r')[- ]?ty[- ]?(?:' + '|'.join(
         base_numbers[1:10]) + r')\b',
     'word_ordinal': f'{ordinals_base}|{ordinals_teens}|{ordinals_tens}|{ordinals_compounds}',
@@ -70,6 +72,9 @@ numbers_pre = '(?P<num_pre>' + position_numbers['word_ordinal'] + ')*\s*'
 for element in position_elements:
     if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent', 'part']:
         numbers_post = '(?P<num_post>\(?\s*[a-zA-Z]\s+[a-zA-Z]\s*\)?|\(?' + position_numbers['all_w_letters_post'] + r'\)?)'
+    elif element in ['article']:
+        # account for cases like Article 1(7a)
+        numbers_post = '(?P<num_post>' + position_numbers['all_post'] + '(?:\(?\s*[0-9]+[a-zA-Z]*\s*\)?))*'
     else:
         numbers_post = '(?P<num_post>' + position_numbers['all_post'] + ')*'
 
