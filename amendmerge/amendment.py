@@ -7,7 +7,7 @@ from typing import Union, Optional, Dict
 from amendmerge.utils import to_numeric, clean_html_text
 import textdistance
 from fuzzysearch import find_near_matches
-from eucy.utils import find_containing_spans
+from eucy.utils import find_containing_spans, get_element_text
 
 
 class PositionAttribute:
@@ -348,10 +348,7 @@ class Amendment:
                 element_type = 'article'
                 element_pos = pos_dict['article']
 
-            # TODO handle paragraphs (also check how they occur in amendment tables)
-            #   by getting start and end is from article_elements
-            #   for article type, check whether the article exists and amend it if it does
-
+            # handle new paragraphs
             if element_pos:
 
                 if isinstance(element_pos, str):
@@ -370,7 +367,7 @@ class Amendment:
                     add_pos = 'end'
 
                 doc._.add_element(self.text,
-                                      position = add_pos,
+                                      position = add_pos - 1 if isinstance(add_pos, int) and add_pos>0 else add_pos,
                                       element_type = element_type)
 
 
