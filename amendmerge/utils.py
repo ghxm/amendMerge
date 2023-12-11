@@ -7,6 +7,55 @@ from collections import OrderedDict
 from word2number import w2n
 import difflib
 
+def remove_new_element_spans (spans):
+    return [s for s in spans if not is_new_element_span(s)]
+
+def is_new_element_span (span):
+    return (span.has_extension('new_element') and span._.new_element)
+
+def remove_new_article_element_spans (article_elements):
+
+    old_article_elements = {
+        'pars': [],
+        'subpars': [],
+        'points': [],
+        'indents': [],
+    }
+
+    for par_i, par in enumerate(article_elements['pars']):
+        if is_new_element_span(par):
+            continue
+        else:
+            old_article_elements['pars'].append(par)
+            old_article_elements['subpars'].append([])
+            old_article_elements['points'].append([])
+            old_article_elements['indents'].append([])
+
+        for subpar_i, subpar in enumerate(article_elements['subpars'][par_i]):
+            if is_new_element_span(subpar):
+                continue
+            else:
+                old_article_elements['subpars'][par_i].append(subpar)
+                old_article_elements['points'][par_i].append([])
+                old_article_elements['indents'][par_i].append([])
+
+
+
+            for point_i, point in enumerate(article_elements['points'][par_i][subpar_i]):
+                if is_new_element_span(point):
+                    continue
+                else:
+                    old_article_elements['points'][par_i][subpar_i].append(point)
+
+            for indent_i, indent in enumerate(article_elements['indents'][par_i][subpar_i]):
+                if is_new_element_span(indent):
+                    continue
+                else:
+                    old_article_elements['indents'][par_i][subpar_i].append(indent)
+
+    return old_article_elements
+
+
 def clean_html_text(text):
 
     if not isinstance(text, str):

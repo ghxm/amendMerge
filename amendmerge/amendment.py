@@ -4,10 +4,10 @@ from dataclasses import dataclass, field, InitVar, Field
 import pandas as pd
 import warnings
 from typing import Union, Optional, Dict
-from amendmerge.utils import to_numeric, clean_html_text
+from amendmerge.utils import to_numeric, clean_html_text, remove_new_element_spans, remove_new_article_element_spans
 import textdistance
 from fuzzysearch import find_near_matches
-from eucy.utils import find_containing_spans, get_element_text
+from eucy.utils import find_containing_spans, get_element_text, letter_to_int
 
 
 class PositionAttribute:
@@ -18,6 +18,30 @@ class PositionAttribute:
         # set kwargs as attributes
         for key, value in kwargs.items():
             setattr(self, key, value)
+
+    def __int__(self):
+
+        try:
+            return int(self.value)
+        except:
+            try:
+                # look for integers in string
+                m = re.search(r'\d+', self.value)
+
+                if m:
+                    return int(m.group(0))
+
+                # look for letters in string
+                m = re.search(r'[a-z]+', self.value)
+
+                if m:
+                    return letter_to_int(m.group(0))
+
+                raise ValueError(f"Could not convert {self.value} to int")
+
+
+            except:
+                raise ValueError(f"Could not convert {self.value} to int")
 
 
 
@@ -64,13 +88,29 @@ class Position:
         else:
             super().__setattr__(name, value)
 
-    def to_dict(self, return_value_only = True, include_none = False):
+
+    def to_dict(self, return_value_only = True, include_none = False, convert_to_int = True):
+
+        if convert_to_int and not return_value_only:
+            warnings.warn("convert_to_int is True but return_value_only is False. Setting convert_to_int to False.")
+            convert_to_int = False
+
         if include_none:
             dic = {k: v for k, v in self.__dict__.items() if isinstance(v, (PositionAttribute, bool)) or v is None}
         else:
             dic = {k: v for k, v in self.__dict__.items() if isinstance(v, (PositionAttribute, bool)) and (isinstance(v, PositionAttribute) and v.value is not None) or (isinstance(v, bool) and v is not None)}
         if return_value_only:
-            dic = {k: v.value if isinstance(v, PositionAttribute) else v for k, v in dic.items()}
+            if not convert_to_int:
+                dic = {k: v.value if isinstance(v, PositionAttribute) else v for k, v in dic.items()}
+            else:
+                for k, v in dic.items():
+                    if isinstance(v, PositionAttribute):
+                        try:
+                            dic[k] = int(v)
+                        except:
+                            dic[k] = v.value
+                    else:
+                        dic[k] = v
 
         # remove all that start with _
         dic = {k: v for k, v in dic.items() if not k.startswith('_')}
@@ -108,7 +148,7 @@ class Position:
         else:
             return False
 
-    def match(self, doc):
+    def match(self, doc, include_new_elements=False):
         """
         Match the position to the corresponding element in the doc
 
@@ -116,6 +156,8 @@ class Position:
         ----------
         doc : spacy.tokens.Doc
             The doc to be matched to
+        include_new_elements : bool, optional
+            Whether to include new elements, by default False (returns the original document elements in their original position)
 
         Returns
         -------
@@ -137,55 +179,70 @@ class Position:
         if 'annex' in pos_dict or 'title' in pos_dict:
             raise NotImplementedError(f"Matching of annexes and titles not implemented yet.")
 
-        if 'citation' in pos_dict:
-            return doc.spans['citations'][pos_dict['citation']-1]
-        elif 'recital' in pos_dict:
-            return doc.spans['recitals'][pos_dict['recital']-1]
-        elif 'article' in pos_dict:
-            article_idx = pos_dict.get('article', -1)-1
-            paragraph_idx = pos_dict.get('paragraph', 1)-1  # Default to first paragraph
-            subparagraph_idx = pos_dict.get('subparagraph', 1)-1  # Default to first subparagraph
-            indent_idx = pos_dict.get('indent', -1)-1
-            point_idx = pos_dict.get('point', -1)-1
+        if include_new_elements:
 
-            try:
-                article = doc.spans['articles'][article_idx]
-                elements = doc._.article_elements[article_idx]
-            except IndexError:
-                return None
+            if 'citation' in pos_dict:
+                return doc.spans['citations'][pos_dict['citation']-1]
+            elif 'recital' in pos_dict:
+                return doc.spans['recitals'][pos_dict['recital']-1]
+            elif 'article' in pos_dict:
+                if not any(k in pos_dict for k in ['paragraph', 'subparagraph', 'indent', 'point']):
+                    return doc.spans['articles'][pos_dict['article']-1]
+                else:
+                    raise NotImplementedError(f"Matching of article elements including modified elements not implemented yet.")
 
-            if all(k not in pos_dict for k in ['paragraph', 'subparagraph', 'indent', 'point']):
-                return article
+        else:
 
-            paragraph = elements['pars'][paragraph_idx] if 0 <= paragraph_idx < len(elements['pars']) else None
+            if 'citation' in pos_dict:
+                return remove_new_element_spans(doc.spans['citations'])[pos_dict['citation'] - 1]
+            elif 'recital' in pos_dict:
+                return remove_new_element_spans(doc.spans['recitals'])[pos_dict['recital'] - 1]
 
-            # TODO always return subparagraph even if only paragraph is specified?
-            if 'subparagraph' in pos_dict:
-                subparagraph = elements['subpars'][paragraph_idx][
-                    subparagraph_idx] if paragraph and 0 <= subparagraph_idx < len(
-                    elements['subpars'][paragraph_idx]) else None
-            else:
-                subparagraph = None
+            elif 'article' in pos_dict:
+                article_idx = pos_dict.get('article', -1)-1
+                paragraph_idx = pos_dict.get('paragraph', 1)-1  # Default to first paragraph
+                subparagraph_idx = pos_dict.get('subparagraph', 1)-1  # Default to first subparagraph
+                indent_idx = pos_dict.get('indent', -1)-1
+                point_idx = pos_dict.get('point', -1)-1
 
-            if 0 <= indent_idx:
                 try:
-                    if subparagraph:
-                        return elements['indents'][paragraph_idx][subparagraph_idx][indent_idx]
-                    else:
-                        return elements['indents'][paragraph_idx][0][indent_idx]
+                    article = doc.spans['articles'][article_idx]
+                    elements = remove_new_article_element_spans(doc._.article_elements[article_idx])
                 except IndexError:
-                    pass
+                    return None
 
-            if 0 <= point_idx:
-                try:
-                    if subparagraph:
-                        return elements['points'][paragraph_idx][subparagraph_idx][point_idx]
-                    else:
-                        return elements['points'][paragraph_idx][0][point_idx]
-                except IndexError:
-                    pass
+                if all(k not in pos_dict for k in ['paragraph', 'subparagraph', 'indent', 'point']):
+                    return article
 
-            return subparagraph or paragraph or article
+                paragraph = elements['pars'][paragraph_idx] if 0 <= paragraph_idx < len(elements['pars']) else None
+
+                # TODO always return subparagraph even if only paragraph is specified?
+                if 'subparagraph' in pos_dict:
+                    subparagraph = elements['subpars'][paragraph_idx][
+                        subparagraph_idx] if paragraph and 0 <= subparagraph_idx < len(
+                        elements['subpars'][paragraph_idx]) else None
+                else:
+                    subparagraph = None
+
+                if 0 <= indent_idx:
+                    try:
+                        if subparagraph:
+                            return elements['indents'][paragraph_idx][subparagraph_idx][indent_idx]
+                        else:
+                            return elements['indents'][paragraph_idx][0][indent_idx]
+                    except IndexError:
+                        pass
+
+                if 0 <= point_idx:
+                    try:
+                        if subparagraph:
+                            return elements['points'][paragraph_idx][subparagraph_idx][point_idx]
+                        else:
+                            return elements['points'][paragraph_idx][0][point_idx]
+                    except IndexError:
+                        pass
+
+                return subparagraph or paragraph or article
 
         raise NotImplementedError(f"Matching of position {self.to_dict()} not implemented yet.")
 
@@ -345,11 +402,70 @@ class Amendment:
                 element_type = 'recital'
                 element_pos = pos_dict['recital']
             elif 'article' in pos_dict:
-                element_type = 'article'
-                element_pos = pos_dict['article']
+                if 'paragraph' in pos_dict:
+                    element_type = 'article_element'
+                else:
+                    element_type = 'article'
+                    element_pos = pos_dict['article']
 
-            # handle new paragraphs
-            if element_pos:
+            if element_type == 'article_element':
+                # handle article elements
+
+                # loop through pos dict and try to get element position
+                for k, element_pos in pos_dict.items():
+                    if k not in ['article', 'paragraph', 'subparagraph', 'indent', 'point']:
+                        continue
+                    parsed_pos = None
+                    if isinstance(element_pos, str):
+                        try:
+                            # try to extract a number from the string
+                            m = re.search(r'\d+', element_pos)
+
+                            if m:
+                                parsed_pos = int(m.group(0))
+                        except:
+                            pass
+
+                        if parsed_pos is None:
+                            try:
+                                # try to extract a number from the string
+                                m = re.search(r'[a-z]+', element_pos)
+
+                                if m:
+                                    parsed_pos = letter_to_int(m.group(0))
+                            except:
+                                pass
+
+                        if parsed_pos is None:
+                            parsed_pos = 'end'
+
+
+                    elif isinstance(element_pos, int):
+                        parsed_pos = element_pos
+                    else:
+                        parsed_pos = 'end'
+
+                    if isinstance(parsed_pos, int):
+                        parsed_pos = parsed_pos - 1
+
+                        if parsed_pos < 0:
+                            parsed_pos = 0
+
+                    pos_dict[k] = parsed_pos
+
+
+                doc._.add_article_element(self.text,
+                                          **{k: v for k, v in pos_dict.items() if k in ['article', 'paragraph', 'subparagraph', 'indent', 'point']},
+                                          add_ws = True,
+                                          auto_position = True
+                                          )
+
+                applied = True
+
+
+
+            elif element_pos:
+                # handle non-article elements
 
                 if isinstance(element_pos, str):
 
@@ -359,6 +475,8 @@ class Amendment:
 
                         if m:
                             add_pos = int(m.group(0))
+                        else:
+                            add_pos = 'end'
                     except:
                         add_pos = 'end'
                 elif isinstance(element_pos, int):
@@ -469,6 +587,9 @@ class Amendment:
                     matched_poss = find_containing_spans(doc, fm.start, fm.end, include_article_elements=False) # TODO handle paragraphs
 
                     if len(matched_poss) > 0:
+
+                        # TODO implement normal matched pod routine if pos was matched
+
                         # if there has been a pos match
                         matched_pos = matched_poss[0]
 
@@ -511,13 +632,13 @@ class Amendment:
             raise Exception(f"Could not apply amendment {str(self.to_dict())} to doc (missing implementation or existing text not present in doc).")
 
 
-    def to_dict(self, return_value_only = True, include_none = False, include_position = True):
+    def to_dict(self, return_value_only = True, include_none = False, include_position = True, convert_to_int = True):
         # NOTE return_value_only only for future compatibility (possible expansion of Amendent to hold original and processed values similar to PositionAttribute)
 
         amm_dict = {}
 
         if include_position:
-            amm_dict = self.position.to_dict(return_value_only = return_value_only, include_none = include_none)
+            amm_dict = self.position.to_dict(return_value_only = return_value_only, include_none = include_none, convert_to_int = convert_to_int)
 
         if include_none:
             amm_dict.update({k: v for k, v in self.__dict__.items() if (not isinstance(v, (object)) or v is None) and k != 'position'})
@@ -529,8 +650,8 @@ class Amendment:
 
         return amm_dict
 
-    def to_series(self):
-        return pd.Series(self.to_dict(return_value_only=True, include_none=False))
+    def to_series(self, convert_to_int = True):
+        return pd.Series(self.to_dict(return_value_only=True, include_none=False, convert_to_int=convert_to_int))
 
     def to_df(self):
         return self.to_series().to_frame().T
