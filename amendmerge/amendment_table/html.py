@@ -378,8 +378,11 @@ class HtmlAmendmentTableParser:
                     # remove paragraph from num_post
                     num_post = num_post.replace(article_paragraph_m.group(0), '')
 
-
-
+                # check for points (TODO could this also be indents?)
+                if 'paragraph' in position_dict and m.group('num_post_post'):
+                    num_post_post = m.group('num_post_post').strip()
+                    if len(num_post_post) > 0:
+                        position_dict['point'] = num_post_post
 
 
             if (element_type and element_type == 'title') or \

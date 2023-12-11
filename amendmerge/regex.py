@@ -72,13 +72,16 @@ numbers_pre = '(?P<num_pre>' + position_numbers['word_ordinal'] + ')*\s*'
 for element in position_elements:
     if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent', 'part']:
         numbers_post = '(?P<num_post>\(?\s*[a-zA-Z]\s+[a-zA-Z]\s*\)?|\(?' + position_numbers['all_w_letters_post'] + r'\)?)'
+        numbers_post_post = ''
     elif element in ['article']:
         # account for cases like Article 1(7a)
         numbers_post = '(?P<num_post>' + position_numbers['all_post'] + '(?:\(?\s*[0-9]+[a-zA-Z]*\s*\)?))*'
+        numbers_post_post = '(?P<num_post_post>[\s\(]+\s*[0-9a-zA-Z]{1,2}\s*[\s\)]+)*'
     else:
         numbers_post = '(?P<num_post>' + position_numbers['all_post'] + ')*'
+        numbers_post_post = ''
 
-    position_elements_numbers[element] = numbers_pre + position_elements[element] +'\s*-*?\s*' + r'((?:' +  numbers_post + r'(?:\s*,\s*|\s+and\s+)?)+)*' +  '(?P<new>\s*.{,3}\s*\(*new\)*)*'
+    position_elements_numbers[element] = numbers_pre + position_elements[element] +'\s*-*?\s*' + r'((?:' +  numbers_post + r'(?:\s*,\s*|\s+and\s+)?)+)*\s*' + numbers_post_post +  '(?P<new>\s*.{,3}\s*\(*new\)*)*'
 
 
 
