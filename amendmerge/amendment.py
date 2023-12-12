@@ -663,6 +663,13 @@ class AmendmentList(list):
             self._type_check(item)
         super().__init__(initial_data)
 
+
+    def __getitem__(self, index):
+        result = super().__getitem__(index)
+        if isinstance(index, slice):
+            return AmendmentList(result)
+        return result
+
     def _type_check(self, item):
         if not isinstance(item, Amendment):
             raise TypeError("Item must be of type Amendment")
