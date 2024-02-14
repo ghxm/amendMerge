@@ -65,7 +65,7 @@ class Position:
     table: Optional[Union[int, str, bool]] = None
     row: Optional[Union[int, str]] = field(default=None, metadata={"descriptor": PositionAttribute})
     new: Optional[bool] = field(default=None, metadata={"doc": "Whether the position is new (i.e. not in the original document)"})
-    amended_position: Optional['Position'] = field(default=None, metadata={"doc": "The position in the amended document"})
+    amended_position: Optional[Union[bool, 'Position']] = field(default=None, metadata={"doc": "The position in the amended document"})
     extra_args: InitVar[Optional[Dict]] = field(default=None)
 
 
@@ -352,7 +352,7 @@ class Amendment:
     def determine_type(self):
         if self.text is None or ((len(self.text)<20 and 'delete' in self.text.lower())):
             self.type = 'delete'
-        elif self.existing_text is None or (self.existing_text and len(self.existing_text.strip())<2) or (self.position and self.position.new):
+        elif self.existing_text is None or (self.existing_text and len(self.existing_text.strip())<2) or (self.position and self.position.new and self.position.amended_position is None):
             self.type = 'new'
         else:
             self.type = 'replace'

@@ -264,7 +264,7 @@ class HtmlAmendmentTableParser:
                     if i > 0 and td_text == '':
                         continue
 
-                    if position_dict.get('new', False):
+                    if position_dict.get('new', False) and not amended_act_position_found:
                         new_text += '\n' + td_text
                     else:
                         if j_inner == 1:
@@ -314,8 +314,9 @@ class HtmlAmendmentTableParser:
         # Other rows
         # other_trs = [tr for tr in row if tr['type'] in ['other', None]]
 
-        # clean new and existing text
 
+        if amended_act_position_found:
+            position_dict['amended_position'] = True
 
         position = Position(**position_dict)
         amendment = Amendment(position = position, **amendment_dict)
