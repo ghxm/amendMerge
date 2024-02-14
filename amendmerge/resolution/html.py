@@ -55,7 +55,7 @@ class HtmlResolution(Resolution, Html):
             self.amendment_type = 'reject_com_proposal'
         elif re.search('rejects\s*the\s*Council\s*', text, re.MULTILINE|re.IGNORECASE) is not None:
             self.amendment_type = 'reject_cou_position'
-        elif re.search('(?:taking[\s]*over[\s]*the[\s]*Commission[\s]*proposal)|(?:approves\s*the\s*commission\s*proposal;)|(the\s*proposal\s*is\s*approved)', self.text, re.MULTILINE|re.IGNORECASE) is not None:
+        elif re.search('(?:taking[\s]*over[\s]*the[\s]*Commission[\s]*proposal)|(?:approves\s*the\s*commission\s*proposal;)|(the\s*proposal\s*is\s*approved)|(makes\s*no\s*substantive\s*changes\s*to\s*the\s*.*(act|proposal))', self.text, re.MULTILINE|re.IGNORECASE) is not None:
             if re.search('proposal\s*as\s*adapted', text, re.MULTILINE|re.IGNORECASE) is not None:
                 self.amendment_type = 'taking_over_com_proposal_adapted'
             else:
