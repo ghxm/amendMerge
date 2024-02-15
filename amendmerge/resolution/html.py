@@ -55,7 +55,7 @@ class HtmlResolution(Resolution, Html):
             self.amendment_type = 'reject_com_proposal'
         elif re.search('rejects\s*the\s*Council\s*', text, re.MULTILINE|re.IGNORECASE) is not None:
             self.amendment_type = 'reject_cou_position'
-        elif re.search('(?:taking[\s]*over[\s]*the[\s]*Commission[\s]*proposal)|(?:approves\s*the\s*commission\s*proposal;)|(the\s*proposal\s*is\s*approved)|(makes\s*no\s*substantive\s*changes\s*to\s*the\s*.*(act|proposal))', self.text, re.MULTILINE|re.IGNORECASE) is not None:
+        elif re.search('(?:taking[\s]*over[\s]*the[\s]*Commission[\s]*proposal)|(?:approves\s*the\s*commission\s*proposal)(;|\s*as\s*adapted)', self.text, re.MULTILINE|re.IGNORECASE) is not None:
             if re.search('proposal\s*as\s*adapted', text, re.MULTILINE|re.IGNORECASE) is not None:
                 self.amendment_type = 'taking_over_com_proposal_adapted'
             else:
@@ -320,10 +320,31 @@ class HtmlResolution202305(HtmlResolution):
         else:
             res_text_tags = resolution_start.find_next_sibling('div').findAll(recursive=False)[res_text_tag_num:]
 
-        self.amended_text_bs = BeautifulSoup('<div>'+ "".join([str(t) for t in res_text_tags]) + '</div>', html_parser()).find('div')
+        amended_text_html = '<div>'
+
+        done_at_found = False
+        after_done_at_counter = 0
+
+        # iterate over tags and add them to amended_text_html until done_at is found (this is done because in some cases the next section is not clearly marked)
+        for tag in res_text_tags:
+            if re.search('^\s*.{0,1}done\s*at', tag.get_text().strip(), re.IGNORECASE) is not None:
+                done_at_found = True
+                amended_text_html += str(tag)
+            else:
+                amended_text_html += str(tag)
+
+                # adds two more tags after done_at is found
+                if done_at_found:
+                    after_done_at_counter += 1
+                    if after_done_at_counter == 2:
+                        break
+
+        amended_text_html += '</div>'
+
+        self.amended_text_bs = BeautifulSoup(amended_text_html, html_parser()).find('div')
 
         # return text
-        self.amended_text = clean_html_text('\n'.join([tag.get_text(separator=' ') for tag in res_text_tags]))
+        self.amended_text = clean_html_text('\n'.join([tag.get_text(separator=' ') for tag in self.amended_text_bs.findAll(recursive=False)]))
 
 
     def find_amendment_table(self):
