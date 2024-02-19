@@ -343,7 +343,11 @@ class Amendment:
         dist_meth = getattr(textdistance, method)
 
         if self.type == 'delete':
-            return dist_meth(qval=qval).distance(self.existing_text, '')
+            if self.existing_text is None:
+                warnings.warn("Existing text is None. Returning 0.")
+                return 0
+            else:
+                return dist_meth(qval=qval).distance(self.existing_text, '')
         elif self.type == 'new':
             return dist_meth(qval=qval).distance('', self.text)
         else:
