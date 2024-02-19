@@ -339,6 +339,9 @@ class HtmlResolution202305(HtmlResolution):
                     if after_done_at_counter == 2:
                         break
 
+        # TODO find a solution that keeps the annex
+        warnings.warn('Possible annexes or other sections after resolution text not included in amended text.')
+
         amended_text_html += '</div>'
 
         self.amended_text_bs = BeautifulSoup(amended_text_html, html_parser()).find('div')
