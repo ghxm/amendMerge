@@ -91,7 +91,8 @@ class HtmlResolution(Resolution, Html):
                 if next_text is None:
                     next_text = "\n".join([e.get_text().strip() for e in elements_outside_resolution_text])
 
-                if re.search(r'^\s*Amendments\s*by', next_text[0:20], re.MULTILINE|re.IGNORECASE) is not None:
+                if re.search(r'^\s*Amendments\s*by', next_text[0:20], re.MULTILINE|re.IGNORECASE) is not None or \
+                        re.search(r'^\s*Amendments\s*by', next_text[0:130], re.MULTILINE|re.IGNORECASE) is not None and re.search(r'^\s*(text\s*proposed|proposed\s*text)', next_text[0:130], re.MULTILINE|re.IGNORECASE) is None:
                     self.amendment_type = 'amendments_text'
                 else:
                     self.amendment_type = 'amendments_table'
