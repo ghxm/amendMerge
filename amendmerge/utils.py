@@ -75,7 +75,11 @@ def clean_html_text(text):
 
     # if 'Proposal\s*for\s*a' in the first 1000 characters, remove everything before because that's most likely the start of the proposal
     if re.search(r'^\s*Proposal\s*for\s*a', text[:1000], flags=re.IGNORECASE):
-        text = re.sub(r'^.*?Proposal\s*for\s*a', 'Proposal for a', text, flags=re.IGNORECASE)
+        text = re.sub(r'^.*?Proposal\s*for\s*a', 'Proposal for a', text, flags=re.IGNORECASE, count=1)
+
+    # if there's a 'line' (-----) in the first 150 characters, remove everything before
+    if re.search(r'^.*?-{5,}', text[:150]):
+        text = re.sub(r'^.*?-{5,}', '', text, count=1)
 
     return text.strip()
 
