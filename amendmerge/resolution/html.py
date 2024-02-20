@@ -357,6 +357,22 @@ class HtmlResolution202305(HtmlResolution):
         # return text
         self.amended_text = clean_html_text('\n'.join([tag.get_text(separator=' ') for tag in self.amended_text_bs.findAll(recursive=False)]))
 
+        if self.amended_text.strip() == '':
+            # if no amended text found, check if we're dealing with an annex to the reoslution
+            if self.title is not None and re.search('annex\s*to\s*the\s*legislative\s*resolution', self.title, re.IGNORECASE) is not None:
+
+                if re.search(amre.amended_text_start, self.text[:100], re.IGNORECASE|re.DOTALL) is not None:
+
+                    self.amended_text_bs = BeautifulSoup('<div>' + '\n'.join([str(tag) for tag in self.text_elements]) + '</div>', html_parser()).find('div')
+                    self.amended_text = clean_html_text(self.text)
+
+                    # set the text to None to allow for later resolution sanity check merging of text and amentment source
+                    self.text = None
+                    self.text_elements = []
+
+
+
+
 
     def find_amendment_table(self):
 

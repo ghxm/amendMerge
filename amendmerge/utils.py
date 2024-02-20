@@ -68,7 +68,8 @@ def clean_html_text(text):
     text = re.sub(r'[ ]+', ' ', text)
 
     # remove 'Amendment 1' at the beginning (EP position amendments_text)
-    prefix_parts = r'^Amendment\s*1\s*', r'AMENDMENTS\s*BY\s*THE\s*EUROPEAN\s*PARLIAMENT', r'\[.{,5}?\]', r'\*+', r'to\s*the\s*Commission\s*proposal', r'-+'
+    prefix_parts = (r'^Amendment\s*1\s*', r'AMENDMENTS\s*BY\s*THE\s*EUROPEAN\s*PARLIAMENT', r'\[.{,5}?\]', r'\*+',
+                    r'to\s*the\s*Commission\s*proposal', r'-+', r'annex\s*to\s*the\s*legislative\s*resolution')
 
     for part in prefix_parts:
         text = re.sub(r'^\s*' + part, '', text, flags=re.IGNORECASE).strip()

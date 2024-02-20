@@ -93,7 +93,11 @@ def test_amendment_type_handling(filename):
         assert len(report.get_ep_draft_resolution().get_amendments()) > 0
     elif report.get_ep_draft_resolution().amendment_type == 'amendments_text':
         assert report.get_ep_draft_resolution().amended_text is not None
-        assert len(report.get_ep_draft_resolution().amended_text) > 0
+        if filename=='2004_240_A-6-2005-0410_EN.html':
+            # file has no amended text
+            assert len(report.get_ep_draft_resolution().amended_text) == 0
+        else:
+            assert len(report.get_ep_draft_resolution().amended_text) > 0
     else:
         print('Not eligible for this test')
 
