@@ -5,6 +5,7 @@ from amendmerge.utils import html_parser, bs_set, clean_html_text
 from amendmerge.resolution import Resolution
 from amendmerge.amendment_table.html import HtmlAmendmentTable
 from amendmerge import Html, DataSource
+from amendmerge import regex as amre
 import warnings
 from collections import OrderedDict
 
@@ -165,7 +166,8 @@ class HtmlResolution202305(HtmlResolution):
             for i, tag in enumerate(self.start.find_next_siblings(recursive=False)):
                 if tag.name == title_tag:
                     break
-                elif tag.get_text().strip().lower().startswith('amendment') or 'text-center' in tag.get('class', []):
+                elif tag.get_text().strip().lower().startswith('amendment') or 'text-center' in tag.get('class', []) or \
+                        'text-align:center' in tag.get('style', ''):
                     break
                 else:
                     res_text_tags.append(tag)
@@ -222,6 +224,8 @@ class HtmlResolution202305(HtmlResolution):
                          or tag.get_text().strip().lower().startswith('amendment'):
                         break
                     elif re.search('^.{,5}?(POSITION\sOF\s*THE\s*EUROPEAN|EUROPEAN\s*PARLIAMENT\s*POSITION)', tag.get_text().strip(), re.IGNORECASE) is not None:
+                        break
+                    elif re.search('^\s*.{,20}' + amre.procedure_reference, tag.get_text().strip(), re.IGNORECASE) is not None:
                         break
                     else:
                         res_text_tags.append(tag)

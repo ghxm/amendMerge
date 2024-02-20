@@ -86,3 +86,6 @@ for element in position_elements:
 
 
 legislative_resolution_title = r'draft.*resolution|legislative.*resolution|draft\s*decision|legislative\s*proposal'
+
+
+procedure_reference = r'[0-9]{4}\/[0-9]+[A-Z]{0,1}\([A-Z]{2,4}\)'
