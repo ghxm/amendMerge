@@ -221,6 +221,8 @@ class HtmlResolution202305(HtmlResolution):
                          or hasattr(tag, 'class') and 'table-responsive' in tag.get('class', []) \
                          or tag.get_text().strip().lower().startswith('amendment'):
                         break
+                    elif re.search('^.{,5}?(POSITION\sOF\s*THE\s*EUROPEAN|EUROPEAN\s*PARLIAMENT\s*POSITION)', tag.get_text().strip(), re.IGNORECASE) is not None:
+                        break
                     else:
                         res_text_tags.append(tag)
 
@@ -353,6 +355,19 @@ class HtmlResolution202305(HtmlResolution):
 
     def find_amendment_table(self):
 
+        def start_of_new_resolution(tag):
+
+            resolution_header_texts = [
+                'explanatory\s*statement',
+                'opinion'
+            ]
+
+            if re.search(r'^\s*.{,5}?(?:'+'|'.join(resolution_header_texts)+')', tag.get_text().strip().lower(), re.IGNORECASE) is not None:
+                return True
+            else:
+                return False
+
+
         # Find table
         bs = copy.copy(self.source)
 
@@ -390,6 +405,20 @@ class HtmlResolution202305(HtmlResolution):
                 trs = [tr for tr in trs if not tr.find('tr')] # keep only lowest level trs
 
                 trs = bs_set(trs)
+
+                trs_cleaned = []
+
+                # make sure we're capturing the end of the table
+                for tr in trs:
+                    # check if tr is actually a tr
+                    if tr.name == 'tr':
+                        trs_cleaned.append(tr)
+                    elif start_of_new_resolution(tr):
+                        break
+                    else:
+                        trs_cleaned.append(tr)
+
+                trs = trs_cleaned
 
                 amendment_table = BeautifulSoup('<table id = "thetable" class="202305-old">' + '\n'.join([str(tr) if tr.name=='tr' else '<tr>' + str(tr) + '</tr>' for tr in trs ]) + '</table>', html_parser()).find('table', {'id': 'thetable'})
 
