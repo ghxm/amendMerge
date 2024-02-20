@@ -140,6 +140,11 @@ position_texts_dicts = [
         'article': 3,
         'paragraph': '(1)'
         }),
+    ("Chapter III a (new)",
+     {
+        'chapter': 'III a',
+        'new': True
+        })
 ]
 
 
