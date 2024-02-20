@@ -696,7 +696,7 @@ class HtmlAmendmentTable202305OldParser(HtmlAmendmentTableParser):
         elif re.search(r'Justification', tr_text) is not None:
             return "header_justification"
         elif self._get_previous() and ((self._get_previous(type='tr')['type'] == "header_justification") or (
-                self._get_previous(type='tr')['type'] == "justification" and (self._td_count(tr) > 0 and int(tr.td['colspan']) >= 2))):
+                self._get_previous(type='tr')['type'] == "justification" and (self._td_count(tr) > 0 and int(tr.td.get('colspan', 1)) >= 2))):
             return "justification"
         # first pos check
         elif re.search(r'^[^"\'`´“"]{,2}(' + pos_elements + r')', tr_text.lower().strip(), re.MULTILINE) is not None \
