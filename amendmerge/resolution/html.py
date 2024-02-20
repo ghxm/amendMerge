@@ -327,6 +327,7 @@ class HtmlResolution202305(HtmlResolution):
         else:
             res_text_tags = resolution_start.find_next_sibling('div').findAll(recursive=False)[res_text_tag_num:]
 
+
         amended_text_html = '<div>'
 
         done_at_found = False

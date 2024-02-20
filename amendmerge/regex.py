@@ -89,3 +89,5 @@ legislative_resolution_title = r'draft.*resolution|legislative.*resolution|draft
 
 
 procedure_reference = r'[0-9]{4}\/[0-9]+[A-Z]{0,1}\([A-Z]{2,4}\)'
+
+resolution_amendemnts_start = 'amendment\s*[0-9]|position\s*of\s*\the\s*european|european\s*parliament\s*position'

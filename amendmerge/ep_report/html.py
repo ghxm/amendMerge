@@ -7,7 +7,7 @@ import warnings
 
 from amendmerge.resolution.html import HtmlResolution
 from amendmerge.utils import html_parser
-from amendmerge import Html, regex as regam
+from amendmerge import Html, regex as amre
 
 
 
@@ -62,12 +62,12 @@ class HtmlEpReport202305(HtmlEpReportSubFormat):
             #     possibly extend to other resolutions
 
 
-            resolution_indices = [i for i, title in enumerate(titles) if re.search(regam.legislative_resolution_title, title, re.IGNORECASE) is not None]
+            resolution_indices = [i for i, title in enumerate(titles) if re.search(amre.legislative_resolution_title, title, re.IGNORECASE) is not None]
 
             # # check resolution matches
             # re_resolution = re.compile('legislative\s*resolution|draft\s*decision', re.IGNORECASE)
             #
-            # # sometimes amendment tables haveir own title
+            # # sometimes amendment tables have their own title
             # re_legislative_prop = re.compile('legislative\s*proposal', re.IGNORECASE)
             #
             # resolution_indices = [i for i, title in enumerate(titles) if re_resolution.search(title) is not None]
@@ -119,6 +119,16 @@ class HtmlEpReport202305(HtmlEpReportSubFormat):
                     title_tag = 'h2'
 
                 if title is not None:
+
+                    if i > 0:
+                        # check if there is content above the title that may belong to the previous title
+                        if title.previous_sibling is not None:
+                            above_title = [str(tag) for tag in title.previous_siblings if tag.name is not None]
+                            if len(above_title) > 0:
+                                # reverse the list, join it to a string and add it to the previous content
+                                contents_strings[i-1] = contents_strings[i-1] + ''.join(reversed(above_title))
+
+
                     contents_strings[i] += str(title)
                     # find the next h2 as the end of content and get all content in between
                     for tag in title.find_next_siblings():
@@ -127,6 +137,13 @@ class HtmlEpReport202305(HtmlEpReportSubFormat):
                             i = i + 1
                         else:
                             contents_strings[i] = contents_strings[i] + str(tag)
+                else:
+                    # might be a misconstructed html report where the amendemnts are in a separate container
+                    # check for amendment indicators in the first 100 characters of the content
+                    if re.search(amre.resolution_amendemnts_start, content.get_text().lower().strip()[:100], re.IGNORECASE) is not None:
+                        # add to previous content
+                        if i > 0:
+                            contents_strings[i-1] = contents_strings[i-1] + str(content)
 
                 contents_strings.append('')
                 i = i + 1
@@ -141,7 +158,7 @@ class HtmlEpReport202305(HtmlEpReportSubFormat):
                     try:
                         res_title = BeautifulSoup(contents_string, html_parser()).find('h2').get_text('\n')
                         if res_title is not None:
-                            if re.search(regam.legislative_resolution_title, str(res_title), re.IGNORECASE) is not None:
+                            if re.search(amre.legislative_resolution_title, str(res_title), re.IGNORECASE) is not None:
                                 contents_strings_filtered.append(contents_string)
                     except:
                         warnings.warn("Could not parse title of possible resolution, skipping.")

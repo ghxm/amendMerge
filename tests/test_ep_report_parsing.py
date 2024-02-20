@@ -14,6 +14,10 @@ def test_resolution_amendment_type(ep_report, ep_reports_results, request):
 
     assert ep_report.get_ep_draft_resolution().amendment_type == result['report_type'].values[0]
 
+    if ep_report.get_ep_draft_resolution().amendment_type == 'amendments_text':
+        assert ep_report.get_ep_draft_resolution().amended_text is not None
+        assert len(ep_report.get_ep_draft_resolution().amended_text) > 0
+
 
 def test_resolution_amendment_num(ep_report, ep_reports_results, request):
 
