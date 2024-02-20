@@ -51,6 +51,7 @@ class Position:
     Class for positions in a document
     """
     title: Optional[Union[int, str]] = field(default=None, metadata={"descriptor": PositionAttribute})
+    chapter: Optional[Union[int, str]] = field(default=None, metadata={"descriptor": PositionAttribute})
     recital: Optional[Union[int, str]] = field(default=None, metadata={"descriptor": PositionAttribute})
     citation: Optional[Union[int, str]] = field(default=None, metadata={"descriptor": PositionAttribute})
     article: Optional[Union[int, str]] = field(default=None, metadata={"descriptor": PositionAttribute})

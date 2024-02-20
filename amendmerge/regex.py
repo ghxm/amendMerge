@@ -27,6 +27,7 @@ position_elements = {
     'annex': r'(?P<element>[Aa][nNnNeExX]{4}[es]*)',
     'part': r'(?P<element>[Pp]art[s]*)',
     'row': r'(?P<element>[Rr]ow[s]*)',
+    'chapter': r'(?P<element>[Cc][Hh][Aa][Pp][Tt][Ee][Rr][s]*)'
     #'annex_position': r'(?P<element>point|paragraph)',
 }
 
@@ -73,7 +74,7 @@ for element in position_elements:
     if element in ['paragraph', 'subparagraph', 'point', 'subpoint', 'indent', 'part']:
         numbers_post = '(?P<num_post>\(?\s*[a-zA-Z]\s+[a-zA-Z]\s*\)?|\(?' + position_numbers['all_w_letters_post'] + r'\)?)'
         numbers_post_post = ''
-    elif element in ['article']:
+    elif element in ['article', 'chapter']:
         # account for cases like Article 1(7a)
         numbers_post = '(?P<num_post>' + position_numbers['all_post'] + '(?:\(?\s*[0-9]+[a-zA-Z]*\s*\)?))*'
         numbers_post_post = '(?P<num_post_post>[\s\(]+\s*[0-9a-zA-Z]{1,2}\s*[\s\)]+)*'
