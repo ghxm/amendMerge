@@ -46,7 +46,7 @@ class HtmlResolution(Resolution, Html):
         if not hasattr(self, 'text') or self.text is None:
             self.find_text()
 
-        text = self.text[:1800]
+        text = self.text[:2350]
 
         self.amendment_type = None
 
