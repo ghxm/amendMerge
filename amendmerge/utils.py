@@ -84,6 +84,17 @@ def clean_html_text(text):
 
     return text.strip()
 
+def preprocess_text_edit_distance(text, remove_punctuation = True, remove_numbers = False):
+
+    text = clean_html_text(text)
+
+    if remove_punctuation:
+        text = re.sub(r'[^\w\s]', ' ', text)
+
+    if remove_numbers:
+        text = re.sub(r'\d', ' ', text)
+
+    return text
 
 def is_number_word(s):
     try:

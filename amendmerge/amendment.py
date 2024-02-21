@@ -4,7 +4,7 @@ from dataclasses import dataclass, field, InitVar, Field
 import pandas as pd
 import warnings
 from typing import Union, Optional, Dict
-from amendmerge.utils import to_numeric, clean_html_text, remove_new_element_spans, remove_new_article_element_spans
+from amendmerge.utils import to_numeric, clean_html_text, remove_new_element_spans, remove_new_article_element_spans, preprocess_text_edit_distance
 import textdistance
 from fuzzysearch import find_near_matches
 from eucy.utils import find_containing_spans, get_element_text, letter_to_int
@@ -321,7 +321,7 @@ class Amendment:
         if key != 'type' and all([hasattr(self, attr) for attr in ['text', 'existing_text', 'position']]):
             self.determine_type() # re-determine type
 
-    def edit_distance(self, method = 'DamerauLevenshtein', qval = None):
+    def edit_distance(self, method = 'DamerauLevenshtein', qval = None, remove_punctuation = False, remove_numbers=False, **kwargs):
         """
         Calculate the edit distance between the existing text and the amendment text
 
@@ -348,11 +348,18 @@ class Amendment:
                 warnings.warn("Existing text is None. Returning 0.")
                 return 0
             else:
-                return dist_meth(qval=qval).distance(self.existing_text, '')
+                return dist_meth(qval=qval, **kwargs).distance(self.existing_text, '')
         elif self.type == 'new':
-            return dist_meth(qval=qval).distance('', self.text)
+            return dist_meth(qval=qval, **kwargs).distance('', preprocess_text_edit_distance(self.text,
+                                                                                   remove_punctuation=remove_punctuation,
+                                                                                   remove_numbers=remove_numbers))
         else:
-            return dist_meth(qval=qval).distance(self.existing_text, self.text)
+            return dist_meth(qval=qval, **kwargs).distance(preprocess_text_edit_distance(self.existing_text,
+                                                                               remove_punctuation=remove_punctuation,
+                                                                               remove_numbers=remove_numbers),
+                                                 preprocess_text_edit_distance(self.text,
+                                                                               remove_punctuation=remove_punctuation,
+                                                                               remove_numbers=remove_numbers))
 
     def determine_type(self):
         if self.text is None or ((len(self.text)<20 and 'delete' in self.text.lower())):
@@ -709,7 +716,7 @@ class AmendmentList(list):
     def to_df(self):
         return pd.DataFrame.from_records([amendment.to_dict() for amendment in self])
 
-    def edit_distance(self, method = 'DamerauLevenshtein', qval = None):
-        return sum([amendment.edit_distance(method = method, qval = qval) for amendment in self])
+    def edit_distance(self, method = 'DamerauLevenshtein', qval = None,  remove_punctuation = False, remove_numbers=False, **kwargs):
+        return sum([amendment.edit_distance(method = method, qval = qval, remove_punctuation = False, remove_numbers=False, **kwargs) for amendment in self])
 
 
