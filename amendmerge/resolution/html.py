@@ -359,7 +359,7 @@ class HtmlResolution202305(HtmlResolution):
 
         if self.amended_text.strip() == '':
             # if no amended text found, check if we're dealing with an annex to the reoslution
-            if self.title is not None and re.search('annex\s*to\s*the\s*legislative\s*resolution', self.title, re.IGNORECASE) is not None:
+            if self.title is not None and re.search('annex', self.title, re.IGNORECASE) is not None:
 
                 if re.search(amre.amended_text_start, self.text[:100], re.IGNORECASE|re.DOTALL) is not None:
 
