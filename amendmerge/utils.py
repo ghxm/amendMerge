@@ -84,7 +84,7 @@ def clean_html_text(text):
 
     return text.strip()
 
-def preprocess_text_edit_distance(text, remove_punctuation = True, remove_numbers = False):
+def preprocess_text_edit_distance(text, remove_punctuation = True, remove_numbers = False, lowercase = True):
 
     text = clean_html_text(text)
 
@@ -93,6 +93,9 @@ def preprocess_text_edit_distance(text, remove_punctuation = True, remove_number
 
     if remove_numbers:
         text = re.sub(r'\d', ' ', text)
+
+    if lowercase:
+        text = text.lower()
 
     return text
 
