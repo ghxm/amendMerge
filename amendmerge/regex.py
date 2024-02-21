@@ -92,4 +92,4 @@ procedure_reference = r'[0-9]{4}\/[0-9]+[A-Z]{0,1}\([A-Z]{2,4}\)'
 
 resolution_amendemnts_start = 'amendment\s*[0-9]|position\s*of\s*\the\s*european|european\s*parliament\s*position'
 
-amended_text_start = 'proposal\s*for\a*|(directive|regulation|decision).{0,25}?of\s*the\s*'
+amended_text_start = '(?<!on\sthe\s)proposal\s*for\a*|(directive|regulation|decision).{0,25}?of\s*the\s*'

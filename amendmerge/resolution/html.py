@@ -223,9 +223,13 @@ class HtmlResolution202305(HtmlResolution):
                          or hasattr(tag, 'class') and 'table-responsive' in tag.get('class', []) \
                          or tag.get_text().strip().lower().startswith('amendment'):
                         break
-                    elif re.search('^.{,5}?(POSITION\sOF\s*THE\s*EUROPEAN|EUROPEAN\s*PARLIAMENT\s*POSITION)', tag.get_text().strip(), re.IGNORECASE) is not None:
+                    elif re.search('^.{,5}?(' + amre.resolution_amendemnts_start + ')', tag.get_text().strip(), re.IGNORECASE) is not None:
                         break
                     elif re.search('^\s*.{,20}' + amre.procedure_reference, tag.get_text().strip(), re.IGNORECASE) is not None:
+                        break
+                    elif re.search('^\s*.{,3}?(' + amre.amended_text_start + ')', tag.get_text().strip(), re.IGNORECASE) is not None:
+                        break
+                    elif 'text-center' in tag.get('class', []) or 'text-align:center' in tag.get('style', ''):
                         break
                     else:
                         res_text_tags.append(tag)
