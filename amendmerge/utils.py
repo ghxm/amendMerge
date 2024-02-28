@@ -6,6 +6,15 @@ import re
 from collections import OrderedDict
 from word2number import w2n
 import difflib
+from textdistance.algorithms.base import Base
+
+class CountDifference(Base):
+
+    def __call__(self, seq1, seq2):
+        s1, s2 = self._get_sequences(seq1, seq2)
+
+        return len(s2) - len(s1)
+
 
 def remove_new_element_spans (spans):
     return [s for s in spans if not is_new_element_span(s)]

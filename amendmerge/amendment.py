@@ -4,7 +4,8 @@ from dataclasses import dataclass, field, InitVar, Field
 import pandas as pd
 import warnings
 from typing import Union, Optional, Dict
-from amendmerge.utils import to_numeric, clean_html_text, remove_new_element_spans, remove_new_article_element_spans, preprocess_text_edit_distance
+from amendmerge.utils import to_numeric, clean_html_text, remove_new_element_spans, remove_new_article_element_spans, \
+    preprocess_text_edit_distance, CountDifference
 import textdistance
 from fuzzysearch import find_near_matches
 from eucy.utils import find_containing_spans, get_element_text, letter_to_int
@@ -44,7 +45,6 @@ class PositionAttribute:
                 raise ValueError(f"Could not convert {self.value} to int")
 
 
-
 @dataclass
 class Position:
     """
@@ -65,19 +65,20 @@ class Position:
     section: Optional[Union[int, str]] = field(default=None, metadata={"descriptor": PositionAttribute})
     table: Optional[Union[int, str, bool]] = None
     row: Optional[Union[int, str]] = field(default=None, metadata={"descriptor": PositionAttribute})
-    new: Optional[bool] = field(default=None, metadata={"doc": "Whether the position is new (i.e. not in the original document)"})
-    amended_position: Optional[Union[bool, 'Position']] = field(default=None, metadata={"doc": "The position in the amended document"})
+    new: Optional[bool] = field(default=None,
+                                metadata={"doc": "Whether the position is new (i.e. not in the original document)"})
+    amended_position: Optional[Union[bool, 'Position']] = field(default=None, metadata={
+        "doc": "The position in the amended document"})
     extra_args: InitVar[Optional[Dict]] = field(default=None)
 
-
-    def __post_init__(self,  extra_args: Optional[Dict]):
+    def __post_init__(self, extra_args: Optional[Dict]):
 
         if extra_args:
             for key, value in extra_args.items():
                 setattr(self, key, value)
 
     def __setattr__(self, name, value):
-        #print(f"Setting attribute {name} to {value}")
+        # print(f"Setting attribute {name} to {value}")
         field_info: Field = self.__dataclass_fields__.get(name)
         descriptor_class = field_info.metadata.get("descriptor") if field_info else None
         if descriptor_class and value is not None:
@@ -89,8 +90,7 @@ class Position:
         else:
             super().__setattr__(name, value)
 
-
-    def to_dict(self, return_value_only = True, include_none = False, convert_to_int = True):
+    def to_dict(self, return_value_only=True, include_none=False, convert_to_int=True):
 
         if convert_to_int and not return_value_only:
             warnings.warn("convert_to_int is True but return_value_only is False. Setting convert_to_int to False.")
@@ -99,7 +99,9 @@ class Position:
         if include_none:
             dic = {k: v for k, v in self.__dict__.items() if isinstance(v, (PositionAttribute, bool)) or v is None}
         else:
-            dic = {k: v for k, v in self.__dict__.items() if isinstance(v, (PositionAttribute, bool)) and (isinstance(v, PositionAttribute) and v.value is not None) or (isinstance(v, bool) and v is not None)}
+            dic = {k: v for k, v in self.__dict__.items() if isinstance(v, (PositionAttribute, bool)) and (
+                        isinstance(v, PositionAttribute) and v.value is not None) or (
+                               isinstance(v, bool) and v is not None)}
         if return_value_only:
             if not convert_to_int:
                 dic = {k: v.value if isinstance(v, PositionAttribute) else v for k, v in dic.items()}
@@ -120,7 +122,6 @@ class Position:
 
     def to_series(self, prefix=''):
         return pd.Series(self.to_dict(return_value_only=True, include_none=False)).add_prefix(prefix=prefix)
-
 
     def to_df(self, prefix=''):
         return self.to_series(prefix=prefix).to_frame().T
@@ -172,7 +173,7 @@ class Position:
         if not is_eucy_doc(doc):
             raise TypeError("doc must be a euCy doc")
 
-        pos_dict = self.to_dict(return_value_only = True, include_none = False)
+        pos_dict = self.to_dict(return_value_only=True, include_none=False)
 
         # TODO handle title citations
         # TODO handle annexes
@@ -183,14 +184,15 @@ class Position:
         if include_new_elements:
 
             if 'citation' in pos_dict:
-                return doc.spans['citations'][pos_dict['citation']-1]
+                return doc.spans['citations'][pos_dict['citation'] - 1]
             elif 'recital' in pos_dict:
-                return doc.spans['recitals'][pos_dict['recital']-1]
+                return doc.spans['recitals'][pos_dict['recital'] - 1]
             elif 'article' in pos_dict:
                 if not any(k in pos_dict for k in ['paragraph', 'subparagraph', 'indent', 'point']):
-                    return doc.spans['articles'][pos_dict['article']-1]
+                    return doc.spans['articles'][pos_dict['article'] - 1]
                 else:
-                    raise NotImplementedError(f"Matching of article elements including modified elements not implemented yet.")
+                    raise NotImplementedError(
+                        f"Matching of article elements including modified elements not implemented yet.")
 
         else:
 
@@ -200,11 +202,11 @@ class Position:
                 return remove_new_element_spans(doc.spans['recitals'])[pos_dict['recital'] - 1]
 
             elif 'article' in pos_dict:
-                article_idx = pos_dict.get('article', -1)-1
-                paragraph_idx = pos_dict.get('paragraph', 1)-1  # Default to first paragraph
-                subparagraph_idx = pos_dict.get('subparagraph', 1)-1  # Default to first subparagraph
-                indent_idx = pos_dict.get('indent', -1)-1
-                point_idx = pos_dict.get('point', -1)-1
+                article_idx = pos_dict.get('article', -1) - 1
+                paragraph_idx = pos_dict.get('paragraph', 1) - 1  # Default to first paragraph
+                subparagraph_idx = pos_dict.get('subparagraph', 1) - 1  # Default to first subparagraph
+                indent_idx = pos_dict.get('indent', -1) - 1
+                point_idx = pos_dict.get('point', -1) - 1
 
                 try:
                     article = doc.spans['articles'][article_idx]
@@ -248,24 +250,19 @@ class Position:
         raise NotImplementedError(f"Matching of position {self.to_dict()} not implemented yet.")
 
 
-
-
-
-
 class Amendment:
-
     """
     Class for amendments
     """
 
     def __init__(self,
-                 text = None,
-                 existing_text = None,
+                 text=None,
+                 existing_text=None,
                  position=None,
-                 num = None,
-                 type = None,
-                 justification = None,
-                 amm_raw = None,
+                 num=None,
+                 type=None,
+                 justification=None,
+                 amm_raw=None,
                  **kwargs):
 
         """
@@ -319,9 +316,10 @@ class Amendment:
         super().__setattr__(key, value)
 
         if key != 'type' and all([hasattr(self, attr) for attr in ['text', 'existing_text', 'position']]):
-            self.determine_type() # re-determine type
+            self.determine_type()  # re-determine type
 
-    def edit_distance(self, method = 'DamerauLevenshtein', qval = None, remove_punctuation = False, remove_numbers=False, lowercase=True, **kwargs):
+    def edit_distance(self, method='DamerauLevenshtein', qval=None, remove_punctuation=False, remove_numbers=False,
+                      lowercase=True, **kwargs):
         """
         Calculate the edit distance between the existing text and the amendment text
 
@@ -339,9 +337,12 @@ class Amendment:
 
         """
 
-        import textdistance
+        if method=='CountDifference':
+            dist_meth = CountDifference
+        else:
+            import textdistance
 
-        dist_meth = getattr(textdistance, method)
+            dist_meth = getattr(textdistance, method)
 
         if self.type == 'delete':
             if self.existing_text is None:
@@ -349,33 +350,34 @@ class Amendment:
                 return 0
             else:
                 return dist_meth(qval=qval, **kwargs).distance(preprocess_text_edit_distance(self.existing_text,
-                                                                                   remove_punctuation=remove_punctuation,
-                                                                                   remove_numbers=remove_numbers,
-                                                                                   lowercase=lowercase), '')
+                                                                                             remove_punctuation=remove_punctuation,
+                                                                                             remove_numbers=remove_numbers,
+                                                                                             lowercase=lowercase), '')
         elif self.type == 'new':
             return dist_meth(qval=qval, **kwargs).distance('', preprocess_text_edit_distance(self.text,
-                                                                                   remove_punctuation=remove_punctuation,
-                                                                                   remove_numbers=remove_numbers,
-                                                                                   lowercase=lowercase))
+                                                                                             remove_punctuation=remove_punctuation,
+                                                                                             remove_numbers=remove_numbers,
+                                                                                             lowercase=lowercase))
         else:
             return dist_meth(qval=qval, **kwargs).distance(preprocess_text_edit_distance(self.existing_text,
-                                                                               remove_punctuation=remove_punctuation,
-                                                                               remove_numbers=remove_numbers,
-                                                                               lowercase=lowercase),
-                                                 preprocess_text_edit_distance(self.text,
-                                                                               remove_punctuation=remove_punctuation,
-                                                                               remove_numbers=remove_numbers,
-                                                                               lowercase=lowercase))
+                                                                                         remove_punctuation=remove_punctuation,
+                                                                                         remove_numbers=remove_numbers,
+                                                                                         lowercase=lowercase),
+                                                           preprocess_text_edit_distance(self.text,
+                                                                                         remove_punctuation=remove_punctuation,
+                                                                                         remove_numbers=remove_numbers,
+                                                                                         lowercase=lowercase))
 
     def determine_type(self):
-        if self.text is None or ((len(self.text)<20 and 'delete' in self.text.lower())):
+        if self.text is None or ((len(self.text) < 20 and 'delete' in self.text.lower())):
             self.type = 'delete'
-        elif self.existing_text is None or (self.existing_text and len(self.existing_text.strip())<2) or (self.position and self.position.new and self.position.amended_position is None):
+        elif self.existing_text is None or (self.existing_text and len(self.existing_text.strip()) < 2) or (
+                self.position and self.position.new and self.position.amended_position is None):
             self.type = 'new'
         else:
             self.type = 'replace'
 
-    def apply(self, doc, modify = False, text_match_fallback = True, eu_wrapper=None):
+    def apply(self, doc, modify=False, text_match_fallback=True, eu_wrapper=None):
         """
         Apply the amendment to a spacy doc
 
@@ -404,7 +406,7 @@ class Amendment:
             raise NotImplementedError(f"Matching of annexes and titles not implemented yet.")
 
         applied = False
-        doc_level_mod = False # whether the text has been modified at the doc level rather than at the matched element level
+        doc_level_mod = False  # whether the text has been modified at the doc level rather than at the matched element level
         new_text = None
 
         if self.position.is_empty():
@@ -471,11 +473,11 @@ class Amendment:
 
                     pos_dict[k] = parsed_pos
 
-
                 doc._.add_article_element(self.text,
-                                          **{k: v for k, v in pos_dict.items() if k in ['article', 'paragraph', 'subparagraph', 'indent', 'point']},
-                                          add_ws = True,
-                                          auto_position = True
+                                          **{k: v for k, v in pos_dict.items() if
+                                             k in ['article', 'paragraph', 'subparagraph', 'indent', 'point']},
+                                          add_ws=True,
+                                          auto_position=True
                                           )
 
                 applied = True
@@ -503,9 +505,8 @@ class Amendment:
                     add_pos = 'end'
 
                 doc._.add_element(self.text,
-                                      position = add_pos - 1 if isinstance(add_pos, int) and add_pos>0 else add_pos,
-                                      element_type = element_type)
-
+                                  position=add_pos - 1 if isinstance(add_pos, int) and add_pos > 0 else add_pos,
+                                  element_type=element_type)
 
                 # check the position and identify the new part
                 applied = True
@@ -518,7 +519,6 @@ class Amendment:
                 matched_pos = self.position.match(doc)
             except:
                 matched_pos = None
-
 
             if matched_pos:
 
@@ -533,11 +533,12 @@ class Amendment:
 
                     if matched_pos_text_simplified == existing_text_simplified:
                         new_text = self.text
-                    elif abs(len(existing_text_simplified)-len(matched_pos_text_simplified)) < 8:
+                    elif abs(len(existing_text_simplified) - len(matched_pos_text_simplified)) < 8:
                         # existing_text and matched_pos.text are most likely the same but with some minor differences
                         # so we try to replace the existing text with the amendment text completely
                         new_text = self.text
-                    elif textdistance.damerau_levenshtein.normalized_distance(existing_text_simplified, matched_pos_text_simplified) < 0.1:
+                    elif textdistance.damerau_levenshtein.normalized_distance(existing_text_simplified,
+                                                                              matched_pos_text_simplified) < 0.1:
                         # existing_text and matched_pos.text are most likely the same but with some minor differences
                         # so we replace the existing text with the amendment text completely
                         new_text = self.text
@@ -583,10 +584,9 @@ class Amendment:
                                 # replace existing_text with amendment text
                                 new_text = matched_pos.text[:start] + self.text + matched_pos.text[end:]
 
-
             if not applied and not new_text and text_match_fallback:
 
-                max_l_dist = int(len(self.existing_text.strip())*0.02)
+                max_l_dist = int(len(self.existing_text.strip()) * 0.02)
 
                 if max_l_dist < 8:
                     max_l_dist = 8
@@ -602,7 +602,8 @@ class Amendment:
                     fm = fm[0]
 
                     # try to match fm to span / position
-                    matched_poss = find_containing_spans(doc, fm.start, fm.end, include_article_elements=False) # TODO handle paragraphs
+                    matched_poss = find_containing_spans(doc, fm.start, fm.end,
+                                                         include_article_elements=False)  # TODO handle paragraphs
 
                     if len(matched_poss) > 0:
 
@@ -632,8 +633,8 @@ class Amendment:
             if new_text:
                 if doc_level_mod:
                     doc._.replace_text(new_text,
-                                        keep_ws=True,
-                                        deletion_threshold=None)
+                                       keep_ws=True,
+                                       deletion_threshold=None)
                     applied = True
 
                 else:
@@ -647,32 +648,36 @@ class Amendment:
                 eumodify.modify_doc(doc, eu_wrapper=eu_wrapper)
             return None
         else:
-            raise Exception(f"Could not apply amendment {str(self.to_dict())} to doc (missing implementation or existing text not present in doc).")
+            raise Exception(
+                f"Could not apply amendment {str(self.to_dict())} to doc (missing implementation or existing text not present in doc).")
 
-
-    def to_dict(self, return_value_only = True, include_none = False, include_position = True, convert_to_int = True):
+    def to_dict(self, return_value_only=True, include_none=False, include_position=True, convert_to_int=True):
         # NOTE return_value_only only for future compatibility (possible expansion of Amendent to hold original and processed values similar to PositionAttribute)
 
         amm_dict = {}
 
         if include_position:
-            amm_dict = self.position.to_dict(return_value_only = return_value_only, include_none = include_none, convert_to_int = convert_to_int)
+            amm_dict = self.position.to_dict(return_value_only=return_value_only, include_none=include_none,
+                                             convert_to_int=convert_to_int)
 
         if include_none:
-            amm_dict.update({k: v for k, v in self.__dict__.items() if (not isinstance(v, (object)) or v is None) and k != 'position'})
+            amm_dict.update({k: v for k, v in self.__dict__.items() if
+                             (not isinstance(v, (object)) or v is None) and k != 'position'})
         else:
-            amm_dict.update({k: v for k, v in self.__dict__.items() if (not isinstance(v, (object)) and v is not None) and k != 'position'})
+            amm_dict.update({k: v for k, v in self.__dict__.items() if
+                             (not isinstance(v, (object)) and v is not None) and k != 'position'})
 
         # remove all that start with _
         amm_dict = {k: v for k, v in amm_dict.items() if not k.startswith('_')}
 
         return amm_dict
 
-    def to_series(self, convert_to_int = True):
+    def to_series(self, convert_to_int=True):
         return pd.Series(self.to_dict(return_value_only=True, include_none=False, convert_to_int=convert_to_int))
 
     def to_df(self):
         return self.to_series().to_frame().T
+
 
 class AmendmentList(list):
     def __init__(self, initial_data):
@@ -680,7 +685,6 @@ class AmendmentList(list):
             item = self._convert_to_amendment(item)
             self._type_check(item)
         super().__init__(initial_data)
-
 
     def __getitem__(self, index):
         result = super().__getitem__(index)
@@ -722,7 +726,7 @@ class AmendmentList(list):
     def to_df(self):
         return pd.DataFrame.from_records([amendment.to_dict() for amendment in self])
 
-    def edit_distance(self, method = 'DamerauLevenshtein', qval = None,  remove_punctuation = False, remove_numbers=False, lowercase=True, **kwargs):
-        return sum([amendment.edit_distance(method = method, qval = qval, remove_punctuation = False, remove_numbers=False, lowercase=lowercase, **kwargs) for amendment in self])
-
-
+    def edit_distance(self, method='DamerauLevenshtein', qval=None, remove_punctuation=False, remove_numbers=False,
+                      lowercase=True, **kwargs):
+        return sum([amendment.edit_distance(method=method, qval=qval, remove_punctuation=False, remove_numbers=False,
+                                            lowercase=lowercase, **kwargs) for amendment in self])
