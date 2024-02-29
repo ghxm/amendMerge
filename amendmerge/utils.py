@@ -98,7 +98,9 @@ def preprocess_text_edit_distance(text, remove_punctuation = True, remove_number
     text = clean_html_text(text)
 
     if remove_punctuation:
-        text = re.sub(r'[^\w\s]', ' ', text)
+
+        # remove all .,;- and replace with space
+        text = re.sub(r'[.,;-]', ' ', text)
 
     if remove_numbers:
         text = re.sub(r'\d', ' ', text)
