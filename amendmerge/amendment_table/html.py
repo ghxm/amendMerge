@@ -206,9 +206,9 @@ class HtmlAmendmentTableParser:
             if len(tr_ps) == 0:
                 tr_ps = [pos_tr]
 
-            for pos_tr in tr_ps:
+            for pos_tr_p in tr_ps:
 
-                tr_text = pos_tr.get_text('\n', strip=True)
+                tr_text = pos_tr_p.get_text('\n', strip=True)
 
                 # cut off amendment number
                 tr_text = re.sub(r'^.{,2}\s*(Ame*nd.{,1}ment\s*.{0,2}[0-9]+)', '', tr_text, flags=re.IGNORECASE|re.MULTILINE)
