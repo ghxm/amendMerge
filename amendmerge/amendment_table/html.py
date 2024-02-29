@@ -200,23 +200,31 @@ class HtmlAmendmentTableParser:
 
         for pos_tr in header_pos_trs:
 
-            tr_text = pos_tr.get_text('\n', strip=True)
+            # split by paragraphs
+            tr_ps = pos_tr.find_all('p')
 
-            # cut off amendment number
-            tr_text = re.sub(r'^.{,2}\s*(Ame*nd.{,1}ment\s*.{0,2}[0-9]+)', '', tr_text, flags=re.IGNORECASE|re.MULTILINE)
+            if len(tr_ps) == 0:
+                tr_ps = [pos_tr]
 
-            # cut off amended acts
-            amended_act_pos_match = re.search(r'(^|-).{,2}\s*(Regulation|Directive|Decision|Recommendation).*', tr_text, re.IGNORECASE|re.MULTILINE|re.DOTALL)
+            for pos_tr in tr_ps:
 
-            # remove text after amended act
-            if amended_act_pos_match is not None:
-                tr_text = tr_text.replace(amended_act_pos_match.group(0), '')
-                amended_act_position_found = True
+                tr_text = pos_tr.get_text('\n', strip=True)
 
-            pos = self._parse_position(tr_text)
+                # cut off amendment number
+                tr_text = re.sub(r'^.{,2}\s*(Ame*nd.{,1}ment\s*.{0,2}[0-9]+)', '', tr_text, flags=re.IGNORECASE|re.MULTILINE)
 
-            if pos is not None:
-                positions.append(pos)
+                # cut off amended acts
+                amended_act_pos_match = re.search(r'(^|-).{,2}\s*(Regulation|Directive|Decision|Recommendation).*', tr_text, re.IGNORECASE|re.MULTILINE|re.DOTALL)
+
+                # remove text after amended act
+                if amended_act_pos_match is not None:
+                    tr_text = tr_text.replace(amended_act_pos_match.group(0), '')
+                    amended_act_position_found = True
+
+                pos = self._parse_position(tr_text)
+
+                if pos is not None:
+                    positions.append(pos)
 
             # check if amended act position has been found and skip the rest
             # (in case the position is split in multiple trs)
@@ -226,7 +234,13 @@ class HtmlAmendmentTableParser:
         # combine position dicts in to a single dict without overwriting
 
         for pos in positions:
-            position_dict = dict(list(position_dict.items()) + list(pos.items()))
+            # if there are any overlapping keys, this might indicate an amending position
+            keys_intersection = set(position_dict.keys()).intersection(set(pos.keys()))
+            if len(keys_intersection) > 0 and any([x in ['article', 'paragraph'] for x in keys_intersection]):
+                warnings.warn('Overlapping keys in position dicts. This might indicate an amending position.')
+                amended_act_position_found = True
+            else:
+                position_dict = dict(list(position_dict.items()) + list(pos.items()))
 
         # parse AMENDMENT
         # TODO are cases where row type is 'empty' or 'empty_img' handled correctly?
